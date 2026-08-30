@@ -1,0 +1,1991 @@
+[
+  {
+    "id": "n703w3q",
+    "author": "Cool-Walk5990",
+    "body": "worktree",
+    "score": 106,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n703w3q/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754370689.0
+  },
+  {
+    "id": "n70hnyy",
+    "author": "IndividualLimitBlue",
+    "body": "Really frustrating not to know that command earlier",
+    "score": 10,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70hnyy/",
+    "parent_id": "t1_n703w3q",
+    "created_utc": 1754378151.0
+  },
+  {
+    "id": "n70attm",
+    "author": "F3nix123",
+    "body": "This is such a game changer honestly",
+    "score": 10,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70attm/",
+    "parent_id": "t1_n703w3q",
+    "created_utc": 1754374335.0
+  },
+  {
+    "id": "n7b2zpf",
+    "author": "EishLekker",
+    "body": "Can you explain what exactly is so fantastic about it? What use cases can’t you fulfill with a simple separate clone of the repo?",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7b2zpf/",
+    "parent_id": "t1_n70attm",
+    "created_utc": 1754516169.0
+  },
+  {
+    "id": "n7bgapl",
+    "author": "F3nix123",
+    "body": "Basically, its makes it incredibly easy to have each feature branch in its own directory. I basically stopped using ‘checkout’ unless its something incredibly trivial. It lets me work multiple things in parallel. You can do the same with clone, its just s bit more work. \n\nBefore I used 3 permanent copies of the repo, and juggled branches between them but it was a nightmare sometimes to keep track.",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7bgapl/",
+    "parent_id": "t1_n7b2zpf",
+    "created_utc": 1754520368.0
+  },
+  {
+    "id": "n7bnv3f",
+    "author": "EishLekker",
+    "body": "I still don’t really see it. Making a new clone of the repo is trivial in my opinion. I could easily do it every single time I needed this.",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7bnv3f/",
+    "parent_id": "t1_n7bgapl",
+    "created_utc": 1754522868.0
+  },
+  {
+    "id": "n7ccev4",
+    "author": "mkosmo",
+    "body": "How long have you been in industry? Did you come from the days of CVS or Subversion? If so, the workflow would feel more familiar. \n\nIf you started late enough to have started with git (or even mercurial), then the standard flow you’re talking about would feel more natural. \n\nAt the end of the day, it’s just another option.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7ccev4/",
+    "parent_id": "t1_n7bnv3f",
+    "created_utc": 1754531255.0
+  },
+  {
+    "id": "n7jnll5",
+    "author": "dubious_capybara",
+    "body": "What if the repo is gigabytes in size (or has a long/complex history)?",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7jnll5/",
+    "parent_id": "t1_n7bnv3f",
+    "created_utc": 1754627308.0
+  },
+  {
+    "id": "n7jonpv",
+    "author": "EishLekker",
+    "body": "Fair point.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7jonpv/",
+    "parent_id": "t1_n7jnll5",
+    "created_utc": 1754627795.0
+  },
+  {
+    "id": "n7l765e",
+    "author": "PM_ME_FIREFLY_QUOTES",
+    "body": "Imagine having to npm install for every branch",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7l765e/",
+    "parent_id": "t1_n7jonpv",
+    "created_utc": 1754655608.0
+  },
+  {
+    "id": "n7me8n2",
+    "author": "EishLekker",
+    "body": "Another fair point. I mainly work with Java and maven, with a shared local repository.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7me8n2/",
+    "parent_id": "t1_n7l765e",
+    "created_utc": 1754668833.0
+  },
+  {
+    "id": "n7d00s1",
+    "author": "F3nix123",
+    "body": "Yeah, that applies to many things in git. For example, I have to bisect so incredibly rarely that I find it easier and quicker to use git log and do the binary search in my head than to look up the syntax for the command. If I had to do it every week, then learning the command would be a lot more valuable.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7d00s1/",
+    "parent_id": "t1_n7bnv3f",
+    "created_utc": 1754540421.0
+  },
+  {
+    "id": "n787ub0",
+    "author": "mpersico",
+    "body": "This is my life. I never use check out or switch.  Every piece of development work at its own branch. Every branch gets its own work tree.  If I need to do some other work, I just CD to where I need to go. I even have a wrapper around it all that keeps track of all the worktrees because I always put the work tree in a wt/ sub of my clone named for the branch",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n787ub0/",
+    "parent_id": "t1_n703w3q",
+    "created_utc": 1754486678.0
+  },
+  {
+    "id": "n74niq4",
+    "author": "Ieris19",
+    "body": "What for? I’ve known about it for quite a long time, but never had any real use for it",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74niq4/",
+    "parent_id": "t1_n703w3q",
+    "created_utc": 1754432809.0
+  },
+  {
+    "id": "n74si2c",
+    "author": "jtown889",
+    "body": "I use it when I need to pull someone else's branch, typically for review, avoids having to stash any work I have in progress",
+    "score": 11,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74si2c/",
+    "parent_id": "t1_n74niq4",
+    "created_utc": 1754434491.0
+  },
+  {
+    "id": "n769je7",
+    "author": "pimp-bangin",
+    "body": "I make a WIP commit before checking out other people's branches. Then I pop my WIP commit when I come back to my branch.\n\nIs worktree better? Genuine question",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n769je7/",
+    "parent_id": "t1_n74si2c",
+    "created_utc": 1754453292.0
+  },
+  {
+    "id": "n77d9gu",
+    "author": "grazbouille",
+    "body": "Worktree will just give you the new branch in a separate folder you can do anything you can with a normal checkout while keeping your other branch checked out and have them not interfere with each other at all",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n77d9gu/",
+    "parent_id": "t1_n769je7",
+    "created_utc": 1754474235.0
+  },
+  {
+    "id": "n7b3kug",
+    "author": "EishLekker",
+    "body": "I still don’t see how that is any better than a simple separate clone of the repo.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7b3kug/",
+    "parent_id": "t1_n77d9gu",
+    "created_utc": 1754516347.0
+  },
+  {
+    "id": "n7f49h8",
+    "author": "deZbrownT",
+    "body": "It’s not, folks used clone to achieve the same result, worktree just makes it bit simpler (from a command execution workflow perspective).",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7f49h8/",
+    "parent_id": "t1_n7b3kug",
+    "created_utc": 1754575158.0
+  },
+  {
+    "id": "n7aqb59",
+    "author": "CremarCatalana",
+    "body": "in our project checking out a branch could take 1-2 mins, so I prefer to leave my current working dir as it is and check out to another directory to avoid checking out my own branch again for another 1-2 mins when I’m done",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7aqb59/",
+    "parent_id": "t1_n769je7",
+    "created_utc": 1754512468.0
+  },
+  {
+    "id": "n7trxzh",
+    "author": "pimp-bangin",
+    "body": "Holy shit, 1-2 minutes to check out a branch? That is bonkers insane to me.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7trxzh/",
+    "parent_id": "t1_n7aqb59",
+    "created_utc": 1754769072.0
+  },
+  {
+    "id": "n7utzvu",
+    "author": "CremarCatalana",
+    "body": "it’s not the checking out part that takes 1-2 mins all by itself, but there is some post processing needed per branch afterwards to be able to make the project work",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7utzvu/",
+    "parent_id": "t1_n7trxzh",
+    "created_utc": 1754782470.0
+  },
+  {
+    "id": "n7b3e7l",
+    "author": "EishLekker",
+    "body": "Why not just clone the repo into a new place?",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7b3e7l/",
+    "parent_id": "t1_n74si2c",
+    "created_utc": 1754516292.0
+  },
+  {
+    "id": "n7bqbyh",
+    "author": "jtown889",
+    "body": "That is an option, but the worktree commands for add/remove/list make it a breeze to work in multiple branches without having to do a full clone.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7bqbyh/",
+    "parent_id": "t1_n7b3e7l",
+    "created_utc": 1754523679.0
+  },
+  {
+    "id": "n74wmii",
+    "author": "NoHalf9",
+    "body": "> but never had any real use for it\n\nYou absolutely do [have a real use for it](https://github.com/mhagger/git-test)!",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74wmii/",
+    "parent_id": "t1_n74niq4",
+    "created_utc": 1754435838.0
+  },
+  {
+    "id": "n76duwd",
+    "author": "Ieris19",
+    "body": "Still don’t see why I would have two branches checked out simultaneously. I wonder what people are using worktree beyond “it’s super useful”",
+    "score": -1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n76duwd/",
+    "parent_id": "t1_n74wmii",
+    "created_utc": 1754455193.0
+  },
+  {
+    "id": "n7ccmdo",
+    "author": "mkosmo",
+    "body": "Do you work in a mature shop with peer reviews or any team coding? Do you ever work on multiple features concurrently?",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7ccmdo/",
+    "parent_id": "t1_n76duwd",
+    "created_utc": 1754531328.0
+  },
+  {
+    "id": "n7dkyfa",
+    "author": "Ieris19",
+    "body": "Why wouldn’t I just change branches? Stash? Or even just a fresh clone? It’s the same thing in essence",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7dkyfa/",
+    "parent_id": "t1_n7ccmdo",
+    "created_utc": 1754551119.0
+  },
+  {
+    "id": "n7jq4b2",
+    "author": "BryonDowd",
+    "body": "git stash\n\ngit checkout reviewBranch\n\n*Do my review*\n\ngit checkout myBranch \n\ngit stash pop\n\nI guess maybe if your repo is so cumbersome that these commands aren't nearly instant, it could save you some time, but I've never had that problem in the ten years I've worked with git.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7jq4b2/",
+    "parent_id": "t1_n7ccmdo",
+    "created_utc": 1754628471.0
+  },
+  {
+    "id": "n752ov8",
+    "author": "Cool-Walk5990",
+    "body": "When I want to have multiple copies of the same repo checked out",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n752ov8/",
+    "parent_id": "t1_n74niq4",
+    "created_utc": 1754437854.0
+  },
+  {
+    "id": "n7b2swj",
+    "author": "EishLekker",
+    "body": "But you can just clone the repo one more time, with the added benefit that you can put it wherever you want.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7b2swj/",
+    "parent_id": "t1_n752ov8",
+    "created_utc": 1754516112.0
+  },
+  {
+    "id": "n7v4fm0",
+    "author": "ProtectionFar4563",
+    "body": "I never use it (was only dimly aware of it tbh).\n\n**But** if the project involves databases, local servers/services with specific domains etc., checking out a separate repo isn’t going to work well.\n\nIn that case, it seems like an interesting option, and possibly more convenient than bringing current work on a feature branch to a safe state, checking out the new branch, reviewing and testing, then restoring your last working state…",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7v4fm0/",
+    "parent_id": "t1_n7b2swj",
+    "created_utc": 1754786424.0
+  },
+  {
+    "id": "n7b364k",
+    "author": "EishLekker",
+    "body": "Can you explain what exactly is so fantastic about it? What use cases can’t you fulfill with a simple separate clone of the repo?",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7b364k/",
+    "parent_id": "t1_n703w3q",
+    "created_utc": 1754516224.0
+  },
+  {
+    "id": "n7r6lah",
+    "author": "Known_Landscape_5224",
+    "body": "What is worktree",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7r6lah/",
+    "parent_id": "t1_n703w3q",
+    "created_utc": 1754734801.0
+  },
+  {
+    "id": "n7x5weq",
+    "author": "Cool-Walk5990",
+    "body": "From the man page\n\n       Manage multiple working trees attached to the same repository.\n\n       A git repository can support multiple working trees, allowing you to check out more than one branch at a\n       time. With git worktree add a new working tree is associated with the repository, along with additional\n       metadata that differentiates that working tree from others in the same repository. The working tree,\n       along with this metadata, is called a \"worktree\".\n\n       This new worktree is called a \"linked worktree\" as opposed to the \"main worktree\" prepared by git-\n       init(1) or git-clone(1). A repository has one main worktree (if it’s not a bare repository) and zero or\n       more linked worktrees. When you are done with a linked worktree, remove it with git worktree remove.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7x5weq/",
+    "parent_id": "t1_n7r6lah",
+    "created_utc": 1754822912.0
+  },
+  {
+    "id": "n70i8c6",
+    "author": "PitrPi",
+    "body": "`--force-with-lease` allows you to force push, but only if upstream is in state that your local git expects, i. e. it will not overwrite someone else's commit. If you have to force, force with lease",
+    "score": 76,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70i8c6/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754378472.0
+  },
+  {
+    "id": "n70qi0a",
+    "author": "biggest_muzzy",
+    "body": "Just a warning - it doesn't work as I expected it to work. If you make fetch at any point, git will know about commits and will happily overwrite them.",
+    "score": 9,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70qi0a/",
+    "parent_id": "t1_n70i8c6",
+    "created_utc": 1754383244.0
+  },
+  {
+    "id": "n712tix",
+    "author": "ppww",
+    "body": "Yes, you need to use `--force-with-lease=<ref>:<oid>` to be safe.",
+    "score": 11,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n712tix/",
+    "parent_id": "t1_n70qi0a",
+    "created_utc": 1754390138.0
+  },
+  {
+    "id": "n717gdr",
+    "author": "biggest_muzzy",
+    "body": "Yes, but where will I get that original oid? :(",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n717gdr/",
+    "parent_id": "t1_n712tix",
+    "created_utc": 1754392329.0
+  },
+  {
+    "id": "n71papx",
+    "author": "botWi",
+    "body": "Jetbrains IDEs do it automatically",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71papx/",
+    "parent_id": "t1_n717gdr",
+    "created_utc": 1754399236.0
+  },
+  {
+    "id": "n72lkza",
+    "author": "ppww",
+    "body": "From the reflow entry of the last time you updated your local branch from the remote branch by merging or rebasing. That gets tedious if you do it manually so I use a script, but these days I think you can use `--force-if-includes`.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72lkza/",
+    "parent_id": "t1_n717gdr",
+    "created_utc": 1754408947.0
+  },
+  {
+    "id": "n72nc4s",
+    "author": "phord",
+    "body": "It's the tip of the commits you want to replace with your local branch.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72nc4s/",
+    "parent_id": "t1_n717gdr",
+    "created_utc": 1754409429.0
+  },
+  {
+    "id": "n72mzkj",
+    "author": "phord",
+    "body": "Very good point. Some background to clarify for others...\n\nA normal workflow should be like this: when you decide to rewrite the remote branch (to some new location that loses history), you fetch and confirm the remote changes you intend to discard. Then you push using `--force-with-lease`. If you're behind the remote because someone pushed between your fetch and your push, git will reject it.\n\nHowever, if you have some other tool that fetches into your repository automatically without your explicit command to do so, then you might run into the danger you pointed out. I think VSCode has an option to periodically fetch, and this is what makes it somewhat dangerous.\n\nETA more tips: \nWhen push replaces the remote branch head with a new one, it prints the old and new hash on the console. You can compare this replaced hash with the new one to confirm it's what you expected. If it's not what you expected, you can undo the force-push by pushing the replaced hash to the remote branch, again using the --force-with-lease switch. \n\nIf this \"undo\" push is rejected because someone else pushed something in the meantime, then you'll need to do a deeper investigation to figure out how to unwind it.",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72mzkj/",
+    "parent_id": "t1_n70qi0a",
+    "created_utc": 1754409333.0
+  },
+  {
+    "id": "n72nn50",
+    "author": "biggest_muzzy",
+    "body": "git itself recommends to enable background maintenance job, which, among other things does silent periodical fetches",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72nn50/",
+    "parent_id": "t1_n72mzkj",
+    "created_utc": 1754409514.0
+  },
+  {
+    "id": "n72qrjl",
+    "author": "phord",
+    "body": "That would be scary and disruptive to most git developers. But it's thankfully subtly different from what you described. The background maintenance operation is called `prefetch`. It doesn't perform a normal `fetch`. It only fetches objects from the remote to update your odb with the immutable remote objects. It **does not actually update any refs in your repo, not even the remote refs**.\n\nThe idea is that when you later perform a manual fetch, the operation will complete much faster since it only has to fetch a few objects (if any) and *then* update your refs.\n\n[git-maintenance Documentation](https://git-scm.com/docs/git-maintenance)",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72qrjl/",
+    "parent_id": "t1_n72nn50",
+    "created_utc": 1754410389.0
+  },
+  {
+    "id": "n72uv9u",
+    "author": "biggest_muzzy",
+    "body": "I stand corrected! I guess I never read this part of documentation after \"For each remote, a git fetch command is run\"",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72uv9u/",
+    "parent_id": "t1_n72qrjl",
+    "created_utc": 1754411549.0
+  },
+  {
+    "id": "n73u5ld",
+    "author": "ppww",
+    "body": "It updates `refs/prefetch/*` so the fetched objects are not garbage collected. It's not quite true to say it doesn't update any refs, but the important point is that it does not update anything ` refs/remotes`",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73u5ld/",
+    "parent_id": "t1_n72qrjl",
+    "created_utc": 1754423320.0
+  },
+  {
+    "id": "n72x4xm",
+    "author": "jk3us",
+    "body": "I have this aliased: `fpush = push --force-with-lease`, so I can rebase a feature branch and `git fpush` to do a \"safe\" push.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72x4xm/",
+    "parent_id": "t1_n70i8c6",
+    "created_utc": 1754412223.0
+  },
+  {
+    "id": "n74wz6e",
+    "author": "NoHalf9",
+    "body": "While using --force-with-lease alone is much better than --force, it is still error prone and you want to use both `--force-with-lease` and `--force-if-includes` in combination, so create the following alias and use that when you need to force push:\n\n    git config --global alias.forcepush \"push --force-with-lease --force-if-includes\"\n\n-----\n\nAlso, you should **always** specify the branch name when pushing, also in non-force cases, e.g. \"git push origin main\". Because sooner or later you will push the wrong branch because the current branch is different from what you assumed. It is better to never have that failure possibility by giving the branch name explicitly.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74wz6e/",
+    "parent_id": "t1_n72x4xm",
+    "created_utc": 1754435955.0
+  },
+  {
+    "id": "n7319kv",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7319kv/",
+    "parent_id": "t1_n70i8c6",
+    "created_utc": 1754413543.0
+  },
+  {
+    "id": "n73muk2",
+    "author": "[deleted]",
+    "body": "That is 100% skill issue",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73muk2/",
+    "parent_id": "t1_n7319kv",
+    "created_utc": 1754420804.0
+  },
+  {
+    "id": "n792wsz",
+    "author": "joshbranchaud",
+    "body": "I’ve used this workflow everyday for most of my career and I don’t have any issues.\n\nI guess the other option is to create a newly named feature branch and PR anytime I amend a commit or reorganize things. I’m gonna stick with the former approach tho.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n792wsz/",
+    "parent_id": "t1_n7319kv",
+    "created_utc": 1754495779.0
+  },
+  {
+    "id": "n7jry7q",
+    "author": "BryonDowd",
+    "body": "The other other option is to just never clean up your history, which is what I think most people do because they never actually use the history. Two out of three of the programs I've been on, I was the only one who ever used git log.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7jry7q/",
+    "parent_id": "t1_n792wsz",
+    "created_utc": 1754629327.0
+  },
+  {
+    "id": "n73xovy",
+    "author": "EagleCoder",
+    "body": ">one git guru guy [...] same guy who heavily advocated for rebase and force push\n\nSounds like job security to me. /s",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73xovy/",
+    "parent_id": "t1_n7319kv",
+    "created_utc": 1754424498.0
+  },
+  {
+    "id": "n704ok0",
+    "author": "This-Willingness-762",
+    "body": "[rerere](https://git-scm.com/book/en/v2/Git-Tools-Rerere)",
+    "score": 54,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n704ok0/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754371090.0
+  },
+  {
+    "id": "n758r0p",
+    "author": "djphazer",
+    "body": "Haven't tried this yet. Sounds like it could make my life easier.\n\nI'm wondering if `jj` utilizes this at all?",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n758r0p/",
+    "parent_id": "t1_n704ok0",
+    "created_utc": 1754439911.0
+  },
+  {
+    "id": "n70t5e6",
+    "author": "Last-Assistant-2734",
+    "body": "- interactive rebase \n- fixup \n- Reflog",
+    "score": 17,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70t5e6/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754384787.0
+  },
+  {
+    "id": "n73n8zw",
+    "author": "[deleted]",
+    "body": "Reflog is literally goated, its sad not many people know about it",
+    "score": 7,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73n8zw/",
+    "parent_id": "t1_n70t5e6",
+    "created_utc": 1754420943.0
+  },
+  {
+    "id": "n74xian",
+    "author": "NoHalf9",
+    "body": "And did you know that gitk also supports viewing the reflog when launched as `gitk --reflog`?",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74xian/",
+    "parent_id": "t1_n73n8zw",
+    "created_utc": 1754436129.0
+  },
+  {
+    "id": "n7cvsim",
+    "author": "picobio",
+    "body": "This is a game changer :o",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7cvsim/",
+    "parent_id": "t1_n74xian",
+    "created_utc": 1754538619.0
+  },
+  {
+    "id": "n7doom5",
+    "author": "DoubleAway6573",
+    "body": "I'm a little dumbass and after a lot of time using reflog I learned you can use @HEAD to refer to commits there.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7doom5/",
+    "parent_id": "t1_n73n8zw",
+    "created_utc": 1754553268.0
+  },
+  {
+    "id": "n70fok8",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 13,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70fok8/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754377030.0
+  },
+  {
+    "id": "n7e0jxr",
+    "author": "soupdiver23",
+    "body": "`error: unknown subcommand: `init'`\n\nMaybe `register` https://git-scm.com/docs/git-maintenance#Documentation/git-maintenance.txt-register",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7e0jxr/",
+    "parent_id": "t1_n70fok8",
+    "created_utc": 1754560106.0
+  },
+  {
+    "id": "n70484m",
+    "author": "TheBigGambling",
+    "body": "Bisect",
+    "score": 39,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70484m/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754370858.0
+  },
+  {
+    "id": "n7969dn",
+    "author": "autophage",
+    "body": "This is my go-to for showing off the couple times a year when we run into \"wait, when did *that* start happening?\"\n\nChef's-kiss is when you can write a test to isolate the behavior, stash it, and automate the bisect process to pop the stash, run the test, re-stash the change, and mark the bisect.",
+    "score": 8,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7969dn/",
+    "parent_id": "t1_n70484m",
+    "created_utc": 1754496721.0
+  },
+  {
+    "id": "ohh2u3y",
+    "author": "JivanP",
+    "body": "Rather than stash and pop repeatedly, you can use `git stash apply` repeatedly, or put the test script on a separate branch and keep it handy with a separate working tree; see `git worktree --help`.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/ohh2u3y/",
+    "parent_id": "t1_n7969dn",
+    "created_utc": 1776790649.0
+  },
+  {
+    "id": "n70bbe2",
+    "author": "drone-ah",
+    "body": "git commit --fixup blew my mind",
+    "score": 26,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70bbe2/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754374603.0
+  },
+  {
+    "id": "n76g554",
+    "author": "simon255",
+    "body": "What does it do?",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n76g554/",
+    "parent_id": "t1_n70bbe2",
+    "created_utc": 1754456251.0
+  },
+  {
+    "id": "n79460m",
+    "author": "joshbranchaud",
+    "body": "Forgot to exclude a log statement (or whatever) from a change that appeared a couple commits ago (on your current feature branch). Stage that change and then ‘git commit --fixup <that-older-commit-sha>’. It will create a fixup commit that is associated with that older commit (based on the commit message). Then do a rebase (‘git rebase -i main’) to have git combine the fixup with the original commit.\n\nThis is nice because then you don’t have a trail of ‘lint fix’ and ‘remove log statement’ commits.\n\nI think a lot of people like to squash an entire branch when merging because of those types of dangling commits. I avoid it by prematurity fixing up stuff in this way.",
+    "score": 7,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n79460m/",
+    "parent_id": "t1_n76g554",
+    "created_utc": 1754496130.0
+  },
+  {
+    "id": "n7k6l0t",
+    "author": "drone-ah",
+    "body": "You can also do rebase --autosquash instead of interactive rebase",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7k6l0t/",
+    "parent_id": "t1_n79460m",
+    "created_utc": 1754636963.0
+  },
+  {
+    "id": "nax6zos",
+    "author": "simon255",
+    "body": "That is nice!",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/nax6zos/",
+    "parent_id": "t1_n79460m",
+    "created_utc": 1756289513.0
+  },
+  {
+    "id": "n7a5ttr",
+    "author": "Ok-Palpitation2401",
+    "body": "Check git-absorb, it's a separate tool, but you'll love it",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7a5ttr/",
+    "parent_id": "t1_n70bbe2",
+    "created_utc": 1754506656.0
+  },
+  {
+    "id": "n7nb4j4",
+    "author": "drone-ah",
+    "body": "Thank you - looks super interesting!",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7nb4j4/",
+    "parent_id": "t1_n7a5ttr",
+    "created_utc": 1754678204.0
+  },
+  {
+    "id": "n70z8dp",
+    "author": "memebecker",
+    "body": "Git reflog, the ultimate undo tool. Have recovered lost work and helped others do too.",
+    "score": 8,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70z8dp/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754388262.0
+  },
+  {
+    "id": "n741czq",
+    "author": "LoudBoulder",
+    "body": "I think that's the simplest thing that has made me feel like a friggin god. More people should definitely know about it.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n741czq/",
+    "parent_id": "t1_n70z8dp",
+    "created_utc": 1754425674.0
+  },
+  {
+    "id": "n7juomu",
+    "author": "pemungkah",
+    "body": "reflog, add -p, and cherry-pick are gold for reconstructing a commit history.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7juomu/",
+    "parent_id": "t1_n741czq",
+    "created_utc": 1754630656.0
+  },
+  {
+    "id": "n71cr83",
+    "author": "Teleconferences",
+    "body": "You can write your own custom git commands in your `.gitconfig`. This lets you add commands that compliment your workflow\n\ne.g. I wrote one that prints out the last x branches I’ve switched to. I don’t recall my specific use case, but it’s neat nevertheless",
+    "score": 8,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71cr83/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754394631.0
+  },
+  {
+    "id": "n7d04sb",
+    "author": "stretch851",
+    "body": "I do this all the time when I’m juggling multiple branches or features. Particularly features or adventures that I had to hit pause to go fix and release something. I always alias it as “gbsort” as it’s a variance of git branch sort",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7d04sb/",
+    "parent_id": "t1_n71cr83",
+    "created_utc": 1754540470.0
+  },
+  {
+    "id": "n713vf2",
+    "author": "[deleted]",
+    "body": "I put a few of my faves on this post on my website https://markcwatson.dev/blogs/git-1.html Intermediate Git Usage",
+    "score": 14,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n713vf2/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754390663.0
+  },
+  {
+    "id": "n716e2o",
+    "author": "surveypoodle",
+    "body": "TIL about the --source flag for restore. I was previously been using git checkout branch:/path/to/file but this is more convenient.",
+    "score": 5,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n716e2o/",
+    "parent_id": "t1_n713vf2",
+    "created_utc": 1754391846.0
+  },
+  {
+    "id": "n74ztr4",
+    "author": "hey_hu",
+    "body": "Great blog post",
+    "score": 0,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74ztr4/",
+    "parent_id": "t1_n713vf2",
+    "created_utc": 1754436904.0
+  },
+  {
+    "id": "n70g10z",
+    "author": "candidpose",
+    "body": "git format-patch + git apply, came in handy when I needed to put a module on a shared library for other teams to use. For my usecase it allowed me to carry the history of a file to another repository.",
+    "score": 6,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70g10z/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754377226.0
+  },
+  {
+    "id": "n74y4l5",
+    "author": "NoHalf9",
+    "body": "Or giff + apply, e.g. `git diff HEAD somebranch | git apply -` if you want to copy some branch unconditionally without doing a merge.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74y4l5/",
+    "parent_id": "t1_n70g10z",
+    "created_utc": 1754436335.0
+  },
+  {
+    "id": "n70kh73",
+    "author": "CabinetOk4838",
+    "body": "Can anyone recommend a good online course - linkedin learning for example - on how the basics of Git works? I’ve got a fair idea, but could do with a definitive guide. My colleagues have NO clue, so it would be for the whole team.\n\nThank you!",
+    "score": 5,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70kh73/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754379760.0
+  },
+  {
+    "id": "n71l281",
+    "author": "This-Willingness-762",
+    "body": "The Missing Semester from MIT has a good lecture about it: https://missing.csail.mit.edu/2020/version-control/",
+    "score": 9,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71l281/",
+    "parent_id": "t1_n70kh73",
+    "created_utc": 1754397785.0
+  },
+  {
+    "id": "n71o013",
+    "author": "CabinetOk4838",
+    "body": "Thanks!",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71o013/",
+    "parent_id": "t1_n71l281",
+    "created_utc": 1754398799.0
+  },
+  {
+    "id": "n7doybl",
+    "author": "DoubleAway6573",
+    "body": "I just recommended this to the new jr in our team.",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7doybl/",
+    "parent_id": "t1_n71l281",
+    "created_utc": 1754553422.0
+  },
+  {
+    "id": "n816pqt",
+    "author": "This-Willingness-762",
+    "body": "Hope they found it helpful!",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n816pqt/",
+    "parent_id": "t1_n7doybl",
+    "created_utc": 1754872971.0
+  },
+  {
+    "id": "n71heso",
+    "author": "rock425",
+    "body": "https://learngitbranching.js.org/ is pretty decent.",
+    "score": 6,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71heso/",
+    "parent_id": "t1_n70kh73",
+    "created_utc": 1754396453.0
+  },
+  {
+    "id": "n71nzd0",
+    "author": "CabinetOk4838",
+    "body": "TY!",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71nzd0/",
+    "parent_id": "t1_n71heso",
+    "created_utc": 1754398792.0
+  },
+  {
+    "id": "n71u7mv",
+    "author": "paperic",
+    "body": "**Git parable** should be a mandatory read for everyone. It doesn't teach anything about how to use git, but it clearly illustrates **why** does git work the way it does.\n\n\nIt's a birds eye view of the inner piping of git, written as a story of a hypothetical programmer who's designing his own version control system.\n\n\nhttps://tom.preston-werner.com/2009/05/19/the-git-parable.html",
+    "score": 5,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71u7mv/",
+    "parent_id": "t1_n70kh73",
+    "created_utc": 1754400865.0
+  },
+  {
+    "id": "n76rwti",
+    "author": "CabinetOk4838",
+    "body": "That looks interesting…",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n76rwti/",
+    "parent_id": "t1_n71u7mv",
+    "created_utc": 1754462263.0
+  },
+  {
+    "id": "n748lyq",
+    "author": "tb5841",
+    "body": "'How Git Works' on Pluralsight is excellent.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n748lyq/",
+    "parent_id": "t1_n70kh73",
+    "created_utc": 1754427965.0
+  },
+  {
+    "id": "n76rume",
+    "author": "CabinetOk4838",
+    "body": "Thanks!",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n76rume/",
+    "parent_id": "t1_n748lyq",
+    "created_utc": 1754462229.0
+  },
+  {
+    "id": "n71i7rp",
+    "author": "elg97477",
+    "body": "1. Worktrees\n2. Stop using checkout and use switch or restore instead\n3. Stash",
+    "score": 6,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71i7rp/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754396749.0
+  },
+  {
+    "id": "n7oqll1",
+    "author": "GroverOP",
+    "body": "what do you gain by using switch instead of checkout?",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7oqll1/",
+    "parent_id": "t1_n71i7rp",
+    "created_utc": 1754694220.0
+  },
+  {
+    "id": "n7ov3k9",
+    "author": "elg97477",
+    "body": "Additional protections and a better implementation over what checkout is capable of.\n\nSwitching to a branch with git switch can only switch branches. If a branch happens to overlap with a filename, the equivalent git checkout command may not behave as expected.\n\nGit switch will check if the branch exists on the remote, but git checkout may not.\n\nTo get a detached head is an explicit operation with git switch.\n\nThere are many other improvements (and these mentioned are not necessarily the best examples). I suggest googling \"git switch vs checkout\"",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7ov3k9/",
+    "parent_id": "t1_n7oqll1",
+    "created_utc": 1754695749.0
+  },
+  {
+    "id": "n701h8p",
+    "author": "Comfortable_Dropping",
+    "body": "—rebase for me recently learned about is game changing",
+    "score": 15,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n701h8p/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754369496.0
+  },
+  {
+    "id": "n70fjfq",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 24,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70fjfq/",
+    "parent_id": "t1_n701h8p",
+    "created_utc": 1754376950.0
+  },
+  {
+    "id": "n731fix",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": -7,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n731fix/",
+    "parent_id": "t1_n70fjfq",
+    "created_utc": 1754413597.0
+  },
+  {
+    "id": "n733fbx",
+    "author": "DonskiDoDo",
+    "body": "Why not?",
+    "score": 4,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n733fbx/",
+    "parent_id": "t1_n731fix",
+    "created_utc": 1754414227.0
+  },
+  {
+    "id": "n73f8qn",
+    "author": "LordiCurious",
+    "body": "I do not share his opinion, but rewrite history can cause issues if the branch is not private anymore. So only use for local branches.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73f8qn/",
+    "parent_id": "t1_n733fbx",
+    "created_utc": 1754418100.0
+  },
+  {
+    "id": "n73lth1",
+    "author": "EquationTAKEN",
+    "body": "If your working branch is an unmerged WIP, then rewriting history for the commits exclusive to that branch, isn't a problem.\n\nIn fact, I'd recommend it. If, in your feature branch, you have made\n\n - a first commit where to introduce a feature\n - a second commit where you update some docs\n - a third commit where you fix a typo in the first commit\n\nthen I expect you to squash the third into the first before getting it merged, for cleanliness. Even if you've pushed the branch to origin.",
+    "score": 5,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73lth1/",
+    "parent_id": "t1_n73f8qn",
+    "created_utc": 1754420442.0
+  },
+  {
+    "id": "n703sdz",
+    "author": "Cool-Walk5990",
+    "body": "interactive rebase in even more awesome",
+    "score": 21,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n703sdz/",
+    "parent_id": "t1_n701h8p",
+    "created_utc": 1754370637.0
+  },
+  {
+    "id": "n70vb1d",
+    "author": "viseradius",
+    "body": "This",
+    "score": 0,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70vb1d/",
+    "parent_id": "t1_n703sdz",
+    "created_utc": 1754386056.0
+  },
+  {
+    "id": "n70wbzz",
+    "author": "RevRagnarok",
+    "body": "My \"new team member guide\" specifically tells you to auto-enable it for pulls. You can't possibly screw it up and it makes the repo history cleaner.",
+    "score": 8,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70wbzz/",
+    "parent_id": "t1_n701h8p",
+    "created_utc": 1754386648.0
+  },
+  {
+    "id": "n73f0ll",
+    "author": "LordiCurious",
+    "body": "Seems you never share a branch with a team. For solo branch dev rebase is suitable. ",
+    "score": -5,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73f0ll/",
+    "parent_id": "t1_n70wbzz",
+    "created_utc": 1754418018.0
+  },
+  {
+    "id": "n743wt3",
+    "author": "RevRagnarok",
+    "body": "Read a little closer.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n743wt3/",
+    "parent_id": "t1_n73f0ll",
+    "created_utc": 1754426481.0
+  },
+  {
+    "id": "n745uqw",
+    "author": "LordiCurious",
+    "body": "You know it is not recommended to use rebase as soon as you have pushed the branch to upstream?",
+    "score": -1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n745uqw/",
+    "parent_id": "t1_n743wt3",
+    "created_utc": 1754427093.0
+  },
+  {
+    "id": "n747fim",
+    "author": "RevRagnarok",
+    "body": "> tells you to auto-enable it \n#for pulls\n\nAs I noted elsewhere, I guess you like 2/3 of your commit messages to be \" Merge branch 'origin/develop' into 'develop' \" ?",
+    "score": 4,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n747fim/",
+    "parent_id": "t1_n745uqw",
+    "created_utc": 1754427587.0
+  },
+  {
+    "id": "n74h1f2",
+    "author": "LordiCurious",
+    "body": "The git docs tell you \"Do not rebase commits that exist outside your repository and that people may have based work on.\" - how can you ensure this if you auto rebase on every pull? You never push a work in progress branch?",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74h1f2/",
+    "parent_id": "t1_n747fim",
+    "created_utc": 1754430680.0
+  },
+  {
+    "id": "n74lnbx",
+    "author": "yawaramin",
+    "body": "This doesn't conflict with the git docs. There are only two possible scenarios here:\n\n1. `git pull --rebase origin main` while on a feature branch. Not a problem because a feature branch is not a shared branch.\n2. `git pull --rebase` while on the `main` branch. Also not a problem because you are not going to have any local commits on the `main` branch, all updates here will be solely new commits pulled from the origin repo. So there is nothing to 'merge' in this case and the pull just stacks the new commits on top of the old ones, giving you exactly the same result as the origin `main` branch.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74lnbx/",
+    "parent_id": "t1_n74h1f2",
+    "created_utc": 1754432188.0
+  },
+  {
+    "id": "n74ntwj",
+    "author": "LordiCurious",
+    "body": "\"a feature branch is not a shared branch.\" It can be a kind of, you may work as a team on a feature branch. You can say there is a single feature branch owner and he can do what ever he wants and every one else has to deal with it - but in general I would not advise rewrite history on any branch that has pushed to upstream. Also if you use a squash merge of your PR in the end you have a nice history without merge entries.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74ntwj/",
+    "parent_id": "t1_n74lnbx",
+    "created_utc": 1754432913.0
+  },
+  {
+    "id": "n766u40",
+    "author": "yawaramin",
+    "body": "Yes, obviously if you are working on a shared branch with multiple people then don't force-push and wipe out commits that were on the branch. But then I would question why a shared feature branch is being used in the first place and caution that it should not be a common occurrence, nor has it been the norm throughout my career in SWENG. Feature branches are cheap, just let people have their own branches and merge to a single main branch.\n\nAs long as this rule is followed there is no problem with rewriting branch history. Again, obviously, don't rewrite history on the main branch, that will cause issues. But have some context and understanding of what's going on and why and there won't be any issues.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n766u40/",
+    "parent_id": "t1_n74ntwj",
+    "created_utc": 1754452170.0
+  },
+  {
+    "id": "n74q0yj",
+    "author": "RevRagnarok",
+    "body": "> You never push a work in progress branch?\n\nOf course I do. And they are linear from the last remote change. Then when somebody pulls them, any changes they have _that have not been pushed_ are rebased to what I pushed.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74q0yj/",
+    "parent_id": "t1_n74h1f2",
+    "created_utc": 1754433659.0
+  },
+  {
+    "id": "n731lgf",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": -5,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n731lgf/",
+    "parent_id": "t1_n70wbzz",
+    "created_utc": 1754413650.0
+  },
+  {
+    "id": "n74414h",
+    "author": "RevRagnarok",
+    "body": "So you like 2/3 of your commit messages to be \" Merge branch 'origin/develop' into 'develop' \" ?",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74414h/",
+    "parent_id": "t1_n731lgf",
+    "created_utc": 1754426519.0
+  },
+  {
+    "id": "n70zv2z",
+    "author": "sshetty03",
+    "body": "Wrote an article some time back detailing git bisect. You can read it here ->\n\n[https://medium.com/towards-data-engineering/git-bisect-underrated-debugging-tools-in-a-developers-toolkit-c0cbc1366d9a?sk=e084720c1fa27468fe90c0c76e86d2dc](https://medium.com/towards-data-engineering/git-bisect-underrated-debugging-tools-in-a-developers-toolkit-c0cbc1366d9a?sk=e084720c1fa27468fe90c0c76e86d2dc)",
+    "score": 5,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70zv2z/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754388598.0
+  },
+  {
+    "id": "n70166k",
+    "author": "Tempus_Nemini",
+    "body": "Just for me 'stash' was such a thing.",
+    "score": 16,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70166k/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754369347.0
+  },
+  {
+    "id": "n70dpfu",
+    "author": "mascotbeaver104",
+    "body": "No one make fun of me but does anyone know a way to use your local branch name by default when using `git push -u`? Right now I re-type it every time, but I'm sure there must be a better way",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70dpfu/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754375932.0
+  },
+  {
+    "id": "n70fq2v",
+    "author": "NotSelfAware",
+    "body": "`autoSetupRemote = true` in your `$HOME/.gitconfig` prevents exactly that. It basically tells Git to automatically create a tracking relationship between your local branch and the remote branch with that name when you push for the first time.",
+    "score": 18,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70fq2v/",
+    "parent_id": "t1_n70dpfu",
+    "created_utc": 1754377055.0
+  },
+  {
+    "id": "n713zbn",
+    "author": "0bel1sk",
+    "body": "it you don’t want auto setup remote, you can use push.default=current",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n713zbn/",
+    "parent_id": "t1_n70fq2v",
+    "created_utc": 1754390716.0
+  },
+  {
+    "id": "n73ok27",
+    "author": "drsoftware",
+    "body": "What is the difference between autoSetupRemote and push.default?",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73ok27/",
+    "parent_id": "t1_n713zbn",
+    "created_utc": 1754421397.0
+  },
+  {
+    "id": "n7141i1",
+    "author": "[deleted]",
+    "body": "Awesome man thanks!",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7141i1/",
+    "parent_id": "t1_n70fq2v",
+    "created_utc": 1754390746.0
+  },
+  {
+    "id": "n7142ks",
+    "author": "exclaim_bot",
+    "body": ">Awesome man thanks!\n\nYou're welcome!",
+    "score": 0,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7142ks/",
+    "parent_id": "t1_n7141i1",
+    "created_utc": 1754390760.0
+  },
+  {
+    "id": "n73pyce",
+    "author": "drsoftware",
+    "body": "Oh, I will try this. I have been using \\`thefuck\\` to fix my git pushes, [https://github.com/nvbn/thefuck](https://github.com/nvbn/thefuck)",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73pyce/",
+    "parent_id": "t1_n70fq2v",
+    "created_utc": 1754421885.0
+  },
+  {
+    "id": "n71hzv6",
+    "author": "lifeeraser",
+    "body": "I use `git push -u origin @`",
+    "score": 5,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71hzv6/",
+    "parent_id": "t1_n70dpfu",
+    "created_utc": 1754396669.0
+  },
+  {
+    "id": "n74yyh5",
+    "author": "NoHalf9",
+    "body": "That is a bad habbit, you are much better of by explicitly specifying the thing you are pushing, because if not sooner or later you push the wrong branch because the current branch is different from what you thought it was.\n\nWith shell tab completion writing branch names should not be that much of an issue.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74yyh5/",
+    "parent_id": "t1_n70dpfu",
+    "created_utc": 1754436612.0
+  },
+  {
+    "id": "n71jf4w",
+    "author": "paperic",
+    "body": "git checkout \"master@{three days ago}\"",
+    "score": 4,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71jf4w/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754397194.0
+  },
+  {
+    "id": "n72pp7e",
+    "author": "techzoid",
+    "body": "Gitattributes filter feature",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72pp7e/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754410090.0
+  },
+  {
+    "id": "n73a9fp",
+    "author": "btshaw",
+    "body": "- if you use `git mv <filepath>` the diff will retain the history of the file (rather than deleting it in one place, creating it in another)\n- inclusions in `.gitignore` will just prevent a file from being added. If the file is already added to the project, referencing it in the `.gitignore` will do nothing. \n- if you set line ending behavior in `.gitattributes`, then you won't have issues where devs have different global default for line endings.",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73a9fp/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754416372.0
+  },
+  {
+    "id": "n755atd",
+    "author": "NeatBeluga",
+    "body": "1. especially when renaming or changing extension",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n755atd/",
+    "parent_id": "t1_n73a9fp",
+    "created_utc": 1754438728.0
+  },
+  {
+    "id": "n7a6jq4",
+    "author": "Ok-Palpitation2401",
+    "body": "Didn't see this in the comments:\n\n\n.git/info/exclude is a text file, like .gitignore but not checked into the repo. Basically your private .gitignore handy from time to time",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7a6jq4/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754506861.0
+  },
+  {
+    "id": "n77qqk1",
+    "author": "PromotionWeak3217",
+    "body": "Git notes. Google it.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n77qqk1/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754480570.0
+  },
+  {
+    "id": "n7bhewu",
+    "author": "styabzin",
+    "body": "Git stash isn’t just for one stash, you can have many and selectively name and pick them as you please \n\n- Stash your work with \ngit stash -m “your message”\n\n- See all your stashes with\ngit stash list (look for the number at the start of each line)\n\n- Apply whichever you want with \ngit stash apply stash@{number}\n\nSimple but really useful",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7bhewu/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754520743.0
+  },
+  {
+    "id": "n7bsp9y",
+    "author": "jbr",
+    "body": "Not a built in but `git absorb` is the most exciting git thing I’ve learned in a bunch of years; previously I would make a bunch of manual commits and shuffle them around in an interactive rebase prior to pushing",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7bsp9y/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754524465.0
+  },
+  {
+    "id": "n7c7dl8",
+    "author": "surveypoodle",
+    "body": "Didn't know this even existed. It looks interesting, though I don't quite understand how it decides which commit to fixup.\n\nAt present, I have an alias that does:\n\n```\ngit commit --fixup=$1\nGIT_EDITOR=true git rebase -i --autosquash $1~1\n```\n\nMy commits are usually small, so this does the job and I've not run into any scenarios where something more complex is needed.\n\n>previously I would make a bunch of manual commits and shuffle them around\n\nDoes this tool also make reordering commits easier or am I misunderstanding something about what exactly it does? The documentation is saying this does fixup and autorebase without having to specify the commit hash, and it scares me a little that it might change the wrong commit sometimes.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7c7dl8/",
+    "parent_id": "t1_n7bsp9y",
+    "created_utc": 1754529489.0
+  },
+  {
+    "id": "n702cp9",
+    "author": "martinbean",
+    "body": "People need to rebase instead of merge. I absolutely _hate_ seeing merge commits in a project’s commit history.",
+    "score": 8,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n702cp9/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754369922.0
+  },
+  {
+    "id": "n70fk1w",
+    "author": "FlipperBumperKickout",
+    "body": "Only in feature branches, to the main branch I strongly prefer merges.",
+    "score": 17,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70fk1w/",
+    "parent_id": "t1_n702cp9",
+    "created_utc": 1754376959.0
+  },
+  {
+    "id": "n71oda2",
+    "author": "kitsnet",
+    "body": "Committing to the main branch is the job of CI.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71oda2/",
+    "parent_id": "t1_n70fk1w",
+    "created_utc": 1754398924.0
+  },
+  {
+    "id": "n70yqn8",
+    "author": "Conscious_Support176",
+    "body": "Not sure if this is sarcasm.\n\nYes, you rebase in feature branches so that you’re resolving your conflicts in your branch, then you can fast forward merge into main?",
+    "score": -4,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70yqn8/",
+    "parent_id": "t1_n70fk1w",
+    "created_utc": 1754387994.0
+  },
+  {
+    "id": "n710hnu",
+    "author": "FlipperBumperKickout",
+    "body": "Firstly that strategy quickly breaks appart as you join an organization which have a significant amount of developers. Enjoy having to rebase multiple times because the main reference was updated between your last rebase, and when the test-pipeline finished running.\n\nSecondly you loose the history of main itself. Going one commit back in the history no longer return you to the state of main before the commit, but just a commit which is part of the branch you potentially want to get rid of. You can't easily revert the whole branch either since you have to figure out which things are part of the branch.",
+    "score": 8,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n710hnu/",
+    "parent_id": "t1_n70yqn8",
+    "created_utc": 1754388927.0
+  },
+  {
+    "id": "n715mim",
+    "author": "Conscious_Support176",
+    "body": "Why do you have branches with many commits that are merged separately? A commit that you merge is a unit of work that makes sense to merge and revert by itself.  \n\nIt sounds like you’re merging just to hook into a test pipeline? If you’re merging partial work just to test, better to throw those away when you’re done. \n\nWhy would you rebase onto work in progress that is not complete?\n\n\nThere can be are times where you do have multiple commits in a branch, say where the initial commits are refactoring, and you want  to to merge these quicker than the rest of the work because it impacts other ongoing work. \nIf you want to do that, fine, but then it really should be a branch  on its own, why would you complain about the git history reflecting this?",
+    "score": 0,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n715mim/",
+    "parent_id": "t1_n710hnu",
+    "created_utc": 1754391494.0
+  },
+  {
+    "id": "n717h2z",
+    "author": "FlipperBumperKickout",
+    "body": "... no, I'm talking about if multiple developers are done with their work all at once, all wanting to get their changes onto main. To have this happen only with rebase they all have to rebase on top of the latest version of main, but only the one done with the test pipeline first get to update the main reference to point at the top of his branch, the rest will have to start over.\n\nThis situation will be more and more likely the more developers you work with, and the longer the test pipeline takes to run.\n\nAs for unit of work.. lots of stuff is far easier to review if what you consider a unit of work is smaller.\n\nExample: you both refactor code by extracting it into a function and changes something inside it. If you have 2 commits, one for extracting the commit, and another for doing the changes this is easy to review. You can quickly confirm code was only moved in the first commit, and you can easily see the logical changes (and nothing else) in the second commit.\n\nIf you do both in one commit this suddenly becomes a royal pain to reveiw. (and this is a rather mild case).\n\n  \nI don't even know what you mean with your last line. I wrote nothing about rebasing onto work in progress at any point.",
+    "score": 6,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n717h2z/",
+    "parent_id": "t1_n715mim",
+    "created_utc": 1754392338.0
+  },
+  {
+    "id": "n71dwyu",
+    "author": "Conscious_Support176",
+    "body": "Obviously, refactors go into separate commits? Often enough, they should be in a separate branch…. *especially* where there are two known reasons to refactor, rather than two developers refactoring the same code and having to then resolve merge conflicts.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71dwyu/",
+    "parent_id": "t1_n717h2z",
+    "created_utc": 1754395111.0
+  },
+  {
+    "id": "n707mv0",
+    "author": "engineerFWSWHW",
+    "body": "Is this preferable? Most of the time i like seeing merge commits on project history because it helps me see when the merge happened. Sometimes i have a discussion with my teammates and we look at the git log and our discussion goes like: \n\n\"We need to look into x. Let's look at the git log and when did we branch off and when did we merge. \"\n\nEven if we look into months old commit, it helps us to localize (when things got branched out and when it merged back) and find out what are are looking for. \n\nBut if that is a good and preferred practice, I'm willing to look into it.",
+    "score": 9,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n707mv0/",
+    "parent_id": "t1_n702cp9",
+    "created_utc": 1754372627.0
+  },
+  {
+    "id": "n73c9f8",
+    "author": "Beatsu",
+    "body": "Good practice is what gives you the most benefits for your workflow. Since looking into *when* changes were made seems like a helpful tool to solve problems in your workflow, then that's probably a \"good practice\".\n\nJust note that by doing that you're choosing away from benefits like a cleaner git bisect or better understanding which branches include what commits.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73c9f8/",
+    "parent_id": "t1_n707mv0",
+    "created_utc": 1754417044.0
+  },
+  {
+    "id": "n70dwjp",
+    "author": "dmazzoni",
+    "body": "I think the problem is that a week later, when someone else on the team is trying to figure out when something broke, they might discover that before your merge, it worked - and after your merge, it broke.\n\nSo they want to know what you merged in, and why that broke it.\n\nBut the merge commit makes that very hard for them to follow. They have to study the whole history of how you branched from one state of the project, then made your feature, then when you were ready to merge a bunch of changes had to be taken into account in order to merge it back in.\n\nInstead, if you rebase before merging, then they get to see your feature branch applied on top of the tree at the point where it's actually being merged in. It makes it much easier to follow.",
+    "score": -1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70dwjp/",
+    "parent_id": "t1_n707mv0",
+    "created_utc": 1754376044.0
+  },
+  {
+    "id": "n70ffpc",
+    "author": "FlipperBumperKickout",
+    "body": "This is exactly the opposite. The merges help you first find exactly which feature introduced it. If you just rebase your entire branch on top of main you very easily end up with a linear history where most commits doesn't even build.\n\nYou can easily check out the history of the branch afterwards.",
+    "score": 10,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70ffpc/",
+    "parent_id": "t1_n70dwjp",
+    "created_utc": 1754376892.0
+  },
+  {
+    "id": "n70vx6q",
+    "author": "Conscious_Support176",
+    "body": "Obviously you don’t rebase and create broken commits. \nIt’s is not that easy to get into this state, unless your branch has broken commits to begin with, in which case, why aren’t you rebasing your branch interactively to fix that problem first?\n\nAnd what do you mean entire branch?  The entire branch is that you’re rebasing should be a feature branch, how many commits does it have? There’s meant to be a commit per unit of work. Maybe your features are too big?\n\nEdit: I should also point out that checking out the branch won’t help you find errors introduced during conflict resolution within the merge.",
+    "score": 6,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70vx6q/",
+    "parent_id": "t1_n70ffpc",
+    "created_utc": 1754386413.0
+  },
+  {
+    "id": "n70zn0h",
+    "author": "FlipperBumperKickout",
+    "body": "It is very easy to rebase to get broken commits.\n\nExample. You use an existing function in a class you don't otherwise touch. Another person renames said function accross the codebase. This will not cause any conflicts since a git conflict is when 2 branches which have touched the same file is merged together.\n\nAs for how big my branches are... depends on how many different moving parts need to be changed, and how many steps of initial refactoring I do. If it is an entirely new feature which need changes throughout multiple modules there can be quite a few.",
+    "score": 4,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70zn0h/",
+    "parent_id": "t1_n70vx6q",
+    "created_utc": 1754388479.0
+  },
+  {
+    "id": "n75013f",
+    "author": "NoHalf9",
+    "body": "> It is very easy to rebase to get broken commits.\n\nWhich is why [`git test`](https://github.com/mhagger/git-test) is a super, super useful tool to detect those and ensure quality on all commits.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n75013f/",
+    "parent_id": "t1_n70zn0h",
+    "created_utc": 1754436971.0
+  },
+  {
+    "id": "n7080ft",
+    "author": "Federal-Subject-8783",
+    "body": "I just squash commits in the feature branch before merging",
+    "score": 9,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7080ft/",
+    "parent_id": "t1_n702cp9",
+    "created_utc": 1754372828.0
+  },
+  {
+    "id": "n70x5ux",
+    "author": "Conscious_Support176",
+    "body": "Yes you should be squashing commits so that you don’t have multiple commits for the same unit of work. That applies whether you’re going to do a rebase or a merge.",
+    "score": -1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70x5ux/",
+    "parent_id": "t1_n7080ft",
+    "created_utc": 1754387128.0
+  },
+  {
+    "id": "n7161z2",
+    "author": "Cinderhazed15",
+    "body": "That is only true with efficiently small units of work - if you have bad practices and have long lived feature branches where you do a ton of work, the history is real and useful, and squashing it all makes too big of a single commit - I believe in logically partitioning your work by functionality, like if I refactor before adding a new change, I’ll sometimes separate the ‘make the change easy’ from the ‘make the easy change’ part of the work, that way if I need to incorporate the baseline changes without the work into someone else’s stuff before it’s ready, I can do that without my new functionality",
+    "score": 4,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7161z2/",
+    "parent_id": "t1_n70x5ux",
+    "created_utc": 1754391692.0
+  },
+  {
+    "id": "n72ce80",
+    "author": "Conscious_Support176",
+    "body": "There are a bunch of feature ls to help you with that. Interactive rebase, for example.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72ce80/",
+    "parent_id": "t1_n7161z2",
+    "created_utc": 1754406350.0
+  },
+  {
+    "id": "n72da0j",
+    "author": "Cinderhazed15",
+    "body": "By the parent was saying ‘just squash your commits’ which I took to mean ‘turn your entire branch into a single commit’ as is normally done with a squash merge, but if you are doing ‘several’ things in your branch, you should be more selective and only squash/combine the parts that make sense.\n\nI do that with an interactive rebase (sometimes moving changes around so they are grouped, and combining when it makes sense). I don’t just squash an entire feature.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72da0j/",
+    "parent_id": "t1_n72ce80",
+    "created_utc": 1754406604.0
+  },
+  {
+    "id": "n72r73r",
+    "author": "Conscious_Support176",
+    "body": "It depends. The test for me is would reverting a commit make sense. If it might, it’s arguably a separate feature. If it doesn’t, it’s arguably not a separate unit of work.\nThis isn’t absolute, but a feature with a large number of commits smells funny.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72r73r/",
+    "parent_id": "t1_n72da0j",
+    "created_utc": 1754410511.0
+  },
+  {
+    "id": "n72pr49",
+    "author": "Conscious_Support176",
+    "body": "Yes, and if you want incorporate baseline changes first, put them into separate branch. You can use interactive rebase for example to squash just those changes into one commit.\n\nOr make a branch for them and cherry pick if you want to go step by step.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72pr49/",
+    "parent_id": "t1_n7161z2",
+    "created_utc": 1754410105.0
+  },
+  {
+    "id": "n73bf4r",
+    "author": "Beatsu",
+    "body": "What do you do when you find a bug in the huge ass commit you have? What do you benefit from squashing them? You essensially lose the usefulness of git bisect when squashing commits.\n\nI prefer rebasing, then merging with --no-ff. Your feature branch changes will be all in one commit on main, but the individual commits will still exist.",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73bf4r/",
+    "parent_id": "t1_n70x5ux",
+    "created_utc": 1754416756.0
+  },
+  {
+    "id": "n73uhy2",
+    "author": "Conscious_Support176",
+    "body": "I agree. I didn’t say squash *all* commits in a feature branch, just that each one needs a justification.\n\nI said don’t create an interlaced history of multiple commits each with partial units of work.\n\nUsing a no-ff merge after rebase is a completely different strategy than using merge *instead of* rebase. It’s kind of the best of both. But it’s basically equivalent to adding a tag after fast forward merging a rebased feature branch.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73uhy2/",
+    "parent_id": "t1_n73bf4r",
+    "created_utc": 1754423438.0
+  },
+  {
+    "id": "n7423kl",
+    "author": "Beatsu",
+    "body": "So... rebase merge?",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7423kl/",
+    "parent_id": "t1_n73uhy2",
+    "created_utc": 1754425907.0
+  },
+  {
+    "id": "n747q74",
+    "author": "Conscious_Support176",
+    "body": "There’s always a merge, the only question is, do you create a merge commit after a rebase with -no-ff or do you let git do a fast forward merge?\n\nI can see how, on larger projects, a merge commit per feature might be attractive.\n\nOn the other hand, it muddies the waters because if you take the rebase out of that process, it looks the same, and it may be easier to resolve conflicts within the merge commit, but resolving conflicts in the merge commit leaves a mess if you want to unpick what happened.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n747q74/",
+    "parent_id": "t1_n7423kl",
+    "created_utc": 1754427681.0
+  },
+  {
+    "id": "n70gmct",
+    "author": "JustaDevOnTheMove",
+    "body": "Are you sure? I used to be 100% on the rebase side of the debate until I fully understood what rebase does, now I've switched to squash merge.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70gmct/",
+    "parent_id": "t1_n702cp9",
+    "created_utc": 1754377560.0
+  },
+  {
+    "id": "n70y6qw",
+    "author": "Conscious_Support176",
+    "body": "That’s an interesting idea. But it doesn’t convey any usable information. Why do you think squash merge is better? My feeling is you should look into interactive rebase.",
+    "score": 4,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70y6qw/",
+    "parent_id": "t1_n70gmct",
+    "created_utc": 1754387695.0
+  },
+  {
+    "id": "n716d9n",
+    "author": "Cinderhazed15",
+    "body": "I always do rebase from ‘main’, merge to ‘main’ (keeps a bunch of ‘get current with main’ merges out of my feature branches, but preserves the real history of the work I did with the merge to main once I’m finished)",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n716d9n/",
+    "parent_id": "t1_n70y6qw",
+    "created_utc": 1754391835.0
+  },
+  {
+    "id": "n703etc",
+    "author": "flavius-as",
+    "body": "Not if you collaborate on the same branch.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n703etc/",
+    "parent_id": "t1_n702cp9",
+    "created_utc": 1754370448.0
+  },
+  {
+    "id": "n7047sd",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7047sd/",
+    "parent_id": "t1_n703etc",
+    "created_utc": 1754370853.0
+  },
+  {
+    "id": "n716gcx",
+    "author": "Cinderhazed15",
+    "body": "See the earlier comment about rerere :)",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n716gcx/",
+    "parent_id": "t1_n7047sd",
+    "created_utc": 1754391874.0
+  },
+  {
+    "id": "n75295c",
+    "author": "NoHalf9",
+    "body": "> \"Why do I have to resolve 100 merge conflicts while rebasing?\"\n\nBecause you are not using [`git imerge`](https://github.com/mhagger/git-imerge) which lets you handle conflicts **one single commit at the time**.\n\nAlso, I suspect that you are [not using a proper 3-way merge tool](https://old.reddit.com/r/git/comments/1mh3x8l/why_does_gitmerge_make_me_merge_identical_code/n6u9x73/). After you start using 3-way merge tools, conflicts become much, much less of an issue. I am the point now that even if I am certain that a commit is a `git rebase --skip` candidate I still launch KDiff3 to resolve it (although KDiff3's automatic solving algorithm is more \"aggressive\" than plain git and many times there are not anything to do manually in those cases).",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n75295c/",
+    "parent_id": "t1_n7047sd",
+    "created_utc": 1754437710.0
+  },
+  {
+    "id": "n70mr1e",
+    "author": "codeepic",
+    "body": "^ this is exactly what I face every time I try to use rebase on larger branches in enterprise apps. \n\nI have seen whole teams wasting huge amount of time trying to figure out how to rebase and solve conflicts. \n\nFace it, no one in corporate will ever care about your branch history. These people barely care about your code, whether it's clean or not as long as it doesn't affect deliverables, they don't give a fuck.\nI care a lot about code quality but trying to use rebase and seeing how ridiculous it gets with multiple people working on same branches or how you have to solve merge conflict against each commit I decided to never use it again unless on 1-person projects.\n\nBut but but.... git bisect.\nYeah, it's a great tool but I never had a problem when I had to use other means to trace when something wasn't working.\n\nWho are the people praising rebase, what projects and teams do they work on?",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70mr1e/",
+    "parent_id": "t1_n7047sd",
+    "created_utc": 1754381058.0
+  },
+  {
+    "id": "n70wk5h",
+    "author": "Conscious_Support176",
+    "body": "Obviously… if you have multiple things going on in the same branch, rebase is going to have multiple conflicts. Why aren’t people using separate branches to keep units of work separated? \n\nBranches are extremely lightweight in git because keeping separate units of work in separate branches is what it relies on to work well. If you’re using it differently, there’s not much point in complaining that one of its key features is hard to use.",
+    "score": 5,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70wk5h/",
+    "parent_id": "t1_n70mr1e",
+    "created_utc": 1754386781.0
+  },
+  {
+    "id": "n72hnc3",
+    "author": "codeepic",
+    "body": "You are not reading my post correctly.\n\nI have multiple conflicts when there are files updated in PRs merged to main branch, not when multiple people work on the same branch. We're not cowboys.\nAnd then you have to resolve conflicts against each commit. Very error prone and time consuming.\n\nBut the other scenario is also true - sometimes another dev will jump in with 1 or 2 commits to another feature branch. Rebase is also messing two developers working on the same branch.\n\nI just don't get why so many people are so adamant about rebase being better than merge. It is a different workflow, that takes more discipline and I have not seen it employed successfully in large organizations.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72hnc3/",
+    "parent_id": "t1_n70wk5h",
+    "created_utc": 1754407845.0
+  },
+  {
+    "id": "n732x5k",
+    "author": "Conscious_Support176",
+    "body": "Why have you so many commits on each branch if people are using one branch per feature? The thing  with rebase is you get the opportunity to resolve the conflict *within the commit that caused it*. Yes, if you have many commits in your branch it can be a pain, but that’s a custom branching strategy. If you know better than the people who wrote the git manual, you presumably know now to use rerere and the -X options to rebase to help resolve the many conflicts you will encounter?",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n732x5k/",
+    "parent_id": "t1_n72hnc3",
+    "created_utc": 1754414070.0
+  },
+  {
+    "id": "n738agx",
+    "author": "codeepic",
+    "body": "You are resolving conflicts from your code (so let's say you squashed into 1 commit) against commits you have on main (so if people are not squashing and a PR was merged with 12 commits, even if let's say only 2 commits touched the conflicting file, you will have to resolve the conflict against that commit and then the next one, and because the code change was across two commits, each conflict resolution you are missing a valuable context that would inform you how to resolve the conflict. Git rerere will not help you out with this.\n\nThat's what I am talking about, once you are working with other people in the same codebase, unless the whole team is disciplined about how to work, rebase is getting more in the way than helping.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n738agx/",
+    "parent_id": "t1_n732x5k",
+    "created_utc": 1754415738.0
+  },
+  {
+    "id": "n72jejh",
+    "author": "cgoldberg",
+    "body": "> not reading my post correctly \n\nyea, pretty crazy to think that someone would read \"people working on same branches\" and think people are actually working on the same branch.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72jejh/",
+    "parent_id": "t1_n72hnc3",
+    "created_utc": 1754408343.0
+  },
+  {
+    "id": "n72njnd",
+    "author": "codeepic",
+    "body": "Ok, you have a point - poor choice of words on my part.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72njnd/",
+    "parent_id": "t1_n72jejh",
+    "created_utc": 1754409487.0
+  },
+  {
+    "id": "n716j9t",
+    "author": "kooknboo",
+    "body": "> Face it, no one in corporate will ever care about your branch history. These people barely care about your code, whether it's clean or not as long as it doesn't affect deliverables, they don't give a fuck. \n\nThis guy corporates. My development team of ~10 has 6, yes six, \"senior leads\". We used to have just developer, senior and lead, but that wasn't ego-filling enough so we added \"senior lead\". In any case, with expected bonus this year, each of these 6 will make $230k. We all work remote, one of them lives where $230k is very solid but not great, the other five live where that's king maker money. Anyway, $230k. And...\n\nNot one of them could tell you that there are things called rebase and merge, much less the difference... 2-3 of them probably can't distinguish between git and GitHub... maybe, just possibly, one of them could pop out to a shell and copy a file from A to B...  none of them -none-, grasp the power of VScode or recognize it as anything more than a fancy notepad. None of them know how to Google an error message to get a sense of what might be going on.  If the message isn't in our all-knowing Wiki, then it's a unique, first ever situation that nobody in the history of time has ever encountered (we're unique, you know) and it get's dumped to some other team. Don't get me going about AI.\n\nWhat they universally excel at is corporate astronaut'ing. They know everyone and they'll remind you of that daily. They know the acronyms for every team, though probably not what they do. But they use that effectively by always brushing off to some indeterminate XYZ team. They can follow the dozens of convoluted procedures to a tee as long as they have a work aid showing them which buttons to press. They know how to delay... we can't have a meeting until we first have a meeting about who should be invited (legit, true, weekly example). They know how to cheer and masturbate the people above them.\n\nOk, that's better.  Sorry.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n716j9t/",
+    "parent_id": "t1_n70mr1e",
+    "created_utc": 1754391911.0
+  },
+  {
+    "id": "n74mjto",
+    "author": "yawaramin",
+    "body": "> you have to solve merge conflict against each commit\n\nEnable `rerere`. Boom, now you only have to solve each conflict once. Or even just squash your feature branch into a single commit before rebasing. Boom, have to solve conflicts only once.\n\nConflicts are almost never an issue with rebase if you know how to use it correctly.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74mjto/",
+    "parent_id": "t1_n70mr1e",
+    "created_utc": 1754432487.0
+  },
+  {
+    "id": "n755rv9",
+    "author": "codeepic",
+    "body": "Not if there were multiple commits that went into main branch. Have tried rerere and squashing. Still had to resolve conflicts against each commit.\nI have given rebase multiple tries, it just doesn't work for me and others on the projects we work on.\nThat's why I question what is the team size of all these people praising rebase - are they only working by themselves or what?",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n755rv9/",
+    "parent_id": "t1_n74mjto",
+    "created_utc": 1754438890.0
+  },
+  {
+    "id": "n767fzx",
+    "author": "yawaramin",
+    "body": "I've used rebase throughout my career in teams of 3 to 10, never had issues. If you genuinely had issues with rerere not being able to do the thing that it is literally advertised to do, maybe you found a git bug 🤷‍♂️",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n767fzx/",
+    "parent_id": "t1_n755rv9",
+    "created_utc": 1754452429.0
+  },
+  {
+    "id": "n73fw9j",
+    "author": "divad1196",
+    "body": "Merge does not always implies a merge commit. You also have`--no-commit` and `ff` options.\n\nMerge has its purposes, rebase isn't \"just better\".",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73fw9j/",
+    "parent_id": "t1_n702cp9",
+    "created_utc": 1754418337.0
+  },
+  {
+    "id": "n702amu",
+    "author": "flavius-as",
+    "body": "git add -pv",
+    "score": 5,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n702amu/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754369894.0
+  },
+  {
+    "id": "n70frcz",
+    "author": "FlipperBumperKickout",
+    "body": "What does \"verbose\" do for add?\n\nI couldn't really spot the difference when used together with \"patch\".",
+    "score": 3,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70frcz/",
+    "parent_id": "t1_n702amu",
+    "created_utc": 1754377075.0
+  },
+  {
+    "id": "n716rxh",
+    "author": "Cinderhazed15",
+    "body": "Came here for this, I like to logically separate my work into commits, and being able to say ‘ooh, just add a part of this file’ or ‘skip my caveman/printline debugging’ when staging work for a commit is awesome.\n\nFor some reason, several projects I was on would never properly install some of the Perl code that feature required, and till I was in the team no one ever notices…",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n716rxh/",
+    "parent_id": "t1_n702amu",
+    "created_utc": 1754392020.0
+  },
+  {
+    "id": "n73d07c",
+    "author": "Beatsu",
+    "body": "Oh and also how patch committing kind of works like a mini PR review on your own code! I love it!",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73d07c/",
+    "parent_id": "t1_n716rxh",
+    "created_utc": 1754417304.0
+  },
+  {
+    "id": "n70p7eo",
+    "author": "aqjo",
+    "body": "submodules are helpful if you have packages shared between projects and make tweaks to the packages as you go. Submodules maintain a relationship between the main repo and the repos of the packages.",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70p7eo/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754382489.0
+  },
+  {
+    "id": "n710kpf",
+    "author": "engineerFWSWHW",
+    "body": "Definitely agree with this. I had seen devs who didn't like submodules at all (they find it very challenging to use) and they will just flatten the hierarchy and fully include the other shared projects into a single main repo instead of a submodule. They lose the ability to keep the subprojects being updated easily and they also lose the reusability.",
+    "score": 0,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n710kpf/",
+    "parent_id": "t1_n70p7eo",
+    "created_utc": 1754388972.0
+  },
+  {
+    "id": "n71u009",
+    "author": "anaveragedave",
+    "body": "Probably not thaaaaat lesser known, but\n\nGit add -p\nGit reset --soft <previous commit hash I want to squash to>",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n71u009/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754400795.0
+  },
+  {
+    "id": "n729585",
+    "author": "Light_x_Truth",
+    "body": "git bisect",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n729585/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754405412.0
+  },
+  {
+    "id": "n73hknn",
+    "author": "divad1196",
+    "body": "Not a command but: git hooks (pre-push and pre-commit mainly)\n\n\n- `git log ref1..ref2`: shows the commit difference\n- `git log --follow`: find commits that impacted a specific file\n- `git reflog`\n- `git rebase -X`: automatically choose what to keep in a rebase (but still good to have a look afterward)",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73hknn/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754418941.0
+  },
+  {
+    "id": "n74mf9k",
+    "author": "surveypoodle",
+    "body": "\\>find commits that impacted a specific file\n\nTIL about the --follow flag. Few weeks ago when I needed this, I wrote a script and never realized this feature was already there.\n\n\\>automatically choose what to keep in a rebase\n\nDidn't quite understand this. The docs say -X is for merge strategy.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74mf9k/",
+    "parent_id": "t1_n73hknn",
+    "created_utc": 1754432445.0
+  },
+  {
+    "id": "n76gpxo",
+    "author": "divad1196",
+    "body": "Yes, the merge strategy tells git to always keep the remote version (\"theirs\" strategy) or the local one (\"ours\"). But I might be mixing with option \"-s\", both are related to the strategy and I always check back",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n76gpxo/",
+    "parent_id": "t1_n74mf9k",
+    "created_utc": 1754456521.0
+  },
+  {
+    "id": "n745me2",
+    "author": "Toasterrrr",
+    "body": "[warp.dev](http://warp.dev) helps with a lot of these without abstracting it away into gui.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n745me2/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754427021.0
+  },
+  {
+    "id": "n74ig8q",
+    "author": "Anxious-Insurance-91",
+    "body": "You have a local history of the command you runner and you can rollback to a specific command not just commit tag. \nHelps if your files get corrupted for some strange reason",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74ig8q/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754431136.0
+  },
+  {
+    "id": "n754cmu",
+    "author": "NoHalf9",
+    "body": "In the diff window in gitk, you can right click and select \"show origin of this line\" and it will jump back in history to that commit, where again you can select \"show origin of this line\" and jump back further.\n\nThe same *can* be done with git blame instead, but it becomes really fast cumbersome to finding and copying/pasting all the commit ids.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n754cmu/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754438408.0
+  },
+  {
+    "id": "n756rtz",
+    "author": "Sese_Mueller",
+    "body": "Stashing is really useful and surprisingly many people don‘t know about it",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n756rtz/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754439230.0
+  },
+  {
+    "id": "n75tg9o",
+    "author": "newprince",
+    "body": "I'm sure many people know this but you can close issues in GitHub via git commits",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n75tg9o/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754447070.0
+  },
+  {
+    "id": "n7czxam",
+    "author": "omg_drd4_bbq",
+    "body": "`git checkout -` to switch to last checked branch",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7czxam/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754540379.0
+  },
+  {
+    "id": "n7gegl5",
+    "author": "adromanov",
+    "body": "Yeah, I love that. It's like `cd -` changes your directory to the previous one.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7gegl5/",
+    "parent_id": "t1_n7czxam",
+    "created_utc": 1754588386.0
+  },
+  {
+    "id": "n7d4l8n",
+    "author": "ChillPlay3r",
+    "body": "Matrix for parallel execution of jobs.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7d4l8n/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754542522.0
+  },
+  {
+    "id": "n7d6w6c",
+    "author": "roscopcoletrane",
+    "body": "I only learned about `git reflog` a year or so ago, but it has saved my ass several times since then\n\nI also think `git bisect` is not nearly as well known as it should be, it’s super helpful when you’re trying to figure out where a bug was introduced",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7d6w6c/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754543643.0
+  },
+  {
+    "id": "n7esf16",
+    "author": "ChiefNonsenseOfficer",
+    "body": "git bisect run, which is basically \"find me the cause of a regression\"",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7esf16/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754571281.0
+  },
+  {
+    "id": "n7g11vq",
+    "author": "freestyle2002",
+    "body": "I learned about rebase and stashing (that you can have multiple, rename, apply selectively, include untracked etc) only when i was in my internship.\n\n\nMe and my friends really struggled with version control at a hackathon last year. Sleep deprived, rushing. We called it the \"war of git\" the battles of \"push force\"",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7g11vq/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754584658.0
+  },
+  {
+    "id": "n7j6vim",
+    "author": "cow-a-bunga",
+    "body": "git add —patch",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7j6vim/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754620402.0
+  },
+  {
+    "id": "n7jdkp0",
+    "author": "pollrobots",
+    "body": "The \"git pickaxe\"\n\n`git log -p -S <search term>`\n\nWill show you all commits that add or remove a line that matches the regex `<search term>`\n\nFor when annotate/blame isn't enough\n\nI learned about it from https://www.philandstuff.com/2014/02/09/git-pickaxe.html",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7jdkp0/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754623027.0
+  },
+  {
+    "id": "n7v6dfe",
+    "author": "sethkills",
+    "body": "git clone —depth 1 —branch something <github-repo>. And probably —recursive.\n\nAlso I use -p/—partial with absolutely everything, add, commit, stash, checkout. That changed my life.",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7v6dfe/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754787167.0
+  },
+  {
+    "id": "n70a9lh",
+    "author": "-dag-",
+    "body": "Worktrees",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70a9lh/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754374033.0
+  },
+  {
+    "id": "n70q29u",
+    "author": "tenfingerperson",
+    "body": "Did you fuck up ? Maybe reflog will be there to save you !",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70q29u/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754382991.0
+  },
+  {
+    "id": "n7177b2",
+    "author": "Antypodish",
+    "body": "Actually to use good IDE or tool, which does the commands for you. Instead need to learn archaic way to type in commands by hand. Most mentioned commands in this thread is under single click of the button.\n\nRypong by hand, feels like using cmd to manage files instead of existjng file Explorer tools.\n\nMost of commands discussed in this thread, including using AI, is already solved with such tools.\n\nThere are various of these tools.\nI personally use GitExtension.\nOn side note, GitDesktop is so bearbone that is not usable for anything beyond serious project. But may be required as an installation tool, for other tools to be installed. \n\nGit clean, or similar Is perhaps one of rarer cases, where need to type in, as is less of covered by git IDE / tool functionality.",
+    "score": -6,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7177b2/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754392215.0
+  },
+  {
+    "id": "n72oudz",
+    "author": "Conscious_Support176",
+    "body": "GitExtensions doesn’t try to force it l’s own idioms, it just provides a front end to git. It’s a rare exception.\n\nThe “archaic” command line *is* the toolkit that git provides you with, it’s a bit silly to argue about the best way to use a toolkit if you insist on wrapping the actual tools in kid adapters before you’re willing to use them.   \n\nMost Git frontends actively hinder your learning of Git. An allergy to the command line means you’re also allergic to reading the manual, best practice guidelines, and getting help when you’re stuck.",
+    "score": 7,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72oudz/",
+    "parent_id": "t1_n7177b2",
+    "created_utc": 1754409850.0
+  },
+  {
+    "id": "n72zxqm",
+    "author": "Antypodish",
+    "body": "Why to masturbate with command lines, where you can press simple button to execute what you need?\n\nAre you suggest, maybe we should also go back to notepad, instead of using professional IDEs?  \nThese are tools, design to accelerate the work.\n\nThat kind of mind set which is archaic.",
+    "score": -4,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n72zxqm/",
+    "parent_id": "t1_n72oudz",
+    "created_utc": 1754413109.0
+  },
+  {
+    "id": "n777cbf",
+    "author": "behind-UDFj-39546284",
+    "body": "Who the fuck told you _you have_ a simple button? 🙂",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n777cbf/",
+    "parent_id": "t1_n72zxqm",
+    "created_utc": 1754470914.0
+  },
+  {
+    "id": "n74bvwo",
+    "author": "tb5841",
+    "body": "Typing two or three words isn't meaningfully slower than clicking a button, if you have a terminal open already.",
+    "score": 4,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n74bvwo/",
+    "parent_id": "t1_n7177b2",
+    "created_utc": 1754429023.0
+  },
+  {
+    "id": "n70yvi9",
+    "author": "RubbelDieKatz94",
+    "body": "Most AI agents can run git commands for you. So instead of manually running diffs and other slightly longer commands, I usually just tell the AI what to run and it's perfect every time.",
+    "score": -5,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70yvi9/",
+    "parent_id": "t3_1mi00ef",
+    "created_utc": 1754388066.0
+  },
+  {
+    "id": "n70z8ha",
+    "author": "surveypoodle",
+    "body": "Sounds slow and unreliable.",
+    "score": 9,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70z8ha/",
+    "parent_id": "t1_n70yvi9",
+    "created_utc": 1754388263.0
+  },
+  {
+    "id": "n70zmlw",
+    "author": "RubbelDieKatz94",
+    "body": "More reliable than anything I could come up with. I work to develop software, not Google git commands.\n\nI can easily do the following in the console, which I do everyday:\n\n- git fetch\n- git pull\n- git push\n- git branch -b ...\n\nI don't need anything else on an everyday basis. PRs are created in Azure DevOps.\n\nSo, instead of learning how to do anything more complex, I let the AI handle the rest on occasion.",
+    "score": -2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n70zmlw/",
+    "parent_id": "t1_n70z8ha",
+    "created_utc": 1754388473.0
+  },
+  {
+    "id": "n712v2t",
+    "author": "99_product_owners",
+    "body": "Unsure if satire",
+    "score": 10,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n712v2t/",
+    "parent_id": "t1_n70zmlw",
+    "created_utc": 1754390161.0
+  },
+  {
+    "id": "n7168r3",
+    "author": "RubbelDieKatz94",
+    "body": "Nah bro I'm just too lazy to learn git",
+    "score": -2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n7168r3/",
+    "parent_id": "t1_n712v2t",
+    "created_utc": 1754391777.0
+  },
+  {
+    "id": "n73593b",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 2,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n73593b/",
+    "parent_id": "t1_n70yvi9",
+    "created_utc": 1754414795.0
+  },
+  {
+    "id": "n743iz3",
+    "author": "LoudBoulder",
+    "body": "Plot twist, he is one of the seniors",
+    "score": 1,
+    "permalink": "/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/n743iz3/",
+    "parent_id": "t1_n73593b",
+    "created_utc": 1754426359.0
+  }
+]
