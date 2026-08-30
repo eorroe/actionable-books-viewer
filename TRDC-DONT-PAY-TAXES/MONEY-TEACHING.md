@@ -4,7 +4,7 @@ LIKE TRUMP, I DON'T PAY TAXES EITHER - ROBERT KIYOSAKI
 
 ## Overview
 
-This teaching explains how wealthy individuals like Robert Kiyosaki and Donald Trump legally pay little to no taxes by operating from the Business (B) and Investor (I) quadrants of the Cash Flow Quadrant rather than the Employee (E) or Self-employed (S) quadrants. The core mechanism involves using debt and real estate investments, which the tax code incentivizes through depreciation, amortization, and appreciation deductions. The underlying principle is that taxes are not a mandatory obligation for everyone but rather government incentives designed to encourage qualifying economic behaviors such as building affordable housing or creating jobs.
+This teaching explains how wealthy individuals like Robert Kiyosaki and Donald Trump legally pay little to no taxes by operating from the Business (B) and Investor (I) quadrants of the Cash Flow Quadrant rather than the Employee (E) or Self-employed (S) quadrants. The core mechanism involves using debt and real estate investments, which the tax code incentivizes through depreciation and appreciation deductions. The underlying principle is that taxes are not a mandatory obligation for everyone but rather government incentives designed to encourage qualifying economic behaviors such as building affordable housing or creating jobs.
 
 ## When to Follow These Money Teachings
 
@@ -30,7 +30,7 @@ Learn to use debt as a tool, not a trap. When you borrow money to acquire income
 
 ### Step 4: Invest in Real Estate for Tax Advantages
 
-Focus on acquiring real estate assets. Real estate provides three primary tax benefits: appreciation (increase in property value), amortization (deduction of loan interest), and depreciation (decline in asset value written off over time). These elements can effectively reduce or eliminate tax liability on income generated from other sources.
+Focus on acquiring real estate assets. Real estate provides two primary tax benefits: appreciation (increase in property value) and depreciation (decline in asset value written off over time). These elements can effectively reduce or eliminate tax liability on income generated from other sources.
 
 ### Step 5: Structure Your Income Through a Corporation or Business Entity
 
@@ -52,7 +52,7 @@ Expect to be audited regularly if you are in the high-wealth, low-tax bracket. M
 
 ### Example 1: Donald Trump's Tax Strategy
 
-During a presidential debate with Hillary Clinton, Trump was accused of not paying taxes. His response was simply, "That makes me smart." By operating primarily through real estate and business structures, Trump legally minimized his tax liability while building a multibillion-dollar empire.
+During a presidential debate with Hillary Clinton, Trump was accused of not paying taxes. His response was simply, "I'm smart." By operating primarily through real estate and business structures, Trump legally minimized his tax liability while building a multibillion-dollar empire.
 
 ### Example 2: Kiyosaki's Real Estate and Gold Mine Strategy
 
@@ -79,11 +79,10 @@ A doctor friend of Kiyosaki's finally made a million dollars but paid $750,000 i
 
 ## Keep In Mind
 
-- The United States was founded as a tax-free nation, and Americans have historically fought against excessive taxation
 - In 1971, President Nixon took the U.S. dollar off the gold standard, turning money into debt; this fundamentally changed how wealth is built and preserved
 - Gresham's Law explains that when bad money (fiat currency) enters the system, good money (silver, gold) goes into hiding—the wealthy preserve wealth in hard assets
-- Financial IQ is measured by your ability to control cash flow, not by your college degree or IQ test scores
-- The school system teaches students to be employees, not capitalists; financial education is your responsibility
+- Financial IQ is measured by your ability to control cash flow
+- School teachers often advise staying out of debt, but Kiyosaki argues that using debt strategically and operating as a team rather than taking individual tests is how the wealthy build wealth
 - Your words shape your reality—stop saying "I can't afford it" and start asking "How can I afford it?"
 
 ## Security & Safety Notes
@@ -104,16 +103,13 @@ A doctor friend of Kiyosaki's finally made a million dollars but paid $750,000 i
   **Solution:** Transition from self-employment to building a business system with employees (B-type) or investing in cash-flowing assets (I-type).
 
 - **Problem:** Following obsolete financial advice like "get out of debt" or "save money"
-  **Solution:** In a fiat currency system where money is printed faster than you can earn it, saving is a losing strategy in Kiyosaki's view. Learn to use debt strategically and invest in real assets.
+  **Solution:** When the government prints money, savers lose and debtors get rich, making saving a losing strategy in Kiyosaki's view. Learn to use debt strategically and invest in real assets.
 
-- **Problem:** Investing in 401(k)s, IRAs, or public stocks, bonds, and mutual funds
+- **Problem:** Investing in public stocks, bonds, and mutual funds
   **Solution:** These are taxed as ordinary income or capital gains. Inside investors who control their own deals avoid taxes on those gains, per the teaching. Focus on private investments and real estate.
 
 - **Problem:** Working alone instead of building a team
   **Solution:** Schools teach individual tests, but the wealthy operate as a team of attorneys, accountants, bankers, and advisors. No major acquisition is made solo.
-
-- **Problem:** Thinking your FICO score matters more than your financial intelligence
-  **Solution:** A FICO score only measures your trustworthiness with borrowing. Banks lend to investors with cash flow and collateral, not just good credit scores.
 
 - **Problem:** Waiting until you have money to start investing
   **Solution:** You do not need money to make money. Use other people's money (the bank), creative financing, and sweat equity. The average person says "I can't afford it"; the wealthy ask "How can I?"

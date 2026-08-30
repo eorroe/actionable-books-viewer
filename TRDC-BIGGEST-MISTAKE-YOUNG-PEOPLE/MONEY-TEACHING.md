@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Money Teaching guides young people away from the common mistake of prioritizing career passion over asset acquisition. Robert Kiyosaki explains that focusing solely on "doing what you love" keeps you trapped in the Employee and Self-employed quadrants, paying 40% to 60% in taxes and missing opportunities to build real wealth through businesses, real estate, and commodities. The key is to invest in assets you love rather than pursue careers you love, accepting that you may need to learn about taxes, debt, insurance, accounting, and lawsuits in the short term to build the assets you love.
+This Money Teaching guides young people away from the common mistake of prioritizing career passion over asset acquisition. Robert Kiyosaki explains that focusing solely on "doing what you love" keeps you trapped in the Employee and Self-employed quadrants, paying 40% to 60% in taxes and missing opportunities to build wealth through businesses, real estate, and commodities. The key is to invest in assets you love rather than pursue careers you love, accepting that you may need to learn about taxes, debt, insurance, accounting, and lawsuits to build the assets you love.
 
 ## When to Follow These Money Teachings
 
@@ -14,15 +14,15 @@ This Money Teaching guides young people away from the common mistake of prioriti
 
 ### Step 1: Understand the Cashflow Quadrant
 
-Learn the four quadrants: E (Employee), S (Small Business/Self-employed), B (Big Business with 500+ employees), and I (Investor). Recognize that E pays 40% in taxes and S pays 60% in taxes, and both require constant work. Aim to move toward B and I for true financial freedom.
+Learn the four quadrants: E (Employee), S (Small Business/Self-employed), B (Big Business with at least 500 employees), and I (Investor). Recognize that E pays 40% in taxes and S pays 60% in taxes, and both require constant work. Aim to move toward B and I for financial freedom.
 
 ### Step 2: Shift Your Mindset from Doing to Investing
 
-Stop focusing on "doing what you love" as a career. Start thinking about "investing in what you love" as asset acquisition. Accept that you may need to learn about taxes, debt, insurance, accounting, and lawsuits in the short term to build assets you love. Passion is greedy; purpose is for the people.
+Stop focusing on "doing what you love" as a career. Start thinking about "investing in what you love" as asset acquisition. Accept that you may need to learn about taxes, debt, insurance, accounting, and lawsuits to build assets you love. Passion is greedy; purpose is for the people.
 
 ### Step 3: Build Your First Asset - A Business
 
-Start a business with 500+ employees rather than staying self-employed. Learn business skills: taxes, debt, insurance, accounting, and lawsuits. Understand that businesses afford you the lifestyle you want and provide capital for other investments.
+Start a business with at least 500 employees rather than staying self-employed. Learn business skills: taxes, debt, insurance, accounting, and lawsuits. Understand that businesses afford you the lifestyle you want and provide capital for other investments.
 
 ### Step 4: Invest in Real Estate
 
@@ -30,7 +30,7 @@ Acquire properties you genuinely love such as land, buildings, or fixer-uppers. 
 
 ### Step 5: Diversify into Commodities
 
-Invest in tangible assets you love such as food (avocado farms), oil, gold, and silver. Focus on assets that provide real value rather than chasing trending investments like cryptocurrencies without understanding them.
+Invest in tangible assets you love such as food (avocado farms), oil, gold, and silver. Focus on assets you love rather than chasing shiny objects like cryptocurrencies without understanding them.
 
 ### Step 6: Understand Liquidity and Risk
 
@@ -53,14 +53,14 @@ Kiyosaki invests only in properties he loves. He looks at numbers, houses, and l
 - ✅ Start with a business before investing in real estate
 - ✅ Prioritize liquidity education before moving into illiquid assets
 - ✅ Focus on purpose (serving people) over passion (greed)
-- ❌ Don't chase trending investments like Bitcoin or cryptocurrencies without understanding them
+- ❌ Don't chase shiny objects like Bitcoin or cryptocurrencies without understanding them
 - ❌ Don't stay trapped in the E or S quadrants
 - ❌ Don't ignore taxes, debt, insurance, and lawsuits
 - ❌ Don't invest in assets you have not researched just because peers, advisors, or social media influencers are investing in them
 
 ## Keep In Mind
 
-- Time is an asset when used to build financial knowledge and a liability when wasted on entertainment instead of learning - when you're young, time spent on activities that do not build financial intelligence can become a liability
+- One of the most important things you have in your life is time. It's one of your greatest assets or your liability - when you're young, having fun instead of learning can make time a liability
 - The higher the risk, the greater the potential returns, but also the greater the dedication, education, and study required
 - You can get rich in the E and S quadrants, but you'll pay 40% to 60% in taxes
 - Young people often think they can delay financial education, but time passes quickly
@@ -76,10 +76,10 @@ Kiyosaki invests only in properties he loves. He looks at numbers, houses, and l
 
 - **Problem:** Focusing on "doing what you love" as a career instead of investing in assets
   **Solution:** Shift your focus from career passion to acquiring assets that generate passive income
-- **Problem:** Chasing trending investments like Bitcoin without understanding them
-  **Solution:** Build real assets through business and real estate that you have researched and can explain
+- **Problem:** Chasing shiny objects like Bitcoin without understanding them
+  **Solution:** Build assets through business and real estate that you have researched and can explain
 - **Problem:** Not learning skills like taxes, debt, insurance, accounting, and lawsuits
-  **Solution:** Accept that learning difficult subjects like taxes, debt, insurance, accounting, and lawsuits is necessary to build the assets you love
+  **Solution:** Accept that learning about taxes, debt, insurance, accounting, and lawsuits is necessary to build the assets you love
 - **Problem:** Ignoring that paper assets can be sold quickly if you make a mistake, while real estate and businesses cannot be easily exited
   **Solution:** Understand that paper assets are liquid and allow you to recover from mistakes, while real estate and businesses require knowledge of taxes, debt, insurance, accounting, and lawsuits before investing
 - **Problem:** Thinking you can delay financial education because you are young

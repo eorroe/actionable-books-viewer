@@ -9,7 +9,7 @@ This money teaching explains why traditional financial advice is failing the nex
 ## When to Follow These Money Teachings
 
 - When you are a millennial concerned about job security, housing affordability, and retirement
-- When you sense that traditional saving and 401k strategies are not enough to build real wealth
+- When you sense that traditional saving and 401k strategies are not enough to build wealth
 - When you have serious concerns about national debt, social security, and healthcare costs and want a proactive plan
 - When you are ready to unlearn the "work hard, save money" advice that has failed previous generations
 
@@ -29,7 +29,7 @@ Intentionally move toward the Business Owner (B) or Investor (I) quadrants. Star
 
 ### Step 4: Prepare for Higher Taxes and Social Program Burdens
 
-Understand that estimates of unfunded social security, Medicare, and pension liabilities are at least $655 trillion, though the exact number is unknown. These obligations will require funding, and younger workers may face higher taxes to cover them. Build your financial strategy around this projected reality by legally minimizing taxes and building income streams that are not dependent on a single employer.
+Understand that the estimate of unfunded social security, Medicare, and pension liabilities is $655 trillion, though the exact number is unknown. These obligations will require funding, and younger workers may face higher taxes to cover them. Build your financial strategy around this projected reality by legally minimizing taxes and building income streams that are not dependent on a single employer.
 
 ### Step 5: Take Control of Your Financial Education
 
@@ -60,7 +60,7 @@ Instead of avoiding all debt, learn to use "good debt" to acquire assets like re
 ## Keep In Mind
 
 - The estimate of $655 trillion in unfunded social program liabilities represents debt obligations that affect long-term financial planning
-- Medical costs and healthcare bills can be severe even with insurance; for example, a minor injury can result in a $34,000 bill
+- Medical costs and healthcare bills can be high even with insurance; for example, a minor injury can result in a $34,000 bill
 - The tax reform benefits that are permanent for Baby Boomers are temporary for Millennials
 - Your generation's economic conditions differ from your parents' generation
 - Having internet access gives you a resource for learning and business building if you use it
@@ -76,10 +76,10 @@ Instead of avoiding all debt, learn to use "good debt" to acquire assets like re
 ## Common Pitfalls
 
 - **Problem:** Continuing to follow old financial advice like "save for retirement in a 401k" without questioning whether it still works.
-  **Solution:** Study how the Cashflow Quadrant works and test whether your current path aligns with long-term wealth building or just job security.
+  **Solution:** Study how the Cashflow Quadrant works and test whether your current path aligns with long-term wealth building or only job security.
 
 - **Problem:** Believing that getting a good degree and a high-paying job is enough to be financially free.
-  **Solution:** Understand that employees and self-employed people trade time for money and may face higher effective tax rates than business owners and investors; true wealth comes from owning systems and assets.
+  **Solution:** Understand that employees and self-employed people trade time for money and may face higher effective tax rates than business owners and investors; wealth comes from owning systems and assets.
 
 - **Problem:** Accumulating consumer debt and liabilities while thinking you are building credit or "living the dream."
   **Solution:** Learn to distinguish between liabilities that drain your wallet and assets that put money in your pocket each month.

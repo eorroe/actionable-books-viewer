@@ -2,7 +2,7 @@
 
 ## Overview
 
-This money teaching explains why relying on a paycheck, savings, and 401(k)s keeps most people poor, and shows how the rich build wealth by working for different types of income. It is based on Robert Kiyosaki's explanation of the four income types recognized by the tax code: earned income, portfolio income, passive income, and phantom income. The core message is that the government's tax structure punishes earned income and rewards investing, so financial education and a shift toward passive income streams are essential for escaping the working-class cycle.
+This money teaching explains why relying on a paycheck, savings, and 401(k)s keeps most people poor, and shows how the rich build wealth by working for different types of income. It is based on Robert Kiyosaki's explanation of the four income types recognized by the tax code: earned income, portfolio income, passive income, and phantom income. The core message is that the government's tax structure punishes earned income and rewards investing, and financial education and a shift toward passive income streams help you avoid staying in that cycle.
 
 ## When to Follow These Money Teachings
 
@@ -15,15 +15,15 @@ This money teaching explains why relying on a paycheck, savings, and 401(k)s kee
 
 ### Step 1: Learn the four types of income the tax system recognizes
 
-Understand the four categories the government uses to classify income: earned income (wages and salary), portfolio income (capital gains from investments like stocks and real estate), passive income (business or rental income that continues without active work), and phantom income (tax breaks and deductions that reduce your tax bill). Earned income is taxed at the highest rate, while passive and portfolio income receive preferential treatment.
+Understand the four categories the government uses to classify income: earned income (wages and salary), portfolio income (capital gains from investments like stocks and real estate), passive income (business or rental income that continues without active work), and phantom income (tax breaks and deductions that reduce your tax bill). Earned income is taxed at the highest rate, while passive and portfolio income receive lower tax rates.
 
 ### Step 2: Recognize that the system is designed to discourage earned income
 
-The tax code is intentionally structured to incentivize hiring employees and investing in assets, not working for wages. If you continue trading time for money, you will pay the highest taxes. The government wants you to build businesses, hire people, and invest in real estate or securities because those activities drive the economy.
+The government does not want you working for money; it punishes earned income and wants you to hire employees or invest. If you continue trading time for money, you will pay the highest taxes. The government wants you to build businesses, hire people, and invest in real estate or securities.
 
 ### Step 3: Understand that traditional savings vehicles are heavily taxed
 
-Savings accounts, 401(k)s, RRSPs, and superannuation funds are all taxed at the highest rates. Without understanding the tax consequences, people assume these are smart financial moves, but they can trap you in a cycle of working harder.
+Savings accounts, 401(k)s, RRSPs (Registered Retirement Savings Plan), and superannuation funds are all taxed at the highest rates. Without understanding the tax consequences, people assume these are smart financial moves, but they can trap you in a cycle of working harder.
 
 ### Step 4: Study financial statements and the tax code to find phantom income
 
@@ -47,7 +47,7 @@ Debt is not inherently bad. The rich use debt as a tool to acquire income-produc
 
 ### Step 9: Shift your mindset from working for money to working for the right type of income
 
-Stop measuring success by how much money you make from a job. Instead, measure it by the types of income you are building. The rich do not work for money; they work to acquire assets that generate passive income. This shift requires a fundamental change in how you think about work, education, and wealth.
+Stop measuring success by how much money you make from a job. Instead, measure it by the types of income you are building. The rich do not work for money; they work to acquire assets that generate passive income. This shift requires changing how you think about work, education, and wealth.
 
 ## Examples
 
@@ -83,7 +83,7 @@ If your tax bill is $100,000 and you qualify for $50,000 in tax breaks by invest
 
 ## Keep In Mind
 
-- The tax code is designed to incentivize investing and hiring employees, not working for wages
+- The government wants you to hire employees or invest, not work for wages
 - Financial education is not taught in traditional schools; you must seek it out yourself
 - Building wealth takes practice, study, and learning from mistakes
 - The rich work for passive income, not earned income

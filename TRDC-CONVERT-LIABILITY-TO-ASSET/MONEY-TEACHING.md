@@ -2,7 +2,7 @@
 
 ## Overview
 
-This teaching explains how to identify whether something in your financial life is truly an asset or a liability by applying one simple rule: follow the cash flow. An asset puts money into your pocket regardless of whether you work, while a liability takes money out. The same item, such as a house, can be either depending on how it is used and whether it generates positive cash flow. True financial intelligence is measured by your ability to control the direction of cash flow, not by your job title, degree, or credit score.
+This teaching explains how to identify whether something in your financial life is truly an asset or a liability by applying one simple rule: follow the cash flow. An asset puts money into your pocket regardless of whether you work, while a liability takes money out. The same item, such as a house, can be either depending on how it is used and whether it generates positive cash flow. Financial intelligence is the ability to control cash flow, not your college degree or FICO score.
 
 ## When to Follow These Money Teachings
 
