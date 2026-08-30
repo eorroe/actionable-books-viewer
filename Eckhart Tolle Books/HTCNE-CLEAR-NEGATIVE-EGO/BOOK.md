@@ -2,7 +2,7 @@
 
 ## Overview
 
-This book is a comprehensive guide to understanding and transcending the negative ego, which Dr. Joshua David Stone identifies as the single most important spiritual practice for lightworkers and spiritual seekers. It presents a revolutionary system called Ascension Psychology that teaches the two distinct ways of thinking—the negative ego mind and the Christ/Buddha/Spiritual mind—and provides practical tools, step-by-step instructions, and advanced spiritual technologies to clear negative ego patterns, balance the four bodies, integrate the Seven Rays, and achieve Integrated Ascension. The book draws on channeled wisdom from Ascended Masters such as Djwhal Khul, Sanat Kumara, and Sai Baba to offer a complete roadmap for mastering the psychological level of spiritual growth, clearing diseases caused by negative ego thinking, and ultimately realizing God-consciousness on Earth.
+This book is a comprehensive guide to understanding and transcending the negative ego. Dr. Joshua David Stone identifies transcending the negative ego as one of the most important spiritual practices for lightworkers and spiritual seekers. It presents a revolutionary system called Ascension Psychology that teaches the two distinct ways of thinking—the negative ego mind and the Christ/Buddha/Spiritual mind—and provides practical tools, step-by-step instructions, and advanced spiritual technologies to clear negative ego patterns, balance the four bodies, integrate the Seven Rays, and achieve Integrated Ascension. The book draws on channeled wisdom from Ascended Masters such as Djwhal Khul, Sanat Kumara, and Sai Baba to offer a complete roadmap for mastering the psychological level of spiritual growth, clearing diseases caused by negative ego thinking, and ultimately realizing God-consciousness on Earth.
 
 ## When to Follow Book Teachings
 
@@ -35,11 +35,11 @@ Make a conscious vow to yourself and God that you will choose only God and the H
 
 #### Step 2: Practice the Science of Denial and Affirmation
 
-Whenever a negative ego thought tries to enter your mind, deny it entrance and push it out. Deliberately redirect your attention to a positive and/or more spiritual thought. This process occurs repeatedly throughout each day. By denying negative thoughts and keeping your mind steady in the Light, negative thoughts will die from lack of energy and a new positive habit will be formed in your subconscious mind.
+Whenever a negative ego thought tries to enter your mind, deny it entrance and push it out. Deliberately redirect your attention to a positive and/or more spiritual thought. This process occurs repeatedly throughout each day. By denying negative thoughts and keeping your mind steady in the Light, negative thoughts will weaken and fade from lack of attention, and a new positive habit will be formed in your subconscious mind.
 
 #### Step 3: Use the Blessing Method
 
-Bless and give thanks for everything that happens in your life. The negative ego curses and gets angry when its attachments and expectations are not met. The Christ Mind, having only preferences rather than attachments, is happy either way because inner peace is a state of mind rather than attached to something outside of Self.
+Bless and give thanks for everything that happens in your life. The negative ego curses and gets angry when its attachments and expectations are not met. The Christ Mind, having only preferences rather than attachments, is happy either way because inner peace is a state of mind rather than attached to something outside of your true divine identity.
 
 #### Best Practices
 
@@ -59,7 +59,7 @@ Bless and give thanks for everything that happens in your life. The negative ego
 - The author teaches that the negative ego is the cause of all negative emotions, negative thoughts, negative behaviors, physical diseases, psychological diseases, relationship problems, and poverty consciousness
 - God equals man minus ego (Sai Baba)
 - The transcendence of the negative ego is the core foundation of Ascension and all spiritual development, the author teaches.
-- Psychological health is nothing more than maintaining a good mental diet
+- The author teaches that psychological health involves maintaining a conscious mental diet of positive and spiritual thoughts.
 - You are the executive director of your personality; God and the Ascended Masters will not do this work for you
 
 #### Security & Safety Notes
@@ -83,15 +83,15 @@ Bless and give thanks for everything that happens in your life. The negative ego
 
 ##### Example 1: The Four-Body System
 
-According to the text, some lightworkers are top-heavy, filtering a great deal of energy into the spiritual tube, which leaves the mental, emotional, and physical tubes depleted. This creates imbalances, leakages, and problems. The key lesson is always balance and moderation in all things.
+According to the text, some lightworkers are top-heavy, filtering significant energy into the spiritual tube, which leaves the mental, emotional, and physical tubes depleted. This creates imbalances, leakages, and problems. The key lesson is always balance and moderation in all things.
 
 ##### Example 2: The House Analogy
 
-The text uses the analogy that the psychological level is like the first floor of a two-story house. If the foundation is not built properly, the second floor or spiritual level will not be supported and may ultimately collapse.
+The text uses the analogy that the psychological level is like the first floor of a two-story house. If the foundation is not built properly, the second floor—the spiritual level—will not be supported and may ultimately collapse.
 
 #### Step 1: Master the Spiritual Level
 
-Build your Light Quotient, Love Quotient, and Power Quotient. Anchor and activate your Higher Chakras (8-330) and Higher Bodies. Develop your ability to channel, pray, meditate, and co-create with God. Establish your Antakarana back to your Monad and Source.
+Build your Light Quotient, Love Quotient, and Power Quotient. Anchor and activate your Higher Chakras (chakras 8 through 330, beyond the seven basic chakras) and Higher Bodies. Develop your ability to channel, pray, meditate, and co-create with God. Establish your Antakarana back to your Monad and Source.
 
 #### Step 2: Master the Psychological Level
 
@@ -104,7 +104,7 @@ Maintain proper diet, exercise, fresh air, sunshine, and sufficient sleep for yo
 #### Best Practices
 
 - ✅ Develop a balanced, well-integrated psychoepistemology
-- ✅ Keep the water balanced in all four tubes (bodies)
+- ✅ Keep the energy balanced across all four bodies (physical, emotional, mental, spiritual)
 - ✅ Do a quick daily check-in with your four bodies and three minds to ensure all parts are in alignment and free of obvious distress
 - ✅ Practice integrating all aspects of yourself into balanced harmony
 - ✅ Strive for Integrated Ascension, not just spiritual ascension
@@ -188,7 +188,7 @@ If you are too yin, develop personal power, boundaries, and mental clarity. If y
 
 #### Step 3: Stay in the Tao
 
-In every situation, there is a response aligned with your Higher Self. Listen to your Higher Self for guidance. When guided by the negative ego, you will be guided inappropriately.
+In every situation, there is a response aligned with your Higher Self. Listen to your Higher Self for guidance. When guided by the negative ego, you will be guided in ways that are out of alignment with your Higher Self.
 
 #### Best Practices
 
@@ -212,11 +212,11 @@ The most severe spiritual tests come when a person moves into a position of lead
 
 #### Step 1: Program Your Consciousness Now
 
-The text uses the metaphor of programming your conscious and subconscious computer, so you will not be knocked off balance when tests come.
+The text uses the metaphor of programming your conscious and subconscious minds, so you will not be knocked off balance when tests come.
 
 #### Step 2: Accept That Mistakes Are Positive
 
-Mistakes are lessons. Spiritual progress is nonlinear and includes periods of advancement and setback. The more integrated spiritual mastery you gain, the fewer mistakes you will make. Forgive yourself, learn the lesson, and return to your spiritual practice.
+Mistakes are lessons. Spiritual progress is nonlinear and includes periods of advancement and setback. The more integrated spiritual mastery you gain, the fewer mistakes you will make, according to the text. Forgive yourself, learn the lesson, and return to your spiritual practice.
 
 #### Step 3: Remain Vigilant
 
@@ -244,7 +244,7 @@ Strive for the highest level of Integrated Spiritual Mastery and God Purity—a 
 
 ##### Example 1: Professional Blind Spots
 
-The text observes that a spiritual psychologist sees things others do not because of their training. An artist sees beauty others miss. A psychic sees energies others cannot. Whatever you have been trained in, you see through; whatever you have not been trained in, you have blind spots to.
+A spiritual psychologist perceives psychological patterns and causes that others miss because of their specialized training. An artist sees beauty others miss. A psychic sees energies others cannot. Whatever you have been trained in, you see through; whatever you have not been trained in, you have blind spots to.
 
 ##### Example 2: The Full Spectrum Prism
 
@@ -277,7 +277,7 @@ Work on mastering your mind, feelings, emotions, subconscious mind, inner child,
 
 ##### Example 1: The Duck Back Response
 
-When attacked, remain in your personal power, unconditional self-love, and self-worth. Let their negative energy slide off your protective bubble. You maintain your energetic boundaries using Psychic Self-Defense, and you are not letting it implant in your subconscious mind.
+When attacked, remain in your personal power, unconditional self-love, and self-worth. Let their negative energy be deflected by your energetic boundaries. You maintain your energetic boundaries using Psychic Self-Defense, and you are not letting it implant in your subconscious mind.
 
 ##### Example 2: The Christed Response
 
@@ -293,7 +293,7 @@ After the attack, get a pen and paper. Write down the key points they stated and
 
 #### Step 3: Respond from Your Higher Self
 
-If you choose to respond, do so in a very calm, rational, unconditionally loving manner. Do not catch their psychological disease. Share your spiritual observations and discernments. Remember above all else that this is a spiritual test.
+If you choose to respond, do so in a very calm, rational, unconditionally loving manner. Do not absorb their negative ego thinking and emotional negativity. Share your spiritual observations and discernments. Remember above all else that this is a spiritual test.
 
 #### Best Practices
 
@@ -304,7 +304,7 @@ If you choose to respond, do so in a very calm, rational, unconditionally loving
 - ✅ Frame disagreements as differences of lens, not right vs. wrong
 - ✅ Practice turning the other cheek and humility
 - ❌ Do not engage in an ego battle or fight back from your negative ego
-- ❌ Do not take attacks personally; they are coming from the other person's insecurity and fear
+- ❌ Do not take attacks personally; they are coming from the other person's insecurity and fear, according to the text.
 - ❌ Do not lower yourself to their level
 
 #### Common Pitfalls
@@ -312,7 +312,7 @@ If you choose to respond, do so in a very calm, rational, unconditionally loving
 - **Problem:** Letting the negative ego in you lash back and put the attacker in their place
   **Solution:** The text uses the saying that verbal attacks do not affect your true spiritual identity
 - **Problem:** Emotionally charged communication
-  **Solution:** Never communicate when you or the other person are too emotionally charged; wait until you are centered
+  **Solution:** Never communicate when you or the other person are too emotionally charged to speak from your Christ/Buddha Consciousness; wait until you are centered
 
 ### Lesson 8: Turning Lemons into Lemonade
 
@@ -332,7 +332,7 @@ From God's perspective, everything that happens is positive and contains a lesso
 
 #### Step 2: Focus on What You Can Do
 
-If you lose your voice, become a writer. If you can't walk, join the Olympics in a wheelchair event. If you have an illness, dedicate your life to developing your inner life. No matter how much is taken away, there is always something you can do.
+If you lose your voice, become a writer. If you can't walk, join the Olympics in a wheelchair event. If you have an illness, dedicate your life to developing your inner life. According to the text, no matter how much is taken away, there is always something you can do.
 
 #### Step 3: Dedicate Your Life to Service
 
@@ -341,7 +341,7 @@ Dedicate your life to helping others so they never have to go through what you w
 #### Best Practices
 
 - ✅ View everything that happens as a spiritual test and lesson
-- ✅ Have preferences rather than attachments
+- ✅ Have preferences rather than attachments; preferences allow for inner peace regardless of outcome, while attachments create suffering when expectations are not met
 - ✅ Bless everything that comes into your life
 - ✅ Welcome adversity as Sai Baba has said
 - ✅ Focus on what you can do instead of what you can't do
@@ -358,22 +358,22 @@ According to this teaching, those who see life through the Eyes of Love demonstr
 
 #### Step 1: Think Only Love Thoughts
 
-The text teaches that Love Thoughts only create Love feelings and emotions. Love thoughts, feelings, and emotions create a love-filled physical body, which is much healthier and more energized. This attracts and magnetizes more love to you.
+According to the text, Love Thoughts only create Love feelings and emotions. Love thoughts, feelings, and emotions create a love-filled physical body, which is much healthier and more energized. This attracts and magnetizes more love to you, according to the teaching.
 
 #### Step 2: Balance Your Three-Fold Flame
 
-To see through the Eyes of Love, one must balance the Three-Fold Flame of Love, Wisdom, and Power, and the Seven Rays of God. Mastery over one's mind, feelings, emotions, physical body, and energies is essential.
+To see through the Eyes of Love, one must balance the Three-Fold Flame of Love, Wisdom, and Power, and the Seven Rays of God. Mastery over one's mind, feelings, emotions, physical body, and energies—meaning the ability to direct them consciously rather than being directed by them—is essential.
 
 #### Step 3: Practice Unconditional Love at All Times
 
-The Master of the Eyes of Love experiences only Love in their life because they only think Love Thoughts. They see every stranger as an incarnation of God.
+One who has integrated the Christ/Buddha Consciousness experiences only Love in their life because they only think Love Thoughts. They see every stranger as an incarnation of God.
 
 #### Best Practices
 
 - ✅ See every situation as an opportunity to practice demonstrating Love
-- ✅ Interpret all events from the Melchizedek/Christ/Buddha mind
+- ✅ Interpret all events from the unified Christ/Buddha/Melchizedek Consciousness.
 - ✅ Cultivate self-love and love for and from God
-- ✅ Remain optimistic by choosing to focus on the loving interpretation of events rather than pessimistic
+- ✅ Remain constructive by choosing to focus on the loving interpretation of events rather than destructive
 - ✅ Practice forgiveness and love for yourself when you are unloving
 - ❌ Do not look for fault in others; be a love finder
 - ❌ Do not be overly identified with love to the exclusion of power
@@ -392,7 +392,7 @@ Lightworkers must first learn these lessons within self. You cannot solve a prob
 
 #### Step 2: Share With Others
 
-Share this understanding with friends, family, and students. Bring this understanding into your profession and field of study.
+Share this understanding with friends, family, and students. Bring this understanding into your profession and field of study by applying these principles to your work and sharing them with colleagues.
 
 #### Step 3: Change Institutions
 
@@ -401,7 +401,7 @@ Help transform Earthly institutions from negative ego-based institutions to Chri
 #### Best Practices
 
 - ✅ Get to the root cause of problems rather than treating symptoms
-- ✅ Understand that band-aid solutions are helpful but not ultimate
+- ✅ Understand that band-aid solutions that treat symptoms are helpful but not ultimate; only addressing the root cause through spiritual and psychological work creates permanent transformation.
 - ✅ Work on changing the psychological consciousness of the world's people
 - ❌ Do not just focus on outer solutions without inner transformation
 
@@ -419,18 +419,18 @@ Focus on developing the senses of the Higher Mind, Buddhic senses, Atmic senses,
 
 #### Step 2: Integrate Psychic Abilities
 
-There is nothing wrong with being psychically developed, but it must be integrated into an understanding of total Self-realization and used only in service of the soul and monad.
+There is nothing wrong with being psychically developed, but it must be integrated into an understanding of total Self-realization and used only in service of the soul and monad, according to the text.
 
 #### Step 3: Be Discernful
 
-People can only channel at the level of their clarity. If your channel is clouded by negative ego, your information will be contaminated.
+People can only channel at the level of their clarity. According to the text, if your channel is clouded by negative ego, your information will be contaminated.
 
 #### Best Practices
 
 - ✅ Be much more concerned with developing higher senses than lower psychic senses
 - ✅ Integrate all senses on all levels for spiritual growth and service
 - ✅ Understand that being psychic has nothing to do with being spiritual
-- ❌ Do not get caught in the side road of fascination with lower psychic development
+- ❌ Do not get caught in the distraction of fascination with lower psychic development
 - ❌ Do not use your gifts for manipulation, control, or attention
 
 ### Lesson 12: The Ascension Buddy System
@@ -439,7 +439,7 @@ People can only channel at the level of their clarity. If your channel is cloude
 
 ##### Example 1: The Support System
 
-The ascension buddy system creates a support system that provides honest feedback delivered with love and without judgment that reflects your blind spots. It is essential to give feedback in a loving, not critical, way. Choose well-rounded and balanced people with diverse spiritual gifts; do not choose buddies who all share the exact same blind spots.
+The ascension buddy system creates a support system that provides honest feedback delivered with love and without judgment that reflects your blind spots. It is essential to give feedback in a loving, not critical, way. Choose well-rounded and balanced people with a variety of spiritual gifts; do not choose buddies who all share the exact same blind spots.
 
 #### Step 1: Make a Pact
 
@@ -455,10 +455,10 @@ The ascension buddy system can expand to a larger spiritual community. The four 
 
 #### Best Practices
 
-- ✅ Choose well-rounded and balanced people for your buddy system
+- ✅ Choose people who demonstrate integrated spiritual, psychological, and physical mastery for your buddy system
 - ✅ Give feedback in a loving, non-judgmental manner
 - ✅ Be open to feedback without defensiveness
-- ✅ Create a non-judgmental space where feedback is given without criticism, making it safe to recognize negative ego control
+- ✅ Create a space where feedback is given with love and without personal criticism, making it safe to recognize negative ego control without fear of rejection
 - ❌ Do not choose buddies who all share the same imbalances
 - ❌ Do not become obsessive about giving feedback; use discernment
 
@@ -468,11 +468,11 @@ The ascension buddy system can expand to a larger spiritual community. The four 
 
 ##### Example 1: Migraine Headaches
 
-Migraine headaches are unintegrated psychological material surfacing from the subconscious where the person has not acknowledged their soul connection. They are always connected with psychic pressure.
+According to the Masters, migraine headaches are unintegrated psychological material surfacing from the subconscious where the person has not acknowledged their soul connection. According to the Masters, they are always connected with psychic pressure.
 
 ##### Example 2: Cancer
 
-Cancer basically has to do with a disintegration of certain cells in the body. It manifests when a person is not spiritually, psychologically, and physically balanced and integrated. Tumors can be formed around alien implants and negative elementals, according to the Masters' perspective.
+According to the Masters, cancer has to do with a disintegration of cells in the body. It manifests when a person is not spiritually, psychologically, and physically balanced and integrated. Tumors can be formed around alien implants and negative elementals, according to the Masters' perspective.
 
 #### Step 1: Understand the Cause
 
@@ -491,7 +491,7 @@ Call in the Arcturians, inner plane Healing Masters, and use homeopathics, radio
 - ✅ Understand that disease is a purification process and teacher
 - ✅ Work with the Laws of Healing as given by Djwhal Khul
 - ✅ Call for matrix removal programs to clear implants, elementals, and astral entities
-- ✅ Use homeopathic and naturopathic medicine for true healing as understood within this spiritual framework
+- ✅ Use homeopathic and naturopathic medicine for healing that addresses the spiritual and psychological root causes
 - ❌ Do not rely solely on Western medicine, which the author says treats symptoms rather than causes
 - ❌ Do not ignore the psychological and spiritual causes of disease
 
@@ -509,7 +509,7 @@ Dedicate your remaining health lessons to the glory of God. Even if you cannot d
 
 #### Step 1: See Health Problems as Teachers
 
-Do not look at disease as bad; it is good, for it is teaching you something you need to learn. Djwhal Khul says disease is a purification process.
+According to Djwhal Khul, do not look at disease as bad; it is good, for it is teaching you something you need to learn. Djwhal Khul says disease is a purification process.
 
 #### Step 2: Maintain Personal Power Regardless of Health
 
@@ -536,15 +536,15 @@ Focus on what you can do instead of what you can't do. Turn your health lessons 
 
 ##### Example 1: Universal Archetype Attunement
 
-Djwhal Khul unveiled a process where the twelve archetypes can be divinely imprinted upon the core of one's being along with the proper pranic energy flows that re-establish each person's monadic energy signature. This is done in Djwhal Khul's holographic computer room—a meditative process in Djwhal Khul's ashram.
+Djwhal Khul unveiled a process where the twelve archetypes can be imprinted upon one's core being along with the proper life-force energy flows that re-establish each person's unique divine energy signature. This is done in Djwhal Khul's holographic computer room—a meditative process in Djwhal Khul's ashram.
 
 #### Step 1: Ask for the Universal Archetype Attunement
 
-Ask to be taken to Djwhal Khul's ashram and request to enter the holographic computer room for a Universal Archetypal Energy Attunement. This is a permanent imprinting that brings into balance all past life archetypal themes and future lives into the present.
+Ask to be taken to Djwhal Khul's ashram and request to enter the holographic computer room for a Universal Archetypal Energy Attunement. This is a permanent energetic imprinting that harmonizes past-life archetypal patterns and future-life potentials within the present moment.
 
 #### Step 2: Work with the Tree of Life
 
-Study the Tree of Life and Kabbalah. Call in Djwhal Khul, Lord Maitreya, Lord Buddha, and Lord Melchizedek for the anchoring and activation of your planetary and cosmic Tree of Life.
+Study the Tree of Life and Kabbalah. Call in Djwhal Khul, Lord Maitreya, Lord Buddha, and Lord Melchizedek through prayer and meditation for the anchoring and activation of your planetary and cosmic Tree of Life.
 
 #### Step 3: Do the Conscious Psychological Work
 
@@ -563,7 +563,7 @@ The holographic computer work must be supported by one's own psychological work 
 
 ##### Example 1: Higher and Lower Expressions of Each Sephiroth
 
-Each sephiroth has a higher (spiritual) and lower (negative ego) expression. For example, Kether's higher expression is someone who keeps spiritual life in balance with physical life; its lower expression is being top-heavy or over-identified with heavenly energies at the expense of earth life.
+Each sephiroth has a higher (spiritual) and lower (negative ego) expression. For example, Kether's higher expression is someone who keeps spiritual life in balance with physical life; its lower expression is being top-heavy or over-identified with heavenly energies to the neglect of earthly responsibilities and physical life.
 
 #### Step 1: Study Each Sephiroth
 
@@ -571,7 +571,7 @@ Learn the higher and lower expressions of each of the ten sephiroth: Kether (Cro
 
 #### Step 2: Identify Your Imbalances
 
-Notice which sephiroth you are over-identified with one sephiroth and which ones are underdeveloped sephiroth. This will show you where your energy flow may be blocked.
+Notice which sephiroth you are over-identified with and which ones are underdeveloped. This will show you where your energy flow may be blocked.
 
 #### Step 3: Integrate All Ten Sephiroth
 
@@ -688,3 +688,6 @@ The ideal is to integrate and utilize all ten sephiroth in their higher expressi
 |Saint Francis Initiation|The spiritual test of serving with great dignity despite chronic health challenges|20|
 |Hanna Kroeger Initiation|Dedicating remaining health lessons for the glory of God even when bedridden or limited|20|
 |Sai Baba|A Universal Ascended Master referenced throughout the book as an example of full God-realization|1, 2, 3, 8, 22, 23|
+|Denial and Affirmation|The practice of denying negative ego thoughts entrance into the mind and affirming positive/spiritual thoughts instead; practiced repeatedly throughout the day|1|
+|Blessing Method|The practice of blessing and giving thanks for everything that happens in life, rather than cursing or getting angry when attachments and expectations are not met|1|
+|Psychological Homework|The work of mastering the psychological level: developing a healthy psychoepistemology, parenting the inner child, developing self-love and self-worth, owning personal power, and reprogramming the subconscious mind|3, 6|
