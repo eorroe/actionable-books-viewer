@@ -2,7 +2,7 @@
 
 ## Overview
 
-Outwitting the Devil is Napoleon Hill's decades-in-the-making masterwork on how the human mind can be controlled by fear—and how it can be freed through faith, definiteness of purpose, and disciplined thought. Through a fictional interview with the Devil himself, Hill exposes the six basic fears that enslave 98% of humanity, reveals the mechanics of hypnotic rhythm and drifting, and provides a practical philosophy of achievement rooted in self-discipline, Master Mind alliances, and service to others. The book exists as a direct warning: freedom is available to anyone who masters the mind, maintains a definite purpose, and acts on inner guidance without delay.
+Outwitting the Devil is Napoleon Hill's 20-years-in-the-making masterwork on how the human mind can be controlled by fear—and how it can be freed through faith, definiteness of purpose, and disciplined thought. Through a fictional interview with the Devil himself, Hill exposes the six basic fears that, according to the Devil, enslave 98% of humanity; reveals the mechanics of hypnotic rhythm and drifting; and provides a practical philosophy of achievement rooted in self-discipline, Master Mind alliances, and service to others. The book exists as a direct warning: freedom is available to anyone who masters the mind, maintains a definite purpose, and acts on inner guidance without delay.
 
 ## When to Follow Book Teachings
 
@@ -12,7 +12,7 @@ Outwitting the Devil is Napoleon Hill's decades-in-the-making masterwork on how 
 - When you want to build self-discipline, break destructive habits, or cultivate a faith-driven inner voice that supersedes fear
 - When forming or leading a team, Master Mind group, or organization and need principles for coordinated thinking and harmonious effort
 - When you are educating yourself or others and want to shift from abstract knowledge to practical, mind-developing learning
-- When making major life decisions about relationships, occupation, health, or finances and need to stop drifting into unplanned outcomes
+- When making major life decisions about health, marriage, occupation, savings, environment, and dominating thoughts and need to stop drifting into unplanned outcomes
 
 ## Lessons From Book
 
@@ -22,7 +22,7 @@ Outwitting the Devil is Napoleon Hill's decades-in-the-making masterwork on how 
 
 ##### Example 1: Carnegie's Challenge
 
-When Andrew Carnegie challenged Napoleon Hill to spend 20 years interviewing both successful and failed people to produce a philosophy of achievement, Hill was forced to rely on an inner voice that provided clear commands—orders he could not misunderstand—that guided him through decades of uncertainty and financial hardship.
+When Andrew Carnegie challenged Napoleon Hill to spend 20 years interviewing both successful and failed people to produce a philosophy of achievement, Hill was forced to rely on an inner voice that provided clear commands—orders he could not misunderstand—that guided him through uncertainty and financial hardship.
 
 ##### Example 2: The Economic Depression of 1929
 
@@ -48,7 +48,7 @@ Maintain doubt, worry, and all thoughts of limitation out of your mind. Worrying
 
 - ✅ Conduct yourself as if you already possess the money or success you seek—this activates the faith entity
 - ✅ Treat the "other self" as a separate, reliable guide and obey its orders precisely
-- ✅ Daily faith practices (prayer, gratitude, positive self-talk) strengthen the faith entity so it can take command when needed
+- ✅ Daily faith practices (prayer, gratitude) strengthen the faith entity so it can take command when needed
 - ❌ Do not allow the fear entity to regain control through a single moment of doubt
 - ❌ Do not question or rationalize orders from the "other self"—act immediately
 - ❌ Do not worry about financial limitations; trust that money comes when you are on your definite path
@@ -66,7 +66,7 @@ The "other self" never commands you to act against your own conscience or the we
 - **Problem:** Allowing the fear entity to regain power through a single moment of doubt.
   **Solution:** Immediately redirect thoughts to faith and act on the last known inner command. One doubt does not break the rhythm; sustained fear does.
 - **Problem:** Worrying about financial limitations instead of trusting they will resolve.
-  **Solution:** Remind yourself that the "other self" operates through definite purpose. Resources follow action aligned with purpose, not anxiety.
+  **Solution:** Remind yourself that the "other self" operates through definite purpose. Action aligned with purpose brings results; anxiety does not.
 - **Problem:** Forgetting the "other self" exists during crisis.
   **Solution:** Set daily reminders and rituals to reconnect with faith-driven guidance before crisis hits—do not wait for emergencies to activate it.
 
@@ -86,7 +86,7 @@ Hill documents the story of a gold prospector who gave up just three feet from s
 
 #### Step 1: Identify Your Major Definite Purpose
 
-Write a one-sentence statement of your definite purpose in life. Make it specific, measurable, and time-bound. Include what you want, by when, and at what level. Your purpose should be so clear you could state it to a stranger in under 10 seconds.
+Write a one-sentence statement of your definite purpose in life. Make it specific, measurable, and time-bound. Include what you want, by when, and at what level. Your purpose should be so clear you could state it from memory without hesitation.
 
 #### Step 2: Formulate a Definite Plan
 
@@ -98,20 +98,20 @@ Apply your plans continuously. When plans fail, substitute new ones but do not c
 
 #### Step 4: Review Your Purpose Daily
 
-Read your written purpose statement every morning and evening without fail. Share it with no one until you have made your first significant move toward it.
+Read your written purpose statement every morning and evening without fail. Share it with no one until you have made your first move toward it.
 
 #### Best Practices
 
 - ✅ Use definiteness like building a physical body—through constant, systematic use
 - ✅ Close your mind to distractions, bribes, and empty promises while pursuing your purpose
 - ✅ Change plans but never your purpose; this is the essence of self-determination
-- ❌ Do not sleep on your purpose—98 out of 100 people lose the privilege of definiteness by neglecting it
+- ❌ Do not sleep on your purpose—98% of people lose the privilege of definiteness by neglecting it
 - ❌ Do not change your purpose every time an obstacle appears
 - ❌ Do not accept temporary defeat as permanent failure
 
 #### Keep In Mind
 
-Definiteness of purpose is the only efficacious form of prayer. It closes the door of the mind to negative influence as long as it is followed as policy. Weak plans applied with definiteness become strong; a sound plan applied indefinitely succeeds more quickly.
+Definiteness of purpose is the only efficacious form of prayer. It closes the door of the mind to negative influence as long as it is followed as policy. Weak plans applied with definiteness become strong; a sound plan applied consistently succeeds more quickly.
 
 #### Security & Safety Notes
 
@@ -121,8 +121,8 @@ The Devil cannot control any human being who is definite in purpose. Definitenes
 
 - **Problem:** Changing purpose when plans fail instead of changing only the plan.
   **Solution:** Write your purpose separately from your plans. When a plan fails, ask: "What new plan serves my existing purpose?" Never alter the purpose itself.
-- **Problem:** Having vague or multiple competing purposes.
-  **Solution:** Choose one definite purpose at a time. Multiple purposes dilute focus and invite drifting.
+- **Problem:** Having vague or competing purposes.
+  **Solution:** Choose one definite purpose at a time. More than one purpose at a time dilutes focus and invites drifting.
 - **Problem:** Allowing one setback to shake definiteness.
   **Solution:** Treat setbacks as tests of commitment, not reasons to abandon purpose. "I am never quite so near success as when failure has overtaken me."
 
@@ -134,11 +134,11 @@ The Devil cannot control any human being who is definite in purpose. Definitenes
 
 ##### Example 1: The Drifter's School-to-Job Path
 
-Most people drift out of school into the first job they can find, marry whoever is convenient, eat whatever is available, and save whatever is left over. Each drift is a tiny surrender of self-determination that compounds into a life governed by circumstance rather than purpose.
+98% of people drift out of school into the first job they can find, with no definite aim or purpose except to make a living; drift into marriage without plan or purpose; and spend freely while saving sparingly or not at all. Each drift is a tiny surrender of self-determination that compounds into a life governed by circumstance rather than purpose.
 
 ##### Example 2: The Devil's Confession on 98% Control
 
-The Devil himself confesses that he controls 98% of humankind through drifting—people who drift from infancy into adulthood without ever forming their own independent thoughts, plans, or purposes. Only 2%—the non-drifters—possess most of the wealth of the world.
+The Devil himself confesses that he controls 98% of humankind through drifting—people who drift from infancy into adulthood without ever forming their own independent thoughts, plans, or purposes. Only 2%—the non-drifters—possess the wealth of the world.
 
 #### Step 1: Define Drifting Honestly
 
@@ -150,7 +150,7 @@ Evaluate where you are drifting in health, marriage, occupation, savings, enviro
 
 #### Step 3: Stop Drifting in Each Area
 
-Health: Stop eating too much and wrong foods; develop proper eating habits. Marriage: Do not drift into marriage without plan or purpose. Occupation: Do not drift out of school into the first job without a definite aim. Savings: Spend wisely and save consistently. Environment: Do not remain in inharmonious surroundings. Thoughts: Stop thinking negatively.
+Health: Stop overeating and consuming foods in improper combinations; develop proper eating habits. Marriage: Do not drift into marriage without plan or purpose. Occupation: Do not drift out of school into the first job without a definite aim. Savings: Spend wisely and save consistently. Environment: Do not remain in inharmonious surroundings. Thoughts: Stop thinking negatively.
 
 #### Step 4: Close the Nine Doors
 
@@ -158,7 +158,7 @@ Identify the nine entry points the Devil uses: fear, superstition, avarice, gree
 
 #### Step 5: Transform From Drifter to Non-Drifter
 
-Wake up. Give useful service to as many people as possible. Develop a major goal. Create minor goals that lead toward it. Make quick decisions and stick to them. Give direct answers. Admit when you do not know. Never blame others. Use your mind for all purposes.
+Wake up. Give useful service to others. Develop a major goal. Create minor goals that lead toward it. Make quick decisions and stick to them. Give direct answers. Admit when you do not know. Never blame others. Use your mind for all purposes.
 
 #### Best Practices
 
@@ -171,7 +171,7 @@ Wake up. Give useful service to as many people as possible. Develop a major goal
 
 #### Keep In Mind
 
-The non-drifter's message to drifters is: "Wake up and give some form of service useful to as many people as possible." Poverty, like physical illness, is a contagious disease found among drifters. Non-drifters possess most of the wealth of the world because they control their own minds.
+The non-drifter's message to drifters is: "Wake up and give useful service." Poverty, like physical illness, is a contagious disease found among drifters. Non-drifters possess the wealth of the world because they control their own minds.
 
 #### Security & Safety Notes
 
@@ -181,7 +181,7 @@ The Devil controls the weak, not those who think for themselves. Accurate though
 
 - **Problem:** Having opinions on everything but accurate knowledge of nothing.
   **Solution:** Seek accurate knowledge before forming opinions. Facts over feelings.
-- **Problem:** Beginning many things but completing nothing.
+- **Problem:** Beginning things but completing nothing.
   **Solution:** Focus on one major purpose and see it through to completion.
 - **Problem:** Drifting into inharmonious environments and remaining there.
   **Solution:** Actively change your environment when it becomes negative. Non-drifters choose their environments; drifters accept them.
@@ -227,7 +227,7 @@ List core beliefs you hold about work, success, and authority. For each, ask: "I
 
 #### Keep In Mind
 
-Fear is the Devil's primary tool because it prevents independent thinking and makes people susceptible to control. Once you understand the fear, it loses its power. Fear of criticism is the Devil's most effective weapon because it prevents people from publishing truth and thinking independently.
+Fear is a primary tool because it prevents independent thinking and makes people susceptible to control. Once you understand the fear, it loses its power. Hill identifies fear of criticism as the Devil's most effective weapon because it prevents people from publishing truth and thinking independently.
 
 #### Security & Safety Notes
 
@@ -238,7 +238,7 @@ Fear-based propaganda from media, institutions, and social circles is designed t
 - **Problem:** Dismissing fears as irrational without addressing them.
   **Solution:** Acknowledge the fear's presence, then systematically work to neutralize it with accurate knowledge.
 - **Problem:** Letting fear of criticism prevent action.
-  **Solution:** Remember that criticism often comes from those who are afraid to act themselves. Opposition can prevent drifting if you stand your ground.
+  **Solution:** Remember that criticism comes from those who are afraid to act themselves. Opposition can prevent drifting if you stand your ground.
 - **Problem:** Believing you are immune to fear because of your background.
   **Solution:** Remember that even Hill, author of a success philosophy, fell victim to fear during the Depression. Vigilance is required at all times.
 
@@ -258,23 +258,23 @@ Hill compares thought-energy to water in a river. The direction of the river is 
 
 #### Step 1: Identify Your Dominating Thought Habits
 
-List your current dominating thoughts—the ones mixed with strong emotion. Evaluate whether each is constructive (power, success, opulence) or destructive (poverty, fear, failure). All deeds follow thoughts; there can be no physical action without a thought pattern preceding it.
+List your current dominating thoughts—the ones mixed with strong emotion. Evaluate whether each is constructive (power, success, opulence) or destructive (poverty, fear, failure). Deeds follow thoughts; physical action is preceded by a thought pattern.
 
 #### Step 2: Choose New Dominating Thoughts
 
-Replace fear-based thoughts with expectation-based thoughts. If your mind fears poverty, it will attract poverty. If your mind demands opulence, it will attract opulence. The demand must become a habit so hypnotic rhythm takes over automatically in a positive direction.
+Replace fear-based thoughts with expectation-based thoughts. If your mind fears poverty, it will attract poverty. If your mind demands opulence, it will attract opulence. The demand must become a habit so hypnotic rhythm takes over in a positive direction.
 
 #### Step 3: Repeat Until Rhythm Is Established
 
-Repeat chosen positive thoughts daily at the same time/trigger for at least 21 days. Track progress. The same law that locks in bad habits can lock in good ones—use it intentionally.
+Repeat chosen positive thoughts daily at the same time/trigger consistently. Track progress. The same law that locks in bad habits can lock in good ones—use it intentionally.
 
 #### Step 4: Use Master Minding to Break Negative Rhythm
 
-Combine your mind with at least one other aligned mind daily through Master Minding. Two minds in harmony give access to Infinite Intelligence and break the Devil's spell. This was the secret power that forced the Devil's confession.
+Combine your mind with at least one other aligned mind daily through Master Minding. Two minds in harmony give access to Infinite Intelligence and break the Devil's spell. This practice forced the Devil's confession.
 
 #### Best Practices
 
-- ✅ Break undesirable habits before they assume the proportions of rhythm—once rhythm is established, it is nearly impossible to break
+- ✅ Break undesirable habits before they assume the proportions of rhythm—once rhythm is established, it is impossible to break
 - ✅ Use triggers to anchor new habits (e.g., "After I brush my teeth, I will review my goals")
 - ✅ Understand that hypnotic rhythm works both ways—it can fix poverty/fear or prosperity/faith permanently
 - ❌ Do not think a habit can be broken after it reaches the rhythm stage—intercept it early
@@ -292,9 +292,9 @@ The Devil uses hypnotic rhythm to trap people in permanent patterns of fear, pov
 #### Common Pitfalls
 
 - **Problem:** Expecting overnight change from hypnotic rhythm work.
-  **Solution:** Hypnotic rhythm requires consistent repetition; trust the timeline. Change becomes visible after the third week of consistent practice.
+  **Solution:** Hypnotic rhythm requires consistent repetition; trust the timeline. Consistency matters more than intensity.
 - **Problem:** Breaking the chain of repetition early.
-  **Solution:** Do not miss more than one day in the first 21 days. Consistency matters more than intensity.
+  **Solution:** Maintain consistent repetition without breaking the chain. Consistency matters more than intensity.
 - **Problem:** Believing being "good" or moral alone is sufficient.
   **Solution:** Morals influence thoughts, but only dominating thoughts mixed with emotion create physical equivalents. Choose your dominating thoughts deliberately.
 
@@ -306,13 +306,13 @@ The Devil uses hypnotic rhythm to trap people in permanent patterns of fear, pov
 
 ##### Example 1: Andrew Carnegie's Master Mind Group
 
-Carnegie's entire steel empire was built through a Master Mind alliance of more than a dozen specialized minds working in perfect harmony. No single person in that group could have achieved what the group achieved together. The Devil himself identified Master Mind as the greatest threat to his control over humanity.
+Carnegie's entire steel empire was built through a Master Mind alliance of a large group of specialized minds working in perfect harmony. No single person in that group could have achieved what the group achieved together. The Devil himself identified Master Mind as the greatest threat to his control over humanity.
 
 ##### Example 2: Napoleon Hill's Alliance With Dr. Sharp
 
 Hill credits his Master Mind alliance with Dr. Edward A. Barnard (referred to as "Dr. Sharp" in the text) as the force that broke the Devil's spell over him during the Depression. Two minds in harmony, united by a definite purpose, gain access to Infinite Intelligence—a power beyond the reach of either mind alone.
 
-#### Step 1: Identify 2–5 Positive, Like-Minded Individuals
+#### Step 1: Identify Positive, Like-Minded Individuals
 
 Choose people who demonstrate positive thinking, independence of thought, and definiteness of purpose. They should complement your strengths and weaknesses and be genuinely committed to shared goals.
 
@@ -326,9 +326,9 @@ Establish what the group will achieve together. Each member should have a defini
 
 #### Step 4: Maintain Confidentiality
 
-Trust is the foundation of the Master Mind. What is shared in the group stays in the group. This safety allows members to be vulnerable about fears and failures, which accelerates growth.
+Trust is the foundation of the Master Mind. What is shared in the group stays in the group. This safety allows members to be vulnerable about fears and failures, which builds trust and deepens character.
 
-#### Step 5: Expand the Alliance as Needed
+#### Step 5: Expand the Alliance as Objectives Grow
 
 For larger objectives, expand the group. Combine more minds in harmony to access greater power. The Devil cannot flatter or bribe you while you have the use of another aligned mind.
 
@@ -344,11 +344,11 @@ For larger objectives, expand the group. Combine more minds in harmony to access
 
 #### Keep In Mind
 
-Two minds are better than one—this is necessary before anyone can continuously contact Infinite Intelligence. The Master Mind alliance was the secret power that broke the Devil's spell. Solitude makes you vulnerable to the Devil's bribes; alliance protects you.
+Two minds are better than one—this is necessary before anyone can continuously contact Infinite Intelligence. The Master Mind alliance broke the Devil's spell. Solitude makes you vulnerable to the Devil's bribes; alliance protects you.
 
 #### Security & Safety Notes
 
-Share plans and purposes with your Master Mind group, but not with outsiders. Premature disclosure of plans gives others the opportunity to steal, criticize, or undermine your ideas. Keep your definite chief aim private until results are visible—even from Master Mind members, discuss plans in general terms until they are ready for action.
+Share plans and purposes with your Master Mind group, but not with outsiders. Premature disclosure of plans gives others the opportunity to steal, criticize, or undermine your ideas. Keep your definite chief aim private until results are measurable or publicly apparent—even from Master Mind members, discuss plans in general terms until they are ready for action.
 
 #### Common Pitfalls
 
@@ -367,19 +367,19 @@ Share plans and purposes with your Master Mind group, but not with outsiders. Pr
 
 ##### Example 1: The Overeating Executive
 
-An executive who overeats and drinks excessively at business dinners eventually suffers from auto-intoxication—mental fog, headaches, and impaired decision-making. By disciplining the appetite for food, he regains the mental clarity required for accurate thinking and strategic action.
+A business executive who overeats and drinks excessively at business dinners eventually suffers from auto-intoxication—mental fog, headaches, and impaired decision-making. By disciplining the appetite for food, he regains the mental clarity required for accurate thinking and strategic action.
 
 ##### Example 2: The Creative Who Channels Sexual Energy
 
-All great leaders are highly sexed but channel their sexual energy into creative work and goal pursuit rather than dissipating it through overindulgence. Controlled sex transmuted into driving force behind occupation makes winners—not quitters.
+Great leaders are highly sexed but channel their sexual energy into creative work and goal pursuit rather than dissipating it through overindulgence. Controlled sex transmuted into driving force behind occupation makes winners—not quitters.
 
 #### Step 1: Audit Your Three Appetites
 
-The three appetites you must master are: (1) hunger/desire for food, (2) sex expression, and (3) the desire to express loosely organized opinions. Audit your current relationship with each. Track what, when, and how much you eat; how you channel or dissipate sexual energy; and how often you speak without facts or reveal plans prematurely.
+The three appetites you must master are: (1) hunger/desire for food, (2) sex expression, and (3) the desire to express loosely organized opinions. Audit your current relationship with each. Track what, when, and how much you eat; how you channel or dissipate sexual energy; and how frequently you speak without facts or reveal plans prematurely.
 
 #### Step 2: Master the Food Appetite
 
-Choose foods in proper combinations and amounts. Maintain regular elimination habits. Recognize that overeating and poor food combinations cause auto-intoxication, which clouds thinking and decision-making. A clean body supports a sharp mind.
+Choose foods in proper food combinations and appropriate amounts. Maintain regular elimination habits. Recognize that overeating and poor food combinations cause auto-intoxication, which clouds thinking and decision-making. A clean body supports a sharp mind.
 
 #### Step 3: Transmute Sexual Energy
 
@@ -405,11 +405,11 @@ Clarify your "why"—your definite chief aim—to generate strong want power. Pr
 
 #### Keep In Mind
 
-Self-discipline is the second crucial principle required to move with definiteness of purpose. Without it, you cannot master others or circumstances. The Devil admits he can only control those who do not control themselves. If you cannot master yourself, you will accept whatever life throws at you.
+Self-discipline is the second crucial principle required to move with definiteness of purpose. Without it, you cannot master others or circumstances. In the Devil's confession, he states he can control only those who do not control themselves (75). If you cannot master yourself, you will accept whatever life throws at you.
 
 #### Security & Safety Notes
 
-The two most important things to human beings are accurate thinking and proper understanding and use of sex emotion. Improper use of either destroys the capacity for self-discipline and opens the mind to the Devil's control. Guard both with the same vigilance.
+Hill identifies the two most important things to human beings as accurate thinking and proper understanding and use of sex emotion (142). Improper use of either destroys the capacity for self-discipline and opens the mind to the Devil's control. Guard both with the same vigilance.
 
 #### Common Pitfalls
 
@@ -430,7 +430,7 @@ The two most important things to human beings are accurate thinking and proper u
 
 ##### Example 1: Don R. Mellett's Newspaper Crusade
 
-Don R. Mellett, publisher of the Canton Daily News, was murdered while crusading against graft and corruption. His death became a national sensation, brought about federal anti-crime legislation, and inspired millions. His temporary defeat contained the seed of an equivalent advantage far larger than any single newspaper could have achieved.
+Don R. Mellett, publisher of the Canton Daily News, was murdered while crusading against graft and corruption. His death became one of the most publicized crimes of the 1920s, exposed police corruption, and inspired people. His temporary defeat contained the seed of an equivalent advantage far larger than any single newspaper could have achieved.
 
 ##### Example 2: The Three Feet From Gold Principle
 
@@ -442,7 +442,7 @@ When failure overtakes you, force yourself to think accurately and label it "tem
 
 #### Step 2: Search for the Seed of Equivalent Advantage
 
-Ask: "What seed of equivalent advantage does this contain?" The advantage may be knowledge, a new idea, a revised plan, or an unavailable opportunity. Write it down explicitly.
+Ask: "What seed of equivalent advantage does this contain?" The advantage may be knowledge, a new idea, a revised plan, or an unexpected opportunity. Write it down explicitly.
 
 #### Step 3: Apply the Seed to Your Next Plan
 
@@ -468,7 +468,7 @@ A man is never quite so near success as when that which he calls "failure" has o
 
 #### Security & Safety Notes
 
-During adversity, be especially vigilant against shame, self-contempt, and the temptation to isolate. These compound the original fear. Reach out to your Master Mind group or trusted advisors. Do not let shame about being paralyzed by fear compound the original fear.
+During adversity, be especially vigilant against shame, self-contempt, and the urge to withdraw. These compound the original fear. Reach out to your Master Mind group or trusted advisors. Do not let shame about being paralyzed by fear compound the original fear.
 
 #### Common Pitfalls
 
@@ -491,7 +491,7 @@ Hill committed 20 years to producing a philosophy of achievement that would serv
 
 ##### Example 2: The Principle of Compensation
 
-Emerson's law of compensation states that every defect in one manner is made up in another; every suffering is rewarded; every sacrifice is made up; every debt is paid. No effort extended to those in distress can go without adequate reward—not necessarily from those you help, but from some source or another.
+Emerson's law of compensation states that every defect in one manner is made up in another; every suffering is rewarded; every sacrifice is made up; every debt is paid. No effort extended to those in distress can go without adequate reward—not necessarily from those you help, but from another source.
 
 #### Step 1: Identify People in Distress
 
@@ -507,7 +507,7 @@ If you desire happiness, health, or wealth sufficient to carry out your mission,
 
 #### Step 4: Measure Success by Service Output
 
-Your space in the world is measured by the quality and quantity of useful service you render. Operate as your own paymaster by increasing service output daily. The law of increasing returns applies to service rendered.
+Your impact in the world is measured by the quality and quantity of useful service you render. Operate as your own paymaster by increasing service output daily. The law of increasing returns applies to service rendered.
 
 #### Best Practices
 
@@ -521,11 +521,11 @@ Your space in the world is measured by the quality and quantity of useful servic
 
 #### Keep In Mind
 
-Happiness eludes those who selfishly seek it; it comes to those who serve others. The first duty of every human being is to himself—to find how to live a full and happy life. But self-duty is not selfishness; it is the foundation from which service flows naturally. Your only real limitations are those you set up in your own mind; your real wealth is the service you render.
+Happiness eludes those who selfishly seek it; it comes to those who serve others. The first duty of every human being is to himself—to find how to live a purposeful life of service. But self-duty is not selfishness; it is the foundation from which service flows naturally. Your only real limitations are those you set up in your own mind; your real wealth is the service you render.
 
 #### Security & Safety Notes
 
-Service must be genuine and motivated by authentic desire to help, not by greed for return or social approval. Giving to get praise or reward poisons the act of service. Give purely from the heart and let the universe return the equivalent in its own way and time.
+Service must be genuine and motivated by desire to help others, not by greed for return or social approval. Giving to get praise or reward poisons the act of service. Give purely and let the universe return the equivalent in its own way and time.
 
 #### Common Pitfalls
 
@@ -544,7 +544,7 @@ Service must be genuine and motivated by authentic desire to help, not by greed 
 
 ##### Example 1: The Debt of Thanksgiving
 
-Hill describes how he turned his financial struggles around by shifting his prayer from begging for money to praying for worthiness to receive what he already had. By conducting a personal inventory of his intangible assets—sound body, balanced mind, creative imagination, freedom, desire to help others—he recognized he was already rich and attracted more abundance.
+Hill describes how he turned his financial struggles around by shifting his prayer from begging for money to praying for worthiness to receive what he already had. By conducting a personal inventory of his intangible assets—sound body, balanced mind, creative imagination, freedom, desire to help others—he recognized these assets as real wealth and attracted more.
 
 ##### Example 2: Silent Prayer as a Daily Discipline
 
@@ -556,11 +556,11 @@ Pray not for more of this world's goods, but to be worthy of what you already ha
 
 #### Step 2: Conduct a Personal Inventory of Intangibles
 
-Take inventory of your intangible assets: sound body, balanced mind, creative imagination, freedom, desire to help others. These are priceless blessings often overlooked. Concentrate upon your purpose but forget the specific plan—trust Infinite Intelligence to supply the best plan.
+Take inventory of your intangible assets: sound body, balanced mind, creative imagination, freedom, desire to help others. These are priceless blessings overlooked. Concentrate upon your purpose but forget the specific plan—trust Infinite Intelligence to supply the best plan.
 
 #### Step 3: Practice Prayer Before Difficulty Overtakes You
 
-Go to prayer before difficulty overtakes you, not only when facing difficulty. Build the habit of faith and gratitude before crisis strikes so the "other self" is already strong when needed.
+Go to prayer before difficulty overtakes you, not only when facing difficulty. Build the habit of faith and gratitude before crisis strikes so the "other self" is already strong before crisis strikes.
 
 #### Step 4: Make a Compact With Infinite Intelligence
 
@@ -582,7 +582,7 @@ Nature's law is: "Know what you want, adapt yourself to my laws, and you shall h
 
 #### Security & Safety Notes
 
-Never beg God or Infinite Intelligence to assume responsibility for your troubles. Take responsibility for creating what you want through your own mind and effort. Prayer that asks others (or God) to do your work for you is ineffective. True prayer is backed by definiteness, faith, and persistent action.
+Never beg God or Infinite Intelligence to assume responsibility for your troubles (209). Take responsibility for creating what you want through your own mind and effort. Prayer that asks others (or God) to do your work for you is ineffective. True prayer is backed by definiteness, faith, and persistent action.
 
 #### Common Pitfalls
 
@@ -601,7 +601,7 @@ Never beg God or Infinite Intelligence to assume responsibility for your trouble
 
 ##### Example 1: The Year-End Assessment
 
-Hill recommends setting aside dedicated time once per year—ideally on your birthday or year-end—to honestly assess how many weaknesses you have bridged or eliminated. This ritual turns life into a measurable, improvable system rather than a drifting experience.
+Hill recommends setting aside dedicated time once per year—on your birthday or year-end—to honestly assess which weaknesses you have bridged or eliminated. This ritual turns life into a measurable, improvable system rather than a drifting experience.
 
 ##### Example 2: The Carnegie Research Commitment
 
@@ -617,7 +617,7 @@ Create a comprehensive list of every weakness you identified in yourself during 
 
 #### Step 3: Mark Each as Bridged, Eliminated, or Still Present
 
-For each weakness, honestly mark whether it has been: (a) Bridged—significant progress made but not yet eliminated, (b) Eliminated—fully removed from your habits, or (c) Still Present—unchanged or worsened.
+For each weakness, honestly mark whether it has been: (a) Bridged—measurable progress made but not yet eliminated, (b) Eliminated—fully removed from your habits, or (c) Still Present—unchanged or worsened.
 
 #### Step 4: Document Measurable Progress
 
@@ -625,13 +625,13 @@ Identify measurable progress made toward your major definite purpose. How much c
 
 #### Step 5: Set Priorities for the Coming Year
 
-Use your findings to set priorities. Which weaknesses require immediate attention? Which goals need accelerated effort? Which environments or relationships need to change?
+Use your findings to set priorities. Which weaknesses require immediate attention? Which goals need immediate action? Which environments or relationships need to change?
 
 #### Best Practices
 
 - ✅ Be brutally honest in self-evaluation
 - ✅ Write findings down rather than keeping them mental
-- ✅ Track recurring themes across multiple years
+- ✅ Track recurring themes across years
 - ✅ Use external benchmarks or mentor feedback to validate self-perception
 - ❌ Do not skip the inventory when things are going well
 - ❌ Do not be too lenient in self-assessment
@@ -639,7 +639,7 @@ Use your findings to set priorities. Which weaknesses require immediate attentio
 
 #### Keep In Mind
 
-The purpose of the inventory is not to criticize yourself but to celebrate progress and identify new frontiers. Every year of life should show measurable improvement in self-discipline, purposefulness, and service to others. The inventory is your personal scorecard—use it to win the game of life.
+The purpose of the inventory is not to criticize yourself but to celebrate progress and identify new frontiers. Use the inventory to track measurable improvement in self-discipline, purposefulness, and service to others. The inventory is your personal scorecard—use it to measure your progress toward definiteness of purpose.
 
 #### Security & Safety Notes
 
@@ -650,7 +650,7 @@ Do not share your personal inventory with people who will use it against you. Ke
 - **Problem:** Skipping the inventory when things are going well.
   **Solution:** Treat the annual inventory as non-negotiable regardless of success level. Success without self-awareness is drifting in a different direction.
 - **Problem:** Being too lenient in self-assessment.
-  **Solution:** Use external benchmarks or mentor feedback to validate self-perception. Others often see our weaknesses more clearly than we do.
+  **Solution:** Use external benchmarks or mentor feedback to validate self-perception. Others see our weaknesses more clearly than we do.
 - **Problem:** Setting the same goals year after year without measuring progress.
   **Solution:** If a goal remains unachieved for two consecutive years, either change your plan or re-evaluate whether it truly serves your definite purpose.
 
@@ -670,11 +670,11 @@ Emerson's essay on compensation and his philosophy of self-reliance were foundat
 
 #### Step 1: Select Nine Historical Figures Whose Character Traits You Admire
 
-Choose figures whose lives and character traits you most admire (e.g., Emerson, Paine, Edison, Darwin, Lincoln, Burbank, Napoleon, Ford, Carnegie). Study their biographies and recorded works with painstaking care so your requests are informed.
+Choose nine historical figures whose lives and character traits you most admire (e.g., Emerson, Paine, Edison, Darwin, Lincoln, Burbank, Napoleon, Ford, Carnegie). Study their biographies and recorded works with painstaking care so your requests are informed.
 
 #### Step 2: Vividly Imagine the Council Meeting Each Night
 
-Each night before sleep, close your eyes and vividly imagine the group seated around a council table with you as chairman. Address each counselor aloud (or in your mind) by name and request a specific trait, quality, or knowledge you wish to acquire from them.
+Each night before sleep, close your eyes and vividly imagine the group seated around a council table with you as chairman. Address each counselor silently or aloud by name and request a specific trait, quality, or knowledge you wish to acquire from them.
 
 #### Step 3: Dominate the Meeting as Leader
 
@@ -682,7 +682,7 @@ You are the chairman, not a passive observer. Direct the meeting. Request specif
 
 #### Step 4: Continue Nightly for at Least Three Months
 
-The habit requires at least three months of consistent nightly practice to establish a new thought rhythm. Resume immediately if you discontinue, regardless of the gap.
+The habit requires at least three months of consistent nightly practice to establish a new thought rhythm. Resume immediately if you discontinue, even after a gap.
 
 #### Step 5: Expand Your Cabinet Over Time
 
@@ -700,7 +700,7 @@ As your mission evolves, add new figures (e.g., Galileo, Confucius, Plato). The 
 
 #### Keep In Mind
 
-Your thoughts and desires act as a magnet, attracting only the life units that harmonize with your desires. The Invisible Counselors practice is a method of using auto-suggestion and the power of dominating thought to reshape character through contact with the brain archives of great minds via Infinite Intelligence.
+Your thoughts and desires act as a magnet, attracting only the opportunities and circumstances that harmonize with your desires. The Invisible Counselors practice is a method of using auto-suggestion and the power of dominating thought to reshape character through contact with the brain archives of great minds via Infinite Intelligence.
 
 #### Security & Safety Notes
 
@@ -738,9 +738,9 @@ This practice is a mental exercise in self-directed character development—not 
 | Biochemical transformation | The mental and physical shift that occurs when the "other self" (faith entity) takes control from the fear entity; not merely a mood change but a fundamental shift in being | 49, 52 |
 | Bootleggers | Criminal enterprises during Prohibition era used as example of how drifting, fear of poverty, and lack of definiteness of purpose lead to destructive behavior | 27 |
 | Brain space | Mental capacity available for independent thought; occupied by fear-based thoughts or faith-based thoughts—you choose what fills it | 87, 120 |
-| Bridged weaknesses | Weaknesses that have been identified and significantly improved but not yet eliminated; tracked in annual personal inventory | 17, 229 |
+| Bridged weaknesses | Weaknesses that have been identified and improved but not yet eliminated; tracked in annual personal inventory | 17, 229 |
 | Burning purpose | An intense, passionate definite purpose that drives all action and fuels self-discipline; the fuel for want power and willpower | 13, 105 |
-| Cabinet of counselors | The group of nine or more historical figures used in the Invisible Counselors auto-suggestion practice to acquire specific character traits | 218, 226 |
+| Cabinet of counselors | The group of nine historical figures used in the Invisible Counselors auto-suggestion practice to acquire specific character traits | 218, 226 |
 | Canton Daily News | Newspaper published by Don R. Mellett, used as example of temporary defeat containing the seed of equivalent advantage through anti-graft crusade | 27, 211 |
 | Carnegie, Andrew | Steel magnate who challenged Hill to produce a philosophy of achievement; example of definiteness of purpose and useful service as the path to success | 3, 12, 194 |
 | Cause and effect | Natural law governing all outcomes; luck is a man-made hypothesis used to explain effects people do not understand | 104, 138 |
@@ -797,9 +797,9 @@ This practice is a mental exercise in self-directed character development—not 
 | Earthbound | The condition of being trapped by the Devil's control through fear, drifting, and negative thought-habits; the opposite of freedom through self-determination | 120 |
 | Earth plane | The physical world of matter where thoughts are transmuted into physical form through hypnotic rhythm and natural law | 120 |
 | Economic adversity | Hardship caused by economic depression or downturn; used by the Devil as a tool to plant fear and increase drifting among the masses | 27, 87 |
-| Economic depression | Period of widespread economic failure; the Devil's most effective tool for mass control because it activates fear of poverty in nearly everyone | 27, 87 |
+| Economic depression | Period of widespread economic failure; the Devil's most effective tool for mass control because it activates fear of poverty in most people | 27, 87 |
 | Edison, Thomas A. | Inventor recommended for the Invisible Counselors cabinet; example of accurate thinking, persistent experimentation, and transmuting desire into physical form | 148, 196, 226 |
-| Education reform | The principle that schools should teach definiteness of purpose, independent thought, and practical mind-use rather than abstract memorization; best achieved through private innovation first | 128, 194 |
+| Education reform | The principle that schools should teach definiteness of purpose, independent thought, and practical mind-use rather than abstract memorization; reversed when courageous individuals allow students to become instructors | 128, 194 |
 | Egotism | Excessive self-regard that leads to vanity and drifting; one of the habits that opens the mind to the Devil's control | 184 |
 | Eliminated weaknesses | Weaknesses that have been fully removed from one's habits and character; tracked in the annual personal inventory | 229 |
 | Emergencies | Unusual circumstances that activate the "other self"; opportunities to discover inner faith and break the grip of hypnotic rhythm | 17, 212 |
@@ -850,12 +850,12 @@ This practice is a mental exercise in self-directed character development—not 
 | Golden Rule magazine | Publication Hill used to develop his philosophy of achievement and interview successful and failed people | 27 |
 | Gospel of Satan | Any teaching that promotes fear, drifting, dependence on external authority, and rejection of independent thought—even when it claims to be religious | 132 |
 | Grasshopper mind | The scattered, unfocused mental state of a person who expresses loosely organized opinions, jumps between incomplete thoughts, and reveals plans prematurely | 180 |
-| Great leaders | People with definiteness of purpose, self-discipline, and the ability to render useful service to many; they possess most of the world's wealth and are out of the Devil's reach | 13, 187, 194 |
+| Great leaders | People with definiteness of purpose, self-discipline, and the ability to render useful service to others; they possess the world's wealth and are out of the Devil's reach | 13, 187, 194 |
 | Greed | One of the six fears and one of the Devil's entry points; the excessive desire for more than one needs; blocks the benefits of the "other self" | 40, 120 |
 | Habits | Repeated thoughts or actions that become permanent through hypnotic rhythm; the mind is the sum total of one's habits; can be constructive or destructive | 72, 162 |
 | Happiness | Found only by helping others find it; an inward state of perfect satisfaction free from desire; comes from self-forgetfulness and service, not material accumulation | 187, 209 |
 | Harmonious coordination | The alignment of minds in a Master Mind alliance; the secret to power and the antidote to the Devil's control through division and conflict | 75 |
-| Healing | Comes through positive thought, freedom from negative thinking, and clean body systems; disease is often caused by auto-intoxication and fear | 219 |
+| Healing | Comes through positive thought, freedom from negative thinking, and clean body systems; disease is caused by auto-intoxication and fear | 219 |
 | Hidden force | The intangible force called the "other self" or faith entity that emerges during emergencies and adversity when men are forced to think their way out of difficulty | 17, 53 |
 | Higher power | Infinite Intelligence or Universal Mind; accessed directly through one's own power of thought without need for intermediaries | 148, 219 |
 | Historical figures (as counselors) | Admired individuals whose character traits are requested in the Invisible Counselors practice; include Emerson, Paine, Edison, Darwin, Lincoln, Burbank, Napoleon, Ford, Carnegie | 226 |
@@ -887,7 +887,7 @@ This practice is a mental exercise in self-directed character development—not 
 | Inner urge | The compelling inner direction from the "other self" or Infinite Intelligence; must be followed immediately without rationalization | 28 |
 | Insecurity | The emotional state that leads to drifting, overindulgence, and dependence on external validation; countered by self-discipline and faith in definite purpose | 219 |
 | Insanity | One of the extreme outcomes of uncontrolled fear and drifting; the mind trapped in permanent negative hypnotic rhythm | 28, 138 |
-| Intangible assets | Non-material blessings: sound body, balanced mind, creative imagination, freedom, desire to help others; often overlooked but priceless | 13, 187 |
+| Intangible assets | Non-material blessings: sound body, balanced mind, creative imagination, freedom, desire to help others; overlooked but priceless | 13, 187 |
 | Intangible force | The "other self" or faith entity within every person; the source of all real achievement and the only dependable power available | 17, 53 |
 | Intention | The directed purpose behind thought and action; definiteness of intention activates the law of hypnotic rhythm and attracts physical equivalents | 219 |
 | Internal orders | Clear, distinct commands from the "other self" that must be acted on immediately; not to be analyzed or discussed with others | 52 |
@@ -913,7 +913,7 @@ This practice is a mental exercise in self-directed character development—not 
 | Leadership | The ability to inspire and guide others through definiteness of purpose, self-discipline, and useful service; non-drifters become leaders; drifters follow | 13, 183, 194 |
 | Leadership (in education) | Teaching children to think independently, express their own thoughts fearlessly, and make decisions promptly; the foundation of future non-drifting leadership | 128, 194 |
 | Leadership (in Master Mind) | The ability to dominate a Master Mind alliance as chairman while serving as a team member; the balance of mastery and service | 226 |
-| Leadership (in service) | Leading by example through rendering more and better service than expected; the true measure of leadership is how many competitors you pass | 209 |
+| Leadership (in service) | Leading by example through rendering more and better service than expected; the true measure of leadership is the competitors you pass | 209 |
 | Lethargy | The state of inaction and mental sluggishness caused by fear and drifting; overcome by physical movement, affirmative sentences, and immediate action | 28 |
 | Life mission | The unique purpose that every individual must identify and pursue; neglecting it causes regression to a primal state and forces retracing of developmental cycles | 224, 232 |
 | Lincoln, Abraham | President recommended for the Invisible Counselors cabinet; example of independent thought, accurate thinking, and leadership through adversity | 196, 226 |
@@ -927,9 +927,9 @@ This practice is a mental exercise in self-directed character development—not 
 | Making decisions promptly | The habit of making quick decisions and sticking to them; characteristic of non-drifters and essential for maintaining definiteness of purpose | 183 |
 | Manipulation | The Devil's method of controlling people through environmental influence, propaganda, and exploiting fear and habit | 87, 120 |
 | Mass fear | Collective fear activated by the Devil through war, economic depression, propaganda, and exploitation of weaknesses; controls 98% of humanity | 87, 120 |
-| Master Mind | The coordination of two or more minds in perfect harmony for the attainment of a definite purpose; gives access to Infinite Intelligence and breaks the Devil's control | 36, 75, 194 |
-| Master Mind group | A group of 2-5 positive, like-minded individuals who meet regularly to support goals, challenge limitations, and hold each other accountable | 36, 58 |
-| Master Mind principle | The psychological law that two or more minds in harmonious coordination create a third mind with access to greater intelligence and power | 75, 194 |
+| Master Mind | The coordination of at least two minds in perfect harmony for the attainment of a definite purpose; gives access to Infinite Intelligence and breaks the Devil's control | 36, 75, 194 |
+| Master Mind group | A group of positive, like-minded individuals who meet regularly to support goals, challenge limitations, and hold each other accountable | 36, 58 |
+| Master Mind principle | The psychological law that at least two minds in harmonious coordination create a third mind with access to greater intelligence and power | 75, 194 |
 | Mastery over self | The foundation of all other mastery; self-discipline over the three basic appetites (food, sex, opinions) is required before one can master circumstances or others | 180, 194 |
 | Material fortune | Wealth and material possessions; comes from rendering useful service to others in proportion to amount, quality, and number served | 12, 187 |
 | Material form | The physical manifestation of a desire or thought; transmuted through hypnotic rhythm from the mental plane | 148, 219 |
@@ -939,10 +939,10 @@ This practice is a mental exercise in self-directed character development—not 
 | Mental fog | Clouded thinking caused by auto-intoxication, fear, negative thought, and lack of self-discipline; cleared by clean living, positive thought, and accurate thinking | 180 |
 | Mental prison | The self-imposed limitation of one's own mind; the only real prison is the one built by accepting limitations as permanent | 28 |
 | Metropolitan Business College | Educational institution Hill attended for practical business training; example of mind-developing education | 27 |
-| Million years | The timescale of the Devil's control over humanity; the Devil has ruled for approximately 500,000 years and seeks to maintain control forever | 120 |
+| Million years | The timescale of the Devil's control over humanity; the Devil has ruled for 500,000 years and seeks to maintain control forever | 120 |
 | Mind control | The Devil's primary method of controlling humanity through drifting, fear, hypnotic rhythm, and environmental manipulation | 87, 120 |
 | Mind-power | The force generated by the human mind through definiteness of purpose, faith, and dominating thought; the only dependable power available to any human being | 28, 120, 219 |
-| Mind as magnet | The principle that thoughts and desires act as a magnet, attracting only life units and circumstances that harmonize with them | 226 |
+| Mind as magnet | The principle that thoughts and desires act as a magnet, attracting only opportunities and circumstances that harmonize with them | 226 |
 | Mind as sum of habits | The principle that the mind is nothing more than the sum total of one's habits; character is crystallized thought-habits through hypnotic rhythm | 72, 216 |
 | Mind-control (self) | The prerogative right of every human being to control their own thoughts, habits, and reactions; the foundation of freedom and the antidote to the Devil | 120, 183 |
 | Miracle | A man-made hypothesis used to explain effects people do not understand; nature knows no miracles—every effect has a cause | 148, 219 |
@@ -963,7 +963,7 @@ This practice is a mental exercise in self-directed character development—not 
 | Negative thought patterns | Repeated negative thoughts that become permanent through hypnotic rhythm; must be intercepted before they reach the rhythm stage | 40, 97 |
 | Network | Past and present connections that can be activated through inspiration to provide unexpected opportunities; the Master Mind principle at scale | 58 |
 | Night and day | Natural law used as metaphor for the inevitability of hypnotic rhythm—just as night follows day, thought-habits become permanent through repetition | 148, 219 |
-| Non-drifter | A person who thinks for themselves, maintains definiteness of purpose, and controls their own mind; possesses most of the world's wealth and is out of the Devil's reach | 72, 83, 183 |
+| Non-drifter | A person who thinks for themselves, maintains definiteness of purpose, and controls their own mind; possesses the world's wealth and is out of the Devil's reach | 72, 83, 183 |
 | Obstacles | Challenges that test definiteness of purpose and self-discipline; each obstacle contains the seed of equivalent advantage for those who think accurately | 13, 194 |
 | Old age | One of the six basic fears; countered by definiteness of purpose, useful service, and the understanding that time is humanity's greatest asset | 138 |
 | Open-mindedness | The willingness to consider new ideas and evidence while maintaining independent thought; balanced with the discipline to reject fear-based influences | 219 |
@@ -1028,7 +1028,7 @@ This practice is a mental exercise in self-directed character development—not 
 | Sacred fear | Fear-based religious instruction that uses fear of eternal punishment to control children's thinking; the Devil's most effective entry point | 132 |
 | Sales training school | Educational institution Hill attended; example of practical, mind-developing education that teaches how to think and act | 27 |
 | Scandal | One of the Devil's tools for destroying reputations and activating fear of criticism; used to prevent independent thought and truth-telling | 120 |
-| School reform | The principle that education should teach definiteness of purpose, independent thought, and practical mind-use rather than abstract memorization; best achieved through private innovation | 128, 194 |
+| School reform | The principle that education should teach definiteness of purpose, independent thought, and practical mind-use rather than abstract memorization; reversed when courageous individuals allow students to become instructors | 128, 194 |
 | Science | The pursuit of truth through cause-and-effect analysis; scientists are out of the Devil's reach because they think for themselves and deal with verified facts | 104, 138 |
 | Secret of nature | The laws governing thought, matter, and energy; understood through accurate thinking, the sixth sense, and study of natural phenomena | 148, 219 |
 | Self-contempt | The shame and self-hatred that arise from feeling paralyzed by fear; compounds the original fear and deepens the Devil's control | 28 |
@@ -1074,7 +1074,7 @@ This practice is a mental exercise in self-directed character development—not 
 | Time | Humanity's greatest asset and the cheapest; the Devil's tool for trapping people in drifting, and the non-drifter's tool for building permanent success through hypnotic rhythm | 128, 209 |
 | Time (as enemy) | Time is the enemy of immorality and injustice; the friend of justice and morality; every wasted minute is a win for the Devil | 209 |
 | Tolerance | The willingness to accept different perspectives while maintaining independent thought; balanced with the discipline to reject fear-based manipulation | 219 |
-| Tradition | Inherited beliefs and practices accepted without independent thought; often fear-based and used by the Devil to maintain control across generations | 219 |
+| Tradition | Inherited beliefs and practices accepted without independent thought; fear-based and used by the Devil to maintain control across generations | 219 |
 | Transmutation of desire | The process of converting a dominating desire into its physical equivalent through definite purpose, persistent action, and hypnotic rhythm | 148, 219 |
 | Transmutation of sex energy | The conscious redirection of sexual energy from physical release into creative work, goals, and achievement; the most powerful force for success when properly directed | 184, 194 |
 | Triumph (over self) | The greatest victory a human being can achieve; mastering the three appetites and the fear entity through self-discipline and faith | 219 |
@@ -1095,7 +1095,7 @@ This practice is a mental exercise in self-directed character development—not 
 | War | One of the Devil's tools for activating mass fear and controlling nations; warfare is inspired by the Devil to maintain control through fear and destruction | 87, 120 |
 | Water downhill | Natural law used as metaphor for the inevitability of hypnotic rhythm—just as water flows downhill, thought-habits become permanent through repetition | 148, 219 |
 | Weaknesses | Personal limitations identified through annual inventory; must be bridged or eliminated to achieve definiteness of purpose and self-mastery | 229 |
-| Wealth | Comes from rendering useful service to others in proportion to amount, quality, and number served; non-drifters possess most of the world's wealth | 83, 187 |
+| Wealth | Comes from rendering useful service to others in proportion to amount, quality, and number served; non-drifters possess the world's wealth | 83, 187 |
 | Whirlpool (metaphor) | Metaphor for hypnotic rhythm in the negative direction—once caught in negative thought-habits, extremely difficult to escape without deliberate intervention | 95 |
 | Will power | The mental faculty for forcing action despite obstacles and desires to quit; one of the four essential powers of self-discipline | 13, 180 |
 | Will to win | The dominating desire to succeed that activates the "other self" and overcomes fear and drifting; the ultimate weapon against the Devil | 219 |
