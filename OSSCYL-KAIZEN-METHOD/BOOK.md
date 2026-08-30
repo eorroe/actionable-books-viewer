@@ -429,7 +429,7 @@ Edward Jenner noticed that milkmaids did not get smallpox. While others had know
 
 ##### Example 2: The Olive That Saved American Airlines Half a Million Dollars
 
-An American Airlines flight attendant noticed that passengers did not eat the olives in their salads. She passed this observation up the chain of command. It was discovered that the airline was charged by its food supplier for salads based on the number of items they contained. A salad with one to four items cost less than a salad with five to eight items. The uneaten olives were the fifth item. When the airline dropped the olives and switched to a four-item salad, it saved five hundred thousand dollars a year.
+An American Airlines flight attendant noticed that passengers did not eat the olives in their salads. She passed this observation up the chain of command. The airline discovered that it was charged by its food supplier for salads based on the number of items they contained. A salad with one to four items cost less than a salad with five to eight items. The uneaten olives were the fifth item. When the airline dropped the olives and switched to a four-item salad, it saved five hundred thousand dollars a year.
 
 ##### Example 3: Velcro, Traveler's Checks, and Instant Cameras
 
