@@ -1,0 +1,3350 @@
+[
+  {
+    "id": "nh0z9oq",
+    "author": "Shadowratenator",
+    "body": "You use rebase to keep a branch that nobody is pulling from cleanly following its upstream branch. \n\nYou use merge to get those changes into an upstream branch that many people are pulling from.",
+    "score": 233,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh0z9oq/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759247859.0
+  },
+  {
+    "id": "nh1ibxn",
+    "author": "tahaan",
+    "body": "This, except it doesn't even need to be many.  Can be one.  Can even be just \"may possibly be pulling from\"",
+    "score": 34,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1ibxn/",
+    "parent_id": "t1_nh0z9oq",
+    "created_utc": 1759253375.0
+  },
+  {
+    "id": "nh1vq9t",
+    "author": "vermiculus",
+    "body": "Reasonable minds definitely can disagree here :-) I will rewrite my feature branch however many times I like, thank you very much. Until I chuck the branch out my ‘initials/‘ namespace, that branch is mine.",
+    "score": 18,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1vq9t/",
+    "parent_id": "t1_nh1ibxn",
+    "created_utc": 1759257207.0
+  },
+  {
+    "id": "nh1y4ex",
+    "author": "tahaan",
+    "body": "Of course if you have not yet pushed it, it is not going to cause anybody else to get their push rejected.",
+    "score": 8,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1y4ex/",
+    "parent_id": "t1_nh1vq9t",
+    "created_utc": 1759257910.0
+  },
+  {
+    "id": "nh1yjo7",
+    "author": "vermiculus",
+    "body": "I would contend that you should not base your branch on anything but a trunk unless you are ok with that base being rewritten. You should be able to push your work-in-progress branches without fear.",
+    "score": 9,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1yjo7/",
+    "parent_id": "t1_nh1y4ex",
+    "created_utc": 1759258033.0
+  },
+  {
+    "id": "nh2ile5",
+    "author": "wildjokers",
+    "body": "I push my feature branches to the remote all the time because I am paranoid about losing work. The branch is mine until I open a PR.",
+    "score": 14,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2ile5/",
+    "parent_id": "t1_nh1y4ex",
+    "created_utc": 1759263854.0
+  },
+  {
+    "id": "nhpp9ip",
+    "author": "iOSCaleb",
+    "body": "OT, but if you create your own fork you get the advantages of a remote (e.g. your work is backed up) while keeping your work implicitly private until you’re ready to share. Pull from the shared repo, push to your own repo, rebase as needed to avoid future merge conflicts, and of course use pull requests to merge your branch back to the common branch when you’re ready.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhpp9ip/",
+    "parent_id": "t1_nh1vq9t",
+    "created_utc": 1759583862.0
+  },
+  {
+    "id": "nhpqnov",
+    "author": "vermiculus",
+    "body": "This is decent advice in general, but often not realistic in corporate contexts. For our internal tooling projects, most of our CI/CD pipelines for example crash and burn on forks. For our company’s main monorepo, it is simply too big for 2500 devs to fork.\n\nOh, and even more off-topic, you should be aware that LFS content does not currently get copied to forks in either GitLab or GitHub – at least, this is the evidence of our testing confirmed by their respective engineering teams. It is so difficult in fact to copy that monorepo from one location to another that I’ve had to develop special applications (not just scripts) to do so in a way that avoids overwhelming the remote with work, OOMing Git LFS, or OOMing Git itself. Exciting stuff!",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhpqnov/",
+    "parent_id": "t1_nhpp9ip",
+    "created_utc": 1759584374.0
+  },
+  {
+    "id": "nh1lx67",
+    "author": "Affectionate-Egg7566",
+    "body": "Why? What are a bunch of merge commits in the main branch supposed to do? I can't read the commits easily. It makes more sense to me to see the plain commits in main/master. That's what we do at work.",
+    "score": 4,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1lx67/",
+    "parent_id": "t1_nh0z9oq",
+    "created_utc": 1759254385.0
+  },
+  {
+    "id": "nh1mo4k",
+    "author": "timbar1234",
+    "body": "You dont have to squash the commits on merge - you could retain the history. But bearing in mind most commit histories on dev branches represent developers' stream of consciousness rather than a sensible breakdown of the parts of a change it's generally best avoided.",
+    "score": 16,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1mo4k/",
+    "parent_id": "t1_nh1lx67",
+    "created_utc": 1759254594.0
+  },
+  {
+    "id": "nh2nxo3",
+    "author": "remy_porter",
+    "body": "You rewrite your history as part of writing a merge request. That’s just basic hygiene!",
+    "score": 13,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2nxo3/",
+    "parent_id": "t1_nh1mo4k",
+    "created_utc": 1759265362.0
+  },
+  {
+    "id": "nhel2w1",
+    "author": "timbar1234",
+    "body": "You know that. I know that. I'm  not at all sure that everyone knows that 😅",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhel2w1/",
+    "parent_id": "t1_nh2nxo3",
+    "created_utc": 1759428160.0
+  },
+  {
+    "id": "nh1mzvm",
+    "author": "Affectionate-Egg7566",
+    "body": "I agree, you don't want stream of consciousness or debug statements in the history, but if you want multiple commits for your feature, you can just push them on top of main after cleaning them up locally. I do not see the need for merge commits there.",
+    "score": 7,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1mzvm/",
+    "parent_id": "t1_nh1mo4k",
+    "created_utc": 1759254683.0
+  },
+  {
+    "id": "nho0w75",
+    "author": "MiscreatedFan123",
+    "body": "Tell me you've never found commit history useful without telling me you've never found commit history useful.\n\nIn a well or semi-well even organized team you would have a commit linter and you would require good commit messages that can actually be used.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nho0w75/",
+    "parent_id": "t1_nh1mo4k",
+    "created_utc": 1759552042.0
+  },
+  {
+    "id": "ni1212a",
+    "author": "timbar1234",
+    "body": "There's a marked difference between a set of well curated commits with clear messages and the commits in many PRs stating \"Fixed bug. Fixed bug. Actually fixed bug\". You dont need that noise on main, unless you're a single dev operation and you don't care.\n\nAm not sure that anyone's proposing squashing all of main to one commit on every merge, either.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/ni1212a/",
+    "parent_id": "t1_nho0w75",
+    "created_utc": 1759734001.0
+  },
+  {
+    "id": "nh27zpg",
+    "author": "xenomachina",
+    "body": ">>You use merge to get those changes into an upstream branch that many people are pulling from.\n\n>Why? What are a bunch of merge commits in the main branch supposed to do? \n\n\"Merging\" to get changes back into main doesn't necessarily mean merge commits. If you've already rebased your feature branch, then the merge into main could be a fast forward merge, so no actual merge commit.\n\n*However*, it may be desirable to have merge commits on main. My team uses [GitLab's semi-linear history](https://docs.gitlab.com/user/project/merge_requests/methods/#merge-commit-with-semi-linear-history), which does this. The way it works is that it requires that you *can* fast-forward, but never actually fast forwards. This gives you a close to linear history that's very easy to reason about, but also lets you separate changes to main from intermediate changes.\n\nThe advantage to doing this over a completely linear history is that the merge commits have stronger guarantees, as merge commits had to pass (the pre-merge) CI. Intermediate commits don't have to, and so may not pass tests or even build. Also, in our system, the merge commits are the commits that actually got deployed to production. We also have the merge commit's message be the merge request's message, so the merge commit describes the feature/bugfix it adds, while the intermediate commit messages will be finer-grained things.\n\nI do actually wish that GitLab's semi-linear history was a bit more linear than it is. In particular, if the feature branch has only one commit (which seems to be the case >90% of the time for my team), then I wish it'd just do a fast-forward. A separate merge commit doesn't add anything useful in that case, as there are no intermediate commits to separate out.",
+    "score": 8,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh27zpg/",
+    "parent_id": "t1_nh1lx67",
+    "created_utc": 1759260772.0
+  },
+  {
+    "id": "nh293j2",
+    "author": "Affectionate-Egg7566",
+    "body": "What use are commits that don't pass CI?",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh293j2/",
+    "parent_id": "t1_nh27zpg",
+    "created_utc": 1759261100.0
+  },
+  {
+    "id": "nh2fkjy",
+    "author": "xenomachina",
+    "body": "Does your CI test every commit in a PR/MR, or only the head commit?\n\nIn general, the reason you might have commits that don't pass CI merged into main is to increase clarity for those trying to understand what changed, either during code review or in the future. A few specific examples:\n\n## Moving code\n\nSuppose you're going to reorganize a bunch of code. This will often be done in two separate commits: \n\n1. Move the code files to their new locations \n2. Fix all the references to point at the new locations. \n\nIf you combine these into one commit, git will sometimes get confused and not realize that you moved files and modified them and instead think you deleted files and added new ones. This can make the diffs much harder to read. \n\n## Test Driven Development\nIf you use TDD, you might add tests that don't pass in one commit, and then have follow-up commits that make those test pass. \n\n## Code Coverage Checks\n\nIf you write your tests in a separate commit after the code that's under test, but your CI has minimum coverage checks, then it might fail until those tests exist.\n\n## Separating Automated Changes from Manual\n\nWe have a bot that updates dependencies in some of our repos. It creates a merge request to make the change, and if it passes CI then it gets merged in.\n\nSometimes these don't pass CI because of incompatibilities in the new version. The way we fix these is that we'll add one or more new commits to the merge request to fix the problems. When we send these out for review, we don't want to combine the human generated fixes with the bot generated upgrades.\n\nEdit: typos",
+    "score": 4,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2fkjy/",
+    "parent_id": "t1_nh293j2",
+    "created_utc": 1759262989.0
+  },
+  {
+    "id": "nh68xq9",
+    "author": "Affectionate-Egg7566",
+    "body": "That doesn't sound useful. We do TDD, but a commit contains both the changes and the test that previously would fail without those changes. The commit is green. You already have tests in a different file so it's easy to do stuff like run the test without non-test changes.\n\nI don't see why you want to keep things separated like this. I just don't see how it is useful. It just seems like a whole lot of ceremony. Could you tell me how this methodology makes work easier? Which flows does it help with?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh68xq9/",
+    "parent_id": "t1_nh2fkjy",
+    "created_utc": 1759320974.0
+  },
+  {
+    "id": "nh6h45s",
+    "author": "lottspot",
+    "body": "Did you simply feed the question you responded to into the nearest chat bot? Because that's a huge wall of text that does nothing to address the core of the question.",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh6h45s/",
+    "parent_id": "t1_nh2fkjy",
+    "created_utc": 1759323924.0
+  },
+  {
+    "id": "nh750gu",
+    "author": "xenomachina",
+    "body": "I wrote it by hand. \n\nMaybe you can feed it into the nearest chat bot so it can explain how it *does* address the question, since apparently a few paragraphs is a \"huge wall of text\" in your mind.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh750gu/",
+    "parent_id": "t1_nh6h45s",
+    "created_utc": 1759331347.0
+  },
+  {
+    "id": "nh792dp",
+    "author": "lottspot",
+    "body": "There's zero explanation of why anyone should value splitting those changes into separate commits rather than always updating the impacted tests in the same commit as the changes which impact them. Zero. The core of the question is entirely unaddressed.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh792dp/",
+    "parent_id": "t1_nh750gu",
+    "created_utc": 1759332528.0
+  },
+  {
+    "id": "nh7a0b1",
+    "author": "xenomachina",
+    "body": "There were two examples about tests. There were two that were not. Maybe read those?\n\nAlso, most (if not all) CI systems only test the head commit. So even if you'd *like* every commit to pass by CI, chances are your CI system isn't actually testing every commit in a multi-commit PR, meaning you're going to get some that don't pass whether you like it or not.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh7a0b1/",
+    "parent_id": "t1_nh792dp",
+    "created_utc": 1759332806.0
+  },
+  {
+    "id": "nh7p8rx",
+    "author": "lottspot",
+    "body": "I read all of the examples. Not a single one of them offered an explanation as to why each step of the work should be enshrined in its own commit. It's just a list of things that people \"might\" do or \"can\" do, without any explanation of why there's any value in doing it that way.\n\n> Also, most (if not all) CI systems only test the head commit\n\nSo what? The design of a CI system and the design of testing practices are entirely orthogonal. What is the purpose of maintaining an independent commit for a change which is either (A) not independently validated or (B) not actually independent at all?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh7p8rx/",
+    "parent_id": "t1_nh7a0b1",
+    "created_utc": 1759337278.0
+  },
+  {
+    "id": "nh2acst",
+    "author": "AttentionSuspension",
+    "body": "Nice workflow 💪",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2acst/",
+    "parent_id": "t1_nh27zpg",
+    "created_utc": 1759261472.0
+  },
+  {
+    "id": "nh8x97z",
+    "author": "edgmnt_net",
+    "body": ">Intermediate commits don't have to, and so may not pass tests or even build.\n\nI would argue that *all* commits *should* work. It is up to you how you make that happen and I'm not particularly stubborn about how you should do it, but Git becomes less effective if you accept garbage intermediate commits for no reason at all. It makes bisection painful and, in absence of other restrictions, it probably means worthless commits that are broken up haphazardly.\n\nMerge commits might, in theory, be better than squashing but good history requires some effort and there's no silver bullet that'll make version control as effective for you as it is for the projects out there which enforce strong submission standards. And if you want good history, devs have to put in the effort to clean up their submissions and reviewers have to be able to say \"no\". At that point you could just merge by rebasing, though, because all your commits should be atomic and not break things, at least most of the time.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh8x97z/",
+    "parent_id": "t1_nh27zpg",
+    "created_utc": 1759349880.0
+  },
+  {
+    "id": "nh98ltu",
+    "author": "xenomachina",
+    "body": ">I would argue that all commits should work.\n\nWhat constitutes \"working\" varies by context.\n\nIn feature branches in my person repo, there are very few requirements for \"wip\" commits. non-wip commits, I usually want stuff to build, but even that isn't the case.\n\nBefore I send something for review, I'll have cleaned up the commits.\n\nMost *should* build and pass tests, but there are times when that makes the code harder to review. Moving a bunch of files around and then having to update references within them is a good example of this. I'd rather have 2 commits, one with the files moving, and a separate one with the edits, than a single commit where it looks like 400 files were deleted and another 400 new files were added.\n\nThe last commit in a PR/MR is the one that has the strictest requirements. Even if you don't \"like\" this, pragmatically speaking, pretty much every CI system works this way. They only run against the head of a branch. So for a PR/MR, the CI is only checking the last commit.\n\nIf you don't squash, intermediate commits may not pass CI, and if you do squash, you're potentially hurting the readability of the history.\n\n> It makes bisection painful\n\nWith semi-linear history you can use `git bisect --first-parent`. This will skip the intermediate commits, ans stick to the ones that had to pass CI.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh98ltu/",
+    "parent_id": "t1_nh8x97z",
+    "created_utc": 1759353110.0
+  },
+  {
+    "id": "nhe51h9",
+    "author": "edgmnt_net",
+    "body": ">I'd rather have 2 commits, one with the files moving, and a separate one with the edits, than a single commit where it looks like 400 files were deleted and another 400 new files were added.\n\nBy the way, one strategy to deal with large scale refactoring is to resort to semantic patching or scripted edits. And in this particular case, I feel like squashing would be justified, result-wise. Both of these strategies are rather \"out-of-band\" mechanisms, as they require someone to check extra information in the commit description and maybe act on it. (Also, you may be able to make clever use of wrappers or copying in initial commits to avoid breaking builds, but I'm personally not a fan of creating a lot of boilerplate and churn, so it's probably a bad idea on large scales.)\n\nBut yeah, some breakage may even happen by accident and maybe it can be justified in particular cases. I'm just not comfortable with making this a habit if not absolutely necessary.\n\n>Even if you don't \"like\" this, pragmatically speaking, pretty much every CI system works this way.\n\nI guess this is just as much a Git host / PR review system thing, even though there is a dependency on the CI. It shouldn't be hard to configure the CI to do a build of builds testing every commit. But I'm personally more worried about how people approach this rather than whether it is strongly enforced by the CI.\n\n>If you don't squash, intermediate commits may not pass CI, and if you do squash, you're potentially hurting the readability of the history.\n\nAgreed, with the slight nit that post-merge you may be able to assume things were reviewed and you might trust the commit description if it says \"moved definitions to sub-package X\".\n\n>With semi-linear history you can use `git bisect --first-parent`. This will skip the intermediate commits, ans stick to the ones that had to pass CI.\n\nIndeed for this very particular case it's no worse than squashing and might even be better. I was more worried about more typical and loose changes, where merge commits look like squashing if you follow the first parent, but if there's poor commit discipline then the second parent is just a pile of garbage. In that case, bisect will be able to pinpoint the PR but unless it's small, you're still going to have trouble identifying the issue.\n\nAlso note that the second parent is likely based on a different point in time versus the first parent. Unless you use a more complex strategy like rebase *plus* merge commit, which makes it more like rebasing.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhe51h9/",
+    "parent_id": "t1_nh98ltu",
+    "created_utc": 1759423625.0
+  },
+  {
+    "id": "nhebuka",
+    "author": "xenomachina",
+    "body": "> Also note that the second parent is likely based on a different point in time versus the first parent. Unless you use a more complex strategy like rebase plus merge commit, which makes it more like rebasing.\n\n[Semi-linear history](https://docs.gitlab.com/user/project/merge_requests/methods/#merge-commit-with-semi-linear-history) requires that a fast forwards is possible, but does not fast-forward. GitLab won't let you merge an MR without it being fast-forwardable, and will instead give you a \"Rebase\" button. You can also do it manually (and have to, if there are conflicts), but doing this also resets merge request approvals.\n\nSo yes, I generally rebase to get my feature branch up to date, and then merge (non-fast-forward) my feature branch into main.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhebuka/",
+    "parent_id": "t1_nhe51h9",
+    "created_utc": 1759425543.0
+  },
+  {
+    "id": "nh1rhrz",
+    "author": "Shadowratenator",
+    "body": "i'll be honest. i have never encountered a workflow that gets changes into main without using merge. i'm curious what you are doing.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1rhrz/",
+    "parent_id": "t1_nh1lx67",
+    "created_utc": 1759255971.0
+  },
+  {
+    "id": "nh67f0b",
+    "author": "LysanderStorm",
+    "body": "It's probably uncommon, but you can just push changes to main if you're quick enough ;)\n\nEven in the standard workflow of opening a PR, run CI tests on it, review it, and then merge it, you can choose squash and merge or rebase and merge. But the default still seems to be merge, conceptually also makes sense to me.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh67f0b/",
+    "parent_id": "t1_nh1rhrz",
+    "created_utc": 1759320381.0
+  },
+  {
+    "id": "nh80zut",
+    "author": "macbig273",
+    "body": "trunk based ?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh80zut/",
+    "parent_id": "t1_nh1rhrz",
+    "created_utc": 1759340629.0
+  },
+  {
+    "id": "nh9fws4",
+    "author": "Trawling_",
+    "body": "It sounds like they are not using merge request rules to control what gets pushed to a controlled branch.\n\nThey just push to uncontrolled branches.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh9fws4/",
+    "parent_id": "t1_nh1rhrz",
+    "created_utc": 1759355352.0
+  },
+  {
+    "id": "nh1slo5",
+    "author": "Affectionate-Egg7566",
+    "body": "Just developing software nothing special. We just push on top by fetching, rebasing, then pushing. Gives a clean set of commits and a linear history.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1slo5/",
+    "parent_id": "t1_nh1rhrz",
+    "created_utc": 1759256291.0
+  },
+  {
+    "id": "nh3fv8u",
+    "author": "Fun-Title7656",
+    "body": "Question (I am a newbie): if I am working on a feature branch and have  PR open to merge on a staging branch, I was thinking of doing rebase and merge on the PR, but the issue comes up when I have to get those commits from staging to main, so in that  case a merge without rebase ?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3fv8u/",
+    "parent_id": "t1_nh0z9oq",
+    "created_utc": 1759274345.0
+  },
+  {
+    "id": "nhp4tgm",
+    "author": "jutarnji_prdez",
+    "body": "I am not using rebase, but my guess would be to just resolve conflicts, same as you would do if you merge/update from staging into feature branch",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhp4tgm/",
+    "parent_id": "t1_nh3fv8u",
+    "created_utc": 1759574964.0
+  },
+  {
+    "id": "nhduoc4",
+    "author": "MisterSincere",
+    "body": "That's a very nice and tight description! And I never thought about it that distinctly but realised that's exactly how I use it :)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhduoc4/",
+    "parent_id": "t1_nh0z9oq",
+    "created_utc": 1759420599.0
+  },
+  {
+    "id": "nhe8n1n",
+    "author": "Shadowratenator",
+    "body": "Thanks. The other big difference between rebase and merge is conflict resolution. \n\nMerge basically compares the head of both branches. Ie: this is how this file looks in the most recent main. This is how the file looks in the most recent myFeature. What parts should we keep. \n\nRebase compares the most recent in main to each commit on myFeature in sequence. It forces you to evaluate your commits from a perspective of, “if main was this way when i started myFeature, what would i have done differently?”\n\nThese are really important ramifications to understand that i left out of my concise description. \n\nSometimes rebases feel super painful because you have to keep fixing conflicts as each commit is replayed. Sometimes merge feels painful because you have an overwhelming number of conflicts all at once. Lots of times people dont realize the context in which the conflicts are communicated. \n\nMy personal decision on what im going to use often takes this into account. I prefer to rebase my feature, but Have i been puttering around on my feature committing lots of experiments that i later gave up on? Thats not fun to resolve. Merge might be better there.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhe8n1n/",
+    "parent_id": "t1_nhduoc4",
+    "created_utc": 1759424636.0
+  },
+  {
+    "id": "nhf0ni1",
+    "author": "sheriffderek",
+    "body": "BOTH!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhf0ni1/",
+    "parent_id": "t1_nh0z9oq",
+    "created_utc": 1759432781.0
+  },
+  {
+    "id": "nhi4fym",
+    "author": "Trineki",
+    "body": "Man I always only use merge... I should probably look more at rebasing. Granted my use cases are pretty siloed the last few years. Still good knowledge if my team expands past... Looks around... Me myself and I 😬",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhi4fym/",
+    "parent_id": "t1_nh0z9oq",
+    "created_utc": 1759473267.0
+  },
+  {
+    "id": "nhi4nva",
+    "author": "Horror_Jicama_2441",
+    "body": "> You use merge to get those changes into an upstream branch that many people are pulling from.\n\n\nEven for single commit branches?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhi4nva/",
+    "parent_id": "t1_nh0z9oq",
+    "created_utc": 1759473388.0
+  },
+  {
+    "id": "nhmzkwi",
+    "author": "m915",
+    "body": "Sorry do you mean downstream?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhmzkwi/",
+    "parent_id": "t1_nh0z9oq",
+    "created_utc": 1759536432.0
+  },
+  {
+    "id": "nh16pva",
+    "author": "CoachBigSammich",
+    "body": "as everyone keeps saying, rebase is \"better\" for a branch that only you are working on. Merge is \"better\" for a branch that multiple people are working on. There's nothing more frustrating than trying to pull down changes from a remote and everything blows up because someone rebased and (force) pushed. This is coming from someone who prefers rebase lol.",
+    "score": 32,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh16pva/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759250060.0
+  },
+  {
+    "id": "nh30hyp",
+    "author": "snowsayer",
+    "body": "What’s wrong with “git pull —rebase origin <whatever branch you’re based off>”?",
+    "score": 5,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh30hyp/",
+    "parent_id": "t1_nh16pva",
+    "created_utc": 1759269124.0
+  },
+  {
+    "id": "nh43va8",
+    "author": "Logical_Angle2935",
+    "body": "Yes, rebase is preferred. It also avoids confusion with code reviews that can come from merging. \n\nHowever, our team also uses rebase when collaborating on a feature branch. We know who is working on it and we, you know, communicate. Never had problems and we get the same benefits all the time.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh43va8/",
+    "parent_id": "t1_nh16pva",
+    "created_utc": 1759282801.0
+  },
+  {
+    "id": "nhbups7",
+    "author": "towncalledfargo",
+    "body": "Git interactive rebase fixes this",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhbups7/",
+    "parent_id": "t1_nh16pva",
+    "created_utc": 1759391591.0
+  },
+  {
+    "id": "nh0yja4",
+    "author": "FlipperBumperKickout",
+    "body": "No I don't. Rebase is nice for local branches but I strongly prefer my global history to be branched so I can see commits which are working on the same feature being grouped together in a branch.\n\nOther than your second point I would agree.\n\nedit: and your copy branch thing. Absolutely not.",
+    "score": 38,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh0yja4/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759247646.0
+  },
+  {
+    "id": "nhi20gw",
+    "author": "baloo____",
+    "body": "git merge —ff-only —no-ff\nWhen merging a feature branch.\n\nThis creates a linear history, the commits of the branch are grouped together and this is preserved by putting a merge commit on top. But the branch itself is rebased and the parent commit is the commit just before on main.\n\nI will die on that hill, this is the best merge strategy (gitlab has support for it, named semi-linear history iirc)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhi20gw/",
+    "parent_id": "t1_nh0yja4",
+    "created_utc": 1759471946.0
+  },
+  {
+    "id": "nhievdr",
+    "author": "FlipperBumperKickout",
+    "body": "... So rebasing local branches, like I wrote, but do merges for feature branches, like I wrote.\n\n\nWhat am I missing here?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhievdr/",
+    "parent_id": "t1_nhi20gw",
+    "created_utc": 1759479346.0
+  },
+  {
+    "id": "nho1c2s",
+    "author": "MiscreatedFan123",
+    "body": "It depends on your team.\n\nWe use one commit per feature and rebase is extremely useful for us. When merging to main we use rebase and ff. Our commit history is chefs kiss.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nho1c2s/",
+    "parent_id": "t1_nh0yja4",
+    "created_utc": 1759552259.0
+  },
+  {
+    "id": "nho223h",
+    "author": "FlipperBumperKickout",
+    "body": "Your git history is chefs kiss until you look inside the commits.\n\nTry to apply the same logic to if it had been a class hierarchy in a project. Someone would say the folder structure is awesome, and they always can find the file they want to work in.\n\nProblem is, you look inside any one of those files and you are hit with a 10\\_000 lines code file.\n\nSame logic applies to commits. I can't easily read them if they are to huge for me to easily comprehend.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nho223h/",
+    "parent_id": "t1_nho1c2s",
+    "created_utc": 1759552623.0
+  },
+  {
+    "id": "nho2tql",
+    "author": "MiscreatedFan123",
+    "body": "It depends on your definition of atomicity.\n\nIn our team that is one per feature, or bugfix.\n\nIt can be one per class one per function if you really want to be weird.\n\nThis approach works great for us, since we can directly revert a feature.\n\nIn our eyes the feature code belongs grouped together in one commit. Spreading it out in multiple features but grouped in a branch can also work, it's practically the same thing but more modular.\n\n I personally don't see the use for this as I don't see how I can possibly write so many useful commit messages - and when reading commit history I am interested in the big picture and not in \"add API endpoint 1\", \"add API endpoint 2\", \"add DB query\" - that's all just noise and perfectly visible from the committed code itself.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nho2tql/",
+    "parent_id": "t1_nho223h",
+    "created_utc": 1759553013.0
+  },
+  {
+    "id": "nh1c7xg",
+    "author": "AttentionSuspension",
+    "body": "Ok, got it. My point with a copy branch was the remedy to the case where rebase must be done, so you basically abandon the old branch and publish the new one. It works in small teams for us",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1c7xg/",
+    "parent_id": "t1_nh0yja4",
+    "created_utc": 1759251651.0
+  },
+  {
+    "id": "nh3wjyy",
+    "author": "Daholli",
+    "body": "I'm not sure if I misunderstood something but just get your teammates to also do rebate on pull, that way even if you rewrite the history git is smart enough to not break.\nAnd obviously use push --force-with-lease",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3wjyy/",
+    "parent_id": "t1_nh1c7xg",
+    "created_utc": 1759280221.0
+  },
+  {
+    "id": "nh55bdi",
+    "author": "AttentionSuspension",
+    "body": "Yep, —force-with-lease is the best way to push",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh55bdi/",
+    "parent_id": "t1_nh3wjyy",
+    "created_utc": 1759299329.0
+  },
+  {
+    "id": "nh10jm7",
+    "author": "PM_ME_A_STEAM_GIFT",
+    "body": "Disagree. It's just two different tools with different trade offs and different use cases. Neither is the always the best option.\n\nBy the way, all CIs I have seen run on the merge result. And in more complex scenarios you can have merge trains. Would be quite cumbersome to do this manually.",
+    "score": 23,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh10jm7/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759248236.0
+  },
+  {
+    "id": "nh1dlfq",
+    "author": "AttentionSuspension",
+    "body": "Good point! I would still like to run tests locally before merging WITH newest public changes from dev, so rebase is my tool",
+    "score": -1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1dlfq/",
+    "parent_id": "t1_nh10jm7",
+    "created_utc": 1759252043.0
+  },
+  {
+    "id": "nh1s6os",
+    "author": "PM_ME_A_STEAM_GIFT",
+    "body": "Why though?",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1s6os/",
+    "parent_id": "t1_nh1dlfq",
+    "created_utc": 1759256170.0
+  },
+  {
+    "id": "nh1uh9n",
+    "author": "AttentionSuspension",
+    "body": "Maybe I need to check the merge trains and how ci is run on the merged PR before actually being merged.\n\nMy point is to keep main always stable. Therefore I want do the integration in my feature branch. And see it passes tests",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1uh9n/",
+    "parent_id": "t1_nh1s6os",
+    "created_utc": 1759256841.0
+  },
+  {
+    "id": "nh1vpot",
+    "author": "PM_ME_A_STEAM_GIFT",
+    "body": "That's how GitHub CI behaves by default. Probably the others too. It triggers two pipelines, one for the head of your branch and one for the result of your branch merged into (or rebased onto) the target branch. If you configure everything correctly, you can pretty much guarantee an always working master branch.",
+    "score": 4,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1vpot/",
+    "parent_id": "t1_nh1uh9n",
+    "created_utc": 1759257203.0
+  },
+  {
+    "id": "nh1vyk7",
+    "author": "PM_ME_A_STEAM_GIFT",
+    "body": "Merge trains are for very busy, enterprise projects. Probably an overkill below 10 active developers.",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1vyk7/",
+    "parent_id": "t1_nh1uh9n",
+    "created_utc": 1759257276.0
+  },
+  {
+    "id": "nh1omy4",
+    "author": "tonecc",
+    "body": "I strongly advocate for merge into a main/master branch. This in turn forces you to rebase on the current main/master. Clean, centralized and organized.\n\nThe bad points you raised about merging should be mitigated by proper merge reviews BEFORE merging.  A proper maintainer's job.\n\nAlso, in my opinion, being able to rewrite the git history is a *bad* thing. Mistake visibility brings accountability and the incentive to not do it again, an oportunity to learn.",
+    "score": 7,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1omy4/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759255144.0
+  },
+  {
+    "id": "nh1w7cj",
+    "author": "AttentionSuspension",
+    "body": "Rewriting history might be a good thing though, it depends on the history:) once it is merged main, it is written in stone! But in feature branch it is more like a draft or work in progress",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1w7cj/",
+    "parent_id": "t1_nh1omy4",
+    "created_utc": 1759257347.0
+  },
+  {
+    "id": "nh33f2j",
+    "author": "tonecc",
+    "body": "Rewriting history on a dev branch is totally fine, I do it all the time. Main/master history never - that's what I meant!",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh33f2j/",
+    "parent_id": "t1_nh1w7cj",
+    "created_utc": 1759270072.0
+  },
+  {
+    "id": "nh54p5m",
+    "author": "AttentionSuspension",
+    "body": "Wow, brave!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh54p5m/",
+    "parent_id": "t1_nh33f2j",
+    "created_utc": 1759298977.0
+  },
+  {
+    "id": "nhomygb",
+    "author": "Kjoep",
+    "body": "Isn't that the reason not to use merge commits though? It makes a single messy commit instead of keeping the clean ones you worked on.  Or am I missing something?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhomygb/",
+    "parent_id": "t1_nh1omy4",
+    "created_utc": 1759564283.0
+  },
+  {
+    "id": "nhotbz5",
+    "author": "tonecc",
+    "body": "You got the right idea, the thing is merge commits are optional. I never used them and, by my points above, I think you figured out why. Always strive for a clean, complete, git history.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhotbz5/",
+    "parent_id": "t1_nhomygb",
+    "created_utc": 1759568154.0
+  },
+  {
+    "id": "nh0xx1i",
+    "author": "homezlice",
+    "body": "the reason gitflow and other processes were created is because of what you're saying is BAD about rebase.  Informing others of the right branch all the time in a large project isn't efficient.",
+    "score": 24,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh0xx1i/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759247469.0
+  },
+  {
+    "id": "nh1bstb",
+    "author": "[deleted]",
+    "body": "*Post was edited and removed with [Redact](https://redact.dev) which is a tool to mass delete posts from Twitter, Reddit and Discord and all major social media platforms.*\n\nplucky mighty spectacular depend command encourage market placid abundant plough",
+    "score": 9,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1bstb/",
+    "parent_id": "t1_nh0xx1i",
+    "created_utc": 1759251534.0
+  },
+  {
+    "id": "nh1cdwp",
+    "author": "homezlice",
+    "body": "I have only used github flow (different than gitflow) and found it fine.",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1cdwp/",
+    "parent_id": "t1_nh1bstb",
+    "created_utc": 1759251697.0
+  },
+  {
+    "id": "nh1dclq",
+    "author": "[deleted]",
+    "body": "*Plot twist: this post no longer exists because [Redact](https://redact.dev) swept through and cleared it out along with everything else. Social media, messaging apps, people finder sites, all of it.*\n\ngrandfather cake live rinse dog bake steer adjoining sophisticated ten",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1dclq/",
+    "parent_id": "t1_nh1cdwp",
+    "created_utc": 1759251974.0
+  },
+  {
+    "id": "nh1msez",
+    "author": "EmbeddedSwDev",
+    "body": "The article is for sure written by ChatGPT",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1msez/",
+    "parent_id": "t1_nh1dclq",
+    "created_utc": 1759254627.0
+  },
+  {
+    "id": "nh1v4ik",
+    "author": "[deleted]",
+    "body": "*This post was mass deleted with [Redact](https://redact.dev) - I used this software to automate the removal of old posts from my account so that I can be more secure.*\n\nlibrary punch square ripe skirt correct doll flowery paint imminent",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1v4ik/",
+    "parent_id": "t1_nh1msez",
+    "created_utc": 1759257029.0
+  },
+  {
+    "id": "nh3flyz",
+    "author": "EishLekker",
+    "body": "What’s so unnecessary complicated with git flow? Could you explain what you mean, because I genuinely don’t see it. \n\nAlso, how strict is your definition of git flow? We don’t use release branches or hotfix branches. But main, develop and feature branches. Would you consider that git flow still?\n\nThe problem I see with GitHub flow is that if you work on multiple features in parallel, and each one is ready and tested individually, you have no way to test them all together before you merge to main.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3flyz/",
+    "parent_id": "t1_nh1dclq",
+    "created_utc": 1759274255.0
+  },
+  {
+    "id": "nh56osu",
+    "author": "[deleted]",
+    "body": "*If you're reading this, the original post got nuked by [Redact](https://redact.dev). I use it to automatically purge my digital footprint from social networks, people search sites and messaging apps.*\n\nabundant arrest payment coordinated telephone aback flag advise dinosaurs husky",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh56osu/",
+    "parent_id": "t1_nh3flyz",
+    "created_utc": 1759300118.0
+  },
+  {
+    "id": "nh1ytmj",
+    "author": "omicronCloud8",
+    "body": "I must say, it's usually the teams and people you least want to follow gitflow, that usually do :(.\n\nGitlab flow is the one I find the most sustainable in larger code bases and organizations that aren't super mature (even mature ones) SDLC wise but are technically able.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1ytmj/",
+    "parent_id": "t1_nh1bstb",
+    "created_utc": 1759258113.0
+  },
+  {
+    "id": "nh1bjj6",
+    "author": "AttentionSuspension",
+    "body": "Good point, I agree",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1bjj6/",
+    "parent_id": "t1_nh0xx1i",
+    "created_utc": 1759251463.0
+  },
+  {
+    "id": "nh1xi0h",
+    "author": "waterkip",
+    "body": "Rebase is a tool for while developing. Merging is a tool for incorporating your branch into a target branch.\n\nThey are inherently two different sides of the same coin. They both co-exist for these two reasons.\n\nWhen you develop you'll want to incorporate upstream changes into your work, depending on how big the work upstream is. You therefore rebase your branch. Rebasing to reorder and cleanup commits and the history of these commits is a second utility of rebase. It allows finegrained control of what you put in each commit. You can split commits, swap them, drop them, squash them, reword them. It is your cleaning tool and pragmatic friend.\n\nBefore merging you rebase because you want a clean merge without conflict and a rebase will immediately tell you when a conflict arises and ensures you can fix it.\n\nMerging is just the ceremomey where you incorporate the final work into the target branch.",
+    "score": 6,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1xi0h/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759257729.0
+  },
+  {
+    "id": "nh2mjad",
+    "author": "wildjokers",
+    "body": "> When you develop you'll want to incorporate upstream changes into your work, depending on how big the work upstream is. You therefore rebase your branch.\n\nYou can do the same thing with merge.",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2mjad/",
+    "parent_id": "t1_nh1xi0h",
+    "created_utc": 1759264965.0
+  },
+  {
+    "id": "nh2o5d6",
+    "author": "waterkip",
+    "body": "Yes, and introduce spagetti graphs. Which is why you rebase, per many foss projects policy. \n\n\nhttps://github.com/git/git/blob/821f583da6d30a84249f75f33501504d597bc16b/Documentation/SubmittingPatches#L106",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2o5d6/",
+    "parent_id": "t1_nh2mjad",
+    "created_utc": 1759265422.0
+  },
+  {
+    "id": "nh3ksxr",
+    "author": "EishLekker",
+    "body": "> Yes, and introduce spagetti graphs. \n\nI can’t think of a single instance when a merge into a feature branch has caused me any kind of “graph headache” later on. \n\n\n>Which is why you rebase, per many foss projects policy. \n\n>https://github.com/git/git/blob/821f583da6d30a84249f75f33501504d597bc16b/Documentation/SubmittingPatches#L106\n\nDid you mean to link to another part of that document? Because I don’t see that segment mentioning rebase.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3ksxr/",
+    "parent_id": "t1_nh2o5d6",
+    "created_utc": 1759276069.0
+  },
+  {
+    "id": "nh3l7il",
+    "author": "waterkip",
+    "body": "You mean you missed:\n\n> what this principle means is that for the vast majority of cases, the starting point for new work should be the latest HEAD commit of `maint` or `master` based on the following cases:",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3l7il/",
+    "parent_id": "t1_nh3ksxr",
+    "created_utc": 1759276209.0
+  },
+  {
+    "id": "nh3n7ll",
+    "author": "EishLekker",
+    "body": "That segment doesn’t mention rebase, what are you on about?\n\nAnd the part you quoted doesn’t mention mergers either. It only talks about the *starting point* for new work.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3n7ll/",
+    "parent_id": "t1_nh3l7il",
+    "created_utc": 1759276923.0
+  },
+  {
+    "id": "nh3q4w0",
+    "author": "waterkip",
+    "body": "You do you, if you work on git and you branch of master or maint and work a few days on it, and come back you are no longer on the newest commit when you send your patches. Good luck with your starting point being on the latest commit of either of those branches.",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3q4w0/",
+    "parent_id": "t1_nh3n7ll",
+    "created_utc": 1759277957.0
+  },
+  {
+    "id": "nh3s5ip",
+    "author": "EishLekker",
+    "body": "I have no idea what you are talking about now. \n\nI’m not discussing your main point in your previous comment. \n\nI’m only discussing the link you posted, and if the segment you pointed to is saying anything about rebase, which you claimed that it does.",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3s5ip/",
+    "parent_id": "t1_nh3q4w0",
+    "created_utc": 1759278674.0
+  },
+  {
+    "id": "nh4y9f5",
+    "author": "waterkip",
+    "body": "The principle clearly states that new work must be based on the latest HEAD commit of maint or master. The practical consequence of this policy, over days of concurrent development, is that an operation is required to update the branch's base.\n\nThis operation, necessary to meet the patch submission standards of a clean, linear history, is known as a rebase in the Git community.\n\nI've provided the source, the policy, and the practical outcome. I will not be debating the literal absence of a single word further.",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4y9f5/",
+    "parent_id": "t1_nh3s5ip",
+    "created_utc": 1759295487.0
+  },
+  {
+    "id": "nh1xv8t",
+    "author": "AttentionSuspension",
+    "body": "well said! Totally agree",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1xv8t/",
+    "parent_id": "t1_nh1xi0h",
+    "created_utc": 1759257836.0
+  },
+  {
+    "id": "nh20up5",
+    "author": "Conscious_Support176",
+    "body": "Would describe it differently.\nThey each do a different job.\nSome jobs, merge is the only tool for it.\nSome jobs, rebase is the correct tool for it, but you need to be following the recommendations in the manual. If you have an allergy to reading manuals and/or the command line, better to stick with merge.",
+    "score": 5,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh20up5/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759258698.0
+  },
+  {
+    "id": "nh21f9b",
+    "author": "AttentionSuspension",
+    "body": "Good point! Merge is safer option, while rebase interactive is better in cli",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh21f9b/",
+    "parent_id": "t1_nh20up5",
+    "created_utc": 1759258860.0
+  },
+  {
+    "id": "nh2wptt",
+    "author": "Conscious_Support176",
+    "body": "True enough, though GitExtension is pretty good for interactive rebase. I was thinking though that are also a bunch of conflict resolution tools for more complex cases where the only practical way to use them is with the cli.\n\nIf you want to avoid the cli, it might be best to put your energy into ensuring you don’t need it.\n\nI reckon if you have good automated test coverage, you can ensure each feature branch has a single unit of work, e.g. every refactoring is a separate feature.\n\nThat way, squash merge should be good enough for your needs, you can practically avoid rebase altogether.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2wptt/",
+    "parent_id": "t1_nh21f9b",
+    "created_utc": 1759267947.0
+  },
+  {
+    "id": "nh0zlvw",
+    "author": "ars0nisfun",
+    "body": "I have been professionally developing and using git for about 8 years now and have never had an issue merging lol. We have a big central branch for the product we develop, with each new feature/issue being it's own branch that gets merged in after it passes a suite of automated tests. Broadly, I just merge the central branch into my own before I push to ensure no merge conflicts, and so long as my branch doesn't take 2-3 weeks to get merged in I have never had an issue or needed to rebase.",
+    "score": 19,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh0zlvw/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759247957.0
+  },
+  {
+    "id": "nh17c48",
+    "author": "cgoldberg",
+    "body": "You might not have had any issues, but you have a ton of merge commits in your history (which some people dislike).",
+    "score": 5,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh17c48/",
+    "parent_id": "t1_nh0zlvw",
+    "created_utc": 1759250244.0
+  },
+  {
+    "id": "nh18wnk",
+    "author": "RobotJonesDad",
+    "body": "But is it worth rewriting history just to eliminate merge commits? Especially if you have signed commits. I think any workflow that requires forced pushing needs to be looked at very closely. \n\nI am coming from a place where more than one person works on many of the feature branches, so those are almost always pushed.",
+    "score": 11,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh18wnk/",
+    "parent_id": "t1_nh17c48",
+    "created_utc": 1759250699.0
+  },
+  {
+    "id": "nh5i6r0",
+    "author": "ScaredInvestment1571",
+    "body": ">I am coming from a place where more than one person works on many of the feature branches, so those are almost always pushed.\n\nI would say the workflow that needs to be looked at very closely is yours then.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh5i6r0/",
+    "parent_id": "t1_nh18wnk",
+    "created_utc": 1759307109.0
+  },
+  {
+    "id": "nh6my8u",
+    "author": "RobotJonesDad",
+    "body": "I think there are many valid reasons for having multiple people work on a feature over a short period. That in and of itself doesn't constitute a problem.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh6my8u/",
+    "parent_id": "t1_nh5i6r0",
+    "created_utc": 1759325897.0
+  },
+  {
+    "id": "nh6o20s",
+    "author": "ScaredInvestment1571",
+    "body": "I could see a reason only if you're doing pair or mob programming, or you reach out to someone to help you figure out stuff and it's just easier to push a commit to your branch. In either case, no need for merges.\n\nAnything on top of this, you probably have a questionable workflow.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh6o20s/",
+    "parent_id": "t1_nh6my8u",
+    "created_utc": 1759326259.0
+  },
+  {
+    "id": "nh6tuhu",
+    "author": "RobotJonesDad",
+    "body": "Do you work on simple products with few collaborative teams? We have algorithm experts, software development, hardware, simulation, etc. \n\nUnless you can do all the parts yourself, you often have to collaborate with others. \n\nI think you are concerned about long-lived divergent branches? That can be a problem, but paradoxically, you can create branches that will break the trunk if you don't allow shared/collaborative use of feature branches. \n\nI really don't understand the hate for merge commits?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh6tuhu/",
+    "parent_id": "t1_nh6o20s",
+    "created_utc": 1759328062.0
+  },
+  {
+    "id": "nh18y68",
+    "author": "ImTheRealCryten",
+    "body": "Some dislike it, but others actually prefer it. Using --first-parent is great for filtering out all other commits that's on the branches that was merged and if the merge commits are done correctly, you can get a very quick look at what's been done between commits. I prefer merge since it's less error prone (there's always people that only want to use git and not read up on features). That's said, pull on the main branch can't be allowed to merge since that will destroy the first parent history. \n\nGit is a complex beast, and there's several ways to work that's good as long as all devs follow the guidelines.",
+    "score": 7,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh18y68/",
+    "parent_id": "t1_nh17c48",
+    "created_utc": 1759250712.0
+  },
+  {
+    "id": "nh18uns",
+    "author": "NotSelfAware",
+    "body": "Squash commits.",
+    "score": 10,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh18uns/",
+    "parent_id": "t1_nh17c48",
+    "created_utc": 1759250683.0
+  },
+  {
+    "id": "nh1o9je",
+    "author": "Lor1an",
+    "body": "`git merge --squash main` is the MVP for updating from a central branch.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1o9je/",
+    "parent_id": "t1_nh18uns",
+    "created_utc": 1759255037.0
+  },
+  {
+    "id": "nh694zx",
+    "author": "DancesWithGnomes",
+    "body": "This is not a matter of personal taste, this is a matter of utility.\n\nMerges are a source of errors, so when I hunt down a problem, I want to see the merge commits so I can check them. A rebase does the same merge, but hides it, and if any merge conflicts are resolved the wrong way that is much harder to find with rebase.\n\nIf the only reason to dislike merges is that the history does not \"look neat\", then you need to sort out your priorities!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh694zx/",
+    "parent_id": "t1_nh17c48",
+    "created_utc": 1759321051.0
+  },
+  {
+    "id": "nh762l1",
+    "author": "cgoldberg",
+    "body": "It's absolutely a matter of personal taste (\"utility\" is subjective). Some people have a preference for linear history. You can argue all you want that their preference is a bad thing, but the preference exists.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh762l1/",
+    "parent_id": "t1_nh694zx",
+    "created_utc": 1759331656.0
+  },
+  {
+    "id": "nh8gc1u",
+    "author": "Sensitive_Tear110",
+    "body": "Maintaining a \"clean\" git history is almost purely autistic and provides almost no utility to almost every developer.\n\nRebasing introduces many potential pitfalls, and always merging produces none. That's really what most people care about when working professionally (or on any sort of large team).",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh8gc1u/",
+    "parent_id": "t1_nh17c48",
+    "created_utc": 1759345057.0
+  },
+  {
+    "id": "nhmwjdq",
+    "author": "samettinho",
+    "body": "I hate merge commits, it is confusing and the history is not linear. I've been doing squash and merge which is clean. one commit per PR, linear history etc, each individual PR has its own history so, history is not overwritten either. the only caveat is if you wanna have crazy git contributions, it is harder this way.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhmwjdq/",
+    "parent_id": "t1_nh17c48",
+    "created_utc": 1759535289.0
+  },
+  {
+    "id": "nh3gaon",
+    "author": "EishLekker",
+    "body": "What’s the problem with that? They are part of the history. \n\nI see the git commit as a raw log of everything that has happened. I want it to preserve the history exactly as it happened, with every detail.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3gaon/",
+    "parent_id": "t1_nh17c48",
+    "created_utc": 1759274495.0
+  },
+  {
+    "id": "nh3jw7c",
+    "author": "cgoldberg",
+    "body": "That's great... but some people don't.",
+    "score": -1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3jw7c/",
+    "parent_id": "t1_nh3gaon",
+    "created_utc": 1759275754.0
+  },
+  {
+    "id": "nh3mvyb",
+    "author": "EishLekker",
+    "body": "But why though? Why don’t they want a proper “forensic friendly” and detailed history? What is the downside?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3mvyb/",
+    "parent_id": "t1_nh3jw7c",
+    "created_utc": 1759276806.0
+  },
+  {
+    "id": "nh3rmuj",
+    "author": "cgoldberg",
+    "body": "I'm just telling you MANY people don't like it and prefer a linear history. I don't particularly care, but people have preferences besides yours.",
+    "score": -1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3rmuj/",
+    "parent_id": "t1_nh3mvyb",
+    "created_utc": 1759278489.0
+  },
+  {
+    "id": "nh3shis",
+    "author": "EishLekker",
+    "body": "I get that people have different preferences. But I see no point in presenting preferences here without also presenting the reasons for them.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3shis/",
+    "parent_id": "t1_nh3rmuj",
+    "created_utc": 1759278795.0
+  },
+  {
+    "id": "nh46m72",
+    "author": "cgoldberg",
+    "body": "It's not my preference. But some people like a linear history because it's easier to bisect, reversion and cherry-picking is easier, and it just gives a clearer view of changes.\n\nWhether you share those preferences doesn't matter ... some people like a linear history and don't do merge commits.\n\nI back up my assertion by... all the people that create a linear history and don't have merge commits in their main branch's history.\n\nMaybe they are all wrong and their preference is really to see merge commits. Who knows. You can start a crusade to convert them if you wish... but these people exist and currently don't do merge commits 🤷‍♂️",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh46m72/",
+    "parent_id": "t1_nh3shis",
+    "created_utc": 1759283791.0
+  },
+  {
+    "id": "nh4wr5k",
+    "author": "the_0rly_factor",
+    "body": "First of all, who cares? Second, squash commits.",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4wr5k/",
+    "parent_id": "t1_nh17c48",
+    "created_utc": 1759294712.0
+  },
+  {
+    "id": "nh4xhp1",
+    "author": "cgoldberg",
+    "body": "I do squash when I merge... why do you if you don't care? 🤷‍♂️",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4xhp1/",
+    "parent_id": "t1_nh4wr5k",
+    "created_utc": 1759295092.0
+  },
+  {
+    "id": "ni7mlay",
+    "author": "CpnStumpy",
+    "body": "90% of merges down are squash merges, idunno why anyone wouldn't",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/ni7mlay/",
+    "parent_id": "t1_nh17c48",
+    "created_utc": 1759824034.0
+  },
+  {
+    "id": "nh1d4hc",
+    "author": "AttentionSuspension",
+    "body": "Yeah, I see the point and this is the way to go if following Merge strategy. I was always concerned about making sure my feature branch is up to date with the main or dev. Rebase is somewhat nicer; you can than squash or remove stuff if work was repeated in dev and in your own branch (sometimes people do not decompose things and do refactoring or dependency bump simultaneously)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1d4hc/",
+    "parent_id": "t1_nh0zlvw",
+    "created_utc": 1759251910.0
+  },
+  {
+    "id": "nh1do6w",
+    "author": "sunshinefox_25",
+    "body": "What kind of tests do you run? Are these tests highly specific to your product and it's features, or are you referring to more generalized tests of the integrity of the git operations?  I want to get more into setting up automated tests for my development work",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1do6w/",
+    "parent_id": "t1_nh0zlvw",
+    "created_utc": 1759252065.0
+  },
+  {
+    "id": "nh26yvt",
+    "author": "newprince",
+    "body": "Yeah, I'm not sure why people hate merge so much.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh26yvt/",
+    "parent_id": "t1_nh0zlvw",
+    "created_utc": 1759260471.0
+  },
+  {
+    "id": "nygj3nu",
+    "author": "SheSaidTechno",
+    "body": "Here are 3 reasons why `git merge` is bad compared to `git rebase` :\n\n1. **Merge commits clutter the history :** `git merge` put useless merge commits in your branch. So it will be tedious to use `git diff` afterwards because you will see code changes coming from both your code and `master`.\n2. **Editing commit history becomes difficult :** If your branch contains many commits and merge commits, operations like rewording commit messages (for example, to follow a specific naming convention) can be painful. You may have to re-resolve conflicts that were already handled during previous merges.\n3. **It makes** `master` **harder to manage** : People who rely on `git merge` often also avoid using squash, which results in pull requests adding a large number of commits directly to `master`. This makes reverting a pull request or navigating `git log` much more difficult. I once tried to run `git reset --hard` to an older commit, but the history had become so large and noisy due to pull requests with many commits that Git became extremely slow when traversing it.\n\nBy the way, **criticism of rebase is often based on misunderstanding**. Many people who dislike `git rebase` simply do not know how to use it properly. A common argument is that rebasing \"destroys commits\", which is **NOT** true : rewritten commits can still be recovered using `git reflog`. Rebase is a powerful tool when used correctly and does not inherently lead to data loss !",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nygj3nu/",
+    "parent_id": "t1_nh0zlvw",
+    "created_utc": 1767901794.0
+  },
+  {
+    "id": "nh1f6xk",
+    "author": "Charming-Designer944",
+    "body": "Agree to disagree.\n\nMerge is the safe bet.\n\nRebase is a destructive cleaning tool.",
+    "score": 11,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1f6xk/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759252493.0
+  },
+  {
+    "id": "nh12p3p",
+    "author": "mesonofgib",
+    "body": "No; my preference is to merge locally, and for PRs to squash/rebase when merging to keep the history of master/main clean. I don't gain anything if my own dev branches to have a linear history and rebasing a work in progress is just a needless pain in the ass.",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh12p3p/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759248875.0
+  },
+  {
+    "id": "nh1t4ou",
+    "author": "kenpaicat",
+    "body": "Agree. I always rebase.",
+    "score": 4,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1t4ou/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759256446.0
+  },
+  {
+    "id": "nh1umfl",
+    "author": "AttentionSuspension",
+    "body": "Welcome to rebase team 💪",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1umfl/",
+    "parent_id": "t1_nh1t4ou",
+    "created_utc": 1759256882.0
+  },
+  {
+    "id": "nh24jr9",
+    "author": "RarestSolanum",
+    "body": "If I am reviewing your PR and you are using a rebase workflow I automatically hate you. It makes it much more difficult to re-review to see if you have actually addressed my comments.",
+    "score": 7,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh24jr9/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759259776.0
+  },
+  {
+    "id": "nh29yar",
+    "author": "AttentionSuspension",
+    "body": "Good point. Please don’t hate me 😅 as I understand, it shouldn’t be a problem when rebased onto main, since pr is made against main, so you will see the diff only and can review it. But I will check it myself",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh29yar/",
+    "parent_id": "t1_nh24jr9",
+    "created_utc": 1759261356.0
+  },
+  {
+    "id": "nh2oahm",
+    "author": "RarestSolanum",
+    "body": "It removes the \"Changes since your last review\" button on GitHub, and resets the times on all of the commits, so I can't easily tell what has changed",
+    "score": 6,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2oahm/",
+    "parent_id": "t1_nh29yar",
+    "created_utc": 1759265461.0
+  },
+  {
+    "id": "nh2t3ud",
+    "author": "Wiikend",
+    "body": "Bitbucket has the \"Changes since your last review\" feature, and it's super nice in these situations where you have comments and their code needs new changes. I'm not a git wizard, but won't the commit hashes stay the same even after a rebase? Won't GitHub be able to utilize that to keep track of what you already reviewed? Won't this only be a problem if the commits are squashed?",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2t3ud/",
+    "parent_id": "t1_nh2oahm",
+    "created_utc": 1759266847.0
+  },
+  {
+    "id": "nh331up",
+    "author": "MrMelon54",
+    "body": "The commit hashes change with a rebase, but the diff of files won't change. I assume Bitbucket is showing changes between the previous branch position and the newly rebased position and thus it works better for \"changes since your last review\".\n\nGitHub could do it better, but let's be honest GitHub encourages merge commits and doesn't improve anything not related to merge commits.",
+    "score": 4,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh331up/",
+    "parent_id": "t1_nh2t3ud",
+    "created_utc": 1759269950.0
+  },
+  {
+    "id": "nh33cyw",
+    "author": "MrMelon54",
+    "body": "Ah, that is the fault of GitHub. Their \"changes since your last review\" option is awful for rebases, but the git range-diff command works wonders for seeing changes between rebased commits.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh33cyw/",
+    "parent_id": "t1_nh2oahm",
+    "created_utc": 1759270053.0
+  },
+  {
+    "id": "nh53jgy",
+    "author": "AttentionSuspension",
+    "body": "I use Bitbucket so it works fine in this scenario",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh53jgy/",
+    "parent_id": "t1_nh2oahm",
+    "created_utc": 1759298327.0
+  },
+  {
+    "id": "nh8mwpc",
+    "author": "UrGuardian4ngel",
+    "body": "So... I usually try to make atomic commits. During development, I'm always rebasing and rewriting. Going for review, I kinda switch mindset.\n\nI tend to leave my `!fixup` commits for comments on stupid stuff like inverted if conditional, typos, move method to another class, ... at the end of the branch. Or I create a separate atomic commit for things that change flow, my understanding of domain, ... along with a descriptive message of it.\nThat gets pushed for review as-is.\n\nOn approve, I do a final auto-squash rebase. That automatically absorbs fixup commits into their base, cleaning up my history from little meaningful stuff as typos and the likes. Significant changes remain as separate atomic commits at the end of my topic branch. \n\nWhen the end diff is exactly the same as before, that is what gets merged into the master branch.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh8mwpc/",
+    "parent_id": "t1_nh24jr9",
+    "created_utc": 1759346959.0
+  },
+  {
+    "id": "nhc6yel",
+    "author": "timtody",
+    "body": "This has nothing to do with git but rather a tool implementation (GitHub in this case). Track changes to the PR with Individual commits and squash only after approval. Also don’t hate it makes you grow old",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhc6yel/",
+    "parent_id": "t1_nh24jr9",
+    "created_utc": 1759399125.0
+  },
+  {
+    "id": "nh2sfr1",
+    "author": "zaitsman",
+    "body": "I dislike rebase so much all our company repos have disabled force push. Why? Because rewriting history is bad \nIf I ever do look at history I want to know when and in what order devs did things. I do not care either way if it were linear. Life’s not linear.",
+    "score": 6,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2sfr1/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759266649.0
+  },
+  {
+    "id": "nh540ok",
+    "author": "AttentionSuspension",
+    "body": "Got it! But why you want to know when and in what order devs did things? At the end of the day, working feature is the result",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh540ok/",
+    "parent_id": "t1_nh2sfr1",
+    "created_utc": 1759298596.0
+  },
+  {
+    "id": "nh56b1x",
+    "author": "zaitsman",
+    "body": "That’s right. So when things work I don’t care whether history is clean or not, I won’t look there anyway. But when they don’t, merge lets me see that they didn’t do it right as opposed to rebase which doesn’t.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh56b1x/",
+    "parent_id": "t1_nh540ok",
+    "created_utc": 1759299898.0
+  },
+  {
+    "id": "nh72bmt",
+    "author": "remy_porter",
+    "body": "Jesus Christ. I spent 90% of my time amending the same commit in a branch until that commit is correct. I force push *all the time*. I don't want a thousand intermediate commits from work I wanted to run through CI in the background while I'm working.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh72bmt/",
+    "parent_id": "t1_nh2sfr1",
+    "created_utc": 1759330565.0
+  },
+  {
+    "id": "nh8bhju",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh8bhju/",
+    "parent_id": "t1_nh72bmt",
+    "created_utc": 1759343655.0
+  },
+  {
+    "id": "nh9el04",
+    "author": "FarkCookies",
+    "body": "Because I prefer not to lose my work?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh9el04/",
+    "parent_id": "t1_nh8bhju",
+    "created_utc": 1759354931.0
+  },
+  {
+    "id": "nh9ksev",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh9ksev/",
+    "parent_id": "t1_nh9el04",
+    "created_utc": 1759356938.0
+  },
+  {
+    "id": "nh9n2zy",
+    "author": "FarkCookies",
+    "body": "Usually not. The last places I have worked at used trunk-based development with organically short-lived branches. We used flags and exceptional code coverage so it was okay. But in some previous projects I sometimes had rather long-lived branches, sometimes even with environment of its own to test. But yeah, not big fan. Now I am doing some solo stuff so no branches.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh9n2zy/",
+    "parent_id": "t1_nh9ksev",
+    "created_utc": 1759357701.0
+  },
+  {
+    "id": "nh8ca71",
+    "author": "remy_porter",
+    "body": "For CI, for review comments, just to have it in VCS so I can pull it down to other machines if needed, whether other machines to work on or to run on hardware. \n\nLike, I’m not going to make a new commit to respond to an MR comment, because that new commit is not representative of a feature or unit of work- it’s part of the work I’m doing. So I amend the commit which contains the unit of work to contain a corrected unit of work",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh8ca71/",
+    "parent_id": "t1_nh8bhju",
+    "created_utc": 1759343892.0
+  },
+  {
+    "id": "nh8xfz7",
+    "author": "zaitsman",
+    "body": "Yeah nah, thus there is no evidence of the feedback loop if you amend the commit in response to feedback. Once again, red flag from HR perspective",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh8xfz7/",
+    "parent_id": "t1_nh8ca71",
+    "created_utc": 1759349932.0
+  },
+  {
+    "id": "nh9ejyu",
+    "author": "remy_porter",
+    "body": "There absolutely is, both on the MR itself and in the reflog. The MR is the repository of the feedback. Why would I store the same information in commits?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh9ejyu/",
+    "parent_id": "t1_nh8xfz7",
+    "created_utc": 1759354922.0
+  },
+  {
+    "id": "nh9h8fy",
+    "author": "zaitsman",
+    "body": "You don’t need to store it anywhere.\n\nThe reason this should be in the history in git is the same as why there should be no force push - the only time we look at git history is when something goes wrong. And i ln THAT circumstance knowing that things came in as part of PR feedback is useful for me as it gives me context and I might go to the reviewer also not just the author especially if someone is unavailable.\n\nAgain, this is all rather theoretical as the number of times I had to do this over my 13 year career as a developer were very few. But all context was incredibly valuable then.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh9h8fy/",
+    "parent_id": "t1_nh9ejyu",
+    "created_utc": 1759355773.0
+  },
+  {
+    "id": "nha5k1o",
+    "author": "remy_porter",
+    "body": "I look at git history all the time, even when things haven’t gone wrong. It’s how I understand the code. “Why is this like this? Let me check the history.”\n\nAnd you absolutely need to store it. Because going back to the MR and reading the comments on a commit will give you a huge amount of understanding of the engineering decisions. But that’s background context that you usually don’t need. Normally I just want to see the commits themselves.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nha5k1o/",
+    "parent_id": "t1_nh9h8fy",
+    "created_utc": 1759364114.0
+  },
+  {
+    "id": "nha8g4f",
+    "author": "zaitsman",
+    "body": "That’s exactly right so I don’t understand how given that you want to know ‘why’ you also prefer someone to hide the ‘why’ from you by rewriting history. The two don’t match in my brain :)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nha8g4f/",
+    "parent_id": "t1_nha5k1o",
+    "created_utc": 1759365161.0
+  },
+  {
+    "id": "nhd6yyw",
+    "author": "remy_porter",
+    "body": "Because the history is ideally a clean narrative that represents the meaningful changes in the code. Comments in an MR are for the back and forth revision. Put it another way: I don’t commit after every line. That’d be silly. Committing after every MR comment is the same to me.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhd6yyw/",
+    "parent_id": "t1_nha8g4f",
+    "created_utc": 1759413667.0
+  },
+  {
+    "id": "nhe77mp",
+    "author": "remy_porter",
+    "body": "Actually, to put it a different way: the history is a narrative of the changes in terms of the delivered product. It shows the changes in functionality. The MR shows the changes in the interpretation of the functionality, the approach to it. I don't need to see in the code that Developer A went down a path, developer B gave them a suggestion in an MR, and then Developer A scrapped the first approach and did it differently. There's no reason to preserve the commit in any sort of mainline history if it never becomes part of the software.\n\nI want to preserve the discussion, sure. And those changes will always live in the reflog, so I can always see them for historical curiosity. But there's no reason to have a series of commits that are \"make change, undo change, make different change\". Just show me the change that counted. I don't need you to show your work in the git history.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhe77mp/",
+    "parent_id": "t1_nha8g4f",
+    "created_utc": 1759424233.0
+  },
+  {
+    "id": "nh8x8w4",
+    "author": "zaitsman",
+    "body": "Nothing runs through CI until you submit a PR.\n\nIf you spend this much time amending the same commit you will be performance managed rather soon as from the senior management perspective the evidence of your work has a single timestamp.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh8x8w4/",
+    "parent_id": "t1_nh72bmt",
+    "created_utc": 1759349877.0
+  },
+  {
+    "id": "nh2qvcc",
+    "author": "TheSodesa",
+    "body": "Rebase is always riskier, because it modifies history, and there is a chance human error would result in actual loss of data. This is usually not a problem if the branch you are rebasing does not have a lot of commits. Rebasing a branch with a hundred or more commits onto a branch such that you end up with conflicts along the rebase can be a nightmare to get right, especially if there were multiple commits that modified a file where the conflicts occur. You end up needing to resolve the same file multiple times during a rebase.\n\nWith a merge you get to fix all conflicts in a single merge commit without any chance of losing existing commits along the way, which is less error prone. This is why you see the merge strategy being used in incorporating changes from `main` in the rather large Typst accessibility pull request, for example: <https://github.com/typst/typst/pull/6619>.",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2qvcc/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759266192.0
+  },
+  {
+    "id": "nh53sro",
+    "author": "AttentionSuspension",
+    "body": "Good point!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh53sro/",
+    "parent_id": "t1_nh2qvcc",
+    "created_utc": 1759298474.0
+  },
+  {
+    "id": "nh2tihx",
+    "author": "gnivol",
+    "body": "Have been coding since before git came out.   \nmy workflow has only use these four commands 99% of the time. more than convinced this is all you really need  \n  \n\"git pull --rebase\"  \n\"git commit -m \"  \n\"git rebase -i\"   \n\"git push remote localbranch:remotebranch\"",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2tihx/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759266970.0
+  },
+  {
+    "id": "nh5436n",
+    "author": "AttentionSuspension",
+    "body": "Agree 👍",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh5436n/",
+    "parent_id": "t1_nh2tihx",
+    "created_utc": 1759298634.0
+  },
+  {
+    "id": "nh13agx",
+    "author": "gcwieser",
+    "body": "Absolutely could not disagree more.\n\n1. If this happens often, or at all, it’s a process problem. No need for rebase.\n\n2. The structure of how a project evolves is intended to be a tree that branches out and grows back together. This is a feature. \n\n3. Merge certainly allows for that as well. Again if the team adopts the right process.\n\n4. Rewriting history is something that should only be required in emergencies. Such as people committing secrets. Interactive rebase is great for fixing commit messages etc. ideally prior to merging the topic branch into the shared target branch. Again something that should not be part of the standard process.\n\nSorry for the strong opinions, but I’ve seen teams use rebase as part of their standard process and they spent 80% of their time integrating the code, not writing it. In teams I’ve lead with well defined merge processes, there were no such issues and time was spent on coding. Git is an amazing tool and if it’s believed to be causing problems, it’s the process, not the tool.",
+    "score": 7,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh13agx/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759249048.0
+  },
+  {
+    "id": "nh1h4h7",
+    "author": "kor_the_fiend",
+    "body": "Agree on everything but the secret part - that means it's time to rotate the secret!",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1h4h7/",
+    "parent_id": "t1_nh13agx",
+    "created_utc": 1759253032.0
+  },
+  {
+    "id": "nh1hoxd",
+    "author": "gcwieser",
+    "body": "Yes!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1hoxd/",
+    "parent_id": "t1_nh1h4h7",
+    "created_utc": 1759253195.0
+  },
+  {
+    "id": "nh231fl",
+    "author": "Wiikend",
+    "body": "I committed a secret once in my early days, lesson learned. Our senior at the time had a keen eye, luckily, and the secret was easy to rotate.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh231fl/",
+    "parent_id": "t1_nh1h4h7",
+    "created_utc": 1759259335.0
+  },
+  {
+    "id": "nh1fa52",
+    "author": "AttentionSuspension",
+    "body": "No problem, the whole point of the post is to hear the opinion! I see that 1. happens at our teams quite often",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1fa52/",
+    "parent_id": "t1_nh13agx",
+    "created_utc": 1759252518.0
+  },
+  {
+    "id": "nh2vv4q",
+    "author": "HolmesMalone",
+    "body": "Rebase is kind of a noob trap. Rather than learn about git it seems to magically solve your problem. However the force-pushing should be a red flag that it’s not ideal. All the commits now have new ids even though nothing changed and that kind of defeats the point of git and commit ids.",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2vv4q/",
+    "parent_id": "t1_nh1fa52",
+    "created_utc": 1759267686.0
+  },
+  {
+    "id": "nh54e4o",
+    "author": "AttentionSuspension",
+    "body": "Yep, you can shoot yourself with the rebase command. That is why I advocate for learning it and not be afraid",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh54e4o/",
+    "parent_id": "t1_nh2vv4q",
+    "created_utc": 1759298805.0
+  },
+  {
+    "id": "nh1g6zk",
+    "author": "gcwieser",
+    "body": "Help me follow along better on this one. If you work a ticket/work item and create a topic/feature branch. Then both you and a team member commit to this topic branch? Or when does it happen for you?",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1g6zk/",
+    "parent_id": "t1_nh1fa52",
+    "created_utc": 1759252773.0
+  },
+  {
+    "id": "nh1gm2k",
+    "author": "AttentionSuspension",
+    "body": "Yes, if two developers commit to the same branch. Then one pushes. The another tries to push and the request to pull first which leads to merge commit by default. With git pull —rebase you don’t get it",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1gm2k/",
+    "parent_id": "t1_nh1g6zk",
+    "created_utc": 1759252889.0
+  },
+  {
+    "id": "nh1km07",
+    "author": "gcwieser",
+    "body": "Hm yea but I feel like that’s a feature too. You commit your new changes locally, the other dev has already pushed theirs. You git pull to merge theirs in and possibly resolve merge conflicts.\n\nGenerally, I’d suggest not having multiple devs committing to the same feature branch. You own it until you merge it into whatever target (maybe dev or qa, etc.). You may get merge conflicts at that time, but then just merge that target branch into your topic branch, resolve, push and submit a PR. If you’re collaborating on a large enhancement with multiple devs over several sprints, you can temporarily create a branch for that enhancement and still have individual topic branches from that and merge those in via PRs as well. That way you do early code reviews for one dev’s work at a time instead of one big review closer to the end.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1km07/",
+    "parent_id": "t1_nh1gm2k",
+    "created_utc": 1759254018.0
+  },
+  {
+    "id": "nh23oj2",
+    "author": "Wiikend",
+    "body": "This is essential for huge lumps of work. PRs should ideally be no longer than 200-400 lines. Those tend to actually get reviewed. If you go bigger, you get the \"Looks good to me 👍\" and off it goes to production. You better pray in those situations.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh23oj2/",
+    "parent_id": "t1_nh1km07",
+    "created_utc": 1759259525.0
+  },
+  {
+    "id": "nh25lfz",
+    "author": "gcwieser",
+    "body": "Exactly! Large deliverables should not receive less scrutiny, but often do. This again is where a good branching process comes to the rescue. Appropriately sized topic branches, many small PRs and lots of merging :)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh25lfz/",
+    "parent_id": "t1_nh23oj2",
+    "created_utc": 1759260077.0
+  },
+  {
+    "id": "nh3ml8z",
+    "author": "EishLekker",
+    "body": "I agree with the general sentiment of your comment. But could you clarify this below?\n\n>1.\t⁠If this happens often, or at all, it’s a process problem. \n\nI understood OP as describing a situation where the base/source branch of the feature branch was updated. Naturally this happened often.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3ml8z/",
+    "parent_id": "t1_nh13agx",
+    "created_utc": 1759276697.0
+  },
+  {
+    "id": "nh3omhf",
+    "author": "gcwieser",
+    "body": "If OP is getting the ‘branches have diverged’ message frequently on a topic branch, I’d suggest not having multiple people directly commit to it (and rather have one topic branch owned by one dev). Yes, the baseline where the topic branch came from could see many updates, as other users merge in their changes. Then this would also just be a merge of the baseline back into the topic branch. Of course it’s only needed if what you’re working on has a dependency on someone else’s work.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3omhf/",
+    "parent_id": "t1_nh3ml8z",
+    "created_utc": 1759277422.0
+  },
+  {
+    "id": "nh1tzaq",
+    "author": "Conscious_Support176",
+    "body": "You’re half right. If you’re spending a lot of time on rebase, that suggests you have a process problem. If you always merge rather than rebasing, it doesn’t mean that you don’t have a process problem, you may just be hiding the problem.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1tzaq/",
+    "parent_id": "t1_nh13agx",
+    "created_utc": 1759256695.0
+  },
+  {
+    "id": "nh2n5s0",
+    "author": "wildjokers",
+    "body": "> If you always merge rather than rebasing, it doesn’t mean that you don’t have a process problem, you may just be hiding the problem.\n\nWhat problem could always merging be hiding? I am not following what you mean here.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2n5s0/",
+    "parent_id": "t1_nh1tzaq",
+    "created_utc": 1759265142.0
+  },
+  {
+    "id": "nh2tgm3",
+    "author": "Conscious_Support176",
+    "body": "What problem does difficult rebase integrations expose?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2tgm3/",
+    "parent_id": "t1_nh2n5s0",
+    "created_utc": 1759266955.0
+  },
+  {
+    "id": "nh1wcf9",
+    "author": "gcwieser",
+    "body": "I’m advocating for merge almost all of the time, and reserve rebase for the few occasions requiring that tool. They are not replacements for each other, but complementary tools.\n\nCurious - what process problem could ‘mostly merge’ hide?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1wcf9/",
+    "parent_id": "t1_nh1tzaq",
+    "created_utc": 1759257389.0
+  },
+  {
+    "id": "nh348lv",
+    "author": "Conscious_Support176",
+    "body": "Based on your statement that people spent time solving problems when using rebase that they didn’t spend when using merge. \n\nRebase requires you to resolve conflicts on each individual commit, which lets you do integration test each one. If such conflicts are harder to resolve with rebase than with merge, it suggests that your commits are too granular, and if there is ever a need to investigate what changes were made, the individual commits will be useless.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh348lv/",
+    "parent_id": "t1_nh1wcf9",
+    "created_utc": 1759270349.0
+  },
+  {
+    "id": "nh3di70",
+    "author": "gcwieser",
+    "body": "I guess that again depends on the process being followed. To me, an enhancement should be a ticket in some ticketing system. Then there should be one and only one branch per ticket (split the tickets so they’re assignable to one dev, there are things like epics and milestones outside of git to group these individual unit-of work-tickets for project management purposes). Each branch should result in at least one, but possibly several PRs (all from that branch into the target baseline). Then each PR should be made up of at least one commit, but likely several. A commit is the smallest incremental checkpoint as the dev builds their thing.\n\nI’m a fan of small, iterative commits. You can absolutely see what changed over a series of commits by doing a diff between any two hashes.\n\nIntegration testing should happen when the PR is submitted/completed and not for each commit.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3di70/",
+    "parent_id": "t1_nh348lv",
+    "created_utc": 1759273530.0
+  },
+  {
+    "id": "nh3fsbh",
+    "author": "Conscious_Support176",
+    "body": "With this model, integration testing is impossible in Individual commits. \nIt can work where each because each branch has only one unit if work. \nObviously, you can see the changes made in each commit, but they are all pretty much meaningless as none of them have been integrated.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3fsbh/",
+    "parent_id": "t1_nh3di70",
+    "created_utc": 1759274316.0
+  },
+  {
+    "id": "nh3kwfh",
+    "author": "gcwieser",
+    "body": "If you integration test every commit, you spend a lot of time testing unfinished code. That’s why I prefer integration testing at the PR level, when a dev decides their work is actually ready.\n\nIndividual commits are never meaningless. They are the code changes and as such the most meaningful.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3kwfh/",
+    "parent_id": "t1_nh3fsbh",
+    "created_utc": 1759276103.0
+  },
+  {
+    "id": "nh55348",
+    "author": "Conscious_Support176",
+    "body": "You seem to be repeating the same talking point in different words, insisting that there is some intrinsic value to knowing what work a developer did each day while they were developing a feature, or between every point when they decided to save their work so far.\n\nA shared commit should contain a unit of work, not unfinished code, because being a complete unit of work is what makes it testable. Untestable commits are useless once a unit of work is completed because you can’t use them to systematically investigate problems. \n\nSearching unfinished code for problems means you are looking at irrelevant noise. You have to stitch several commits together to form a clear understanding of the changes made for the unit of work.\n\nYes, you can always see what was changed between commits. What you want to see is what changed between testable commits. The value of that information decreases rapidly the more commits that you spread that information across.\n\nThe individual commits are useful to the developer *while developing*. Once they have completed each unit of work, the completed testable unit of work is what is valuable.\n\nAs I said, if you are able to split your features so each contains exactly one unit of work, more power to you.  In that case, you will almost never need rebase. In that case, lifting the lid on a merge commit to dig through the daily commits the developer made while developing the change is hardly going to be useful to when you’re investigating an issue say six months after the changes went into production.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh55348/",
+    "parent_id": "t1_nh3kwfh",
+    "created_utc": 1759299197.0
+  },
+  {
+    "id": "nh6kcwz",
+    "author": "gcwieser",
+    "body": "No, I’m arguing that rebase is the wrong tool for what you’re describing. I use merge and PRs which are the testable, reviewable and auditable units of work.\n\nBut to each their own. Doing any rebasing in this scenario seems like a lot more work.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh6kcwz/",
+    "parent_id": "t1_nh55348",
+    "created_utc": 1759325033.0
+  },
+  {
+    "id": "nh6obgy",
+    "author": "Conscious_Support176",
+    "body": "It’s the wrong tool for you in your scenario , where \n1) you have exactly one unit of wiork per branch, AND\n2) for some reason, you think that keeping a permanent log of the work in progress commits is useful.\n\nRead the git manual, where it explains the concept  of one unit of work per commit. Not everybody subscribes to this view of work in progress commits.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh6obgy/",
+    "parent_id": "t1_nh6kcwz",
+    "created_utc": 1759326344.0
+  },
+  {
+    "id": "nh1lkzz",
+    "author": "evo_zorro",
+    "body": "Strong disagree.\n\nThey're fundamentally different things. They serve different purposes, and solve/potentially create different problems.\n\nRebasing is typically done _before_ landing changes (either as a merge, a patch, or a fast-forward commit).\nMerging is the process of accepting a set of changes into a branch. Full stop. This can be done as a fast-forward commit, or a merge diamond. A merge can contain many commits over time, or be a single line of 1 or more commits from the HEAD into which you merged (this is the typical case for a rebase with optional squash flow).\n\nSaying rebase is better than merge is like saying salt is better than sugar. Sure, if you're looking for something to add flavour to your mashed potatoes, salt is the way to go. If you're baking a cake, though, you can whip up something decent without having salt to hand, but substituting sugar with salt will make anyone eating that \"cake\" violently sick.\n\n\nStop comparing rebase to merge. There's a reason why both commands exist, and will continue to exist. I rebase my branches quite often, but when I'm done working on them, I don't go out and rebase the upstream master branch. I merge my changes. If you replace merge with rebase, and continuously rewrite the history of your main/master branch, then... God help you, and anyone who has the misfortune of working with you.",
+    "score": 4,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1lkzz/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759254291.0
+  },
+  {
+    "id": "nh10fa4",
+    "author": "m39583",
+    "body": "lol this again....\n\nI will die on my lonely hill that rebase sucks.  It rewrites history, and the ENTIRE POINT of git is to maintain history so you can refer back and track your changes over time.  If you rebase onto master, you have no record of what you had before.  It's gone.\n\nOh and fuck off about the reflog, no normal people know how to use that, and yes I know you can backup your branch before, but why bother having to do that when there is a better alternative that isn't destructive.\n\nIf your pipeline suddenly breaks you're up shit creek.  There is no record that the rebase ever happened, there is no record of what changes that rebase caused.  If someone rebases without you knowing, you're in even more trouble.  You have to resolve conflicts on every single commit.  Sometimes you even have to resolve conflicts for code that doesn't even exist any more in future commits!\n\nBut sure it looks nice and pretty.  I mean that's great but I'd rather have the history so I'm not trying to work out why the fuck the pipeline just went red when apparently nothing changed.\n\nIf you **merge** master in, you have a nice single commit showing what changes came in, by who and when.  You can refer back to before times.  Your pipeline references are still valid.  You can go back in time and run your tests.  Go forwards again and run your tests.  You can bisect the changes, see what someone has done.  You have a nice history showing all of the exact changes that have occurred.\n\nI will **slightly** qualify this because we always squash merge, so the ultimate mainline history is identical whether feature branches are rebased onto master, or master is merged into them whilst they are open.\n\nI fucking hate rebase.  The **only** time it should be used is when updating tracked branches, so you don't get those pointless \"merge\" commits from upstream onto your branch.",
+    "score": 6,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh10fa4/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759248200.0
+  },
+  {
+    "id": "nh1uixi",
+    "author": "Conscious_Support176",
+    "body": "This is a weird take. If you squash merge, you’re obliterating the history you were talking about?",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1uixi/",
+    "parent_id": "t1_nh10fa4",
+    "created_utc": 1759256854.0
+  },
+  {
+    "id": "nh1y5p9",
+    "author": "m39583",
+    "body": "I care about the immediate history whilst developing a feature. Any regressions we've caused, previous green pipeline runs etc.  This especially applies on product wide changes like upgrading a major library or version of Java. I want the full history during the development of the branch and don't want \"magic\" history rewriting changes.\n\n\nYou don't need the same level of detail for all eternity though, so when complete it's ok to squash merge into mainline with the ticket reference and headline details of the feature.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1y5p9/",
+    "parent_id": "t1_nh1uixi",
+    "created_utc": 1759257920.0
+  },
+  {
+    "id": "nh2z8ab",
+    "author": "Conscious_Support176",
+    "body": "If you’re doing significant pre-integration testing on your merged branches, I understand why you want to preserve those commits.\n\nBut I would point out that there is no magic. Rebase just preserves the changes you made in the branch, allowing you to test *each* commit for regressions as you integrate it.\n\nMerge preserves the versions you made in the branch. There is no history of individually integrated commits because there are none. The parent of the branch you merged predates upstream changes that have been integrated already.\n\nIf you were going to use rebase, you would not want to preserve all intermediate commits in your branch, you would be squashing them so you have a commit per unit of work, before you rebase on upstream. \n\nIt’s a different way of looking at things: only integrated commits are worth preserving. You don’t consider a green pipeline run to be valuable enough to preserve if the run was on a commit with an out of date parent.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2z8ab/",
+    "parent_id": "t1_nh1y5p9",
+    "created_utc": 1759268725.0
+  },
+  {
+    "id": "nh2qs40",
+    "author": "wildjokers",
+    "body": "A squash merge doesn't obliterate history. The history still exists on the feature branch.",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2qs40/",
+    "parent_id": "t1_nh1uixi",
+    "created_utc": 1759266166.0
+  },
+  {
+    "id": "nh2tw75",
+    "author": "Conscious_Support176",
+    "body": "True, but it’s a rather useless history, because none of the commits reflect a version that was ever in production. The parent of each commit is older than the commit the you merged into.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2tw75/",
+    "parent_id": "t1_nh2qs40",
+    "created_utc": 1759267085.0
+  },
+  {
+    "id": "nh4z28w",
+    "author": "lmoelleb",
+    "body": "Why not just merge to main and then use first parent only when viewing the history or using bisect?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4z28w/",
+    "parent_id": "t1_nh10fa4",
+    "created_utc": 1759295905.0
+  },
+  {
+    "id": "nh11fqq",
+    "author": "kagato87",
+    "body": "Strong agree.  I ONLY use rebase when I branch from the wrong branch (main instead of the feature branch of the version branch I'm working in).\n\nAt the end of the day it all gets merged down, and so what if I had 30 commits?  It makes PR notes a snap when I can glance at my commit comments to explain what's in the PR.\n\n(I'm normally pretty heavy with the commits, and if I decide to engage an llm I'm constantly committing because it makes it easy to see what it's actually done, and yes I've caught it changing things I'd told it to leave alone.)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh11fqq/",
+    "parent_id": "t1_nh10fa4",
+    "created_utc": 1759248503.0
+  },
+  {
+    "id": "nh1ef6s",
+    "author": "Ok-Ostrich44",
+    "body": "Yes to all this.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1ef6s/",
+    "parent_id": "t1_nh10fa4",
+    "created_utc": 1759252277.0
+  },
+  {
+    "id": "nh1eque",
+    "author": "AttentionSuspension",
+    "body": "With branch protection on main or dev you can’t push force, so I don’t see the problem. My point is to use Rebase plus Fast Forward Merge",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1eque/",
+    "parent_id": "t1_nh10fa4",
+    "created_utc": 1759252368.0
+  },
+  {
+    "id": "nh1fbfm",
+    "author": "m39583",
+    "body": "It was about how to update master changes onto feature branches",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1fbfm/",
+    "parent_id": "t1_nh1eque",
+    "created_utc": 1759252528.0
+  },
+  {
+    "id": "nh1j1m5",
+    "author": "AttentionSuspension",
+    "body": "I see. Well, it seems like you really hate rebase 😅",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1j1m5/",
+    "parent_id": "t1_nh1fbfm",
+    "created_utc": 1759253576.0
+  },
+  {
+    "id": "nh1fgpq",
+    "author": "JauriXD",
+    "body": "Yes and no. Rebasing a short feature branch is better than merging and feature branches should be kept short and on point.\n\nBut it's important to know what your doing and use what's appropriate. Just updating to the latest state of master is the typical case and rebasing is great for that. If you instead want to combine two features onto a single branch, merge is what you want, you want to keep that information in the history. And there are many more cases where merging is the more appropriate option.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1fgpq/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759252569.0
+  },
+  {
+    "id": "nh1jdjo",
+    "author": "AttentionSuspension",
+    "body": "This!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1jdjo/",
+    "parent_id": "t1_nh1fgpq",
+    "created_utc": 1759253670.0
+  },
+  {
+    "id": "nh1gt6j",
+    "author": "Drugbird",
+    "body": "It's a tradeoff: merge based flows preserve history, while rebase flows preserve a cleaner, linear history. \n\nOne thing to take into account is that you will most likely need to squash your branches when you rebase into main (or whatever branch you're \"merging\" to) to prevent intermediate commits from being incorrect. \n\nI didn't see the word squash in your post, and if you're not squashing you're probably better off with a merge based strategy. \n\nUltimately, it all comes down to what you value in the git history: completeness or cleanliness. \n\nAnother way to think about it: do you want to preserve the commits inside feature branches (merge strategy) or do you want to remove them to reduce noise (rebase + squash). \n\nTypically it depends on team size. If you've got a large team working in the same git archive (i.e. a monorepo) you'll almost always want rebase+squash because that's the only way to ever find anything again. \n\nIf you're in a small team (less than +-10 people), merge becomes a very viable strategy to get a more complete git history.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1gt6j/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759252945.0
+  },
+  {
+    "id": "nh1k6na",
+    "author": "AttentionSuspension",
+    "body": "I agree, we do squash on feature branches and then ff merge, so each commit to master is a closed pr, that passed ci and tests",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1k6na/",
+    "parent_id": "t1_nh1gt6j",
+    "created_utc": 1759253897.0
+  },
+  {
+    "id": "nh1sa2i",
+    "author": "sshetty03",
+    "body": "I lean the same way. Rebase keeps my branches clean and my CI runs actually meaningful, because I’m always testing against the latest dev. I only use merge when I want to preserve context on a shared branch or when I need that one commit to revert the whole PR. Everything else stays rebased and squashed before it goes up for review.\n\nThe main thing I tell juniors is simple: rebase your own work, merge when you’re working with everyone’s work. Saves you from history disasters.\n\nI’ve written about some of this in a git checkout vs rebase article if you want a deeper dive: [https://medium.com/stackademic/git-rebase-explained-like-youre-new-to-git-263c19fa86ec?sk=2f9110eff1239c5053f2f8ae3c5fe21e](https://medium.com/stackademic/git-rebase-explained-like-youre-new-to-git-263c19fa86ec?sk=2f9110eff1239c5053f2f8ae3c5fe21e)",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1sa2i/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759256197.0
+  },
+  {
+    "id": "nh1uujl",
+    "author": "AttentionSuspension",
+    "body": "Thanks for the link! Will read it 👌",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1uujl/",
+    "parent_id": "t1_nh1sa2i",
+    "created_utc": 1759256948.0
+  },
+  {
+    "id": "nh20cv2",
+    "author": "IamYourGrace",
+    "body": "100% agree. I like my main branch free from merge commits. I switched to only using rebate about 6 years ago and never looked back",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh20cv2/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759258555.0
+  },
+  {
+    "id": "nh20kqr",
+    "author": "AttentionSuspension",
+    "body": " 💯!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh20kqr/",
+    "parent_id": "t1_nh20cv2",
+    "created_utc": 1759258618.0
+  },
+  {
+    "id": "nh29pjb",
+    "author": "RaniAgus",
+    "body": "Agree. And squash is goated",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh29pjb/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759261285.0
+  },
+  {
+    "id": "nh2a46g",
+    "author": "AttentionSuspension",
+    "body": "Absolutely 💯",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2a46g/",
+    "parent_id": "t1_nh29pjb",
+    "created_utc": 1759261403.0
+  },
+  {
+    "id": "nh2dqzl",
+    "author": "wildjokers",
+    "body": "Do we need yet another discussion about this?\n\n> 3. Rebasing allows your feature branch to incorporate the recent changes from dev thus making CI really work! When rebased onto dev, you can test both newest changes from dev AND your not yet merged feature changes together. You always run tests and CI on your feature branch WITH the latests dev changes.\n\nFWIW, this also occurs for merging.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2dqzl/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759262454.0
+  },
+  {
+    "id": "nh2jhn8",
+    "author": "AttentionSuspension",
+    "body": "You mean merging main into feature branch? Yep, this also works, I agree. But then when you merge it back, the history looks somewhat complicated",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2jhn8/",
+    "parent_id": "t1_nh2dqzl",
+    "created_utc": 1759264106.0
+  },
+  {
+    "id": "nh4zv40",
+    "author": "indeox",
+    "body": "Squash when merging back into master, and you get just one commit.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4zv40/",
+    "parent_id": "t1_nh2jhn8",
+    "created_utc": 1759296329.0
+  },
+  {
+    "id": "nh2i2np",
+    "author": "Kraigius",
+    "body": ">Rebase is better then Merge. Agree?\n\nDepends on then context.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2i2np/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759263704.0
+  },
+  {
+    "id": "nh2k3m1",
+    "author": "AttentionSuspension",
+    "body": "Totally 👍 I just wanted to make the point, that rebasing is useful and somewhat misunderstood (and therefore mystified)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2k3m1/",
+    "parent_id": "t1_nh2i2np",
+    "created_utc": 1759264275.0
+  },
+  {
+    "id": "nh35uis",
+    "author": "donkthemagicllama",
+    "body": "If your branch is quite old, rebasing it can be fraught with conflicts. I have an alias I call hail-mary-rebase that accepts all the incoming changes. Usually it’s exactly what I want, sometimes it makes a horrible mess of things.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh35uis/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759270891.0
+  },
+  {
+    "id": "nh54soh",
+    "author": "AttentionSuspension",
+    "body": "What is the command for the alias? 😇",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh54soh/",
+    "parent_id": "t1_nh35uis",
+    "created_utc": 1759299031.0
+  },
+  {
+    "id": "nh3e57a",
+    "author": "human_289",
+    "body": "In My very first org they strictly suggest to use rebase thus i never use merge till date don't know how that thing work 🙂",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3e57a/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759273749.0
+  },
+  {
+    "id": "nh54ue6",
+    "author": "AttentionSuspension",
+    "body": "Unicorn 🦄!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh54ue6/",
+    "parent_id": "t1_nh3e57a",
+    "created_utc": 1759299058.0
+  },
+  {
+    "id": "nh3x6px",
+    "author": "ItsDotin",
+    "body": "When I haven't pushed anything to remote, I do rebase.  \nWhen I pushed any commits to remote, I do merge. Little unclear history but I believe it's safer.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3x6px/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759280438.0
+  },
+  {
+    "id": "nh55cr5",
+    "author": "AttentionSuspension",
+    "body": "Definitely 💯",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh55cr5/",
+    "parent_id": "t1_nh3x6px",
+    "created_utc": 1759299350.0
+  },
+  {
+    "id": "nh43qim",
+    "author": "jameshearttech",
+    "body": "We practice tbd and never merge. We only have master branch and feature branches. Our commit history is linear. It's very easy to see who did what and when. We use Git tags for releases.\n\nFwiw, you can rebase a branch with multiple contributors. It's not ideal, but it can be done with good communication. I wouldn't recommend it for a branch with many contributors, but for a feature branch with 2 contributors, it's fine.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh43qim/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759282752.0
+  },
+  {
+    "id": "nh55r0g",
+    "author": "AttentionSuspension",
+    "body": "Never merge? Or You mean never have merge commit? Can you tell me please, how your tbd approach works? Especially when you have two devs working on two different feature branches?",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh55r0g/",
+    "parent_id": "t1_nh43qim",
+    "created_utc": 1759299577.0
+  },
+  {
+    "id": "nh59y4z",
+    "author": "jameshearttech",
+    "body": "Yeah, never merge (commit). Good catch!\n\nOur main repository is a monorepo. The master branch is protected. No one can write to master except CI. The master branch cannot be deleted or rewritten. Everyone can merge pull requests. We branch from master to create our feature branches. We create pull requests, do code reviews, and rebase fast-forward (merge strategy) so our Git history is linear. It makes it very easy to see who did what when. We require at least one approval and that feature branches are in sync with master to merge.\n\nWe use Argo Events with Argo Workflows for CI. Argo Events manages repository webhooks. The Git event pull request merged triggers Argo Events to create a workflow for that repository (we have more than one). We run a workflow of workflows pattern. The initial workflow creates an array of all changed projects in the monorepo then creates child workflows to iterate over them.\n\nThe project workflows do things like:\n\n- Check formatting\n- Check linting\n- Build artifacts\n- Run tests\n- Push artifacts\n- Update versions (e.g., package.json, pom.xml, Chart.yaml)\n- Update CHANGELOG.md\n- Create release Git tag\n- Deploy to lowest level environment\n\nWe used to have manual gates to promote through the higher-level environments, but those deploys were less frequent. We deploy to the lowest level environment multiple times per day. Now we just deploy to the lowest level environment automatically. We created a workflow template to deploy to any environment instead, which is essentially the same thing, but more flexible.\n\nWe have multiple people working on multiple projects on separate feature branches every day. We all follow the same process, and it works really well.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh59y4z/",
+    "parent_id": "t1_nh55r0g",
+    "created_utc": 1759302001.0
+  },
+  {
+    "id": "nh5cut9",
+    "author": "AttentionSuspension",
+    "body": "Great answer, thank you 🙏\nI am on the same side as you - rebase fast forward merge without merge commit 💪",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh5cut9/",
+    "parent_id": "t1_nh59y4z",
+    "created_utc": 1759303777.0
+  },
+  {
+    "id": "nh43wp5",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh43wp5/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759282815.0
+  },
+  {
+    "id": "nh55tkn",
+    "author": "AttentionSuspension",
+    "body": "Absolutely love this 🥰",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh55tkn/",
+    "parent_id": "t1_nh43wp5",
+    "created_utc": 1759299617.0
+  },
+  {
+    "id": "nh4jwzm",
+    "author": "kilkil",
+    "body": "if there is a branch other people may be pulling from, you should not rewrite that branch's history. In practice this means that, once you push a branch to remote, it should be merge not rebase. If you haven't pushed to remote yet, rebase is fine.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4jwzm/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759288891.0
+  },
+  {
+    "id": "nh4mbzd",
+    "author": "glasswings363",
+    "body": "Trunk-ish policy: \"all changes should be based on the latest accepted revision.\" When you review code in a trunk-ish project you also see code that was recently approved.  You're responsible for not approving crap because it becomes a permanent part of history.\n\nPatch-ish policy: \"changes have prerequisites; choose your prerequisites tastefully.\" When you review code in a patch-ish project you see your proposed change in the context of other proposed changes, in a side branch that isn't necessarily permanent.\n\n**The trunk-ish mental model doesn't have a clear distinction between rebase and merge.**  Rebasing has better correctness and more closely matches traditional tools, while merging has better performance but is sometimes incorrect.  Both operations can express \"let's get this in trunk,\" while \"rework that, junior,\" calls for rebasing.\n\nIn a patch-ish project there is a clear semantic difference:\n\n* applying patches, cherry-picking, or rebase reflects your intent to apply an idea to different base circumstances\n* merge reflects your intent to integrate changes (exercising minimal technical judgement; merges should not be interesting) - the result is a less well-considered amalgamation that will tested and discussed\n\nGit itself is developed using a patch-ish policy and the \"gitworkflows\" man page explains how.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4mbzd/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759289918.0
+  },
+  {
+    "id": "nh56fd0",
+    "author": "AttentionSuspension",
+    "body": "Good comment! I’ll check it 👌",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh56fd0/",
+    "parent_id": "t1_nh4mbzd",
+    "created_utc": 1759299966.0
+  },
+  {
+    "id": "nh4rgx8",
+    "author": "spenpal_dev",
+    "body": "Use rebase for feature branches.\n\nUse merge, fast forward for main/development branches, when doing PRs.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4rgx8/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759292148.0
+  },
+  {
+    "id": "nh56iql",
+    "author": "AttentionSuspension",
+    "body": "True 💪 well said",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh56iql/",
+    "parent_id": "t1_nh4rgx8",
+    "created_utc": 1759300022.0
+  },
+  {
+    "id": "nh4x19e",
+    "author": "the_0rly_factor",
+    "body": "15 years or so using git in a professional environment and I almost never rebase.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4x19e/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759294854.0
+  },
+  {
+    "id": "nh56nmp",
+    "author": "AttentionSuspension",
+    "body": "I see. But what git workflow do you use?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh56nmp/",
+    "parent_id": "t1_nh4x19e",
+    "created_utc": 1759300100.0
+  },
+  {
+    "id": "nh4xizv",
+    "author": "lmoelleb",
+    "body": "No. I prefer my history showing what happened. Would never fast forward merge anything into main. Default merge commit unless I have a reason to get rid of local commits, then squash.\n\n\nWhen I look at history I mostly just want to see what merged to main - so I use first parent only. In the rare occasions I need to look at something in detail it means something tricky is happening, and as merge conflicts can often be the reason I want to see them, not have them hidden in a random commit from the rebase ",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4xizv/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759295110.0
+  },
+  {
+    "id": "nh56tpz",
+    "author": "AttentionSuspension",
+    "body": "Ok, so you enforce merge commits even if ff is possible?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh56tpz/",
+    "parent_id": "t1_nh4xizv",
+    "created_utc": 1759300197.0
+  },
+  {
+    "id": "nh5w5wg",
+    "author": "lmoelleb",
+    "body": "Merge or squash after code review If it happens to be a single commit I am ok with FF, but not sure I can easily tell azure DevOps that, so it is just set to allow merge/squash.\n\n\nIt basically gives the same benefits as those who insist on squash as long as you know about first parent only.\n\n\n\nWe merge often, typically daily or more times a day, so it's typically only a few commits anyways.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh5w5wg/",
+    "parent_id": "t1_nh56tpz",
+    "created_utc": 1759315395.0
+  },
+  {
+    "id": "nh503kk",
+    "author": "the6thReplicant",
+    "body": "Unless you have to fix conflicts for every single commit on the master. \n\nIt's great until then. From then on you just merge.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh503kk/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759296455.0
+  },
+  {
+    "id": "nh56x4w",
+    "author": "AttentionSuspension",
+    "body": "Ok, noted!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh56x4w/",
+    "parent_id": "t1_nh503kk",
+    "created_utc": 1759300253.0
+  },
+  {
+    "id": "nh551dq",
+    "author": "Infamous_Ticket9084",
+    "body": "The problem is:\n- sometimes rebasing a few commits forces you to solve the same merge conflict several times\n- after rebasing, all but last commit are artificial states, no one even checked if they compile correctly\n\n\nBest way is to just always squash merge and then it doesn't matter want you do in the meantime",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh551dq/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759299171.0
+  },
+  {
+    "id": "nh572pr",
+    "author": "AttentionSuspension",
+    "body": "Got it. To me squash is a subset of rebase command, that is why I link rebase so much",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh572pr/",
+    "parent_id": "t1_nh551dq",
+    "created_utc": 1759300345.0
+  },
+  {
+    "id": "nh57hl0",
+    "author": "ScaredInvestment1571",
+    "body": "Squash and rebase on main branch always - linear history > everything\n\nOne commit on main branch per deployable change, that's the whole point of CI\n\nOn your private feature branch, do whatever you want (I usually use merges, but if I get extra messy I may `git rebase -i` once in a while)",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh57hl0/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759300583.0
+  },
+  {
+    "id": "nh58fqe",
+    "author": "AttentionSuspension",
+    "body": "Yep. Do you merge main regularly into feature branch then? If not, how to make sure the merged commit works?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh58fqe/",
+    "parent_id": "t1_nh57hl0",
+    "created_utc": 1759301129.0
+  },
+  {
+    "id": "nh5e371",
+    "author": "ScaredInvestment1571",
+    "body": "> Do you merge main regularly into feature branch then? If not, how to make sure the merged commit works?\n\nFeature branch must be on the latest `main` branch commit - many Git remote platforms (at the very least least GitHub, Gitlab, Bitbucket) include that as a merge-blocking check.\n\nIf you're required to be on the latest `main` before merging, and have CI in place, you're good to go.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh5e371/",
+    "parent_id": "t1_nh58fqe",
+    "created_utc": 1759304550.0
+  },
+  {
+    "id": "nh5eio0",
+    "author": "AttentionSuspension",
+    "body": "🙌\nSame, this is only possible with rebase onto main, that is why it is why I say Rebase is the king",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh5eio0/",
+    "parent_id": "t1_nh5e371",
+    "created_utc": 1759304815.0
+  },
+  {
+    "id": "nh5nssj",
+    "author": "Inevitable_Exam_2177",
+    "body": "I may be too late to the conversation to ask a question, but unless things have changed I though that the amazingly useful tool git bisect only worked for rebase-based repositories?\n\nI can see the logic of rebasing in local branches and merging in public ones, but I like the neat and tidiness of rebase. I am pretty small time though, so I’m happy to accept that larger and more established teams are better off with merge",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh5nssj/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759310644.0
+  },
+  {
+    "id": "nh5tpqk",
+    "author": "czenst",
+    "body": "I really don't care what you do with branch you are working on. I don't care about your history. If you want merge shared branch into it or rebase on top that's up to you.\n\nDon't touch shared branches, don't touch shared history, you only make PRs to shared history, just make your PR not having conflicts and being reasonable for review.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh5tpqk/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759314097.0
+  },
+  {
+    "id": "nh6jlwb",
+    "author": "Safe_Trouble_2140",
+    "body": "Squash when merging to main branch and skip all this extra work (unless you really care about the individual commit messages).",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh6jlwb/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759324779.0
+  },
+  {
+    "id": "nh75vn7",
+    "author": "AttentionSuspension",
+    "body": "Agree. I was concerned about incorporating of new changes from main to feature branch, this is where rebase shines",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh75vn7/",
+    "parent_id": "t1_nh6jlwb",
+    "created_utc": 1759331600.0
+  },
+  {
+    "id": "nh7habf",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh7habf/",
+    "parent_id": "t1_nh75vn7",
+    "created_utc": 1759334924.0
+  },
+  {
+    "id": "nh7k8jz",
+    "author": "AttentionSuspension",
+    "body": "Agree. \n\nMy point is that squash is actually a sub-operation of rebase. So people use it and like it however do not understand that they are using rebase. Rebase is the king",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh7k8jz/",
+    "parent_id": "t1_nh7habf",
+    "created_utc": 1759335800.0
+  },
+  {
+    "id": "nh7ljay",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh7ljay/",
+    "parent_id": "t1_nh7k8jz",
+    "created_utc": 1759336180.0
+  },
+  {
+    "id": "nh7n6xx",
+    "author": "AttentionSuspension",
+    "body": "Both, I do git diff main and I look into logs to understand the intention git log main..feat1",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh7n6xx/",
+    "parent_id": "t1_nh7ljay",
+    "created_utc": 1759336671.0
+  },
+  {
+    "id": "nh6op5m",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh6op5m/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759326468.0
+  },
+  {
+    "id": "nh766bp",
+    "author": "AttentionSuspension",
+    "body": "Good to know this! And where are you on the curve?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh766bp/",
+    "parent_id": "t1_nh6op5m",
+    "created_utc": 1759331687.0
+  },
+  {
+    "id": "nh72ktb",
+    "author": "remy_porter",
+    "body": "After reading all the conversations here, you're all wrong. I'm going to just cherry-pick into main from now on.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh72ktb/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759330638.0
+  },
+  {
+    "id": "nh76jp1",
+    "author": "AttentionSuspension",
+    "body": "Sensei 🥋",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh76jp1/",
+    "parent_id": "t1_nh72ktb",
+    "created_utc": 1759331795.0
+  },
+  {
+    "id": "nh7wtc1",
+    "author": "Engineer-Coder",
+    "body": "In my experience, people don’t know how to use rebase, it causes so much trouble for in-review MRs and broken/lost work.\nI default to evangelizing merge due to its safety and how straightforward it is.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh7wtc1/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759339439.0
+  },
+  {
+    "id": "nh7yhfi",
+    "author": "AttentionSuspension",
+    "body": "Agree!\n\nSkill issues for sure, but I am not going back to plain vanilla merge. Part of the problem is a big amount of clients that abstract and hide git raw power. People use rebase without even realizing it (like squash)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh7yhfi/",
+    "parent_id": "t1_nh7wtc1",
+    "created_utc": 1759339911.0
+  },
+  {
+    "id": "nh8318p",
+    "author": "macbig273",
+    "body": "merge main/master into your feature or rebase your f-b on main ;  merge squash your feature branch into main. \n\nOne \"revert\" if it's going wrong.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh8318p/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759341206.0
+  },
+  {
+    "id": "nh8ccbm",
+    "author": "Prestigious-Fox-8782",
+    "body": "We rebase main branches into feature branches. \nSubsequently, we merge feature branches onto the main branches.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh8ccbm/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759343910.0
+  },
+  {
+    "id": "nh8ilec",
+    "author": "AttentionSuspension",
+    "body": "We do the same 🙌",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh8ilec/",
+    "parent_id": "t1_nh8ccbm",
+    "created_utc": 1759345708.0
+  },
+  {
+    "id": "nh9wu5k",
+    "author": "jcbinet1",
+    "body": "I prefer rebase personnally, using merge, there are some upsides, easier, fire and forget, like when you have conflicts, it is easier to deal with, you have the complete conflicts against your branch that you can deal with at once.\n\nThough I prefer to see the conflicts of my branch against the target (like main/master).\n\nYou can also squash your commits before rebasing, which removes the need to pass each commits conflicts individually (that said it depends if you squash or not when merging to target branch)\n\nFor my part, each feature/individual tasks branches are squashed, but for example, release branches, which includes multiple feature/individual branches, are not squashed when sending to master, so we can properly generate release notes from commit history (using conventional commits).\n\nRewriting commits/history is not bad at the core, but I would not be recommend allowing rewriting history of a main/master branch.\n\nRebasing for my part is better because you have to adjust your commits onto what was already approved and merged, and it makes more sense during the review..\n\nAlso rebasing is not really required unless you have conflicts with the target branch. (Best if you have your CI setup to run your against entire target branch, even if your branch history is behind, possible on Gitlab, not sure about github)\n\nBut thats just my vibe on it, different enterprises have different standards, I think it is best to have a standard and each team members follow it.\n\nHappy coding!",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh9wu5k/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759361047.0
+  },
+  {
+    "id": "nhbx4re",
+    "author": "AttentionSuspension",
+    "body": "Nice thoughts, agree. My point is that rebasing is a much cleaner way to incorporate the changes from main into the feature branch and enforce ff only merge with squash. \n\n\n\nAnother point is that so many people say DO NOT USE REBASE IT IS DANGEROUS, in reality it turns out we all use rebase in one form or another (like squash is a subset of rebase) and still screaming DO NOT REBASE (●'◡'●)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhbx4re/",
+    "parent_id": "t1_nh9wu5k",
+    "created_utc": 1759393089.0
+  },
+  {
+    "id": "nhbdhbb",
+    "author": "Old-Confection-5129",
+    "body": "agreed",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhbdhbb/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759381748.0
+  },
+  {
+    "id": "nhbyhqy",
+    "author": "AttentionSuspension",
+    "body": "👌🤗",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhbyhqy/",
+    "parent_id": "t1_nhbdhbb",
+    "created_utc": 1759393952.0
+  },
+  {
+    "id": "nhbedyi",
+    "author": "scally501",
+    "body": "Managing tags, versions, releases, and builds would be a nightmare with rebases happening all the time. Even a simple github triggered squash can mess with versioning and other automations. I don’t care much for the commit history itself, I care way more about reproducing bugs and such reliably with stable snapshots of the code. \n\nI need every single commit to represent exactly what the committer was working with when they made it. Don’t really see what the point of having a trail of commits is if you can’t even reproduce the behavior, or do stuff like fork a branches commits where you thing everything went wrong. Seems like breaking the provenance chain for an aesthetically more satisfying log is kinda silly.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhbedyi/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759382224.0
+  },
+  {
+    "id": "nhbfo59",
+    "author": "boatsydney",
+    "body": "Rebase takes more effort. Why not just merge on your branch, and then squash-and-merge to main?",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhbfo59/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759382913.0
+  },
+  {
+    "id": "nhbzo5o",
+    "author": "AttentionSuspension",
+    "body": "Agree, this workflow will also work, I will think about this!\n\nMy point is that squash is a subset of rebase and therefore we use it without even noticing it.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhbzo5o/",
+    "parent_id": "t1_nhbfo59",
+    "created_utc": 1759394689.0
+  },
+  {
+    "id": "nhbifnv",
+    "author": "nraw",
+    "body": "Rebase your branch. Merge into main. ",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhbifnv/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759384392.0
+  },
+  {
+    "id": "nhdejat",
+    "author": "dannuic",
+    "body": "Once you go to a PR/MR, you need to merge and not rebase (with a force push) in order to not lose comments on the actual review. It's really frustrating when you're in the middle of a discussion on the review and the author force pushes away the entire chain.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhdejat/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759415928.0
+  },
+  {
+    "id": "nhdgj0b",
+    "author": "AttentionSuspension",
+    "body": "Valid point, I will check it with Bitbucket, if the comments stay after rebase",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhdgj0b/",
+    "parent_id": "t1_nhdejat",
+    "created_utc": 1759416509.0
+  },
+  {
+    "id": "nhdhw0h",
+    "author": "AttentionSuspension",
+    "body": "I checked it and the comments stay in Bitbucket after rebase onto main. I believe comments are tied to files and not to commits. What system do you run? GitHub or GitLab?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhdhw0h/",
+    "parent_id": "t1_nhdejat",
+    "created_utc": 1759416899.0
+  },
+  {
+    "id": "nhds05c",
+    "author": "dannuic",
+    "body": "I don't work with bitbucket, but this happens on both GitHub and gitlab -- comments are tied to files _and_ commits in both of those systems. It can happen on file-based comments if the line numbers shift in the rebase, or some other major file change happens (like it gets renamed). The tracking for that file or line is lost, and so too are the comments. You can get around it by tagging the original commit before the rebase but that kind of defeats the purpose of rebasing.\n\nAs far as merge vs rebase, I absolutely prefer merging to keep track of the entire history during a PR, and then squash merge the feature into main. It's a lot easier to track individual commits for PRs, and then whole features for main in my head. Rebase to me just mostly makes the history tree branchless (since you always move the base of the branch to the head of main), which kind of defeats the purpose of having a history tree to me. You get the equivalent of a linear changelog when code evolution is far from linear.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhds05c/",
+    "parent_id": "t1_nhdhw0h",
+    "created_utc": 1759419835.0
+  },
+  {
+    "id": "nhdt5y0",
+    "author": "MisterSincere",
+    "body": "I was soooo surprised and disgusted when I learned you need to do a force push after a rebase. I agree rebase in theory is nice and smooth and I use it a lot in updating the code base of merge requests to newer versions of the main branch. Since there is force-with-lease it feels a lil bit safer.\nBut in general I think merging fits way better into the structure of git.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhdt5y0/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759420164.0
+  },
+  {
+    "id": "nhdtftq",
+    "author": "AttentionSuspension",
+    "body": "Agree, force with lease is the only way to go!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhdtftq/",
+    "parent_id": "t1_nhdt5y0",
+    "created_utc": 1759420243.0
+  },
+  {
+    "id": "nhhk303",
+    "author": "SuperAdminIsTraitor",
+    "body": "I disagree.\n\nYou do not want to mess with the git history of your project as a disciplined developer. A git history gives you comprehensive insights of what part of your project was changed when and how, git rebase messes with that data, until and unless you (and your team members) are completely comfortable and on the same page with it.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhhk303/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759463372.0
+  },
+  {
+    "id": "nhi7ygs",
+    "author": "AttentionSuspension",
+    "body": "We manipulate the history anyway if we do git merge squash, so real history has less importance than the intentional history. What I mean: people experiment, people do mistakes, then the change the history to show the intention of the commits, and after merging into the main branch it becomes immutable",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhi7ygs/",
+    "parent_id": "t1_nhhk303",
+    "created_utc": 1759475228.0
+  },
+  {
+    "id": "nhkdgmy",
+    "author": "SuperAdminIsTraitor",
+    "body": "As I said — until you (and your team) are on the same page with it.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhkdgmy/",
+    "parent_id": "t1_nhi7ygs",
+    "created_utc": 1759506865.0
+  },
+  {
+    "id": "nhimz0w",
+    "author": "Medical_Amount3007",
+    "body": "And then we have swaths of teams rebasing for their life. Never a merge in sight and their stories tells of holes and weird stuff because merge was not included. It was rebased!",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhimz0w/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759484205.0
+  },
+  {
+    "id": "nhlvehe",
+    "author": "Intelligent-Chain423",
+    "body": "Merges are simpler, to add to what others have said. If you are far behind in commits you can do a merge to solve the conflicts once. However as long as you do a squash commit it doesn't make the history look weird. \n\nMerge is two branches joining to one.\nRebase is taking your commit and replaying it against every commit till the end. \n\nSo merge is simpler for merge conflicts when you are behind several commits.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhlvehe/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759522826.0
+  },
+  {
+    "id": "nhrf3wc",
+    "author": "AttentionSuspension",
+    "body": "Agree! However the git merge --squash is not actually a merge, it is a rebase (with squash). You can check it by looking at the history, there is no merge commit there.\n\nMy point is Rebase is the king!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhrf3wc/",
+    "parent_id": "t1_nhlvehe",
+    "created_utc": 1759602893.0
+  },
+  {
+    "id": "nhofu5o",
+    "author": "someouterboy",
+    "body": "They are 2 different things with their own usecases, wtf are you talking about?\n\nI dont say that i prefer drinking over eating just because I drink more often than i eat.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhofu5o/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759560169.0
+  },
+  {
+    "id": "nhrgj6g",
+    "author": "AttentionSuspension",
+    "body": "I am provoking a discussion, however if you do a git merge --squash, you don't really do merge, you do rebase. So most people even don't see it :)\n\nMy point is to bring the attention to 2 facts: 1. linear history is better, 2. we should use rebase more often and know how it works (and we actually do it without knowing it like git merge --squash).",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhrgj6g/",
+    "parent_id": "t1_nhofu5o",
+    "created_utc": 1759603312.0
+  },
+  {
+    "id": "nhomo6i",
+    "author": "Kjoep",
+    "body": "In my team we never merge. We're strictly rebase only. \n\nI've never worked in a team that uses merging (except in the old subversion sense of the word) but from the outside it looks like a terrible idea.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhomo6i/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759564115.0
+  },
+  {
+    "id": "nhrhfpy",
+    "author": "AttentionSuspension",
+    "body": "Nice workflow, welcome to the Rebase Team!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhrhfpy/",
+    "parent_id": "t1_nhomo6i",
+    "created_utc": 1759603583.0
+  },
+  {
+    "id": "nhoyz2w",
+    "author": "Tango1777",
+    "body": "It's not better or worse, but merge is the standard way that covers 99,9% needs. Rebase always has those fanatics behind it trying to turn the world 180 degrees and that's just not gonna happen. Rebase has its use cases, it's there for a reason, after all, but for commercial development and typical gitflow/trunk merge is all you ever need and if you think you often need something more, you are doing git wrong and patching it up with rebase instead of solving the root of the problem. You already mentioned doing git wrong like diverging a feature branch from the origin one, which never happens normally. Obviously fast forward mode is your personal choice to suit your narrative. CI works just fine with merging, including everything you mentioned about testing. You just throw empty words without any justification why wouldn't it work with merge. About deleting commits I am not even gonna comment on that one...",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhoyz2w/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759571613.0
+  },
+  {
+    "id": "nhrj07g",
+    "author": "AttentionSuspension",
+    "body": "Thank you for the answer. Yes, I am provoking a discussion without giving much of a context, agree.\n\nI want to bring the awareness about the fact, that rebase is our friend and is the only way to achieve a linear history (even git merge --squash is actually a rebase command, not real merge). And linear history gives us more control over the situation (like git revert).",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhrj07g/",
+    "parent_id": "t1_nhoyz2w",
+    "created_utc": 1759604060.0
+  },
+  {
+    "id": "nhr5f58",
+    "author": "grosser_zampano",
+    "body": "as usual: it depends. both approaches are valid tools in the toolbox. like in most cases. clickbait titles, like „i discovered rebase and everyone who still uses merge is doing it wrong“ will not change that. \n\nof your 4 points only 1. makes sense to me. 3 is also true for merge as is with 4. \n\nrebase and its implications are a harder to understand for beginners and non dev contributors. \n\ni have worked in projects where devs obsessed over clean git history and rebase was mandatory. i have worked in projects where rules were way more loose and people used mostly merge. guess what? all shipped running software in the end. \n\npersonally i use rebase for updating my local with remote branches. everything else i use what is most convenient. \n\never had to resolve the same merge conflicts serveral times all over again with rebase? in those cases merge is often the „peace of mind“ solution. ",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhr5f58/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759600073.0
+  },
+  {
+    "id": "nhx3dnb",
+    "author": "AttentionSuspension",
+    "body": "Good point, thank you.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhx3dnb/",
+    "parent_id": "t1_nhr5f58",
+    "created_utc": 1759683089.0
+  },
+  {
+    "id": "nhtabso",
+    "author": "Specialist_Guava_416",
+    "body": "agree",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhtabso/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759624856.0
+  },
+  {
+    "id": "nimpwqk",
+    "author": "Few_Personality1741",
+    "body": "git fetch, git merge|rebase > git pull",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nimpwqk/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1760031183.0
+  },
+  {
+    "id": "nh16n9i",
+    "author": "efalk",
+    "body": "There are dangers to rebase. My notes on the subject: https://www.efalk.org/Docs/Git/merging.html#Rebase-considered-harmful.\n\nExecutive summary: rebasing deletes the original commits and replaces them with new commits. The originals are lost at this point, and if it turns out you broke something, you're screwed.\n\nThat said, there are very easy ways to mitigate the problem, which I mention in my notes. I personally use rebase all the time when it can be done cleanly.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh16n9i/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759250037.0
+  },
+  {
+    "id": "nh1su3j",
+    "author": "Conscious_Support176",
+    "body": "This just isn’t true. It’s also poor advice in terms of “if it can be done cleanly”. \nWhat rebase gives you is the opportunity to resolve conflicts between your new changes and changes that were merged since you created your branch *at the point where you made the conflicting change*.",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1su3j/",
+    "parent_id": "t1_nh16n9i",
+    "created_utc": 1759256359.0
+  },
+  {
+    "id": "nh1lke0",
+    "author": "malcolm-maya",
+    "body": "If you broke something during a rebase then you can recover the commits with the reflog",
+    "score": 4,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1lke0/",
+    "parent_id": "t1_nh16n9i",
+    "created_utc": 1759254286.0
+  },
+  {
+    "id": "nh2v65w",
+    "author": "efalk",
+    "body": "I know; I've had to use reflog a time or three in my life (not for rebase mistakes, but other things.) But deliberately creating a temporary branch is easier and less guesswork; you just have to remember to do it.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2v65w/",
+    "parent_id": "t1_nh1lke0",
+    "created_utc": 1759267473.0
+  },
+  {
+    "id": "nh2q1rg",
+    "author": "universaluniqueid",
+    "body": "Fixing conflicts multiple times for every commit is ridiculous, and the need for a tidier git history has never been needed in 20 years developing",
+    "score": 4,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2q1rg/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759265959.0
+  },
+  {
+    "id": "nh1gdap",
+    "author": "mfontani",
+    "body": "I use(d to use) only:\n\n- rebase on topic branches to keep them updated with the upstream, pushing as required\n- all commits _must_ pass the test suite\n- git merge --no-ff when merging on the upstream, to keep the history with a reasonable checkpoint as to which changes pertain to what\n\nThis has served me really well when the time comes to use `git bisect`.\n\nUnfortunately most teams seem to prefer merging, and introduce _changes on the merge commit_, too... which makes it a lot harder to bisect.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1gdap/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759252821.0
+  },
+  {
+    "id": "nh1gvnt",
+    "author": "AttentionSuspension",
+    "body": "Nice workflow! We do almost the same, except we squash before merging and then merge ff, so every commit is a closed PR",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1gvnt/",
+    "parent_id": "t1_nh1gdap",
+    "created_utc": 1759252964.0
+  },
+  {
+    "id": "nh534zk",
+    "author": "mfontani",
+    "body": "Squashing before merge has never felt right to me, as it hides potentially useful implementation details, and (specifically in $job[-2]) it made some types of deployments impossible (needed to i.e. separate CSS changes from template changes from other types, to ensure they went out at the right time/automatically vs could be deployed by a fuller deployment of code/templates). \n\nWhen a branch is pretty short and only contains a couple features, that might work.\n\nWhere it doesn't work for me is when a branch i.e. starts with one or more \"refactor\" commits, followed by the actual work.\n\nAs (see previous point!) all tests pass \"at\" every commit (thanks `git rebase --exec`!), I can safely ignore those when reviewing or looking at problems with the actual commits which _implement a new feature_.\n\nSquashing makes that way harder.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh534zk/",
+    "parent_id": "t1_nh1gvnt",
+    "created_utc": 1759298105.0
+  },
+  {
+    "id": "nh17y0n",
+    "author": "TrickTimely3242",
+    "body": "Did you try Gerrit which proposes a flow which works with rebases?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh17y0n/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759250421.0
+  },
+  {
+    "id": "nh19o31",
+    "author": "Tsiangkun",
+    "body": "I’m so verbose, but it’s basically free and the merge summarizes the work done into yet another message.    I’m rebase curious but merging the full log of activity currently.   If it’s enough work I don’t want to repeat it because it only exists in my head and one set of files,  I’m going to push to a second location before I get hit by a bus and leave my thought logs in the record.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh19o31/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759250925.0
+  },
+  {
+    "id": "nh1aid4",
+    "author": "Tsiangkun",
+    "body": "I think rebase just replays all the changes from a commit and squashes the work to be cleaner looking for the team.   It kind of forces the branch developer to fix issues before a merge.  AI can summarize excessive commits.   Do whatever the others do unless you’re the owner of the bankroll.   One way or another someone picks which lines to use in a conflict.    I’d accept an AI gitmaster that takes the preferences of a team and beats everyone into a best practice for the group.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1aid4/",
+    "parent_id": "t1_nh19o31",
+    "created_utc": 1759251171.0
+  },
+  {
+    "id": "nh1ag2v",
+    "author": "giminik",
+    "body": "Use merge to semantically display a feature branch.\nRebase locally to reorder or cut commits before pushing. \nThere is a trick to get last dev on your branch using rebase. \n\n    git co master\n    git branch tmp\n    git co tmp\n    git rebase feature\n    git co feature\n    git merge —ff-only tmp\n    git branch -d tmp\n    git push",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1ag2v/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759251152.0
+  },
+  {
+    "id": "nh21gf4",
+    "author": "OrcaFlux",
+    "body": "Nah... monorepo, single branch, pull before merge, done.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh21gf4/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759258869.0
+  },
+  {
+    "id": "nh21k89",
+    "author": "AttentionSuspension",
+    "body": "Hardcore 🤘",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh21k89/",
+    "parent_id": "t1_nh21gf4",
+    "created_utc": 1759258900.0
+  },
+  {
+    "id": "nh2wrpi",
+    "author": "trimorphic",
+    "body": "How does this affect `git bisect`?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2wrpi/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759267964.0
+  },
+  {
+    "id": "nh54gpv",
+    "author": "AttentionSuspension",
+    "body": "With the linear history git bisect works like a charm!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh54gpv/",
+    "parent_id": "t1_nh2wrpi",
+    "created_utc": 1759298845.0
+  },
+  {
+    "id": "nh497zu",
+    "author": "jirka642",
+    "body": "Yes, but just be aware that rebase changes the commit hashes, which can lead to duplicated commits if they are also in another branch that will be merged later.\n\nThat can lead to a lot of git weirdness, like reverted changes suddenly not being reverted anymore, or Gitlab UI not correctly showing changes in merge.\n\nThis problem can be avoided, if you allow merges only from/to master, and not between different feature branches.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh497zu/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759284719.0
+  },
+  {
+    "id": "nh56422",
+    "author": "AttentionSuspension",
+    "body": "Yes, rebase changes the hashes of commits, but not the content. But if you do rebase in not shared branches (no one pulled your changes into their branches, or no one works in parallel with you) that should not cause any problem.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh56422/",
+    "parent_id": "t1_nh497zu",
+    "created_utc": 1759299787.0
+  },
+  {
+    "id": "nh49nc9",
+    "author": "clinnkkk_",
+    "body": "I rebase dev my branch, merge onto the prod branch.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh49nc9/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759284875.0
+  },
+  {
+    "id": "nhb4xce",
+    "author": "frisedel",
+    "body": "Why the obsession with linear history? My graphs are living, you can follow the development.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhb4xce/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759377603.0
+  },
+  {
+    "id": "nhbxk9a",
+    "author": "AttentionSuspension",
+    "body": "Easier to revert? (reverting a merge commit is super tricky)\n\nEasier to search? (bisect)\n\nEasier to see log and diffs and what not?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhbxk9a/",
+    "parent_id": "t1_nhb4xce",
+    "created_utc": 1759393367.0
+  },
+  {
+    "id": "nhcaqj1",
+    "author": "frisedel",
+    "body": "Diffs are still easy, just take 2 sha and go. Reverting, well yeah maybe.. Search is also super easy I feel but I don't know how your tree would look either so.",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhcaqj1/",
+    "parent_id": "t1_nhbxk9a",
+    "created_utc": 1759401237.0
+  },
+  {
+    "id": "nhbd8uc",
+    "author": "TheExodu5",
+    "body": "Merge main into feature branch. Squash merge feature branch into main. Safe. Clean. \n\nRebase is useful if you care about to have a highly detailed series of commits when merging into main. I feel like you need an incredibly competent an organized team to pull that off. Squash merge is a lot easier to manage, and at that point merge commits become a non issue.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhbd8uc/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759381627.0
+  },
+  {
+    "id": "nhbyg96",
+    "author": "AttentionSuspension",
+    "body": "Yep, agree. Squash is a subset of Rebase, that is why I brought this point -> rebase should not be feared but beloved 🤗",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhbyg96/",
+    "parent_id": "t1_nhbd8uc",
+    "created_utc": 1759393925.0
+  },
+  {
+    "id": "nhcxtoh",
+    "author": "AmphibianFrog",
+    "body": "Personally I never rebase. I just prefer to not use commands that rewrite the history and I don't care about the history looking perfect. \n\nMost of the time it doesn't really matter to be honest.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhcxtoh/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759410727.0
+  },
+  {
+    "id": "nhdeota",
+    "author": "AttentionSuspension",
+    "body": "Do you use squash? Or git merge --squash? Do you use amend? Do you use git reset --hard? Those commands rewrite history 👌",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhdeota/",
+    "parent_id": "t1_nhcxtoh",
+    "created_utc": 1759415973.0
+  },
+  {
+    "id": "nhdfe94",
+    "author": "AmphibianFrog",
+    "body": "Very rarely to be honest.\n\nI occasionally use commit --amend, but only straight away after I committed if I forgot something (often to change the commit message).  I do occasionally use \\`git reset --hard\\` too to get rid of all of my changes.  I never squash.\n\nBut it's not some ideological religious principal that I have to not rewrite history.  It's just in general I prefer not to because I find it causes a few issues occasionally, and I really don't care too much about having a super neat commit history.\n\nPersonally, I prefer to spend my time writing code instead of messing around with git!",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhdfe94/",
+    "parent_id": "t1_nhdeota",
+    "created_utc": 1759416181.0
+  },
+  {
+    "id": "nhdfynm",
+    "author": "AttentionSuspension",
+    "body": "Valid point, thank you for sharing 🤗",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhdfynm/",
+    "parent_id": "t1_nhdfe94",
+    "created_utc": 1759416344.0
+  },
+  {
+    "id": "nhfft1x",
+    "author": "sobservation",
+    "body": "Yes. It's called a git tree, not a git skyscraper.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhfft1x/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759437228.0
+  },
+  {
+    "id": "nhhzewh",
+    "author": "armujahid",
+    "body": "Normal merge is the default merge strategy for multiple reasons. All other merge strategies have special use cases.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhhzewh/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759470564.0
+  },
+  {
+    "id": "nhi895z",
+    "author": "AttentionSuspension",
+    "body": "Git has some defaults that are considered now obsolete. Git supports multiple styles of the workflow and is a tool, it is up to us to adapt it to the project and the teams. My point is Rebase is the way to go to achieve the modern tbd workflow and enable experimental work",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhi895z/",
+    "parent_id": "t1_nhhzewh",
+    "created_utc": 1759475399.0
+  },
+  {
+    "id": "nhiep7f",
+    "author": "armujahid",
+    "body": "Default merge is always the way to go, even today, if you aren't sure. Other merge methods can be carefully considered on a case-by-case basis.\n\nRebase basically replays the commits, so you get different author and committer dates. This is fine as long as these are your commits and no one else is pulling from your branch. If someone else is pulling from your branch and you do a `git rebase` followed by a push, they will get a pull error and will have to reset. If you are the only one working on a branch, you can periodically rebase your branch on top of main/master. This is perfectly fine.\n\nIf you are GPG signing your commits and then do a rebase merge from the web UI of any platform (e.g., GitHub), the signatures of all your commits will be invalidated as a result of the rebase.\n\nLastly, if you are doing a squash merge, that is the root of all evils and it is not actually a merge at all. For more details, see my detailed post related to that: [https://armujahid.me/blog/do-not-squash-merge](https://armujahid.me/blog/do-not-squash-merge)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhiep7f/",
+    "parent_id": "t1_nhi895z",
+    "created_utc": 1759479243.0
+  },
+  {
+    "id": "nhin4wm",
+    "author": "Medical_Amount3007",
+    "body": "Another way of looking at this is history is rewritten with every new leader, then we have historians to capture the truths among the rebasing, the historians merge the complete story.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhin4wm/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759484302.0
+  },
+  {
+    "id": "nhmvwox",
+    "author": "samettinho",
+    "body": "just \\`squash and merge\\`",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhmvwox/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759535060.0
+  },
+  {
+    "id": "nhrfh99",
+    "author": "AttentionSuspension",
+    "body": "yep. But! Squash and merge is ACTUALLY a squash and rebase. You can see it in the log, there is no merge commit. So basically you do a rebase command. That is the point of my post.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhrfh99/",
+    "parent_id": "t1_nhmvwox",
+    "created_utc": 1759603002.0
+  },
+  {
+    "id": "nhn8jcr",
+    "author": "DoctorOriginal7309",
+    "body": "not if ur working with >5 ppl lol",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhn8jcr/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759539906.0
+  },
+  {
+    "id": "nhnffqq",
+    "author": "itsdarkcloudtv",
+    "body": "Rebase and squash before merging to master is a hard requirement. Squash usually through gitlab/GitHub is fine manual is ok too. 1 commit and 1 merge commit. Anyone who thinks they need 47 commits from a single branch 8 years ago is a psycho. Not to mention magically reappearing code between commits when attempting to track a change",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhnffqq/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759542648.0
+  },
+  {
+    "id": "nhrfvhk",
+    "author": "AttentionSuspension",
+    "body": "Yep, merge --squash is the way to go. But under the hood it is rebase and squash, not merge, so again, rebase is better then merge :)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhrfvhk/",
+    "parent_id": "t1_nhnffqq",
+    "created_utc": 1759603118.0
+  },
+  {
+    "id": "nhohkku",
+    "author": "abundant_singularity",
+    "body": "In terms of using AI tools, what is better when asking the LLM to look back at changes in commits to determine what caused a bug?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhohkku/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759561148.0
+  },
+  {
+    "id": "nhohox6",
+    "author": "PrestigiousAnt3766",
+    "body": "I hate rebasing. I always get conflicts.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhohox6/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759561215.0
+  },
+  {
+    "id": "nhrhap7",
+    "author": "AttentionSuspension",
+    "body": "You will get the same conflicts if you try merging as well, no?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhrhap7/",
+    "parent_id": "t1_nhohox6",
+    "created_utc": 1759603540.0
+  },
+  {
+    "id": "nhruvod",
+    "author": "PrestigiousAnt3766",
+    "body": "I find those easier to resolve, but that may be related to how vscode does it for each commit.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhruvod/",
+    "parent_id": "t1_nhrhap7",
+    "created_utc": 1759607769.0
+  },
+  {
+    "id": "nhowopd",
+    "author": "mmcnl",
+    "body": "Squash your commits when merging a PR. Then you don't need to worry about rebasing or merging at all.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhowopd/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759570232.0
+  },
+  {
+    "id": "nhrhsxk",
+    "author": "AttentionSuspension",
+    "body": "Agree.\n\nBut! git merge --squash is not a real merge, it is actually a squash and rebase. That means you do use rebasing when you think you use merging.\n\nThat is the idea of this post. Merging is an unnecessary complexity.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhrhsxk/",
+    "parent_id": "t1_nhowopd",
+    "created_utc": 1759603694.0
+  },
+  {
+    "id": "nhri20w",
+    "author": "mmcnl",
+    "body": "Yes true, but GitHub calls it merge.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhri20w/",
+    "parent_id": "t1_nhrhsxk",
+    "created_utc": 1759603770.0
+  },
+  {
+    "id": "nhp8znp",
+    "author": "Rguttersohn",
+    "body": "I don’t get the debate on this. I use them for two different things.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhp8znp/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759577104.0
+  },
+  {
+    "id": "nhr1ddy",
+    "author": "kiwi-kaiser",
+    "body": "No. It depends on the case and sometimes merge is better, sometimes rebase and sometimes squash. There's a reason that every three exist.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhr1ddy/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759598904.0
+  },
+  {
+    "id": "ouxn089",
+    "author": "michaelobriena",
+    "body": "A developer should only ever rebase.  When you click the \"add this code to the project button\", it should be a merge commit.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/ouxn089/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1782921828.0
+  },
+  {
+    "id": "nh17p7t",
+    "author": "RedEyed__",
+    "body": "I never use rebase, instead I use squash merge to merge feature into main.   \nRegarding local branches, also don't use rebase, I really can't see value of rebase, since it rewrites history.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh17p7t/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759250350.0
+  },
+  {
+    "id": "nh2876j",
+    "author": "immediacyofjoy",
+    "body": "How is squash merge different than squashing commits during an interactive rebase? Does it not rewrite history?",
+    "score": 2,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2876j/",
+    "parent_id": "t1_nh17p7t",
+    "created_utc": 1759260833.0
+  },
+  {
+    "id": "nh2jljn",
+    "author": "RedEyed__",
+    "body": "`git merge feature --squash` unites all commits in `feature` into one commit, it makes `feature` to be a single commit in `main` history.   \nThen history looks linear and atomic, if some feature cause issues, it is easy to revert it since it is one commit",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2jljn/",
+    "parent_id": "t1_nh2876j",
+    "created_utc": 1759264136.0
+  },
+  {
+    "id": "nh2ot95",
+    "author": "wildjokers",
+    "body": "> Does it not rewrite history?\n\n`git squash --merge` doesn't rewrite history like rebase does. The original history still exists on the feature branch. On the main branch all the commits from the feature branch were combined into a single commit.",
+    "score": -1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2ot95/",
+    "parent_id": "t1_nh2876j",
+    "created_utc": 1759265607.0
+  },
+  {
+    "id": "nh3irs0",
+    "author": "EishLekker",
+    "body": "But in most projects I’ve worked with we delete old feature branches. Then that history would be deleted to.\n\nMy philosophy is that all commit history should live forever in main. If someone did 100 commits for one feature, then after the merge to main all those 100 commits should exist on main. \n\nGit history isn’t meant to be pretty. It’s a raw log of everything done. It’s like a tape from a security camera running 24/7 in the office. Everything should be preserved, raw. So that one can use it as a forensics tool later on if needed. If those 100 commits are squashed/rebased into a single commit then we might lose an important comment on commit number 34, a comment that explains why a certain charge was made for example, or a comment containing a separate but related ticket number.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3irs0/",
+    "parent_id": "t1_nh2ot95",
+    "created_utc": 1759275367.0
+  },
+  {
+    "id": "nh3t2uj",
+    "author": "wildjokers",
+    "body": "All branches can always be undeleted. Also, no one needs to see my WIP commits on my feature branch. They are unimportant. Only the end result matters..",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3t2uj/",
+    "parent_id": "t1_nh3irs0",
+    "created_utc": 1759279008.0
+  },
+  {
+    "id": "nh4xhhg",
+    "author": "RedEyed__",
+    "body": "If you work in GitHub, every \"deleted\" branch can be easily restored.  \nAlso, no one needs intermediate wip commits in history.    \nGuys, do you ever contributed to open source projects?   \n[GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow) is default with merge squashes and meaningful commit description",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4xhhg/",
+    "parent_id": "t1_nh3irs0",
+    "created_utc": 1759295089.0
+  },
+  {
+    "id": "nh50m98",
+    "author": "indeox",
+    "body": "If a comment for a change is *that* important, then it goes directly in the source, next to the code in question, referencing any tickets for further context.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh50m98/",
+    "parent_id": "t1_nh3irs0",
+    "created_utc": 1759296734.0
+  },
+  {
+    "id": "nhddpqu",
+    "author": "elephantdingo",
+    "body": "> Git history isn’t meant to be pretty. It’s a raw log of everything done.\n\nThe Git project disagrees.\n\n>  It’s like a tape from a security camera running 24/7 in the office.\n\nAny security comparison is moot. People can “lie” all they want in their repository.\n\n> So that one can use it as a forensics tool later on if needed. If those 100 commits are squashed/rebased into a single commit then we might lose an important comment on commit number 34, a comment that explains why a certain charge was made for example, or a comment containing a separate but related ticket number.\n\nSquashing as a matter of policy is stupid. You can rewrite the history and keep the meaningful bits. There is zero need for a squash-only policy unless you are afraid of merge commits or something (true merges).",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhddpqu/",
+    "parent_id": "t1_nh3irs0",
+    "created_utc": 1759415688.0
+  },
+  {
+    "id": "nh11ipj",
+    "author": "Icy_Physics51",
+    "body": "Y",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh11ipj/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759248528.0
+  },
+  {
+    "id": "nh15jmg",
+    "author": "dbear496",
+    "body": "I wish more people knew about number 1. It's soooo annoying to find someone's local changes are now the first-parent.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh15jmg/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759249715.0
+  },
+  {
+    "id": "nh1fkdz",
+    "author": "AttentionSuspension",
+    "body": "AGREE!",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1fkdz/",
+    "parent_id": "t1_nh15jmg",
+    "created_utc": 1759252597.0
+  },
+  {
+    "id": "nh165a2",
+    "author": "divad1196",
+    "body": "Neither are betters, they are different. What you say here just show that you don't actually know their differences.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh165a2/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759249890.0
+  },
+  {
+    "id": "nh1kj4q",
+    "author": "AttentionSuspension",
+    "body": "Maybe I don’t know, so that why I ask community 😎",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1kj4q/",
+    "parent_id": "t1_nh165a2",
+    "created_utc": 1759253995.0
+  },
+  {
+    "id": "nh4vwax",
+    "author": "divad1196",
+    "body": "No, you make a statement \"rebase ia better\". You then give argument which are bad and conclude by asking other people why they agree with you.\n\nTake Gitlab/Github, do you realize that one has \"Merge Request\" and the other has a \"Pull Request\" which is the same ? That, out of the 3 merge strategies, 2 of them, including the default option on install, are merges ( https://docs.gitlab.com/user/project/merge_requests/methods/ ) ? That \"pull\" command was doing merge for long before it became a choice. \n\nIt usually makes more sense to rebase you development branch on the target branch, it's also an opportunity to clean up the development branch. But then you, also usually, want to merge your final result on the target branch to keep track of the history.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4vwax/",
+    "parent_id": "t1_nh1kj4q",
+    "created_utc": 1759294279.0
+  },
+  {
+    "id": "nh3pz7g",
+    "author": "senfiaj",
+    "body": "Every time I read about other commands not listed in `pull`, `push`, `commit`, `merge`, `checkout`, `branch`, `status`, `reset`, `fetch`, I remember [this](https://www.reddit.com/r/theprimeagen/comments/1lfnga3/git_midwits/).  Git can become a footgun (especially if you are not a solo developer) if you don't  understand 100% what you are doing. Git has more than 100 commands where most people are not familiar with. Git is too complicated if you are not some guru who studied git your whole life. I'd rather delete a branch and pull it / recreate again than dancing with a tambourine by entering esoteric commands in order to fix some mess.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3pz7g/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759277901.0
+  },
+  {
+    "id": "nh3tjbe",
+    "author": "gororuns",
+    "body": "Rebase loses information - someone else can checkout your branch, rebase the commits, and end up with a completely different state to you while on the same branch. Merge retains the history, it's like an append only log, you can only add commits and not remove or update any existing ones.\n\nPersonally I think merge combined with squash is superior to rebase, but my team has a rebase approach on branches so I've gotten used to that.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3tjbe/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759279166.0
+  },
+  {
+    "id": "nh556n0",
+    "author": "AttentionSuspension",
+    "body": "Yep, that is my point is well. Do not rebase a shared branch! Agree with squash merge, to me squash is a subset of rebase command, that is why I called it rebase with squash and then fast forward merge",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh556n0/",
+    "parent_id": "t1_nh3tjbe",
+    "created_utc": 1759299254.0
+  },
+  {
+    "id": "nh14fvn",
+    "author": "mgruner",
+    "body": "My most valid reason to prefer rebase over merge are Pull Requests. If you do merge, the PR won't review the merge conflict resolutions, if any. With rebase, the PR includes the resolution.",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh14fvn/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759249387.0
+  },
+  {
+    "id": "nh2r4zu",
+    "author": "wildjokers",
+    "body": "Huh?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh2r4zu/",
+    "parent_id": "t1_nh14fvn",
+    "created_utc": 1759266269.0
+  },
+  {
+    "id": "nh3ikjg",
+    "author": "mgruner",
+    "body": "I notice my comment is not being understood. May I know what is not clear so I can elaborate?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3ikjg/",
+    "parent_id": "t1_nh2r4zu",
+    "created_utc": 1759275296.0
+  },
+  {
+    "id": "nh3tood",
+    "author": "wildjokers",
+    "body": "What do you mean that rebase includes conflict resolution?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3tood/",
+    "parent_id": "t1_nh3ikjg",
+    "created_utc": 1759279216.0
+  },
+  {
+    "id": "nh4ky5i",
+    "author": "mgruner",
+    "body": "when you rebase to the latest head you need to resolve any existing conflicts, the same as you would with merge. The difference is that now the conflicts resolution are included in the PR. With the merge approach they are not",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh4ky5i/",
+    "parent_id": "t1_nh3tood",
+    "created_utc": 1759289325.0
+  },
+  {
+    "id": "nh6gai6",
+    "author": "wildjokers",
+    "body": "If there are conflicts during a merge git will pre-populate the commit comment with the files that had conflicts. Is that what you mean?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh6gai6/",
+    "parent_id": "t1_nh4ky5i",
+    "created_utc": 1759323639.0
+  },
+  {
+    "id": "nh189lt",
+    "author": "Drugbird",
+    "body": "What? The merge commit has the merge conflict resolutions?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh189lt/",
+    "parent_id": "t1_nh14fvn",
+    "created_utc": 1759250514.0
+  },
+  {
+    "id": "nh19x7c",
+    "author": "mgruner",
+    "body": "you only merge after the PR was approved",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh19x7c/",
+    "parent_id": "t1_nh189lt",
+    "created_utc": 1759251000.0
+  },
+  {
+    "id": "nh1h2nj",
+    "author": "Drugbird",
+    "body": "You can't merge without resolving conflicts? And no PR tool I know supports PRs between conflicting branches.",
+    "score": 3,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1h2nj/",
+    "parent_id": "t1_nh19x7c",
+    "created_utc": 1759253018.0
+  },
+  {
+    "id": "nh3if9i",
+    "author": "mgruner",
+    "body": "I know, but the conflict resolution changes won't be reviewed by the reviewer. They will if you do rebase.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3if9i/",
+    "parent_id": "t1_nh1h2nj",
+    "created_utc": 1759275243.0
+  },
+  {
+    "id": "nh55gjt",
+    "author": "Drugbird",
+    "body": "The conflict resolution is part of the PR when merging and shows up as normal in any PR tool I've ever used (i.e. GitHub, gitlab etc). \n\nWhat tools are you using where they aren't visible?",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh55gjt/",
+    "parent_id": "t1_nh3if9i",
+    "created_utc": 1759299411.0
+  },
+  {
+    "id": "nh9lr3x",
+    "author": "mgruner",
+    "body": "Im talking github and gitlab yes. How can the reviewer see the conflict resolution if that happens only during the merge (which happens *after* the approval)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh9lr3x/",
+    "parent_id": "t1_nh55gjt",
+    "created_utc": 1759357259.0
+  },
+  {
+    "id": "nhbf5kd",
+    "author": "Drugbird",
+    "body": "1. Create branch\n2. Work in branch\n3. Merge main into branch\n4. Fix any merge conflicts\n5. Commit and push branch, including merge commit\n6. Open PR on GitHub for merging your branch into main.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhbf5kd/",
+    "parent_id": "t1_nh9lr3x",
+    "created_utc": 1759382635.0
+  },
+  {
+    "id": "nh130c5",
+    "author": "darkest_ruby",
+    "body": "100%",
+    "score": -1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh130c5/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759248966.0
+  },
+  {
+    "id": "nh1ak9k",
+    "author": "endymion1818-1819",
+    "body": "Yes! I’ll take rebase any day. Trying to convince my team however …",
+    "score": -1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1ak9k/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759251185.0
+  },
+  {
+    "id": "nh1bd8i",
+    "author": "AttentionSuspension",
+    "body": "Good luck! Welcome to rebase team :)",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh1bd8i/",
+    "parent_id": "t1_nh1ak9k",
+    "created_utc": 1759251413.0
+  },
+  {
+    "id": "nh3i0cn",
+    "author": "Comprehensive-Pea812",
+    "body": "no. \n\nonly do rebase on personal branch such as feature or if you are crazy about history. \n\nit do more harm than benefit otherwise",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh3i0cn/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759275098.0
+  },
+  {
+    "id": "nh6ugb8",
+    "author": "baicoi66",
+    "body": "Why this post has do many ups when rebase in main is a no no",
+    "score": 0,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh6ugb8/",
+    "parent_id": "t3_1nugs0l",
+    "created_utc": 1759328244.0
+  },
+  {
+    "id": "nh761lb",
+    "author": "AttentionSuspension",
+    "body": "It is no no. We are talking about rebase ONTO main :)",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh761lb/",
+    "parent_id": "t1_nh6ugb8",
+    "created_utc": 1759331649.0
+  },
+  {
+    "id": "nh771dn",
+    "author": "baicoi66",
+    "body": "Uh oh thats bad.\n\nThis is how it should be:\n\n\t•\tUse merge on shared branches (used by multiple teammates).\n\t•\tUse rebase locally (on your own branch) to keep the history clean before pushing.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh771dn/",
+    "parent_id": "t1_nh761lb",
+    "created_utc": 1759331937.0
+  },
+  {
+    "id": "nh7aeow",
+    "author": "AttentionSuspension",
+    "body": "I am saying the same thing. Do not rebase a shared branch. But rebase your private branch on top of a shared branch before merge",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh7aeow/",
+    "parent_id": "t1_nh771dn",
+    "created_utc": 1759332923.0
+  },
+  {
+    "id": "nh7q13g",
+    "author": "xenomachina",
+    "body": "\n\n\n\n>Not a single one of them offered an explanation as to why each step of the work should be enshrined in its own commit.\n\nI guess you missed this part: \n\n>>If you combine these into one commit, git will sometimes get confused and not realize that you moved files and modified them and instead think you deleted files and added new ones. This can make the diffs much harder to read.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nh7q13g/",
+    "parent_id": "t1_nh7p8rx",
+    "created_utc": 1759337506.0
+  },
+  {
+    "id": "ni93k4r",
+    "author": "lottspot",
+    "body": "I didn't miss it, it's just simply not a value proposition. The reason it is not a value proposition is because it's absolutely trivial to filter large diffs using pathspecs; there isn't any purpose or use in constructing a commit around the visual appeal of its diff. Beyond the fact that optimizing for diff cosmetics simply adds zero value, it actively detriments commit quality. Destroying the atomicity of an independent change by splitting it across multiple commits has the unjustifiable impact of making the change itself harder to understand and reason about. A future teammate who has to revisit the change for any reason has to discover and analyze additional context by making an error-prone judgement about which commits before or after the one they were drawn to may or may not be related.\n\nCommits are not a vessel of creativity for engineers to tell inspired stories with beautiful illustrations. They are a system of record for binding lines of code to the stakeholder context which demanded them.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/ni93k4r/",
+    "parent_id": "t1_nh7q13g",
+    "created_utc": 1759847539.0
+  },
+  {
+    "id": "nhi4fjb",
+    "author": "goranlepuz",
+    "body": ">Suppose you're going to reorganize a bunch of code. This will often be done in two separate commits: \n\n>1. Move the code files to their new locations \n>2. Fix all the references to point at the new locations. \n\nThe value I see in this is more granularity in commits; I prefer small commits even if incomplete by whatever criteria. It shows a better flow of what went on with the code. \"Moved and fixed references\" commit might be too big to look at at once.\n\nI reckon you actually want to argue this is wrong. You are free to do so, but I think my reasons why this is right are more important to me, than yours.",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/nhi4fjb/",
+    "parent_id": "t1_nh7p8rx",
+    "created_utc": 1759473260.0
+  },
+  {
+    "id": "ni8wu8p",
+    "author": "lottspot",
+    "body": "> my reasons why this is right are more important to me, than yours.\n\nThis is totally fine if the only person who will interact with your commit history is you. The moment you are in a team setting though, people's personal feelings about commit aesthetics don't matter anymore. What matters then is release engineering practices and team communication patterns, and enforcing commit styles which serve those realities rather than any individual's abstract idea of \"good commit / bad commit\".",
+    "score": 1,
+    "permalink": "/r/git/comments/1nugs0l/rebase_is_better_then_merge_agree/ni8wu8p/",
+    "parent_id": "t1_nhi4fjb",
+    "created_utc": 1759845481.0
+  }
+]

@@ -1,0 +1,363 @@
+Total real comments: 362
+001|nh0z9oq|233|Shadowratenator|You use rebase to keep a branch that nobody is pulling from cleanly following its upstream branch.   You use merge to ge
+002|nh1ibxn|34|tahaan|This, except it doesn't even need to be many.  Can be one.  Can even be just "may possibly be pulling from"
+003|nh1vq9t|18|vermiculus|Reasonable minds definitely can disagree here :-) I will rewrite my feature branch however many times I like, thank you 
+004|nh1y4ex|8|tahaan|Of course if you have not yet pushed it, it is not going to cause anybody else to get their push rejected.
+005|nh1yjo7|9|vermiculus|I would contend that you should not base your branch on anything but a trunk unless you are ok with that base being rewr
+006|nh2ile5|14|wildjokers|I push my feature branches to the remote all the time because I am paranoid about losing work. The branch is mine until 
+007|nhpp9ip|1|iOSCaleb|OT, but if you create your own fork you get the advantages of a remote (e.g. your work is backed up) while keeping your 
+008|nhpqnov|2|vermiculus|This is decent advice in general, but often not realistic in corporate contexts. For our internal tooling projects, most
+009|nh1lx67|4|Affectionate-Egg7566|Why? What are a bunch of merge commits in the main branch supposed to do? I can't read the commits easily. It makes more
+010|nh1mo4k|16|timbar1234|You dont have to squash the commits on merge - you could retain the history. But bearing in mind most commit histories o
+011|nh2nxo3|13|remy_porter|You rewrite your history as part of writing a merge request. That’s just basic hygiene!
+012|nhel2w1|2|timbar1234|You know that. I know that. I'm  not at all sure that everyone knows that 😅
+013|nh1mzvm|7|Affectionate-Egg7566|I agree, you don't want stream of consciousness or debug statements in the history, but if you want multiple commits for
+014|nho0w75|2|MiscreatedFan123|Tell me you've never found commit history useful without telling me you've never found commit history useful.  In a well
+015|ni1212a|2|timbar1234|There's a marked difference between a set of well curated commits with clear messages and the commits in many PRs statin
+016|nh27zpg|8|xenomachina|>>You use merge to get those changes into an upstream branch that many people are pulling from.  >Why? What are a bunch 
+017|nh293j2|3|Affectionate-Egg7566|What use are commits that don't pass CI?
+018|nh2fkjy|4|xenomachina|Does your CI test every commit in a PR/MR, or only the head commit?  In general, the reason you might have commits that 
+019|nh68xq9|1|Affectionate-Egg7566|That doesn't sound useful. We do TDD, but a commit contains both the changes and the test that previously would fail wit
+020|nh6h45s|0|lottspot|Did you simply feed the question you responded to into the nearest chat bot? Because that's a huge wall of text that doe
+021|nh750gu|1|xenomachina|I wrote it by hand.   Maybe you can feed it into the nearest chat bot so it can explain how it *does* address the questi
+022|nh792dp|1|lottspot|There's zero explanation of why anyone should value splitting those changes into separate commits rather than always upd
+023|nh7a0b1|2|xenomachina|There were two examples about tests. There were two that were not. Maybe read those?  Also, most (if not all) CI systems
+024|nh7p8rx|1|lottspot|I read all of the examples. Not a single one of them offered an explanation as to why each step of the work should be en
+025|nh2acst|3|AttentionSuspension|Nice workflow 💪
+026|nh8x97z|2|edgmnt_net|>Intermediate commits don't have to, and so may not pass tests or even build.  I would argue that *all* commits *should*
+027|nh98ltu|2|xenomachina|>I would argue that all commits should work.  What constitutes "working" varies by context.  In feature branches in my p
+028|nhe51h9|1|edgmnt_net|>I'd rather have 2 commits, one with the files moving, and a separate one with the edits, than a single commit where it 
+029|nhebuka|1|xenomachina|> Also note that the second parent is likely based on a different point in time versus the first parent. Unless you use 
+030|nh1rhrz|1|Shadowratenator|i'll be honest. i have never encountered a workflow that gets changes into main without using merge. i'm curious what yo
+031|nh67f0b|1|LysanderStorm|It's probably uncommon, but you can just push changes to main if you're quick enough ;)  Even in the standard workflow o
+032|nh80zut|1|macbig273|trunk based ?
+033|nh9fws4|1|Trawling_|It sounds like they are not using merge request rules to control what gets pushed to a controlled branch.  They just pus
+034|nh1slo5|1|Affectionate-Egg7566|Just developing software nothing special. We just push on top by fetching, rebasing, then pushing. Gives a clean set of 
+035|nh3fv8u|1|Fun-Title7656|Question (I am a newbie): if I am working on a feature branch and have  PR open to merge on a staging branch, I was thin
+036|nhp4tgm|1|jutarnji_prdez|I am not using rebase, but my guess would be to just resolve conflicts, same as you would do if you merge/update from st
+037|nhduoc4|1|MisterSincere|That's a very nice and tight description! And I never thought about it that distinctly but realised that's exactly how I
+038|nhe8n1n|1|Shadowratenator|Thanks. The other big difference between rebase and merge is conflict resolution.   Merge basically compares the head of
+039|nhf0ni1|1|sheriffderek|BOTH!
+040|nhi4fym|1|Trineki|Man I always only use merge... I should probably look more at rebasing. Granted my use cases are pretty siloed the last 
+041|nhi4nva|1|Horror_Jicama_2441|> You use merge to get those changes into an upstream branch that many people are pulling from.   Even for single commit
+042|nhmzkwi|1|m915|Sorry do you mean downstream?
+043|nh16pva|32|CoachBigSammich|as everyone keeps saying, rebase is "better" for a branch that only you are working on. Merge is "better" for a branch t
+044|nh30hyp|5|snowsayer|What’s wrong with “git pull —rebase origin <whatever branch you’re based off>”?
+045|nh43va8|2|Logical_Angle2935|Yes, rebase is preferred. It also avoids confusion with code reviews that can come from merging.   However, our team als
+046|nhbups7|2|towncalledfargo|Git interactive rebase fixes this
+047|nh0yja4|38|FlipperBumperKickout|No I don't. Rebase is nice for local branches but I strongly prefer my global history to be branched so I can see commit
+048|nhi20gw|1|baloo____|git merge —ff-only —no-ff When merging a feature branch.  This creates a linear history, the commits of the branch are g
+049|nhievdr|1|FlipperBumperKickout|... So rebasing local branches, like I wrote, but do merges for feature branches, like I wrote.   What am I missing here
+050|nho1c2s|1|MiscreatedFan123|It depends on your team.  We use one commit per feature and rebase is extremely useful for us. When merging to main we u
+051|nho223h|1|FlipperBumperKickout|Your git history is chefs kiss until you look inside the commits.  Try to apply the same logic to if it had been a class
+052|nho2tql|1|MiscreatedFan123|It depends on your definition of atomicity.  In our team that is one per feature, or bugfix.  It can be one per class on
+053|nh1c7xg|1|AttentionSuspension|Ok, got it. My point with a copy branch was the remedy to the case where rebase must be done, so you basically abandon t
+054|nh3wjyy|2|Daholli|I'm not sure if I misunderstood something but just get your teammates to also do rebate on pull, that way even if you re
+055|nh55bdi|1|AttentionSuspension|Yep, —force-with-lease is the best way to push
+056|nh10jm7|23|PM_ME_A_STEAM_GIFT|Disagree. It's just two different tools with different trade offs and different use cases. Neither is the always the bes
+057|nh1dlfq|-1|AttentionSuspension|Good point! I would still like to run tests locally before merging WITH newest public changes from dev, so rebase is my 
+058|nh1s6os|2|PM_ME_A_STEAM_GIFT|Why though?
+059|nh1uh9n|2|AttentionSuspension|Maybe I need to check the merge trains and how ci is run on the merged PR before actually being merged.  My point is to 
+060|nh1vpot|4|PM_ME_A_STEAM_GIFT|That's how GitHub CI behaves by default. Probably the others too. It triggers two pipelines, one for the head of your br
+061|nh1vyk7|3|PM_ME_A_STEAM_GIFT|Merge trains are for very busy, enterprise projects. Probably an overkill below 10 active developers.
+062|nh1omy4|7|tonecc|I strongly advocate for merge into a main/master branch. This in turn forces you to rebase on the current main/master. C
+063|nh1w7cj|1|AttentionSuspension|Rewriting history might be a good thing though, it depends on the history:) once it is merged main, it is written in sto
+064|nh33f2j|2|tonecc|Rewriting history on a dev branch is totally fine, I do it all the time. Main/master history never - that's what I meant
+065|nh54p5m|1|AttentionSuspension|Wow, brave!
+066|nhomygb|1|Kjoep|Isn't that the reason not to use merge commits though? It makes a single messy commit instead of keeping the clean ones 
+067|nhotbz5|1|tonecc|You got the right idea, the thing is merge commits are optional. I never used them and, by my points above, I think you 
+068|nh0xx1i|24|homezlice|the reason gitflow and other processes were created is because of what you're saying is BAD about rebase.  Informing oth
+069|nh1cdwp|3|homezlice|I have only used github flow (different than gitflow) and found it fine.
+070|nh1msez|3|EmbeddedSwDev|The article is for sure written by ChatGPT
+071|nh3flyz|1|EishLekker|What’s so unnecessary complicated with git flow? Could you explain what you mean, because I genuinely don’t see it.   Al
+072|nh1ytmj|1|omicronCloud8|I must say, it's usually the teams and people you least want to follow gitflow, that usually do :(.  Gitlab flow is the 
+073|nh1bjj6|0|AttentionSuspension|Good point, I agree
+074|nh1xi0h|6|waterkip|Rebase is a tool for while developing. Merging is a tool for incorporating your branch into a target branch.  They are i
+075|nh2mjad|3|wildjokers|> When you develop you'll want to incorporate upstream changes into your work, depending on how big the work upstream is
+076|nh2o5d6|3|waterkip|Yes, and introduce spagetti graphs. Which is why you rebase, per many foss projects policy.    https://github.com/git/gi
+077|nh3ksxr|1|EishLekker|> Yes, and introduce spagetti graphs.   I can’t think of a single instance when a merge into a feature branch has caused
+078|nh3l7il|1|waterkip|You mean you missed:  > what this principle means is that for the vast majority of cases, the starting point for new wor
+079|nh3n7ll|1|EishLekker|That segment doesn’t mention rebase, what are you on about?  And the part you quoted doesn’t mention mergers either. It 
+080|nh3q4w0|0|waterkip|You do you, if you work on git and you branch of master or maint and work a few days on it, and come back you are no lon
+081|nh3s5ip|0|EishLekker|I have no idea what you are talking about now.   I’m not discussing your main point in your previous comment.   I’m only
+082|nh4y9f5|3|waterkip|The principle clearly states that new work must be based on the latest HEAD commit of maint or master. The practical con
+083|nh1xv8t|1|AttentionSuspension|well said! Totally agree
+084|nh20up5|5|Conscious_Support176|Would describe it differently. They each do a different job. Some jobs, merge is the only tool for it. Some jobs, rebase
+085|nh21f9b|1|AttentionSuspension|Good point! Merge is safer option, while rebase interactive is better in cli
+086|nh2wptt|1|Conscious_Support176|True enough, though GitExtension is pretty good for interactive rebase. I was thinking though that are also a bunch of c
+087|nh0zlvw|19|ars0nisfun|I have been professionally developing and using git for about 8 years now and have never had an issue merging lol. We ha
+088|nh17c48|5|cgoldberg|You might not have had any issues, but you have a ton of merge commits in your history (which some people dislike).
+089|nh18wnk|11|RobotJonesDad|But is it worth rewriting history just to eliminate merge commits? Especially if you have signed commits. I think any wo
+090|nh5i6r0|1|ScaredInvestment1571|>I am coming from a place where more than one person works on many of the feature branches, so those are almost always p
+091|nh6my8u|1|RobotJonesDad|I think there are many valid reasons for having multiple people work on a feature over a short period. That in and of it
+092|nh6o20s|1|ScaredInvestment1571|I could see a reason only if you're doing pair or mob programming, or you reach out to someone to help you figure out st
+093|nh6tuhu|1|RobotJonesDad|Do you work on simple products with few collaborative teams? We have algorithm experts, software development, hardware, 
+094|nh18y68|7|ImTheRealCryten|Some dislike it, but others actually prefer it. Using --first-parent is great for filtering out all other commits that's
+095|nh18uns|10|NotSelfAware|Squash commits.
+096|nh1o9je|1|Lor1an|`git merge --squash main` is the MVP for updating from a central branch.
+097|nh694zx|1|DancesWithGnomes|This is not a matter of personal taste, this is a matter of utility.  Merges are a source of errors, so when I hunt down
+098|nh762l1|1|cgoldberg|It's absolutely a matter of personal taste ("utility" is subjective). Some people have a preference for linear history. 
+099|nh8gc1u|1|Sensitive_Tear110|Maintaining a "clean" git history is almost purely autistic and provides almost no utility to almost every developer.  R
+100|nhmwjdq|1|samettinho|I hate merge commits, it is confusing and the history is not linear. I've been doing squash and merge which is clean. on
+101|nh3gaon|1|EishLekker|What’s the problem with that? They are part of the history.   I see the git commit as a raw log of everything that has h
+102|nh3jw7c|-1|cgoldberg|That's great... but some people don't.
+103|nh3mvyb|1|EishLekker|But why though? Why don’t they want a proper “forensic friendly” and detailed history? What is the downside?
+104|nh3rmuj|-1|cgoldberg|I'm just telling you MANY people don't like it and prefer a linear history. I don't particularly care, but people have p
+105|nh3shis|1|EishLekker|I get that people have different preferences. But I see no point in presenting preferences here without also presenting 
+106|nh46m72|1|cgoldberg|It's not my preference. But some people like a linear history because it's easier to bisect, reversion and cherry-pickin
+107|nh4wr5k|0|the_0rly_factor|First of all, who cares? Second, squash commits.
+108|nh4xhp1|1|cgoldberg|I do squash when I merge... why do you if you don't care? 🤷‍♂️
+109|ni7mlay|0|CpnStumpy|90% of merges down are squash merges, idunno why anyone wouldn't
+110|nh1d4hc|1|AttentionSuspension|Yeah, I see the point and this is the way to go if following Merge strategy. I was always concerned about making sure my
+111|nh1do6w|1|sunshinefox_25|What kind of tests do you run? Are these tests highly specific to your product and it's features, or are you referring t
+112|nh26yvt|1|newprince|Yeah, I'm not sure why people hate merge so much.
+113|nygj3nu|0|SheSaidTechno|Here are 3 reasons why `git merge` is bad compared to `git rebase` :  1. **Merge commits clutter the history :** `git me
+114|nh1f6xk|11|Charming-Designer944|Agree to disagree.  Merge is the safe bet.  Rebase is a destructive cleaning tool.
+115|nh12p3p|3|mesonofgib|No; my preference is to merge locally, and for PRs to squash/rebase when merging to keep the history of master/main clea
+116|nh1t4ou|4|kenpaicat|Agree. I always rebase.
+117|nh1umfl|2|AttentionSuspension|Welcome to rebase team 💪
+118|nh24jr9|7|RarestSolanum|If I am reviewing your PR and you are using a rebase workflow I automatically hate you. It makes it much more difficult 
+119|nh29yar|2|AttentionSuspension|Good point. Please don’t hate me 😅 as I understand, it shouldn’t be a problem when rebased onto main, since pr is made a
+120|nh2oahm|6|RarestSolanum|It removes the "Changes since your last review" button on GitHub, and resets the times on all of the commits, so I can't
+121|nh2t3ud|2|Wiikend|Bitbucket has the "Changes since your last review" feature, and it's super nice in these situations where you have comme
+122|nh331up|4|MrMelon54|The commit hashes change with a rebase, but the diff of files won't change. I assume Bitbucket is showing changes betwee
+123|nh33cyw|1|MrMelon54|Ah, that is the fault of GitHub. Their "changes since your last review" option is awful for rebases, but the git range-d
+124|nh53jgy|1|AttentionSuspension|I use Bitbucket so it works fine in this scenario
+125|nh8mwpc|1|UrGuardian4ngel|So... I usually try to make atomic commits. During development, I'm always rebasing and rewriting. Going for review, I k
+126|nhc6yel|0|timtody|This has nothing to do with git but rather a tool implementation (GitHub in this case). Track changes to the PR with Ind
+127|nh2sfr1|6|zaitsman|I dislike rebase so much all our company repos have disabled force push. Why? Because rewriting history is bad  If I eve
+128|nh540ok|1|AttentionSuspension|Got it! But why you want to know when and in what order devs did things? At the end of the day, working feature is the r
+129|nh56b1x|1|zaitsman|That’s right. So when things work I don’t care whether history is clean or not, I won’t look there anyway. But when they
+130|nh72bmt|1|remy_porter|Jesus Christ. I spent 90% of my time amending the same commit in a branch until that commit is correct. I force push *al
+131|nh9el04|1|FarkCookies|Because I prefer not to lose my work?
+132|nh9n2zy|1|FarkCookies|Usually not. The last places I have worked at used trunk-based development with organically short-lived branches. We use
+133|nh8ca71|0|remy_porter|For CI, for review comments, just to have it in VCS so I can pull it down to other machines if needed, whether other mac
+134|nh8xfz7|1|zaitsman|Yeah nah, thus there is no evidence of the feedback loop if you amend the commit in response to feedback. Once again, re
+135|nh9ejyu|1|remy_porter|There absolutely is, both on the MR itself and in the reflog. The MR is the repository of the feedback. Why would I stor
+136|nh9h8fy|1|zaitsman|You don’t need to store it anywhere.  The reason this should be in the history in git is the same as why there should be
+137|nha5k1o|1|remy_porter|I look at git history all the time, even when things haven’t gone wrong. It’s how I understand the code. “Why is this li
+138|nha8g4f|1|zaitsman|That’s exactly right so I don’t understand how given that you want to know ‘why’ you also prefer someone to hide the ‘wh
+139|nhd6yyw|1|remy_porter|Because the history is ideally a clean narrative that represents the meaningful changes in the code. Comments in an MR a
+140|nhe77mp|1|remy_porter|Actually, to put it a different way: the history is a narrative of the changes in terms of the delivered product. It sho
+141|nh8x8w4|1|zaitsman|Nothing runs through CI until you submit a PR.  If you spend this much time amending the same commit you will be perform
+142|nh2qvcc|3|TheSodesa|Rebase is always riskier, because it modifies history, and there is a chance human error would result in actual loss of 
+143|nh53sro|1|AttentionSuspension|Good point!
+144|nh2tihx|3|gnivol|Have been coding since before git came out.    my workflow has only use these four commands 99% of the time. more than c
+145|nh5436n|1|AttentionSuspension|Agree 👍
+146|nh13agx|7|gcwieser|Absolutely could not disagree more.  1. If this happens often, or at all, it’s a process problem. No need for rebase.  2
+147|nh1h4h7|2|kor_the_fiend|Agree on everything but the secret part - that means it's time to rotate the secret!
+148|nh1hoxd|1|gcwieser|Yes!
+149|nh231fl|1|Wiikend|I committed a secret once in my early days, lesson learned. Our senior at the time had a keen eye, luckily, and the secr
+150|nh1fa52|1|AttentionSuspension|No problem, the whole point of the post is to hear the opinion! I see that 1. happens at our teams quite often
+151|nh2vv4q|3|HolmesMalone|Rebase is kind of a noob trap. Rather than learn about git it seems to magically solve your problem. However the force-p
+152|nh54e4o|1|AttentionSuspension|Yep, you can shoot yourself with the rebase command. That is why I advocate for learning it and not be afraid
+153|nh1g6zk|2|gcwieser|Help me follow along better on this one. If you work a ticket/work item and create a topic/feature branch. Then both you
+154|nh1gm2k|1|AttentionSuspension|Yes, if two developers commit to the same branch. Then one pushes. The another tries to push and the request to pull fir
+155|nh1km07|2|gcwieser|Hm yea but I feel like that’s a feature too. You commit your new changes locally, the other dev has already pushed their
+156|nh23oj2|2|Wiikend|This is essential for huge lumps of work. PRs should ideally be no longer than 200-400 lines. Those tend to actually get
+157|nh25lfz|1|gcwieser|Exactly! Large deliverables should not receive less scrutiny, but often do. This again is where a good branching process
+158|nh3ml8z|1|EishLekker|I agree with the general sentiment of your comment. But could you clarify this below?  >1.	⁠If this happens often, or at
+159|nh3omhf|1|gcwieser|If OP is getting the ‘branches have diverged’ message frequently on a topic branch, I’d suggest not having multiple peop
+160|nh1tzaq|1|Conscious_Support176|You’re half right. If you’re spending a lot of time on rebase, that suggests you have a process problem. If you always m
+161|nh2n5s0|1|wildjokers|> If you always merge rather than rebasing, it doesn’t mean that you don’t have a process problem, you may just be hidin
+162|nh2tgm3|1|Conscious_Support176|What problem does difficult rebase integrations expose?
+163|nh1wcf9|1|gcwieser|I’m advocating for merge almost all of the time, and reserve rebase for the few occasions requiring that tool. They are 
+164|nh348lv|1|Conscious_Support176|Based on your statement that people spent time solving problems when using rebase that they didn’t spend when using merg
+165|nh3di70|1|gcwieser|I guess that again depends on the process being followed. To me, an enhancement should be a ticket in some ticketing sys
+166|nh3fsbh|1|Conscious_Support176|With this model, integration testing is impossible in Individual commits.  It can work where each because each branch ha
+167|nh3kwfh|1|gcwieser|If you integration test every commit, you spend a lot of time testing unfinished code. That’s why I prefer integration t
+168|nh55348|1|Conscious_Support176|You seem to be repeating the same talking point in different words, insisting that there is some intrinsic value to know
+169|nh6kcwz|1|gcwieser|No, I’m arguing that rebase is the wrong tool for what you’re describing. I use merge and PRs which are the testable, re
+170|nh6obgy|1|Conscious_Support176|It’s the wrong tool for you in your scenario , where  1) you have exactly one unit of wiork per branch, AND 2) for some 
+171|nh1lkzz|4|evo_zorro|Strong disagree.  They're fundamentally different things. They serve different purposes, and solve/potentially create di
+172|nh10fa4|6|m39583|lol this again....  I will die on my lonely hill that rebase sucks.  It rewrites history, and the ENTIRE POINT of git is
+173|nh1uixi|2|Conscious_Support176|This is a weird take. If you squash merge, you’re obliterating the history you were talking about?
+174|nh1y5p9|1|m39583|I care about the immediate history whilst developing a feature. Any regressions we've caused, previous green pipeline ru
+175|nh2z8ab|2|Conscious_Support176|If you’re doing significant pre-integration testing on your merged branches, I understand why you want to preserve those
+176|nh2qs40|0|wildjokers|A squash merge doesn't obliterate history. The history still exists on the feature branch.
+177|nh2tw75|2|Conscious_Support176|True, but it’s a rather useless history, because none of the commits reflect a version that was ever in production. The 
+178|nh4z28w|1|lmoelleb|Why not just merge to main and then use first parent only when viewing the history or using bisect?
+179|nh11fqq|1|kagato87|Strong agree.  I ONLY use rebase when I branch from the wrong branch (main instead of the feature branch of the version 
+180|nh1ef6s|1|Ok-Ostrich44|Yes to all this.
+181|nh1eque|1|AttentionSuspension|With branch protection on main or dev you can’t push force, so I don’t see the problem. My point is to use Rebase plus F
+182|nh1fbfm|2|m39583|It was about how to update master changes onto feature branches
+183|nh1j1m5|0|AttentionSuspension|I see. Well, it seems like you really hate rebase 😅
+184|nh1fgpq|2|JauriXD|Yes and no. Rebasing a short feature branch is better than merging and feature branches should be kept short and on poin
+185|nh1jdjo|1|AttentionSuspension|This!
+186|nh1gt6j|2|Drugbird|It's a tradeoff: merge based flows preserve history, while rebase flows preserve a cleaner, linear history.   One thing 
+187|nh1k6na|1|AttentionSuspension|I agree, we do squash on feature branches and then ff merge, so each commit to master is a closed pr, that passed ci and
+188|nh1sa2i|2|sshetty03|I lean the same way. Rebase keeps my branches clean and my CI runs actually meaningful, because I’m always testing again
+189|nh1uujl|1|AttentionSuspension|Thanks for the link! Will read it 👌
+190|nh20cv2|2|IamYourGrace|100% agree. I like my main branch free from merge commits. I switched to only using rebate about 6 years ago and never l
+191|nh20kqr|1|AttentionSuspension| 💯!
+192|nh29pjb|2|RaniAgus|Agree. And squash is goated
+193|nh2a46g|1|AttentionSuspension|Absolutely 💯
+194|nh2dqzl|2|wildjokers|Do we need yet another discussion about this?  > 3. Rebasing allows your feature branch to incorporate the recent change
+195|nh2jhn8|1|AttentionSuspension|You mean merging main into feature branch? Yep, this also works, I agree. But then when you merge it back, the history l
+196|nh4zv40|2|indeox|Squash when merging back into master, and you get just one commit.
+197|nh2i2np|2|Kraigius|>Rebase is better then Merge. Agree?  Depends on then context.
+198|nh2k3m1|1|AttentionSuspension|Totally 👍 I just wanted to make the point, that rebasing is useful and somewhat misunderstood (and therefore mystified)
+199|nh35uis|2|donkthemagicllama|If your branch is quite old, rebasing it can be fraught with conflicts. I have an alias I call hail-mary-rebase that acc
+200|nh54soh|1|AttentionSuspension|What is the command for the alias? 😇
+201|nh3e57a|2|human_289|In My very first org they strictly suggest to use rebase thus i never use merge till date don't know how that thing work
+202|nh54ue6|1|AttentionSuspension|Unicorn 🦄!
+203|nh3x6px|2|ItsDotin|When I haven't pushed anything to remote, I do rebase.   When I pushed any commits to remote, I do merge. Little unclear
+204|nh55cr5|1|AttentionSuspension|Definitely 💯
+205|nh43qim|2|jameshearttech|We practice tbd and never merge. We only have master branch and feature branches. Our commit history is linear. It's ver
+206|nh55r0g|2|AttentionSuspension|Never merge? Or You mean never have merge commit? Can you tell me please, how your tbd approach works? Especially when y
+207|nh59y4z|2|jameshearttech|Yeah, never merge (commit). Good catch!  Our main repository is a monorepo. The master branch is protected. No one can w
+208|nh5cut9|2|AttentionSuspension|Great answer, thank you 🙏 I am on the same side as you - rebase fast forward merge without merge commit 💪
+209|nh55tkn|2|AttentionSuspension|Absolutely love this 🥰
+210|nh4jwzm|2|kilkil|if there is a branch other people may be pulling from, you should not rewrite that branch's history. In practice this me
+211|nh4mbzd|2|glasswings363|Trunk-ish policy: "all changes should be based on the latest accepted revision." When you review code in a trunk-ish pro
+212|nh56fd0|1|AttentionSuspension|Good comment! I’ll check it 👌
+213|nh4rgx8|2|spenpal_dev|Use rebase for feature branches.  Use merge, fast forward for main/development branches, when doing PRs.
+214|nh56iql|1|AttentionSuspension|True 💪 well said
+215|nh4x19e|2|the_0rly_factor|15 years or so using git in a professional environment and I almost never rebase.
+216|nh56nmp|1|AttentionSuspension|I see. But what git workflow do you use?
+217|nh4xizv|2|lmoelleb|No. I prefer my history showing what happened. Would never fast forward merge anything into main. Default merge commit u
+218|nh56tpz|1|AttentionSuspension|Ok, so you enforce merge commits even if ff is possible?
+219|nh5w5wg|2|lmoelleb|Merge or squash after code review If it happens to be a single commit I am ok with FF, but not sure I can easily tell az
+220|nh503kk|2|the6thReplicant|Unless you have to fix conflicts for every single commit on the master.   It's great until then. From then on you just m
+221|nh56x4w|1|AttentionSuspension|Ok, noted!
+222|nh551dq|2|Infamous_Ticket9084|The problem is: - sometimes rebasing a few commits forces you to solve the same merge conflict several times - after reb
+223|nh572pr|1|AttentionSuspension|Got it. To me squash is a subset of rebase command, that is why I link rebase so much
+224|nh57hl0|2|ScaredInvestment1571|Squash and rebase on main branch always - linear history > everything  One commit on main branch per deployable change, 
+225|nh58fqe|1|AttentionSuspension|Yep. Do you merge main regularly into feature branch then? If not, how to make sure the merged commit works?
+226|nh5e371|1|ScaredInvestment1571|> Do you merge main regularly into feature branch then? If not, how to make sure the merged commit works?  Feature branc
+227|nh5eio0|1|AttentionSuspension|🙌 Same, this is only possible with rebase onto main, that is why it is why I say Rebase is the king
+228|nh5nssj|2|Inevitable_Exam_2177|I may be too late to the conversation to ask a question, but unless things have changed I though that the amazingly usef
+229|nh5tpqk|2|czenst|I really don't care what you do with branch you are working on. I don't care about your history. If you want merge share
+230|nh6jlwb|2|Safe_Trouble_2140|Squash when merging to main branch and skip all this extra work (unless you really care about the individual commit mess
+231|nh75vn7|1|AttentionSuspension|Agree. I was concerned about incorporating of new changes from main to feature branch, this is where rebase shines
+232|nh7k8jz|1|AttentionSuspension|Agree.   My point is that squash is actually a sub-operation of rebase. So people use it and like it however do not unde
+233|nh7n6xx|1|AttentionSuspension|Both, I do git diff main and I look into logs to understand the intention git log main..feat1
+234|nh766bp|1|AttentionSuspension|Good to know this! And where are you on the curve?
+235|nh72ktb|2|remy_porter|After reading all the conversations here, you're all wrong. I'm going to just cherry-pick into main from now on.
+236|nh76jp1|1|AttentionSuspension|Sensei 🥋
+237|nh7wtc1|2|Engineer-Coder|In my experience, people don’t know how to use rebase, it causes so much trouble for in-review MRs and broken/lost work.
+238|nh7yhfi|1|AttentionSuspension|Agree!  Skill issues for sure, but I am not going back to plain vanilla merge. Part of the problem is a big amount of cl
+239|nh8318p|2|macbig273|merge main/master into your feature or rebase your f-b on main ;  merge squash your feature branch into main.   One "rev
+240|nh8ccbm|2|Prestigious-Fox-8782|We rebase main branches into feature branches.  Subsequently, we merge feature branches onto the main branches.
+241|nh8ilec|1|AttentionSuspension|We do the same 🙌
+242|nh9wu5k|2|jcbinet1|I prefer rebase personnally, using merge, there are some upsides, easier, fire and forget, like when you have conflicts,
+243|nhbx4re|1|AttentionSuspension|Nice thoughts, agree. My point is that rebasing is a much cleaner way to incorporate the changes from main into the feat
+244|nhbdhbb|2|Old-Confection-5129|agreed
+245|nhbyhqy|1|AttentionSuspension|👌🤗
+246|nhbedyi|2|scally501|Managing tags, versions, releases, and builds would be a nightmare with rebases happening all the time. Even a simple gi
+247|nhbfo59|2|boatsydney|Rebase takes more effort. Why not just merge on your branch, and then squash-and-merge to main?
+248|nhbzo5o|1|AttentionSuspension|Agree, this workflow will also work, I will think about this!  My point is that squash is a subset of rebase and therefo
+249|nhbifnv|2|nraw|Rebase your branch. Merge into main. 
+250|nhdejat|2|dannuic|Once you go to a PR/MR, you need to merge and not rebase (with a force push) in order to not lose comments on the actual
+251|nhdgj0b|1|AttentionSuspension|Valid point, I will check it with Bitbucket, if the comments stay after rebase
+252|nhdhw0h|1|AttentionSuspension|I checked it and the comments stay in Bitbucket after rebase onto main. I believe comments are tied to files and not to 
+253|nhds05c|1|dannuic|I don't work with bitbucket, but this happens on both GitHub and gitlab -- comments are tied to files _and_ commits in b
+254|nhdt5y0|2|MisterSincere|I was soooo surprised and disgusted when I learned you need to do a force push after a rebase. I agree rebase in theory 
+255|nhdtftq|1|AttentionSuspension|Agree, force with lease is the only way to go!
+256|nhhk303|2|SuperAdminIsTraitor|I disagree.  You do not want to mess with the git history of your project as a disciplined developer. A git history give
+257|nhi7ygs|1|AttentionSuspension|We manipulate the history anyway if we do git merge squash, so real history has less importance than the intentional his
+258|nhkdgmy|2|SuperAdminIsTraitor|As I said — until you (and your team) are on the same page with it.
+259|nhimz0w|2|Medical_Amount3007|And then we have swaths of teams rebasing for their life. Never a merge in sight and their stories tells of holes and we
+260|nhlvehe|2|Intelligent-Chain423|Merges are simpler, to add to what others have said. If you are far behind in commits you can do a merge to solve the co
+261|nhrf3wc|1|AttentionSuspension|Agree! However the git merge --squash is not actually a merge, it is a rebase (with squash). You can check it by looking
+262|nhofu5o|2|someouterboy|They are 2 different things with their own usecases, wtf are you talking about?  I dont say that i prefer drinking over 
+263|nhrgj6g|1|AttentionSuspension|I am provoking a discussion, however if you do a git merge --squash, you don't really do merge, you do rebase. So most p
+264|nhomo6i|2|Kjoep|In my team we never merge. We're strictly rebase only.   I've never worked in a team that uses merging (except in the ol
+265|nhrhfpy|1|AttentionSuspension|Nice workflow, welcome to the Rebase Team!
+266|nhoyz2w|2|Tango1777|It's not better or worse, but merge is the standard way that covers 99,9% needs. Rebase always has those fanatics behind
+267|nhrj07g|1|AttentionSuspension|Thank you for the answer. Yes, I am provoking a discussion without giving much of a context, agree.  I want to bring the
+268|nhr5f58|2|grosser_zampano|as usual: it depends. both approaches are valid tools in the toolbox. like in most cases. clickbait titles, like „i disc
+269|nhx3dnb|1|AttentionSuspension|Good point, thank you.
+270|nhtabso|2|Specialist_Guava_416|agree
+271|nimpwqk|2|Few_Personality1741|git fetch, git merge|rebase > git pull
+272|nh16n9i|2|efalk|There are dangers to rebase. My notes on the subject: https://www.efalk.org/Docs/Git/merging.html#Rebase-considered-harm
+273|nh1su3j|3|Conscious_Support176|This just isn’t true. It’s also poor advice in terms of “if it can be done cleanly”.  What rebase gives you is the oppor
+274|nh1lke0|4|malcolm-maya|If you broke something during a rebase then you can recover the commits with the reflog
+275|nh2v65w|1|efalk|I know; I've had to use reflog a time or three in my life (not for rebase mistakes, but other things.) But deliberately 
+276|nh2q1rg|4|universaluniqueid|Fixing conflicts multiple times for every commit is ridiculous, and the need for a tidier git history has never been nee
+277|nh1gdap|2|mfontani|I use(d to use) only:  - rebase on topic branches to keep them updated with the upstream, pushing as required - all comm
+278|nh1gvnt|0|AttentionSuspension|Nice workflow! We do almost the same, except we squash before merging and then merge ff, so every commit is a closed PR
+279|nh534zk|1|mfontani|Squashing before merge has never felt right to me, as it hides potentially useful implementation details, and (specifica
+280|nh17y0n|1|TrickTimely3242|Did you try Gerrit which proposes a flow which works with rebases?
+281|nh19o31|1|Tsiangkun|I’m so verbose, but it’s basically free and the merge summarizes the work done into yet another message.    I’m rebase c
+282|nh1aid4|1|Tsiangkun|I think rebase just replays all the changes from a commit and squashes the work to be cleaner looking for the team.   It
+283|nh1ag2v|1|giminik|Use merge to semantically display a feature branch. Rebase locally to reorder or cut commits before pushing.  There is a
+284|nh21gf4|1|OrcaFlux|Nah... monorepo, single branch, pull before merge, done.
+285|nh21k89|1|AttentionSuspension|Hardcore 🤘
+286|nh2wrpi|1|trimorphic|How does this affect `git bisect`?
+287|nh54gpv|1|AttentionSuspension|With the linear history git bisect works like a charm!
+288|nh497zu|1|jirka642|Yes, but just be aware that rebase changes the commit hashes, which can lead to duplicated commits if they are also in a
+289|nh56422|1|AttentionSuspension|Yes, rebase changes the hashes of commits, but not the content. But if you do rebase in not shared branches (no one pull
+290|nh49nc9|1|clinnkkk_|I rebase dev my branch, merge onto the prod branch.
+291|nhb4xce|1|frisedel|Why the obsession with linear history? My graphs are living, you can follow the development.
+292|nhbxk9a|1|AttentionSuspension|Easier to revert? (reverting a merge commit is super tricky)  Easier to search? (bisect)  Easier to see log and diffs an
+293|nhcaqj1|2|frisedel|Diffs are still easy, just take 2 sha and go. Reverting, well yeah maybe.. Search is also super easy I feel but I don't 
+294|nhbd8uc|1|TheExodu5|Merge main into feature branch. Squash merge feature branch into main. Safe. Clean.   Rebase is useful if you care about
+295|nhbyg96|1|AttentionSuspension|Yep, agree. Squash is a subset of Rebase, that is why I brought this point -> rebase should not be feared but beloved 🤗
+296|nhcxtoh|1|AmphibianFrog|Personally I never rebase. I just prefer to not use commands that rewrite the history and I don't care about the history
+297|nhdeota|1|AttentionSuspension|Do you use squash? Or git merge --squash? Do you use amend? Do you use git reset --hard? Those commands rewrite history 
+298|nhdfe94|2|AmphibianFrog|Very rarely to be honest.  I occasionally use commit --amend, but only straight away after I committed if I forgot somet
+299|nhdfynm|1|AttentionSuspension|Valid point, thank you for sharing 🤗
+300|nhfft1x|1|sobservation|Yes. It's called a git tree, not a git skyscraper.
+301|nhhzewh|1|armujahid|Normal merge is the default merge strategy for multiple reasons. All other merge strategies have special use cases.
+302|nhi895z|1|AttentionSuspension|Git has some defaults that are considered now obsolete. Git supports multiple styles of the workflow and is a tool, it i
+303|nhiep7f|1|armujahid|Default merge is always the way to go, even today, if you aren't sure. Other merge methods can be carefully considered o
+304|nhin4wm|1|Medical_Amount3007|Another way of looking at this is history is rewritten with every new leader, then we have historians to capture the tru
+305|nhmvwox|1|samettinho|just \`squash and merge\`
+306|nhrfh99|1|AttentionSuspension|yep. But! Squash and merge is ACTUALLY a squash and rebase. You can see it in the log, there is no merge commit. So basi
+307|nhn8jcr|1|DoctorOriginal7309|not if ur working with >5 ppl lol
+308|nhnffqq|1|itsdarkcloudtv|Rebase and squash before merging to master is a hard requirement. Squash usually through gitlab/GitHub is fine manual is
+309|nhrfvhk|1|AttentionSuspension|Yep, merge --squash is the way to go. But under the hood it is rebase and squash, not merge, so again, rebase is better 
+310|nhohkku|1|abundant_singularity|In terms of using AI tools, what is better when asking the LLM to look back at changes in commits to determine what caus
+311|nhohox6|1|PrestigiousAnt3766|I hate rebasing. I always get conflicts.
+312|nhrhap7|1|AttentionSuspension|You will get the same conflicts if you try merging as well, no?
+313|nhruvod|1|PrestigiousAnt3766|I find those easier to resolve, but that may be related to how vscode does it for each commit.
+314|nhowopd|1|mmcnl|Squash your commits when merging a PR. Then you don't need to worry about rebasing or merging at all.
+315|nhrhsxk|1|AttentionSuspension|Agree.  But! git merge --squash is not a real merge, it is actually a squash and rebase. That means you do use rebasing 
+316|nhri20w|1|mmcnl|Yes true, but GitHub calls it merge.
+317|nhp8znp|1|Rguttersohn|I don’t get the debate on this. I use them for two different things.
+318|nhr1ddy|1|kiwi-kaiser|No. It depends on the case and sometimes merge is better, sometimes rebase and sometimes squash. There's a reason that e
+319|ouxn089|1|michaelobriena|A developer should only ever rebase.  When you click the "add this code to the project button", it should be a merge com
+320|nh17p7t|1|RedEyed__|I never use rebase, instead I use squash merge to merge feature into main.    Regarding local branches, also don't use r
+321|nh2876j|2|immediacyofjoy|How is squash merge different than squashing commits during an interactive rebase? Does it not rewrite history?
+322|nh2jljn|0|RedEyed__|`git merge feature --squash` unites all commits in `feature` into one commit, it makes `feature` to be a single commit i
+323|nh2ot95|-1|wildjokers|> Does it not rewrite history?  `git squash --merge` doesn't rewrite history like rebase does. The original history stil
+324|nh3irs0|1|EishLekker|But in most projects I’ve worked with we delete old feature branches. Then that history would be deleted to.  My philoso
+325|nh3t2uj|1|wildjokers|All branches can always be undeleted. Also, no one needs to see my WIP commits on my feature branch. They are unimportan
+326|nh4xhhg|1|RedEyed__|If you work in GitHub, every "deleted" branch can be easily restored.   Also, no one needs intermediate wip commits in h
+327|nh50m98|1|indeox|If a comment for a change is *that* important, then it goes directly in the source, next to the code in question, refere
+328|nhddpqu|1|elephantdingo|> Git history isn’t meant to be pretty. It’s a raw log of everything done.  The Git project disagrees.  >  It’s like a t
+329|nh11ipj|1|Icy_Physics51|Y
+330|nh15jmg|1|dbear496|I wish more people knew about number 1. It's soooo annoying to find someone's local changes are now the first-parent.
+331|nh1fkdz|1|AttentionSuspension|AGREE!
+332|nh165a2|1|divad1196|Neither are betters, they are different. What you say here just show that you don't actually know their differences.
+333|nh1kj4q|0|AttentionSuspension|Maybe I don’t know, so that why I ask community 😎
+334|nh4vwax|1|divad1196|No, you make a statement "rebase ia better". You then give argument which are bad and conclude by asking other people wh
+335|nh3pz7g|1|senfiaj|Every time I read about other commands not listed in `pull`, `push`, `commit`, `merge`, `checkout`, `branch`, `status`, 
+336|nh3tjbe|1|gororuns|Rebase loses information - someone else can checkout your branch, rebase the commits, and end up with a completely diffe
+337|nh556n0|1|AttentionSuspension|Yep, that is my point is well. Do not rebase a shared branch! Agree with squash merge, to me squash is a subset of rebas
+338|nh14fvn|0|mgruner|My most valid reason to prefer rebase over merge are Pull Requests. If you do merge, the PR won't review the merge confl
+339|nh2r4zu|1|wildjokers|Huh?
+340|nh3ikjg|1|mgruner|I notice my comment is not being understood. May I know what is not clear so I can elaborate?
+341|nh3tood|1|wildjokers|What do you mean that rebase includes conflict resolution?
+342|nh4ky5i|1|mgruner|when you rebase to the latest head you need to resolve any existing conflicts, the same as you would with merge. The dif
+343|nh6gai6|1|wildjokers|If there are conflicts during a merge git will pre-populate the commit comment with the files that had conflicts. Is tha
+344|nh189lt|1|Drugbird|What? The merge commit has the merge conflict resolutions?
+345|nh19x7c|1|mgruner|you only merge after the PR was approved
+346|nh1h2nj|3|Drugbird|You can't merge without resolving conflicts? And no PR tool I know supports PRs between conflicting branches.
+347|nh3if9i|1|mgruner|I know, but the conflict resolution changes won't be reviewed by the reviewer. They will if you do rebase.
+348|nh55gjt|1|Drugbird|The conflict resolution is part of the PR when merging and shows up as normal in any PR tool I've ever used (i.e. GitHub
+349|nh9lr3x|1|mgruner|Im talking github and gitlab yes. How can the reviewer see the conflict resolution if that happens only during the merge
+350|nhbf5kd|1|Drugbird|1. Create branch 2. Work in branch 3. Merge main into branch 4. Fix any merge conflicts 5. Commit and push branch, inclu
+351|nh130c5|-1|darkest_ruby|100%
+352|nh1ak9k|-1|endymion1818-1819|Yes! I’ll take rebase any day. Trying to convince my team however …
+353|nh1bd8i|0|AttentionSuspension|Good luck! Welcome to rebase team :)
+354|nh3i0cn|0|Comprehensive-Pea812|no.   only do rebase on personal branch such as feature or if you are crazy about history.   it do more harm than benefi
+355|nh6ugb8|0|baicoi66|Why this post has do many ups when rebase in main is a no no
+356|nh761lb|1|AttentionSuspension|It is no no. We are talking about rebase ONTO main :)
+357|nh771dn|1|baicoi66|Uh oh thats bad.  This is how it should be:  	•	Use merge on shared branches (used by multiple teammates). 	•	Use rebase
+358|nh7aeow|1|AttentionSuspension|I am saying the same thing. Do not rebase a shared branch. But rebase your private branch on top of a shared branch befo
+359|nh7q13g|1|xenomachina|    >Not a single one of them offered an explanation as to why each step of the work should be enshrined in its own comm
+360|ni93k4r|1|lottspot|I didn't miss it, it's just simply not a value proposition. The reason it is not a value proposition is because it's abs
+361|nhi4fjb|1|goranlepuz|>Suppose you're going to reorganize a bunch of code. This will often be done in two separate commits:   >1. Move the cod
+362|ni8wu8p|1|lottspot|> my reasons why this is right are more important to me, than yours.  This is totally fine if the only person who will i
