@@ -2,13 +2,13 @@
 
 ## Overview
 
-This book teaches that true prosperity is an inward realization rather than an outward acquisition. Through disciplined thought, self-examination, and alignment with universal law, readers learn to transform undesirable conditions into lasting peace, health, success, and happiness. It exists to guide individuals from dependence on external circumstances to mastery of their own mental and spiritual states.
+This book teaches that **lasting** prosperity is best understood as an inward realization rather than an outward acquisition. Through disciplined thought, self-examination, and alignment with universal moral and mental laws (see Glossary: Divine Law), readers learn to transform undesirable conditions into lasting peace, health, success, and happiness. It exists to guide individuals from dependence on external circumstances to mastery of their own mental and spiritual states.
 
 ## When to Follow Book Teachings
 
-- When you need to overcome poverty, limitation, or undesirable circumstances through inner transformation rather than external striving
-- When working with mental discipline, thought-control, and the law of cause and effect to shape your life
-- When the user asks about achieving lasting happiness, health, success, or power through character development and spiritual understanding
+- When you need to overcome poverty, limitation, or undesirable circumstances through inner transformation—disciplined thought, self-examination, and character development—rather than external striving
+- When working with mental discipline, thought-control, and the law of cause and effect (see Glossary: Law of Cause and Effect) to shape your life
+- When the user asks about achieving lasting happiness, health, success, or power **as defined within this tradition** through character development and spiritual understanding
 
 ## Lessons From Book
 
@@ -18,15 +18,15 @@ This book teaches that true prosperity is an inward realization rather than an o
 
 ##### Example 1: The Student of Suffering
 
-A person experiencing repeated setbacks in relationships pauses to examine the pattern rather than blaming others. By journaling each disappointment and identifying the common thread of their own expectations, they discover that their unhappiness stems from demanding specific behaviors from others rather than accepting people as they are.
+A person experiencing three or more relationship setbacks pauses to examine the pattern rather than blaming others. By journaling each disappointment and identifying the common thread of their own expectations, they discover that their unhappiness stems from demanding specific behaviors from others rather than accepting people as they are.
 
 ##### Example 2: The Seeker of Distractions
 
-An individual who chases wealth, status, and sensory pleasure as an escape from inner emptiness finds that each achievement only temporarily masks the underlying discontent. Upon stopping to ask "what is the real cause of my restlessness?" they begin the process of self-examination that leads to genuine understanding.
+An individual who chases wealth, status, and sensory pleasure as an escape from inner emptiness finds that each achievement often only temporarily masks the underlying discontent. Upon stopping to ask "what is the real cause of my restlessness?" they begin the process of self-examination that leads to genuine understanding.
 
 #### Step 1: Recognize That Evil, Pain, and Sorrow Are Universal Experiences
 
-Stop viewing suffering as a unique misfortune affecting only you. Acknowledge that pain is a universal aspect of human existence that affects all people regardless of status, wealth, or position.
+Stop viewing suffering as a unique misfortune affecting only you. Acknowledge that pain is taught to be a universal aspect of human existence that affects all people regardless of status, wealth, or position.
 
 #### Step 2: Stop Attempting to Escape Discomfort Through Distractions
 
@@ -34,7 +34,7 @@ Identify the ways you avoid facing discomfort—whether through sensual excess, 
 
 #### Step 3: Commit to Getting Outside Yourself to Examine Your Thoughts Objectively
 
-Develop the habit of observing your own thoughts, emotions, and circumstances as if from the outside. This objective self-examination is the foundation of all true understanding.
+Develop the habit of observing your own thoughts, emotions, and circumstances as if from the outside. This practice of observing one's thoughts from a neutral, detached perspective is the foundation of all true understanding.
 
 #### Step 4: Identify Specific Evils and Trace Them to Their Origins
 
@@ -42,12 +42,12 @@ Rather than treating pains as random misfortunes, trace each difficulty to its o
 
 #### Step 5: Apply the Lesson Learned to Future Situations
 
-Once understanding is achieved, use that knowledge to transform future difficulties. Build a "master hand" in weaving the fabric of your destiny by applying each conquered evil as a building block for greater wisdom.
+Once understanding is achieved, use that knowledge to transform future difficulties. Apply each lesson as a building block for greater wisdom in future decisions.
 
 #### Best Practices
 
 - ✅ Approach self-examination with humility and patience, treating yourself as a student in the school of experience
-- ✅ View every painful experience as potential curriculum for your own growth
+- ✅ View each painful experience as potential curriculum for your own growth
 - ✅ Keep a journal of recurring difficulties to identify patterns and underlying causes
 - ❌ Don't rely on prayer or ritual alone without personal understanding
 - ❌ Don't chase external distractions as permanent escapes from suffering
@@ -55,23 +55,23 @@ Once understanding is achieved, use that knowledge to transform future difficult
 
 #### Keep In Mind
 
-- Evil is not an external force acting upon you; it is rooted in ignorance and lack of understanding of the true nature of things.
-- The disciplinary process is unavoidable—no wisdom can be secured without undergoing necessary trials.
+- This teaching holds that evil is not an external force but is rooted in ignorance.
+- The disciplinary process is taught to be unavoidable—no wisdom can be secured without undergoing necessary trials.
 - First endure, then understand—these are sequential steps, not simultaneous ones.
 
 #### Security & Safety Notes
 
-- This practice of deep self-examination should be approached gradually. If you find yourself overwhelmed by painful memories or emotions, pause and seek supportive guidance rather than forcing the process.
+- This practice of deep self-examination should be approached gradually. If you find yourself unable to function due to painful memories or emotions, pause and seek supportive guidance rather than forcing the process.
 - Do not use the identification of others' selfishness as a weapon; use it only as a mirror for your own growth.
 
 #### Common Pitfalls
 
 - **Problem:** Believing evil is an external force acting upon you
-  **Solution:** Recognize that all evil stems from ignorance within; external circumstances are mirrors of internal states.
+  **Solution:** Recognize that all evil as understood in this teaching stems from ignorance within; external circumstances are mirrors of internal states.
 - **Problem:** Remaining in evil because you are unwilling to learn its lesson
-  **Solution:** Accept that suffering is the great teacher; refuse to learn and you remain in darkness.
+  **Solution:** Refusing to learn from suffering results in repeated cycles of difficulty.
 - **Problem:** Assuming some suffering is senseless or arbitrary rather than instructive
-  **Solution:** Treat every misfortune as a diagnostic signal pointing to an area of ignorance waiting to be dispelled.
+  **Solution:** every misfortune can reveal an area where your understanding is incomplete.
 
 ---
 
@@ -81,19 +81,19 @@ Once understanding is achieved, use that knowledge to transform future difficult
 
 ##### Example 1: The Angry Executive
 
-A manager who repeatedly erupts in anger at team members believes his outbursts are justified by others' incompetence. Through self-examination, he realizes his anger stems from his own fear of losing control and his ignorance of alternative leadership styles. By replacing ignorance with knowledge, the anger dissipates.
+A manager who on three or more occasions erupts in anger at team members believes his outbursts are justified by others' incompetence. Through self-examination, he realizes his anger stems from his own fear of losing control and his ignorance of alternative leadership styles. By replacing ignorance with knowledge, the anger dissipates.
 
 ##### Example 2: The Financially Anxious Individual
 
-Someone who constantly worries about money despite having enough for basic needs traces their anxiety to a childhood experience of scarcity. Understanding that the present circumstance is different from the past, and that their fear is rooted in outdated mental patterns, allows them to replace anxiety with informed financial planning.
+Someone who worries about money daily for more than six months despite having income that covers housing, food, utilities, and healthcare traces their anxiety to a childhood experience of scarcity. Understanding that the present circumstance is different from the past, and that their fear is rooted in mental patterns formed in childhood that no longer fit current circumstances, allows them to replace anxiety with informed financial planning.
 
-#### Step 1: Accept That All Evil Stems From Lack of Understanding
+#### Step 1: Accept That All Evil (As Understood in This Teaching) Stems From Lack of Understanding
 
-Make the foundational commitment that every pain, sorrow, and misfortune in your life originates from a lack of understanding of the true nature of things. This is not self-blame but self-empowerment, because ignorance can be corrected.
+Make the foundational commitment that In this teaching, every pain, sorrow, and misfortune is understood to originate from a lack of understanding of the true nature of things. This is not self-blame but self-empowerment, because ignorance can be corrected.
 
 #### Step 2: When Faced With Adversity, Ask What Ignorance It Reveals
 
-Instead of asking "why me?" ask "what am I not seeing?" Adversity is evidence of some hidden ignorance waiting to be dispelled. Treat each painful event as a diagnostic signal.
+Instead of asking "why me?" ask "what am I not seeing?" Adversity can be evidence of hidden ignorance waiting to be dispelled. Treat each painful event as a diagnostic signal.
 
 #### Step 3: Study the Nature of Your Desires and Attachments
 
@@ -101,11 +101,11 @@ Examine what you are striving after without true understanding. Identify attachm
 
 #### Step 4: Treat Each Painful Event as Evidence of Hidden Ignorance
 
-Rather than resisting or resenting suffering, welcome it as a teacher. Each painful experience points directly to an area where your understanding is incomplete.
+Rather than resisting or resenting suffering, welcome it as a teacher. Each painful experience may reveal an area where your understanding is incomplete.
 
 #### Step 5: Commit to Replacing Ignorance With Knowledge
 
-Replace ignorance with knowledge through disciplined self-study, reflection, and the application of universal laws to your daily life. Understand that wisdom is not given—it is earned through the disciplinary process of suffering.
+Replace ignorance with knowledge through disciplined self-study, reflection, and the application of universal laws (see Glossary: Divine Law) to your daily life. Understand that wisdom is not given—it is earned through the disciplinary process of suffering.
 
 #### Best Practices
 
@@ -118,19 +118,19 @@ Replace ignorance with knowledge through disciplined self-study, reflection, and
 
 #### Keep In Mind
 
-- Ignorance is the root cause of all evil; it is lack of knowledge of the true nature and relation of things.
+- Ignorance is taught to be the root cause of all evil; it is lack of knowledge of the true nature and relation of things.
 - Wisdom is the state that replaces ignorance once the lessons of evil are fully learned.
-- The disciplinary process is the unavoidable learning that occurs through suffering; no wisdom can be secured without it.
+- In this tradition, the disciplinary process is understood as the unavoidable learning that occurs through suffering; no wisdom can be secured without it.
 
 #### Security & Safety Notes
 
 - This teaching is about personal responsibility, not about blaming victims. Do not apply this understanding to judge others who are suffering; use it only for your own transformation.
-- If you are in an abusive situation, this teaching does not require you to endure harm. Understanding the root of a problem is distinct from tolerating danger.
+- If you are in a situation involving physical violence, threats, or severe emotional abuse, this teaching does not require you to endure harm. Understanding the root of a problem is distinct from tolerating danger.
 
 #### Common Pitfalls
 
 - **Problem:** Believing evil is an external force acting upon you
-  **Solution:** Recognize that all evil stems from ignorance within; external circumstances are mirrors of internal states.
+  **Solution:** Recognize that all evil as understood in this teaching stems from ignorance within; external circumstances are mirrors of internal states.
 - **Problem:** Remaining in evil because you are unwilling to learn its lesson
   **Solution:** Accept that suffering is the great teacher; refuse to learn and you remain in darkness.
 - **Problem:** Assuming some suffering is senseless or arbitrary rather than instructive
@@ -144,7 +144,7 @@ Replace ignorance with knowledge through disciplined self-study, reflection, and
 
 ##### Example 1: The Business Failure
 
-An entrepreneur whose business fails interprets the event as a devastating loss. Through right understanding, they see that the failure revealed flaws in their business model and work habits. They transmute the "evil" of failure into the "good" of a more successful second venture built on hard-won knowledge.
+An entrepreneur whose business fails interprets the event as a devastating loss. Through right understanding, they see that the failure revealed flaws such as over-reliance on a single client or poor time management. They transmute the "evil" of failure into the "good" of a more successful second venture built on hard-won knowledge.
 
 ##### Example 2: The Chronic Illness
 
@@ -152,11 +152,11 @@ A person diagnosed with a chronic illness initially sees only suffering. Through
 
 #### Step 1: Develop the Realization of Undeviating Law
 
-Come to understand that your pains, sorrows, and misfortunes have come by "undeviating and absolutely perfect law." This is not fatalism but the recognition that there is order and purpose in all experience.
+Come to understand that your pains, sorrows, and misfortunes have come by a law understood to be undeviating and perfectly just. This is not fatalism but the recognition that there is order and purpose in all experience.
 
 #### Step 2: Endure Difficulties Without Resentment
 
-Endure your difficulties knowing they are deserved and required for your growth. Resentment only adds a second layer of suffering on top of the first. Endure with the knowledge that the trial serves a higher purpose.
+Endure your difficulties knowing they can be understood as deserved and required for your growth. Resentment only adds a second layer of suffering on top of the first. Endure with the knowledge that the trial serves a higher purpose.
 
 #### Step 3: Strive to Understand Each Evil Fully
 
@@ -168,7 +168,7 @@ Once understanding is achieved, use that knowledge to actively mold your circums
 
 #### Step 5: Apply the Lesson to Future Situations
 
-Build a "master hand" in weaving the fabric of your destiny by applying each conquered evil as a building block for greater wisdom. Each transmuted evil makes you more capable of handling future challenges.
+Apply each conquered evil as a building block for greater wisdom in future decisions. Each transmuted evil makes you more capable of handling future challenges.
 
 #### Best Practices
 
@@ -182,7 +182,7 @@ Build a "master hand" in weaving the fabric of your destiny by applying each con
 #### Keep In Mind
 
 - Transmutation is the process of converting evil into good through right understanding and application.
-- Perfect law is the moral and causal principle by which all suffering is delivered exactly as deserved and required.
+- Perfect law is the moral and causal principle by which suffering is delivered as deserved and required for those who have learned to perceive it.
 - The fabric of destiny is the life one consciously constructs through applied wisdom.
 
 #### Security & Safety Notes
@@ -219,7 +219,7 @@ Understand that darkness (evil, sorrow, ignorance) is not a positive force but a
 
 #### Step 2: Identify the Walls You Have Built Around Yourself
 
-Conduct a ruthless inventory of the barriers you have constructed: prejudice, self-seeking, error, fear, pride, and the many ways you have shut out truth and love. These walls were built for protection but now imprison you.
+Conduct a ruthless inventory of the barriers you have constructed: prejudice (preconceived opinions not based on reason or experience), self-seeking (prioritizing one's own interests above all others), error (mistaken beliefs or judgments), fear, pride, and the various ways you have shut out truth and love. These walls were built for protection but now imprison you.
 
 #### Step 3: Actively Work to Dismantle These Barriers
 
@@ -231,7 +231,7 @@ Recognize that the "light of Truth" is omnipresent and already available. Darkne
 
 #### Step 5: Pull Down Your Self-Built Barriers Deliberately and Persistently
 
-Make the removal of barriers a daily practice. Each time you notice prejudice, self-seeking, or error arising, consciously choose to set it aside and let in the "glorious and omnipresent Light."
+Make the removal of barriers a daily practice. Each time you notice prejudice, self-seeking, or error arising, consciously choose to set it aside and let in the "Light" understood here as truth, goodness, and understanding (see Glossary: Light).
 
 #### Best Practices
 
@@ -244,14 +244,14 @@ Make the removal of barriers a daily practice. Each time you notice prejudice, s
 
 #### Keep In Mind
 
-- Light is the Supreme Good; the positive, life-giving power that floods the universe.
+- In this tradition, Light is understood as the Supreme Good; the positive, life-giving power that floods the universe.
 - Shadow is evil, pain, and darkness as negative and unreal—an absence rather than a presence.
-- Prejudice, self-seeking, and error are the three primary walls individuals build to shut out truth.
+- Prejudice, self-seeking, and error are three primary walls among many that individuals build to shut out truth.
 
 #### Security & Safety Notes
 
 - This process of dismantling inner barriers should be approached with self-compassion. You are not destroying yourself; you are removing what obscures your true nature.
-- If you find yourself in a genuinely harmful external environment, removing inner barriers may involve taking action to change your circumstances, not merely changing your perception.
+- If you find yourself in one involving physical danger, severe emotional abuse, or systemic oppression, removing inner barriers may involve taking action to change your circumstances, not merely changing your perception.
 
 #### Common Pitfalls
 
@@ -270,15 +270,15 @@ Make the removal of barriers a daily practice. Each time you notice prejudice, s
 
 ##### Example 1: The Apprentice
 
-A young person learning a skilled trade faces grueling hours, repetitive tasks, and demanding instructors. Rather than quitting at the first sign of difficulty, they commit to the full apprenticeship. Years later, they possess a mastery that allows them to command respect, earn well, and contribute meaningfully—fruits that would have been impossible without enduring the disciplinary process.
+A young person learning a skilled trade faces long hours, repetitive tasks, and high expectations from instructors. Rather than quitting at the first sign of difficulty, they commit to the full apprenticeship. Years later, they possess a mastery that allows them to command respect, earn well, and contribute meaningfully—fruits that would have been impossible without enduring the disciplinary process.
 
 ##### Example 2: The Spiritual Seeker
 
-Someone who begins a meditation practice finds it boring and frustrating at first. They are tempted to quit and return to more stimulating distractions. By persisting through the initial difficulties, they eventually develop a capacity for inner peace that transforms every aspect of their life.
+Someone who begins a meditation practice finds it boring and frustrating for the first three to six months. They are tempted to quit and return to more stimulating distractions. By persisting through the initial difficulties, they eventually develop a capacity for inner peace that transforms every aspect of their life.
 
-#### Step 1: Acknowledge That No Wisdom Can Be Secured Without Discipline
+#### Step 1: Acknowledge That No Wisdom Can Be Secured Without Discipline (In This Teaching)
 
-Make the foundational recognition that no grain of wisdom or abiding happiness can be secured without undergoing a disciplinary process. This is not a punishment but a natural law of growth.
+Make the foundational recognition that In this teaching, no grain of wisdom or abiding happiness can be secured without undergoing a disciplinary process. This is not a punishment but a natural law of growth.
 
 #### Step 2: Resolve to Be Willing and Ready to Learn
 
@@ -286,7 +286,7 @@ Before difficulties arise, make a conscious commitment to be "willing and ready 
 
 #### Step 3: Do Not Refuse the Lessons of Experience
 
-When difficulties arise, do not refuse the lessons they offer. Doing so results in "continual darkness" and "continually recurring punishments." The lesson will return in increasingly forceful ways until it is learned.
+When difficulties arise, do not refuse the lessons they offer. Doing so results in repeated cycles of the same difficulty. The lesson will return in increasingly forceful ways until it is learned.
 
 #### Step 4: Accept That Passing Through Darkness Is Necessary
 
@@ -294,7 +294,7 @@ Accept that passing through darkness is necessary to fully appreciate light and 
 
 #### Step 5: Continue the Process Even When It Is Difficult
 
-Persist even when the process becomes painful or seems endless. The alternative is perpetual suffering. Each completed trial brings you closer to wisdom and lasting happiness.
+Persist even when the process becomes painful beyond your current capacity or seeming to have no foreseeable end. The alternative is perpetual suffering. Each completed trial brings you closer to wisdom and lasting happiness.
 
 #### Best Practices
 
@@ -308,7 +308,7 @@ Persist even when the process becomes painful or seems endless. The alternative 
 #### Keep In Mind
 
 - The disciplinary process is the required learning experience through suffering; it is the prerequisite to wisdom and happiness.
-- Continual darkness is the state of those who refuse to learn from experience; it is characterized by recurring disease, disappointment, and sorrow.
+- In this tradition, it is understood as characterized by recurring disappointment and sorrow.
 - The school of experience is life itself as an educational institution where every event is a lesson.
 
 #### Security & Safety Notes
@@ -335,23 +335,23 @@ Persist even when the process becomes painful or seems endless. The alternative 
 
 ##### Example 1: The Changed Thinker
 
-A person who has spent years in negative thinking patterns—expecting failure, seeing enemies everywhere, feeling impoverished—begins a practice of consciously cultivating thoughts of joy, serenity, strength, and love. Over time, their external circumstances begin to shift: relationships improve, opportunities appear, and a sense of abundance replaces scarcity.
+A person who has spent years in negative thinking patterns—expecting failure, seeing enemies everywhere, feeling impoverished—begins a practice of consciously cultivating thoughts of joy, serenity, strength, and love. After six months of daily practice, their external circumstances often begin to shift in small ways: relationships improve, opportunities appear, and a sense of abundance replaces scarcity.
 
 ##### Example 2: The Two Workers
 
 Two employees face the same demanding boss. One interprets the boss's stern demeanor as personal persecution and becomes bitter and ineffective. The other interprets it as a challenge to develop patience and professionalism, and eventually earns promotion. The same circumstance produces opposite results based on internal mental states.
 
-#### Step 1: Recognize That Everything Is a Reflection of Your Inward Experience
+#### Step 1: Recognize That Everything Is a Reflection of Your Inward Experience (In This Teaching)
 
-Understand that everything in your universe is a reflection of your own inward experience. What matters is not external circumstances, but what you are within. All knowledge must pass through the gateway of personal experience.
+Understand that In this teaching, everything in your experience is understood to reflect your own inward experience. What matters is not external circumstances, but what you are within. All knowledge must pass through the gateway of personal experience.
 
 #### Step 2: Build Within by the Power of Thought
 
-Consciously build your inner world by the power of thought. As you purify and elevate your thoughts, observe how outward life and circumstances reshape themselves accordingly. Monitor what you harbor in the inmost chambers of your heart.
+Consciously build your inner world by the power of thought. As you purify and elevate your thoughts (see Glossary: Mental Drapery), observe how outward life and circumstances reshape themselves accordingly. Monitor what you harbor in the inmost chambers of your heart.
 
 #### Step 3: Consciously Choose Thoughts of Joy, Serenity, and Strength
 
-Make a deliberate practice of choosing thoughts of joy, serenity, strength, life, compassion, love, beauty, and immortality. These thoughts become the building blocks of your external reality.
+Make a deliberate practice of choosing thoughts of joy, serenity, strength, life, compassion, love, beauty, and immortality—understood here as the eternal aspect of consciousness (see Glossary: Divine Within). These thoughts become the building blocks of your external reality.
 
 #### Step 4: Regularly Audit Your Inner Thought-Life
 
@@ -359,7 +359,7 @@ Establish a regular practice of examining your thoughts to ensure they align wit
 
 #### Step 5: Understand That Like Attracts Like in the Thought-World
 
-Recognize that you will come into contact with people and circumstances similar to yourself. If you wish for kindness, be kind. If you ask for truth, be true. What you give of yourself, you will find reflected in your world.
+Recognize that you may find that you come into contact with people and circumstances similar to yourself. If you wish for kindness, be kind. If you ask for truth, be true. What you give of yourself, you will find reflected in your world.
 
 #### Best Practices
 
@@ -373,18 +373,18 @@ Recognize that you will come into contact with people and circumstances similar 
 #### Keep In Mind
 
 - Mental states are the condition of one's consciousness, encompassing thoughts, desires, and aspirations.
-- The law of reaction is the principle that inner thoughts inevitably and precisely shape outward circumstances.
+- The law of reaction is the principle that inner thoughts tend to shape outward circumstances over time.
 - The inward temple is the soul or spiritual essence within a person, which must be purified and rebuilt.
 
 #### Security & Safety Notes
 
-- This teaching empowers personal responsibility but does not justify blaming victims of circumstance. External events have real impact; the teaching is about your power to respond, not about denying reality.
+- This teaching empowers personal responsibility but does not justify using this teaching to judge or condemn those who are suffering. External events have real impact; the teaching is about your power to respond, not about denying reality.
 - If you are in a genuinely harmful situation, use this understanding to strengthen your inner state while also taking practical steps to protect yourself.
 
 #### Common Pitfalls
 
 - **Problem:** Believing that outward things have independent power to make or mar your life
-  **Solution:** Recognize that external events derive their power from your interpretation of them. Change your mind, and the event loses its sting.
+  **Solution:** Recognize that external events often derive much of their emotional power from your interpretation of them. Change your mind, and the event loses its sting.
 - **Problem:** Submitting to circumstances and confessing yourself their slave
   **Solution:** Assert your sovereignty over your own mental responses. You are not a victim of circumstance; you are its master through right thinking.
 - **Problem:** Investing external events with power they do not inherently possess
@@ -398,19 +398,19 @@ Recognize that you will come into contact with people and circumstances similar 
 
 ##### Example 1: The Bereaved Parent
 
-A parent who loses a child faces the greatest conceivable adversity. Those who remain in perpetual mourning are consumed by the circumstance. Those who consciously reframe—honoring the loss while choosing to live with greater compassion and purpose—transform the tragedy into a catalyst for profound good.
+A parent who loses a child faces one of the most difficult adversities imaginable. Those who remain in perpetual mourning are consumed by the circumstance. Those who consciously reframe—honoring the loss while choosing to live with greater compassion and purpose—transform the tragedy into a catalyst for profound good.
 
 ##### Example 2: The Fired Employee
 
-An employee who is fired can interpret this as a devastating blow to their identity and future, spiraling into despair. Or they can reframe it as a forced opportunity to reassess their career path, leading eventually to more fulfilling work. The circumstance is identical; the mental response determines the outcome.
+An employee who is fired can interpret this as a significant setback to their sense of self and career prospects, spiraling into despair. Or they can reframe it as a forced opportunity to reassess their career path, leading eventually to more fulfilling work. The circumstance is identical; the mental response determines the outcome.
 
 #### Step 1: Pause Before Reacting to External Events
 
-When faced with adverse circumstances, do not immediately accept the initial emotional reaction. Create a space between the event and your response. In that space lies your freedom and power.
+When faced with adverse circumstances, do not immediately accept the initial emotional reaction. Create a space between the event and your response by pausing to take three deep breaths before responding. In that space lies your freedom and power.
 
 #### Step 2: Recognize That Circumstances Have No Inherent Power
 
-Understand that circumstances have no inherent power to bless or harm—the effect depends entirely on your mental response. A setback for one person is a stepping stone for another.
+Understand that circumstances have limited inherent power to bless or harm; their effect depends largely on your mental response. A setback for one person is a stepping stone for another.
 
 #### Step 3: Deliberately Clothe the Event With Constructive Thoughts
 
@@ -418,34 +418,34 @@ Deliberately clothe the event with thoughts of strength, hope, and renewed endea
 
 #### Step 4: Focus on Actionable Forward Motion
 
-Replace emotional mourning with actionable forward motion. Remind yourself: "trouble and worry won't bring it back, but hard work will." Channel the energy of the circumstance into constructive effort.
+Replace emotional mourning with actionable forward motion. Remind yourself: "trouble and worry won't bring it back, but constructive effort often brings healing." Channel the energy of the circumstance into constructive effort.
 
 #### Step 5: Practice Observing Different Responses to the Same Event
 
-Strengthen your understanding by observing how different people respond differently to identical circumstances. This proves to you that the circumstance itself is neutral; the mental response creates the meaning.
+Strengthen your understanding by observing how different people respond differently to identical circumstances. This demonstrates to you that the circumstance itself is often neutral; the mental response creates the meaning.
 
 #### Best Practices
 
 - ✅ Pause before reacting to choose your mental response deliberately
 - ✅ Use affirmations or deliberate mental reframing when facing loss or setback
 - ✅ Focus on actionable forward motion rather than emotional mourning
-- ❌ Don't remain the "sport and tool of adverse circumstances" by continuing to mourn and grumble
+- ❌ Don't remain the "victim of adverse circumstances" by continuing to mourn and grumble
 - ❌ Don't allow a single event to define your ongoing mental state
 - ❌ Don't mistake the circumstance itself for the cause of your suffering
 
 #### Keep In Mind
 
-- Circumstance is external events or conditions that are neutral in themselves and derive their meaning solely from mental interpretation.
+- Circumstance is external events or conditions that are often neutral in themselves and derive their meaning solely from mental interpretation.
 - The thought-sphere is the mental drapery or interpretation with which one clothes external happenings.
 
 #### Security & Safety Notes
 
-- Reframing is not denial. Acknowledge the reality of the situation while choosing your response. Toxic positivity—forcing a positive spin on genuine trauma—can be harmful.
-- If you are experiencing severe distress or trauma, seek professional support. This teaching complements but does not replace professional mental health care.
+- Reframing is not denial. Acknowledge the reality of the situation while choosing your response. Toxic positivity—the practice of denying or minimizing genuine pain by forcing a positive outlook—can be harmful.
+- If you are experiencing severe distress or trauma that interferes with daily functioning, seek professional support. This teaching complements but does not replace professional mental health care.
 
 #### Common Pitfalls
 
-- **Problem:** Remaining the "sport and tool of adverse circumstances" by continuing to mourn and grumble
+- **Problem:** Remaining the "victim of adverse circumstances" by continuing to mourn and grumble
   **Solution:** Recognize that continued negative response strengthens the circumstance's hold on you. Choose to reframe and act.
 - **Problem:** Allowing a single event to define your ongoing mental state
   **Solution:** See the event as a moment in time, not as the definition of your entire life. You are larger than any single circumstance.
@@ -460,7 +460,7 @@ Strengthen your understanding by observing how different people respond differen
 
 ##### Example 1: The Overwhelmed Manager
 
-A manager whose mind races with worries, to-do lists, and conflicts begins a daily practice of mental discipline: morning meditation, thought-selection throughout the day, and evening review. Over months, their mental clarity improves dramatically, and their effectiveness as a leader increases correspondingly.
+A manager whose mind races with worries, to-do lists, and conflicts begins a daily practice of mental discipline: morning meditation for 10–20 minutes, consciously selecting thoughts throughout the day, and a 5-minute evening review of mental patterns. Over months, their mental clarity improves dramatically, and their effectiveness as a leader increases correspondingly.
 
 ##### Example 2: The Recovering Addict
 
@@ -472,15 +472,15 @@ Make the deliberate decision to control your thoughts rather than being controll
 
 #### Step 2: Rebuild Your Inward Temple by Eliminating Useless Mental Material
 
-Identify and eliminate all useless and superfluous mental material: worries about the past, anxieties about the future, resentments, and random mental clutter. Your mind is a building; clear out the debris before adding new construction.
+Identify and eliminate all thoughts about past events you cannot change, future worries without actionable solutions, and resentments that serve no constructive purpose: worries about the past, anxieties about the future, resentments, and random mental clutter. Your mind is a building; clear out the debris before adding new construction.
 
 #### Step 3: Incorporate Only Elevating Thoughts
 
-Incorporate into your being only thoughts of: joy and serenity, strength and life, compassion and love, beauty and immortality. These become the building materials of your new inner world.
+Incorporate into your being only thoughts of: joy and serenity, strength and life, compassion and love. These become the building materials of your new inner world.
 
 #### Step 4: Monitor the Results of This Practice
 
-As you purify your thoughts, observe how you correspondingly become joyful and serene, strong and healthy, compassionate and loving, and beautiful with the beauty of immortality. The outer transformation follows the inner work.
+As you purify your thoughts, observe how you correspondingly become joyful and serene, strong and healthy, compassionate and loving, and at peace with a sense of lasting inner worth. The outer transformation follows the inner work.
 
 #### Step 5: Extend This Discipline to How You Perceive Events and Objects
 
@@ -490,7 +490,7 @@ Apply thought-discipline not only to your internal state but to how you clothe e
 
 - ✅ Establish a regular practice of mental purification and thought selection
 - ✅ Actively discard thoughts that do not serve your highest good
-- ✅ Cultivate a "mental diet" consisting exclusively of elevating thoughts
+- ✅ Cultivate a "mental diet" consisting exclusively of elevating thoughts (see text)
 - ❌ Don't attempt to change outer life without first addressing inner thought patterns
 - ❌ Don't allow the mind to remain undisciplined and susceptible to external sway
 - ❌ Don't expect immediate physical or material results without sustained mental discipline
@@ -503,8 +503,8 @@ Apply thought-discipline not only to your internal state but to how you clothe e
 
 #### Security & Safety Notes
 
-- Mental discipline is not about suppression or denial of legitimate emotions. It is about choosing which thoughts to empower and which to release. Healthy emotional processing and mental discipline work together.
-- If you experience persistent negative thoughts that feel uncontrollable, seek professional mental health support. This teaching complements but does not replace professional care.
+- Mental discipline is not about suppression or denial of legitimate emotions. It is about choosing which thoughts to empower and which to release. Healthy emotional processing such as grief, anger, or fear that is acknowledged rather than pushed down and mental discipline work together.
+- If you experience persistent negative thoughts persistent for more than two weeks and feeling uncontrollable despite deliberate effort, seek professional mental health support. This teaching complements but does not replace professional care.
 
 #### Common Pitfalls
 
@@ -523,27 +523,27 @@ Apply thought-discipline not only to your internal state but to how you clothe e
 
 ##### Example 1: The Kindness Magnet
 
-A person who consistently practices kindness finds that kindness flows back to them from unexpected directions: strangers help them, opportunities arise through others' goodwill, and a supportive community forms around them. They are not "lucky"; they are experiencing the law of mental attraction in action.
+A person who consistently practices kindness finds that kindness often flows back to them from unexpected directions according to this principle: strangers help them, opportunities arise through others' goodwill, and a supportive community forms around them. They are not "lucky"; they are experiencing the law of mental attraction in action.
 
 ##### Example 2: The Suspicious Mind
 
-An individual who constantly suspects betrayal and deception in others finds their relationships filled with conflict and disappointment. Their suspicious thoughts attract and create the very behavior they fear. When they shift to trust and goodwill, relationships improve dramatically.
+An individual who constantly suspects betrayal and deception in others finds their relationships filled with conflict and disappointment. Their suspicious thoughts can contribute to the very behavior they fear. When they shift to trust and goodwill, relationships improve dramatically.
 
 #### Step 1: Recognize That Every Soul Attracts Its Own by Thought-Quality
 
-Understand that every soul attracts its own by the quality and power of its inner thought-life. Nothing can come to you that does not belong to you by the law of mental affinity.
+Understand that every soul attracts its own by the quality and power of its inner thought-life. According to this teaching, nothing can come to you that does not belong to you by the law of mental affinity.
 
 #### Step 2: Understand That Like Attracts Like in the Thought-World
 
-Accept that you will come into contact with people similar to yourself. Like attracts like in the thought-world. Your dominant thoughts determine the quality of your relationships and circumstances.
+Accept that you will come into contact with people similar to yourself. Like attracts like in the thought-world. Your dominant thoughts significantly influence the quality of your relationships and circumstances.
 
 #### Step 3: Apply the Principle: "Be What You Wish to Attract"
 
-Apply the principle: "Do you wish for kindness? Be kind. Do you ask for truth? Be true." Your external world is a mirror of your internal state. Change internally, and the reflection changes.
+Apply the principle: "Do you wish for kindness? Be kind. Do you ask for truth? Be true." Your external world can be understood as a reflection of your internal state. Change internally, and the reflection changes.
 
 #### Step 4: Realize That What You Give, You Will Find Reflected
 
-Understand that what you give of yourself, you will find reflected in your world. If you send out loving thoughts, love returns to you. If you send out hateful thoughts, hate returns.
+Understand that what you give of yourself, you will find reflected in your world. When you send out loving thoughts, love often returns to you. If you send out hateful thoughts, hate returns.
 
 #### Step 5: Consciously Cultivate the Mental Qualities You Desire
 
@@ -560,8 +560,8 @@ Consciously cultivate the mental qualities you desire to see manifested in your 
 
 #### Keep In Mind
 
-- The law of mental attraction is the principle that like thoughts attract like circumstances, events, and people.
-- Mental affinity is the natural gravitation of souls toward one another based on shared thought qualities.
+- This teaching holds that like thoughts attract like circumstances, events, and people.
+- Mental affinity is the tendency for individuals with similar mental states to draw together based on shared thought qualities.
 - Birds of a feather flock together: each clings to its kind in both the thought-world and material world.
 
 #### Security & Safety Notes
@@ -586,11 +586,11 @@ Consciously cultivate the mental qualities you desire to see manifested in your 
 
 ##### Example 1: The Doubting Seeker
 
-A person who has read many spiritual books but feels no inner transformation begins a practice of quiet meditation on the truth that "the kingdom is within." Over time, a deep realization dawns: the Divine is not a distant being but the very essence of their own consciousness. This realization transforms their entire approach to life.
+A person who has read numerous spiritual books but feels no inner transformation begins a practice of quiet meditation on the truth that "the kingdom is within." Over time, a sustained, transformative insight that changes their behavior dawns: In this tradition, the Divine is understood not as a distant being but as the very essence of one's own consciousness. This realization transforms their entire approach to life.
 
 ##### Example 2: The Powerless Worker
 
-An employee who feels powerless in their job begins meditating on the truth that the kingdom of the Divine is within them. This realization gradually gives them a quiet confidence that changes how they show up at work. They are promoted not because of external ambition but because of an inner authority that others sense.
+An employee who feels powerless in their job begins meditating on the truth that the kingdom of the Divine is within them. This realization gradually gives them observable changes such as speaking up in meetings or taking on new responsibilities. They are promoted not because of external ambition but because of an inner authority that others sense.
 
 #### Step 1: Believe With a Mind Unshadowed by Doubt
 
@@ -606,11 +606,11 @@ Based on this understanding, begin the process of purifying and building your in
 
 #### Step 4: Progress From Revelation to Revelation
 
-Expect progressive understanding. You will move from revelation to revelation, and from realization to realization. Each stage builds upon the last.
+Expect progressive understanding. You will move from progressive insights that build upon one another, and from realization to realization. Each stage builds upon the last.
 
 #### Step 5: Discover the Powerlessness of Outward Things
 
-Come to realize the utter powerlessness of outward things compared to the magic potency of a self-governed soul. External circumstances have no power over the one who has realized the Divine within.
+Come to realize the limited power of outward things compared to the inner strength of a self-governed soul. External circumstances have no power over the one who has realized the Divine within.
 
 #### Best Practices
 
@@ -623,7 +623,7 @@ Come to realize the utter powerlessness of outward things compared to the magic 
 
 #### Keep In Mind
 
-- The Divine within is the sacred, eternal, and immortal essence present within every soul.
+- The Divine within is understood as the sacred, eternal, and immortal essence present within every soul.
 - Meditation is the practice of focused, sustained contemplation upon spiritual truths to achieve understanding and realization.
 - The self-governed soul is a soul that has achieved mastery over its own thoughts and is no longer subject to external circumstances.
 
@@ -637,9 +637,9 @@ Come to realize the utter powerlessness of outward things compared to the magic 
 - **Problem:** Looking for the Divine outside yourself or beyond the grave rather than within
   **Solution:** Turn your attention inward. The kingdom you seek is not in some distant place or future time; it is here, now, within you.
 - **Problem:** Allowing doubt to shadow the mind and block inner realization
-  **Solution:** Doubt is a barrier. Cultivate faith not as blind belief but as trust based on direct experience. Begin where you are and grow from there.
+  **Solution:** Doubt is a barrier. Cultivate trust built through repeated personal verification of the principles in daily life. Begin where you are and grow from there.
 - **Problem:** Rushing the process of inner building without patience for gradual revelation
-  **Solution:** Realization unfolds in its own time. Be patient and consistent in your practice, and do not force the experience.
+  **Solution:** Realization unfolds gradually, over months or years of consistent practice. Be patient and consistent in your practice, and do not force the experience.
 
 ---
 
@@ -649,19 +649,19 @@ Come to realize the utter powerlessness of outward things compared to the magic 
 
 ##### Example 1: The Community Organizer
 
-An individual passionate about social justice initially focuses on changing laws and systems. Through this teaching, they realize that lasting change requires first transforming themselves. As they work on their own patience, compassion, and wisdom, their effectiveness as a change-maker increases dramatically.
+An individual passionate about social justice initially focuses on changing laws and systems. Through this teaching, they realize that lasting change requires first transforming themselves. As they work on their own patience, compassion, and wisdom, their effectiveness as a change-maker increases measurably.
 
 ##### Example 2: The Family Peacemaker
 
-A person who constantly complains about family dysfunction decides to stop trying to change others and focus on changing themselves. As they become more patient, loving, and forgiving, the family dynamic shifts organically. The "problem" family members begin to respond differently, not because they were forced to change, but because the atmosphere of the home has transformed.
+A person who constantly complains about family dysfunction decides to stop trying to change others and focus on changing themselves. As they become more patient, loving, and forgiving, family members begin to respond differently without being told to change.
 
 #### Step 1: Stop Looking Outside Yourself for the Source of Change
 
-If you wish to right the world and banish its evils, begin by righting yourself. Stop looking outside yourself for the source of change; look within. All external reform begins with internal transformation.
+If you wish to contribute to righting the world and reducing its evils, begin by righting yourself. Stop looking outside yourself for the source of change; look within. All external reform begins with internal transformation.
 
 #### Step 2: Apply the Principle Universally
 
-Apply this principle universally: "If you wish to make the world's wild places bloom and deserts blossom, cure yourself first. If you wish to wake the world from its dream of death and darkening strife, wake thyself first."
+Apply this principle universally: "If you wish to create positive change in your immediate environment, cure yourself first. If you wish to wake the world from its dream of death and darkening strife, wake thyself first."
 
 #### Step 3: Prioritize Self-Purification Over External Reform
 
@@ -669,15 +669,15 @@ Prioritize self-purification and self-development over attempting to reform othe
 
 #### Step 4: Stop Looking for a Better World Beyond the Grave
 
-Stop praying for or looking forward to a better world exclusively beyond the grave. Realize that the happy world you seek fills the whole universe and is within you now. It is waiting for you to find, acknowledge, and possess it.
+Stop praying for or looking forward to a better world exclusively beyond the grave. Realize that the happy world you seek is understood to fill the whole universe and be within you now. It is waiting for you to find, acknowledge, and possess it.
 
 #### Step 5: Enter Into and Realize the Happy World Now
 
-Enter into and realize the happy world now through inner transformation. The kingdom is not a future destination; it is a present reality available through right living.
+Enter into and realize the happy world now through inner transformation. In this teaching, the kingdom is not a future destination but a present reality available through right living.
 
 #### Best Practices
 
-- ✅ Take personal responsibility for the state of the world by examining your own contribution
+- ✅ Take personal responsibility for the state of the world by examining your own consumption habits, biases, and contributions to harm
 - ✅ Prioritize self-purification and self-development over attempting to reform others
 - ✅ Use personal transformation as the primary lever for any desired external change
 - ❌ Don't focus energy on changing external conditions without first addressing your own inner state
@@ -692,8 +692,8 @@ Enter into and realize the happy world now through inner transformation. The kin
 
 #### Security & Safety Notes
 
-- This teaching does not mean you should ignore systemic injustice or refuse to engage in social action. It means that your actions will be more effective and sustainable when rooted in inner wisdom and purity.
-- Avoid spiritual bypassing: do not use this teaching to avoid engaging with real-world problems that require collective action.
+- This teaching does not mean you should ignore systemic injustice such as racial discrimination, economic inequality, or environmental degradation or refuse to engage in social action. It means that your actions will be more effective and sustainable when rooted in inner wisdom and purity.
+- Avoid spiritual bypassing: do not use this teaching to avoid engaging with real-world problems that require collective action such as voting, organizing, or advocacy.
 
 #### Common Pitfalls
 
@@ -712,27 +712,27 @@ Enter into and realize the happy world now through inner transformation. The kin
 
 ##### Example 1: The Sower of Thoughts
 
-A person who habitually thinks loving, peaceful, and generous thoughts finds their life filled with corresponding experiences: harmonious relationships, unexpected kindness from strangers, and a general sense of being supported by life. Conversely, one who sows thoughts of hatred and greed reaps a harvest of conflict and loss. The law operates with mathematical exactitude.
+A person who habitually thinks loving, peaceful, and generous thoughts finds their life filled with corresponding experiences: harmonious relationships, unexpected kindness from strangers, and a general sense of being supported by life. Conversely, one who sows thoughts of hatred and greed reaps a harvest of conflict and loss. The law is understood to operate with mathematical exactitude in the mental realm.
 
 ##### Example 2: The Reactor
 
-An individual who reacts impulsively to every slight or inconvenience eventually finds their life filled with conflict and difficulty. They do not see the connection between their own thoughts and actions and the resulting conditions. When they finally understand the law of mental causation, they begin to respond rather than react, and their life begins to improve.
+An individual who reacts impulsively to every slight or inconvenience eventually finds their life characterized by frequent arguments, accidents, or professional setbacks. They do not see the connection between their own thoughts and actions and the resulting conditions. When they finally understand the law of mental causation, they begin to respond rather than react, and their life begins to improve.
 
 #### Step 1: Recognize That Incidents Are Drawn by Thought-Quality
 
-Recognize that the incidents of human life—those that both make and mar—are drawn to each soul by the quality and power of its own inner thought-life. You are not a victim of random events; you are a co-creator of your experience.
+Recognize that the incidents of human life—those that both make and mar—are drawn to each soul by the quality and power of its own inner thought-life. You are not a victim of random events; you are an active participant in shaping your experience through your thoughts.
 
 #### Step 2: Understand That the Soul Constitutes Your Real Self
 
-Understand that the soul is a complex combination of gathered experiences and thoughts, and the body is merely a vehicle for its manifestation. What your thoughts are, that is your real self.
+In this teaching, the soul is understood as a complex combination of gathered experiences and thoughts, and the body is merely a vehicle for its manifestation. What your thoughts are, that is your real self.
 
 #### Step 3: Accept That the World Wears the Aspect of Your Thoughts
 
-Accept that the world around you, both animate and inanimate, wears the aspect with which your thoughts clothe it. Your perception shapes your reality.
+Accept that the world around you, both animate and inanimate, appears to you in the way that your thoughts interpret it. Your perception shapes your reality.
 
 #### Step 4: Live With Conviction That Divine Law Operates With Precision
 
-Live with the conviction that Divine Law operates with unerring precision in the mental realm. Every thought produces a corresponding result. There are no exceptions.
+Live with the conviction that Divine Law operates with great precision in the mental realm. Every thought produces a corresponding result. exceptions are not observed.
 
 #### Step 5: Study the Operation of Mental Laws in Your Own Life
 
@@ -749,7 +749,7 @@ Study the operation of mental laws in your own life to verify their universality
 
 #### Keep In Mind
 
-- Divine law is universal, infallible law governing mental causation, attraction, and reaction.
+- This teaching describes Divine Law as universal and infallible
 - The real self is the true identity of a person, constituted by their thoughts rather than their body or external circumstances.
 - Mental drapery is the interpretive framework or perception with which thoughts clothe external reality.
 
@@ -775,7 +775,7 @@ Study the operation of mental laws in your own life to verify their universality
 
 ##### Example 1: The Naturalist's Eye
 
-Two people walk through the same forest. One sees only mosquitoes, mud, and tangled roots. The other—trained in natural history—sees an intricate ecosystem, hidden universes in a single handful of soil, and the slow majesty of ancient trees. The forest is the same; the perception transforms the experience.
+Two people walk through the same forest. One sees only mosquitoes, mud, and tangled roots. The other—trained in natural history—sees an intricate ecosystem teeming with life visible only under magnification, and the slow majesty of ancient trees. The forest is the same; the perception transforms the experience.
 
 ##### Example 2: The Difficult Person
 
@@ -791,15 +791,15 @@ Cultivate knowledge, spiritual insight, and philosophical understanding to revea
 
 #### Step 3: Practice Looking Deeper Than Surface Appearances
 
-Make a deliberate practice of looking deeper than surface appearances. Where the unenlightened mind sees an offensive mud-puddle, the knowledgeable mind sees hidden universes. Where the casual wayfarer sees a trampled weed, the spiritual eye sees an angelic messenger.
+Make a deliberate practice of looking deeper than surface appearances. Where the unenlightened mind sees a muddy puddle, the knowledgeable mind sees a plant with remarkable medicinal properties. Where the casual wayfarer sees a trampled weed, the spiritual eye sees a plant with remarkable medicinal properties.
 
 #### Step 4: See Perfect Sequence in What Appears as Disaster
 
-Where the ordinary mind sees disaster, the philosophical mind sees perfect sequence of cause and effect. Train yourself to see the underlying order even in apparent chaos.
+Where the ordinary mind sees disaster, the philosophical mind sees an underlying sequence of cause and effect that may not be immediately visible. Train yourself to see the underlying order even in apparent chaos.
 
 #### Step 5: Develop the Capacity for Enlightened Perception
 
-Understand that enlightened perception is cultivated through knowledge and spiritual development. It is not a gift but an achievement available to all who seek it.
+Understand that enlightened perception is cultivated through knowledge and spiritual development. It is not a gift but an achievement potentially available to all who seek it with dedication.
 
 #### Best Practices
 
@@ -814,7 +814,7 @@ Understand that enlightened perception is cultivated through knowledge and spiri
 
 - Enlightened perception is the ability to see beyond surface appearances to hidden harmony, beauty, and meaning.
 - Mental drapery is the interpretive coloration given to physical objects and scenes by one's state of mind.
-- Hidden glory is the divine, beautiful, or wondrous aspects of reality invisible to the unenlightened eye but apparent to trained perception.
+- Hidden glory is aspects of reality perceived as divine, beautiful, or wondrous by those with trained perception.
 
 #### Security & Safety Notes
 
@@ -838,11 +838,11 @@ Understand that enlightened perception is cultivated through knowledge and spiri
 
 ##### Example 1: The Trusting Teacher
 
-A teacher who approaches every student with the thought that they are capable and worthy finds that students rise to meet that expectation. The teacher's mental garment of trust and belief transforms the students' self-perception and behavior. Conversely, a teacher who expects failure and misbehavior often receives exactly that.
+A teacher who approaches every student with the thought that they are capable and worthy finds that students often rise to meet that expectation. The teacher's mental garment of trust and belief transforms the students' self-perception and behavior. Conversely, a teacher who expects failure and misbehavior often receives exactly that.
 
 ##### Example 2: The Suspicious Partner
 
-A partner who constantly suspects betrayal will find evidence of betrayal everywhere, even in innocent actions. Their suspicious thoughts become a self-fulfilling prophecy. When they shift to thoughts of trust and goodwill, they begin to see different behavior in their partner—not because the partner changed overnight, but because the perception has shifted.
+A partner who constantly suspects betrayal will find evidence of betrayal everywhere, even in innocent actions. Their suspicious thoughts become a self-fulfilling prophecy—a belief that causes itself to become true. When they shift to thoughts of trust and goodwill, they begin to see different behavior in their partner—not because the partner changed overnight, but because the perception has shifted.
 
 #### Step 1: Recognize That You Clothe Others in the Garments of Your Thoughts
 
@@ -850,15 +850,15 @@ Understand that you clothe the souls of others in the garments of your own thoug
 
 #### Step 2: Identify What Garments You Are Currently Wearing
 
-Examine your thoughts about specific people in your life. Are you clothing them in suspicion, envy, judgment, or love? The garment you choose determines the relationship you experience.
+Examine your thoughts about specific people in your life. Are you clothing them in suspicion (assuming negative intent without evidence), envy (resenting another's qualities or success), judgment (condemning without understanding), or love (wishing well for the other)? The garment you choose determines the relationship you experience.
 
 #### Step 3: Choose Deliberately the Mental Garments You Place Upon Others
 
-Be deliberate about the mental garments you choose to place upon others. If you are suspicious, you will believe everybody to be suspicious. If you dwell in loving thoughts, you will see that which calls forth love and sympathy in all.
+Be deliberate about the mental garments you choose to place upon others. If you are suspicious, you may be more likely to believe everybody to be suspicious. If you dwell in loving thoughts, you will see that which calls forth love and sympathy in all.
 
 #### Step 4: Cultivate Trust, Honesty, Charity, and Love
 
-Cultivate trust, honesty, charity, and love so that these become the lenses through which you view others. When you have realized the Divine within yourself, you will recognize it in all beings.
+Cultivate trust, honesty, charity, and love so that these become the lenses through which you view others. When you have realized the Divine within yourself, you may begin to recognize it in all beings.
 
 #### Step 5: Examine Your Own Character to Understand Your Perceptions
 
@@ -876,8 +876,8 @@ When you find yourself judging others negatively, examine your own character to 
 #### Keep In Mind
 
 - Mental garments are the qualities, motives, and character traits that one's thoughts attribute to other people.
-- Projection is the psychological phenomenon of seeing one's own inner state reflected in others.
-- Divine recognition is the ability to perceive the divine spark within all beings, based on having realized it within oneself.
+- Projection is projection—the psychological phenomenon in which individuals attribute their own unconscious feelings to others.
+- Divine recognition is the ability to perceive the divine spark, which in this tradition is understood to exist within all beings, based on having realized it within oneself.
 
 #### Security & Safety Notes
 
@@ -909,7 +909,7 @@ A family in constant conflict has each member blaming the others. One member dec
 
 #### Step 1: Stop Praying for a Better World Exclusively Beyond the Grave
 
-Stop postponing happiness and the good life to a future beyond the grave. Realize that the happy world you seek fills the whole universe and is within you now. It is waiting for you to find, acknowledge, and possess it.
+Stop postponing happiness and the good life to a future beyond the grave. Realize that the happy world you seek is understood to fill the whole universe and is within you now. It is waiting for you to find, acknowledge, and possess it.
 
 #### Step 2: Realize That the Happy World Is Within You Now
 
@@ -925,7 +925,7 @@ Prioritize personal spiritual work over external reform or future-oriented hope.
 
 #### Step 5: Enter Into and Realize the Happy World Now
 
-Enter into and realize the happy world now through inner transformation. The kingdom is here, available to you in this moment through right living.
+Enter into and realize the happy world now through inner transformation. According to this principle, the kingdom is here, available to you in this moment through right living.
 
 #### Best Practices
 
@@ -939,7 +939,7 @@ Enter into and realize the happy world now through inner transformation. The kin
 #### Keep In Mind
 
 - The kingdom within is the state of divine peace, joy, and power accessible now through inner realization.
-- Right thyself is the principle that personal moral and mental correction is the necessary and sufficient starting point for all beneficial world change.
+- Right thyself is the principle that personal moral and mental correction is a necessary starting point for all beneficial world change.
 - The self-governed soul is a soul that has achieved mastery over its own thoughts and is therefore powerful beyond external circumstances.
 
 #### Security & Safety Notes
@@ -950,7 +950,7 @@ Enter into and realize the happy world now through inner transformation. The kin
 #### Common Pitfalls
 
 - **Problem:** Postponing happiness or the good life to a future beyond the grave
-  **Solution:** The kingdom is available now. Begin realizing it today through inner transformation.
+  **Solution:** This teaching states that the kingdom is available now. Begin realizing it today through inner transformation.
 - **Problem:** Believing that external circumstances or locations contain the kingdom
   **Solution:** The kingdom is within. No external place, achievement, or possession can give you what you already possess within.
 - **Problem:** Attempting large-scale external action while personally remaining in mental confusion
@@ -980,11 +980,11 @@ A person who possesses integrity, generosity, and love but lacks energy sees the
 
 #### Step 1: Identify Areas Where You Can Increase Energetic Action Combined With Moral Qualities
 
-Look at your life and identify where you can combine moral qualities with more energetic action. Goodness without energy is ineffective; energy without goodness is dangerous.
+Look at your life and identify where you can combine moral qualities with more energetic action. Goodness without energy tends to be ineffective; energy without goodness can be dangerous.
 
 #### Step 2: Set Specific Goals for Developing Integrity, Generosity, and Love in Daily Activities
 
-Set specific goals for developing these qualities in your daily activities. Make them measurable and actionable.
+Set specific goals for developing these qualities in your daily activities. Make them e.g., "I will perform three acts of generosity per week for the next month".
 
 #### Step 3: Match Each Noble Intention With Concrete, Energetic Effort
 
@@ -992,7 +992,7 @@ Match each noble intention with concrete, energetic effort. Do not merely think 
 
 #### Step 4: Create a Routine That Pairs Spiritual Practice With Physical Action
 
-Create a routine that pairs spiritual practice with physical action. Meditation without action is incomplete; action without meditation is blind.
+Create a routine that pairs spiritual practice with physical action. In this tradition, meditation without action is considered incomplete.
 
 #### Step 5: Measure Success by Both Character Development and Tangible Results
 
@@ -1009,8 +1009,8 @@ Measure success by both character development and tangible results. True prosper
 
 #### Keep In Mind
 
-- Energy is the active force applied to moral and spiritual principles.
-- Prosperous state is a condition of lasting success built on moral character and energetic action.
+- Energy is the disciplined effort directed toward morally and spiritually grounded goals.
+- Prosperous state is a condition of sustainable success as measured by character consistency and positive impact.
 - Armor against evil is the protective quality of goodness that shields from destructive forces.
 
 #### Security & Safety Notes
@@ -1034,15 +1034,15 @@ Measure success by both character development and tangible results. True prosper
 
 ##### Example 1: The Lonely Success
 
-A person who prioritizes self above all others achieves material success but finds themselves isolated and unloved. When they finally shift to considering others' needs before their own, they discover a richness of relationship that no achievement could provide.
+A person who prioritizes self above all others may achieve material success but can find themselves isolated. When they finally shift to considering others' needs before their own, they discover a richness of relationship that no achievement could provide.
 
 ##### Example 2: The Deserted Egotist
 
-A person who always puts "number one" first eventually finds themselves deserted by all. When they cry out in loneliness and anguish, there is no one to hear and help them. The very strategy they thought would protect them has left them utterly alone.
+A person who always puts "number one" first eventually risks finding themselves increasingly isolated. When they cry out in loneliness and anguish, there is no one to hear and help them. The very strategy they thought would protect them has left them utterly alone.
 
 #### Step 1: Examine Your Daily Decisions to Identify Instances of Self-Prioritization
 
-Take an honest look at your daily decisions. How often do you choose your own comfort, convenience, or advantage over the needs of others?
+Take an honest look at your daily decisions. How many times per day/week do you choose your own comfort, convenience, or advantage over the needs of others?
 
 #### Step 2: Practice Considering Others' Needs Before Your Own in at Least One Interaction Daily
 
@@ -1050,7 +1050,7 @@ Make it a daily practice to consider others' needs before your own in at least o
 
 #### Step 3: Challenge the Societal Message That "Number One" Must Come First
 
-Question the cultural narrative that self-interest is the highest good. This message leads to isolation and spiritual poverty.
+Question the cultural narrative that self-interest is the highest good. This message can lead to isolation and spiritual poverty.
 
 #### Step 4: Develop Empathy by Actively Listening to Others' Perspectives
 
@@ -1062,7 +1062,7 @@ Reflect on the long-term consequences of self-centered behavior: loneliness, aba
 
 #### Best Practices
 
-- ✅ Practice random acts of kindness without expectation of return
+- ✅ Practice spontaneous, unplanned acts of kindness such as helping a stranger or paying for someone's coffee without expectation of return
 - ✅ Build relationships based on mutual care rather than utility
 - ✅ Accept help from others when needed, recognizing interdependence
 - ❌ Don't resent others when they don't reciprocate your care
@@ -1072,7 +1072,7 @@ Reflect on the long-term consequences of self-centered behavior: loneliness, aba
 #### Keep In Mind
 
 - Self-seeking is the habit of prioritizing one's own interests above all others.
-- Self-destruction is the inevitable outcome of persistent selfishness.
+- Self-destruction is often the outcome of persistent selfishness.
 - Noble impulses are higher moral instincts that guide toward altruistic action.
 
 #### Security & Safety Notes
@@ -1086,7 +1086,7 @@ Reflect on the long-term consequences of self-centered behavior: loneliness, aba
 - **Problem:** Neglecting legitimate self-care while focusing entirely on others
   **Solution:** You cannot pour from an empty cup. Care for yourself so that you can give from a place of abundance.
 - **Problem:** Enabling harmful behavior under the guise of selflessness
-  **Solution:** True love sometimes requires boundaries. Enabling is not helping; it is participating in another's destruction.
+  **Solution:** True love sometimes requires boundaries. Enabling often is not helping; it can be participating in another's destruction.
 
 ---
 
@@ -1096,15 +1096,15 @@ Reflect on the long-term consequences of self-centered behavior: loneliness, aba
 
 ##### Example 1: The Expanding Heart
 
-A person who practices daily acts of universal love—reaching out to others with warmth and generosity—finds their heart expanding. Their concern grows from self to family to community to all humanity. This expansion brings a joy that no personal achievement could match.
+A person who practices daily acts of universal love—reaching out to others with warmth and generosity—finds their capacity for care growing. Their concern grows from self to family to community to all humanity. This expansion brings a joy that no personal achievement could match.
 
 ##### Example 2: The Shrinking Self
 
-A person who remains trapped in self-concern—worrying about their own comfort, status, and security—finds their world growing smaller and smaller. Their soul contracts until there is room for nothing but their own anxieties. Expansion is the remedy for this contraction.
+A person who remains trapped in self-concern—worrying about their own comfort, status, and security—finds their world feels increasingly constrained by self-concern. Their soul contracts until there is room for nothing but their own anxieties. Expansion is the remedy for this contraction.
 
 #### Step 1: Practice Daily Acts That Expand Your Concern Beyond Personal Comfort
 
-Make it a daily practice to reach out to others with loving and generous warmth. Start small and expand your circle gradually.
+Make it a daily practice of one intentional act of care toward another person to reach out to others with loving and generous warmth. Start small and expand your circle gradually.
 
 #### Step 2: Reach Out to Others With Loving and Generous Warmth
 
@@ -1112,7 +1112,7 @@ Reach out to others in at least one interaction each day. Let your heart be larg
 
 #### Step 3: Visualize Your Heart and Soul Expanding to Encompass More People
 
-Practice visualization: imagine your heart expanding to include more and more people. This mental practice prepares your heart for actual expansion.
+Practice visualization: imagine your heart expanding to include more and more people. This mental practice can prepare your heart for actual expansion.
 
 #### Step 4: Identify Communities or Causes That Align With Your Values
 
@@ -1124,7 +1124,7 @@ Practice forgiveness as a means of expanding your capacity for love. Forgiveness
 
 #### Best Practices
 
-- ✅ Start with expanding care to immediate family, then widen the circle gradually
+- ✅ Start with immediate family for one week, then add friends, then community members over subsequent weeks
 - ✅ Practice active compassion—move beyond sympathy to helpful action
 - ✅ Celebrate small expansions of your caring capacity
 - ❌ Don't expand outward while neglecting core relationships
@@ -1135,11 +1135,11 @@ Practice forgiveness as a means of expanding your capacity for love. Forgiveness
 
 - Soul expansion is the process of widening one's circle of compassion and concern.
 - Loving warmth is genuine, heartfelt care extended toward others.
-- Lasting joy is deep, enduring happiness that comes from outward-focused living.
+- Lasting joy is happiness that persists despite external setbacks, which comes from outward-focused living.
 
 #### Security & Safety Notes
 
-- Soul expansion does not mean abandoning your own needs or enabling harmful behavior. It means expanding your circle of concern while maintaining healthy boundaries.
+- Soul expansion does not mean abandoning your own needs or enabling harmful behavior. It means expanding your circle of concern while maintaining boundaries that protect your well-being while allowing genuine connection.
 
 #### Common Pitfalls
 
@@ -1158,11 +1158,11 @@ Practice forgiveness as a means of expanding your capacity for love. Forgiveness
 
 ##### Example 1: The Virtuous Leader
 
-A leader who has built inward qualities—integrity, patience, kindness, wisdom—finds that these qualities act as armor against the arrows of criticism and opposition. No matter what external challenges arise, their character remains unshaken. They are protected by their own goodness.
+A leader who has built inward qualities—integrity, patience, kindness, wisdom—finds that these qualities act as armor against the criticism and opposition from others. No matter what external challenges arise, their character remains unshaken. They are protected by their own goodness.
 
 ##### Example 2: The Character-Building Worker
 
-A worker who focuses on building inward qualities—honesty, diligence, cooperation—finds that these qualities become the foundation of their success. Their character opens doors that skill alone could not.
+A worker who focuses on building inward qualities—honesty, diligence, cooperation—finds that these qualities become the foundation of their success. Their character can open doors that skill alone could not.
 
 #### Step 1: Conduct an Honest Inventory of Your Current Moral Qualities
 
@@ -1170,7 +1170,7 @@ Take an honest look at your current moral qualities. What are your strengths? Wh
 
 #### Step 2: Identify Specific Qualities to Build Up
 
-Identify specific qualities you wish to develop: patience, honesty, kindness, courage, wisdom. Choose one or two to focus on at a time.
+Identify specific qualities you wish to develop: patience (the ability to wait calmly), honesty (truthfulness in word and deed), kindness (consideration for others), courage (facing difficulty with resolve), wisdom (sound judgment based on experience). Choose one or two to focus on at a time.
 
 #### Step 3: Create a Personal Development Plan With Measurable Character Goals
 
@@ -1178,7 +1178,7 @@ Create a plan for developing these qualities. Make it specific, measurable, and 
 
 #### Step 4: Practice Each Quality Deliberately in Challenging Situations
 
-Practice each quality deliberately in challenging situations. Character is built in the furnace of difficulty.
+Practice each quality deliberately in challenging situations. Character is built in challenging situations.
 
 #### Step 5: Track Progress and Adjust Strategies as Needed
 
@@ -1196,7 +1196,7 @@ Track your progress and adjust your strategies as needed. Character development 
 #### Keep In Mind
 
 - Inward qualities are the moral and spiritual attributes that constitute a person's character.
-- Armor against evil is the protective strength that goodness provides against destructive forces.
+- Armor against evil is the resilience that moral character provides against unfair criticism, failure, and temptation.
 - Unshakable success is success built on moral character that withstands external challenges.
 
 #### Security & Safety Notes
@@ -1208,7 +1208,7 @@ Track your progress and adjust your strategies as needed. Character development 
 - **Problem:** Trying to develop too many qualities simultaneously
   **Solution:** Focus on one quality at a time. Depth is more important than breadth in character development.
 - **Problem:** Measuring character growth by external validation rather than internal consistency
-  **Solution:** Character is measured in the dark, when no one is watching. Trust your own inner compass more than others' opinions.
+  **Solution:** Character is measured by your choices when there is no external reward or punishment. Trust your own inner compass more than others' opinions.
 - **Problem:** Abandoning development after initial difficulties
   **Solution:** Character development is challenging by nature. Persist through the difficulties; the growth is on the other side.
 
@@ -1220,7 +1220,7 @@ Track your progress and adjust your strategies as needed. Character development 
 
 ##### Example 1: The Consistent Moral Agent
 
-A person who defines what "the right" means to them and commits to doing what is right regardless of external circumstances builds a life of integrity and peace. They are not perfect, but they are consistent. This consistency becomes their strength and their legacy.
+A person who defines what "the right" means to them based on universal moral principles such as honesty, compassion, and fairness and commits to doing what is right regardless of external circumstances builds a life of integrity and peace. They are not perfect, but they are consistent. This consistency becomes their strength and their legacy.
 
 ##### Example 2: The Ethical Businessperson
 
@@ -1228,7 +1228,7 @@ A businessperson who commits to ethical practices even when unethical practices 
 
 #### Step 1: Define What "the Right" Means to You Based on Moral Principles
 
-Clarify your understanding of what is right. This requires reflection, study, and dialogue with others of good character.
+Clarify your understanding of what is right. This requires reflection, study, and dialogue with trusted mentors or ethical leaders whose character you admire.
 
 #### Step 2: Commit to Doing What You Believe Is Right Regardless of External Circumstances
 
@@ -1236,11 +1236,11 @@ Make a commitment to do what is right even when it is difficult, costly, or unpo
 
 #### Step 3: When Faced With Moral Choices, Pause to Identify the Right Course Before Acting
 
-Build the habit of pausing before acting in morally complex situations. The pause is where wisdom enters.
+Build the habit of pausing before acting in morally complex situations. The pause is where you are more likely to identify the right course.
 
 #### Step 4: Document Your Decisions and Outcomes to Track Consistency
 
-Keep a record of your moral decisions and their outcomes. This helps you refine your understanding of "the right" and maintain consistency.
+Keep a record of your moral decisions and their outcomes. This helps you refine your understanding by comparing outcomes to your intentions and maintain consistency.
 
 #### Step 5: Refine Your Understanding of "right" Through Study and Reflection
 
@@ -1257,7 +1257,7 @@ Continue to refine your understanding of what is right through ongoing study, re
 
 #### Keep In Mind
 
-- The right path is the course of action aligned with moral and spiritual principles.
+- The right path is the course of action aligned with moral and spiritual principles such as honesty, compassion, and fairness (see Glossary: Right Path).
 - A righteous person is one who consistently chooses right action.
 - The highway of righteousness is the clear, direct path of moral conduct.
 
@@ -1282,19 +1282,19 @@ Continue to refine your understanding of what is right through ongoing study, re
 
 ##### Example 1: The Open Hand
 
-A person who models nature's example of abundant, unreserved giving discovers that the more they give, the more they receive. Their open hand allows the flow of abundance to pass through them. They do not grasp; they receive and give in an endless cycle of generosity.
+A person who models nature's example of abundant, unreserved giving discovers that being open to receiving and giving without rigid attachment to specific outcomes. They do not grasp; they receive and give in an endless cycle of generosity.
 
 ##### Example 2: The Clenched Fist
 
-A person who grasps tightly to what they have, fearing scarcity, finds that their clenched fist cannot receive more. Their fear of loss creates a self-fulfilling prophecy: the more they cling, the more they experience lack. When they open their hand and practice generous giving, abundance flows in.
+A person who grasps tightly to what they have, fearing scarcity, finds that tightly holding onto resources or relationships out of fear prevents new opportunities. Their fear of loss creates a self-fulfilling prophecy: the more they cling, the more they experience lack. When they open their hand and practice generous giving, abundance flows in.
 
 #### Step 1: Reflect on How Nature Gives Abundantly Without Reservation
 
-Observe nature: the tree gives fruit without counting the cost, the sun gives light without reservation, the rain falls on the just and the unjust. Nature's giving is abundant and free.
+Observe nature: Nature provides abundantly without discrimination; humans can emulate this by giving freely.
 
 #### Step 2: Identify Areas Where You Are "Grasping" Rather Than Receiving Gracefully
 
-Examine your life for areas where you are grasping rather than receiving gracefully. Where are you clinging out of fear?
+Examine your life for areas where you are clinging tightly to possessions, outcomes, or relationships out of fear, rather than accepting them with gratitude. Where are you clinging out of fear?
 
 #### Step 3: Practice Receiving Gifts and Opportunities With Gratitude
 
@@ -1306,7 +1306,7 @@ Model nature's example by giving without reservation in your relationships. Give
 
 #### Step 5: Observe How Grasping Behavior Affects Your Peace of Mind
 
-Observe how grasping behavior affects your peace of mind. Grasping creates anxiety; generous giving creates peace.
+Observe how grasping behavior affects your peace of mind. Grasping often creates anxiety; generous giving can create peace.
 
 #### Best Practices
 
@@ -1321,7 +1321,7 @@ Observe how grasping behavior affects your peace of mind. Grasping creates anxie
 
 - Nature's giving is the universal principle of abundant, unreserved provision.
 - Grasping is the act of tightly holding onto things, often out of fear or greed.
-- Self-seeking as self-destruction is the paradox that selfish acquisition ultimately destroys the self.
+- Self-seeking can lead to self-destruction over time—the paradox that selfish acquisition ultimately destroys the self.
 
 #### Security & Safety Notes
 
@@ -1330,11 +1330,11 @@ Observe how grasping behavior affects your peace of mind. Grasping creates anxie
 #### Common Pitfalls
 
 - **Problem:** Believing that abundance is a finite resource
-  **Solution:** Abundance is infinite. The universe is generous to those who are generous. Give freely, and you will never run out.
+  **Solution:** In this spiritual framework, abundance is understood as infinite. Practitioners often find that the universe responds to generosity. Give freely, and you will never run out.
 - **Problem:** Hoarding resources out of fear of scarcity
-  **Solution:** Fear of scarcity creates scarcity. Open your hand and let abundance flow through you.
+  **Solution:** Fear of scarcity can create a self-fulfilling sense of lack. Open your hand and let abundance flow through you.
 - **Problem:** Giving with expectation of reciprocation
-  **Solution:** True giving expects nothing. If you are giving to get something in return, you are not giving; you are making a transaction.
+  **Solution:** True giving is characterized by expecting nothing in return as its primary motivation. If you are giving to get something in return, you are not giving; you are making a transaction.
 
 ---
 
