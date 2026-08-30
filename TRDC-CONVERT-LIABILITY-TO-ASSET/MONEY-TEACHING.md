@@ -7,7 +7,7 @@ This teaching explains how to identify whether something in your financial life 
 ## When to Follow These Money Teachings
 
 - When deciding whether to buy a house, car, or other major purchase
-- When evaluating if a family member or relationship is creating a financial burden
+- When evaluating if a family member or relationship is creating a cash flow drain
 - When planning for long-term care costs for aging parents or relatives
 - When learning the basics of financial literacy and understanding financial statements
 - When assessing whether your 401(k), IRA, or pension is truly building wealth
@@ -17,7 +17,7 @@ This teaching explains how to identify whether something in your financial life 
 
 ### Step 1: Master the Six Words of Financial Literacy
 
-Learn and internalize the six essential words: income, expense, asset, liability, and cash flow. These are the building blocks of every financial statement. Understand that your FICO score measures trustworthiness with borrowing money, not your ability to build wealth. Financial education begins with knowing what these terms mean and how they interact on a financial statement.
+Learn and internalize the six essential words: income, expense, asset, liability, cash, and flow. These are the building blocks of every financial statement. Understand that your FICO score measures trustworthiness with borrowing money, not your ability to build wealth. Financial education begins with knowing what these terms mean and how they interact on a financial statement.
 
 ### Step 2: Apply the Cash Flow Test
 
@@ -33,7 +33,7 @@ Do not fall into the middle-class trap of buying a bigger house every time you g
 
 ### Step 5: Account for Human Liabilities in Your Financial Plan
 
-Recognize that people can be either assets or liabilities. Children, aging parents, and additional relatives such as siblings or in-laws can create significant ongoing expenses. Plan ahead for long-term healthcare costs, which can reach $18,000 to $100,000 per month. Build sufficient cash flow from assets to cover these obligations without depleting savings. Bad financial advisors, dishonest business partners, and divorces with large alimony payments are also human liabilities that can drain wealth.
+Recognize that people can be either assets or liabilities. Children, aging parents, and additional relatives such as siblings or in-laws can create ongoing expenses. Plan ahead for long-term healthcare costs, which can reach $18,000 per month. Build cash flow from assets to cover these obligations without depleting savings. Bad financial advisors, dishonest business partners, and divorces with a million dollars per year in alimony payments are also human liabilities that can drain wealth.
 
 ### Step 6: Control Your Cash Flow Intelligence
 
@@ -47,21 +47,21 @@ A house that you live in requires mortgage payments, property taxes, insurance, 
 
 ### Example 2: NFL Players Who Go Broke
 
-National Football League players who earn millions of dollars in their 20s frequently go broke within two years because they cannot control cash flow. Despite enormous income, expenses and liabilities consume their earnings. This demonstrates that high income alone does not create wealth; controlling the direction of cash flow does.
+National Football League players who earn millions of dollars in their 20s most go broke within two years because they cannot control cash flow. Despite enormous income, expenses and liabilities consume their earnings. This demonstrates that high income alone does not create wealth; controlling the direction of cash flow does.
 
 ### Example 3: Long-Term Care Costs for a Parent
 
-A friend's mother required long-term care at a cost of $18,000 per month after her insurance was canceled. The friend had about $100,000 in savings, which would be depleted in less than one year. Because he had no asset income to cover this liability, his savings were drained rapidly, showing the importance of planning for human liabilities decades in advance.
+A friend's mother required long-term care at a cost of $18,000 per month after her insurance was canceled. The friend had about $100,000 in savings, which would be depleted in one year. Because he had no asset income to cover this liability, his savings were drained rapidly, showing the importance of planning for human liabilities while young.
 
 ### Example 4: Alimony as a Million-Dollar Liability
 
-Two friends who married and later divorced now pay a combined million dollars per year in alimony and child support. Their ex-wives are 40 years old with new partners, yet the financial obligation continues indefinitely. This human liability could have been anticipated with adequate advance planning before marriage and family decisions.
+Two friends who married and later divorced now pay a million dollars per year in alimony and child support. Their ex-wives are 40 years old with new partners, yet the financial obligation continues for years. This human liability could have been anticipated with adequate advance planning before marriage and family decisions.
 
 ## Best Practices
 
 - ✅ Evaluate every purchase through the cash flow lens: does it put money in or take it out
 - ✅ Buy rental properties where tenant income covers all expenses and still generates profit
-- ✅ Plan decades ahead for aging parents' potential long-term care costs
+- ✅ Plan ahead for aging parents' potential long-term care costs
 - ✅ Reinvest income raises into cash-flowing assets rather than bigger personal expenses
 - ✅ Ask whether a relationship, advisor, or business partner is adding or draining value
 - ✅ Build passive income streams so you are not dependent on a job for survival
@@ -72,13 +72,13 @@ Two friends who married and later divorced now pay a combined million dollars pe
 
 ## Keep In Mind
 
-- Cash flow is the only word that truly matters when classifying something as an asset or liability
+- Cash flow is the only concept that truly matters when classifying something as an asset or liability
 - Financial IQ is about solving cash flow problems, not academic achievements
 - 95 percent of college graduates do not know what a financial statement is
 - Rich dad poor dad defines assets and liabilities by cash flow, not by what something is called
 - A car can be an asset if it generates income, such as a taxi or delivery vehicle
 - People can be both assets and liabilities depending on their financial impact on you
-- Insurance companies are increasingly canceling long-term care policies, shifting risk back to families
+- Insurance companies are canceling long-term care policies, leaving families responsible for these costs
 
 ## Security & Safety Notes
 
@@ -97,7 +97,7 @@ Two friends who married and later divorced now pay a combined million dollars pe
   **Solution:** Recognize that these accounts are subject to market risk, inflation risk, and counterparty risk. Diversify into tangible assets and income-producing investments that you control directly.
 
 - **Problem:** Failing to plan for aging parents or family members becoming financial liabilities, leading to rapid depletion of savings
-  **Solution:** Build asset income streams while young that will be large enough by middle age to cover potential long-term care costs. Estimate $18,000 to $100,000 per month per dependent and plan accordingly.
+  **Solution:** Build asset income streams while young that will cover potential long-term care costs by middle age. Estimate $18,000 per month per dependent and plan accordingly.
 
 - **Problem:** Making financial decisions based on emotion, such as buying a bigger house after a raise or marrying without considering future financial exposure
-  **Solution:** Pause before every major financial commitment and apply the cash flow test. Ask whether the decision will increase or decrease your monthly cash outflow over the long term.
+  **Solution:** Pause before every major financial commitment and apply the cash flow test. Ask whether the decision will increase or decrease your monthly cash outflow.

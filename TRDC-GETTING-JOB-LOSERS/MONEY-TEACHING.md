@@ -2,13 +2,13 @@
 
 ## Overview
 
-Traditional education trains students to get jobs and work for paychecks, leaving them dependent on employers and vulnerable to job loss, pension cuts, and economic changes. Robert Kiyosaki teaches that the wealthy instead focus on acquiring assets—businesses, real estate, and commodities—that generate passive cash flow with minimal tax liability, making financial independence the goal rather than a secure paycheck.
+Traditional education trains students to get jobs and work for paychecks, leaving them dependent on employers and vulnerable to job loss, lost pensions, and economic changes. Robert Kiyosaki teaches that the wealthy instead focus on acquiring assets—businesses, real estate, and commodities—that generate passive cash flow with minimum tax, making never needing a paycheck the goal rather than a secure paycheck.
 
 ## When to Follow These Money Teachings
 
 - When choosing between pursuing a job or building a business
 - When evaluating whether to use debt as leverage for investments
-- When planning for long-term financial independence beyond a 401K or pension
+- When planning for long-term financial independence beyond a 401(k) retirement savings plan (401K) or pension
 - When deciding how to allocate savings across different asset classes
 - When considering student loans, mortgages, or credit card debt
 - When analyzing whether an expense is truly an asset or a liability
@@ -17,19 +17,19 @@ Traditional education trains students to get jobs and work for paychecks, leavin
 
 ### Step 1: Reject the paycheck as the ultimate goal
 
-Stop pursuing a job as the primary outcome of education. Recognize that working for money makes you dependent on an employer, subject to higher taxes, and vulnerable to being fired or losing a pension. Set your goal to never need a paycheck again from any source, including the government.
+Stop pursuing a job as the promised outcome of education. Recognize that working for money makes you dependent on an employer, subject to higher taxes, and vulnerable to being fired or losing a pension. Set your goal to never need a paycheck again from any source, including the government.
 
 ### Step 2: Understand the four asset classes
 
 Learn the four asset classes and their tax implications:
 - **Businesses** — generate cash flow and provide tax benefits through employees
-- **Real estate** — allows use of debt as leverage and offers significant tax breaks
-- **Paper assets** — savings, stocks, bonds, mutual funds, ETFs, and 401Ks offer minimal tax advantages and tie you to market performance
+- **Real estate** — allows use of debt as leverage and offers huge tax breaks
+- **Paper assets** — savings, stocks, bonds, mutual funds, Exchange Traded Funds (ETFs), and 401Ks offer no tax advantages and tie you to market performance
 - **Commodities** — gold, silver, oil, land, water, and food that hold intrinsic value
 
 ### Step 3: Choose which asset class to focus on first
 
-Decide which quadrant aligns with your skills and risk tolerance. Start with one area—Kiyosaki began with commodities (gold in 1972), then oil, then real estate, then businesses—and build expertise before diversifying.
+Decide which quadrant aligns with your skills and risk tolerance. Start with one area—Kiyosaki began with commodities (gold in 1972), then oil, then real estate, then businesses.
 
 ### Step 4: Use debt strategically for real estate
 
@@ -45,7 +45,7 @@ Avoid student loans (which cannot be discharged in bankruptcy), credit card debt
 
 ### Step 7: Study financial statements instead of academic scores
 
-Replace the pursuit of FICO scores and academic credentials with the ability to read and understand financial statements. Your banker wants to see your financial statement, not your report card.
+Replace the pursuit of Fair Isaac Corporation (FICO) credit scores and academic credentials with the ability to read and understand financial statements. Your banker wants to see your financial statement, not your report card.
 
 ## Examples
 
@@ -55,11 +55,11 @@ Alexandra worked at a bank earning a salary but still could not afford the goods
 
 ### Example 2: Robert Kiyosaki buys gold in 1972
 
-When gold was illegal for Americans to own in 1972, Kiyosaki began purchasing gold as his first commodity investment. This early decision reflected his commitment to seeking financial education outside of conventional advice and illustrates how thinking differently about money creates opportunities others miss.
+When gold was illegal for Americans to own in 1972, Kiyosaki began purchasing gold as his first commodity investment despite the legal restriction, illustrating how unconventional approaches can create opportunities others miss.
 
 ### Example 3: Kiyosaki's nylon wallet business
 
-Kiyosaki launched a nylon and velcro surfer wallet business that went worldwide but ultimately failed. What kept him alive financially was his other asset columns (commodities and real estate). The failure taught him business lessons while his assets provided a safety net—showing why diversification across asset classes matters.
+Kiyosaki launched a nylon and velcro surfer wallet business that went worldwide but ultimately failed. What kept him alive financially was his other asset columns (commodities and real estate). The failure taught him business lessons while his assets provided income.
 
 ## Best Practices
 
@@ -68,10 +68,10 @@ Kiyosaki launched a nylon and velcro surfer wallet business that went worldwide 
 - ✅ Use debt as leverage for real estate and business acquisitions
 - ✅ Focus on cash flow from assets rather than accumulating a salary
 - ✅ Build businesses that generate income without requiring your daily presence
-- ✅ Read financial statements as your primary measure of wealth, not a FICO score
-- ❌ Don't rely on 401K plans, pensions, or Social Security as your primary retirement strategy
-- ❌ Don't take on student loans without fully understanding that they cannot be discharged in bankruptcy
-- ❌ Don't assume your house is an asset if it costs you money every month
+- ✅ Read financial statements as your measure of wealth, not a Fair Isaac Corporation (FICO) credit score
+- ❌ Don't rely on 401K plans, pensions, or Social Security as your retirement strategy
+- ❌ Don't take on student loans unless you know they cannot be discharged in bankruptcy
+- ❌ Don't assume your house is an asset if it costs you money through mortgage, taxes, and maintenance, it is a liability, not an asset.
 
 ## Keep In Mind
 
@@ -84,17 +84,17 @@ Kiyosaki launched a nylon and velcro surfer wallet business that went worldwide 
 ## Security & Safety Notes
 
 - Student loan debt is the worst type of debt because it cannot be eliminated through bankruptcy, trapping you for life.
-- Relying on a single paycheck makes you vulnerable to job loss, economic downturns, and employer decisions.
-- Government programs like Social Security and pensions can be reduced, eliminated, or lost entirely.
-- Buying real estate with debt requires understanding cash flow, tax laws, and market cycles to avoid catastrophic losses.
-- The fear of being fired or losing a pension drives countless individuals to stay in miserable jobs rather than build real security.
+- Relying on a single paycheck makes you vulnerable to job loss, economic changes, and employer decisions.
+- Government programs like Social Security and pensions can be lost entirely.
+- Buying real estate with debt requires understanding cash flow, tax laws, and market cycles to avoid losses.
+- The fear of being fired or losing a pension drives most people to stay in miserable jobs rather than build real security.
 
 ## Common Pitfalls
 
 - **Problem:** Believing that getting a job after graduation is the natural and safe next step
   **Solution:** Treat employment as temporary experience, not a permanent career destination. Build assets on the side from day one.
 - **Problem:** Confusing a primary residence with an investment asset
-  **Solution:** Run a cash flow test: if the property costs you money monthly through mortgage, taxes, and maintenance, it is a liability, not an asset.
+  **Solution:** Run a cash flow test: if the property costs you money through mortgage, taxes, and maintenance, it is a liability, not an asset.
 - **Problem:** Investing exclusively in paper assets like a 401K because "that is what everyone does"
   **Solution:** Study the tax treatment of every asset class and build a portfolio that includes assets with better tax advantages and cash flow characteristics.
 - **Problem:** Using debt to fund consumption (cars, credit cards, vacations) instead of investment

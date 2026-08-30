@@ -6,7 +6,7 @@ This money teaching explains why relying on a paycheck, savings, and 401(k)s kee
 
 ## When to Follow These Money Teachings
 
-- When you rely primarily on a paycheck and want to understand why saving alone won't make you rich
+- When you rely primarily on a paycheck and want to understand why saving won't make you rich
 - When you want to understand how the tax code influences wealth building
 - When you are considering learning about real estate, business ownership, or active investing
 - When you want to stop trading time for money and build income that continues without your active labor
@@ -19,11 +19,11 @@ Understand the four categories the government uses to classify income: earned in
 
 ### Step 2: Recognize that the system is designed to discourage earned income
 
-The tax code is intentionally structured to incentivize hiring employees and investing in assets, not working for wages. If you continue trading time for money, you will make more money and pay more taxes. The government wants you to build businesses, hire people, and invest in real estate or securities because those activities drive the economy.
+The tax code is intentionally structured to incentivize hiring employees and investing in assets, not working for wages. If you continue trading time for money, you will pay the highest taxes. The government wants you to build businesses, hire people, and invest in real estate or securities because those activities drive the economy.
 
 ### Step 3: Understand that traditional savings vehicles are heavily taxed
 
-Savings accounts, 401(k)s, RRSPs, and superannuation funds are all taxed at the highest rates. Many people believe these are smart financial moves, but without understanding the tax consequences, they can trap you in a cycle of working harder for less net income.
+Savings accounts, 401(k)s, RRSPs, and superannuation funds are all taxed at the highest rates. Without understanding the tax consequences, people assume these are smart financial moves, but they can trap you in a cycle of working harder.
 
 ### Step 4: Study financial statements and the tax code to find phantom income
 
@@ -31,7 +31,7 @@ Phantom income refers to taxes you do not have to pay because the government off
 
 ### Step 5: Choose an asset class and commit to learning it
 
-Select one area to focus on: business ownership, real estate, commodities (such as oil wells), or active stock investing. Kiyosaki emphasizes that you should become an active, professional investor in your chosen field rather than a passive participant. Becoming proficient requires years of study, seminars, and hands-on experience.
+Select one area to focus on: business ownership, real estate, commodities (such as oil wells), or active stock investing. Kiyosaki emphasizes that you should become an active, professional investor in your chosen field rather than a passive participant. Becoming proficient requires study, seminars, and hands-on experience.
 
 ### Step 6: Start building passive income streams
 
@@ -43,7 +43,7 @@ You will make mistakes and lose money while learning. This is normal and expecte
 
 ### Step 8: Use debt strategically to acquire assets
 
-Debt is not inherently bad. The rich use debt as a tool to acquire income-producing assets. For example, McDonald's is one of the largest real estate companies in the world because it uses debt to buy the land beneath its restaurants, generating passive income while minimizing taxes. Learn to distinguish between good debt (used to acquire assets) and bad debt (used to fund consumption).
+Debt is not inherently bad. The rich use debt as a tool to acquire income-producing assets. For example, McDonald's is a real estate company because it uses debt to buy the land beneath its restaurants, generating passive income while minimizing taxes. Learn to distinguish between good debt (used to acquire assets) and bad debt (used to fund consumption).
 
 ### Step 9: Shift your mindset from working for money to working for the right type of income
 
@@ -79,23 +79,23 @@ If your tax bill is $100,000 and you qualify for $50,000 in tax breaks by invest
 - ❌ Do not assume academic credentials alone prepare you for investing success
 - ❌ Do not avoid mistakes by staying in your comfort zone
 - ❌ Do not assume that saving money and maxing out a 401(k) is a complete wealth strategy
-- ❌ Do not expect to become a successful investor overnight; it requires years of practice
+- ❌ Do not expect to become a successful investor overnight; it requires practice
 
 ## Keep In Mind
 
 - The tax code is designed to incentivize investing and hiring employees, not working for wages
 - Financial education is not taught in traditional schools; you must seek it out yourself
-- Building wealth takes years of practice, study, and learning from mistakes
+- Building wealth takes practice, study, and learning from mistakes
 - The rich work for passive income, not earned income
 - Academic success does not guarantee real-world investing success; practical skill matters more than memorized answers
-- Your parents' financial habits and mindset may have been passed down to you; you may need to consciously break that cycle
+- Your parents taught you to work hard for earned income; you must consciously break that cycle
 
 ## Security & Safety Notes
 
-- Financial education requires real capital at risk; never invest money you cannot afford to lose
-- Professional investors spend years studying before becoming consistently profitable
+- Financial education requires capital at risk; never invest money you cannot afford to lose
+- Professional investors spend time studying before becoming consistently profitable
 - Avoid "get rich quick" schemes that promise passive income without effort or education
-- Consult with qualified tax and investment professionals before implementing advanced strategies
+- Consult with qualified tax and investment professionals before implementing these strategies
 - Be cautious of anyone who claims you can become a successful investor with no prior experience or study
 
 ## Common Pitfalls
@@ -104,7 +104,7 @@ If your tax bill is $100,000 and you qualify for $50,000 in tax breaks by invest
   **Solution:** Understand that these vehicles are taxed at high rates; focus on learning about and building passive income streams instead
 
 - **Problem:** Thinking academic success translates directly to investing success
-  **Solution:** Recognize that investing is a practical skill requiring years of practice, mistakes, and real-world experience
+  **Solution:** Recognize that investing is a practical skill requiring practice, mistakes, and real-world experience
 
 - **Problem:** Relying solely on earned income from a job
   **Solution:** Begin studying and building passive income streams alongside your job to eventually reduce or eliminate dependence on a paycheck
@@ -113,4 +113,4 @@ If your tax bill is $100,000 and you qualify for $50,000 in tax breaks by invest
   **Solution:** Accept that mistakes are part of the process; start small, learn from each experience, and treat losses as tuition for your financial education
 
 - **Problem:** Starting investments without proper education and getting "hammered"
-  **Solution:** Take classes and gain experience in a specific asset class before committing substantial capital; the rich are professionals, not gamblers
+  **Solution:** Take classes and gain experience in a specific asset class before committing capital; the rich are professionals, not gamblers
