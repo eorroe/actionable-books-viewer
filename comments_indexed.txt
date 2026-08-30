@@ -1,0 +1,453 @@
+Total comments: 322
+0: [283] u/Critical_Ad_8455 (id: n4twa98): Read the book. Git pull --rebase is incredibly common, to the point there's a setting to do it autom
+1: [93] u/xternalAgent (id: n4u5osi): This is how I have it, no other way to git pull IMO
+2: [82] u/B_A_Skeptic (id: n4txd7k): Yes, it is a common strategy.
+3: [78] u/ratttertintattertins (id: n4u8chc): I’m stunned by the fact you’ve never had to look through the git history on a large project.  We do 
+4: [51] u/bbbb125 (id: n4twigt): It keeps your commits in sequence, then it’s easier to squash or cherry-pick a set of commits if you
+5: [26] u/granddave (id: n4vp1yn): Yes, or rather, I split it up in two. I first fetch from the remote and then a manual rebase. I like
+6: [25] u/[deleted] (id: n4tw3ab): [removed]
+7: [24] u/xenomachina (id: n4u8ptt): > Obviously our team should all be using the same strategy of we're working shared branches.
+
+It sho
+8: [20] u/brelen01 (id: n4u6eek): For me, pull --rebase has become the gold standard. I've had to wade through too many terrible git h
+9: [19] u/Soggy_Writing_3912 (id: n4ue689): EXACTLY!
+
+  
+For more advanced usage, if you end up using \`git bisect\`, then in my experience, the
+10: [19] u/drcforbin (id: n4w4p3t): This one: https://git-scm.com/book/en/v2
+
+Search for "rebase" in [here](https://git-scm.com/book/en/
+11: [19] u/elephantdingo (id: n4ut2ar): “Why would I need to look at the history?”
+
+Just another Thursday on arr git.
+
+> My org squashes com
+12: [17] u/gribbly (id: n4x4owg): Rebase means "re-apply my local changes on top of freshly-pulled branch state" rather than attempt t
+13: [17] u/danishjuggler21 (id: n4vcsap): This is rebasing commits that hadn’t even been pushed yet - that’s widely considered fair game by ev
+14: [15] u/cujojojo (id: n4vhldm): Right. Until I push, my branch is my sovereign kingdom and I am its ruler.
+
+There’s nothing as satis
+15: [13] u/Ayjayz (id: n4wk2jb): Rebase changes the hash because it has a new parent. Git pull without rebase introduces a lot of nee
+16: [12] u/watercouch (id: n4v3y68): We prefer squash-to-main because then only *code-reviewed* commits are part of the history in main, 
+17: [11] u/PsychologicalTip5446 (id: n4xcsrq): Just send the diff between mainline and your local commit for code review. It's pretty simple
+18: [11] u/Liskni_si (id: n4vtejy): The sausage making can be and often is important. Throwing it away should be a crime.
+19: [10] u/justadudenamedchad (id: n4u33t9): That last line is the same as a git pull rebase.
+20: [9] u/zeuswatch (id: n4vzepy): Which book, I may ask?
+21: [8] u/whatssenguntoagoblin (id: n4v4gd7): Yeah that was a shocking statement considering they’ve been a dev 7 years on what they claim large c
+22: [8] u/FlipperBumperKickout (id: n4v23r3): You don't really solve anything with squash other than not having to apply --first-parent to certain
+23: [8] u/andyhite (id: n4ubt9b): Everyone always shits on rebase or thinks that the only purpose is to have a clean git history, but 
+24: [8] u/sintrastes (id: n4weo07): Bruh, if OP wanted a ChatGPT answer they would have just asked ChatGPT.
+25: [7] u/perl5girl (id: n4yh5r3): Yeah, he was right, you were identifying his change wrongly. If anything, rebasing makes seeing the 
+26: [7] u/Tacos314 (id: n4vtp0j): I agree, doing pull -r is not going to destroy anyone's work, your just move your commits to head.
+27: [7] u/doesnt_use_reddit (id: n4ujvsd): I do it exclusively. But the whole team does not need to use the same flow. Some devs can rebase the
+28: [7] u/chimneydecision (id: n4u6si2): Started feature X, WIP, WIP, WIP, fix typo, WIP, finished feature X, fixed bug, fixed other bug, fix
+29: [6] u/99_product_owners (id: n4wqz98): > I’m stunned by the fact you’ve never had to look through the git history
+
+I've heard this before f
+30: [6] u/yawaramin (id: n4typlr): I'm confused, in the OP you said:
+
+> this is the first time I've seen anyone use 'git pull --rebase'
+31: [5] u/obesefamily (id: n4wokyd): I'm new. what does it do exactly
+32: [5] u/perl5girl (id: n4z57my): When you rebase, your branch contains only your commits. You force push. The PR contains only your c
+33: [5] u/green0wnz (id: n4x55zz): Eh, in my experience the squashing workflow makes rollbacks harder because the problematic commit is
+34: [5] u/notkraftman (id: n4xf3ve): Yeah I rebase -i so I can squash my shitty commits and fix their messages before getting a review
+35: [5] u/Hefty_Incident_9712 (id: n4vztdz): >I've never once needed to trapse through commit history to resolve an issue with the code
+
+You're m
+36: [5] u/yawaramin (id: n4ufiom): Don't let multiple people push to the same feature branch in normal workflows. There may be some ext
+37: [5] u/dalbertom (id: n4u37wq): I don't think it's so much about hiding how many commits it took someone to do a job, but more about
+38: [4] u/smutaduck (id: n4zsnah): This is correct. At some point you’ll have an urgent need to git bisect. A rebase workflow makes thi
+39: [4] u/b4rbs3v3n (id: n51jbs9): It's not like this is a "one way is better than the other way" type of thing for me. I might review 
+40: [4] u/connka (id: n4wfu5l): This was also my reaction. I look at commit history constantly for things like:
+
+- letting users kno
+41: [4] u/Liskni_si (id: n4w8u46): That's quite a lot of extra work to what should just be a git blame. And it relies on never ever mig
+42: [4] u/Linaran (id: n4w1jbv): I usually take a step further and do rebasing until I actually share the branch with anyone else. Ju
+43: [4] u/Embarrassed-Ad-7329 (id: n4u6cbu): My entire team uses git pull --rebase, mostly because we branch from a specific version branch to do
+44: [3] u/iwanofski (id: n5f3cxz): This is how I do it as well!
+45: [3] u/Hazzula (id: n5n8g1l): This is how i do it. I always have to explain to newer devs because they just git pull and then go *
+46: [3] u/MCFRESH01 (id: n5ow8k4): Also manually rebase. Mostly because I had no idea I could see it to always do it
+47: [3] u/y-c-c (id: n51qkur): IMO the only way to do git pull is to configure it to do `--ff-only`. If there are local commits I w
+48: [3] u/rwong48 (id: n50oc9x): it's fine for short fresh work, but anything complex (potential conflicts, files added/renamed/delet
+49: [3] u/Mastercal40 (id: n4zqamh): Rebasing is a tool. Used well it can make history cleaner. Used badly, it can make it messier.
+
+You 
+50: [3] u/VerboseGuy (id: n4xjzii): He is probably not overwriting the commits when pushing his changes.
+51: [3] u/Critical_Ad_8455 (id: n51z6l2): 1) read the book
+
+2) what do you mean? What kind of conflicts? Like when one of the commits being re
+52: [3] u/Poat540 (id: n4x7hhg): Why are there merges? Git pull will bring my local up to date with remote?
+
+I’d want local dev to ma
+53: [3] u/[deleted] (id: n51e8j5): I normally just stash my local changes, do a git pull and then pop my changes. Would this git pull w
+54: [3] u/b4rbs3v3n (id: n51iged): Fine unless you already have commits. Rebase edits the commit history, placing relevant commits befo
+55: [3] u/ThaDon (id: n4vkwit): I don’t think they’ve ever had to rollback a change either…
+56: [3] u/elephantdingo (id: n4w09dh): - We use a distributed version control system, the history is all there locally when you need it
+- L
+57: [3] u/ImTheRealCryten (id: n4vzbgk): I was looking for this comment! Following the first parent and having a good merge strategy is how I
+58: [3] u/danishjuggler21 (id: n4vo1tw): You are not its ruler - you are its _god_. You willed it into existence.
+
+“You have no right to reba
+59: [3] u/JiveAceTofurkey (id: n4u050h): This is the common current workflow that shows both rebasing and merging via pull:
+
+Start dev work:
+
+60: [3] u/waterkip (id: n4u51pa): If it is a shared branch hold off rebasing till your done working on it. You can still do it in a pr
+61: [3] u/jubishop (id: n4u2nlo): In mercury based large repos like at Google/FB, the equivalent of rebase was the norm.
+62: [3] u/IgotoschoolBytrain (id: n4uc5mn): Yes I use rebase often
+
+If working a feature branch at the HEAD, suddenly you or someone else at the
+63: [3] u/EagleCoder (id: n4u3twp): >I've worked with some who preached about the need for a clean commit history
+
+Was it me?
+64: [3] u/[deleted] (id: n4ugy1s): No disrespect but how you dev for 7 years and never rebase
+65: [3] u/danishjuggler21 (id: n4vdbi6): Neither is “merged feature-branch-69 into feature-branch-69” 12 times in a row because two knucklefu
+66: [3] u/elephantdingo (id: n4ut9zy): Drafts and revisions on documents is for freaks who want to hide their typos and train of thought.
+67: [3] u/JauriXD (id: n4uxhr3): Using `git pull` has a known issue when the remote has diverged from your local state. It merges the
+68: [3] u/JauriXD (id: n4v30kl): Yes exactly. And it recreates all commits seperatly (making it all one would be a squash).
+
+But take
+69: [3] u/FlipperBumperKickout (id: n4v3rzu): Since you don't use branches you just lost the ability to see which state master was in before you p
+70: [2] u/Masterflitzer (id: n5ben9l): okay now i understand, that would actually make sense for my workflow, i could change it to do this:
+71: [2] u/Masterflitzer (id: n5bfzcr): yeah for sure it makes sense now that i think about it, you might've just convinced me, i'll try it 
+72: [2] u/Onejt (id: n5e5s2p): Thx
+73: [2] u/Shazvox (id: n4z5qmr): No clue myself. I don't rebase... I'm just the poor sod that had to code review his stuff. He blamed
+74: [2] u/drsoftware (id: n533qg1): Maybe the other developer rebased off a different branch than master/dev, or the target branch? 
+75: [2] u/fun2sh_gamer (id: n564x2q): You have no idea how Git works. I have seen so many ppl in interviews claiming to be senior devs but
+76: [2] u/Nidrax1309 (id: n57xa9v): I never had to force push after a simple rebase, what scenarios are you talking about?  
+  
+I mean: 
+77: [2] u/anor_wondo (id: n53jsqb): I always have this as default
+78: [2] u/Aware_Magazine_2042 (id: n57js9h): I actually find fixing conflicts in rebases much much easier than in merges. Rebase will apply your 
+79: [2] u/hides_from_hamsters (id: n4x9lj5): Yea. If you never merge to master locally rather than PRs and you never have commits on master that 
+80: [2] u/[deleted] (id: n51ir1c): Right, so it’s probably fine for a spike branch or something with barely any changes but if I’ve alr
+81: [2] u/LossPreventionGuy (id: n5qqrdw): it won't override them, it'll add your commits to the end
+82: [2] u/Aware_Magazine_2042 (id: n57l5sp): I’ve had an engineering manger on a seperate team complain about my git habits because I just typica
+83: [2] u/m00fster (id: n5eztsj): Exactly, at the end of the day it doesn’t matter. The only people who suffer are the ones obsessing 
+84: [2] u/pceimpulsive (id: n4wtvbh): Always forward!!
+
+Never deploy if it's broken!
+
+Then you never need a rollback..
+
+Jokes aside, we've
+85: [2] u/RarestSolanum (id: n4vza6d): It's not being thrown away, it's still visible from the merged PR
+86: [2] u/ratttertintattertins (id: n4wt4vf): But surely the git blame is more useful when it shows the squashes?  Then the thing you’re seeing in
+87: [2] u/Liskni_si (id: n4wunac): Just pass `--first-parent` to blame then?
+
+(Intermediate commits aren't necessarily more confusing. 
+88: [2] u/theRobzye (id: n4zki03): I fully agree with you but I’ve been on teams where some people genuinely just don’t commit properly
+89: [2] u/elephantdingo (id: n523j61): > And it relies on never ever migrating away from GitHub
+
+Not really if that ref contains all you ne
+90: [2] u/y-c-c (id: n51pwp5): It's about cleanly separated commits that allows for easier parsing of history, rolling back specifi
+91: [2] u/FlipperBumperKickout (id: n4yujf2): You have to specify which approach you are talking about :P
+92: [2] u/SirLestat (id: n4xxdad): Same but lost my sanity long time ago.
+93: [2] u/mdmd136 (id: n53gqb0): ya wtf, is this not the whole point of version control?
+94: [2] u/priestoferis (id: n4vsg23): For looking at incremental changes after a rebase: https://git-scm.com/docs/git-range-diff
+95: [2] u/iamkiloman (id: n4x51i3): Wow thanks for copy pasting the question into chatgpt, great value add.
+96: [2] u/paul_h (id: n4ucbc5): Piper & Sapling respectively, not mercurial I think
+97: [2] u/jubishop (id: n4ucn4f): Noted, I always typed hg but I guess it was just a wrapper.  Facebooks really was based on mercurial
+98: [2] u/paul_h (id: n4uf73d): That is true, it was for a while. What was Phabricator like as a day to day tool?
+99: [2] u/jubishop (id: n4ufbj4): I loved it.  And the arc command.  RIP
+100: [2] u/paul_h (id: n4uh082): What years were you there, may I ask?
+101: [2] u/jubishop (id: n4uh2qb): FB? 2008-2012
+102: [2] u/paul_h (id: n4uimjo): Thanks. Where are you with branching models in the years since?
+103: [2] u/jubishop (id: n4ukoka): I worked four years at Google just doing whatever they prescribed.  Besides that I just work on my o
+104: [2] u/paul_h (id: n4usdt6): I’m not arguing .. just helping to get more data for my understanding of those two companies. I main
+105: [2] u/AwkwardBet5632 (id: n55z0be): autodeps
+106: [2] u/priestoferis (id: n4urn61): I think it definitely should be preferred: https://bence.ferdinandy.com/gitcraft
+
+That being said, m
+107: [2] u/priestoferis (id: n4uxonx): I don't think so. Random first hit on google: https://www.stacking.dev/ (it's not even correct, ther
+108: [2] u/FlipperBumperKickout (id: n4v3alo): In the ideal world maybe. But sometimes the world ain't ideal.
+109: [2] u/RhoOfFeh (id: n4v7dui): A cleaner and easier to read commit history is one benefit.
+
+Not fucking up your code because mergin
+110: [2] u/catch-surf321 (id: n4wlqsq): You’re right, rest of these people in here championing rebase don’t truly understand that it is a wo
+111: [2] u/_Reddit_Player_One (id: n4ygdck): Senior dev here (12 years exp), and embarrassingly enough, I only recently switched to using git pul
+112: [2] u/Money_Lavishness7343 (id: n4yu9q2): its actually VERY common.
+
+Instead of merging commits in random order between your local commits cre
+113: [2] u/cutebuttsowhat (id: n4ywvm9): The rebase flow has been standard for the companies I’ve worked at since 2010 so definitely not new.
+114: [2] u/rocqua (id: n4z0bzj): Yes, this isn't just about having a clean history. It's about being able to know what the result of 
+115: [2] u/Mission-Landscape-17 (id: n501cn2): It is sufficently common that you can configure it as the default behaviour of git pull.
+116: [2] u/idangazit (id: n57zswz): The benefits and drawbacks are as follows:
+
+You are working in your local branch. Others are merging
+117: [2] u/MrKnives (id: n58dj58): Yes. Most devs I know do this
+118: [2] u/Beatsu (id: n5es9i2): `git pull --rebase` also avoids those ugly merge commits between local and remote branches too. E.g.
+119: [2] u/Vulsere (id: n4upumm): Or how do you not just read the man page
+120: [2] u/FlipperBumperKickout (id: n4v2t3z): lots of windows devs out there. man doesn't exist on windows 😭 (to the best of my knowledge... git -
+121: [2] u/easytarget2000 (id: n4vb7wy): The underlying issue here is that those are not valuable commits
+122: [2] u/Vulsere (id: n4v7onq): Thats a weird definition of team
+123: [1] u/Reddit_is_fascist69 (id: n5qng6m): This is what i do but now i may consider the single command.
+124: [1] u/dairylee (id: n5eb4w5): Or you can use the first parent flag in the bisect. 
+125: [1] u/Masterflitzer (id: n59tto0): how is it rare when you work on feature branches? every time someone merges their feature branch to 
+126: [1] u/y-c-c (id: n5b725w): I guess I have more a `git fetch` then `git merge` / `git rebase` workflow (I like git fetches to be
+127: [1] u/y-c-c (id: n5bf3na): Yeah I sometimes do explicit fetch from remote, but I do find that a nice part of `git switch main &
+128: [1] u/mrswats (id: n4uy8md): Same
+129: [1] u/DizzyAmphibian309 (id: n4zd8s8): Oh shit so all this time I've been using `git stash && git pull && git stash pop` when I could just 
+130: [1] u/drsoftware (id: n534g4g): Are you missing a git switch to master before the git pull and a git switch back to your feature bra
+131: [1] u/Aware_Magazine_2042 (id: n57iqc9): You still need to stash. Rebase only works commits. It’ll still fail if there are uncommitted change
+132: [1] u/Thorarin (id: n588hff): You need to force push if A had been pushed before. If you haven't pushed any commits yet, there is 
+133: [1] u/Nidrax1309 (id: n5898vu): If A had been pushed then someone else had to make a rebase anyway when pushing? So you just rebase 
+134: [1] u/Nidrax1309 (id: n57wb5j): The problem is not sticking to a single commit per PR principle in the first place, not the rebasing
+135: [1] u/[deleted] (id: n58cj7e): That's not how git works. Either he wasn't accurately explaining his process, or your PR gui was bor
+136: [1] u/aradil (id: n58rxrr): This sounds more like they weren’t merging master/main/feature branch back into their branches befor
+137: [1] u/mbeachcontrol (id: n4zb4cd): Somethings not right with the process or comment. The proper rebase is going move the branch point o
+138: [1] u/Shazvox (id: n4zhcht): You're gonna have to ask him exactly what he did. All I can vouch for is the result.
+139: [1] u/vekkarikello (id: n52665d): It sound like they Merged master to the feature branch rather than rebased. A rebase from master sho
+140: [1] u/drsoftware (id: n5342rd): But the PR, if from feature to master, should still show only the changes on the master branch. 
+141: [1] u/bobaduk (id: n52bwol): This is literally the opposite of what should happen. You should see his changes, and only his chang
+142: [1] u/Aware_Magazine_2042 (id: n57i06h): Rebases almost always result in cleaner pull requests and commit history. 
+
+If you saw all of those 
+143: [1] u/ginger_and_egg (id: n5joux4): Yeah he's doing something wrong
+144: [1] u/DatBoi_BP (id: n52phnf):     --main--A--B--C
+          \
+            branch--X--Y--Z
+
+After git rebase, assuming no conflicts
+145: [1] u/obesefamily (id: n4z1wu9): to all the ppl down voting the above comment, I'm a bot
+146: [1] u/LaOnionLaUnion (id: n4xea6s): My friend was showing me his rebase strategy that he’d setup. It’s certainly a thing people do.
+147: [1] u/wlonzy (id: n51uwqb): How do you fix conflicts with rebase?
+148: [1] u/NoHalf9 (id: n8px4e9): > How do you fix conflicts with rebase?
+
+By using a [proper 3-way merge tool](https://old.reddit.com
+149: [1] u/veegaz (id: n5mfzhs): Intellij has also always been doing this by default
+150: [1] u/DeepFriedOprah (id: n4y9ybs): Yeah that’s what I was gonna say. This doesn’t have as much of impact if ur using feature branches f
+151: [1] u/AnotherProjectSeeker (id: n4yd7l1): We work on feature branches. We don't pull rebase, but certainly we do rebase (remote) feature branc
+152: [1] u/Froot-Loop-Dingus (id: n4xh7vz): Doesn’t that noise go away if you squash?
+153: [1] u/m00fster (id: n5ez9if): We end up squashing feature branches into main so those extra commits have never been an issue
+154: [1] u/ldn-ldn (id: n5ly72c): There's no noise when you squash. Rebase is useless and only adds unnecessary overheads.
+155: [1] u/Ayjayz (id: n5oimj9): If you squash without rebasing, you're adding merge commits everywhere. You will have two commits pe
+156: [1] u/ldn-ldn (id: n5opxeu): No. What are you even taking about?
+157: [1] u/Ayjayz (id: n5oq4oh): What part don't you understand?
+158: [1] u/ldn-ldn (id: n5oq7t2): What part don't YOU understand?
+159: [1] u/Ayjayz (id: n5ort3o): I think I understand squashing and rebasing and merging at a pretty deep level. The only way to get 
+160: [1] u/ldn-ldn (id: n5ovd1v): Lol what? Your first graph is completely wrong.
+161: [1] u/WoodyTheWorker (id: n4wpia0): Man, if you don't rebase you commit history becomes a horrible mess.
+162: [1] u/Poat540 (id: n4x7m2u): It’s linear at the moment and follows git flow
+163: [1] u/twirling-upward (id: n5cfeck): There is something called squash, Its breathtaking I suggest you try it.
+
+Unless you like having a m
+164: [1] u/WoodyTheWorker (id: n5ch48l): I do **rebase -i** instead. Keep it in a few manageable steps, and also a few commits for debug code
+165: [1] u/Beatsu (id: n5esm86): The question is basically whether you want to sort commits by time (default) or by feature / logical
+166: [1] u/bbbb125 (id: n5fwxkw): Absolutely. We never touch other people’s commits, or branches other people are working on.
+Basicall
+167: [1] u/whatssenguntoagoblin (id: n580y8v): Yeah that’s pretty absurd criticism from a colleague, especially one not even on your team.
+
+I had a
+168: [1] u/MiniGod (id: n5i2mrr): Sometimes it's beneficial to split your work into multiple PRs, with revertability in mind. I see to
+169: [1] u/ldn-ldn (id: n5lyr9a): That's not the case with a squash.
+170: [1] u/Romestus (id: n53dvir): Before I moved to Gerrit we made sure every PR was squashed, rebased, and had a nice commit message 
+171: [1] u/elephantdingo (id: n4w3kls): Fine.
+172: [1] u/bingeboy (id: n4ygnoo): If you work in a continuous deployment model, this approach can quickly become a nightmare.
+173: [1] u/H2SBRGR (id: n4x1r9h): We also squash on merge and rebase our dev branches.
+We use gitlab too, so we can still check change
+174: [1] u/ClownCombat (id: n4ymzfw): This.
+175: [1] u/gemengelage (id: n5kmhyn): You don't get a "rebase commit" or anything that would make it obvious that `git pull --rebase` or a
+176: [1] u/xenomachina (id: n4xdw6q): Oof! No, me too. I had a brain fart and somehow missed that this was `pull --rebase` and not a manua
+177: [1] u/WoodyTheWorker (id: n4wqlly): Rebase does NOT delete history, it just makes a new sequence of commits. If you care how the sausage
+178: [1] u/hoexloit (id: n4xa0s9): You delete the sequence of commits and make new ones. That literally means you DELETE and rewrite hi
+179: [1] u/WoodyTheWorker (id: n4zsoe0): The old commits don't go anywhere. They are still accessible in your repository. Commit objects are 
+180: [1] u/[deleted] (id: n4ze4do): Yeah boi +1 -i.
+181: [1] u/Aro00oo (id: n5w7ic4): Not saying rebase isn't useful, but long running branches are kind of a smell in process. IME shippi
+182: [1] u/andyhite (id: n5wadu0): When I say "long running branch" I'm talking about a branch that's active for a day or two, not week
+183: [1] u/y-c-c (id: n51qc4a): You share feature branch with another developer? Like the other comment said I think that's the odd 
+184: [1] u/a_library_socialist (id: n4uw0nz): You shouldn't ve working off unmerged branches is the real issue.
+185: [1] u/eddiewould_nz (id: n58n5ao): Branch per environment... Yeah have done that before, never again thank you.
+
+I appreciate release b
+186: [1] u/catch-surf321 (id: n9fxn19): Can still easily cherry pick between branch per environment setups, in either direction. Branch per 
+187: [1] u/Conscious_Support176 (id: n5bsfi8): Obviously you don’t rebase between long lived branches. Nobody ever said you should. Seems a tad iro
+188: [1] u/catch-surf321 (id: n9fxwlk): “Obviously” lmao yea to who? Long lived branches must be maintained or they’re not long lived? Lmao 
+189: [1] u/Conscious_Support176 (id: naaxgmh): Sorry I’ve no idea what you’re trying to say here. Are you  trying to argue that a rebase between mu
+190: [1] u/Digirumba (id: n5iughd): I went the opposite direction several years ago. 😅
+
+We pushed for smaller commits, and decided git h
+191: [1] u/[deleted] (id: n5gamya): [removed]
+192: [1] u/cutebuttsowhat (id: n5kwzkp): I don’t know what gives the impression that going back through source control is something that woul
+193: [1] u/Toasterrrr (id: n4uvxly): yeah rebasing is quite helpful. i sometimes just delegate VSC to terminal tools like Warp.
+194: [1] u/[deleted] (id: n4ux8bb): One of the clients I worked with insisted using rebase only— mostly to keep commit history clean. I 
+195: [1] u/priestoferis (id: n4uych1): Also what I don't think I've seen mentioned: if a pull request is rebased instead of having random m
+196: [1] u/elperroborrachotoo (id: n4v0vzm): Rebase workflow delivers a linear, detailed history; it's great for small teams with good commit dis
+197: [1] u/FlipperBumperKickout (id: n4v1vbq): >dIf the only benefit is a cleaner and easier to read commit history, I don't see the need. I've wor
+198: [1] u/afops (id: n4v64tm): You only need it if you commit on the branch you are pulling - which for most workflows is ”never” d
+199: [1] u/YahenP (id: n4v76pb): Using git pull --rebase by default is a very convenient practice. And it's not even about the beauti
+200: [1] u/SkyNetLive (id: n4v9j6r): Rebase is common approach for many development workflows. Rtfm
+
+There are some drawbacks in corner c
+201: [1] u/epromeutcc (id: n4vfic1): I have this as my default setting, I always rebase my branches (the ones I’m the only one working on
+202: [1] u/krzyk (id: n4vjco1): I don't know. What is the other option?
+I always use `git pull --rebase --prune --tags` to update re
+203: [1] u/Particular_Wealth_58 (id: n4vkkd0): I barely work on a branch shared with others, so my flow is usually:
+
+```
+git fetch
+git checkout -b 
+204: [1] u/VerboseGuy (id: n4xlhcz): Don't you have to force push? Otherwise you'll see two times the same commit in history.
+205: [1] u/Particular_Wealth_58 (id: n4y9h93): In practice I do often push now and then (the example shows only one push), so I do need to force pu
+206: [1] u/VerboseGuy (id: n4yftmf): In my experience, git doesn't reject, it adds the commits on top of the original ones.
+207: [1] u/Last-Assistant-2734 (id: n4vmubb): > been a dev for 7 years and this is the first time I've seen anyone use 'git pull --rebase
+
+
+I'm no
+208: [1] u/[deleted] (id: n4vq9qw): I also prefer this way to ensure that it is clear which changes exactly were made why based on the l
+209: [1] u/cran (id: n4vqg1e): I hate teams where every engineer git merges everything everywhere all the time.
+210: [1] u/Tacos314 (id: n4vste4): I am not sure how you do it without git pull --rebase. Do you just live with merge conflicts and mer
+211: [1] u/orangeowlelf (id: n4vyl37): We only re-base at my shop. We use git pull —rebase daily.
+212: [1] u/IronSavior (id: n4w9m17): Didn't know anyone did anything else
+213: [1] u/Charming-Designer944 (id: n4wc58c): It is a valid workflow as a sole developer in a development branch.
+
+But squashed merges to main Is 
+214: [1] u/GrandManitou (id: n4wcxvd): “Why would I need to look at the history?”
+
+Have you ever used \`git bisect\` ?
+215: [1] u/agentbellnorm (id: n4wll85): Seven lean years
+216: [1] u/carlspring (id: n4wngm7): Yes, this is a correct way of doing it. This keeps a cleaner to read history without useless noise f
+217: [1] u/armahillo (id: n4wp2j2): This strategy (I wouldn't call it a workflow, specifically) is useful when you and a coworker are bo
+218: [1] u/wspnut (id: n4x7549): As they should. That said you don't need the `--rebase` flag if you have your `pull.rebase` config s
+219: [1] u/trustyhardware (id: n4x90md): Just want to chime in with an example of a large company doing this. Meta/Facebook basically require
+220: [1] u/[deleted] (id: n4xhd1z): [deleted]
+221: [1] u/kaddkaka (id: n51z7mc): "sevs“?
+222: [1] u/VerboseGuy (id: n4xl3g9): I use git pull --rebase, but don't expect it from a junior dev.
+223: [1] u/SeriousRazzmatazz454 (id: n4xoi80): If you're working on a shared branch where others do work. It necessary.
+
+
+If you're decomposing lar
+224: [1] u/wts_optimus_prime (id: n4xs2on): In all my previous projects we always used merge. In my current project we outlawed merge commits an
+225: [1] u/bingeboy (id: n4yfpk4): That's been the way I've done it for like 10 years or so. I think it's even the way git pull works b
+226: [1] u/tails142 (id: n4yp1hk): If I have made commits to the branch and there are new commits on remote, a git pull --rebase sorts 
+227: [1] u/codeninja (id: n50f2qb): Yes, I use it daily. Also, enable ReReRe for God's sake.
+228: [1] u/CluelessNobodyCz (id: n51od42): I have been working with Gerrit and rebase flow for years and then changed the job and came to merge
+229: [1] u/newlifepresent (id: n51ops7): I always use git rebase for the branches I worked for long (eg. Not hours but days) because while I 
+230: [1] u/noid- (id: n51y7h8): We have a git flow based on merges. Thats how it works in one specific Repo. Then someone goes „ah g
+231: [1] u/Dank-memes-here (id: n51zhqj): I'd say rebase is mandatory in most professional environments
+232: [1] u/tossed_ (id: n5243my): > I’ve never once needed to trapse through commit history to resolve an issue with the code
+
+You’ve 
+233: [1] u/hartmannr76 (id: n525zhw): I got reprimanded once for doing this workflow, by the guy working on a custom CI system because it 
+234: [1] u/CarsonChambers (id: n52v7g5): It depends on the utility you want to derive from your git log. Using the standard git pull merge st
+235: [1] u/aCuriousCoder (id: n53xhtj): I didn't knew, if it was not common. I can see many comments mentioning otherwise though.
+
+From pers
+236: [1] u/kesor (id: n54bs4i): Everyone is doing it.
+237: [1] u/[deleted] (id: n54dqp1): Add —autostash to the thing
+238: [1] u/rosshadden (id: n54hesg): How have you in 7 years not needed to go through git history while investigating an issue? Is it jus
+239: [1] u/efalk (id: n54uf27): I do it all the time. It gives you a cleaner git history.
+240: [1] u/Mayalabielle (id: n55gpgt): —force-with-lease
+241: [1] u/Otherwise-Tip-8273 (id: n55n2gf): You will also use squash and fixup and you will like it.
+242: [1] u/BigFattyOne (id: n56dena): Me I’m on the orher side and freak out when someone uses something ELSE than rebase 😂
+243: [1] u/itsallfake01 (id: n56u7af): Git pull — rebase and ask everyone to squash commits or setup your git repo to do it for each MR
+244: [1] u/KevinMcCallisterOver (id: n56we2k): “ I worked on several very large applications that span several teams.”
+
+“ I've never once needed to
+245: [1] u/Comprehensive_Mud803 (id: n56z6b4): This one is one of the many bad defaults, imho. 
+I usually set the config flag, but this the only wa
+246: [1] u/wolfiuscub (id: n56zibz): Been rebasing for 7+ years now.
+247: [1] u/ParabellumJohn (id: n5779da): Idk I just squash PRs on merge to main, no rebasing required and clean commit history
+248: [1] u/Altamistral (id: n57i49p): If you are working on shared feature branches you shouldn't rebase, every time you rebase the featur
+249: [1] u/Nidrax1309 (id: n57w2kj): I pretty much have been using rebase strategy for decades now. And usually disallow merge pull reque
+250: [1] u/lollysticky (id: n586sno): in my previous job, we always used a simple 'pull' and then when merging into master, your commits a
+251: [1] u/International_Bed_11 (id: n58dv4r): Yes i totally hate when people do git pull —merge. It creates this additional merge commit. Gives a 
+252: [1] u/coldstove2 (id: n58ff7p): It's paramount for trunk-based development. No long-lived feature branches means it's often simpler 
+253: [1] u/Masterflitzer (id: n59sjb8): git pull --rebase is very common and imo the proper way to do it, merges have their place of course,
+254: [1] u/schlenkster (id: n59zujn): My company squashes prs before merging them into master, so what you do on a branch really doesn’t m
+255: [1] u/antoine235 (id: n5ab4e3): dunno. since i learned how to do a rebase i never used anything else
+256: [1] u/daddygirl_industries (id: n5aw9ar): Maybe unpopular opinion but I prefer the merge to the rebase. It's less fiddly, and a "cleaner commi
+257: [1] u/Conscious_Support176 (id: n5bq75k): It’s not true to say that it as easy to do everything with a merge commit that you can do with a reb
+258: [1] u/MooseBoys (id: n5azfm2): > I've never once needed to (traverse?) through commit history
+
+Do you ever use `git blame`? Because
+259: [1] u/HawkOTD (id: n5b08e0): Don't do this please. Let people work as they please if it doesn't impact you at all.
+
+Rebasing inst
+260: [1] u/[deleted] (id: n5b15db): [deleted]
+261: [1] u/jaraxel_arabani (id: n5c2czz): You.. mean I shouldn't force push to main all the time? :-o
+262: [1] u/Conscious_Support176 (id: n5bn0sm): Do you not rebase you own branches before merging them? This is the same thing.
+
+Merge commits will 
+263: [1] u/Both-Fondant-4801 (id: n5cxkms): Yes it is common, at least for us. In our context, we have scripts that generate release notes from 
+264: [1] u/Quin452 (id: n5duk8o): As a general rule, I tell my employees not to pull unless they've finished working on a task; one ta
+265: [1] u/codeepic (id: n5gjvdj): Rebase is fun until you have merge conflicts and you have to resolve them ona commit-by-commit basis
+266: [1] u/Ballssz (id: n5gn07f): I always did git merge main/master into my branch before commits
+267: [1] u/what_a_dumb_idea (id: n5gvguz): Umm yeah that’s very common. Keep commits in sequence. The fact that you never in 7 years had to tra
+268: [1] u/mrfredngo (id: n5j6skh): You’ve… never had to traipse through the commit history to resolve an issue? … I’m speechless.
+269: [1] u/Slothvibes (id: n5m1zmv): Not even a dev and this is what I do for my Ds workflows, it’s standard protocol in gut readings bru
+270: [1] u/muscrerior (id: n5m2phh): >Obviously our team should all be using the same strategy of we're working shared branches.
+
+Not rea
+271: [1] u/m02ph3u5 (id: n5mjbi4): This is my default.
+272: [1] u/[deleted] (id: n5n9f3j): I’ve been writing software professionally for over 15 years and can’t remember the last time that it
+273: [1] u/stuaxo (id: n5notbx): You can either have a decent history or a pile of shite, if it's the latter then it will be a traips
+274: [1] u/Fearless_Heron_9538 (id: n5ol7g0): It’s mostly fine IF YOU DONT HAVE OTHER BRANCHES POINTING TO YOURS AS PARENT. Often times I break ch
+275: [1] u/sethkills (id: n62hubq): You ought to get out more.
+276: [1] u/Hawkes75 (id: n62l3lc): In a team environment where you might be branching off a branch that hasn't been merged yet, rebasin
+277: [1] u/sarnobat (id: n7i4b2w): If you pull regularly it is good.
+
+If you are pulling a few months of commits and have conflicts, it
+278: [1] u/Pevio1024 (id: n4tw3ba): Rebasing is great.  I prefer getting my local branch up to date and then rebasing off that, but git 
+279: [1] u/edinbourgois (id: n4uz54j): [ Removed by Reddit ]
+280: [1] u/stubbornKratos (id: n5cyk52): People will do this regardless of whether they use rebase or merge I find.
+281: [1] u/FlipperBumperKickout (id: n4v3262): How do I show of how hard I worked on this without ALL the original commits 🤣
+282: [1] u/dalbertom (id: n4wbuu4): I would agree that squashing all commits down to one is destroying history, but that's not what I wa
+283: [1] u/a_library_socialist (id: n4whuqp): You should have commit messages that are meaningful of course.
+
+The problem is that rebasing and for
+284: [1] u/dalbertom (id: n4wkw24): Hm, again, if you're referring to squash-and-merge and rebase-and-merge strategies to get a branch m
+285: [1] u/marcocom (id: n541gpd): Well it’s not that weird once you have led a team through a software project that actually delivered
+286: [1] u/[deleted] (id: n547upt): [deleted]
+287: [1] u/marcocom (id: n54kcsl): Are we maybe not talking about the same thing? Are you saying you’ve never had to work from a code s
+288: [1] u/[deleted] (id: n54vcxl): [deleted]
+289: [1] u/marcocom (id: n54xsw7): I am mortified
+290: [1] u/fun2sh_gamer (id: n5661cu): Like, Open 10,000 connection to Database without DB Connection Pool and say thats how you do things 
+291: [1] u/dEEkAy2k9 (id: n4uxqpa): so when people develop in parallel my commits won't be mixed with other commits but rather put toget
+292: [1] u/dEEkAy2k9 (id: n4v373n): Seems like i gotta do some testing to understand this better.
+
+Thank you.
+293: [1] u/TehFrozenYogurt (id: n5oq7wi): Suppose I have a feature branch and my history looks like Z (main/head) - A - B and I've pushed my b
+294: [1] u/Nidrax1309 (id: n5rb2pu): Gee, of course, I'm dumb. I got so used to my company's workflow with keeping everything a single co
+295: [1] u/TehFrozenYogurt (id: n5rd1zs): No worries, that's an interesting system you have at your company too, thanks for sharing!
+296: [1] u/Nidrax1309 (id: n5reb9q): Well, the single commit rule is due to us using Gerrit for code review which is its intended workflo
+297: [1] u/Ayjayz (id: n5ovhkx): Well go on, explain what you think is wrong about it and what it should be
+298: [1] u/ldn-ldn (id: n5r8lu2): If you have A-B-C in your master and you create a feature branch from C, then someone pushes D-E int
+299: [1] u/Ayjayz (id: n5rbm9d): I think you're getting your terms confused. A squash is where you combine commits. A rebase is where
+300: [1] u/ldn-ldn (id: n5rcrgb): No, it's you who is confused here. Squash (merge --squash) squashes your whole branch into a single 
+301: [1] u/Ayjayz (id: n5rd852): Can you answer my question about how you squash? Which command do you use? 
+
+And then, go test it ou
+302: [1] u/ldn-ldn (id: n5re67f): I told you everything. Read more carefully. Also git reset is not squash. I told you the command too
+303: [1] u/Ayjayz (id: n5rfwmf): Ah I see. You think a squash is only a `merge --squash`. Unfortunately, that's not the only way squa
+304: [1] u/ldn-ldn (id: n5rit8m): Unfortunately, you're talking utter bullshit. End of discussion.
+305: [1] u/maccam94 (id: n51wv7h): in my experience they're usually low quality unless someone makes the effort to do stacked PRs, but 
+306: [0] u/Poat540 (id: n4wg8bj): Why rebase rewrites commit hashes?
+
+Why not just git pull? I used rebase like 3 times in 10+ years.
+
+307: [0] u/ratttertintattertins (id: n4yfwve): This doesn’t make any sense to me.  Surely individual dev commits aren’t getting QA’d?  So you’d kin
+308: [0] u/hoexloit (id: n4wixlc): Rebase deletes history. I would have concerns rebasing on a shared branch.
+309: [0] u/JiveAceTofurkey (id: n4u3spa): Yes it is. It's the third command that is problematic given that there are new commits.
+310: [0] u/PerceptionSad4559 (id: n59iz85): \>  Obviously our team should all be using the same strategy of we're working shared branches.
+
+Don'
+311: [0] u/fabspro9999 (id: n5eh7q1): In other news, the sky is blue.
+312: [-1] u/RarestSolanum (id: n4w29ww): git fetch origin pull/123/head:pr-123
+
+git checkout pr-123
+
+Congratulations, you've now checked out 
+313: [-1] u/JiveAceTofurkey (id: n4ty2te): That all makes sense and thanks for the detailed response. It makes me think we aren't doing things 
+314: [-1] u/marcocom (id: n4ub5g4): Don’t let people improvise. It’s import that everyone is uniform on a team. Otherwise it’s not a tea
+315: [-1] u/dEEkAy2k9 (id: n4uwc7i): could someone explain this to me?
+
+we are currently switching from svn to git and my workflow looks 
+316: [-1] u/Comprehensive-Pea812 (id: n4zkny2): that is the kneejerk of how to use git by default. 
+
+although my previous team ditched that because 
+317: [-2] u/Shazvox (id: n4yylmu): Not really. Instead of having a PR with just his changes I have a PR with his changes plus additiona
+318: [-2] u/a_library_socialist (id: n4uvurc): You're not writing a novel.  You're committing, and then destroying the history.
+319: [-3] u/Shazvox (id: n4xa8j6): Had a coworker who did something like that. It was a bitch to code review. Not only did I see all hi
+320: [-6] u/[deleted] (id: n4tzzse): [deleted]
+321: [-15] u/MrChrisRodriguez (id: n4wswcv): ^ ask chatgpt — will give a great intro without the wait for a human response 

@@ -1,0 +1,1142 @@
+
+[283] u/Critical_Ad_8455: Read the book. Git pull --rebase is incredibly common, to the point there's a setting to do it automatically when pulling, git config pull.rebase bool.
+
+[93] u/xternalAgent: This is how I have it, no other way to git pull IMO
+
+[82] u/B_A_Skeptic: Yes, it is a common strategy.
+
+[78] u/ratttertintattertins: I’m stunned by the fact you’ve never had to look through the git history on a large project.  We do this all the damned time.
+
+My org squashes commits into main at PR time so our history is pretty tidy anyway.  For us, rebase is just to keep your dev branch tidy as you work for your own sanity.
+
+[51] u/bbbb125: It keeps your commits in sequence, then it’s easier to squash or cherry-pick a set of commits if you’re making a patch.
+
+[26] u/granddave: Yes, or rather, I split it up in two. I first fetch from the remote and then a manual rebase. I like to have control over it.
+
+[25] u/[deleted]: [removed]
+
+[24] u/xenomachina: > Obviously our team should all be using the same strategy of we're working shared branches.
+
+It shouldn't matter to others that aren't using it. The end result looks like they created their changes on top of the current version of the target branch, rather than having a bunch of random merges interspersed with their work. 
+
+There are potentially dangers with rebasing **already pushed commits on a shared branch**, but `git pull --rebase` only rebases unpushed commits, so it has no real negative impact on others.
+
+Edit: I originally warned more about the dangers of rebasing on a shared branch, but had somehow missed that this post is specifically talking about `pull --rebase`, not just a plain rebase. To avoid misinformation I've updated this comment to fit reality.
+
+[20] u/brelen01: For me, pull --rebase has become the gold standard. I've had to wade through too many terrible git histories to ever do otherwise again.
+
+[19] u/Soggy_Writing_3912: EXACTLY!
+
+  
+For more advanced usage, if you end up using \`git bisect\`, then in my experience, the bisect is not clean enough if / when it hits the merge commit. (I admit that I was a noob when I tried this, and so my experience might have been tainted by the lack of knowledge at that time). I have continued to use git pull with rebase. One of the other things I do is to squash all commits within a PR before it is merged into the main/master. This allows for atomically green commits (ofc, CI on the PR branch after squashing should remain green, before its merged in) and thus also helps in using bisect at a later stage to find offending commits.
+
+[19] u/drcforbin: This one: https://git-scm.com/book/en/v2
+
+Search for "rebase" in [here](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+
+[19] u/elephantdingo: “Why would I need to look at the history?”
+
+Just another Thursday on arr git.
+
+> My org squashes commits into main at PR time
+
+Ditto.
+
+Edit: I see first now that this comment of mine is ambigious.
+
+[17] u/gribbly: Rebase means "re-apply my local changes on top of freshly-pulled branch state" rather than attempt to merge.
+
+So when you do pull --rebase it's as if your local changes were temporarily reverted, then you get the new code from the remote, then your changes are re-applied on top of that.
+
+[17] u/danishjuggler21: This is rebasing commits that hadn’t even been pushed yet - that’s widely considered fair game by everyone who’s ever used git except for you and OP.
+
+[15] u/cujojojo: Right. Until I push, my branch is my sovereign kingdom and I am its ruler.
+
+There’s nothing as satisfying at work as taking my absolute mess of a feature branch and squashing down so I look like some sort of wizard who never makes mistakes.
+
+[13] u/Ayjayz: Rebase changes the hash because it has a new parent. Git pull without rebase introduces a lot of needless merges. They just add noise to the history without adding any value.
+
+[12] u/watercouch: We prefer squash-to-main because then only *code-reviewed* commits are part of the history in main, and main is what is continually deployed to prod. Every change in prod is a reviewed commit with associate work-items. No-one needs to see the sausage making from private branches in that history.
+
+[11] u/PsychologicalTip5446: Just send the diff between mainline and your local commit for code review. It's pretty simple
+
+[11] u/Liskni_si: The sausage making can be and often is important. Throwing it away should be a crime.
+
+[10] u/justadudenamedchad: That last line is the same as a git pull rebase.
+
+[9] u/zeuswatch: Which book, I may ask?
+
+[8] u/whatssenguntoagoblin: Yeah that was a shocking statement considering they’ve been a dev 7 years on what they claim large codebases.
+
+That said my team uses the same workflow and I never have to rebase. Some people on my team do but at the end of the day all PRs get squashed and merged so it doesn’t matter unless you want a PRs commits to be clean. Now a specific PRs commits I rarely look at but not never. The main branch there is definitely issues where I have to be like what the fuck happened???
+
+[8] u/FlipperBumperKickout: You don't really solve anything with squash other than not having to apply --first-parent to certain commands ¯\\\_(ツ)\_/¯
+
+I would personally prefer a messy branch history I can dig through if needed rather than just the collective history in a single commit. (the result of which I easily could get with a couple of commands anyway)
+
+[8] u/andyhite: Everyone always shits on rebase or thinks that the only purpose is to have a clean git history, but there’s a lot more to it than that. When I’m working on a long-running branch, I commit frequently as a checkpoint - but before I ship the pull request (and sometimes at random points along the way) I like to review the entirety of the changes I’ve made and make sure there’s nothing I’ve overlooked…to do that, I do a soft reset to the commit I’m branched from. If I’ve merged that base branch in instead of rebased, it’s impossible since the commits are all part of the history sandwich - but if I’ve rebased, they’re all the bread of the history sandwich and it’s easy.
+
+[8] u/sintrastes: Bruh, if OP wanted a ChatGPT answer they would have just asked ChatGPT.
+
+[7] u/perl5girl: Yeah, he was right, you were identifying his change wrongly. If anything, rebasing makes seeing the changes much easier
+
+[7] u/Tacos314: I agree, doing pull -r is not going to destroy anyone's work, your just move your commits to head.
+
+[7] u/doesnt_use_reddit: I do it exclusively. But the whole team does not need to use the same flow. Some devs can rebase their branches and be fine, it just means fewer merge commits and they have to manage rebase conflicts, which are usually not bad at all. 
+
+I see no reason not to use a rebase based flow if you want to.
+
+[7] u/chimneydecision: Started feature X, WIP, WIP, WIP, fix typo, WIP, finished feature X, fixed bug, fixed other bug, fixed typo, actually finished X, fixed bug…
+
+Yep, that’s valuable commit history right there.
+
+[6] u/99_product_owners: > I’m stunned by the fact you’ve never had to look through the git history
+
+I've heard this before from a dev who has made similar arguments as OP against (paraphrasing) caring about VCS history. They seem to say it like it's some kind of contrarian "ha!" moment, too. Hot take: if you don't think commit history is valuable, you're probably the kind of dev that causes other devs to need to go back and read commit history..
+
+[6] u/yawaramin: I'm confused, in the OP you said:
+
+> this is the first time I've seen anyone use 'git pull --rebase'
+
+But in your comment you said:
+
+> We do update all merge requests with a rebase with main
+
+Both can't be true at the same time, right?
+
+[5] u/obesefamily: I'm new. what does it do exactly
+
+[5] u/perl5girl: When you rebase, your branch contains only your commits. You force push. The PR contains only your commits.
+
+I don't know, perhaps your developer is getting a message from the server that they can't push and they are ending up merging their branch with upstream after rebasing. That way lies disaster and confusion.
+
+This is something I have had to tell people 1000 times, and they keep forgetting:
+
+**After rebase, your next push must be forced**
+
+[5] u/green0wnz: Eh, in my experience the squashing workflow makes rollbacks harder because the problematic commit is now squashed with other non problematic commits that were made in the same PR. Now because simply reverting the one problematic commit is impossible, you have to make an entirely new commit and undo the problematic code manually.
+
+[5] u/notkraftman: Yeah I rebase -i so I can squash my shitty commits and fix their messages before getting a review
+
+[5] u/Hefty_Incident_9712: >I've never once needed to trapse through commit history to resolve an issue with the code
+
+You're missing out on one of the best contextual debugging tools available to you if you don't ever use `git blame`. Like if you encounter a bug in some part of the code, you're not interested in *what else changed* when that bug was introduced?
+
+[5] u/yawaramin: Don't let multiple people push to the same feature branch in normal workflows. There may be some extraordinary circumstance where it's needed, but otherwise, don't share branches. There's basically no reason to. Branches are cheap. Just have people push to their own branches and `git pull` becomes zero risk.
+
+[5] u/dalbertom: I don't think it's so much about hiding how many commits it took someone to do a job, but more about removing the scaffolding after the building is complete. Going through an editorial process when writing something is very common practice to make sure the story is presented more cohesively, since more often than not, clarity is achieved towards the end of the project.
+
+[4] u/smutaduck: This is correct. At some point you’ll have an urgent need to git bisect. A rebase workflow makes this practical.
+
+[4] u/b4rbs3v3n: It's not like this is a "one way is better than the other way" type of thing for me. I might review my commits more often and I appreciate a less chaotic tree. It doesn't override them, it just places commits that happened before yours instead of just creating a new merge commit between the remote commits and your local.
+
+Note: I'm far from a git expert, my understanding is pretty subpar, this is how I understand it
+
+[4] u/connka: This was also my reaction. I look at commit history constantly for things like:
+
+- letting users know updates and bug fixes
+- in the event that a bug was merged so we can revert a commit as a hotfix (aka why it's helpful to squash)
+- to get context on an old change when working on something new
+
+I literally look at commit history multiple times a day. I joined a company recently that didn't squash and it drove me crazy, so I got everyone in board with squashing and now we have the cleanest git history. It is so incredibly helpful.
+
+[4] u/Liskni_si: That's quite a lot of extra work to what should just be a git blame. And it relies on never ever migrating away from GitHub — those of us who've been around for a while know that some projects get to live in multiple version control systems and countless forges over their lifespan.
+
+[4] u/Linaran: I usually take a step further and do rebasing until I actually share the branch with anyone else. Just because I pushed it to the repo doesn't mean I'm sharing it. When I agree with someone to also do commits into that branch, then I start playing nice.
+
+Btw when I am jointly working with someone we usually create a common feature branch and PR our own branches into the feature branch. Allows everyone to do as much or as little rebasing as they want.
+
+[4] u/Embarrassed-Ad-7329: My entire team uses git pull --rebase, mostly because we branch from a specific version branch to do a feature or bugfix, do one to a couple of commits concerning the entire ticket, then rebase before opening the PR.
+
+I see a bunch of benefits: If something goes wrong, you only need to "undo" one commit with the name of the ticket. You can easily see what changes were needed for each task. The log gets clear and its easier to track what the others are doing. It also makes it easier to cherry-pick changes across multiple versions.
+
+The code base I work on is 15+ years old, so there is the need to ocasionally look at the history (even if it's only to see who fucked up). But yeah for a lot of people it just seems to be a matter of taste.
+
+[3] u/iwanofski: This is how I do it as well!
+
+[3] u/Hazzula: This is how i do it. I always have to explain to newer devs because they just git pull and then go *surprised Pikachu face* when there are conflicts
+
+[3] u/MCFRESH01: Also manually rebase. Mostly because I had no idea I could see it to always do it
+
+[3] u/y-c-c: IMO the only way to do git pull is to configure it to do `--ff-only`. If there are local commits I would rather know about it and manually rebase.
+
+These situations should usually be rare anyway. In most non-trivial Git repos, most people would be developing on isolated feature branches, so most `git pull` should not introduce any merges/rebases at all, unless you are setting the feature branch remote to pull from main I guess.
+
+[3] u/rwong48: it's fine for short fresh work, but anything complex (potential conflicts, files added/renamed/deleted/moved) you should just commit WIP often
+
+[3] u/Mastercal40: Rebasing is a tool. Used well it can make history cleaner. Used badly, it can make it messier.
+
+You and your colleague are both blaming the tool instead of learning how to use it.
+
+[3] u/VerboseGuy: He is probably not overwriting the commits when pushing his changes.
+
+[3] u/Critical_Ad_8455: 1) read the book
+
+2) what do you mean? What kind of conflicts? Like when one of the commits being rebased affects a file that's also affected in one of your commits? In that case you'll have to decide how to merge them manually. What action exactly you'd take depends on what message exactly it gives you.
+
+[3] u/Poat540: Why are there merges? Git pull will bring my local up to date with remote?
+
+I’d want local dev to match remote dev?
+
+Dev will have squashed feature commits, 1 per feature. Those id want to pull down as is.
+
+Maybe it’s moot since our team works of feature branches always? The team isn’t fighting over same branch
+
+[3] u/[deleted]: I normally just stash my local changes, do a git pull and then pop my changes. Would this git pull with rebase accomplish the same thing?
+
+[3] u/b4rbs3v3n: Fine unless you already have commits. Rebase edits the commit history, placing relevant commits before yours instead of JUST merging
+
+[3] u/ThaDon: I don’t think they’ve ever had to rollback a change either…
+
+[3] u/elephantdingo: - We use a distributed version control system, the history is all there locally when you need it
+- Like the sausage making?
+- No that lives in the Chrome, are you mad?
+
+[3] u/ImTheRealCryten: I was looking for this comment! Following the first parent and having a good merge strategy is how I ask our team to do it. I feel a lot of people shit on not squashing/rebasing and think that’s the only viable option, but some of those have never heard of the first parent option.
+
+[3] u/danishjuggler21: You are not its ruler - you are its _god_. You willed it into existence.
+
+“You have no right to rebase those commits!”
+
+“I have the _only_ right.”
+
+[3] u/JiveAceTofurkey: This is the common current workflow that shows both rebasing and merging via pull:
+
+Start dev work:
+
+`git checkout -b feat/foo-bar`
+
+Add commits:
+
+`git commit -m 'feat: bar foo`
+
+Pull latest shared dev branch:
+
+`git pull`
+
+Update with latest main:
+
+`git fetch origin main:main`
+`git rebase main`
+
+[3] u/waterkip: If it is a shared branch hold off rebasing till your done working on it. You can still do it in a private branch of course.
+
+But if you both work on a shared branch pull rebase with the shared remote isnt a bad thing to do. Pull rebase merge your own work, push. It should be painless.
+
+[3] u/jubishop: In mercury based large repos like at Google/FB, the equivalent of rebase was the norm.
+
+[3] u/IgotoschoolBytrain: Yes I use rebase often
+
+If working a feature branch at the HEAD, suddenly you or someone else at the upstream pushed something to the master branch, then it is much better just rebase the feature branch to the master and then starts at that point cleanly. Don't really want to use merge most time.
+
+[3] u/EagleCoder: >I've worked with some who preached about the need for a clean commit history
+
+Was it me?
+
+[3] u/[deleted]: No disrespect but how you dev for 7 years and never rebase
+
+[3] u/danishjuggler21: Neither is “merged feature-branch-69 into feature-branch-69” 12 times in a row because two knucklefucks are both pushing and pulling to the same branch.
+
+[3] u/elephantdingo: Drafts and revisions on documents is for freaks who want to hide their typos and train of thought.
+
+[3] u/JauriXD: Using `git pull` has a known issue when the remote has diverged from your local state. It merges the remote into your state, but from a  "pretty history" standpoint it should be the other way around. The commits on the server are the public history and you should merge your local stuff into that.
+
+Using `git pull --rebase` is one of the options to fix that. It rebases your local commits on top of the stuff that gets pulled from the server. This makes the commit history linear again, but recreates your commits.
+
+Hope that helps
+
+[3] u/JauriXD: Yes exactly. And it recreates all commits seperatly (making it all one would be a squash).
+
+But take it with a grain of salt, as rebasing re-apples commits to a different base commit, so while the algorithms are quite good at catching and raising conflicts for you to resolve, it can technically produce different code than you originally committed.
+
+[3] u/FlipperBumperKickout: Since you don't use branches you just lost the ability to see which state master was in before you pushed. (it reflects your commit history rather than the history it itself was in on your server)
+
+Since you can't see which commit master was at before you pushed you just lost the ability to reset master to the state it was in before your push in case something breaks.
+
+[2] u/Masterflitzer: okay now i understand, that would actually make sense for my workflow, i could change it to do this:
+- git switch main
+- git pull
+- git switch feature/it
+- git rebase main
+
+i rarely do an explicit fetch, but the switch to main and back is something i can see myself liking
+
+[2] u/Masterflitzer: yeah for sure it makes sense now that i think about it, you might've just convinced me, i'll try it next week at work, but i already think i'll like it
+
+[2] u/Onejt: Thx
+
+[2] u/Shazvox: No clue myself. I don't rebase... I'm just the poor sod that had to code review his stuff. He blamed the rebase, I took his word for it...
+
+[2] u/drsoftware: Maybe the other developer rebased off a different branch than master/dev, or the target branch? 
+
+[2] u/fun2sh_gamer: You have no idea how Git works. I have seen so many ppl in interviews claiming to be senior devs but dont know how rebase works.   
+If you are seeing changes other than the feature branch commit, its not the problem of rebase. It may be your dev merged another branch in his branch. Or, when you are doing a diff, you are using a different target branch than his original target branch
+
+[2] u/Nidrax1309: I never had to force push after a simple rebase, what scenarios are you talking about?  
+  
+I mean: I am on a branch. The HEAD is currently on commit Z, I make two commits A and B, then do a rebase pull, new commits I, J, K are put on the tip and then my A, B commits rebased. The history looks then like this:  
+Z–I–J–K–A–B  
+  
+And them I make a normal push. Like... Do I live in a parallel universe or am I missing something?
+
+[2] u/anor_wondo: I always have this as default
+
+[2] u/Aware_Magazine_2042: I actually find fixing conflicts in rebases much much easier than in merges. Rebase will apply your changes one by one on top of the commits you’re pulling it, merge will attempt to do all of them at once. What this means is that rebase will actually keep merges more tightly scoped and easier to reason about. 
+
+Often times, there is actually only one really small part of the history that’s conflicting, but because of the way the changes compounded over subsequent commits, the conflict gets much much larger. With rebase, it will actually solve that conflict earlier in the history before the compounding. I have had merge conflicts be like 50 lines when trying to merge, but only be about 5 lines when I rebase. 
+
+Sometimes it turns tedious and the same conflict is happening on every commit in the rebase, and that’s a sign of the compounding changes I was talking about. That doesn’t happen very often though, and it usually happens when I want to take parts of both changes, and it’s still much tighter scope so imo easier to grok.
+
+[2] u/hides_from_hamsters: Yea. If you never merge to master locally rather than PRs and you never have commits on master that you move to a new branch, then you may not be introducing merges.
+
+[2] u/[deleted]: Right, so it’s probably fine for a spike branch or something with barely any changes but if I’ve already made commits it’ll probably override them?
+
+[2] u/LossPreventionGuy: it won't override them, it'll add your commits to the end
+
+[2] u/Aware_Magazine_2042: I’ve had an engineering manger on a seperate team complain about my git habits because I just typically only have one or two commits in PRs. I like to keep my commit messages have a lot of detail on them. They should be able to be the description of my PR with out me needing to type anything in GH. As a result, I’ll do a lot of `git commit -a —amend` especially if I’m making small little changes that don’t fundamentally change the PR or work (running lint, fixing tests, etc). If it’s a change that takes more than 30 minutes, maybe I’ll create a new commit for that, but I keep my PRs small and tight, so there’s not a whole lot there. 
+
+Anyway, this guy complained because he didn’t like it. He liked seeing all of the commit history because he felt that meant devs were “working.” I wasn’t even on his team, I was doing some tiger team work for them, and I told him that’s how I operate, sorry. My manager had to tell this guy to back off. 
+
+It drives me up the wall when I see a git log that’s just 
+
+```added the thing
+Fixed the test
+Linting
+Oops 
+Oops
+Oops
+Feedback
+Oops
+Oops
+Lint
+tests
+Oh changes something important 
+Oops
+```
+I don’t need to see that shit. Just tell me the important thing you did damn it.
+
+[2] u/m00fster: Exactly, at the end of the day it doesn’t matter. The only people who suffer are the ones obsessing over keeping a clean commit history in their feature branch that’s getting squashed anyway
+
+[2] u/pceimpulsive: Always forward!!
+
+Never deploy if it's broken!
+
+Then you never need a rollback..
+
+Jokes aside, we've been in a situation or where rollback was an option but always just resolving and going forward was better.
+
+My codebase(s) (multi repo project) probably not big enough to matter yet!!¿?
+
+[2] u/RarestSolanum: It's not being thrown away, it's still visible from the merged PR
+
+[2] u/ratttertintattertins: But surely the git blame is more useful when it shows the squashes?  Then the thing you’re seeing in blame is the completed pull requests and you can read the pr description easily etc and look at the review comments and test details along side it?
+
+Honestly, I don’t really want to see other devs intermediate commits in blame.  It seems like it’d be a lot more confusing although I’ve never tried it so maybe there’s ways to filter the level of detail from them?
+
+[2] u/Liskni_si: Just pass `--first-parent` to blame then?
+
+(Intermediate commits aren't necessarily more confusing. Only if they're low quality.)
+
+[2] u/theRobzye: I fully agree with you but I’ve been on teams where some people genuinely just don’t commit properly, so we used squash because the squash was actually more valuable than their insane commits.
+
+Took 6 months to introduce proper commit etiquette. Wild because this was drilled into me at my very first startup job so I was surprised at how few people understand the value of good commits.
+
+[2] u/elephantdingo: > And it relies on never ever migrating away from GitHub
+
+Not really if that ref contains all you need. They’ve fetched it so they have it locally. Just do that regularly.
+
+(Where I came from: I do not use GitHub most of the time. So I am used to the “just see the PR lmao” strategy to genuinely be behind at least a proprietary API and not a simple Git ref.)
+
+[2] u/y-c-c: It's about cleanly separated commits that allows for easier parsing of history, rolling back specific features, git bisect, etc. It also makes it easier to cherry pick changes if you have multiple branches or an upstream that you contribute to.
+
+[2] u/FlipperBumperKickout: You have to specify which approach you are talking about :P
+
+[2] u/SirLestat: Same but lost my sanity long time ago.
+
+[2] u/mdmd136: ya wtf, is this not the whole point of version control?
+
+[2] u/priestoferis: For looking at incremental changes after a rebase: https://git-scm.com/docs/git-range-diff
+
+[2] u/iamkiloman: Wow thanks for copy pasting the question into chatgpt, great value add.
+
+[2] u/paul_h: Piper & Sapling respectively, not mercurial I think
+
+[2] u/jubishop: Noted, I always typed hg but I guess it was just a wrapper.  Facebooks really was based on mercurial when I was there tho, I think.  In any case it was rebasing style afaik
+
+[2] u/paul_h: That is true, it was for a while. What was Phabricator like as a day to day tool?
+
+[2] u/jubishop: I loved it.  And the arc command.  RIP
+
+[2] u/paul_h: What years were you there, may I ask?
+
+[2] u/jubishop: FB? 2008-2012
+
+[2] u/paul_h: Thanks. Where are you with branching models in the years since?
+
+[2] u/jubishop: I worked four years at Google just doing whatever they prescribed.  Besides that I just work on my own things all by myself where it doesn’t really matter.   I was just commenting that perhaps this coworker uses the —rebase approach because they are used to it from working at somewhere like Google or fb.
+
+[2] u/paul_h: I’m not arguing .. just helping to get more data for my understanding of those two companies. I maintain https://trunkbaseddevelopment.com which only 20% of developers appreciate (I guess). My first hand google knowledge ended in 2009. Bleeding edge was an in house git wrapper for perforce as a backend. In 2014 I presented at a Perforce “Merge” conference on TBD things, and in passing mentioned Google use Perforce. I didn’t know they’d switched to Piper two years before. Perforce Inc keep de-listing my presentation :(
+
+[2] u/AwkwardBet5632: autodeps
+
+[2] u/priestoferis: I think it definitely should be preferred: https://bence.ferdinandy.com/gitcraft
+
+That being said, my current company squash-merges, so people just merge back main to their branch when needed. You'd think that's fine, and usually it's okay, but it gets annoying when you start working off of someone's unmerged branch.
+
+[2] u/priestoferis: I don't think so. Random first hit on google: https://www.stacking.dev/ (it's not even correct, there's a flag for rebase which propagates rebases along each branch of the stack).
+
+[2] u/FlipperBumperKickout: In the ideal world maybe. But sometimes the world ain't ideal.
+
+[2] u/RhoOfFeh: A cleaner and easier to read commit history is one benefit.
+
+Not fucking up your code because merging multiple changes went wrong is another.
+
+  
+Rebasing is like replaying your changes over the new baseline. Merging sucks by comparison.
+
+[2] u/catch-surf321: You’re right, rest of these people in here championing rebase don’t truly understand that it is a worse strategy when dealing with anything other than a single remote branch for main/master. It is definitely not the best choice when you have multiple branches that represent different environments while maintaining a release schedule with the ability to push hotfixes into certain branches. They truly don’t understand the headaches a rebase causes when applying downstream updates. There is a reason why merge is the default strategy. Imagine looking at git log or git blame instead of the the PR, again people championing it are used to amateur work environments with small teams.
+
+[2] u/_Reddit_Player_One: Senior dev here (12 years exp), and embarrassingly enough, I only recently switched to using git pull --rebase. GitHub Copilot nudged me to adopt it, highlighting a cleaner, linear commit history and fewer merge commits. Makes me wonder if the dev on your team might've also been influenced by some Al-generated git wisdom 😂
+
+[2] u/Money_Lavishness7343: its actually VERY common.
+
+Instead of merging commits in random order between your local commits creating a mess -  
+you rebase on the new state and your new local commits are still on top. Maintains a clean state of history.
+
+[2] u/cutebuttsowhat: The rebase flow has been standard for the companies I’ve worked at since 2010 so definitely not new. It’s surprising you’ve not had to ever go through a commit history to bug hunt.
+
+“If the only benefit is cleaner and easier to read history” I don’t know why downplay a very tangible benefit? You don’t see the need but you also didnt know it existed until this week. 
+
+It really sounds like you’re looking for an excuse to go with what you know which is a silly bias. Do you have an argument _for_ the merge workflow?
+
+It’s such minimal change in your workflow, what’s the harm in trying something new that clearly is common in the industry and has tangible benefits? Don’t become an old man yelling at clouds.
+
+[2] u/rocqua: Yes, this isn't just about having a clean history. It's about being able to know what the result of a 'merge' will look like. By rebasing, before you have a pull request, you already know what the state of the new branch will look like before you do the pull/merge request. And whilst working on it, before handing in the pull/merge request, you already know what the code will look like.
+
+In other words, it front-loads the conflict resolution. Making it easier to handle.
+
+[2] u/Mission-Landscape-17: It is sufficently common that you can configure it as the default behaviour of git pull.
+
+[2] u/idangazit: The benefits and drawbacks are as follows:
+
+You are working in your local branch. Others are merging to main all the time. Ultimately, you too must merge to main. Constantly pulling with rebasing just means "replay my work on top of the latest from the branch I came from"
+
+You keep your work branch mergeable. If your work has conflict with main, you're going to need to decide what to do. The rebasing process forces you to deal with those changes. Most of the time, your work should be touching code that others are not directly editing too. Which means that most pull rebases apply without incident. Most of the time, it's just like… a pull.
+
+If you have successfully rebased on another branch (like main), you will be able to merge cleanly into it. You can deal with rebase.conflicts in the end when you want to merge, or you can do it cheaply as you go. It is way, way easier to do it the as-you-go way.
+
+And yeah it also makes for cleaner history. But that's benefit is just the cherry on top of why it's nicer to use.
+
+[2] u/MrKnives: Yes. Most devs I know do this
+
+[2] u/Beatsu: `git pull --rebase` also avoids those ugly merge commits between local and remote branches too. E.g. `Merged feat123 into feat123`.
+
+You're right in that you'll rarely need these benefits, but it *is* nice in case you ever do need it and the cost is extremely low since you can set the global config pull.rebase true (I even forget that I have it enabled).
+
+[2] u/Vulsere: Or how do you not just read the man page
+
+[2] u/FlipperBumperKickout: lots of windows devs out there. man doesn't exist on windows 😭 (to the best of my knowledge... git --help does however)
+
+[2] u/easytarget2000: The underlying issue here is that those are not valuable commits
+
+[2] u/Vulsere: Thats a weird definition of team
+
+[1] u/Reddit_is_fascist69: This is what i do but now i may consider the single command.
+
+[1] u/dairylee: Or you can use the first parent flag in the bisect. 
+
+[1] u/Masterflitzer: how is it rare when you work on feature branches? every time someone merges their feature branch to main (happens often, it's called iterating) and you rebase your feature branch on main you have a potential conflict that will prevent fast forward, i have git pull configured to rebase automatically, because often the conflict can be solved automatically which will save you time, ff only is mostly a waste of time when you plan to rebase anyway
+
+[1] u/y-c-c: I guess I have more a `git fetch` then `git merge` / `git rebase` workflow (I like git fetches to be a more explicit intention where I may merge or rebase at all), but yes if you do something like `git pull --rebase-only origin main` then it does make sense. I was more thinking of doing `git pull` only when I'm on the main branch which is why I configure `--ff-only`, since I forgot people do `git pull` from main branch within a feature branch lol.
+
+[1] u/y-c-c: Yeah I sometimes do explicit fetch from remote, but I do find that a nice part of `git switch main && git pull` is that you guarantee that the local main branch tracks the remote one. Sometimes I end up making mistakes if I just fetch from origin and end up forgetting that the local main branch is way behind origin/main which causes problems when I rebase on it. I like to have local main branch to be synced.
+
+[1] u/mrswats: Same
+
+[1] u/DizzyAmphibian309: Oh shit so all this time I've been using `git stash && git pull && git stash pop` when I could just be using `git pull --rebase`?
+
+[1] u/drsoftware: Are you missing a git switch to master before the git pull and a git switch back to your feature branch after the git pull? 
+
+[1] u/Aware_Magazine_2042: You still need to stash. Rebase only works commits. It’ll still fail if there are uncommitted changes that get overwritten by the rebase.
+
+[1] u/Thorarin: You need to force push if A had been pushed before. If you haven't pushed any commits yet, there is no need to force push. Your changes would only be in your machine though, a situation I try to avoid for any extended amount of time.
+
+[1] u/Nidrax1309: If A had been pushed then someone else had to make a rebase anyway when pushing? So you just rebase again when wanting to push B, making the history Z-A-J-K-B, Or are we talking about some weird scenarios with different branches, like you push A to a branch, someone else pushes commits to the master and then you commit B and want to rebase merge the branch containing A and B into master... But this still should be automatically handled by software cleanly when creating a pull request by putting both commits that are not in the tree at the tip without any need for force pushing.
+Literally the only case when I'm force pushing is when I amend commits once they are already pushed or when doing interactive squashing. 🤔
+
+[1] u/Nidrax1309: The problem is not sticking to a single commit per PR principle in the first place, not the rebasing. But even there, your active changes should be always put at the tip of the worktree when doing a rebase pull, so idk what your co-worker was on, but he has been purposefully butchering the history
+
+[1] u/[deleted]: That's not how git works. Either he wasn't accurately explaining his process, or your PR gui was borked.
+
+[1] u/aradil: This sounds more like they weren’t merging master/main/feature branch back into their branches before issuing a PR.
+
+[1] u/mbeachcontrol: Somethings not right with the process or comment. The proper rebase is going move the branch point on the main branch to latest commit on main.
+
+[1] u/Shazvox: You're gonna have to ask him exactly what he did. All I can vouch for is the result.
+
+[1] u/vekkarikello: It sound like they Merged master to the feature branch rather than rebased. A rebase from master should make the feature branch identical to master + any additional commits on the feature branch.
+
+[1] u/drsoftware: But the PR, if from feature to master, should still show only the changes on the master branch. 
+
+[1] u/bobaduk: This is literally the opposite of what should happen. You should see his changes, and only his changes, which will be applied on top of the most recent commit on main.
+
+[1] u/Aware_Magazine_2042: Rebases almost always result in cleaner pull requests and commit history. 
+
+If you saw all of those commits, then someone did something wrong somewhere.
+
+[1] u/ginger_and_egg: Yeah he's doing something wrong
+
+[1] u/DatBoi_BP:     --main--A--B--C
+          \
+            branch--X--Y--Z
+
+After git rebase, assuming no conflicts:
+
+    --main--A--B--C
+                                 \
+                                  branch--X--Y--Z
+
+[1] u/obesefamily: to all the ppl down voting the above comment, I'm a bot
+
+[1] u/LaOnionLaUnion: My friend was showing me his rebase strategy that he’d setup. It’s certainly a thing people do.
+
+[1] u/wlonzy: How do you fix conflicts with rebase?
+
+[1] u/NoHalf9: > How do you fix conflicts with rebase?
+
+By using a [proper 3-way merge tool](https://old.reddit.com/r/git/comments/1mh3x8l/why_does_gitmerge_make_me_merge_identical_code/n6u9x73/), e.g. KDiff3.
+
+And as already mentioned by /u/Aware_Magazine_2042, fixing conflicts in multiple smaller steps is much, much easier. If you want to maximize taking as small steps as possible there is [`git imerge`](https://github.com/mhagger/git-imerge).
+
+[1] u/veegaz: Intellij has also always been doing this by default
+
+[1] u/DeepFriedOprah: Yeah that’s what I was gonna say. This doesn’t have as much of impact if ur using feature branches for PRs that only get merged on the remote. Then there’s no need to rebase ash just pull down the changes and any locale changes r on a diff branch.
+
+[1] u/AnotherProjectSeeker: We work on feature branches. We don't pull rebase, but certainly we do rebase (remote) feature branch to target (remote)develop to avoid surprises after merge. Sometimes, with conflicts, we need to make a local rebase as well.
+
+Other than keeping history clean, it avoids inadvertently breaking the dev branch. I think it depends a lot on how mature the codebase is, if features are small and separated changes might not be that beneficial. On the other hand is just the press of a button (Gitlab at least) so not a lot of overhead.
+
+[1] u/Froot-Loop-Dingus: Doesn’t that noise go away if you squash?
+
+[1] u/m00fster: We end up squashing feature branches into main so those extra commits have never been an issue
+
+[1] u/ldn-ldn: There's no noise when you squash. Rebase is useless and only adds unnecessary overheads.
+
+[1] u/Ayjayz: If you squash without rebasing, you're adding merge commits everywhere. You will have two commits per feature.
+
+If you rebase as you squash then you can do a fast forward merge and avoid the merge commit.
+
+[1] u/ldn-ldn: No. What are you even taking about?
+
+[1] u/Ayjayz: What part don't you understand?
+
+[1] u/ldn-ldn: What part don't YOU understand?
+
+[1] u/Ayjayz: I think I understand squashing and rebasing and merging at a pretty deep level. The only way to get a fast-forward merge is for your commit to be based on the current tip. The means a rebase (unless no-one else has committed to the target branch since the feature branch was created).
+
+Here I'll show you
+
+### Scenario 1: Squashed then Merged (no rebase)
+
+```
+Before merge:
+
+main:     A---B---C---D---E
+                    \
+feature:              F---G---H
+
+After squash + merge (no rebase):
+
+main:     A---B---C---D---E---M
+                    \       /
+feature (squash):     \---S
+```
+
+- `S`: Single squashed commit (from F, G, H), based on **C**
+- `M`: Merge commit combining `main` and the squashed commit
+
+---
+
+### Scenario 2: Squashed, Rebased, then Merged (Fast-Forward)
+
+```
+Before rebase:
+
+main:     A---B---C---D---E
+                    \
+feature:              F---G---H
+
+After squash + rebase + fast-forward merge:
+
+main:     A---B---C---D---E---S
+                                ^
+feature (squash & rebase):     /
+```
+
+- `S`: Squashed commit rebased onto `E`, merged via **fast-forward**
+
+[1] u/ldn-ldn: Lol what? Your first graph is completely wrong.
+
+[1] u/WoodyTheWorker: Man, if you don't rebase you commit history becomes a horrible mess.
+
+[1] u/Poat540: It’s linear at the moment and follows git flow
+
+[1] u/twirling-upward: There is something called squash, Its breathtaking I suggest you try it.
+
+Unless you like having a million commits on your develop branch
+
+[1] u/WoodyTheWorker: I do **rebase -i** instead. Keep it in a few manageable steps, and also a few commits for debug code (which doesn't go to the PR)
+
+[1] u/Beatsu: The question is basically whether you want to sort commits by time (default) or by feature / logical additions (rebasing). 
+
+It's also important to note that rebasing recreates the commits you move. If you rebase other people's commits, you will basically take over other's commits. You'll also need to re-sign the commits you rebase. Just a good-to-know thing when rebasing!
+
+[1] u/bbbb125: Absolutely. We never touch other people’s commits, or branches other people are working on.
+Basically, keeping shared history unchanged.
+
+[1] u/whatssenguntoagoblin: Yeah that’s pretty absurd criticism from a colleague, especially one not even on your team.
+
+I had a coworker on my team for a few years who just left my team and he kept one commit always on his PRs. At most 3 but rarely. It would add 30 seconds/1 minute on reviews for me to review changes on PR comments since i couldn’t just check the new commit after my request. But point being is those 30 seconds/1 minute on my end on at most every 5 PRs review is more than worth it for them to feel/be productive with their own approach.
+
+I’m actually the exact opposite. I’m a psycho that commits way too much but that helps me stay organized and less stressed when I’m working through work. However I do try to keep my commit names always descriptive unless I’m burnt out and then I just do “blah”.
+
+I guess my point in this rant is I couldn’t have been different than my coworker who I worked closely for years despite our completely different commit patterns. But we all squash and merge PRs into the main branch and that’s the only consistency that matters. We had different workflows and that’s how you want a team to work to be productive with their own approach and only dictate the things that actually matter.
+
+Glad to hear you have a good manager who understands what’s actually important. That honestly fixes so many non issues like the one you described. I luckily have a good manager right now as well who also would be like “wtf is that person talking about don’t worry about it”
+
+[1] u/MiniGod: Sometimes it's beneficial to split your work into multiple PRs, with revertability in mind. I see too many devs putting too much stuff in their PRs. You should only put stuff you want to be reverted together, in the same pr (most of the time)
+
+[1] u/ldn-ldn: That's not the case with a squash.
+
+[1] u/Romestus: Before I moved to Gerrit we made sure every PR was squashed, rebased, and had a nice commit message with ticket IDs included. Made it so I could run a script that did git log with fancy formatting to generate a changelog.
+
+It was even better when we started having multiple stakeholders with different builds. For example design might have seen build 82 while QA started on build 99 and management last saw build 56. When I had to generate a changelog I could just specify the versions to generate a changelog between which saved me a ton of time over manually generating changelogs for these meetings.
+
+Despite having 20+ devs on one repo [the history was so clean](https://u.cubeupload.com/Jman/git.jpg) and easy to follow.
+
+[1] u/elephantdingo: Fine.
+
+[1] u/bingeboy: If you work in a continuous deployment model, this approach can quickly become a nightmare.
+
+[1] u/H2SBRGR: We also squash on merge and rebase our dev branches.
+We use gitlab too, so we can still check changes in individual branches that have been deleted after merge in case we need to.
+
+[1] u/ClownCombat: This.
+
+[1] u/gemengelage: You don't get a "rebase commit" or anything that would make it obvious that `git pull --rebase` or any of the other techniques that lead to the same result were used.
+
+As a tech lead I get surprised again and again by people who avoid rebases even though all their colleagues treat it as a best practice, mainly because it's not a very visible practice. 
+
+On the flip side people who use merges to update their feature branch often get a pass because some reviewers don't want to inconvenience their reviewees for a clean commit history.
+
+[1] u/xenomachina: Oof! No, me too. I had a brain fart and somehow missed that this was `pull --rebase` and not a manual rebase. I've updated my previous comment to correct this.
+
+[1] u/WoodyTheWorker: Rebase does NOT delete history, it just makes a new sequence of commits. If you care how the sausage was made, you can still keep the commits before rebase as a separate branch. If you're concerned that one day you need to find a lost diff, use reflog for that.
+
+[1] u/hoexloit: You delete the sequence of commits and make new ones. That literally means you DELETE and rewrite history. This has potential to lose code. Usually not an issue, but users should know this.
+
+[1] u/WoodyTheWorker: The old commits don't go anywhere. They are still accessible in your repository. Commit objects are only deleted by garbage collection, after they haven't been referred by any ref for the configured time.
+
+If you tagged the commits before rebase, or created another branch pointing to them, those old commits would still be explicitly visible in the repository.
+
+[1] u/[deleted]: Yeah boi +1 -i.
+
+[1] u/Aro00oo: Not saying rebase isn't useful, but long running branches are kind of a smell in process. IME shipping small and often leads to way more robust of a system and DX. 
+
+[1] u/andyhite: When I say "long running branch" I'm talking about a branch that's active for a day or two, not weeks, haha
+
+[1] u/y-c-c: You share feature branch with another developer? Like the other comment said I think that's the odd part since usually most feature branches are contributed to by a single person.
+
+But the reason why you would rebase `main` is the same reason why you would rebase on whatever feature branch no? When you are working on a feature branch it's very common you would need to locally rebase to reorganize features and remove work-in-progress stuff that no longer makes sense. If you end up creating merge commits you would make that much harder to do (which is what `git pull` would do under default settings).
+
+[1] u/a_library_socialist: You shouldn't ve working off unmerged branches is the real issue.
+
+[1] u/eddiewould_nz: Branch per environment... Yeah have done that before, never again thank you.
+
+I appreciate release branches are justified in some situations. But can cherry pick fixes to those from trunk when necessary.
+
+[1] u/catch-surf321: Can still easily cherry pick between branch per environment setups, in either direction. Branch per environment is way more of a proper enterprise and large code base config. Lol even mentioning cherry pick in any type of normal workflow just shows me how amateur your entire setup is.
+
+[1] u/Conscious_Support176: Obviously you don’t rebase between long lived branches. Nobody ever said you should. Seems a tad ironic talking about amateur, if you don’t know the difference between when rebase is appropriate and when it isn’t?
+
+[1] u/catch-surf321: “Obviously” lmao yea to who? Long lived branches must be maintained or they’re not long lived? Lmao I know exactly when rebase is important, that’s why I’m saying it’s not for proper git workflow. Why do you think rebase is not the default lol? Yikes good luck staying as an IC.
+
+[1] u/Conscious_Support176: Sorry I’ve no idea what you’re trying to say here. Are you  trying to argue that a rebase between multiple long lived branches could make sense? Or that the fact that this would be idiotic reveals sine inherent others in rebase?
+
+If you rebase between multiple long lived lines of development, you now have one line of development. 
+
+Congratulations?
+
+[1] u/Digirumba: I went the opposite direction several years ago. 😅
+
+We pushed for smaller commits, and decided git history should truly be a history. But really, it was more a factor of 200+ devs working on the same repo with multiple branches per environment. CD was deploying hourly, and you never new when someone was going to hot fix the release branch, and then merge that back into the stream... It was surprisingly smooth, though, and I never went back.
+
+In the AI land of today, merging actually gives AI some extra information to look at when things go wrong during conflicts or when we need to get a holistic view of _why_ a change was made.
+
+[1] u/[deleted]: [removed]
+
+[1] u/cutebuttsowhat: I don’t know what gives the impression that going back through source control is something that would happen instead of fixing a bug. You fix the bug however you fix the bug.
+
+However, maybe looking at the most recent change to that area of code will help you find the bug.
+
+What versions of the software does this bug effect? Hard to answer without looking at the history.
+
+Was it a regression? Was this code working before?
+
+Maybe the person who last changed it is useful, maybe it’s a coworker you could chat with. It’s not about using it to blame an individual. 
+
+We’re just trying to fix a bug.
+
+At the end of the day source control is just another tool you use, it should be mixed in where it provides value.
+
+[1] u/Toasterrrr: yeah rebasing is quite helpful. i sometimes just delegate VSC to terminal tools like Warp.
+
+[1] u/[deleted]: One of the clients I worked with insisted using rebase only— mostly to keep commit history clean. I personally don’t like it, merge is way faster
+
+[1] u/priestoferis: Also what I don't think I've seen mentioned: if a pull request is rebased instead of having random merges and the commits are more-or-less atomic, it's way easier to review even a somewhat largish PR commit-by-commit. If the PR branch's history is not nice you can only look at the final diff really.
+
+[1] u/elperroborrachotoo: Rebase workflow delivers a linear, detailed history; it's great for small teams with good commit discipline (atomic, mobile, descriptive commits) that rely a lot on git blame.
+
+[1] u/FlipperBumperKickout: >dIf the only benefit is a cleaner and easier to read commit history, I don't see the need. I've worked with some who preached about the need for a clean commit history, but I've never once needed to trapse through commit history to resolve an issue with the code. And I worked on several very large applications that span several teams.
+
+If the option aren't available to you in a way where it is convenient to do it you wont do it. If you have a git history which looks like a disaster zone you would basically do everything to avoid looking through it to solve a problem.
+
+I personally keep my local git history clean because it gives me a very clear overview over what I have done on my current task. If you don't have problems getting an overview like that quickly when returning to a task after doing something else (or the weekend) then there might not be any point for you personally ¯\\\_(ツ)\_/¯
+
+[1] u/afops: You only need it if you commit on the branch you are pulling - which for most workflows is ”never” due to the use of feature branches. You only pull main and you only commit to the feature branch. The equivalent then the equivalent is a rebase and fast forward merge when the feature branch is merged
+
+But on a tiny/early project with 2-3 devs committing straight to main, then pull —rebase would be very common.
+
+[1] u/YahenP: Using git pull --rebase by default is a very convenient practice. And it's not even about the beautiful commit history. It's about when and how you resolve merge conflicts. And besides, it disciplines development. If 10 coders push different tasks to one branch during development, then rebase can become very painful, which in turn is an incentive not to turn the repository into a garbage dump.
+
+[1] u/SkyNetLive: Rebase is common approach for many development workflows. Rtfm
+
+There are some drawbacks in corner cases.
+
+We usually say like “rebase X on to Y “
+
+[1] u/epromeutcc: I have this as my default setting, I always rebase my branches (the ones I’m the only one working on them), it’s much better than to have multiple merge commits IMO. Of course you don’t wanna do this on a shared branch because that will rewrite the history which is not ideal for main branches (main, develop, master, etc)
+
+[1] u/krzyk: I don't know. What is the other option?
+I always use `git pull --rebase --prune --tags` to update remote branch that I don't commit to directly.
+
+[1] u/Particular_Wealth_58: I barely work on a branch shared with others, so my flow is usually:
+
+```
+git fetch
+git checkout -b my-feature origin/main
+...
+git fetch
+git rebase origin/main
+...
+...
+git push -u origin my-feature
+```
+
+Sometimes we are two on a branch, and then we frequently do git pull --rebase.
+
+I _have_ had to dig through git commit history to track down bugs. I have not worked at a place doing "real" merge commits though, so I cannot really say if it is harder. By "real" merges, I mean merges were a fast-forward merge would not apply cleanly. I've only been at places using the rebase strategy or a strategy where fast-forward merges apply - so they are essentially rebased before explicitly creating a merge commit.
+
+[1] u/VerboseGuy: Don't you have to force push? Otherwise you'll see two times the same commit in history.
+
+[1] u/Particular_Wealth_58: In practice I do often push now and then (the example shows only one push), so I do need to force push after rebase.
+The commits never show up twice though. Git just rejects the push if I don't force it. 
+
+[1] u/VerboseGuy: In my experience, git doesn't reject, it adds the commits on top of the original ones.
+
+[1] u/Last-Assistant-2734: > been a dev for 7 years and this is the first time I've seen anyone use 'git pull --rebase
+
+
+I'm not sure how much numbers matter really. I've been using Git for 16 years of  my 18+years of professional career, and all the organizations and repos I've worked with have used rebase strategy for 15 years.
+
+[1] u/[deleted]: I also prefer this way to ensure that it is clear which changes exactly were made why based on the last "baseline".
+But depends on the project and its files whether this is practically relevant.
+
+[1] u/cran: I hate teams where every engineer git merges everything everywhere all the time.
+
+[1] u/Tacos314: I am not sure how you do it without git pull --rebase. Do you just live with merge conflicts and merge commits all over the place? Maybe never commit code.
+
+" Obviously our team should all be using the same strategy of we're working shared branches. "  
+First you have no way to enforce this, and this is the second dumbest thing I have heard today. I said the first when I said "No reddit for me today"
+
+How individuals manage there git repos has no effect on you outside of history rewrites
+
+[1] u/orangeowlelf: We only re-base at my shop. We use git pull —rebase daily.
+
+[1] u/IronSavior: Didn't know anyone did anything else
+
+[1] u/Charming-Designer944: It is a valid workflow as a sole developer in a development branch.
+
+But squashed merges to main Is a better approach if you are looking for a clean long term history, discarding then development history.
+
+But seriously speaking, the full history can be quite valuable when later diagnosing issues with the code. So my preference is to use merge commits if the merge to main has more than a single commit (git merge -no-ff), keeping full development history. git log --first-parent gives you the clean version of the history.
+
+[1] u/GrandManitou: “Why would I need to look at the history?”
+
+Have you ever used \`git bisect\` ?
+
+[1] u/agentbellnorm: Seven lean years
+
+[1] u/carlspring: Yes, this is a correct way of doing it. This keeps a cleaner to read history without useless noise from merges.
+
+
+I would strongly recommend reading "ProGit". It's a really good book on mastering git.
+
+[1] u/armahillo: This strategy (I wouldn't call it a workflow, specifically) is useful when you and a coworker are both working on the same branch. 
+
+1. I commit some work, push it up
+2. You pull it down and do some work and push it up. I am also doing more work on the branch.
+3. I try to `git push` and get denied because of merge conflicts. 
+4. I `git pull --rebase` to replay my additional work (from 2) onto the work that you did (on 2). Now I can `git push`.
+
+It's effectively a way to have two devs stay in sync on a branch with minimal re-hashing. If you are about to 
+
+Some people say "Clean commit history" and mean "as few commits as possible". For me, a "clean commit history" means squashing WIP and temporary "save point" commits, and ensuring that preserved commits have thorough commit messages justifying their existence.
+
+[1] u/wspnut: As they should. That said you don't need the `--rebase` flag if you have your `pull.rebase` config set to `true`.
+
+[1] u/trustyhardware: Just want to chime in with an example of a large company doing this. Meta/Facebook basically requires rebase (although they use their own Mercurial instead of git). The exception being reality labs which works on Android so they conform to their conventions.
+
+[1] u/[deleted]: [deleted]
+
+[1] u/kaddkaka: "sevs“?
+
+[1] u/VerboseGuy: I use git pull --rebase, but don't expect it from a junior dev.
+
+[1] u/SeriousRazzmatazz454: If you're working on a shared branch where others do work. It necessary.
+
+
+If you're decomposing larger tasks into mini branches that only one person works on, then just got rebase --i master before you submit your PR, or if it's a real jumble, soft reset back to the branches original state and recommit in logical chunks
+
+[1] u/wts_optimus_prime: In all my previous projects we always used merge. In my current project we outlawed merge commits and only allow rebased branches to be merged via fast forward. 
+I would say any of the two strategies is superior. Both have advantages and drawbacks.
+
+Rebasing leads to a cleaner git history, but makes it a bit less convenient to work on shared branches. Merging is the other way round.
+
+Since in my current project we are just 3 senior devs and rarely work parallel on the same branch, the advantages of rebasing outweigh its drawbacks, so we go with that. Took some time getting used to though, and I once screwed my local repo. But now it is really comfortable and the PRs are much nicer due to the rebasing. Also fewer merge conflicts when merging to master. 
+For a bigger project where multiple people work together on branches I would probably go back to merging.
+
+[1] u/bingeboy: That's been the way I've done it for like 10 years or so. I think it's even the way git pull works by default now. Otherwise, your log will be filled with garbage merge entries.
+
+[1] u/tails142: If I have made commits to the branch and there are new commits on remote, a git pull --rebase sorts me out by slotting in the new commits alongside my local work. That's typically when I use it
+
+[1] u/codeninja: Yes, I use it daily. Also, enable ReReRe for God's sake.
+
+[1] u/CluelessNobodyCz: I have been working with Gerrit and rebase flow for years and then changed the job and came to merge based. 
+
+I miss rebase dearly.
+
+[1] u/newlifepresent: I always use git rebase for the branches I worked for long (eg. Not hours but days) because while I am working on that branch a lot of code change happens and I want to merge mine after seeing all of them and yes it results with a cleaner commit history and I am not a fan of merge commits actually hates them.. If one day you would have to solve a code override issue in a large team happened possibly months ago you will understand why we love rebase..
+
+[1] u/noid-: We have a git flow based on merges. Thats how it works in one specific Repo. Then someone goes „ah git pull —rebase is common and I should do it here“. History broken!
+
+FFs. You commit to one method: rebasing or merging but do not mix the shit up.
+
+[1] u/Dank-memes-here: I'd say rebase is mandatory in most professional environments
+
+[1] u/tossed_: > I’ve never once needed to trapse through commit history to resolve an issue with the code
+
+You’ve NEVER had to reason about how a change made it into the codebase in your entire career? Do you even read code or investigate bugs at all?
+
+[1] u/hartmannr76: I got reprimanded once for doing this workflow, by the guy working on a custom CI system because it broke how he built CI setup. Within like a month we switched to a standard TeamCity setup and it handled it like a dream. For dev flows, let people do what works for them. If you want standardization, only enforce it on submit/merge to main
+
+[1] u/CarsonChambers: It depends on the utility you want to derive from your git log. Using the standard git pull merge strategy gives an 'as it was' view of the history where you can see that different devs were working on certain features while the master branch was being developed further by others. Perhaps that's useful for some people, but if the merge happens on unrelated code, it seems superfluous. It seems more useful to me to only see a merge commit when an auto-merge strategy won't work. 
+
+TLDR; when the projects evolution can be understood by tracing one branch instead of multiple, I find it cleaner to use one branch.
+
+[1] u/aCuriousCoder: I didn't knew, if it was not common. I can see many comments mentioning otherwise though.
+
+From personal experience, I use git rebase all the time. But again, it depends. Not everyone in my team uses it all the time. But I've seen the merge commit when making a pull create some nasty conflicts (most probably caused by improper conflict resolution).
+
+I feel rebase works like charm. 
+
+That said, if the conflicts are too much/complicated, I sometimes prefer, simply picking my commits onto a fresh branch from base. Worked the best for me
+
+Also, from going from dev to qa to prod, we don't rebase and instead make a merge commit, because we preserve the branches after merge (and not create a new one after each merge). Rebasing would make maintaing the branches for a longer team difficult.
+
+[1] u/kesor: Everyone is doing it.
+
+[1] u/[deleted]: Add —autostash to the thing
+
+[1] u/rosshadden: How have you in 7 years not needed to go through git history while investigating an issue? Is it just a tool you don't think about having in your belt?
+
+[1] u/efalk: I do it all the time. It gives you a cleaner git history.
+
+[1] u/Mayalabielle: —force-with-lease
+
+[1] u/Otherwise-Tip-8273: You will also use squash and fixup and you will like it.
+
+[1] u/BigFattyOne: Me I’m on the orher side and freak out when someone uses something ELSE than rebase 😂
+
+[1] u/itsallfake01: Git pull — rebase and ask everyone to squash commits or setup your git repo to do it for each MR
+
+[1] u/KevinMcCallisterOver: “ I worked on several very large applications that span several teams.”
+
+“ I've never once needed to trapse through commit history to resolve an issue with the code“
+
+You should start buying lottery tickets
+
+[1] u/Comprehensive_Mud803: This one is one of the many bad defaults, imho. 
+I usually set the config flag, but this the only way changes ought to be pulled. 
+You don’t want to get branch merges from a simple pull.
+
+[1] u/wolfiuscub: Been rebasing for 7+ years now.
+
+[1] u/ParabellumJohn: Idk I just squash PRs on merge to main, no rebasing required and clean commit history
+
+[1] u/Altamistral: If you are working on shared feature branches you shouldn't rebase, every time you rebase the feature branch is copied anew on top of main, which annoys the hell out to eveyone else working on that same feature branch, especially if they branched out of the feature branch that gets rebased.
+
+That said, working on the same feature branches is not great to begin with and should typically be avoided. Ideally you want short-lived feature branches that are personal to the developer working on that feature.
+
+If you are not sharing feature branches and you are squashing the pull requests in the end, then doing a rebase vs merging master becomes entirely a personal preference that doesn't impact anyone else. You don't even need the team to agree on it.
+
+[1] u/Nidrax1309: I pretty much have been using rebase strategy for decades now. And usually disallow merge pull requests in repos I manage. While branching history gives a better overview f the source where a change comes from, it's a bit of a nightmare to explore, so I'm all for linear git history where possible.
+
+[1] u/lollysticky: in my previous job, we always used a simple 'pull' and then when merging into master, your commits are all over the place. When doing git pull rebase, your commits will always be grouped together and at the top of the commit tree, making it a 'cleaner' history. I actually prefer it that way.
+
+  
+The only downside (to me) was that I found reviewing it a bit more of a hassle, because every additional commit (to fix something that came up during review) would jumble around the commits. And to me, that made reviewing more difficult :)
+
+[1] u/International_Bed_11: Yes i totally hate when people do git pull —merge. It creates this additional merge commit. Gives a very ugly git history. But actually should not happen anyway if everyone is working on their own feature branches.
+
+[1] u/coldstove2: It's paramount for trunk-based development. No long-lived feature branches means it's often simpler to just rebase onto mainline and continue working. We incrementally build out changes then squash rebase merge onto mainline to keep a nice linear history.
+
+[1] u/Masterflitzer: git pull --rebase is very common and imo the proper way to do it, merges have their place of course, but pulling the updated remote is like the single best use case for a rebase
+
+i always recommend git config pull.rebase true so you don't need to type the --rebase all the time
+
+[1] u/schlenkster: My company squashes prs before merging them into master, so what you do on a branch really doesn’t matter. That said, I prefer rebasing because you wind up with a clean sequence of commits for the reviewer of the PR. There’s no point in having them look through merge commits. 
+
+[1] u/antoine235: dunno. since i learned how to do a rebase i never used anything else
+
+[1] u/daddygirl_industries: Maybe unpopular opinion but I prefer the merge to the rebase. It's less fiddly, and a "cleaner commit history" sounds nice but really you can easily do everything you could otherwise do with a rebase. 
+
+I've really only seen it used as a bragging card from a certain type of dev, whereas I don't mind the tool, so long as it does the job.
+
+[1] u/Conscious_Support176: It’s not true to say that it as easy to do everything with a merge commit that you can do with a rebase, particularly if it involved conflict resolution. You probably won’t be able to revert the commit without needing to resolve conflicts. 
+
+Yes, it’s less fiddly to not clean up your mess and leave it in the history for everyone else to trip across. A dev who is proud of rebasing is happy they did a neat job instead of a half assed one.
+
+[1] u/MooseBoys: > I've never once needed to (traverse?) through commit history
+
+Do you ever use `git blame`? Because if so, you're traversing commit history implicitly.
+
+[1] u/HawkOTD: Don't do this please. Let people work as they please if it doesn't impact you at all.
+
+Rebasing instead of merging does not affect any other member of the team, allow people to work however they please in their local repos. Rebasing after pushing is more complicated and dangerous and it's common to restrict who can do it and on which branches. In my company we allow rebasing on your own branches and IMO that's a perfect middle ground.
+
+[1] u/[deleted]: [deleted]
+
+[1] u/jaraxel_arabani: You.. mean I shouldn't force push to main all the time? :-o
+
+[1] u/Conscious_Support176: Do you not rebase you own branches before merging them? This is the same thing.
+
+Merge commits will contain ant changes needed for conflict resolution on top of the changes before conflict resolution instead of the linear history of changes.
+
+If you don’t care about history, I guess you never have had bugs to investigate?
+
+Maybe you never need to resolve conflicts. If so, and you never look at history, not sure why you need git?
+
+[1] u/Both-Fondant-4801: Yes it is common, at least for us. In our context, we have scripts that generate release notes from commit logs so we need a clean commit history. However, if you do not need such a commit history, then you need not follow the strategy.
+
+[1] u/Quin452: As a general rule, I tell my employees not to pull unless they've finished working on a task; one task at a time, fetch pull work push.  And usually one dev per task.
+
+It helps for newbies. 
+
+However, if my senior Devs know what they're doing and use rebase, who am I to do then working efficiently 😁
+
+[1] u/codeepic: Rebase is fun until you have merge conflicts and you have to resolve them ona commit-by-commit basis.
+Very easy to make a mistake.
+
+[1] u/Ballssz: I always did git merge main/master into my branch before commits
+
+[1] u/what_a_dumb_idea: Umm yeah that’s very common. Keep commits in sequence. The fact that you never in 7 years had to traverse history to debug issues is very surprising. It tells me that either your team is either truly elite and the processes are so well developer or no one is truly doing real engineering. Based on you asking the question I have a hunch.
+
+[1] u/mrfredngo: You’ve… never had to traipse through the commit history to resolve an issue? … I’m speechless.
+
+[1] u/Slothvibes: Not even a dev and this is what I do for my Ds workflows, it’s standard protocol in gut readings bruddah
+
+[1] u/muscrerior: >Obviously our team should all be using the same strategy of we're working shared branches.
+
+Not really, as most teams have a single person (or pair on a single machine) working on a single branch at one point; so there's little risk of using different strategies. All team members should understand the strategies being used, and the merging back into main should be agreed on a single method, but there's no need to regulate what is essentially a personal preference.
+
+[1] u/m02ph3u5: This is my default.
+
+[1] u/[deleted]: I’ve been writing software professionally for over 15 years and can’t remember the last time that it mattered how clean a project’s git history was.
+
+[1] u/stuaxo: You can either have a decent history or a pile of shite, if it's the latter then it will be a traipse to find anything.
+
+[1] u/Fearless_Heron_9538: It’s mostly fine IF YOU DONT HAVE OTHER BRANCHES POINTING TO YOURS AS PARENT. Often times I break changes into smaller PRs, often they depend on each other, if I were to do rebase in this scenario I’d end up with all sort of problems/conflicts because you are effectively changing history
+
+[1] u/sethkills: You ought to get out more.
+
+[1] u/Hawkes75: In a team environment where you might be branching off a branch that hasn't been merged yet, rebasing often becomes necessary when you don't have control over whose changes are going into the pipeline in what order and can't just halt work until things look cleaner.
+
+[1] u/sarnobat: If you pull regularly it is good.
+
+If you are pulling a few months of commits and have conflicts, it's better to deal with them just once (plain merge) rather than when every commit has a conflict.
+
+It's so nice that git provides different ways to accomplish similar things without forcing you to adopt anything unsuitable.
+
+Often such freedom is overwhelming but in the context of the command line it is wonderful
+
+[1] u/Pevio1024: Rebasing is great.  I prefer getting my local branch up to date and then rebasing off that, but git pull --rebase works too.
+
+[1] u/edinbourgois: [ Removed by Reddit ]
+
+[1] u/stubbornKratos: People will do this regardless of whether they use rebase or merge I find.
+
+[1] u/FlipperBumperKickout: How do I show of how hard I worked on this without ALL the original commits 🤣
+
+[1] u/dalbertom: I would agree that squashing all commits down to one is destroying history, but that's not what I was referring to.
+
+At the end of the day, when your commits land on mainline that's the history that matters and that's how you show others that you a) know what you're doing and b) care about what you're doing.
+
+It doesn't have to be a novel, but these commits will likely outlive you (or your time at that job), and you get to choose how you want to be remembered.
+
+Like any maintainable code, it should be written with the expectation that it will be read many times over in the future.
+
+If this doesn't resonate with you, it might be that we just have had different experiences, and that's okay.
+
+[1] u/a_library_socialist: You should have commit messages that are meaningful of course.
+
+The problem is that rebasing and forcing is deleting those and destroying granularity.
+
+The solution to noisy data is **not** to destroy data.  It's to create meaningful visualizations and filters if needed.
+
+If you're working in branches (which of course you should be) you already have a point to do that - when you merge to the main branch.  That message should give the general idea of what the whole thing is about.  But the internal branch commits have lots of information about intent, process, and the like which should **not** be discarded.
+
+> and you get to choose how you want to be remembered
+
+This is the motivation of most people obsessed with a "clean" git history.  It's also a bad thing.  Though they might not realize it, they're feeding their ego, self and other image at the expense of the ability to audit, provide safety for git commits, and just take less expensive developer time.
+
+[1] u/dalbertom: Hm, again, if you're referring to squash-and-merge and rebase-and-merge strategies to get a branch merged upstream, then I completely agree that it's destroying history, and that's not good.
+
+However, rebasing, or `git pull --rebase` my work-in-progress branch that hasn't been manually tested by someone else feels like a very valid operation to me.
+
+I'm not sure what you mean about visualizations and filters in this context. Are you talking about flags like `--first-parent`, `--merges`, etc in `git log` or something else?
+
+[1] u/marcocom: Well it’s not that weird once you have led a team through a software project that actually delivered. 
+
+Your dev environment is entirely your own, do your thing! But a shared codebase is the unified result of our teams work, and it should be strictly controlled for conformance and singular code-styling or things get messy over time as devs come and go, over time. 
+
+If you come and work here in Silicon Valley on one of my (and most other here) projects, expect a lot of git-hooks that analyze your submitted pull-request for its style. It’s a bit uncomfortable that first few days, but soon you are in sync with the team and that codebase, which can often live for years and even decades of continued refinement, will look uniform and be predictable.
+
+Symphony rather than jazz.
+
+[1] u/[deleted]: [deleted]
+
+[1] u/marcocom: Are we maybe not talking about the same thing? Are you saying you’ve never had to work from a code style-guide and pass automated checks on code you want to PR? Am I mistakenly assuming you work somewhere much looser?
+
+At Google, for example, your CL goes through not only automated style checks, but then four seperate human reviewers, who will grade the fucking punctuation in your code comments! 
+
+I could not give a fuck if you feel condescended btw, but the world expects code conformity when paying you for it FYI
+
+[1] u/[deleted]: [deleted]
+
+[1] u/marcocom: I am mortified
+
+[1] u/fun2sh_gamer: Like, Open 10,000 connection to Database without DB Connection Pool and say thats how you do things cause you own the development. Ya Right!  
+Just because you set wrong standards does not mean some one has to continue following it.
+
+[1] u/dEEkAy2k9: so when people develop in parallel my commits won't be mixed with other commits but rather put together as a block, making history easier?
+
+does it preserve my 5 commits or merge all my commits into one?
+
+[1] u/dEEkAy2k9: Seems like i gotta do some testing to understand this better.
+
+Thank you.
+
+[1] u/TehFrozenYogurt: Suppose I have a feature branch and my history looks like Z (main/head) - A - B and I've pushed my branch to remote. Now suppose someone merged a PR into main, such that main is now Z - J.
+
+If I want to rebase so my branch's history is Z - J - A - B, I would have to force push after rebasing because I had previously pushed A - B.
+
+[1] u/Nidrax1309: Gee, of course, I'm dumb. I got so used to my company's workflow with keeping everything a single commit per pull request, meaning that usually rebasing feature is coupled for me with commit amending most of the time anyway, that I forgot that branches are more like copies of the entire history of their 'source' rather than just a couple of commits and a reference to a commit from a branch they sprouted from, so of course rebasing parent into a child with already pushed commits requires a full history rewrite rather than a simple change of a reference 🤦‍♂️ Thanks for the explanation.
+
+[1] u/TehFrozenYogurt: No worries, that's an interesting system you have at your company too, thanks for sharing!
+
+[1] u/Nidrax1309: Well, the single commit rule is due to us using Gerrit for code review which is its intended workflow.
+
+[1] u/Ayjayz: Well go on, explain what you think is wrong about it and what it should be
+
+[1] u/ldn-ldn: If you have A-B-C in your master and you create a feature branch from C, then someone pushes D-E into master, you create X-Y-Z in your branch and squash into master, then your master history will be A-B-C-D-E-F. What's up explain here? Have you ever actually used git?
+
+[1] u/Ayjayz: I think you're getting your terms confused. A squash is where you combine commits. A rebase is where you move the base of some commits. They are fundamentally different operations. Depending on the commands you use, you can squash but not rebase, you can rebase but not squash, or you can do both the same time.
+
+Just for interest, how do you squash? Do you use `git reset --soft`? Do you use `git rebase -i`? Or `git merge --squash`? Or do you use `rebase --autosquash`? Or do you use some git gui tool? Which approach you use to squashing might explain why you think it always rebases.
+
+[1] u/ldn-ldn: No, it's you who is confused here. Squash (merge --squash) squashes your whole branch into a single commit into master. It does that in a way similar to checking out your master, creating a diff with a feature branch and then making a patch with this diff into master. So inside master you always have a simple linear history.
+
+You don't need rebase ever. And I believe it should be removed as it breaks remote branches.
+
+[1] u/Ayjayz: Can you answer my question about how you squash? Which command do you use? 
+
+And then, go test it out. Go to some feature branch with three commits, run `git reset --soft HEAD~3` then `git commit -m "Squash"`. You'll see that no rebase has been performed. How could it? You haven't even told it which branch you'd like to rebase onto.
+
+[1] u/ldn-ldn: I told you everything. Read more carefully. Also git reset is not squash. I told you the command too. Man, please learn to read. Ok? Because it's getting silly now.
+
+[1] u/Ayjayz: Ah I see. You think a squash is only a `merge --squash`. Unfortunately, that's not the only way squash is used in git, and if you use the unqualified term "squash" to mean only "merge --squaah", you're going to room into these communication issues from people using the general definition of the word squash.
+
+[1] u/ldn-ldn: Unfortunately, you're talking utter bullshit. End of discussion.
+
+[1] u/maccam94: in my experience they're usually low quality unless someone makes the effort to do stacked PRs, but at that point you could just merge each one to main in order and have them tracked in the history
+
+[0] u/Poat540: Why rebase rewrites commit hashes?
+
+Why not just git pull? I used rebase like 3 times in 10+ years.
+
+It’s all clean git pulls and squashes into dev for features for us
+
+[0] u/ratttertintattertins: This doesn’t make any sense to me.  Surely individual dev commits aren’t getting QA’d?  So you’d kinda have to roll back the entire PR anyway since that’s the unit of work that’s been checked and run through all your quality gates?  It wouldn’t be safe to keep half of it since that’s an untested change.
+
+I guess other people aren’t working as we do if this is a thing.  To be fair, I work on a systems product that has a device driver and takes 8 hours for the automation to run and involves heavy manual QA for each PR so it may be different for web apps that can be quickly automatically tested.
+
+[0] u/hoexloit: Rebase deletes history. I would have concerns rebasing on a shared branch.
+
+[0] u/JiveAceTofurkey: Yes it is. It's the third command that is problematic given that there are new commits.
+
+[0] u/PerceptionSad4559: \>  Obviously our team should all be using the same strategy of we're working shared branches.
+
+Don't share branches for development..
+
+[0] u/fabspro9999: In other news, the sky is blue.
+
+[-1] u/RarestSolanum: git fetch origin pull/123/head:pr-123
+
+git checkout pr-123
+
+Congratulations, you've now checked out that deleted branch locally and you can see as much sausage making as you like
+
+[-1] u/JiveAceTofurkey: That all makes sense and thanks for the detailed response. It makes me think we aren't doing things quite right. We do update all merge requests with a rebase with main. So all MRs are rebased, but when sharing a branch we just do `git pull`. Sounds like if we are already rebasing every MR we should on uld adopt the `git pull --rebase` strategy?
+
+[-1] u/marcocom: Don’t let people improvise. It’s import that everyone is uniform on a team. Otherwise it’s not a team.
+
+[-1] u/dEEkAy2k9: could someone explain this to me?
+
+we are currently switching from svn to git and my workflow looks like this.
+
+checkout master
+develop, commit, commit, commit, push.
+
+we don't use branches yes as our current software involves some low code stuff which can't really be merged so there is no point in doing branch/pr/merges
+
+since we don't use pr for merging, reviewing history is tedious.
+
+what would a rebase do here?
+
+[-1] u/Comprehensive-Pea812: that is the kneejerk of how to use git by default. 
+
+although my previous team ditched that because dev does more damage doing rebase than merge
+
+[-2] u/Shazvox: Not really. Instead of having a PR with just his changes I have a PR with his changes plus additional redundant commits.
+
+
+That is not easier.
+
+[-2] u/a_library_socialist: You're not writing a novel.  You're committing, and then destroying the history.
+
+[-3] u/Shazvox: Had a coworker who did something like that. It was a bitch to code review. Not only did I see all his commits in the PR, but I also get all the commits inbetween him branching from our main branch and him creating the PR...
+
+[-6] u/[deleted]: [deleted]
+
+[-15] u/MrChrisRodriguez: ^ ask chatgpt — will give a great intro without the wait for a human response 
