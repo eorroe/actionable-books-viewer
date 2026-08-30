@@ -401,7 +401,7 @@ A lady who seemed to get everything she wished for was, in reality, the outcome 
 
 #### Step 1: Purify the Heart and Order the Mind (Secret of Health)
 
-Identify and eliminate inharmonious mental states: anger, worry, jealousy, greed, and similar conditions. These are "far more dangerous than a bad drain or an infected house." Sow seeds of health by cultivating joyful, loving thoughts and an attitude of goodwill toward all. Work with steady, calm persistence, eliminating anxiety, hurry, and worry from your working process.
+Identify and eliminate inharmonious mental states: anger, worry, jealousy, greed, and similar conditions. These are "more dangerous than a bad drain or an infected house." Sow seeds of health by cultivating joyful, loving thoughts and an attitude of goodwill toward all. Work with steady, calm persistence, eliminating anxiety, hurry, and worry from your working process.
 
 #### Step 2: Anchor in Unfaltering Faith and Direct Purpose Wisely (Secret of Success)
 
@@ -421,7 +421,7 @@ To acquire overcoming power, cultivate poise and passivity. All power is associa
 
 #### Step 6: Perform Present Duties While Preparing for Greater Opportunities
 
-If your present position is distasteful, still perform your duties with scrupulous diligence while mentally resting in the idea that better positions and greater opportunities await. Maintain an active mental outlook for budding possibilities so that when the critical moment arrives, you step into the new channel fully prepared.
+If your present position is distasteful, still perform your duties with scrupulous diligence while mentally resting in the idea that better positions and greater opportunities await. Maintain an active mental outlook for budding possibilities so that when the new channel presents itself, you step into it fully prepared.
 
 #### Best Practices
 
