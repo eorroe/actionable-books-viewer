@@ -59,7 +59,7 @@ Once the lesson is fully integrated, the suffering naturally dissolves. You are 
 
 #### Keep In Mind
 
-- Suffering is not arbitrary or cruel — it is the outcome of causes you have set in motion through ignorance
+- Suffering is the outcome of causes you have set in motion through ignorance
 - The universe operates by undeviating law — every thought and action produces a corresponding result, and this law operates consistently and without exception regardless of whether you believe in it or understand it
 - Enduring without understanding is wasted suffering; combining endurance with understanding transforms you
 - Once you fully enter into this realization, you can mold your own circumstances and transmute all evil into good
@@ -89,7 +89,7 @@ Once the lesson is fully integrated, the suffering naturally dissolves. You are 
 
 ##### Example 1: The Two Men and the Bank Failure
 
-Two men lost their hard-earned savings when a bank failed. One was deeply troubled, gave way to chagrin, worry, and despondency, and remained poor. The other remarked, "Well, it's gone, and trouble and worry won't bring it back, but hard work will." He went to work with renewed vigor and, through consistent effort over a sustained period, became prosperous. The loss was a curse to the first because he clothed the event with dark thoughts; it was a blessing to the second because he threw around it thoughts of strength, hope, and renewed endeavor.
+Two men lost their hard-earned savings when a bank failed. One was deeply troubled, gave way to chagrin, worry, and despondency, and remained poor. The other remarked, "Well, it's gone, and trouble and worry won't bring it back, but hard work will." He went to work with renewed vigor and rapidly became prosperous. The loss was a curse to the first because he clothed the event with dark thoughts; it was a blessing to the second because he threw around it thoughts of strength, hope, and renewed endeavor.
 
 ##### Example 2: The Naturalist and the Farm Boy
 
@@ -136,7 +136,7 @@ If you wish to improve the world, heal suffering, or awaken others, the most eff
 - "All that we are is the result of what we have thought; it is founded on our thoughts; it is made up of our thoughts"
 - Circumstances do not have the power to bless or harm equally to all men — the difference lies in the mind that encounters them
 - The kingdom of the Divine — the state of consciousness characterized by beauty, joy, and inner peace that arises when you are fully engaged in unselfish love and service — is accessible within you right now, independent of your external circumstances or material possessions
-- Inner transformation changes how you interact with others and respond to events; this altered behavior naturally produces changed outcomes in your relationships, work, and circumstances.
+- Inner transformation changes how you interact with others and respond to events; as you alter from within, your outlook upon life alters — and as you alter your mental attitude toward others, they will alter in their attitude toward you.
 - As you eliminate lower mental habits — fear, worry, anxiety, suspicion, and selfishness — from your thinking, you come into contact with positive, strengthening influences from people who embody strength, purity, and noble character
 
 #### Security & Safety Notes
@@ -292,7 +292,7 @@ Understand that truth looks barren at its commencement (unlike error and delusio
 - No curse, prayer, or external intervention can alter the working-out of a cause — only changing the cause itself can change the effect
 - Worry is described as "soul-suicide" — it actively damages the soul while offering no remedy
 - The pathway looks barren at first — this is a sign you are on the right path
-- As you proceed in inner discipline, new opportunities for growth, service, and improvement will become apparent, and helpful people, useful books, and unexpected forms of support will often appear when you need them
+- As you proceed in inner discipline, new opportunities for growth, service, and improvement will become apparent, and helpful people, useful books, and all outward aids that you require will come to you unsought.
 
 #### Security & Safety Notes
 
@@ -354,7 +354,7 @@ If you are an employer who experiences endless trouble with employees, look with
 - ✅ Treat virtue as the only reliable foundation for lasting prosperity
 - ✅ Make unselfish service the primary goal of your life rather than wealth accumulation
 - ✅ Do good now with what you have — there is always room for self-sacrifice
-- ✅ Examine your motives honestly — the real desire behind "wanting to do good" is often self-laudation
+- ✅ Examine your motives honestly — the real desire behind "wanting to do good" is self-laudation
 - ✅ As an employer or leader, seek the happiness of those in your charge
 - ❌ Do not make wealth the direct object of life and reach greedily for it — this ultimately defeats you
 - ❌ Do not envy the prosperity of the wicked — understand their ultimate end
@@ -365,8 +365,7 @@ If you are an employer who experiences endless trouble with employees, look with
 
 - Outside of real heart-virtue there is neither prosperity nor power, but only appearances of these
 - "Rectify your heart, and you will rectify your life"
-- As negative elements are overcome, an irresistible and all-conquering power is evolved from within
-- A person who establishes himself in the highest virtue — complete self-mastery, unselfish love, and moral integrity — naturally commands the respect, trust, and cooperation of others, because virtue is the quality that all people instinctively recognize and respond to positively
+- As the elements of poverty and weakness are overcome, an irresistible and all-conquering power is evolved from within, and he who succeeds in establishing himself in the highest virtue, brings the whole world to his feet.
 - "No matter how poor you are, there is room for self-sacrifice"
 
 #### Security & Safety Notes
@@ -398,7 +397,7 @@ A lady who seemed to get everything she wished for was, in reality, the outcome 
 
 ##### Example 2: Martin Luther at Worms
 
-"If there were as many devils in Worms as there are tiles on the housetops I would go." This demonstrates the power of a heart established in purity and faith — no external force can withstand a person who is completely committed to doing what is right. The same principle applies to every person who anchors their life on faith's "permanent and unshakable foundation" — a life built on truth, goodness, and moral law rather than on fear, convenience, or popular opinion.
+"If there were as many devils in Worms as there are tiles on the housetops I would go." That was a manifestation of true power — the same principle applies to every person who anchors their life on faith's "permanent and unshakable foundation" — a life built on truth, goodness, and moral law rather than on fear, convenience, or popular opinion.
 
 #### Step 1: Purify the Heart and Order the Mind (Secret of Health)
 
@@ -611,7 +610,7 @@ Examine what you are currently centering your happiness upon — wealth, status,
 - "It is in loving, not in being loved, the heart is blessed; it is in giving, not in seeking gifts, we find our quest"
 - The highest happiness is found in utter self-forgetfulness in love for others — this is the realization of the Divine, meaning the experience of perfect joy and peace that comes when you are fully absorbed in the welfare of others rather than in your own personal concerns
 - Spiritually, happiness and harmony are the same thing — harmony is the spiritual expression of love
-- All selfishness is discord — to be selfish is to be out of harmony with the moral order of the universe, which is based on the principle that all beings are interconnected and that genuine good comes from cooperation and love rather than competition and self-seeking
+- All selfishness is discord — to be selfish is to be out of harmony with the Divine order
 
 #### Security & Safety Notes
 
