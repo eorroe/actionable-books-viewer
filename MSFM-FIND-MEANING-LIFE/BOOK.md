@@ -2,11 +2,11 @@
 2: 
 3: ## Overview
 4: 
-5: This book teaches that meaning is the primary motivational force in human existence, discovered through creative values, experiential values, and attitudinal values, and that the last human freedom is choosing one's attitude in any circumstance. Drawing from Viktor Frankl's experiences as a Holocaust survivor and his development of logotherapy, Frankl provides a framework for finding purpose even in the most unbearable suffering. The work demonstrates that meaning can be found through work, love, and courage in the face of difficulty, and Frankl asserts that the ability to choose one's response to any situation is the core of human dignity.
+5: This book teaches that meaning is the primary motivational force in human existence, discovered through creative values, experiential values, and attitudinal values, and that the last human freedom is choosing one's attitude in any circumstance. Drawing from Viktor Frankl's experiences as a Holocaust survivor and his development of logotherapy, Frankl provides a framework for finding purpose even in unbearable suffering. The work demonstrates that meaning can be found through work, love, and courage in the face of difficulty, and Frankl asserts that the ability to choose one's response to any situation is the core of human dignity.
 6: 
 7: ## When to Follow Book Teachings
 8: 
-9: - When you need to find meaning during unavoidable suffering (suffering that cannot be removed or avoided, such as terminal illness, the death of a loved one, or circumstances beyond one's control) or existential crisis (a state of profound questioning about the meaning and purpose of one's life, often triggered by events such as the death of a loved one, terminal illness, or circumstances beyond one's control, or by suffering)
+9: - When you need to find meaning during unavoidable suffering (suffering that cannot be removed or avoided, such as terminal illness, the death of a loved one, or circumstances beyond one's control) or existential crisis (a state of profound questioning about the meaning and purpose of one's life, triggered by events such as the death of a loved one, terminal illness, or circumstances beyond one's control, or by suffering)
 10: - When working with individuals experiencing loss, grief, or a sense of purposelessness, defined as the feeling that one's life lacks direction, significance, or reason for continuing
 11: - When the user asks about finding direction in life or overcoming existential emptiness, defined as the feeling of meaninglessness and void that arises when individuals lack a sense of purpose or meaning
 12: - When building psychological resilience against despair, defined as the conviction that there is no possibility of meaning or relief from suffering, apathy (defined in Glossary), or depression (a clinical condition requiring professional intervention)
@@ -20,7 +20,7 @@
 20: 
 21: ##### Example 1: The Camp Survivor
 22: 
-23: Frankl observed that prisoners who maintained inner freedom and a future-oriented mindset survived, while those who lost hope in the future died within days of that realization. Frankl observed that those who gave up their will to live died quickly, while those who retained a future-oriented mindset and inner purpose endured. The guards controlled the prisoners' bodies but not their thoughts or attitudes toward their situation. Frankl asserts that this demonstrates that external circumstances do not determine human existence—one's response to them does.
+23: Frankl observed that prisoners who maintained inner freedom and a future-oriented mindset survived, while those who lost hope in the future died. Frankl observed that those who gave up their will to live died, while those who retained a future-oriented mindset and inner purpose endured. The guards controlled the prisoners' bodies but not their thoughts or attitudes toward their situation. Frankl asserts that this demonstrates that external circumstances do not determine human existence—one's response to them does.
 24: 
 25: ##### Example 2: The Suffering Patient
 26: 
@@ -47,7 +47,7 @@
 47: - ✅ Use humor as a defensive mechanism by finding at least one observation or perspective that allows you to step back from a painful situation and see it from a wider viewpoint, thereby reducing its emotional grip
 48: - ❌ Do not dwell on past grievances as a substitute for present action
 49: - ❌ Do not confuse freedom from suffering with freedom of spirit
-50: - ❌ Do not aim directly at success; treat success as an unintended side-effect of dedication, defined as sustained commitment to a cause, person, or task beyond oneself, to a cause
+50: - ❌ Do not aim directly at success; treat success as an unintended side-effect of dedication, defined as sustained commitment to a cause, person, or task beyond oneself
 51: 
 52: #### Keep In Mind
 53: 
@@ -68,7 +68,7 @@
 68:   **Solution:** Logotherapy distinguishes between unavoidable suffering, defined as suffering that cannot be removed or avoided, such as terminal illness, the death of a loved one, or circumstances beyond one's control, which should be transformed into meaningful experience, and avoidable suffering, defined as suffering that can be removed or avoided through action, such as poverty, injustice, or unnecessary hardship, which should be eliminated when possible
 69: - **Problem:** Confusing inner freedom with passivity
 70:   **Solution:** Frankl defines inner freedom as the ability to choose one's attitude; it is not a reason to accept injustice passively when action is possible
-71: - **Problem:** Using logotherapy to pressure others to find meaning in trauma too quickly
+71: - **Problem:** Using logotherapy to pressure others to find meaning in trauma prematurely
 72:   **Solution:** Frankl advises allowing individuals to process at their own pace, noting that forced meaning-making can cause additional harm
 73: 
 74: ### Lesson 2: Meaning Is Discovered Through Creative Values, Experiential Values, and Attitudinal Values
@@ -107,13 +107,13 @@
 107: - ✅ Use paradoxical intention (defined in Glossary) to break vicious circles of anticipatory anxiety by confronting the feared outcome intentionally
 108: - ✅ Counter hyper-intention and hyper-reflection with dereflection by focusing outward on tasks beyond the self
 109: - ❌ Do not prescribe meaning for others; enable them to discover their own unique meaning
-110: - ❌ Do not confuse tensionless equilibrium with fulfillment—healthy tension toward meaning is the natural state of a meaning-oriented person
+110: - ❌ Do not confuse tensionless equilibrium with fulfillment—healthy tension toward meaning is the state of a meaning-oriented person
 111: - ❌ Do not pursue happiness (defined in Glossary) directly; allow it to emerge as a by-product of dedication to a cause
 112: 
 113: #### Keep In Mind
 114: 
 115: - Frankl asserts that meaning is not something to be found once and for all; it is discovered anew in each unique moment
-116: - Frankl observed that existential vacuum (defined in Glossary) often manifests as boredom, emptiness, or a sense of meaninglessness when individuals lack a clear purpose
+116: - Frankl observed that existential vacuum (defined in Glossary) manifests as boredom, emptiness, or a sense of meaninglessness when individuals lack a clear purpose
 117: - Self-transcendence (defined in Glossary) is the essence of human existence—meaning is always found beyond the self
 118: - Freedom and responsibility are inseparable; one cannot exist without the other
 119: 
@@ -138,7 +138,7 @@
 138: 
 139: ##### Example 1: The Bereaved Parent
 140: 
-141: A parent who loses a child faces the greatest pain imaginable. Tragic optimism does not deny this pain but Frankl asserts that meaning can still be found in continuing to love, in honoring the child's memory through action, or in finding renewed purpose through the suffering itself. Frankl asserts that the pain remains, but it no longer destroys the will to live because the individual has transformed the suffering into a different kind of meaningful experience.
+141: A parent who loses a child faces profound pain. Tragic optimism does not deny this pain but Frankl asserts that meaning can still be found in continuing to love, in honoring the child's memory through action, or in finding renewed purpose through the suffering itself. Frankl asserts that the pain remains, but it no longer destroys the will to live because the individual has transformed the suffering into a different kind of meaningful experience.
 142: 
 143: ##### Example 2: The Aging Professional
 144: 
@@ -176,7 +176,7 @@
 176: - Frankl defines tragic optimism as the ability to maintain meaning and hope in the face of suffering, guilt, and death; it is a response to tragedy, not a denial of it
 177: - Frankl asserts that happiness is an unintended side-effect of dedication to a cause greater than yourself
 178: - Frankl advises listening to your conscience and acting accordingly, while releasing attachment to success
-179: - Frankl asserts that life holds potential meaning under any conditions, even the most miserable ones
+179: - Frankl asserts that life holds potential meaning under any conditions, even miserable ones
 180: 
 181: #### Security & Safety Notes
 182: 
@@ -187,9 +187,9 @@
 187: #### Common Pitfalls
 188: 
 189: - **Problem:** Forcing optimism through positive thinking that dismisses real pain
-190:   **Solution:** Frankl asserts that meaning does not erase pain but transforms suffering into meaningful experience; allow space for grief and suffering before gently guiding toward meaning
+190:   **Solution:** Frankl asserts that meaning does not erase pain but transforms suffering into meaningful experience; allow space for grief and suffering before guiding toward meaning
 191: - **Problem:** Confusing dedication to meaning with self-sacrifice that leads to burnout
-192:   **Solution:** Frankl's concept of self-transcendence does not require self-destruction. Meaning-making grounded in self-transcendence includes preserving one's own well-being within the pursuit of something larger than oneself—a cause, person, or task that extends beyond one's individual interests
+192:   **Solution:** Frankl's concept of self-transcendence does not require self-destruction; meaning-making grounded in self-transcendence can coexist with the pursuit of something larger than oneself—a cause, person, or task that extends beyond one's individual interests
 193: - **Problem:** Using logotherapy to justify passivity in the face of changeable conditions
 194:   **Solution:** Frankl distinguishes between unavoidable suffering (transform it) and avoidable suffering (remove it). Meaning does not require unnecessary endurance (defined as remaining in harmful or changeable conditions while claiming they are meaningful)
 195: 
@@ -207,14 +207,14 @@
 207: |Dereflection|A logotherapeutic technique that redirects attention away from hyper-focused self-reflection and toward tasks or people beyond the self|153|
 208: |Delusion of Reprieve|The irrational hope among new prisoners that they will be released at the last moment despite clear evidence to the contrary|19-116|
 209: |Depersonalization|A psychological state in which individuals feel detached from their identity, body, or surroundings due to extreme conditions|19-116|
-210: |Existential Crisis|A state of profound questioning about the meaning and purpose of one's life, often triggered by significant life events or suffering|9-153|
+210: |Existential Crisis|A state of profound questioning about the meaning and purpose of one's life, triggered by significant life events or suffering|9-153|
 211: |Existential Emptiness|The feeling of meaninglessness and void that arises when individuals lack a sense of purpose or meaning in their lives|11-116|
 212: |Existential Vacuum|A state of emptiness and meaninglessness resulting from the loss of instinctual guidance and traditional values in modern life|117-180|
 213: |Experiential Values|Meaning discovered through encountering something or someone beyond oneself, such as beauty, nature, love, or truth; one of the three pathways to meaning alongside creative values and attitudinal values|82-118|
 214: |Fulfillment|The state of satisfaction and purpose that emerges as an unintended consequence of dedication to a cause greater than oneself, which Frankl describes as having a paradoxical nature|157|
 215: |Genuine Values|Values that are authentically discovered and chosen by the individual, representing true meaning rather than conformity or external pressure|105-180|
 216: |Happiness|A state that cannot be directly pursued; according to Frankl, happiness emerges as an unintended side-effect of dedication to a cause greater than oneself or surrender to another person|111-157|
-217: |Healthy Tension Toward Meaning|The natural, motivating tension that arises when individuals recognize a meaning they need to fulfill and strive toward it; Frankl identifies this as the natural state of a meaning-oriented person, distinct from tensionless equilibrium|110-180|
+217: |Healthy Tension Toward Meaning|The motivating tension that arises when individuals recognize a meaning they need to fulfill and strive toward it; Frankl identifies this as the state of a meaning-oriented person, distinct from tensionless equilibrium|110-180|
 218: |Hyper-Intention|Excessive, direct striving for a goal, particularly happiness or relief from anxiety, which paradoxically prevents achievement|153|
 219: |Hyper-Reflection|Excessive self-observation and analysis that creates anxiety and interferes with natural performance|153|
 220: |Inner Freedom|The inviolable human capacity to choose one's attitude in any given set of circumstances, regardless of external constraints|19-116|
