@@ -2,16 +2,16 @@
 
 ## Overview
 
-This book teaches the kaizen philosophy of using very small, continuous steps to achieve lasting personal and professional change. It explains why radical change efforts often fail and how tiny, nonthreatening actions can bypass the brain's fear response, build new neural pathways, and lead to sustainable improvement in health, relationships, careers, and creativity. Rooted in Japanese manufacturing principles and supported by neuroscience, kaizen demonstrates that honoring the brain's preference for gradual change makes transformation not only possible but surprisingly effortless and lasting.
+This book teaches the kaizen philosophy of using very small, continuous steps to achieve lasting personal and professional change. It explains why radical change efforts often fail and how very small, comfortable steps can bypass the fight-or-flight response, lay down new nerve pathways, and lead to lasting improvement in health, relationships with partners, family, and colleagues, and careers. Rooted in Japanese manufacturing principles, kaizen demonstrates that honoring the brain's preference for gradual change makes transformation not only possible but effortless and lasting.
 
 ## When to Follow Book Teachings
 
 - When you want to change a habit, behavior, or circumstance but feel overwhelmed, afraid, or resistant to starting
-- When you are trying to help others—employees, family members, or clients—overcome fear and make positive changes
-- When previous attempts at radical change (crash diets, intense exercise programs, abrupt career shifts) have ended in relapse or failure
-- When you want to foster creativity, reduce stress, improve relationships, or build better habits without relying on willpower
-- When you need a strategy that works under time pressure, tight budgets, or limited energy and motivation
-- When you are facing an overwhelming crisis and need to identify manageable small problems within a larger disaster
+- When you are trying to help others—employees, family members, or patients—overcome fear and make positive changes
+- When previous attempts at radical change (crash diets, exercise programs that demand thirty minutes per session on most days, abrupt career shifts) have ended in relapse or failure
+- When you want to foster creativity, reduce stress, improve relationships, or build specific habits such as exercising regularly, eating well, or staying organized without relying on willpower
+- When you need a strategy that works under time pressure or limited energy and motivation
+- When you are facing a crisis and need to identify manageable small problems within a larger crisis or emergency
 
 ## Lessons From Book
 
@@ -21,11 +21,11 @@ This book teaches the kaizen philosophy of using very small, continuous steps to
 
 ##### Example 1: Julie's Exercise Breakthrough
 
-Julie, a single mother with high blood pressure and overwhelming responsibilities, was told by her doctor to exercise thirty minutes most days. Fearing failure and feeling misunderstood, she would have rejected this advice. Instead, her doctor suggested she march in place for just one minute each night while watching television. This tiny step bypassed her fear, built a new habit, and within months she was enthusiastically doing full aerobics workouts. The small step created a "mental software" for change that eventually took over and propelled her toward her goal without additional conscious effort.
+Julie, a single mother with high blood pressure and overwhelming responsibilities, was told by her doctor to exercise thirty minutes on most days. Fearing failure and feeling misunderstood, she would have rejected this advice. Instead, her doctor suggested she march in place for just one minute each night while watching television. This tiny step bypassed her fear, built a new habit, and within months she was enthusiastically doing full aerobics workouts. The small step created a new mental pattern for change that eventually took over and propelled her toward her goal without additional conscious effort.
 
 ##### Example 2: Toyota's Kaizen Success and Crisis
 
-For decades, Toyota exemplified quality manufacturing through kaizen—small, continual improvements suggested by every employee. Average Japanese employee suggestion rewards were $3.88, and Toyota's Presidential Award was a fountain pen, yet workers provided 1.5 million suggestions a year with 95 percent put to practical use. However, when Toyota abandoned kaizen in favor of rapid growth, producing three million additional automobiles in six years, quality collapsed: over nine million recalls resulted. Toyota later restored its reputation by returning to kaizen, slowing down production, and empowering local managers to correct defects while they were small and easily fixed.
+For decades, Toyota exemplified quality manufacturing through kaizen—small, continual improvements suggested by every employee. Japanese employee suggestion rewards were $3.88, and Toyota's Presidential Award was a fountain pen, yet workers provided 1.5 million suggestions a year with 95 percent put to practical use. However, when Toyota abandoned kaizen in favor of rapid growth, producing three million additional automobiles in six years, quality collapsed: over nine million recalls resulted. Toyota later restored its reputation by returning to kaizen, slowing down production, and empowering local managers to correct defects while they were small and easily fixed.
 
 #### Step 1: Recognize the Three-Brain Model and the Role of the Amygdala
 
@@ -37,12 +37,12 @@ Know that innovation is a drastic, fast, large-scale change that often requires 
 
 #### Step 3: Choose Small Goals to Bypass Fear
 
-When setting a goal, make it so small and trivial that you can guarantee you will take it every single day. For example, instead of "exercise thirty minutes," try "march in place for one minute." Instead of "clean the house," try "pick up one paper clip." Small goals do not trigger the fight-or-flight response, allowing your brain to stay open, creative, and receptive to change. As the small step becomes effortless and pleasurable, you can add another small step.
+When setting a goal, make it so small and trivial that you can guarantee you will take it every single day. For example, instead of "exercise thirty minutes on most days," try "march in place for one minute." Instead of "clean the house," try "pick up one paper clip." Small goals do not trigger the fight-or-flight response, allowing your brain to stay open, creative, and receptive to change. As the small step becomes effortless and pleasurable, you can add another small step.
 
 #### Best Practices
 
 - ✅ Accept that fear is a normal, natural response to change, not a sign of weakness or failure
-- ✅ Frame fear as excitement when possible; many successful people openly acknowledge fear as a sign they are pushing themselves
+- ✅ Frame fear as excitement when possible; successful people openly acknowledge fear as a sign they are pushing themselves
 - ✅ Expect that the brain will resist change and plan small steps to circumvent that resistance
 - ✅ Trust that small, repeated actions will lay down new neural pathways and eventually produce large results
 - ❌ Do not rely exclusively on innovation (radical, sudden change) as your only strategy for transformation
@@ -52,8 +52,8 @@ When setting a goal, make it so small and trivial that you can guarantee you wil
 #### Keep In Mind
 
 - The fight-or-flight response is an ancient survival mechanism that now activates whenever we try something new, not just when physical danger is present
-- Successful people are not fearless; they are simply better at acknowledging and working with fear rather than avoiding it
-- Kaizen requires faith—not necessarily religious faith, but a belief in the brain and body's ability to change given time and small inputs
+- Successful people are not fearless; as noted by Jack Welch, Chuck Jones, and Sally Ride, they are simply better at acknowledging and working with fear rather than avoiding it
+- In the author's view, kaizen requires faith—not necessarily religious faith, but a belief in the brain and body's ability to change given time and small inputs
 - Small steps build tolerance for change, and the mind often takes over and accelerates the pace on its own once resistance weakens
 
 #### Security & Safety Notes
@@ -66,7 +66,7 @@ When setting a goal, make it so small and trivial that you can guarantee you wil
 - **Problem:** Choosing a "small" step that is still too large for your current tolerance, triggering fear and resistance
   **Solution:** Make the step so trivial that you are certain you can do it daily. If you find yourself making excuses, cut the step size in half.
 - **Problem:** Expecting rapid results and becoming frustrated with the pace of kaizen
-  **Solution:** Ask yourself: "Isn't slow change better than what I've experienced before—which is no change at all?" Trust the process and let the brain develop mastery on its own timetable.
+  **Solution:** Ask yourself: "Isn't slow change better than what I've experienced before—which is no change at all?" Trust the process and let the brain develop mastery when it is ready.
 - **Problem:** Falling back into self-criticism when fear arises, using harsh questions like "Why am I so stupid?"
   **Solution:** Replace negative questions with positive ones. Ask: "What is one thing I like about myself today?" or "What is one small thing I did well?"
 
@@ -78,7 +78,7 @@ When setting a goal, make it so small and trivial that you can guarantee you wil
 
 ##### Example 1: Patrick's Manufacturing Team Turnaround
 
-Patrick, a factory supervisor, asked his employees big, scary questions like "What is each of you going to do to make our company the best in the industry?" The employees froze, complained behind his back, and sick days increased by 23 percent. When Patrick softened his tone and asked "Can you think of a very small step you might take to improve our process or product?" faces lit up, contributions flowed, and practical ideas emerged: selling scrap metal, training new employees, and starting a public thank-you system. Morale and efficiency both improved.
+Patrick, a factory supervisor, asked his employees big, scary questions like "What is each of you going to do to make our company the best in the industry?" The employees froze, complained behind his back, and employees took 23 percent more sick days. When Patrick softened his tone and asked "Can you think of a very small step you might take to improve our process or product?" faces lit up, contributions flowed, and practical ideas emerged: selling scrap metal, training new employees, and starting a public thank-you system. Morale and efficiency both improved.
 
 ##### Example 2: Grace's Journey to Finding Love
 
@@ -86,7 +86,7 @@ Grace, a successful businesswoman, could not find a lasting romantic relationshi
 
 #### Step 1: Ask Small, Nonthreatening Questions Repeatedly
 
-Replace big, frightening questions ("How can I lose twenty pounds by summer?") with small, gentle ones ("What is one small step I could take toward my goal?" or "What is one thing I like about myself today?"). Repeat the question daily—over coffee, in the car, before bed. Write it on a Post-it note. The hippocampus (the brain's storage center) responds to repetition and will eventually produce answers on its own timetable, often when you are in the shower, driving, or washing dishes.
+Replace big, frightening questions ("How can I lose twenty pounds by summer?") with small, gentle ones ("What is one small step I could take toward my goal?" or "What is one thing I like about myself today?"). Repeat the question daily—over coffee, in the car, before bed. Write it on a Post-it note. The hippocampus (the brain's storage center) responds to repetition and will eventually produce answers when the brain is ready, often when you are in the shower or driving.
 
 #### Step 2: Use Questions Instead of Commands
 
@@ -94,17 +94,17 @@ Questions engage the brain's natural love of play and problem-solving; commands 
 
 #### Step 3: Tiptoe Past Fear With Kaizen Questions
 
-Big questions trigger the amygdala and suppress creativity. Small questions keep the amygdala asleep and the cortex engaged. Examples of effective kaizen questions include: "What's the smallest step I can take to be more efficient?" "What can I do in five minutes a day to reduce my credit-card debt?" "How could I find one source of information about adult education classes in my city?" Ask the question often enough, and your brain will store it, turn it over, and eventually generate interesting and useful responses.
+Big questions trigger the amygdala and suppress creativity. Small questions keep the amygdala asleep and the cortex engaged. Examples of effective kaizen questions include: "What's the smallest step I can take to be more efficient?" "What can I do in five minutes a day to reduce my credit-card debt?" "How could I find one source of information about adult education classes in my city?" Ask the question often enough, and your brain will store it, turn it over, and eventually generate responses.
 
 #### Step 4: Ask Others Small Questions to Show Respect and Gather Insight
 
-Ask colleagues, family members, or employees small questions to demonstrate respect and uncover valuable ideas. Examples: "Is there one small improvement that the staff or customers would like me to make?" "What is one thing your spouse does that makes you happy?" "What do you like and not like about going to the doctor?" Listening to small answers from unexpected sources—janitors, teenagers, receptionists—can yield powerful insights and strengthen relationships.
+Ask colleagues, family members, or employees small questions to demonstrate respect and uncover practical ideas for improvement. Examples: "Is there one small improvement that the staff or customers would like me to make?" "What is one thing your spouse does that makes you happy?" "What do you like and not like about going to the doctor?" Listening to small answers from unexpected sources can yield powerful insights and strengthen relationships.
 
 #### Best Practices
 
-- ✅ Choose a question and ask it repeatedly over several days or weeks; do not demand immediate answers
+- ✅ Choose a question and ask it repeatedly over days or weeks; do not demand immediate answers
 - ✅ Use a kind tone with yourself, the same tone you would use for a beloved friend
-- ✅ Ask positive questions rather than negative ones to avoid the toxic mental brew of self-criticism
+- ✅ Ask questions that focus on solutions or self-appreciation to avoid the harmful pattern of self-criticism
 - ✅ Be patient; answers often come when you least expect them
 - ✅ Ask "What is one small thing that is special about me (or my organization)?" to program the brain to look for the good
 - ❌ Do not ask questions so large that they trigger fear and shut down creative thinking
@@ -115,7 +115,7 @@ Ask colleagues, family members, or employees small questions to demonstrate resp
 
 - The brain loves questions because they are playful and engaging; they do not demand immediate action
 - Repetition is the hippocampus's main criterion for storing information
-- Small questions are especially powerful for defusing complicated fears related to dating, career, or health
+- Small questions are especially powerful for defusing complex fears related to dating, career, or health
 - Calling a therapist's voice mail or writing answers in a journal can help build accountability without fear of judgment
 
 #### Security & Safety Notes
@@ -130,7 +130,7 @@ Ask colleagues, family members, or employees small questions to demonstrate resp
 - **Problem:** Berating yourself with negative questions such as "Why am I such a loser?"
   **Solution:** Replace negative questions with positive ones. Ask daily: "What is one thing I like about myself today?"
 - **Problem:** Expecting immediate answers and giving up when the brain does not respond right away
-  **Solution:** Trust that the brain works on its own timetable. Keep asking the question gently and repeatedly.
+  **Solution:** Trust that the brain works when it is ready. Keep asking the question gently and repeatedly.
 
 ---
 
@@ -140,7 +140,7 @@ Ask colleagues, family members, or employees small questions to demonstrate resp
 
 ##### Example 1: Michael Phelps's Mental Rehearsal
 
-Olympic swimmer Michael Phelps practiced mind sculpture daily even while lying in bed. His coach instructed him to imagine himself on the starting block, hearing the signal, pushing off, gliding through the water, and making perfect turns. Phelps imagined he was actually inside the aquatic center, not just watching a video of himself. He used all his senses: the feel of the swim cap, the roar of the crowd, the texture of the water. During one event, water in his goggles threatened to slow him down—but he had already envisioned this scenario during mental rehearsal and knew exactly how to handle it. The gold medal was his.
+Olympic swimmer Michael Phelps practiced mind sculpture daily even while lying in bed. His coach instructed him to imagine himself on the starting block, hearing the signal, pushing off, gliding through the water, and making perfect turns. Phelps imagined he was actually inside the aquatic center, not just watching a video of himself. He used all his senses: the feel of the swim cap, the roar of the crowd, the texture of the water. During one event, water in his goggles threatened to slow him down—but he had already envisioned this scenario during mental rehearsal and knew exactly how to handle it. With twenty-two medals, including eighteen gold, Phelps is the most decorated athlete in Olympic history.
 
 ##### Example 2: Michael the Manager Learns to Give Feedback
 
@@ -148,11 +148,11 @@ Michael, a corporate supervisor, avoided conducting annual employee reviews. He 
 
 #### Step 1: Isolate a Task That Makes You Uncomfortable
 
-Choose a task you are afraid to perform or that makes you anxious. Give yourself at least one month before you must actually perform the activity. Examples include giving a presentation, confronting a difficult employee, going on a blind date, or sticking to a diet.
+Choose a task you are afraid to perform or that makes you anxious. Give yourself at least one month before you must actually perform the activity. Examples include giving a presentation, confronting a difficult employee, or sticking to a diet.
 
 #### Step 2: Devote Seconds, Not Minutes, to Daily Practice
 
-Decide how many seconds you are willing to devote to mind sculpture each day. The time commitment should be so low that you can easily fulfill it every single day. Repetition is essential: whatever you do repeatedly, even for just a few seconds at a time, the brain decides must be important and begins committing cells to the new behavior.
+Decide how many seconds you are willing to devote to mind sculpture each day. The time commitment should be so low that you can easily fulfill it every single day. Repetition is essential: whatever you do repeatedly, even for just seconds at a time, the brain decides must be important and begins committing cells to the new behavior.
 
 #### Step 3: Create a Full Sensory Experience
 
@@ -187,11 +187,11 @@ When you feel ready to attempt the actual task, start with small, low-risk versi
 
 #### Keep In Mind
 
-- Mind sculpture works because the brain does not fully distinguish between real and imagined experience
-- Research shows that people who practice a five-finger piano exercise for two hours a day show similar brain activity increases as those who only imagine playing
+- According to Ian Robertson's theory in Mind Sculpture, the brain does not fully distinguish between real and imagined experience
+- In one study cited by Ian Robertson, people who practice a five-finger piano exercise for two hours a day show similar brain activity increases as those who only imagine playing
 - Within minutes of mentally practicing a task using all senses, the brain's chemistry begins to change and rewire cells
 - Michael Phelps's coach used mind sculpture because it allowed Phelps to practice without the physical fatigue of daily full swims
-- Mind sculpture has been used successfully to treat flashbacks in earthquake or accident victims and to eliminate recurring nightmares by envisioning a happy ending
+- Mind sculpture has been used successfully to treat flashbacks in earthquake victims and to eliminate recurring nightmares by envisioning a happy ending
 
 #### Security & Safety Notes
 
@@ -201,7 +201,7 @@ When you feel ready to attempt the actual task, start with small, low-risk versi
 #### Common Pitfalls
 
 - **Problem:** Trying to practice mind sculpture for too long too soon, making it feel like a chore
-  **Solution:** Start with just a few seconds per day. Increase by thirty seconds only when the current duration feels effortless.
+  **Solution:** Start with just seconds per day. Increase by thirty seconds only when the current duration feels effortless.
 - **Problem:** Using only visual imagination without engaging other senses
   **Solution:** Add sounds, smells, textures, and physical sensations. The more senses you engage, the more the brain treats the imagery as real.
 - **Problem:** Jumping to the real-world task before the mental rehearsal has become automatic
@@ -209,17 +209,17 @@ When you feel ready to attempt the actual task, start with small, low-risk versi
 
 ---
 
-### Lesson 4: Take Small Actions That Guarantee Success
+### Lesson 4: Take Small Actions
 
 #### Examples
 
 ##### Example 1: The Medical Clinic That Saved Itself
 
-An outpatient clinic faced financial disaster due to high patient disenrollment caused by long wait times. Expensive software solutions and hiring additional staff were financially impossible. The clinic staff brainstormed small, free actions: apologizing for the wait, offering to see another physician or reschedule, and thanking patients for their patience. These tiny steps cost nothing and took only seconds. Within a short time, patient satisfaction rates doubled, and defections dropped by 60 percent—even though the average wait time remained exactly the same.
+An outpatient clinic faced financial disaster due to high patient disenrollment caused by long wait times. Expensive software solutions and hiring additional staff were financially impossible. The clinic staff brainstormed small, free actions: apologizing for the wait, offering to see another physician or reschedule, and thanking patients for their patience. These tiny steps cost nothing and took only seconds. Patient satisfaction rates doubled, and defections dropped by 60 percent.
 
 ##### Example 2: Rachel Quits Smoking Through Small Steps
 
-Rachel, a forty-five-year-old heavy smoker, had tried and failed to quit multiple times. She grew up in a family where self-reliance was prized and dependence on others was seen as weakness. Her first small step was to call her therapist's voice mail once a day, simply saying "Hi, it's Rachel." This tiny act of reaching out felt threatening but gradually became less frightening. She then added a call before each cigarette, saying "I'm having a cigarette now!" After two months, she began journaling for just two minutes a day. Her cigarette intake dropped by 30 percent without effort. Next, she practiced imagining a best friend by her side and asking herself what she would want that friend to do. Eventually she began calling real friends, building a support network. Within a month of using her usual smoking-cessation technique again, she quit permanently and has not smoked in two years.
+Rachel, a forty-five-year-old heavy smoker, had tried and failed to quit a month or two at a time. She grew up in a family where self-reliance was prized and dependence on others was seen as weakness. Her first small step was to call her therapist's voice mail once a day, simply saying "Hi, it's Rachel." This tiny act of reaching out felt threatening but gradually became less frightening. She then added a call before each cigarette, saying "I'm having a cigarette now!" After two months, she began journaling for just two minutes a day. Her cigarette intake dropped by 30 percent without effort. Next, she practiced imagining a best friend by her side and asking herself what she would want that friend to do. Eventually she began calling real friends, building a support network. Within a month of using her usual smoking-cessation technique again, she quit permanently and has not smoked in two years.
 
 #### Step 1: Choose a Truly Trivial First Step
 
@@ -231,26 +231,26 @@ Once your first step becomes automatic, effortless, and even pleasurable, decide
 
 #### Step 3: Apply Kaizen to Specific Common Goals
 
-Use the book's kaizen step guides for popular resolutions:
+Use the book's kaizen step guides for common New Year's resolutions:
 - Eat more healthfully: toss out the first bite of one fattening snack for one month; then toss the first two bites; then three.
 - Exercise: squeeze a tennis ball while watching television; walk around the block once; pass one additional house per day.
 - Save money: save one dollar per day by downgrading one daily purchase or sharing an indulgence with a friend.
 - Meet more people: write down one place you might go to meet people with similar interests; add one location each day.
 - Ask for a raise: start a list of reasons you deserve more money; practice your request out loud for one minute per day.
-- Use time more productively: list unproductive activities and more-productive alternatives; try new activities in a very limited way (write three sentences per day in a journal, or just sit in a yoga studio lobby).
+- Use time more productively: list unproductive activities and alternatives that you find more engaging or useful; try new activities in a very limited way (write three sentences per day in a journal, or just sit in a yoga studio lobby).
 
 #### Step 4: Overcome Resistance by Scaling Back
 
-If you hit a wall of resistance, do not give up. Instead, make your steps even smaller. People who struggle with kaizen do so not because the steps are hard but because they are easy. Our culture trains us to believe that change must be instantaneous and require steel discipline. Remember that the goal is to bypass fear, not to prove your willpower. When the steps are easy enough, the mind will usually take over and accelerate the pace on its own.
+If you hit a wall of resistance, do not give up. Instead, make your steps even smaller. People who struggle with kaizen do so not because the steps are hard but because they are easy. Cultural messages often suggest that change must be instantaneous and require steel discipline. Remember that the goal is to bypass fear, not to prove your willpower. When the steps are easy enough, the mind will usually take over and accelerate the pace on its own.
 
 #### Step 5: Use Kaizen to Break Habits and Addictions
 
-Many addictions (smoking, overeating, alcohol) persist because the substance serves as a "friend" that provides comfort. Quitting cold turkey often fails because the person loses that support without replacing it with human connection. Use small steps to build a support network gradually: call a therapist's voice mail, write in a journal for two minutes, ask small questions about what a supportive friend would do. Eventually replace the addictive comfort with real human relationships.
+Addictions such as smoking, overeating, or alcohol persist because the substance serves as a "friend" that provides comfort. Quitting cold turkey often fails because the person loses that support without replacing it with human connection. Use small steps to build a support network gradually: call a therapist's voice mail, write in a journal for two minutes, ask small questions about what a supportive friend would do. Eventually replace the addictive comfort with real human relationships.
 
 #### Best Practices
 
-- ✅ Make your steps so small that they seem almost laughably trivial at first
-- ✅ Trust that the brain will develop mastery on its own timetable; do not force the pace
+- ✅ Make your steps so small that they seem trivial at first
+- ✅ Trust that the brain will develop mastery when it is ready; do not force the pace
 - ✅ Use kaizen steps for deeply resisted activities like flossing, exercise, or cleaning
 - ✅ Remember that one small step can sometimes produce a dramatic improvement all by itself
 - ✅ Floss one tooth per day, stand on the treadmill while reading the newspaper, or remove one grain of sugar from your spoon at a time
@@ -262,13 +262,13 @@ Many addictions (smoking, overeating, alcohol) persist because the substance ser
 
 - Small actions are the heart of kaizen because no matter how much you prepare, eventually you must act
 - Small actions trick the brain into thinking the change is no big deal, so there is no need for alarm
-- By outfoxing the fear response, small actions allow the brain to build new, permanent habits at a surprisingly brisk pace
-- The study of persuasion consistently demonstrates kaizen's power to melt even the toughest resistance
-- People who agree to a small request (displaying a small sign in their window) are four times more likely to agree to a larger request later (a billboard on their lawn)
+- By outfoxing the fear response, small actions allow the brain to build new, permanent habits at a faster pace than expected
+- The study of persuasion demonstrates kaizen's power to reduce even strong resistance
+- In one study by Jonathan Freedman and Scott Fraser, Southern California homeowners who agreed to display a small "Be a safe driver" sign in their window were four times more likely to agree to a larger request later—a billboard on their lawn—than homeowners who were not approached about the small sign first
 
 #### Security & Safety Notes
 
-- Do not use small steps as an excuse to delay necessary medical or professional intervention in emergencies
+- Do not use small steps as an excuse to delay necessary medical intervention in emergencies
 - When quitting addictions that have severe withdrawal symptoms, consult a healthcare provider alongside kaizen techniques
 
 #### Common Pitfalls
@@ -296,7 +296,7 @@ When William Bratton was hired in 1990 to reduce New York City subway crime, he 
 
 ##### Example 3: Becky Learns to Ask for Help During Cancer Treatment
 
-Becky, a fifty-five-year-old woman diagnosed with cancer, had cut off all communication with family and friends and felt overwhelmed by her treatment and daily chores. She agreed to see a therapist only if sessions took just a few minutes a day. Each morning she wrote a list of chores and put a star next to each one with which she would like assistance, describing the specific help she wanted. The list kept her from sinking into denial and kept her focused on asking for help safely. Over time she slowly reconnected with parents and friends, and her wish list became more detailed and emotional. She grew calmer and more in control, and has been in remission for several years.
+Becky, a fifty-five-year-old woman diagnosed with cancer, had cut off all communication with family and friends and felt overwhelmed by her treatment and daily chores. She agreed to see a therapist only for brief sessions each day. Each morning she wrote a list of chores and put a star next to each one with which she would like assistance, describing the specific help she wanted. The list kept her from sinking into denial and kept her focused on asking for help safely. Over time she slowly reconnected with parents and friends, and her wish list became more detailed and emotional. She grew calmer and more in control, and has been in remission for years.
 
 #### Step 1: Train Yourself to Spot Small Problems
 
@@ -308,7 +308,7 @@ Be especially vigilant at three times: at the beginning of your path to change (
 
 #### Step 3: Recognize Common Warning Signs That Should Not Be Ignored
 
-Do not ignore: disturbing traits in a new dating partner (rudeness to waiters, excessive drinking); less-than-stellar skills in a job applicant you are tempted to hire out of desperation; angry or critical self-talk; small, persistent signs of pain when exercising; and any resistance to the small step you have chosen.
+Do not ignore: disturbing traits in a new dating partner (rudeness to waiters, excessive drinking); skills that do not meet your performance standards in a job applicant you are tempted to hire out of desperation; angry or critical self-talk; small, persistent signs of pain when exercising; and any resistance to the small step you have chosen.
 
 #### Step 4: Solve Small Problems in Overwhelming Crises
 
@@ -333,7 +333,7 @@ Encourage every employee to look for ways to improve processes and products dail
 
 - Small problems acquire mass over time and eventually block your path to change if left unaddressed
 - The Tao Te Ching teaches: "Confront the difficult while it is still easy; accomplish the great task by a series of small acts."
-- High-reliability organizations (emergency rooms, aircraft carriers, nuclear plants) distinguish themselves by detecting incredibly weak warning signs and taking strong, decisive action
+- High-reliability organizations (emergency rooms, aircraft carriers, nuclear plants) distinguish themselves by detecting very subtle warning signs and taking strong, decisive action
 - Even when life is in chaos, small steps such as writing a wish list or asking for one specific form of help can restore a sense of control
 
 #### Security & Safety Notes
@@ -346,8 +346,8 @@ Encourage every employee to look for ways to improve processes and products dail
 - **Problem:** Missing small warning signs because they seem normal or unimportant
   **Solution:** Practice daily awareness exercises. Identify one small mistake you made today without self-criticism. Scan your environment for subtle signs of trouble.
 - **Problem:** Waiting until a small problem becomes a crisis before addressing it
-  **Solution:** Remember BP's experience: 356 small oil spills led to the worst environmental disaster in history. Fix small leaks immediately.
-- **Problem:** Feeling overwhelmed by an enormous problem and unable to see any small, actionable parts
+  **Solution:** Remember BP's experience: 356 small oil spills led to the worst environmental disaster in U.S. history. Fix small leaks immediately.
+- **Problem:** Feeling overwhelmed by an overwhelming problem and unable to see any small, actionable parts
   **Solution:** Write down the larger problem, then list every tiny component of it. Ask: "What is one small thing I can do about one small part of this today?"
 
 ---
@@ -358,23 +358,23 @@ Encourage every employee to look for ways to improve processes and products dail
 
 ##### Example 1: Toyota's Presidential Award
 
-Toyota's best suggestion of the year receives the Presidential Award, bestowed at a formal ceremony. This coveted reward is not a fancy watch, a new car, or a shopping spree. It is a fountain pen. The average Japanese employee suggestion reward is $3.88 (compared to $458 in the U.S.). Yet Toyota workers provide 1.5 million suggestions a year, with 95 percent put to practical use. Small rewards preserve intrinsic motivation—the native desire to contribute and excel—while large cash prizes often undermine it by making the reward the goal itself rather than the joy of the work.
+Toyota's best suggestion of the year receives the Presidential Award, bestowed at a formal ceremony. This coveted reward is not a fancy watch, a new car, or a shopping spree. It is a fountain pen. The value of the average Japanese employee suggestion reward is $3.88 (compared to $458.00 in the U.S.). Yet Toyota workers provide 1.5 million suggestions a year, with 95 percent put to practical use. Small rewards preserve intrinsic motivation—the native desire to contribute and excel—while large cash prizes often undermine it by making the reward the goal itself rather than the joy of the work.
 
 ##### Example 2: Karen Pryor's Chocolate Squares
 
-Karen Pryor, a whale and dolphin trainer, was working all day and attending graduate school at night. She found it hard to motivate herself to commute and attend classes. Breaking her journey into segments—walking to the subway, changing trains, taking the stairs—she allowed herself one square of chocolate after each completed segment. She trained herself to associate each segment of the journey with pleasure. Within a few weeks, she was able to get all the way to class without either the chocolate or the internal struggle.
+Karen Pryor, a whale and dolphin trainer, was working all day and attending graduate school at night. She found it hard to motivate herself to commute and attend classes. Breaking her journey into segments—walking to the subway, changing trains, taking the stairs—she allowed herself one square of chocolate after each completed segment. She trained herself to associate each segment of the journey with pleasure. Within weeks, she was able to get all the way to class without either the chocolate or the internal struggle.
 
 ##### Example 3: Jack Stupp's Recovery From Rheumatoid Arthritis
 
-At age fifty-four, Jack Stupp was hospitalized with severe rheumatoid arthritis and confined to a wheelchair. Doctors advised against exercise. Each morning when he awoke in pain, he told himself he only had to get out of bed. When he stood upright, he gave himself a mental pat on the back: "Atta boy, Jack!" Then he told himself that if he could walk to the gym, he would enjoy a chat with the staff. Once on the treadmill, he started with just two minutes of walking, rewarding himself with praise and encouragement. Minute by minute and small reward by small reward, he worked himself into physical fitness. By the time he was in his seventies, he had won the Mr. World bodybuilding contest for his age division.
+Jack Stupp was fifty-four years old when he was hospitalized with severe rheumatoid arthritis and confined to a wheelchair. Doctors advised against exercise. Each morning when he awoke in pain, he told himself he only had to get out of bed. When he stood upright, Jack gave himself a mental pat on the back: "Atta boy, Jack!" he'd say. Then he told himself that if he could walk to the gym, he would enjoy a chat with the staff. Once on the treadmill, Jack started by walking for just two minutes, rewarding himself with praise and encouragement. Minute by minute and small reward by small reward, he worked himself into physical fitness. By the time he was in his seventies, he had won the Mr. World bodybuilding contest for his age division.
 
-#### Step 1: Choose Rewards That Are Appropriate to the Goal and the Person
+#### Step 1: Choose Rewards That Are Aligned With the Goal and the Person
 
-A reward should serve the goal, not sabotage it. Chocolate is perfect for Karen Pryor's commute but counterproductive for a man trying to cut back on unhealthy foods. A compliment works well for some people but feels condescending to others. For clients who are hesitant to call their therapist, phone calls as rewards work; for those who feel entitled to call anytime, the same reward is meaningless. Ask: "How do you know you are loved?" or "How do you know you are appreciated?" The answers are often small and illuminating.
+A reward should serve the goal, not sabotage it. Chocolate is perfect for Karen Pryor's commute but counterproductive for a man trying to cut back on unhealthy foods. A compliment works well for some people but feels condescending to others. For clients who are hesitant to call their therapist, phone calls as rewards work; for those who feel entitled to call anytime, the same reward is meaningless. Ask: "How do you know you are loved?" or "How do you know you are appreciated?" The answers often reveal small, specific preferences.
 
 #### Step 2: Keep Rewards Small, Free, or Inexpensive
 
-The reward should be proportionate to the step. Small rewards preserve intrinsic motivation by signaling appreciation for the person's internal desire to improve. Ideas include: a five-dollar food voucher (Southwest Airlines), written "Love Reports" from peers, ten minutes to read a book or newspaper, a soak in the hot tub, a five-minute back or foot massage from a partner, playing favorite music, making a phone call to a friend, or an honest self-compliment.
+The reward should be proportionate to the step. Small rewards preserve intrinsic motivation by signaling appreciation for the person's internal desire to improve. Ideas include: a five-dollar food voucher (Southwest Airlines), written "Love Reports" from peers, hearing the boss say "thank you," receiving a compliment from a superior, or having someone bring you a cup of coffee when you're working late.
 
 #### Step 3: Use Small Rewards When Incremental Steps Are Not Possible
 
@@ -386,7 +386,7 @@ The power of small rewards lies in their immediacy and consistency. When a colle
 
 #### Best Practices
 
-- ✅ Keep rewards small, inexpensive, and personally meaningful
+- ✅ Keep rewards small, inexpensive, and meaningful to that specific person
 - ✅ Ensure the reward does not contradict the goal (do not reward healthy eating with junk food)
 - ✅ Use rewards as recognition, not as material gain or manipulation
 - ✅ Ask people what makes them feel appreciated rather than assuming you know
@@ -397,7 +397,7 @@ The power of small rewards lies in their immediacy and consistency. When a colle
 
 #### Keep In Mind
 
-- The larger the external reward, the greater the risk of inhibiting or stunting the native drive for excellence
+- The larger the external reward, the greater the risk of inhibiting or stunting the native drive for excellence, according to Dr. Deming
 - Big cash prizes can send the message that an employee is a cog in the machine who must be whipped into a frenzy by the possibility of personal gain
 - Small rewards are a form of recognition rather than material gain, signaling that the corporation or relationship appreciates the person's internal desire to improve
 - Once a large reward is in hand, motivation to continue the new behavior tends to fade or disappear
@@ -411,9 +411,9 @@ The power of small rewards lies in their immediacy and consistency. When a colle
 #### Common Pitfalls
 
 - **Problem:** Choosing a reward that undermines the goal (e.g., rewarding exercise with junk food)
-  **Solution:** Ask whether the reward is appropriate to the goal. If it creates conflict with what you are trying to achieve, choose something else.
+  **Solution:** Ask whether the reward is aligned with the goal you are trying to achieve. If it creates conflict with what you are trying to achieve, choose something else.
 - **Problem:** Using rewards that feel patronizing or meaningless to the recipient
-  **Solution:** Ask the person directly: "How do you know you are loved?" or "How do you know you are appreciated?" Give them time to think and provide several answers.
+  **Solution:** Ask the person directly: "How do you know you are loved?" or "How do you know you are appreciated?" Give them time to think and provide four or five answers.
 - **Problem:** Relying solely on large, infrequent rewards that fail to sustain long-term motivation
   **Solution:** Shift to small, frequent rewards that preserve the joy and intrinsic value of the activity itself.
 
@@ -425,11 +425,11 @@ The power of small rewards lies in their immediacy and consistency. When a colle
 
 ##### Example 1: Edward Jenner and the Small Moment That Cured Smallpox
 
-Edward Jenner noticed that milkmaids did not get smallpox. While others had known this coincidence for years, they had bigger things to worry about and dismissed it. Jenner's appreciation of this commonplace fact led him to a revolutionary discovery: the milkmaids had been exposed to cowpox, which gave them immunity to smallpox. This theory led him to perfect the technique of vaccination. Many great moments of progress come not from instantaneous flashes of insight but from workaday attention to little things.
+Edward Jenner noticed that milkmaids did not get smallpox. While others had known this coincidence for years, they had bigger things to worry about and dismissed it. Jenner's appreciation of this commonplace fact led him to a revolutionary discovery: the milkmaids had been exposed to cowpox, which gave them immunity to smallpox. This theory led him to perfect the technique of vaccination. Great moments of progress come not from instantaneous flashes of insight but from workaday attention to little things.
 
 ##### Example 2: The Olive That Saved American Airlines Half a Million Dollars
 
-An American Airlines flight attendant noticed that many passengers did not eat the olives in their salads. She passed this observation up the chain of command. It was discovered that the airline was charged by its food supplier for salads based on the number of items they contained. A salad with one to four items cost less than a salad with five to eight items. The uneaten olives were the fifth item. When the airline dropped the olives and switched to a four-item salad, it saved five hundred thousand dollars a year.
+An American Airlines flight attendant noticed that passengers did not eat the olives in their salads. She passed this observation up the chain of command. It was discovered that the airline was charged by its food supplier for salads based on the number of items they contained. A salad with one to four items cost less than a salad with five to eight items. The uneaten olives were the fifth item. When the airline dropped the olives and switched to a four-item salad, it saved five hundred thousand dollars a year.
 
 ##### Example 3: Velcro, Traveler's Checks, and Instant Cameras
 
@@ -437,7 +437,7 @@ George de Mestral noticed burrs sticking to his dog's fur and his clothes while 
 
 ##### Example 4: John Gottman's Five-to-One Ratio for Relationships
 
-Dr. John Gottman's research at the University of Washington found that he could predict—with 93 percent accuracy—whether a couple would be happily married, miserable, or divorced within four years. The key finding was that in successful relationships, positive attention outweighed negative attention by a factor of five to one. This positive attention took the form of small gestures: using a pleased tone of voice when answering the phone from a partner, inquiring about dentist appointments, putting down the remote when the partner walked in the door, and arriving home on time or calling if delayed. These small moments were more predictive of a loving relationship than romantic vacations or expensive presents.
+Dr. John Gottman's research at the University of Washington found that he could predict—with 93 percent accuracy—whether a couple would be happily married, miserable, or divorced within four years. The key finding was that in successful relationships, positive attention outweighed negative attention by a factor of five to one. This positive attention took the form of small gestures: using a pleased tone of voice when answering the phone from a partner, inquiring about dentist appointments, putting down the remote when the partner walked in the door, and arriving home on time or calling if delayed. These small moments were more predictive of a loving relationship than romantic vacations and expensive presents.
 
 #### Step 1: Cultivate Curiosity and Openness to Small Moments
 
@@ -445,7 +445,7 @@ Train yourself to look for the unexpected, the inconvenient, and the overlooked 
 
 #### Step 2: Practice the Small Moments Awareness Exercise
 
-To sharpen your awareness of small moments, find a person with an opposite opinion on a hot-button issue (abortion, gun control, school vouchers). Engage this person in a conversation in which all you do is ask questions with only one agenda: to discover and understand the reasons for his or her point of view. Do not argue, persuade, or sound judgmental. You will know you are succeeding when the person becomes more relaxed and chatty as he or she perceives your interest and respect.
+To sharpen your awareness of small moments, find a person with an opposite opinion on a hot-button issue (abortion, gun control, school vouchers, or other divisive topics). Engage this person in a conversation in which all you do is ask questions with only one agenda: to discover and understand the reasons for his or her point of view. Do not argue, persuade, or sound judgmental. You will know you are succeeding when the person becomes more relaxed and chatty or more willing to share their thoughts as he or she perceives your interest and respect.
 
 #### Step 3: Focus on Small Moments in Relationships
 
@@ -457,7 +457,7 @@ If you are implementing a plan for change but feel bored, restless, and stuck, l
 
 #### Step 5: Regain the Childlike Ability to Live in the Moment
 
-Children are absolutely focused in the moment, able to take pleasure and be absorbed in their activities and friends. As we develop, we gain the ability to recall the past and anticipate the future, which means we often spend too much time dwelling on what was or worrying about what will be. Through kaizen, we can regain the ability to take pleasure in the moment. Whenever you find yourself lost in worry or regret, ask: "Do I need to learn to change anything based on this worry or regret?" If the answer is no, scan the room for an object or person that gives you the strongest sense of pleasure and focus your thoughts on that item for thirty seconds.
+Children can be highly focused in the moment, able to take pleasure and be absorbed in their activities and friends. As we develop, we gain the ability to recall the past and anticipate the future, which means we often spend too much time dwelling on what was or worrying about what will be. Through kaizen, we can regain the ability to take pleasure in the moment. Whenever you find yourself lost in worry or regret, ask: "Do I need to learn to change anything based on this worry or regret?" If the answer is no, scan the room for an object or person that gives you a strong sense of pleasure and focus your thoughts on that item for thirty seconds.
 
 #### Best Practices
 
@@ -475,7 +475,7 @@ Children are absolutely focused in the moment, able to take pleasure and be abso
 - Progress often springs from attention to the little things, not instantaneous flashes of insight
 - Paying attention to small moments requires respect, imagination, and curiosity
 - Even if you are not trying to start a multimillion-dollar business, small moments can help you see through mental blocks
-- The true creator may be recognized by his ability to always find about him, in the commonest and humblest things, items worthy of note
+- The true creator may be recognized by an ability to always find, in the commonest and humblest things, items worthy of note
 
 #### Security & Safety Notes
 
@@ -499,11 +499,11 @@ Children are absolutely focused in the moment, able to take pleasure and be abso
 
 ##### Example 1: Kaizen in Business and Life Beyond Goals
 
-Kaizen is not just a tool for crossing a finish line such as losing weight or getting a promotion. It is a process that is never done. When kaizen was first adopted before World War II, the intent was to enhance manufacturing quality in an already-working system. Just as a record-setting marathon runner continues to search for ways to shave another second off his or her best time, you can seek strategies to constantly sharpen your life. Take an extra moment to show excitement about a young person's efforts, write a kind note to a loved one, or take one more set of stairs.
+Kaizen is not just a tool for crossing a finish line such as losing weight or getting a promotion. It is a process that is never done. When kaizen was first adopted before World War II, the intent was to enhance manufacturing quality in an already-working system. Just as an elite marathon runner continues to search for ways to shave another second off his or her best time, you can seek strategies to constantly improve your life. Take an extra moment to show excitement about a young person's efforts, write a kind note to a loved one, or take one more set of stairs.
 
 ##### Example 2: Service and Gratitude as Spiritual Elements of Kaizen
 
-Kaizen has two spiritual elements: service and gratitude. Service means looking for small ways to touch people's lives daily—letting a driver into your lane, thanking a sales clerk, smiling at someone in a hallway. Gratitude in kaizen is not about financial gains or possessions but about being grateful for health, for the next breath, for moments with a friend. When songwriter Warren Zevon was suffering from terminal cancer, David Letterman asked what wisdom he had gleaned. Zevon's answer was pure kaizen: "Enjoy every sandwich."
+Kaizen has two spiritual elements: service and gratitude. Service means looking for small ways to touch people's lives daily—letting a driver into your lane, thanking a sales clerk, smiling at someone in a hallway. Gratitude in kaizen is not about financial gains but about being grateful for health, for the next breath, for moments with a friend. When songwriter Warren Zevon was suffering from terminal cancer, David Letterman asked what wisdom he had gleaned. Zevon's answer was pure kaizen: "Enjoy every sandwich."
 
 #### Step 1: Commit to One Small Step of Continuous Improvement Daily
 
@@ -523,14 +523,14 @@ Give your mind permission to make leaps on its own schedule, in its own time. In
 
 #### Step 5: Reflect on the Profound Question of Kaizen
 
-As you incorporate kaizen into your routines and discover its power, you will have begun to answer a profound question: What more important task does this life hold than to draw out the possibility in each moment?
+As you incorporate kaizen into your routines and discover its power, you will have begun to answer an important question: What more important task does this life hold than to draw out the possibility in each moment?
 
 #### Best Practices
 
 - ✅ See kaizen as a lifelong process, not a one-time project with a finish line
 - ✅ Look for small ways to serve others daily, in business and in personal life
 - ✅ Practice gratitude for small, everyday blessings rather than waiting for grand achievements
-- ✅ Give the mind permission to change on its own timetable
+- ✅ Give the mind permission to change when it is ready
 - ✅ Treat every small act of kindness as inherently important
 - ❌ Do not abandon kaizen once you reach a goal; keep seeking incremental improvement
 - ❌ Do not force change or rush the process; gentle patience produces lasting results
@@ -538,14 +538,14 @@ As you incorporate kaizen into your routines and discover its power, you will ha
 
 #### Keep In Mind
 
-- Kaizen requires faith—not necessarily religious faith, but a belief in the power of your body and brain to carry you where you need to go
+- In the author's view, kaizen requires faith—not necessarily religious faith, but a belief in the power of your body and brain to carry you where you need to go
 - The journey of a thousand miles begins with the first step, but the journey of continuous improvement never ends
 - Small acts of kindness and compassion can change ourselves and eventually humanity
 - You do not have to try all six kaizen strategies; use the ones that speak most clearly to you
 
 #### Security & Safety Notes
 
-- Do not use kaizen as a reason to delay necessary professional help for serious mental health or medical conditions
+- Do not use kaizen as a reason to delay necessary professional medical or psychological intervention for serious mental health or medical conditions
 - Ensure that the pursuit of continuous improvement does not lead to burnout or work-life imbalance
 
 #### Common Pitfalls
@@ -561,26 +561,26 @@ As you incorporate kaizen into your routines and discover its power, you will ha
 
 ## Glossary / Index
 
-|Term|Definition|Index Pages|
-|----|----------|-----------|
-|Amygdala|A structure in the midbrain that controls the fight-or-flight response and triggers fear when we attempt change|23, 24, 25, 33, 54|
-|Andon Cord|A cord placed at each step of an assembly line that any worker can pull to stop production and address a defect|69, 70, 80|
-|Behavioral Psychology|A branch of psychology focused on shaping behavior through reward systems, exemplified by B. F. Skinner's positive reinforcement|81|
-|Broken Windows Theory|A criminological theory holding that tolerating minor crimes invites more serious offenses, used by William Bratton to reduce NYC subway crime|76, 77|
-|Cortex|The outermost layer of the brain responsible for rational thought, creativity, and purposeful action|23, 24, 25, 33|
-|Deming, Dr. W. Edwards|A statistician and quality control expert who advocated continuous improvement and involving all employees in the improvement process|18, 19, 24, 69, 70, 81|
-|Fight-or-Flight Response|An automatic alarm mechanism in the midbrain that prepares the body for immediate action in the face of danger, which modern change efforts can trigger|23, 24, 25, 33, 54|
-|Hippocampus|A structure in the mammalian brain that decides what information to store and retrieve, responding to repetition of questions|31, 33, 42|
-|Innovation|A drastic, fast, large-scale change strategy that often requires heroic willpower and can trigger fear, contrasted with kaizen|15, 16, 17, 20, 23, 25, 77|
-|Intrinsic Motivation|The internal desire to contribute and excel, which large external rewards can undermine according to Dr. Deming|81, 82|
-|Kaizen|An ancient philosophy and practical strategy of using very small, continuous steps to improve habits, processes, or products, and using small moments to inspire new inventions|17, 18, 19, 20, 21|
-|Mind Sculpture|A technique developed by Ian Robertson involving total sensory imagination of performing a task, which rewires the brain without physical practice|45, 46, 47, 48, 49, 50, 51|
-|Ohno, Taiichi|A Toyota manager who placed andon cords at each assembly line step, enabling any worker to stop production to fix small defects|69, 70, 77, 80|
-|Positive Reinforcement|B. F. Skinner's philosophy of shaping behavior via reward systems, where kaizen applies this principle using small rather than large rewards|81|
-|Reptilian Brain|The five-hundred-million-year-old brain stem responsible for basic life functions such as heartbeat and sleep-wake cycles|23|
-|Small Questions|Kaizen questions that are gentle, nonthreatening, and repeated over days or weeks to bypass fear and program the brain for creativity and change|29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42|
-|Small Rewards|Inexpensive, convenient rewards that stimulate internal motivation and are optimal for encouraging lasting change, exemplified by Toyota's $3.88 average reward|80, 81, 82, 83, 84|
-|Stress|The modern medical term for the feeling produced by new challenges or large goals, which successful people often reframe as fear|26, 27|
-|Three-Brain Model|The theory that humans have three brains: the reptilian brain stem, the mammalian midbrain, and the cortex, which must work in harmony to avoid illness|23|
-|Training Within Industries (TWI)|U.S. government management courses created during World War II that taught continuous improvement through small, daily steps, seeding the kaizen philosophy|17, 18|
-|Van Halen Contract Clause|A rock legend example where Van Halen demanded a bowl of M&Ms backstage with all brown M&Ms removed; when brown M&Ms were found, the band would line-check the entire production, demonstrating how small problems can reveal larger technical issues|70|
+|Term|Definition|Reference|
+|----|----------|---------|
+|Amygdala|A structure in the midbrain that controls the fight-or-flight response and triggers fear when we attempt change|Three-Brain Model|
+|Andon Cord|A cord placed at each step of an assembly line that any worker can pull to stop production and address a defect|Toyota Production System|
+|Behavioral Psychology|A branch of psychology focused on shaping behavior through reward systems, exemplified by B. F. Skinner's positive reinforcement|Rewards|
+|Broken Windows Theory|A criminological theory holding that tolerating minor crimes invites more serious offenses, used by William Bratton to reduce NYC subway crime|Crime Prevention|
+|Cortex|The outermost layer of the brain responsible for rational thought, creativity, and purposeful action|Three-Brain Model|
+|Deming, Dr. W. Edwards|A statistician and quality control expert who advocated continuous improvement and involving all employees in the improvement process|Toyota, Rewards|
+|Fight-or-Flight Response|An automatic alarm mechanism in the midbrain that prepares the body for immediate action in the face of danger, which modern change efforts can trigger|Three-Brain Model|
+|Hippocampus|A structure in the mammalian brain that decides what information to store and retrieve, responding to repetition of questions|Small Questions|
+|Innovation|A drastic, fast, large-scale change strategy that often requires heroic willpower and can trigger fear, contrasted with kaizen|Kaizen vs. Innovation|
+|Intrinsic Motivation|The internal desire to contribute and excel, which large external rewards can undermine according to Dr. Deming|Rewards|
+|Kaizen|An ancient philosophy and practical strategy of using very small, continuous steps to improve habits, processes, or products, and using small moments to inspire new inventions|Overview|
+|Mind Sculpture|A technique involving total sensory imagination of performing a task, which rewires the brain without physical practice|Think Small Thoughts|
+|Ohno, Taiichi|A Toyota manager who placed andon cords at each assembly line step, enabling any worker to stop production to fix small defects|Problem-Solving|
+|Positive Reinforcement|B. F. Skinner's philosophy of shaping behavior via reward systems, where kaizen applies this principle using small rather than large rewards|Rewards|
+|Reptilian Brain|The five-hundred-million-year-old brain stem responsible for basic life functions such as heartbeat and sleep-wake cycles|Three-Brain Model|
+|Small Questions|Kaizen questions that are gentle, nonthreatening, and repeated over days or weeks to bypass fear and program the brain for creativity and change|Ask Small Questions|
+|Small Rewards|Inexpensive, convenient rewards that stimulate internal motivation and are optimal for encouraging lasting change, exemplified by Toyota's $3.88 average reward|Bestow Small Rewards|
+|Stress|The modern medical term for the fear response produced by new challenges or large goals, which successful people often reframe as fear|Stress or Fear|
+|Three-Brain Model|The theory that humans have three brains: the reptilian brain stem, the mammalian midbrain, and the cortex, which must work in harmony to avoid illness|Brain Model|
+|Training Within Industries (TWI)|U.S. government management courses created during World War II that taught continuous improvement through small, daily steps, seeding the kaizen philosophy|Kaizen History|
+|Van Halen Contract Clause|A rock legend example where Van Halen demanded a bowl of M&Ms backstage with all brown M&Ms removed; when brown M&Ms were found, the band would line-check the entire production, demonstrating how small problems can reveal larger technical issues|Small Problems|
