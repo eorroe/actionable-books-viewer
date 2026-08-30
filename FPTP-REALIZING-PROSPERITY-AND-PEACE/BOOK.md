@@ -957,3 +957,473 @@ Enter into and realize the happy world now through inner transformation. The kin
   **Solution:** Clean up your own inner world first. Your clarity and purity will make your outer action infinitely more effective.
 
 ---
+
+  **Solution:** Trust is not passivity. Act responsibly while maintaining inner alignment with the highest good.
+- **Problem:** Abandoning trust at the first sign of difficulty
+  **Solution:** Trust is not for easy times; it is for difficult times. Return to trust as your foundation when the storm rages.
+- **Problem:** Confusing trust with wishful thinking
+  **Solution:** Trust is based on the unchangeable Law, not on optimistic fantasy. Ground your trust in eternal principles.
+
+---
+
+### Lesson 65: Practice Integrity, Generosity, and Love Coupled With Energy
+
+#### Examples
+
+##### Example 1: The Energetic Philanthropist
+
+A person who couples integrity, generosity, and love with energetic action becomes a powerful force for good. They do not merely think good thoughts; they act on them with vigor. Their energy multiplies the effect of their moral qualities, producing tangible results in the world.
+
+##### Example 2: The Passive Good Person
+
+A person who possesses integrity, generosity, and love but lacks energy sees their good intentions go unrealized. They mean well but accomplish little. When they couple their moral qualities with energetic action, they become truly effective.
+
+#### Step 1: Identify Areas Where You Can Increase Energetic Action Combined With Moral Qualities
+
+Look at your life and identify where you can combine moral qualities with more energetic action. Goodness without energy is ineffective; energy without goodness is dangerous.
+
+#### Step 2: Set Specific Goals for Developing Integrity, Generosity, and Love in Daily Activities
+
+Set specific goals for developing these qualities in your daily activities. Make them measurable and actionable.
+
+#### Step 3: Match Each Noble Intention With Concrete, Energetic Effort
+
+Match each noble intention with concrete, energetic effort. Do not merely think good; do good with vigor and determination.
+
+#### Step 4: Create a Routine That Pairs Spiritual Practice With Physical Action
+
+Create a routine that pairs spiritual practice with physical action. Meditation without action is incomplete; action without meditation is blind.
+
+#### Step 5: Measure Success by Both Character Development and Tangible Results
+
+Measure success by both character development and tangible results. True prosperity includes both inner growth and outer effectiveness.
+
+#### Best Practices
+
+- ✅ Combine meditation/reflection with active service
+- ✅ Set aside dedicated time for both inner development and outer action
+- ✅ Celebrate when moral qualities produce energetic results
+- ❌ Don't develop moral qualities without corresponding action (passive goodness)
+- ❌ Don't take action without moral foundation (unethical ambition)
+- ❌ Don't exhaust from energetic action without spiritual renewal
+
+#### Keep In Mind
+
+- Energy is the active force applied to moral and spiritual principles.
+- Prosperous state is a condition of lasting success built on moral character and energetic action.
+- Armor against evil is the protective quality of goodness that shields from destructive forces.
+
+#### Security & Safety Notes
+
+- Energetic action should be guided by wisdom and moral principles. Energy without direction can cause harm.
+
+#### Common Pitfalls
+
+- **Problem:** Developing moral qualities without corresponding action
+  **Solution:** Goodness must be expressed in action. Let your inner cultivation manifest in outer deeds.
+- **Problem:** Taking action without moral foundation
+  **Solution:** Every action should be rooted in integrity, generosity, and love. Energy without goodness is destructive.
+- **Problem:** Exhaustion from energetic action without spiritual renewal
+  **Solution:** Balance action with contemplation. Renew your inner sources regularly so that your action remains sustainable.
+
+---
+
+### Lesson 66: Avoid Prioritizing Self Above Others
+
+#### Examples
+
+##### Example 1: The Lonely Success
+
+A person who prioritizes self above all others achieves material success but finds themselves isolated and unloved. When they finally shift to considering others' needs before their own, they discover a richness of relationship that no achievement could provide.
+
+##### Example 2: The Deserted Egotist
+
+A person who always puts "number one" first eventually finds themselves deserted by all. When they cry out in loneliness and anguish, there is no one to hear and help them. The very strategy they thought would protect them has left them utterly alone.
+
+#### Step 1: Examine Your Daily Decisions to Identify Instances of Self-Prioritization
+
+Take an honest look at your daily decisions. How often do you choose your own comfort, convenience, or advantage over the needs of others?
+
+#### Step 2: Practice Considering Others' Needs Before Your Own in at Least One Interaction Daily
+
+Make it a daily practice to consider others' needs before your own in at least one interaction. This builds the muscle of self-transcendence.
+
+#### Step 3: Challenge the Societal Message That "Number One" Must Come First
+
+Question the cultural narrative that self-interest is the highest good. This message leads to isolation and spiritual poverty.
+
+#### Step 4: Develop Empathy by Actively Listening to Others' Perspectives
+
+Develop empathy by actively listening to others' perspectives. Seek to understand before seeking to be understood.
+
+#### Step 5: Reflect on Long-Term Consequences of Self-Centered Behavior
+
+Reflect on the long-term consequences of self-centered behavior: loneliness, abandonment, and spiritual emptiness. Use this awareness to motivate change.
+
+#### Best Practices
+
+- ✅ Practice random acts of kindness without expectation of return
+- ✅ Build relationships based on mutual care rather than utility
+- ✅ Accept help from others when needed, recognizing interdependence
+- ❌ Don't resent others when they don't reciprocate your care
+- ❌ Don't neglect legitimate self-care while focusing entirely on others
+- ❌ Don't enable harmful behavior under the guise of selflessness
+
+#### Keep In Mind
+
+- Self-seeking is the habit of prioritizing one's own interests above all others.
+- Self-destruction is the inevitable outcome of persistent selfishness.
+- Noble impulses are higher moral instincts that guide toward altruistic action.
+
+#### Security & Safety Notes
+
+- Avoiding self-prioritization does not mean abandoning your legitimate needs. It means expanding your circle of concern to include others while maintaining healthy self-care.
+
+#### Common Pitfalls
+
+- **Problem:** Resenting others when they don't reciprocate your care
+  **Solution:** Give without expectation. The purity of your giving is not diminished by the response of others.
+- **Problem:** Neglecting legitimate self-care while focusing entirely on others
+  **Solution:** You cannot pour from an empty cup. Care for yourself so that you can give from a place of abundance.
+- **Problem:** Enabling harmful behavior under the guise of selflessness
+  **Solution:** True love sometimes requires boundaries. Enabling is not helping; it is participating in another's destruction.
+
+---
+
+### Lesson 67: Expand Your Soul Outward to Others
+
+#### Examples
+
+##### Example 1: The Expanding Heart
+
+A person who practices daily acts of universal love—reaching out to others with warmth and generosity—finds their heart expanding. Their concern grows from self to family to community to all humanity. This expansion brings a joy that no personal achievement could match.
+
+##### Example 2: The Shrinking Self
+
+A person who remains trapped in self-concern—worrying about their own comfort, status, and security—finds their world growing smaller and smaller. Their soul contracts until there is room for nothing but their own anxieties. Expansion is the remedy for this contraction.
+
+#### Step 1: Practice Daily Acts That Expand Your Concern Beyond Personal Comfort
+
+Make it a daily practice to reach out to others with loving and generous warmth. Start small and expand your circle gradually.
+
+#### Step 2: Reach Out to Others With Loving and Generous Warmth
+
+Reach out to others in at least one interaction each day. Let your heart be large enough to include them.
+
+#### Step 3: Visualize Your Heart and Soul Expanding to Encompass More People
+
+Practice visualization: imagine your heart expanding to include more and more people. This mental practice prepares your heart for actual expansion.
+
+#### Step 4: Identify Communities or Causes That Align With Your Values
+
+Find communities or causes that align with your values and participate. Expansion is not just internal; it is expressed in concrete engagement.
+
+#### Step 5: Practice Forgiveness as a Means of Expanding Your Capacity for Love
+
+Practice forgiveness as a means of expanding your capacity for love. Forgiveness releases the energy bound up in resentment and makes it available for love.
+
+#### Best Practices
+
+- ✅ Start with expanding care to immediate family, then widen the circle gradually
+- ✅ Practice active compassion—move beyond sympathy to helpful action
+- ✅ Celebrate small expansions of your caring capacity
+- ❌ Don't expand outward while neglecting core relationships
+- ❌ Don't overextend to the point of burnout
+- ❌ Don't expand with expectation of receiving something in return
+
+#### Keep In Mind
+
+- Soul expansion is the process of widening one's circle of compassion and concern.
+- Loving warmth is genuine, heartfelt care extended toward others.
+- Lasting joy is deep, enduring happiness that comes from outward-focused living.
+
+#### Security & Safety Notes
+
+- Soul expansion does not mean abandoning your own needs or enabling harmful behavior. It means expanding your circle of concern while maintaining healthy boundaries.
+
+#### Common Pitfalls
+
+- **Problem:** Expanding outward while neglecting core relationships
+  **Solution:** Expand from the center outward. Nurture your closest relationships first; then widen the circle.
+- **Problem:** Overextending to the point of burnout
+  **Solution:** Expansion is a gradual process. Do not try to care for the whole world while neglecting your own well-being.
+- **Problem:** Expanding with expectation of receiving something in return
+  **Solution:** True expansion is unconditional. Give without expecting return. The expansion itself is the reward.
+
+---
+
+### Lesson 68: Build Inward Qualities as Armor and Foundation
+
+#### Examples
+
+##### Example 1: The Virtuous Leader
+
+A leader who has built inward qualities—integrity, patience, kindness, wisdom—finds that these qualities act as armor against the arrows of criticism and opposition. No matter what external challenges arise, their character remains unshaken. They are protected by their own goodness.
+
+##### Example 2: The Character-Building Worker
+
+A worker who focuses on building inward qualities—honesty, diligence, cooperation—finds that these qualities become the foundation of their success. Their character opens doors that skill alone could not.
+
+#### Step 1: Conduct an Honest Inventory of Your Current Moral Qualities
+
+Take an honest look at your current moral qualities. What are your strengths? What are your weaknesses? Be ruthlessly honest.
+
+#### Step 2: Identify Specific Qualities to Build Up
+
+Identify specific qualities you wish to develop: patience, honesty, kindness, courage, wisdom. Choose one or two to focus on at a time.
+
+#### Step 3: Create a Personal Development Plan With Measurable Character Goals
+
+Create a plan for developing these qualities. Make it specific, measurable, and actionable.
+
+#### Step 4: Practice Each Quality Deliberately in Challenging Situations
+
+Practice each quality deliberately in challenging situations. Character is built in the furnace of difficulty.
+
+#### Step 5: Track Progress and Adjust Strategies as Needed
+
+Track your progress and adjust your strategies as needed. Character development is a lifelong journey, not a destination.
+
+#### Best Practices
+
+- ✅ Focus on one quality at a time for deep development
+- ✅ Seek feedback from trusted others on your character growth
+- ✅ View character building as a lifelong practice, not a destination
+- ❌ Don't try to develop too many qualities simultaneously
+- ❌ Don't measure character growth by external validation rather than internal consistency
+- ❌ Don't abandon development after initial difficulties
+
+#### Keep In Mind
+
+- Inward qualities are the moral and spiritual attributes that constitute a person's character.
+- Armor against evil is the protective strength that goodness provides against destructive forces.
+- Unshakable success is success built on moral character that withstands external challenges.
+
+#### Security & Safety Notes
+
+- Building inward qualities does not mean becoming passive or accepting abuse. It means strengthening your character so that you can engage with the world from a place of strength and wisdom.
+
+#### Common Pitfalls
+
+- **Problem:** Trying to develop too many qualities simultaneously
+  **Solution:** Focus on one quality at a time. Depth is more important than breadth in character development.
+- **Problem:** Measuring character growth by external validation rather than internal consistency
+  **Solution:** Character is measured in the dark, when no one is watching. Trust your own inner compass more than others' opinions.
+- **Problem:** Abandoning development after initial difficulties
+  **Solution:** Character development is challenging by nature. Persist through the difficulties; the growth is on the other side.
+
+---
+
+### Lesson 69: Pursue the Right Path Consistently
+
+#### Examples
+
+##### Example 1: The Consistent Moral Agent
+
+A person who defines what "the right" means to them and commits to doing what is right regardless of external circumstances builds a life of integrity and peace. They are not perfect, but they are consistent. This consistency becomes their strength and their legacy.
+
+##### Example 2: The Ethical Businessperson
+
+A businessperson who commits to ethical practices even when unethical practices would be more profitable builds a reputation for integrity that becomes their greatest asset. Their consistent pursuit of the right path attracts customers, partners, and opportunities.
+
+#### Step 1: Define What "the Right" Means to You Based on Moral Principles
+
+Clarify your understanding of what is right. This requires reflection, study, and dialogue with others of good character.
+
+#### Step 2: Commit to Doing What You Believe Is Right Regardless of External Circumstances
+
+Make a commitment to do what is right even when it is difficult, costly, or unpopular. This is the essence of integrity.
+
+#### Step 3: When Faced With Moral Choices, Pause to Identify the Right Course Before Acting
+
+Build the habit of pausing before acting in morally complex situations. The pause is where wisdom enters.
+
+#### Step 4: Document Your Decisions and Outcomes to Track Consistency
+
+Keep a record of your moral decisions and their outcomes. This helps you refine your understanding of "the right" and maintain consistency.
+
+#### Step 5: Refine Your Understanding of "right" Through Study and Reflection
+
+Continue to refine your understanding of what is right through ongoing study, reflection, and dialogue with others.
+
+#### Best Practices
+
+- ✅ Establish clear ethical guidelines before crisis situations arise
+- ✅ Seek wisdom from trusted mentors when facing complex moral decisions
+- ✅ Accept that pursuing the right may involve short-term costs
+- ❌ Don't rationalize unethical actions when convenient
+- ❌ Don't abandon principles under pressure
+- ❌ Don't confuse personal preference with moral rightness
+
+#### Keep In Mind
+
+- The right path is the course of action aligned with moral and spiritual principles.
+- A righteous person is one who consistently chooses right action.
+- The highway of righteousness is the clear, direct path of moral conduct.
+
+#### Security & Safety Notes
+
+- Pursuing the right path does not mean being naive or allowing yourself to be exploited. It means maintaining your integrity while being wise and discerning in your dealings with others.
+
+#### Common Pitfalls
+
+- **Problem:** Rationalizing unethical actions when convenient
+  **Solution:** Establish your ethical guidelines in advance, before pressure arises. Write them down and refer to them regularly.
+- **Problem:** Abandoning principles under pressure
+  **Solution:** Remember that short-term gain through unethical means leads to long-term loss. Hold fast to your principles even when it is costly.
+- **Problem:** Confusing personal preference with moral rightness
+  **Solution:** Test your preferences against universal moral principles. What you want is not always what is right.
+
+---
+
+### Lesson 70: Understand the Nature of Nature's Giving vs. Human Grasping
+
+#### Examples
+
+##### Example 1: The Open Hand
+
+A person who models nature's example of abundant, unreserved giving discovers that the more they give, the more they receive. Their open hand allows the flow of abundance to pass through them. They do not grasp; they receive and give in an endless cycle of generosity.
+
+##### Example 2: The Clenched Fist
+
+A person who grasps tightly to what they have, fearing scarcity, finds that their clenched fist cannot receive more. Their fear of loss creates a self-fulfilling prophecy: the more they cling, the more they experience lack. When they open their hand and practice generous giving, abundance flows in.
+
+#### Step 1: Reflect on How Nature Gives Abundantly Without Reservation
+
+Observe nature: the tree gives fruit without counting the cost, the sun gives light without reservation, the rain falls on the just and the unjust. Nature's giving is abundant and free.
+
+#### Step 2: Identify Areas Where You Are "Grasping" Rather Than Receiving Gracefully
+
+Examine your life for areas where you are grasping rather than receiving gracefully. Where are you clinging out of fear?
+
+#### Step 3: Practice Receiving Gifts and Opportunities With Gratitude
+
+Practice receiving gifts and opportunities with gratitude. Receiving is as important as giving; both are expressions of abundance.
+
+#### Step 4: Model Nature's Example by Giving Without Reservation
+
+Model nature's example by giving without reservation in your relationships. Give freely, without calculating return.
+
+#### Step 5: Observe How Grasping Behavior Affects Your Peace of Mind
+
+Observe how grasping behavior affects your peace of mind. Grasping creates anxiety; generous giving creates peace.
+
+#### Best Practices
+
+- ✅ Practice gratitude daily for nature's abundance
+- ✅ Give freely without calculating return
+- ✅ Release attachment to specific outcomes
+- ❌ Don't believe that abundance is a finite resource
+- ❌ Don't hoard resources out of fear of scarcity
+- ❌ Don't give with expectation of reciprocation
+
+#### Keep In Mind
+
+- Nature's giving is the universal principle of abundant, unreserved provision.
+- Grasping is the act of tightly holding onto things, often out of fear or greed.
+- Self-seeking as self-destruction is the paradox that selfish acquisition ultimately destroys the self.
+
+#### Security & Safety Notes
+
+- This teaching celebrates generous giving but does not mean you should give beyond your means or enable harmful behavior. Generosity should be balanced with wisdom and self-care.
+
+#### Common Pitfalls
+
+- **Problem:** Believing that abundance is a finite resource
+  **Solution:** Abundance is infinite. The universe is generous to those who are generous. Give freely, and you will never run out.
+- **Problem:** Hoarding resources out of fear of scarcity
+  **Solution:** Fear of scarcity creates scarcity. Open your hand and let abundance flow through you.
+- **Problem:** Giving with expectation of reciprocation
+  **Solution:** True giving expects nothing. If you are giving to get something in return, you are not giving; you are making a transaction.
+
+---
+
+## Glossary / Index
+
+|Term|Definition|Index Pages|
+|----|----------|-----------|
+|Armor Against Evil|The protective quality of goodness that shields from destructive forces|Ch. 7, Ch. 5|
+|Aspiration|Desire turned upward; the soul turning toward its Divine source|Ch. 6|
+|Calm Concentration|The focused, peaceful direction of mental forces onto a problem after first achieving inner stillness|Ch. 4|
+|Cause (Internal)|The internal mental or spiritual origin of outward conditions|Ch. 3|
+|Content of Life|The stream of thoughts, emotions, sense perceptions, and experiences from which people derive their sense of self|Ch. 4|
+|Contentment|A state of satisfaction and happiness with one's current circumstances|Ch. 7|
+|Dark Steed of Desire|Uncontrolled passions and appetites that must be reined in by will|Ch. 5|
+|Darkness|Evil, pain, and ignorance as negative and unreal—an absence rather than a presence|Ch. 1|
+|Dauntless Faith|Unshakable belief in the Supreme, universal Law, and one's own capacity to succeed|Ch. 5|
+|Disciplinary Process|The required learning experience through suffering; prerequisite to wisdom and happiness|Ch. 1|
+|Divine Law|Universal, infallible laws governing mental causation, attraction, and reaction|Ch. 2|
+|Divine Order|The universal harmony in which unselfish love aligns one with all things|Ch. 6|
+|Divine Within|The sacred, eternal, and immortal essence present within every soul|Ch. 2|
+|Double-Minded|Having conflicting purposes or divided allegiance, leading to instability|Ch. 5|
+|Eternal Good|The transcendent, unchanging good that underlies all reality|Ch. 3|
+|Eternal|That which is permanent, unchanging, and absolute—the Divine|Ch. 6|
+|Ennobling|The act of raising the quality and spirit of one's current surroundings|Ch. 3|
+|Ennui|A feeling of listlessness and dissatisfaction from excess and lack of purpose|Ch. 6|
+|Energy|The active force applied to moral and spiritual principles|Ch. 7|
+|Fortitude|The strength of mind to endure and remain upright while reaping past consequences|Ch. 3|
+|Gift of Pure Love|Giving completely without self, without desire for reward or recognition|Ch. 6|
+|Going Into the Silence|The spiritual practice of entering into inner stillness to replace troubled thoughts with peaceful ones|Ch. 4|
+|Grasping|Giving in order to receive—the opposite of true giving|Ch. 6|
+|Great Law|The fundamental, benevolent order underlying all existence|Ch. 5|
+|Highway of Self-Sacrifice|The path of willingly giving up self-interest for higher good|Ch. 1, Ch. 3|
+|Ignorance|The root cause of all evil; lack of knowledge of the true nature and relation of things|Ch. 1|
+|I Am|The innermost sense of being that remains unchanged through all life circumstances, identical with the Now|Ch. 4|
+|Illumination|The clear vision and perfect judgment that belongs only to a calm and untroubled mind|Ch. 4|
+|Illusionary Happiness|A fleeting sense of pleasure from satisfied desire that demands ever-increasing gratification|Ch. 6|
+|Impermanent Thing|Anything—possessions, relationships, status—that by nature must pass away|Ch. 6|
+|Inward Qualities|The moral and spiritual attributes that constitute a person's character|Ch. 7|
+|Inward Sacrifice|The deliberate act of letting go of self-centered attachments|Ch. 6, Ch. 7|
+|Kingdom Within|The state of divine peace, joy, and power that is accessible now through inner realization rather than external location or future time|Ch. 2, Ch. 3|
+|Law of Cause and Effect|The universal principle that every thought, word, and act produces corresponding results|Ch. 3, Ch. 5|
+|Law of Mental Attraction|The principle that like thoughts attract like circumstances, events, and people|Ch. 2|
+|Light|The Supreme Good; the positive, life-giving power that floods the universe|Ch. 1|
+|Mastery|The faithful and complete utilization of current possessions|Ch. 3|
+|Mathematical Exactitude|The precise, predictable operation of universal law|Ch. 5|
+|Meed|The reward or recompense due for thoughts and efforts|Ch. 5|
+|Mental Drapery|The interpretive framework or perception with which thoughts clothe external reality|Ch. 2, Ch. 4|
+|Mental Friction|The resistance and stress generated by anxious, excited, or worried thinking during work|Ch. 5|
+|Now|The space in which all things happen; it is deeper than any content that arises in it|Ch. 4|
+|Obedience|The state of mind that recognizes and aligns with the supremacy of eternal law|Ch. 3|
+|Parable of the Talents|The principle that misuse or neglect of current gifts leads to their loss|Ch. 3|
+|Paradise|An inward state of divine happiness, accessible here and now to the unselfish|Ch. 6|
+|Passion|Not power but the "dispersion of power"|Ch. 5|
+|Perfect Law|The undeviating causal principle governing all suffering and deliverance|Ch. 1|
+|Plane of Peace|The mental state of calmness and strength from which correct judgment arises|Ch. 4|
+|Poise|Mental and emotional stability and composure|Ch. 5|
+|Practical Atheism|Living in negative, soul-destroying conditions of mind that deny the power and supremacy of Good|Ch. 4|
+|Promptness of Action|The ability to act decisively within limited time|Ch. 3|
+|Prosperity (Inward)|A state of inner fulfillment and abundance that exists regardless of external circumstances|Ch. 7|
+|Psychic Atmosphere|The invisible mental-emotional field surrounding a person that influences all interactions|Ch. 5|
+|Psychic Currents|The swirling mass of collective human emotion and thought that can overwhelm the weak-minded|Ch. 5|
+|Pure Thought|Thoughts free from selfishness, impurity, and vainglory|Ch. 5|
+|Rectify the Heart|The process of purifying inner motives and desires|Ch. 3|
+|Replenishment|A state of being overfilled, leading to spiritual emptiness|Ch. 6|
+|Right Path|The course of action aligned with moral and spiritual principles|Ch. 7|
+|Righteousness|The quality of being morally right or justifiable|Ch. 7|
+|Right Thyself|The principle that personal moral and mental correction is the necessary and sufficient starting point for all beneficial world change|Ch. 2, Ch. 3|
+|Rock of the Eternal|The unchanging foundation of faith and spiritual law|Ch. 5|
+|School of Experience|Life itself as an educational institution where every event is a lesson|Ch. 1|
+|Search-Light Concentration|The focused direction of reunited thought-forces upon a specific problem or objective|Ch. 4|
+|Self-Governance|The ability to rule one's own desires, appetites, and actions through willpower|Ch. 5|
+|Self-Pity|The destructive emotion of feeling sorry for oneself, which prevents growth|Ch. 3|
+|Shadow|Negative darkness cast by self-created barriers blocking the light|Ch. 1|
+|Shining Garment of Immortality|The state of being clothed in eternal, unchanging happiness|Ch. 6|
+|Silent Faith|The inner, unspoken confidence that gathers thought-forces together without external expression|Ch. 4|
+|Silent Influence|The power of moral example to transform others without words|Ch. 3|
+|Silent Purpose|The quiet, determined direction of thought-forces toward a specific objective|Ch. 4|
+|Single Aim|Having one primary, legitimate purpose to which one dedicates oneself entirely|Ch. 5|
+|Soul-Forces|The innate spiritual powers that unfold through self-discipline|Ch. 3|
+|Soul-Suicide|Chronic worrying and complaining|Ch. 3|
+|Staff of Faith|The inner support and trust in eternal law that sustains the spiritual pilgrim|Ch. 1, Ch. 3|
+|Suchness of Now|The way things are in the present moment, which cannot be otherwise|Ch. 4|
+|Supremacy of Righteousness|The principle that moral correctness ultimately triumphs over unethical competition|Ch. 7|
+|Transmutation|The process of converting evil into good through right understanding and application|Ch. 1, Ch. 3, Ch. 7|
+|True Power|The beneficial application of one's moral resources|Ch. 3|
+|True Wealth|The accumulation of virtue and moral character|Ch. 3|
+|Unclouded Sunshine of Universal Joy|Abiding happiness free from all shadow of selfish desire|Ch. 6|
+|Universal Love|The self-transcending love that replaces petty selfishness|Ch. 1, Ch. 3|
+|Vanity|Self-centered pride that masquerades as generosity|Ch. 6|
+|Way of Life|The path of willingly yielding up impermanent things, knowing it leads to supreme spiritual gain|Ch. 6|
+|Wisdom|The state that replaces ignorance once the lessons of evil are fully learned|Ch. 1|
+|Work Without Friction|Performing tasks with calm persistence, free from anxiety and worry|Ch. 5|
