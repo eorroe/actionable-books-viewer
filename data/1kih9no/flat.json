@@ -1,0 +1,2189 @@
+[
+  {
+    "id": "mrf8b2y",
+    "author": "TheRedWon",
+    "body": "The problem is 99% of the time I am pulling, checking out a branch, adding, committing, pushing. It's not that it's complicated, but when I have to do the 1% cherry pick or rebase or whatever I have to look it up and it feels confusing because I rarely do it.",
+    "score": 121,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf8b2y/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746800056.0
+  },
+  {
+    "id": "mrfp5ln",
+    "author": "AceDecade",
+    "body": "Do it more often; rebasing and cherry-picking are both super handy. Cherry-picking is just grabbing work (changes in one commit) you performed on the codebase on one branch, and moving it somewhere else. Rebasing is just doing the same thing with a stack of commits.\n\nMerging is the most straightforward strategy to use, because you don't have to think about history, you just say \"here's state A, and here's state B, and if we smush them together we get state C, and anywhere the smushing produces incompatible changes the developer has to deal with all at once\"\n\nRebasing is more complicated, but produces a nicer history. It essentially lets you change the work you did into \"the work I *would have done* if I'd started working from this other state all along.\" Sure, each commit has the opportunity to find conflicts in its new home, rather than dealing with them all at once, but personally I find resolving merge conflicts much, much easier when in the context of \"here's the change I made in this one commit, and here's the bit where the commit is no longer compatible and needs to be adapted\", at most once for each commit I'm rebasing, than to tackle the merge conflicts all at once with no context",
+    "score": 32,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfp5ln/",
+    "parent_id": "t1_mrf8b2y",
+    "created_utc": 1746805237.0
+  },
+  {
+    "id": "mrfx8db",
+    "author": "bothunter",
+    "body": "My rule is, use rebase for my own branches and merge for any shared branches.\n\n\nAlso get in the habit of making sure your code at least compiles with each commit, and then merge conflicts become much easier to do.  Basically, once you resolve the conflicts, run a build as a quick sanity check to make sure you did it right before running \"git rebase --continue\"",
+    "score": 18,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfx8db/",
+    "parent_id": "t1_mrfp5ln",
+    "created_utc": 1746807702.0
+  },
+  {
+    "id": "mrpd5xn",
+    "author": "[deleted]",
+    "body": "This progamer gits",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrpd5xn/",
+    "parent_id": "t1_mrfx8db",
+    "created_utc": 1746940322.0
+  },
+  {
+    "id": "mrpz366",
+    "author": "invalidConsciousness",
+    "body": "I personally try to avoid rebases, even on my own branches. 90% of the time, it doesn't matter and the remaining 10%, I want the history to reflect what was actually going on. \n\nAbsolutely agree with the \"check if it works before finalizing your merge/rebase, though.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrpz366/",
+    "parent_id": "t1_mrfx8db",
+    "created_utc": 1746953432.0
+  },
+  {
+    "id": "mrv081c",
+    "author": "Suspicious-Buddy-114",
+    "body": "i have never liked rebasing, i sat aside my new colleague who rebased 100% of the time.  checking out main and pulling, then merging my branch into main always seemed natural.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrv081c/",
+    "parent_id": "t1_mrpz366",
+    "created_utc": 1747022918.0
+  },
+  {
+    "id": "oi4wi0s",
+    "author": "PathOld9065",
+    "body": "I know rebasing makes history look cleaner, but process of rebasing is too complex to me.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/oi4wi0s/",
+    "parent_id": "t1_mrfx8db",
+    "created_utc": 1777087140.0
+  },
+  {
+    "id": "mrfwtp1",
+    "author": "SkratchyHole",
+    "body": "Sure but rebasing from an active main branch causes you to have to solve a lot of merge conflicts, one for each commit. So you end up solving the same conflict over and over again",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfwtp1/",
+    "parent_id": "t1_mrfp5ln",
+    "created_utc": 1746807576.0
+  },
+  {
+    "id": "mrfxjdl",
+    "author": "AceDecade",
+    "body": "Not necessarily one for each commit, it's only a maximum of one per commit you rebase, irrespective of the amount of commits or changes to the target branch you're rebasing onto",
+    "score": 5,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfxjdl/",
+    "parent_id": "t1_mrfwtp1",
+    "created_utc": 1746807796.0
+  },
+  {
+    "id": "mrfybhw",
+    "author": "serverhorror",
+    "body": "git rerere is your friend",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfybhw/",
+    "parent_id": "t1_mrfwtp1",
+    "created_utc": 1746808035.0
+  },
+  {
+    "id": "mri1sje",
+    "author": "shagieIsMe",
+    "body": "One of my interview questions is \"what is the most interesting git command you've used and what problem did it solve?\"  It's to gauge the \"the person rated themself as an expert in git - how accurate is that?\"  A lot of people rate themselves as expert... and stumble over `git commit`.\n\nThe person who told about using `rerere` scored full marks on that question.",
+    "score": 4,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mri1sje/",
+    "parent_id": "t1_mrfybhw",
+    "created_utc": 1746831902.0
+  },
+  {
+    "id": "mrkzvu1",
+    "author": "serverhorror",
+    "body": "To that I would answer \"help\" as in \"git help\".",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrkzvu1/",
+    "parent_id": "t1_mri1sje",
+    "created_utc": 1746882319.0
+  },
+  {
+    "id": "mrn567g",
+    "author": "Deleugpn",
+    "body": "Man, I feel like I spent 10 years of my professional life drinking water with my hands and you just shown me a glass",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrn567g/",
+    "parent_id": "t1_mrfybhw",
+    "created_utc": 1746908463.0
+  },
+  {
+    "id": "mrn5qgp",
+    "author": "Deleugpn",
+    "body": "Why isn’t this enabled by default?",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrn5qgp/",
+    "parent_id": "t1_mrfybhw",
+    "created_utc": 1746908653.0
+  },
+  {
+    "id": "mrn6xjb",
+    "author": "serverhorror",
+    "body": "Because real git experts use `M-x butterfly`",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrn6xjb/",
+    "parent_id": "t1_mrn5qgp",
+    "created_utc": 1746909061.0
+  },
+  {
+    "id": "mrgtvlr",
+    "author": "edgmnt_net",
+    "body": "Only if you repeatedly modify the same stuff over and over. That's legitimate but not the most common thing if you observe good commit hygiene. It is very common if you use Git as a save button, commit randomly and never squash, though.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgtvlr/",
+    "parent_id": "t1_mrfwtp1",
+    "created_utc": 1746817582.0
+  },
+  {
+    "id": "mso4w6u",
+    "author": "SkratchyHole",
+    "body": "But what if I have done some work in one branch, and need to switch to a different one? Do you stash the work in the first branch? Then any new files will carry over to the second branch (in the directory, not in git), which looks pretty messy to me. So in this case I'll use commit as a save button. But I do feel like I'm doing something wrong, so I'd love to learn a better way of doing things.\n\nI also use commit as a save button if I've done some initial work that works, then try to tackle the problem further (e.g. refactoring). Then it's nice knowing that you easily can revert back if your refactor ends up screwing things up",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mso4w6u/",
+    "parent_id": "t1_mrgtvlr",
+    "created_utc": 1747420662.0
+  },
+  {
+    "id": "mso75jp",
+    "author": "edgmnt_net",
+    "body": "That's fine, I do that too. But I also squash if needed. The trouble is a lot of people just commit over and over and never (know how to) squash, which leads to crazy rebase behavior.\n\nAlso, you can stash new files too (with the caveat that they'll show up as added to the index after you pop, if I remember correctly).",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mso75jp/",
+    "parent_id": "t1_mso4w6u",
+    "created_utc": 1747421349.0
+  },
+  {
+    "id": "mrrzk2r",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrrzk2r/",
+    "parent_id": "t1_mrfp5ln",
+    "created_utc": 1746983448.0
+  },
+  {
+    "id": "mrs9zpl",
+    "author": "AceDecade",
+    "body": "Astounding. None of what you just said is true ",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrs9zpl/",
+    "parent_id": "t1_mrrzk2r",
+    "created_utc": 1746986716.0
+  },
+  {
+    "id": "mrsddhe",
+    "author": "The_Schwy",
+    "body": "But like, who looks at the history? \n\nMaybe I should look for a place where they care and then I'll finally find some mentors 😂",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrsddhe/",
+    "parent_id": "t1_mrfp5ln",
+    "created_utc": 1746987817.0
+  },
+  {
+    "id": "mrsikch",
+    "author": "AceDecade",
+    "body": "Even if nobody else in the org cares about commit history, it’s helpful for yourself when tackling a tricky git conflicts, when product requirements change and you can simply drop 2-3 commits from your feature branch, or when you realize you need to split your work into two separate branches",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrsikch/",
+    "parent_id": "t1_mrsddhe",
+    "created_utc": 1746989527.0
+  },
+  {
+    "id": "mruzemn",
+    "author": "Reddit_is_fascist69",
+    "body": "They called me the rebaser.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mruzemn/",
+    "parent_id": "t1_mrfp5ln",
+    "created_utc": 1747022516.0
+  },
+  {
+    "id": "ms5vu49",
+    "author": "kamsen911",
+    "body": "What happens if I cherry pick and then squash my commits before merging. Will this generate a weird history?",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms5vu49/",
+    "parent_id": "t1_mrfp5ln",
+    "created_utc": 1747171543.0
+  },
+  {
+    "id": "ms62o36",
+    "author": "AceDecade",
+    "body": "On the branch that you squash and merge into, all of your changes, including the changes introduced by the cherry-picked commit, will be present in a single commit on the target branch. The source branch will be unaffected by the squash-and-merge, and will have a cherry-picked commit introducing some changes into the source branch",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms62o36/",
+    "parent_id": "t1_ms5vu49",
+    "created_utc": 1747173692.0
+  },
+  {
+    "id": "mrfpw7v",
+    "author": "RavkanGleawmann",
+    "body": "The things you do 1% of the time will always feel complex. That's not unique to git.",
+    "score": 8,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfpw7v/",
+    "parent_id": "t1_mrf8b2y",
+    "created_utc": 1746805459.0
+  },
+  {
+    "id": "mrhmoer",
+    "author": "[deleted]",
+    "body": "[deleted]",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrhmoer/",
+    "parent_id": "t1_mrfpw7v",
+    "created_utc": 1746826617.0
+  },
+  {
+    "id": "mrjwa72",
+    "author": "[deleted]",
+    "body": "It’s fine to be a bit slow, we need more text-to-columns people",
+    "score": 0,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrjwa72/",
+    "parent_id": "t1_mrhmoer",
+    "created_utc": 1746860881.0
+  },
+  {
+    "id": "mrgyi01",
+    "author": "no_brains101",
+    "body": "That's when you break out lazygit or similar because then there's a button for it XD",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgyi01/",
+    "parent_id": "t1_mrf8b2y",
+    "created_utc": 1746819019.0
+  },
+  {
+    "id": "mrjkfgd",
+    "author": "Jolly_Grass7807",
+    "body": "Github desktop or other git gui",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrjkfgd/",
+    "parent_id": "t1_mrf8b2y",
+    "created_utc": 1746854157.0
+  },
+  {
+    "id": "mrkjkjv",
+    "author": "xtekno-id",
+    "body": "I am with u bruh",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrkjkjv/",
+    "parent_id": "t1_mrf8b2y",
+    "created_utc": 1746874984.0
+  },
+  {
+    "id": "mrlf3yp",
+    "author": "travelinzac",
+    "body": "Just never rebase it's easy",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrlf3yp/",
+    "parent_id": "t1_mrf8b2y",
+    "created_utc": 1746887808.0
+  },
+  {
+    "id": "mrsil20",
+    "author": "eggZeppelin",
+    "body": "Omg or how about when you accidently stage a file that you meant to put on `.gitignore` but now it's in the changeset you wanna commit and you're like wtf is this so hard to undo and then you remember you need to do a git rm --cached which is the strangest way to ctrl+Z a thing 🤷‍♀️",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrsil20/",
+    "parent_id": "t1_mrf8b2y",
+    "created_utc": 1746989533.0
+  },
+  {
+    "id": "mrwzlw2",
+    "author": "BigMax",
+    "body": "Yep, that's 95% of engineers out there I think.  \n\nThe other part is that in an engineering company of any size, a lot of that 'advanced' work is done by a few dedicated people.  They do the branching across releases and for patches and all that, and they do a lot of the more complicated merges and cross-branch stuff.  So the 'average' engineer doesn't do that often enough to be good at it.  They learn to cherry pick one day, then 6 months later when they have to do it again, they have to relearn it, because they only learned it for 10 minutes, one time, a long time ago.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrwzlw2/",
+    "parent_id": "t1_mrf8b2y",
+    "created_utc": 1747059148.0
+  },
+  {
+    "id": "mrzn7z2",
+    "author": "AD6I",
+    "body": "I agree. I really screwed up moving some objects to LFS the other day. It's the 1% that gets you.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrzn7z2/",
+    "parent_id": "t1_mrf8b2y",
+    "created_utc": 1747087766.0
+  },
+  {
+    "id": "mresue0",
+    "author": "Cinderhazed15",
+    "body": "The complexity isn’t in the perfectly executed workflow, it’s in the edge cases. \n\nOne example that comes to mind is merging a branch ‘accidentally’ , then reverting the merge commit, then when your merge is ‘ready’ and you merge to main again, “some of our stuff is missing”.\n\n\nThis was because the merge commit pulled in all the commits from their branch prior to the accidental merge, and reverting made the merge commit not apply in the main branch.  The later merge saw that main already had the pre-bad-merge commits in history (even though they didn’t affect state) and only merged the commits after it.",
+    "score": 24,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mresue0/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746794733.0
+  },
+  {
+    "id": "mrevgn5",
+    "author": "madmoneymcgee",
+    "body": "Yeah, git is wonderful and beautiful when I’m doing it correctly and a nightmare when I make a mistake. \n\nThe other parts of software development (languages and tools) don’t have such a wide gulf between those two feelings.",
+    "score": 13,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrevgn5/",
+    "parent_id": "t1_mresue0",
+    "created_utc": 1746795688.0
+  },
+  {
+    "id": "mrfd100",
+    "author": "Cinderhazed15",
+    "body": "I’m normally the ‘git guru’ on the projects/teams that I’m on, and I understand some of the below the surface behaviors of git, and I still occasionally find things that seem unintuitive.\n\nOne of the biggest issues is that there often is a way to ‘fix’ whatever problem someone is having ‘the right way’, but often times it’s easier to just tell people to do something like ‘clone a new copy of the repo, copy your files ontop of what is there, make a new branch/commit with that.”\n\n\nThat was the simplest way to fix the issue I mentioned in the previous comment, and that is the ‘obvious’ way I would fix some problems back when first learning git.",
+    "score": 8,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfd100/",
+    "parent_id": "t1_mrevgn5",
+    "created_utc": 1746801542.0
+  },
+  {
+    "id": "ms1r33f",
+    "author": "Beginning-Test-157",
+    "body": "Like every complex tool it frizzles at the ends of its scope. ",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms1r33f/",
+    "parent_id": "t1_mrfd100",
+    "created_utc": 1747117039.0
+  },
+  {
+    "id": "mrieap3",
+    "author": "tinyOnion",
+    "body": "why not just use the reflog to roll back the state or change the merge branch back to the pre-merge state? once you have the changes committed you can do a lot of fixing without worry of losing data.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrieap3/",
+    "parent_id": "t1_mresue0",
+    "created_utc": 1746836451.0
+  },
+  {
+    "id": "mrijcr6",
+    "author": "Cinderhazed15",
+    "body": "We didn’t want to rewrite history, as other work had happened in the repo - the ‘right’ answer probably would be to revert the revert of the merge commit.  But before we figured out that half the commits were obscured by the reverted merge, we had just ‘made it look the right way’ by copying the contents into a new commit.  *shrug*",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrijcr6/",
+    "parent_id": "t1_mrieap3",
+    "created_utc": 1746838370.0
+  },
+  {
+    "id": "mrotrpv",
+    "author": "[deleted]",
+    "body": "It’s actually pretty simple to recover from accidental merge. Just look at the reflog, get the commit sha before you did the merge, and reset the branch to that sha.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrotrpv/",
+    "parent_id": "t1_mresue0",
+    "created_utc": 1746931384.0
+  },
+  {
+    "id": "mrox1a2",
+    "author": "Cinderhazed15",
+    "body": "But if you have already pushed the change, and other people have made changes to the repo , it gets less straightforward.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrox1a2/",
+    "parent_id": "t1_mrotrpv",
+    "created_utc": 1746932765.0
+  },
+  {
+    "id": "mrk2ptg",
+    "author": "Casual_Carnage",
+    "body": "We had a guy merge production branch into his own local branch while trying to squash some merge conflict. And because he did a merge, BitBucket didn’t show his PR was touching all 1000+ files in the repo in the diff overview. The overview only showed like 2 files. So when the PR was merged, the issue went undetected for weeks. \n\nWhen somebody finally raised a ticket that every file had commit from one guy, it was too late to revert. There had been weeks of development by that point and reverting every file in the repo was too risky for even more potential collateral. It would’ve also meant dealing with merge conflict of hundreds of files. \n\nI’m sure there was probably some way to “fix” it but no senior engineer at our company knew how or had even seen something like this before.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrk2ptg/",
+    "parent_id": "t1_mresue0",
+    "created_utc": 1746864789.0
+  },
+  {
+    "id": "mrkes1w",
+    "author": "ub3rh4x0rz",
+    "body": "If you configure your remote to only allow merges on main/master, the answer is basically always to revert the bad merge and fix the git history of the feature branch before merging it back in, worst case scenario by completely squashing it. It sucks that bitbucket showed an incorrect diff if that's what actually happened at the time of review / prior to the merge, but that's not exactly git's fault.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrkes1w/",
+    "parent_id": "t1_mrk2ptg",
+    "created_utc": 1746872279.0
+  },
+  {
+    "id": "mrlslg7",
+    "author": "Casual_Carnage",
+    "body": "\nYeah I’m honestly not sure why anybody would ever merge something like main into their own feature branch. The version of this guys feature branch at checkout basically became the new production! \n\nIt’s also weird why BitBucket wouldn’t show the changes of a merge in the diff overview? Like if you selected the commit ID of the merge, you can see the changes but nobody is looking through every commit ID when reviewing PRs.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrlslg7/",
+    "parent_id": "t1_mrkes1w",
+    "created_utc": 1746892239.0
+  },
+  {
+    "id": "mrlxz7e",
+    "author": "ub3rh4x0rz",
+    "body": "It's not an uncommon occurrence, especially among GitHub desktop users. It annoys me, I'm not defending it. But it's also not the part of your process that failed. BitBucket did. Probably because nobody uses BitBucket in 2025 and the product is neglected.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrlxz7e/",
+    "parent_id": "t1_mrlslg7",
+    "created_utc": 1746894006.0
+  },
+  {
+    "id": "mrerg1b",
+    "author": "AdmiralQuokka",
+    "body": "I used to dismiss people who complained about git being complicated. I used to think git is powerful, learn it and you will be rewarded. There is no free lunch.\n\nNow that I'm using jj, I've realized that a VCS can be both more powerful and simpler than git.",
+    "score": 32,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrerg1b/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746794204.0
+  },
+  {
+    "id": "mrfnsvt",
+    "author": "DerelictMan",
+    "body": "jj is on my list to check out and I'm stoked to get into it.\nIs it stable for every day use? Any gotchas? How easy is it to use alongside git in the same working copy?\nI have a \"stacked PR\" tool I use that assumes you're running it from a local git working copy. Would it be feasible to use jj for 90% of my VCS operations and still be able to use my tool that excepts to operate in a git working copy?",
+    "score": 6,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfnsvt/",
+    "parent_id": "t1_mrerg1b",
+    "created_utc": 1746804828.0
+  },
+  {
+    "id": "mrgdd6c",
+    "author": "sgjennings",
+    "body": "Absolutely. I've been using it exclusively for 2 years. I build from the trunk and don't know if I've ever hit an actual regression.\n\nI colocate all my repositories so my IDEs recognize the git repository, but after the first week or two, I pretty much never use the `git` command anymore.\n\nThe main problem you're likely to encounter with your stacked PR tool is that it probably uses the checked-out branch as a default value for something. jj doesn't have the concept of \"current branch\", so the Git repository always has a detached HEAD. Usually you can specify it explicitly, for example, the GitHub CLI lets you specify `gh pr create --head <branch>`",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgdd6c/",
+    "parent_id": "t1_mrfnsvt",
+    "created_utc": 1746812582.0
+  },
+  {
+    "id": "mrgfuf9",
+    "author": "DerelictMan",
+    "body": "Thanks for the info! My tool doesn't care about the currently checked out branch, actually, detached HEAD will be fine. Excited to give it a shot!",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgfuf9/",
+    "parent_id": "t1_mrgdd6c",
+    "created_utc": 1746813315.0
+  },
+  {
+    "id": "mri1695",
+    "author": "Drugbird",
+    "body": ">The main problem you're likely to encounter with your stacked PR tool is that it probably uses the checked-out branch as a default value for something. jj doesn't have the concept of \"current branch\", so the Git repository always has a detached HEAD.\n\nI'm only now learning about jj, and I think this concept is very important but I'm not getting it. \n\nHow can you be permanently in detached head mode? I thought you couldn't commit in detached head mode? And why no \"current branch\"? I believe branches are very fundamental to git, so I can't really imagine what working \"outside the branches\" even means. \n\nI'd appreciate any help understanding these things.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mri1695/",
+    "parent_id": "t1_mrgdd6c",
+    "created_utc": 1746831681.0
+  },
+  {
+    "id": "mribpih",
+    "author": "AdmiralQuokka",
+    "body": "You can still create new commits in a detached head state, even using vanilla git. The reason branches feel essential to git is because it uses them to determine which commits should be kept and which ones should be considered \"trash\".\n\nSo, if you create a commit in a detached head state (in git), everything will work fine. But there is no branch pointing to that new commit (except HEAD, for now). The moment you checkout a different branch or commit, no branch will be pointing to the commit you created anymore, not even HEAD. Git won't show you this commit in the log anymore (even with --all), because it's considered trash. In due time, git will actually permanently delete this commit from the object storage and it will be unrecoverable.\n\nIf you want to preserve commits that you created in a detached head state, you can easily do so by making branches point to the commit SHA later on. The commit SHA can be recovered from the reflog, for example.\n\nThe thing that jj does differently is simply that it doesn't consider commits trash if no branches are pointing to them. That's it. So you create commits one after the other, not worrying about branches, and `jj log` will show them all to you. You can explicitly \"delete\" commits with `jj abandon`.\n\nBranches are still needed to push to git remotes (e.g. GitHub). jj has the concept of \"bookmark\" which maps to branches. Bookmarks behave a little differently though, hence the name change. Bookmarks don't advance automatically when you create new commits, moving bookmarks is a separate operation. But it ends up working mostly the same. Work on new feature? 1. create commits, 2. create bookmark, 3. push bookmark, 4. open PR on GitHub or whatever.",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mribpih/",
+    "parent_id": "t1_mri1695",
+    "created_utc": 1746835486.0
+  },
+  {
+    "id": "mridr5g",
+    "author": "AdmiralQuokka",
+    "body": "I agree with the other reply you got, here's what I would add to that.\n\n> Is it stable for every day use?\n\nYes, stable as in it works flawlessly the way it's supposed to. Bugs are extremely rare and the bugs I have run were very low-impact. E.g. jj ships with a builtin TUI for interactively picking files, hunks and lines to commit / squash. There was a bug for a while where you couldn't squash a deleted file from one commit to another via that TUI. But you could just do it on the CLI no problem. So that's just an example for a rare low-impact bug I encountered.\n\nThat being said, it's NOT stable in the sense that the CLI doesn't change. If you build scripts on top of jj, you might have to fix them every now and then. Commands and flags can and do get renamed or removed. There is usually a deprecation period with warnings, but still.\n\nI find this tradeoff well worth it, but other people may feel differently.\n\n> Any gotchas?\n\nSubmodules and LFS are not supported.\n\nSubmodules aren't that bad, jj just ignores them. So you might have to fall back to a few git commands here and there to keep your submodules up to date. I think it's fine, unless you're in a repo where the submodules change _constantly_.\n\nLFS is a bigger deal. I think jj is essentially unusable in a repo that uses LFS.\n\n> Would it be feasible to use jj for 90% of my VCS operations and still be able to use my tool that excepts to operate in a git working copy?\n\nDepends on your tool of course, but I'm guessing that yes, this should work perfectly fine. Make sure to always colocate your repos with `jj git clone --colocate` and `jj git init --colocate`.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mridr5g/",
+    "parent_id": "t1_mrfnsvt",
+    "created_utc": 1746836248.0
+  },
+  {
+    "id": "mrinicj",
+    "author": "DerelictMan",
+    "body": "Great info, thank you! I swore off submodules many years ago and don't need LFS so I'm set.",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrinicj/",
+    "parent_id": "t1_mridr5g",
+    "created_utc": 1746839987.0
+  },
+  {
+    "id": "mrfc38n",
+    "author": "mrhinsh",
+    "body": "What's jj?",
+    "score": 6,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfc38n/",
+    "parent_id": "t1_mrerg1b",
+    "created_utc": 1746801249.0
+  },
+  {
+    "id": "mrfddb0",
+    "author": "phord",
+    "body": "https://github.com/jj-vcs/jj",
+    "score": 8,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfddb0/",
+    "parent_id": "t1_mrfc38n",
+    "created_utc": 1746801649.0
+  },
+  {
+    "id": "mrfq1qi",
+    "author": "mrhinsh",
+    "body": "Ta",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfq1qi/",
+    "parent_id": "t1_mrfddb0",
+    "created_utc": 1746805504.0
+  },
+  {
+    "id": "mrhhvuo",
+    "author": "Wooden-Contract-2760",
+    "body": "Have you used any neat git gui like git-fork? or getExtensions if you're oldschool?\nI never felt the need for anything \"simpler\" or more \"powerful\" once I acknowledged that git console is the assembly of VCS.. humans just work better with visual aid.\n\n\nThat said, I'm curious what made you feel so much better about jj",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrhhvuo/",
+    "parent_id": "t1_mrerg1b",
+    "created_utc": 1746825033.0
+  },
+  {
+    "id": "mriie6u",
+    "author": "AdmiralQuokka",
+    "body": "git-fork looks nice, but it only supports proprietary operating systems, so it's a non-starter for me.\n\nI've never really gotten warm with any of the GUIs I've tried. My impression has always been that these GUIs don't even try to give you the full power of git. Instead, they try to create a simple, narrow model of how you're supposed to work. As long as you stay within the frame defined by the GUI tool, it will work well for you. Once you need to step beyond that... you're on your own / back to the CLI. This would be fine if it's actually realistic that you can stay within the frame while getting all your work done. But somehow I've always found myself needing / wanting to do things the GUI doesn't allow.\n\nAnd once I got comfortable doing the complicated stuff in the CLI, the simple stuff was obviously even easier. I never felt like the GUIs were providing much value once the simple operations are essentially muscle memory.\n\nThe only thing I actually like to use a GUI for is as a merge tool. Looking at plain conflict markers in an editor can be pretty nasty. While it's not my primary editor, I think vscodium has a damn solid merge editor.\n\n> That said, I'm curious what made you feel so much better about jj\n\nI could try to list some features and facts about jj, but that's boring. I think it boils down to freedom. The freedom to just do the thing you want to do, right now, without any obstacle.\n\nWorking on X, but want to do Y in between? `jj new <base>` never fails, because all your work is always snapshotted. git checkout can fail due to a dirty working tree. So you stage your changes... and create a \"WIP\" commit... and then create a new branch (try to think of a good name for the thing you haven't even done yet)... and finally you can start working.\n\njj removes so much friction around common VCS tasks that it actually impacts how I work. With git, I will think to myself \"Let me just finish X before Y, because switching back and forth between WIP states.\" But I actually wanted to do Y. With jj, I just do Y without thinking about it.\n\nAnother one is working on many branches in parallel. With git, this is super painful if not impossible, so what I end up doing (out of lazyness) is committing unrelated things to the same branch. At best, I will keep the individual commits relatively clean. But the PR will contain somewhat unrelated stuff. jj on the other hand makes it trivial to work on multiple branches in parallel by merging them all together. This is usually called the [megamerge workflow](https://steveklabnik.github.io/jujutsu-tutorial/advanced/simultaneous-edits.html) and a little hard to explain. jj can even automatically figure out which commit to squash a hunk into by finding the one that last touched the same lines of code, (`jj absorb`). Feels like magic.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mriie6u/",
+    "parent_id": "t1_mrhhvuo",
+    "created_utc": 1746838007.0
+  },
+  {
+    "id": "mrjwvuo",
+    "author": "Wooden-Contract-2760",
+    "body": "I see your point around branch switching being a bit of a hussle, or mixing commits of various things, but this is a matter of discipline for me.\n\nI put all my dev branches to \"directories\" like `dev/myAbbrev/randomBranchnameForStuoidTask42` and rename before opening a PR if there's a rule to have meaningful branch names.\n\n\nI try to use conventional commits.\nhttps://www.conventionalcommits.org/en/v1.0.0/\nIt helps a lot to commit small and append task Ids in case they are getting mixed.\n\n\nI think the strongest feature apart from merging is *Interactive Rebase* in a GUi.\n- Drag and Drop commits to reorder\n- Doubleclick reword them\n- Fixup, Merge and Drop each commit via a command dropdown\n\n\nOver the last few years, I must say I've gotten very disciplined around leveraging this.\nSince these actions are super quick, one only needs to avoid reordering things that conflict.\nSo the most important coarse of commit splitting is when you edit the same file for multiple reasons, but most cases can be avoided again:\n- At a cleanup phase, commit every file separately and fixup the original commits where they were edited, that's simple.\n- At refactoring, refactoring misost always happen first, and without any intended changes. Then new changes separately; so there is never a reason to reorder.\n- New features in same branch rarely conflict.\n- Do enablers first (add new method to do something), then add the feature that uses it selarately\n\n\n\nI could probably go on with the list for another 10 items easily, but my point is that with a well-defined work methodology I cannot see if and how I could benefit from jj more.\nBut note that I don't know that tool much, that's why I'm asking some specifics how it helps you.\n\n\n_Btw, git-fork is such a superior product even to GitKraken imo! I never had an issue with detached heads, checkouts, branch merge/rebase apart from solving conflicts in git-fork, while in kraken, I just decided to shoot console commands all the time as the gui was so difficult for me to use._\n\n\nEdit: wording.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrjwvuo/",
+    "parent_id": "t1_mriie6u",
+    "created_utc": 1746861243.0
+  },
+  {
+    "id": "mrzaw9b",
+    "author": "birdparty44",
+    "body": "there’s a low cost lunch. GUIs.\n\nAs long as you understand branches, merging, and rebasing, it’s not all that tough.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrzaw9b/",
+    "parent_id": "t1_mrerg1b",
+    "created_utc": 1747083882.0
+  },
+  {
+    "id": "mrf519r",
+    "author": "chriswaco",
+    "body": "I’ve used a lot of source code control systems: cvs, SourceSafe, svn, Perforce, Projector, and now git. \n\nI loved svn and even administered our servers. Early versions of git were ridiculously complex to use in comparison. The man page even describes it as \"the stupid content tracker\". A lot has been cleaned up since then, but even today if you gave an average programmer 20 tasks in git they would have to look up 15 of them because the command-line ui is neither obvious nor consistent. \n\nGit is, however, fast, reliable, free, and very useful, especially when paired with server-side features like pull requests, check-in filters, visual diff tools, and permission support. In day-to-day use you probably only use 5-10 commands and those you’ve memorized. And there are visual tools like IDEs that help. \n\nSo take the time and learn it.",
+    "score": 9,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf519r/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746798986.0
+  },
+  {
+    "id": "mresso3",
+    "author": "trippedonatater",
+    "body": "It's an incredibly complex tool. Day to day usage by people following good dev practices should be pretty basic/simple, though. A lot of things are like that.\n\nRegardless, I have trouble taking someone seriously if they're a developer or developer adjacent and don't know the basics of git at this point.",
+    "score": 15,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mresso3/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746794714.0
+  },
+  {
+    "id": "mrfertz",
+    "author": "danishjuggler21",
+    "body": ">Regardless, I have trouble taking someone seriously if they're a developer or developer adjacent and don't know the basics of git at this point.\n\nI'd be a bit more compassionate than that, because it's not their fault - it's just taught wrong.",
+    "score": 4,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfertz/",
+    "parent_id": "t1_mresso3",
+    "created_utc": 1746802081.0
+  },
+  {
+    "id": "mrkf0sy",
+    "author": "ub3rh4x0rz",
+    "body": "That's also kind of a weird defense in a career path that requires constant self-learning",
+    "score": 5,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrkf0sy/",
+    "parent_id": "t1_mrfertz",
+    "created_utc": 1746872424.0
+  },
+  {
+    "id": "mrvbc5c",
+    "author": "i_dont_wanna_sign_up",
+    "body": "Honestly the basics of git, that you use 90% of the time, can be learned in a day.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrvbc5c/",
+    "parent_id": "t1_mrfertz",
+    "created_utc": 1747028766.0
+  },
+  {
+    "id": "mrv1a14",
+    "author": "aew3",
+    "body": "I know lot of people with a CS degree in a developer or developer adjacent job who work in a team that does not use git or is struggling to get people to use it.\n\nFor example, older people in DS do not have the technical training that younger people have, and their technical skill set beyond being able to write SQL or R is often quite limited. My partner technically works in a DS environment where most of the code HAS to be committed to a git repo, but often my partner have to manually commit files they receive via email on other peoples behalf since they don’t want to touch it. Files are mostly committed to the repos using the GitLab webUI, because IT refuses to get gitlab’s auth to work properly through CF Zero Trust, so most users cannot connect a desktop git client to it (except a few people who have access to very unrestricted VMs).\n\nI know people who were hired into a CVS/RCS environment and a move to git is stalled out by the continued employment of people who have never touched it.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrv1a14/",
+    "parent_id": "t1_mresso3",
+    "created_utc": 1747023440.0
+  },
+  {
+    "id": "mret9qg",
+    "author": "kreiger",
+    "body": "The problem of versioning source code is complex.\n\nWhen people complain about the complexity of versioning tools like Git, it's often the case that it's actually the problem that is complex, and the tool is as complex as it needs to be to solve the problem.",
+    "score": 23,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mret9qg/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746794892.0
+  },
+  {
+    "id": "mrewxam",
+    "author": "jrolette",
+    "body": "Nah, dvcs doesn't require an overly arcane interface. Mercurial is much easier to learn and use than git.",
+    "score": 4,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrewxam/",
+    "parent_id": "t1_mret9qg",
+    "created_utc": 1746796215.0
+  },
+  {
+    "id": "mrxkpr2",
+    "author": "Top-Cupcake4775",
+    "body": "Do either of those still work well when used on extremely large scale, extremely distributed projects?",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrxkpr2/",
+    "parent_id": "t1_mrewxam",
+    "created_utc": 1747065466.0
+  },
+  {
+    "id": "mrxm1fn",
+    "author": "jrolette",
+    "body": "DVCS isn't a specific product/tool. It's what git and mercurial are... Distributed Version Control Systems.\n\nAnd yes, they both work at scale for distributed projects.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrxm1fn/",
+    "parent_id": "t1_mrxkpr2",
+    "created_utc": 1747065860.0
+  },
+  {
+    "id": "ms98pl0",
+    "author": "przemo_li",
+    "body": "Mercurial can stretch, but at that scale you need a lot of stuff to happen on the servers. Conversely git wasn't into such a thing until recently.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms98pl0/",
+    "parent_id": "t1_mrxkpr2",
+    "created_utc": 1747224377.0
+  },
+  {
+    "id": "mrf9ad0",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 4,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf9ad0/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746800370.0
+  },
+  {
+    "id": "mrxlhps",
+    "author": "Top-Cupcake4775",
+    "body": "I've used most of the source control systems you mentioned and I have seen most of them melt down in cases that git supports with no problem, generally when the size of the code base grew to a certain point and/or when the number of contributors grew too large. If you knew ahead of time that your project would not grow beyond a certain size or beyond a certain number of contributors, you would probably be well advised to using something like CVS or Bitkeeper. The problem is that it is hard to know that.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrxlhps/",
+    "parent_id": "t1_mrf9ad0",
+    "created_utc": 1747065697.0
+  },
+  {
+    "id": "mrfcpfp",
+    "author": "ritchie70",
+    "body": "Are we stuck with it, though?\n\nI remember RCS being the standard. Then CVS. Then SVN. Now it's git. \n\nSomething else will come along in another ten years if not sooner and everyone will swoon over it too and build it into all the tools.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfcpfp/",
+    "parent_id": "t1_mrf9ad0",
+    "created_utc": 1746801443.0
+  },
+  {
+    "id": "mrfhrhc",
+    "author": "[deleted]",
+    "body": "[removed]",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfhrhc/",
+    "parent_id": "t1_mrfcpfp",
+    "created_utc": 1746802986.0
+  },
+  {
+    "id": "mrfi7tl",
+    "author": "ritchie70",
+    "body": "Same. My version control journey started in October 1990 with a homegrown clone of a tool (SCCS) all the former Bell Labs guys had used at Bell Labs.\n\nThey recreated SCCS with shell scripts on top of RCS, if I remember right. It's been quite a while. I spent a lot of time hand-editing \"s-lists\".",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfi7tl/",
+    "parent_id": "t1_mrfhrhc",
+    "created_utc": 1746803124.0
+  },
+  {
+    "id": "mrftgkm",
+    "author": "quarethalion",
+    "body": "Having used both of those version control systems, I'm trying to figure out why anyone would do that. Were they trying to build something git-like (a combination of local + remote repositories) years before git came along?",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrftgkm/",
+    "parent_id": "t1_mrfi7tl",
+    "created_utc": 1746806537.0
+  },
+  {
+    "id": "mrfv6ua",
+    "author": "ritchie70",
+    "body": "They wanted an overall version number for a set of files. \n\nIt was 1990 on various PC Unixes - Interactive then SCO. I'm not even sure I'm remembering the names correctly.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfv6ua/",
+    "parent_id": "t1_mrftgkm",
+    "created_utc": 1746807073.0
+  },
+  {
+    "id": "mrgjm8j",
+    "author": "Antti5",
+    "body": "If we have a tool that is maybe unnecessarily complex, it is a problem that you can manage.\n\nYou can build tools that make the common use cases easy and intuitive to use, and/or you can have established practices at an organizational level.\n\nThus, I find it really unlikely that there will be a major move away from Git only because it is too complex.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgjm8j/",
+    "parent_id": "t1_mrfcpfp",
+    "created_utc": 1746814451.0
+  },
+  {
+    "id": "mrh2k8x",
+    "author": "ritchie70",
+    "body": "I don't think \"it's a giant mess to use\" will be why Git falls out of favor.\n\nI just think it will. Linus will retire, or some other sexy stud programmer will show up with something that scratches some itch in a new and novel way and everyone will swoon once again.",
+    "score": 0,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrh2k8x/",
+    "parent_id": "t1_mrgjm8j",
+    "created_utc": 1746820285.0
+  },
+  {
+    "id": "mrfcq20",
+    "author": "alberge",
+    "body": "The git data model is relatively straightforward once you understand it. But the UX is terrible.\n\nThe git CLI is very much what you get if you throw a jumbled mess of bash, C, and perl in a bag and shake it up. It has grown in a very ad hoc way over time and has a lot of oddities.\n\nFor example, the whole porcelain vs plumbing distinction is super unclear. It's an overwhelming list of subcommands, which leads newcomers to memorize the few things they need without really understanding much. The working tree vs staging area is also very confusing to beginners.\n\nBasic things like \"how do I undo the commit that I just made?\" require arcana like `git reset HEAD^`, compared to `bzr uncommit`. And why does `git checkout` do so many unrelated things? Yet none of these is parallel to `svn checkout`, for which you have `git clone`.\n\nAnd sure, there are newer, less confusing subcommands to replace `checkout`, but that makes an even bigger mess... which do I choose between `git checkout`, `git branch`, `git switch`, and `git restore`?\n\nIMO git won the dvcs race by being fast and having GitHub, while hg and bzr are easier and less complex to learn.",
+    "score": 4,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfcq20/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746801448.0
+  },
+  {
+    "id": "mrkfk4p",
+    "author": "ub3rh4x0rz",
+    "body": "CLI is \"arcane\" for good reasons. 100% of the time I see people struggling with git, they virtually never use the CLI and the gui wrapper cut some corner that, turns out, shouldn't be cut 3% of the time. People need to be more willing to overcome learning curves for tools they use hundreds of times a day, it allows the tools to be more powerful and the learning curve is quickly outweighed by the benefits.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrkfk4p/",
+    "parent_id": "t1_mrfcq20",
+    "created_utc": 1746872743.0
+  },
+  {
+    "id": "mrnv36s",
+    "author": "Individual_Author956",
+    "body": "It can be a powerful tool while also keeping the basic functions simple.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrnv36s/",
+    "parent_id": "t1_mrkfk4p",
+    "created_utc": 1746917820.0
+  },
+  {
+    "id": "msb3qab",
+    "author": "ExcellentRuin8115",
+    "body": "I even heard that at the beginning of git it was even more messy, so that is one of the pain points of git thanks",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msb3qab/",
+    "parent_id": "t1_mrfcq20",
+    "created_utc": 1747244976.0
+  },
+  {
+    "id": "mretdxg",
+    "author": "pjc50",
+    "body": "You can carve out a simple workflow, use it without understanding, and get on with a small team like that.\n\n\nIf you want to do more complicated things.. well, there's a lot of terminology to learn, and quite a lot of moving parts, and the command line options aren't all that consistent.",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mretdxg/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746794936.0
+  },
+  {
+    "id": "mrewtlx",
+    "author": "redditreader2020",
+    "body": "It is a complex tool, the trick is to have a simple workflow where you rarely need/use all the features.",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrewtlx/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746796178.0
+  },
+  {
+    "id": "msb3xoe",
+    "author": "ExcellentRuin8115",
+    "body": "but sometimes youll need to use those rare features and that is when pain comes in",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msb3xoe/",
+    "parent_id": "t1_mrewtlx",
+    "created_utc": 1747245033.0
+  },
+  {
+    "id": "mrfxnv9",
+    "author": "armahillo",
+    "body": "A lot of things are hard at first. Then you do it a bunch, and it gets easier.",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfxnv9/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746807834.0
+  },
+  {
+    "id": "msb49xk",
+    "author": "ExcellentRuin8115",
+    "body": "Kinda but still after reading many comments i realized the most difficult part of git is the fact that there are edge cases where there are many many arguments and commands that you barely knew",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msb49xk/",
+    "parent_id": "t1_mrfxnv9",
+    "created_utc": 1747245129.0
+  },
+  {
+    "id": "mrg3ws2",
+    "author": "Deto",
+    "body": "In my experience, most people who have tons of trouble with git haven't taken the time to learn the basics (DAG structure, what are commits, and what the operations commit, merge, and rebase actually do).",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrg3ws2/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746809735.0
+  },
+  {
+    "id": "msb4i66",
+    "author": "ExcellentRuin8115",
+    "body": "Think you are right to a certain extent, cause many experienced developers that have been using git for a long time said that some edge cases are really complex",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msb4i66/",
+    "parent_id": "t1_mrg3ws2",
+    "created_utc": 1747245192.0
+  },
+  {
+    "id": "mrj1fvu",
+    "author": "maxou2727",
+    "body": "Easy to use, hard to master",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrj1fvu/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746845453.0
+  },
+  {
+    "id": "msb4kmy",
+    "author": "ExcellentRuin8115",
+    "body": "Sounds like my favorite language C++ haha",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msb4kmy/",
+    "parent_id": "t1_mrj1fvu",
+    "created_utc": 1747245211.0
+  },
+  {
+    "id": "mretlqi",
+    "author": "jshell",
+    "body": "I don’t think it’s complex at all. It’s very simple and basic at its core and if you understand just a few core principles, everything else just builds upon that.\n\nThough the “append-only object database / directed acyclic graph” heart of Git is quite similar to some database technologies I had used for a couple of decades.\n\nThis article from long ago made Git make sense in a way that no prior version control tool had, for me:\n\nhttps://eagain.net/articles/git-for-computer-scientists/",
+    "score": 8,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mretlqi/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746795014.0
+  },
+  {
+    "id": "msb5no1",
+    "author": "ExcellentRuin8115",
+    "body": "Ill read it thanks for sharing it",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msb5no1/",
+    "parent_id": "t1_mretlqi",
+    "created_utc": 1747245512.0
+  },
+  {
+    "id": "mrex2wj",
+    "author": "plg94",
+    "body": "> So I would like to hear […] if you think it is too complex or not.\n\nWhy? I mean, for one members of r/git are obviously biased, and also what does our \"yes\" or \"no\" answer help you with?\n\nI agree the UX of git is not the most intuitiv. But then again, neither is Javascript type conversions, for example. Or floating point arithmetics.  \nWhen you do programming, Git is just another tool in your belt you'll have to learn.\n\nAlso I do think the underlying model of Git (immutable commits in a graph) is relatively easy to grasp. It's just that many people treat it more like \"which complicated, totally arcane phrase of words to I have to type to do X\" which leads to git \"cheat sheets\" with two dozen different commands. Of course nobody's gonna remember all that.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrex2wj/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746796271.0
+  },
+  {
+    "id": "msb82f8",
+    "author": "ExcellentRuin8115",
+    "body": "Answering your question \"Why?\", well I been thinking a lot about making a TUI app (example: Lazy Git or Git Kraken), but I would like to know if many people struggle with git, and i wanna hear feedback of what are the hardest parts of git and so. So i can build the TUI i had in mind and share it with the community.\n\nAnd I totally agree with the fact that git is a tool that youll need to learn ( there are other options but for the majority git) if you wanna be a programmer that's why I wanted to know your yes or no because if many people say no, that means the tool wouldn't help developers with git (which is its main goal). Thanks for the feedback",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msb82f8/",
+    "parent_id": "t1_mrex2wj",
+    "created_utc": 1747246205.0
+  },
+  {
+    "id": "mrf1cdd",
+    "author": "FrontAd9873",
+    "body": "Doing the basics of anything isn’t complex. That is what the word “basic” more or less entails.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf1cdd/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746797754.0
+  },
+  {
+    "id": "msb87yj",
+    "author": "ExcellentRuin8115",
+    "body": "So you mean when it comes to a more specific part of git It will get complex, right?",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msb87yj/",
+    "parent_id": "t1_mrf1cdd",
+    "created_utc": 1747246249.0
+  },
+  {
+    "id": "msbbjkx",
+    "author": "FrontAd9873",
+    "body": "No, I’m saying that “the basics” are not complex by definition, so your observation is trivial.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbbjkx/",
+    "parent_id": "t1_msb87yj",
+    "created_utc": 1747247213.0
+  },
+  {
+    "id": "msbg8ew",
+    "author": "ExcellentRuin8115",
+    "body": "Oh okok",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbg8ew/",
+    "parent_id": "t1_msbbjkx",
+    "created_utc": 1747248574.0
+  },
+  {
+    "id": "mrf1xnn",
+    "author": "[deleted]",
+    "body": "Yes. But it’s also, how did Einstein put it, as simple as possible but no simpler.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf1xnn/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746797956.0
+  },
+  {
+    "id": "mri3byd",
+    "author": "shagieIsMe",
+    "body": "https://www.rfc-editor.org/rfc/rfc1925.txt\n\n       (12) In protocol design, perfection has been reached not when there\n            is nothing left to add, but when there is nothing left to take\n            away.\n\n... And as I read it again...\n\n       (6)  It is easier to move a problem around (for example, by moving\n            the problem to a different part of the overall network\n            architecture) than it is to solve it.\n    \n            (6a) (corollary). It is always possible to add another level of\n                 indirection.\n    \n    ...\n    \n       (10) One size never fits all.\n\n       (11) Every old idea will be proposed again with a different name and\n            a different presentation, regardless of whether it works.\n    \n            (11a) (corollary). See rule 6a.\n\nAre also quite applicable.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mri3byd/",
+    "parent_id": "t1_mrf1xnn",
+    "created_utc": 1746832455.0
+  },
+  {
+    "id": "msb8qkj",
+    "author": "ExcellentRuin8115",
+    "body": "I havent heard such wise words from nobody in a while it is so true that im still analyzing it",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msb8qkj/",
+    "parent_id": "t1_mri3byd",
+    "created_utc": 1747246397.0
+  },
+  {
+    "id": "msb8tsk",
+    "author": "ExcellentRuin8115",
+    "body": "I mean he had a point. There is a point where making something simpler isnt suitable",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msb8tsk/",
+    "parent_id": "t1_mrf1xnn",
+    "created_utc": 1747246423.0
+  },
+  {
+    "id": "mrf3dpu",
+    "author": "swoorup",
+    "body": "Like most things you only need to learn 20% of git to be 80% more productive than without.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf3dpu/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746798445.0
+  },
+  {
+    "id": "msb92hu",
+    "author": "ExcellentRuin8115",
+    "body": "I mean. I kinda get it. But do you think that 20% you have left wouldnt make you more productive? Cause if it makes you more productive there is a difference between 80% of your max and 100% of your max",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msb92hu/",
+    "parent_id": "t1_mrf3dpu",
+    "created_utc": 1747246492.0
+  },
+  {
+    "id": "mseswi9",
+    "author": "swoorup",
+    "body": "I was mostly hinting at the 80/20 rule ie pareto principle. \"80% of outcomes or consequences result from 20% of all causes or inputs\" xD. It is a generic observation for most things.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mseswi9/",
+    "parent_id": "t1_msb92hu",
+    "created_utc": 1747293330.0
+  },
+  {
+    "id": "mrfakve",
+    "author": "rco8786",
+    "body": "Git is complex by any reasonable definition of the word. That’s hardly debatable, IMO. It’s a complex tool that solves a complex problem. ",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfakve/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746800775.0
+  },
+  {
+    "id": "msb98w3",
+    "author": "ExcellentRuin8115",
+    "body": "True. Wouldnt it be better if it where simpler or you think that complexity is neccesary for developers to really understand the tool?",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msb98w3/",
+    "parent_id": "t1_mrfakve",
+    "created_utc": 1747246545.0
+  },
+  {
+    "id": "mrg9jvh",
+    "author": "rzwitserloot",
+    "body": "It's not. at all.\n\nVersion control as a concept is intractably complex. When 2 developers work on the same source file, and one adds a method to the end, and the other also adds a method to the end, somebody somewhere is __just going to have to__ decide which one ends up being 'first'. Attempting to remove this requirement means you have to inject into your version control system an inherent understanding of both the language the file is written in (git needs a java parser now, for example, and a pretty in depth understanding of java, to determine that in java the ordering of methods has as per lang spec no bearing in any way on the meaning of the code), _and_ your project's style guide (lets say your guide indicates that methods must be listed in alphabetical order; now git needs to know that too).\n\nWhich you can do, but now you've just shifted complexity around: Merging has become marginally less effort and seemingly 'simpler', but not really - there's now a small manual explaining exactly where git looks for language servers and style config files, and a very large manual explaining exactly how those complex concepts are conveyed. Think about it. Design me a 'programming language' to describe style preferences. I'll wait. A couple of years probably, that's _very_ complicated.\n\nSaying 'git is complex because merging is difficult' is ridiculous as a consequence. Or, rather, if a version control system says \"I'm much simpler!\" and you expect that to mean \"ah, then, surely, it's gotten rid of complex merges!\" should mean you're going to have a very nasty surprise. That's what 'intractable' means in this context: It's complexity inherent to the domain, and any tool or process that says its removed it can only mean they removed the underlying thing. In other words, any version control tool that says it has reduced this complexity and it says so in good faith means it must have taken away the ability to develop in parallel. That's.. a huge cost nobody wants to pay, surely.\n\nUnder the hood git is simple. It's refs, commits (which are immutable and thus quite easy to reason about), and a blobstore. I'm pretty sure understanding how git works internally is easy enough to learn and makes using git a lot simpler, but, you don't _have to_ know that sort of thing. If you can't be arsed to learn all that and just want the bare bones, for example because, I dunno, you're checking in your `/etc` config files, then you literally get to do all you ever wanted with `git gui`, and `git commit -a -m`. Period. You don't need a single other command.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrg9jvh/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746811439.0
+  },
+  {
+    "id": "msbb5jp",
+    "author": "ExcellentRuin8115",
+    "body": "So basically the complexity of git comes from the fact that any other way of doing things (like using another method for VCS functionality) will make it worse for programmers because it'll prevent you from working on parallel but instead of preventing you from doing such things git lets do it but you \"pay\" a price which is its complexity, and when another VCS promotes itself saying that that complexity wont exist any more it is not true cause those complexities found in git are gonna await you in other VCS.  \n  \nIn summary, \"A great power comes with a great responsability\"",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbb5jp/",
+    "parent_id": "t1_mrg9jvh",
+    "created_utc": 1747247100.0
+  },
+  {
+    "id": "msbm62g",
+    "author": "rzwitserloot",
+    "body": "Effectively.\n\nVarious VCS, especially 'corporate' VCS systems, used locking. You had to 'check out' a file and then you 'owned it' - And with 'check out' I mean 'like a physical book in a library', not like `git checkout`. \n\nNobody else could 'check out' that file and as a consequence, it was impossible to edit it. At best, you could get a read-only copy. The upshot was that folks would check files out and forget to check them in, ridiculously onerous reinventions of version control (you can only create read-only copies and edit those, then when it is time to actually commit stuff, check out the file, copy/paste your edits over, check it back in. Nevermind that you've just badly reinvented local merge conflicts).\n\nEven svn and cvs support it. Every site out there that even mentioned these features would introduce the feature as 'this is a bad idea and you should not use this feature'.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbm62g/",
+    "parent_id": "t1_msbb5jp",
+    "created_utc": 1747250305.0
+  },
+  {
+    "id": "msbn55p",
+    "author": "ExcellentRuin8115",
+    "body": "Why would they keep such feature even though they said it is a bad idea?",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbn55p/",
+    "parent_id": "t1_msbm62g",
+    "created_utc": 1747250592.0
+  },
+  {
+    "id": "msbvnla",
+    "author": "rzwitserloot",
+    "body": "[1] The tutorials aren't written by the authors. Tools can have features that almost the entire userbase thinks is silly, if the shepherds of the tool like it.\n\n[2] Because _at the time the feature was released_ folks _thought_ it was a good idea. Ripping an existing feature out is a step rarely taken; and that is the correct sentiment. If you promise a feature and then rip it out later, what's going to happen is that your users will leave completely. Any new feature you release with fanfare? Dangerous - best wait 10 years because if we adopt it now maybe in a year we need to redo all our work or reverse it. At which point it becomes a self fulfilling prophecy (no newly released feature ever gets many users), etc. This results in features that the maintainers of a project both [A] officially support and maintain whilst also [B] recommending you don't use.\n\nEspecially in the java ecosystem where backwards compatibility is taken rather seriously, lots of such features exist. For example, the class `java.util.Date`, as well as the concept of serialization: Two things OpenJDK itself will tell you, at length, how dumb those features are. Nevertheless, they are and remain supported and aren't on any 'lets just delete that obsolete badly designed crap' list at any time horizon. These features aren't that much effort to continue to support (in contrast, in a backwards breaking move, java 24 completely removes the SecurityManager API. This one _did_, according to OpenJDK, require significant maintenance load, and thus \"we recommend against its use\" has led to \"... and now its gone\").",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbvnla/",
+    "parent_id": "t1_msbn55p",
+    "created_utc": 1747253097.0
+  },
+  {
+    "id": "msc8udk",
+    "author": "ExcellentRuin8115",
+    "body": "I see it actually makes sense now. Thanks for the explanation :D",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msc8udk/",
+    "parent_id": "t1_msbvnla",
+    "created_utc": 1747257100.0
+  },
+  {
+    "id": "mrgqwdt",
+    "author": "IrrerPolterer",
+    "body": "I'm really torn here. It took me quite a while to get a good grasp of how git *really* works. I struggled for some time. But once it clicked, everything became a total breeze. Now I'm a rebase radical, cherry-pick champion and history hacker, lol... And admittedly I do feel that git-guru superiority, like 'man it's not that hard!'... But I think I'm just forgetting how hard I found it when I first learned the basic concepts.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgqwdt/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746816669.0
+  },
+  {
+    "id": "msbbofw",
+    "author": "ExcellentRuin8115",
+    "body": "I mean that \"Oh man it's not that hard\" have happened to all of us. I remember when i started to code it was extremely hard to me cause I couldnt understand it quite well. But now every time someone comes to me and asks me \"How did you learn how to code? Is it hard?\" I tell them that it is pretty simple and it is all about logic",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbbofw/",
+    "parent_id": "t1_mrgqwdt",
+    "created_utc": 1747247252.0
+  },
+  {
+    "id": "mrnsza6",
+    "author": "church-rosser",
+    "body": "Emacs with Magit is the answer to Git UX complexity.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrnsza6/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746917009.0
+  },
+  {
+    "id": "msbbxnb",
+    "author": "ExcellentRuin8115",
+    "body": "Is it that good? Maybe ill try it.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbbxnb/",
+    "parent_id": "t1_mrnsza6",
+    "created_utc": 1747247327.0
+  },
+  {
+    "id": "mrs5lvg",
+    "author": "ebmarhar",
+    "body": "It's hilarious that the first hundred comments are a discussion about rebasing strategy",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrs5lvg/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746985333.0
+  },
+  {
+    "id": "msbbzxq",
+    "author": "ExcellentRuin8115",
+    "body": "Lol",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbbzxq/",
+    "parent_id": "t1_mrs5lvg",
+    "created_utc": 1747247345.0
+  },
+  {
+    "id": "mrshjrc",
+    "author": "eggZeppelin",
+    "body": "I remember the first time I saw the phrase \"detached head\" was one of my biggest WTF moments for me lol 😆 \n\nIt does have a surprising amount of nuance too it.  I used it for years, without realizing a lot of the things that it could do.\n\nFor instance, a lot of newer engineers especially will do a bunch of work on a problem and make good progress but get in a bad state so they just say fk it and nuke their branch and cut a fresh branch.\n\nWhen it would probably have been less painful for them to stash the change set hard reset to main, then unstash piece by piece, keeping all the progress they made and discarding the troublesome code in a smoother way 🤷‍♀️",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrshjrc/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746989189.0
+  },
+  {
+    "id": "msbccga",
+    "author": "ExcellentRuin8115",
+    "body": "Ngl I barely understood the ending part hahaha. But it seems like learning git deeply helps a lot and saves a lot of time then",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbccga/",
+    "parent_id": "t1_mrshjrc",
+    "created_utc": 1747247446.0
+  },
+  {
+    "id": "mrfbczp",
+    "author": "ritchie70",
+    "body": "I've been a working developer for thirty-five years. I've used many version control systems.\n\nI firmly believe that git is insanely complicated and probably not actually the right tool unless you're working on the Linux kernel or other very large open source projects.\n\nI do understand its attraction for distributed open source projects. I do not understand its attraction for corporate developers, because there is no mandatory central server involved.\n\nThat's right, I see its headline feature as a defect.\n\nCorporate developers should not be able to lose their committed work if their laptop is stolen, or take their last N commits with them if their employment is terminated. I know you can push but my belief is that it shouldn't be possible to not do the equivalent of a push.\n\nEveryone working on an internal project will ultimately be merging their changes to the main branch. Their work belongs to the company, not to them.\n\nI also think the mess of command line arguments is horrible, and some of them seem inconsistent between subcommands. I have a two-page cheat sheet of what options are needed to get each command to do what I want it to do.\n\nI never had a cheat sheet with CVS, or SVN, or even Visual Source Safe. I had a whole manual for Clearcase, but that's just because I was trying to use its command line out of a desire for efficiency - believe it or not, the Clearcase server was on the other side of a dial-up modem so the GUI response time was measurable in minutes.\n\nI will admit that the git integration with Visual Studio and other GUI tools isn't too bad, but I'm used to doing this stuff at a command line and I'm not always 100% confident I understand what the GUI is telling me about what is really happening.\n\nEdit: I also hate that git doesn't have version numbers. I would very much like to use keywords and embed \"Version 1.5\" in the header of my source files on checkout. \"Version 00c303868e8a40cb8361417b3a752aa0\" doesn't really tell me anything at a glance, and I'm not actually sure if git has that functionality at all, but I know instantly that \"Version 1.5\" is newer than \"Version 1.4.\"",
+    "score": 4,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfbczp/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746801021.0
+  },
+  {
+    "id": "mrfx3z7",
+    "author": "quarethalion",
+    "body": ">I know you can push but my belief is that it shouldn't be possible to not do the equivalent of a push.\n\nThe counter-argument to this is that being able to commit locally encourages small, focused commits that can be used as roll-back points instead of having to chose between large, sprawling commits and publishing partially complete work in progress. Having a personal (but not private) branch isn't quite the same.\n\nThere's also an argument for having full version control available offline but that seems like a niche case in the modern age.",
+    "score": 5,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfx3z7/",
+    "parent_id": "t1_mrfbczp",
+    "created_utc": 1746807664.0
+  },
+  {
+    "id": "mrh39yy",
+    "author": "ritchie70",
+    "body": "Back in my day (when we wore onions on our belt, because it was the fashion of the time) one of the selling points of version control was that you can't lose your work once you commit it, even if you pour coffee directly into your hard drive.\n\nThat seems to have fallen by the wayside with git and it bothers me that nobody seems to care any more.\n\nI don't see any advantage to my branch being viewable only by me and I do see advantages to it being viewable to everyone so I can say, \"hey Vic, can you switch to this branch and see what you think of the frombulation code?\"\n\nSo long as I'm the only person working on the branch, it doesn't matter if it compiles or works in any way until I go to merge it.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrh39yy/",
+    "parent_id": "t1_mrfx3z7",
+    "created_utc": 1746820506.0
+  },
+  {
+    "id": "mrltbe9",
+    "author": "quarethalion",
+    "body": ">one of the selling points of version control was that you can't lose your work once you commit it, even if you pour coffee directly into your hard drive.\n\nTrue, but that's more a side-effect of a centralized VCS than a deliberate feature. There are similar arguments in NAS communities about whether RAID (mirrored or with parity, not striping) counts as having a backup.\n\nThat said, I've found claims of it being almost impossible to lose work with git short of a hard drive failure to be overstated. More than once I've tried to move/rename the folder containing a local repo only to have some of the files *not* get moved due to some background process holding a lock and struggled to get everything put back into working order again.\n\nI do like that I can start a little project and use version control before it's ready to be shared (assuming it's ever shared; sometimes it's just personal stuff). Technically you can do that with SVN (using the file:/// protocol) but it's a little awkward.\n\n>I don't see any advantage to my branch being viewable only by me and I do see advantages to it being viewable to everyone\n\nIt's a trade-off and personal preference. I've been bitten by people pulling WIP from my branch into theirs when they shouldn't have, though to be fair that's happened less frequently than wanting to share stuff on my branch with someone else. Git doesn't prevent you from doing that, though, it just makes it a little harder.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrltbe9/",
+    "parent_id": "t1_mrh39yy",
+    "created_utc": 1746892472.0
+  },
+  {
+    "id": "mrfi671",
+    "author": "wildjokers",
+    "body": "I agree, everyone touts the distributed nature of git, but in a corporate env everyone pushes to a centralized repository anyway so its distributed feature doesn't matter.\n\nAlso agree about the sha1 hash as the version. The subversion global revision numbers make much more sense.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfi671/",
+    "parent_id": "t1_mrfbczp",
+    "created_utc": 1746803111.0
+  },
+  {
+    "id": "mrg7m05",
+    "author": "y-c-c",
+    "body": "> Corporate developers should not be able to lose their committed work if their laptop is stolen, or take their last N commits with them if their employment is terminated. I know you can push but my belief is that it shouldn't be possible to not do the equivalent of a push.\n\nI mean, even without Git you would still have the entire repo checked out which isn't something you should leak. Seems like focusing on Git for security issues is the wrong tack here while there are lots of other ways to protect your laptop. A lot of more serious works do not let you check out a local repository to a laptop anyway but that's not because of Git's local copies but because just having a mobile local checkout is considered dangerous. In those types of system you usually have to remote to a work machine.\n\n> Everyone working on an internal project will ultimately be merging their changes to the main branch. Their work belongs to the company, not to them.\n\nThe decentralization model isn't just about having a machine-local copy. I think that's a myopic way of understanding Git. It's essential to allowing forks, the entire Git branching model, rebasing and amending commits, etc.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrg7m05/",
+    "parent_id": "t1_mrfbczp",
+    "created_utc": 1746810855.0
+  },
+  {
+    "id": "mrh2aey",
+    "author": "ritchie70",
+    "body": "In most other systems the repository is on a server somewhere and you have a local working copy. \n\nI'm not concerned about security and leaks, I'm concerned about lost work. Git lets you toil away for years (if you're dumb enough to do it) with the only copy of the repository on a single system. (Yes you can do that in other VCS but it's not the typical way to configure them.)\n\nI don't really understand rebasing to be honest.\n\nI don't know of any reason you should be able to amend a commit. It's weird.\n\nI don't have any idea what about forks or branching requires the repository to be on the local machine. CVS and Subversion both allow branching and it works fine.\n\nForks in the sense of \"I don't like how this project is being run so I'm going to make my own project with blackjack and hookers\" aren't usually a thing in corporate development and that's what I'm talking about here, not open source.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrh2aey/",
+    "parent_id": "t1_mrg7m05",
+    "created_utc": 1746820203.0
+  },
+  {
+    "id": "mrh8smz",
+    "author": "y-c-c",
+    "body": "> I'm concerned about lost work. Git lets you toil away for years (if you're dumb enough to do it) with the only copy of the repository on a single system. (Yes you can do that in other VCS but it's not the typical way to configure them.)\n\nYou would push to a server (which should have backups), problem solved? Personal projects can be pushed to GitHub, and corporate projects (which is what you are concerned with) would *definitely* be regularly be pushed to the company server. If you are not pushing your work then no one is using those code, then what is the company paying you for? I guess I don't see how this is different from any VCS system where the developer just refuses to share.\n\n> I don't really understand rebasing to be honest.\n>\n> I don't know of any reason you should be able to amend a commit. It's weird. \n\nTo be honest I think you should try to understand those topics first as they are quite central to how Git works. It seems to me you may not have used Git enough and therefore looking at it from the lens of CSV/SVN/Perforce/etc, without properly understanding the Git model (e.g. commits are first class citizens stored in a DAG, unlike in SVN/etc where files are first class citizens with commits stored as implicit diff's, etc).\n\nRebasing and commit amendments allow you to iterate on work and store intermediate progress before they are pushed to the main branch. The point here is that you can do experiments and local iterations and have them be backed up and tracked in the VCS before they are ready for prime time. Then when you are ready, you squash the changes to a more presentable state, and maybe drop some experimental commits that didn't work etc.\n\nYou don't really amend that's in the main branches (since that would screw it up for everyone else and most Git servers would block that). You only do that for your own development branches while you are still iterating.\n\nThe alternative in say SVN is that you just store everything on a local machine and not have your work-in-progress intermediate work backed up. That means you could lose work, and you don't have easy ways to restore back to prior intermediate states. You could also just check in those intermediate work to a feature branch but now your version history is permanently polluted with one-line changes with commit messages that say \"fix that bug\" making the history hard to decipher 2 years from now.\n\n> I don't have any idea what about forks or branching requires the repository to be on the local machine. CVS and Subversion both allow branching and it works fine.\n\nAs I said, this applies to it being a decentralized VCS (DVCS), with the \"local copy\" part being part of what DVCS brings to the table. Git branches is a complete clone of the repository which is cheap and allows for a richer manipulation than what CVS / SVN can do. It's also very lightweight as it's simple an extra pointer. SVN branches are basically just file copies. They claim to have \"cheap\" branches since the data is not copied (unlikes past systems like CVS) but you still have to copy all the metadata, which can be quite expensive for a large repo. Also the branches are then permanently stored on the server which disallows the kind of iteration described above. A Git branch is something you can create on the fly and create your own development work on top, and when you are ready you merge that change back in to the main branch, but you usually do this for every single feature, unlike in SVN you would usually do that for big features since creating a branch is a little heavier.",
+    "score": 2,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrh8smz/",
+    "parent_id": "t1_mrh2aey",
+    "created_utc": 1746822205.0
+  },
+  {
+    "id": "mrx7z1n",
+    "author": "elephantdingo",
+    "body": "> I don't really understand rebasing to be honest.\n> \n> I don't know of any reason you should be able to amend a commit. It's weird.\n> \n> I don't have any idea what about forks or branching requires the repository to be on the local machine. CVS and Subversion both allow branching and it works fine.\n\nBut all of these are useful.\n\nA backup tool is simpler. Using a version control system for emergency backup is the insanely complicated part.\n\nSome scripts to both commit and push in the step and you’ll have your corporate friendly version control system. Almost.\n\nBut rather than show some humility and go with the working theory that other people might need and find genuine use for these things that Git provides, you decided to go with the strategy of telling off random redditors that they are hoarding their code From Their Boss, stealing The Company’s Property. Peak managerities.",
+    "score": 0,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrx7z1n/",
+    "parent_id": "t1_mrh2aey",
+    "created_utc": 1747061713.0
+  },
+  {
+    "id": "mrxi2ba",
+    "author": "ritchie70",
+    "body": "You are reading things into my comment that I don't believe are there.\n\nIt's my opinion. It doesn't mean I'm forcing it on anyone. I'm mostly just complaining about what I find to be an incredibly unfriendly tool somehow becoming the de facto standard.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrxi2ba/",
+    "parent_id": "t1_mrx7z1n",
+    "created_utc": 1747064697.0
+  },
+  {
+    "id": "mrjt0my",
+    "author": "redit3rd",
+    "body": "We have a bot that pushes tags with incremented versions on a schedule. ",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrjt0my/",
+    "parent_id": "t1_mrfbczp",
+    "created_utc": 1746858970.0
+  },
+  {
+    "id": "mroku4i",
+    "author": "bwmat",
+    "body": "There's `git describe` which will generate a somewhat better name if you ever make tags",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mroku4i/",
+    "parent_id": "t1_mrfbczp",
+    "created_utc": 1746927804.0
+  },
+  {
+    "id": "msbdx5o",
+    "author": "ExcellentRuin8115",
+    "body": "I mean surely they have their reasons for the version thing. And many people like you are used to doing things in the terminal rather than a GUI (me also) cause most of the times if you know how to use the terminal correctly you'll do the job faster and more effeciently than with a GUI, but the downside is that git is a very complex tool when it comes to edge cases (or sometimes not even edge but normal cases where you need to remember a lot of commands/parameters)",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbdx5o/",
+    "parent_id": "t1_mrfbczp",
+    "created_utc": 1747247906.0
+  },
+  {
+    "id": "msbxuo0",
+    "author": "ritchie70",
+    "body": "The version thing is very simple - there's no central authority to issue a version number, so if Alice and Bob are both working on the project, Alice's version 1.5 might be radically different than Bob's 1.5. \n\nThey're doing a hash of something to create that \"version number\" and that will be unique across multiple users/repositories.\n\n(I mean, I assume a hash collision isn't impossible, but it's so unlikely that it might as well be, especially since it's only within the same project that a collision would matter.)",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbxuo0/",
+    "parent_id": "t1_msbdx5o",
+    "created_utc": 1747253735.0
+  },
+  {
+    "id": "mrf29vi",
+    "author": "marcocom",
+    "body": "If you’re talking about basic git and how to use it locally as a developer, it’s easy to learn, especially if you spend a little money on a good IDE that visualizes the history and etc, it’s a powerful ally to a dev. (It’s very important to think of it as a tool for you, and not a a requirement for the job. That’s the wrong attitude, though understandable)\n\nHowever I architect design systems that utilize a ton of build and testing automation. Jenkins, kubernetes, docker, type checking and validation, all of that bullshit, to a new developer, is all happening in ‘git’ as an interface. That’s pretty fucking confusing and I definitely , as a lead, do not expect an engineer to just grasp all of that and could easily be misinterpreted. \n\nThat’s why we use a wiki.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf29vi/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746798074.0
+  },
+  {
+    "id": "mrf44py",
+    "author": "Quartersharp",
+    "body": "I think the thing is, the things you are eventually going to want to do with Git are complex. There’s no getting around that. Git just makes those things possible.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf44py/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746798692.0
+  },
+  {
+    "id": "msbea2v",
+    "author": "ExcellentRuin8115",
+    "body": "like \"a great power comes with a great responsability\"",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbea2v/",
+    "parent_id": "t1_mrf44py",
+    "created_utc": 1747248009.0
+  },
+  {
+    "id": "mrfcxm8",
+    "author": "Then-Boat8912",
+    "body": "When shit hits the fan it suddenly becomes complicated. Happy path is fine.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfcxm8/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746801513.0
+  },
+  {
+    "id": "msbfnxa",
+    "author": "ExcellentRuin8115",
+    "body": "happy path is not always the solution. If you need to choose between going for the easy path and going for the hard path surely youll choose the easy one, but sometimes the easy one is blocked by a guardian called \"complexity\" who will force you to go for the hard path",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msbfnxa/",
+    "parent_id": "t1_mrfcxm8",
+    "created_utc": 1747248411.0
+  },
+  {
+    "id": "msgp3mv",
+    "author": "Then-Boat8912",
+    "body": "Maybe try Subversion. It was simpler",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/msgp3mv/",
+    "parent_id": "t1_msbfnxa",
+    "created_utc": 1747322771.0
+  },
+  {
+    "id": "mrfczxn",
+    "author": "am5a03",
+    "body": "Yes, it takes time to learn. But from day to day operations, most of the time is fetch, pull, push, merge/rebase and resolve conflicts. \n\nThe complex thing about it is not just the tool, but also the branching model and how your team or coordinators manage the code.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfczxn/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746801534.0
+  },
+  {
+    "id": "mrffj85",
+    "author": "wildjokers",
+    "body": "Creating a feature branch, merging it back to main, easy peasy.\n\nIt gets complicated very quickly though. Once you start needing to merge branches of branches (especially with squashed commits on earlier branches), submodules (for your sanity avoid at all costs), rebasing, cherry-picking, etc. Complexity goes way up.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrffj85/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746802314.0
+  },
+  {
+    "id": "mrfg2kw",
+    "author": "chevalierbayard",
+    "body": "I've been doing the basics for a while so it doesn't feel that complicated but git GUIs exist and people pay for them so clearly it is somewhat complicated.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfg2kw/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746802477.0
+  },
+  {
+    "id": "mrfgv2f",
+    "author": "evergreen-spacecat",
+    "body": "Many things are complex. An operating system is incredibly complex but you may only need to use the basics. Same with git, a basic workflow works for many",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfgv2f/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746802714.0
+  },
+  {
+    "id": "mrfh4yc",
+    "author": "bellowingfrog",
+    "body": "Yes, it’s overly complex. It’s often unintuitive. It was designed and is maintained by hardcore programmers.\n\nThe reason it could become widespread is that search engines and stack overflow allowed people to figure out how to do X or Y or Z. So you would search for what you wanted to do, and then someone would have posted the 1-4 git commands you must run to achieve that.\n\nThe hardcore linux people always say (even before git was invented), just read the man page and spend some time learning it from the ground up. The problem with that is 1.) that just isnt how most humans brains work 2.) if everything took that approach, our world would suck.\n\nImagine if every videogame required you to grep through a man page for a few hours before you could play. Would you really want to bother? If someone invented a great new car, but it required a day of reading and learning before you could drive it, would it be very successful? \n\nThere are many things the git maintainers could and can still do to improve usability. They just dont care that much. It’s like trying to explain to 1960s auto execs that they should focus on constantly improving quality and reliability. They’d just emphatically tell you that their cars are already good enough.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfh4yc/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746802795.0
+  },
+  {
+    "id": "mrfhj6y",
+    "author": "nekokattt",
+    "body": "What parts do you find unintuitive and why?",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfhj6y/",
+    "parent_id": "t1_mrfh4yc",
+    "created_utc": 1746802915.0
+  },
+  {
+    "id": "mrfohde",
+    "author": "ScholarlyInvestor",
+    "body": "It's like the Tax Code... More complexity gives you the ability to pay minimum tax but you can always file 1040EZ (pull, checkout, commit, push)",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfohde/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746805034.0
+  },
+  {
+    "id": "mrfpvvs",
+    "author": "readmond",
+    "body": "Git command line was designed by ants lost in the watch.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfpvvs/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746805456.0
+  },
+  {
+    "id": "mrfszuw",
+    "author": "Character-Education3",
+    "body": "I think alot of people don't know what it is doing or even what it is for. And some people are young enough to not understand how you would have to do version control before git, before tfs, before any version control tools existed to see the value in it.\n\nThey just know it's a thing that everyone talks about and they need to pretend to know what it is and how to use it. \n\nThen once you need to use it, it is like oh this is really straightforward most of the time.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfszuw/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746806395.0
+  },
+  {
+    "id": "mrfvuti",
+    "author": "cosmokenney",
+    "body": "Git is quite simple... until you run into a problem. Then its like it is Jason Voorhees. It just keeps trying to kill you. Even after you think you killed it. It keeps coming back and trying to kill you.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfvuti/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746807278.0
+  },
+  {
+    "id": "mrfxr59",
+    "author": "freekayZekey",
+    "body": "honestly think the problem is people not reading the git book. the subject is complex, but makes sense when you actually start reading instead of looking at some youtube videos. it’s a similar issue i see with people not understanding java features. they gloss over the JEPs, watch some YouTube videos or find a blog, then blindly use them ",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfxr59/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746807861.0
+  },
+  {
+    "id": "mrg3m3o",
+    "author": "mcds99",
+    "body": "Git was written by Linus T.  He wrote the first Linux, of course it's complex.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrg3m3o/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746809647.0
+  },
+  {
+    "id": "mrg3r56",
+    "author": "TarnishedVictory",
+    "body": ">How many of you think git is a complex tool\n\nTo be fair, the fact that it's a distributed system makes it more complex than the simpler central type systems that preceded it, such as perforce. \n\nHaving said that, I think it has the perception of being complex because of the above, but most people get over that after using it a bit and realize they just need to remember very few commands.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrg3r56/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746809689.0
+  },
+  {
+    "id": "mrg55og",
+    "author": "Tacos314",
+    "body": "Gits not complex at all.... soo guess I don't think git is a complex tool.\n\nI don't understand why people can't get git, other then they don't want to.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrg55og/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746810110.0
+  },
+  {
+    "id": "mrg75wk",
+    "author": "the_jester",
+    "body": "This thought is incomplete.\n\nAre we talking about complexity of design, complexity of the official implementation or of the user interface? I'd actually argue \"under the hood\" Git is radically elegant. The core algorithm is a [DAG](https://en.wikipedia.org/wiki/Directed_acyclic_graph) of diffs. This design accomplishes what it set out to do so well that you get astounding benefits \"for free\" (ex: cryptographic signing of individual changes, fast diffs, powerful delta compression of files).\n\nI personally think the actual CLI is not particularly ergonomic, but perhaps that is why so many alternative CLIs, CLI helpers and GUI tools exist to complement or replace it.\n\nAlso, are these \"many people\" students who haven't had much chance to use *any* complex CLI software before? Or are they people who regularly use complex pieces of software?",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrg75wk/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746810721.0
+  },
+  {
+    "id": "mrgcbdq",
+    "author": "donttakecrack",
+    "body": "there's a high learning curve for newcomers but you can keep it simple just to do basic code management. afterwards, it's only as complex as you make it.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgcbdq/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746812270.0
+  },
+  {
+    "id": "mrgfg10",
+    "author": "TallGreenhouseGuy",
+    "body": "Oldie but goodie:\n\n[Ten things I hate about got](https://stevebennett.me/2012/02/24/10-things-i-hate-about-git/)",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgfg10/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746813197.0
+  },
+  {
+    "id": "mrgh9g5",
+    "author": "RolandMT32",
+    "body": "It seems more complex than similar tools such as CVS, and in a sense it is, but I think that's because it allows better branching and merging. In the end, I think Git actually makes things easier.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgh9g5/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746813737.0
+  },
+  {
+    "id": "mrgjdhl",
+    "author": "bearicorn",
+    "body": "Not complex at all for 99% of my workflow. The other 1% is usually resolved fairly easily.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgjdhl/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746814378.0
+  },
+  {
+    "id": "mrgjka5",
+    "author": "Krazy-Ag",
+    "body": "I don't think it is all that complex. I do agree with the author of the Earth while bazaar BZR Version control tool: it makes your eyeballs bleed. Commandline tools and names options that are inconsistent call e.g. sometimes -d delete, sometimes remove deleted",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgjka5/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746814435.0
+  },
+  {
+    "id": "mrgmjbp",
+    "author": "FarVision5",
+    "body": "Before AI absolutely.  Fast forward /remote/ local/ PR/checkout/merge/stash/pop/GitLens/Kraken/mess/mess/mess\n\narcane and terrible.\n\n  \nNow?  I know enough to know to ask for and I copy and paste that into the project in windsurf/roo/cline, and it just goes.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgmjbp/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746815337.0
+  },
+  {
+    "id": "mrgmzi0",
+    "author": "daking999",
+    "body": "If you're a software engineer it's fine. I work in an academic computational biology lab where it is massive overkill (and too complex) for the small projects we do. ChatGPT is v helpful though.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrgmzi0/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746815473.0
+  },
+  {
+    "id": "mrh0io5",
+    "author": "cgoldberg",
+    "body": "It's easy to learn a simple workflow and master a few commands, but overall it's a VERY complex tool.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrh0io5/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746819655.0
+  },
+  {
+    "id": "mrh1lsu",
+    "author": "NotSoMagicalTrevor",
+    "body": "It feels complex because the tool itself is simple. I don't think git itself is complex, but it ends up exposing the underlying complexity of source-control management to the user, so it feels that way. Other tools get more between you and the underlying complexity, so the tool itself is complex, but they feel simple.\n\nPersonally, I like git and don't find it confusing. But I've worked with other people that for the life of them couldn't gasp \"basic\" (to me) git concepts.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrh1lsu/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746819993.0
+  },
+  {
+    "id": "mrh6n9g",
+    "author": "midnitewarrior",
+    "body": "git is a simple tool. Managing source code is hard. git is one way to make it easy.\n\nAlternate explanation:\n\nWhy are rockets so complicated? Defying gravity is hard. Rockets make it easy to defy gravity.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrh6n9g/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746821542.0
+  },
+  {
+    "id": "mrhddqz",
+    "author": "Sorry-Programmer9826",
+    "body": "Do you use command line git or some sort of UI driven tool. It's a lot easier with a tool holding your hand. I was originally taught git on command line and my feelings were \"What the hell is this?\".\n\n\nA few years later I came back to it with a GUI and it made a lot more sense",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrhddqz/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746823612.0
+  },
+  {
+    "id": "mrhrbja",
+    "author": "MitjaKobal",
+    "body": "I started using git 16 years ago and I kind of remember it being a bit more difficult than SVN. Those were early days and some commands were still being worked on. The main reason I stuck with git, was I did not have to setup a webserver for SVN every time I moved to a new machine, and in those days, this was often.\n\nSo after 16 years I find it easy to use and I recommend it to everybody, but I am unsure how difficult it will be for them. I did a few git migrations at companies, and I found, it is not worth writing a custom tutorial document, the ones suggested by google are good enough. I just sat down with a few developers and walked them through the initial setup, and after a week went back to check if they used it and if not I helped them do the next commit. Later I just commented on things like committing unnecessary binary files or missing commit messages.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrhrbja/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746828180.0
+  },
+  {
+    "id": "mrhscu8",
+    "author": "KagatoLNX",
+    "body": "I think it’s solving a complex problem.\n\nMost of the simplifications that people propose would make it into Subversion—and we abandoned it for a reason.\n\nGit aims to be a general purpose tool and it succeeds.  I’ve seen a lot of people try to wrap it with something simple.  Inevitably, debugging the wrapper teaches you why git does what it does.  At some point, people then just go back to git because they understand it now.\n\nI’d be interested in exactly what people think should be simpler.  There’s a lot of discourse to be had there and it’s a good way to positively address the issue.  Because “git is too complex” is as old as git itself, and it never goes anywhere.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrhscu8/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746828538.0
+  },
+  {
+    "id": "mrhutap",
+    "author": "maverickzero_",
+    "body": "Yes, but 90% of the time you only need to touch 10% of the complexity.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrhutap/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746829401.0
+  },
+  {
+    "id": "mrhvvo2",
+    "author": "rebcabin-r",
+    "body": "Rebase a b, or rebase b a ?",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrhvvo2/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746829781.0
+  },
+  {
+    "id": "mrhy4eu",
+    "author": "TheMrCurious",
+    "body": "If you have to know git to use git them git is overly complex.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrhy4eu/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746830589.0
+  },
+  {
+    "id": "mri1ryj",
+    "author": "crhntr",
+    "body": "I had a job for over 5 years where I'd integrate work from around 20 teams into long term support branches for a relatively complicated product. For me, using Git is second nature. Recently, I got stuck helping my partner (a computer science student) use Git on her Windows machine. Even after years helping developers troubleshoot complicated merge conflicts, I had a hard time bootstrapping basic Git skills with her. My problem was mostly a Windows skills issue on my part (I use Mac/Linux for everything). But it reminded me how steep the Git learning curve can be. If you're trying to learn it and anything else simultainiously, you're gonna have a bad time. It's kinda like trying to learn Ruby on Rails with out knowing Ruby. Before you learn Git, it's important to know how to use your terminal and a terminal text editor. If you are trying to integrate it into a learning process of a new programming language, it's also just gonna feel bad.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mri1ryj/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746831897.0
+  },
+  {
+    "id": "mri1urx",
+    "author": "crhntr",
+    "body": "I've heard good things about JJ (https://github.com/jj-vcs/jj) and want to give it a try soon. I heard it makes simple version control operations easier to reason about.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mri1urx/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746831924.0
+  },
+  {
+    "id": "mrid291",
+    "author": "Gwildes1",
+    "body": "How many who’ve been using git for a year or more think so?",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrid291/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746835992.0
+  },
+  {
+    "id": "mriiqbg",
+    "author": "EarthManSammy",
+    "body": "While it is a fantastic tool and Linus is brilliant to have written the original in such a short time, I wish the command line were more logical and consistent. It could have been much more intuitive if the design from the start prioritized that, and people struggle with it as a result.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mriiqbg/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746838134.0
+  },
+  {
+    "id": "mriivxg",
+    "author": "Leverkaas2516",
+    "body": "Yes, it's complex. Same as C++ is complex: day to day, I can go a long time without needing any kind of reference, but some situations have me scratching my head and looking for advice.\n\n\nI take it as axiomatic that a simple tool, like Notepad or vim, will not require a person with a CS degree and 40 years of industry experience to seek help from a guru for help in escaping a predicament.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mriivxg/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746838192.0
+  },
+  {
+    "id": "mrika85",
+    "author": "dbalatero",
+    "body": "I think it's complex but I also have no time for folks who don't learn the tool (at a certain YOE).",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrika85/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746838723.0
+  },
+  {
+    "id": "mrj5hd5",
+    "author": "7heblackwolf",
+    "body": "On a daily basis is not hard. I barely use it because it's dumb. I use git-fork. I only use it when I want to do something very specific or have manual control on every step.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrj5hd5/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746847152.0
+  },
+  {
+    "id": "mrj8mdf",
+    "author": "FailedAtAll",
+    "body": "I don't think it's too complex for everyday use.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrj8mdf/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746848541.0
+  },
+  {
+    "id": "mrjgamp",
+    "author": "kilkil",
+    "body": "IMO it is complicated. It's not necessarily that it's complicated to use, or that its high-level concepts are necessarily complex. But as a tool itself it clearly has layers upon layers of functionality. I'm still discovering new things about it basically every other day.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrjgamp/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746852127.0
+  },
+  {
+    "id": "mrjgh1t",
+    "author": "StickyDirtyKeyboard",
+    "body": "You might as well be asking the same question, but replace 'git' with 'computers'. Are computers too complex and hard to learn? Sure I guess? It depends on how you use them and what you do with them. Use them for a bit, and your specific workflow with them will become second nature.\n\nYou don't need to know the detailed internal workings of a computer to be able to do something like browse the web or play games. Neither do you necessarily need to know all the rarely used advanced features of Git to be able to proficiently use it for what you're trying to do.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrjgh1t/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746852214.0
+  },
+  {
+    "id": "mrjmlrx",
+    "author": "mattbillenstein",
+    "body": "Git is complicated if you use all of it - we cut feature branches, forbid force pushes and rebasing, and squash merge features to main. We don't waste time or lose work trying to do all these crazy complex workflows; branches are short-lived and ephemeral except for main.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrjmlrx/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746855322.0
+  },
+  {
+    "id": "mrjso8v",
+    "author": "redit3rd",
+    "body": "So long as I stick to my primary workflow it's not complicated. But if something goes wrong it's an impressive time sync to correct the issue. ",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrjso8v/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746858768.0
+  },
+  {
+    "id": "mrjvhrl",
+    "author": "evanvelzen",
+    "body": "The UX when rebasing or working with submodules is pretty bad.\n\nI know how to do it but when explaining it to others it becomes clear the terminology is not always intuitive.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrjvhrl/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746860414.0
+  },
+  {
+    "id": "mrjyz9g",
+    "author": "jayc666",
+    "body": "Git does not enforce any specific way of work, so its very much up to the developers to use it correctly and consistently. Unfortunately many teams does not discuss how they want to use git before using it, so it becomes a complicated mess. If you use it correctly, its not complicated at all.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrjyz9g/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746862510.0
+  },
+  {
+    "id": "mrk3fvx",
+    "author": "rwaddilove",
+    "body": "I tried it, but couldn't get it to work properly. I stopped using it.\n\nA bit of background: I have two computers (desktop + laptop) and a github account. I thought if I edited code on one computer, I could push the changes to github. Since github always has the latest version, if I use my other computer I could pull it off and continue coding.\n\nMaybe I'm misunderstanding git, but I thought it could do this. However, I could never get it to work. I can create, push, clone etc. Just when I think I've got it set up correctly on both computers, it fails, usually pulling updates. I have to delete the project folder and clone again.\n\nI'm only doing this to learn git. Programming is a hobby - it's more fun than brain training apps.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrk3fvx/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746865241.0
+  },
+  {
+    "id": "mrku6lj",
+    "author": "wayofaway",
+    "body": "That is more or less what I use it for... I have a laptop, desktop, and Oracle server. When I am done on one of the systems I commit and push, the. At the start of the next session pull, and pick up from there. \n\nIt sounds like a setup issue, sorry to say I am too much of a git noob to be of any real help.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrku6lj/",
+    "parent_id": "t1_mrk3fvx",
+    "created_utc": 1746880010.0
+  },
+  {
+    "id": "mrkl77l",
+    "author": "jaybird_772",
+    "body": "People do often struggle with git, but I don't think the real culprit for why is git itself. I think the real complexity lies with the data it operates on. Blobs, trees, and commits. The Book spends a lot of time trying to explain what these are because if you don't understand them, you'll likely be distressed by, e.g., the dreaded \"detached HEAD mode\". It'll feel like you've done something you shouldn't have, and you might not know how to get back to \"safety\". Or maybe you'll have learned a magic incantation to do so that you don't really understand. **I** certainly remember when, partly because it doesn't feel like all that long ago.\n\nOf course if you do understand the underlying stuff git works with at least well enough, navigating through commits and branches, doing rebases and merges, those things stop being mysterious, and the major functions of git start to feel like they're not very complex at all.\n\nI think this is why so many \"easy\" git interfaces get created and also why they tend not to catch on in the end. The hard part is the stuff The Book spends so much time trying to explain, and which still winds up leaving people scratching their heads.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrkl77l/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746875829.0
+  },
+  {
+    "id": "mrl3tgz",
+    "author": "tuffo19",
+    "body": "I think it is quite easy, once you start exploring the commands.\n\nThe only thing i hate: house difficult it is to understand where a commit comes from. \n\nOr which commit a branch started from",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrl3tgz/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746883801.0
+  },
+  {
+    "id": "mrl7c0q",
+    "author": "Annoying_cat_22",
+    "body": "I consider git scary because one a month (or more) I need to do something that isn't pull/push and I am scared the whole repo will explode if I have a typo. It needs a dry-run mode or something.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrl7c0q/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746885100.0
+  },
+  {
+    "id": "mrlmtzq",
+    "author": "LordSpaceMammoth",
+    "body": "It's obviously complex. it is a complex tool designed to handle a complex job, and it has layers of functionality that go deeper and deeper. And, 99% of the time, I'm doing 'commit $fiels -m \"stuff\"', which is as simple as version control is ever going to be.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrlmtzq/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746890363.0
+  },
+  {
+    "id": "mrm7mw7",
+    "author": "donneaux",
+    "body": "Complex and too complex are entirely different descriptors. One means “I need to invest time to learn it” while the other means “the time I would invest to learn this is not worth it”\n\nWalking on two legs is complex, driving a car is complex, operating a web browser is complex.\n\n“Too complex” is really just a euphemism for “intimidating”",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrm7mw7/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746897169.0
+  },
+  {
+    "id": "mrnbbih",
+    "author": "StillEngineering1945",
+    "body": "Git is a DAG. The moment you understand it is the moment you know it all.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrnbbih/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746910546.0
+  },
+  {
+    "id": "mrnvfv4",
+    "author": "StackOwOFlow",
+    "body": "git is just training us to be masters of multiversal timelines",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrnvfv4/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746917954.0
+  },
+  {
+    "id": "mroroq1",
+    "author": "Tintoverde",
+    "body": "It is version control, I do not do fancy stuff. Respect its complexity or any version controls inherent complexity. Clone , checkout , do the change, commit and push often. Conflict ? New branch from master .",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mroroq1/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746930536.0
+  },
+  {
+    "id": "mrp4x5m",
+    "author": "ElderberryNo6893",
+    "body": "Put down your ego and use a UI for git",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrp4x5m/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746936194.0
+  },
+  {
+    "id": "mrqnjs7",
+    "author": "BarnabyColeman",
+    "body": "Most users simply need a version control file repo. They don't need merging and branches and commits. They need to be able to save a file, share that file, edit that file, and be able to roll back to previous versions.\n\nA lot of users don't need the actually good techy features lol.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrqnjs7/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746967052.0
+  },
+  {
+    "id": "mrra8cg",
+    "author": "datsundere",
+    "body": "I keep my flow simple. One big commit for my feature so it’s easy to rebase on top of main",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrra8cg/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746975383.0
+  },
+  {
+    "id": "mrrqj4p",
+    "author": "Iojpoutn",
+    "body": "It feels too complicated any time I need to do something that version control is meant to enable you to do. It all goes well until I need to revert something back to how it was in a previous commit or resolve conflicts with something someone else did, and then I have to spend a bunch of time researching and trying things, while feeling very nervous that I’m just making things worse.\n\nI’m often left feeling like it would have been easier to just save new files as I go and copy/paste code from old files if I need to.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrrqj4p/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746980576.0
+  },
+  {
+    "id": "mrru0ju",
+    "author": "sarnobat",
+    "body": "I used to find cvs just as complex and counter intuitive in terminology.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrru0ju/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746981698.0
+  },
+  {
+    "id": "mrrzj8n",
+    "author": "Flandiddly_Danders",
+    "body": "I have successfully edited projects, looked at past versions, and uploaded new ones without really understanding all the vocab or how it all works.\n\n\nIt's reasonably easy to use day to day I would say",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrrzj8n/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746983441.0
+  },
+  {
+    "id": "mrtflgu",
+    "author": "Mango-Fuel",
+    "body": "for sure it's \"complex\". it is maybe not \"too complex\" but rather, arcane.\n\nI think it needs better documentation. even when you see demonstrations with diagrams they can be a bit confusing. once you realize that git never changes commits, it only makes new ones, including \"copying\" old ones to new ones, it makes more sense; especially if you take a look at gitk --reflog.\n\nother than that, there are some confusing things that could be simpler, like rebasing nested branches.\n\nand using a specific set of commands (that are not default) can keep your history very clean, but you have to know about them and use them correctly. (you can make these the default yourself). generally:\n\n* never `git pull`, only `git pull --rebase`\n* never `git merge`, only `git merge --no-ff`\n   * (exception: use `--ff-only` for trivial commits)\n* never `git rebase b1 b2`, only `git rebase b1 b2 --update-refs --rebase-merges`\n   * (only necessary with nested branches; not completely foolproof, still have to be careful if there are a bunch of branches)",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrtflgu/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747000512.0
+  },
+  {
+    "id": "mrto2hk",
+    "author": "Pale_Height_1251",
+    "body": "It's not complex but the UI is very awkward if you're doing stuff beyond the basics.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrto2hk/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747003578.0
+  },
+  {
+    "id": "mrug1y0",
+    "author": "lukevidler",
+    "body": "It's had its time right ? Surely there is something better by now ?",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrug1y0/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747014285.0
+  },
+  {
+    "id": "mrv47oa",
+    "author": "Zealot_TKO",
+    "body": "if you're new to git and just want to \"survive\" (rather than learn and thrive), just do as the xkcd comic suggests: [https://xkcd.com/1597/](https://xkcd.com/1597/)",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrv47oa/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747024916.0
+  },
+  {
+    "id": "mrvn4g5",
+    "author": "areciboresponse",
+    "body": "The problem is people memorize the commands and don't understand the concepts too often. It's not that complex if you understand a few fundamental concepts.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrvn4g5/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747035895.0
+  },
+  {
+    "id": "mrw71sd",
+    "author": "StillBroad3444",
+    "body": "Nah, it's super easy. You probably need to use it more often",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrw71sd/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747047997.0
+  },
+  {
+    "id": "mrwtu28",
+    "author": "evo_zorro",
+    "body": "Git is complex, because it's solving a complex problem.\n\nI've used git for well over a decade now, I've contributed to some tools and helped migrate teams to git for SVC, so keep in mind that I am definitely biased, and arguably not your typical user (ie I'm quite familiar and comfortable using its more obscure features).\n\nRight off the bat, the question is malformed: \"is git too complex\" can only really yield one honest answer: that depends on what you're doing. Are you trying to track binary files as efficiently as possible? Then git isn't complex enough. Are you trying to branch quickly, and merge efficiently, and want to be able to work offline? Git isn't too complex, it's rather perfect for that use case. Are you working on a side project, where you are the sole contributor, and you're not looking to share the repository, let alone commit history with anyone? Git is probably overkill, but is it impeding your work? Probably not. It does add a bit of redundant complexity to your workflow, so in that sense, git is too complex, but then again, any SVC is too complex for a use case like this.\n\nI've heard the complexity complaints a lot over the years, especially from people new to git. They struggle with concepts like staged and unstaged (dirty working tree), they find it illogical that switching branches can result in git shouting at you because of files it's not tracking (on the branch you're currently on at least). They more often than not think that accidentally committing a file can be undone with a simple `git rm --cached`. All of these issues stem from a lack of understanding on the git internals. Now there is a case to be made for a tool being too complex if its user needs to know some of the internal workings, but I found it useful to boil it down to the following two statements:\n\n1. Git is decentralized. You run a git rm command on your copy of the repo. By design, there is no single source of truth. You've made a change to your repo, and pushing that change is an append only operation. In DB terms, your git rm is a soft delete.\n2. Git will happily allow you to do all but one thing: completely remove something. That's its entire reason for existing: to not lose work, ergo removing anything is hard, by design.\n\nAnother thing I've noticed over the years is that git feels like an overly complex tool to new users, because of user error. Do you find resolving merge conflicts difficult, and time consuming? That's fine, but ask yourself the question why you're dealing with conflicts as often as you do. I find myself resolving conflicts perhaps once or twice a week, even when working on a relatively long lived branch, when 5-10 other people are working on the same repository. The real difficulty often isn't git itself, it's the paradigm shift it requires: branch often - branches are cheap, commit often, and as long as you're the branch isn't public, feel free to rebase/squash everything, it's quick to do. Adopt good policies and code structure, and chances are you can cut down your conflicts by 75% (that's a number we actually measured over 4 months, when we changed git workflows in 4 teams for a total of ~30 devs).\nWith the right flow, based on your needs, 95-100% of your git interactions are reduced to 5-10 commands (add, commit, push, merge, checkout, log, rebase (more on this one below), diff, reset). \n\nLastly, some of the golden rules I preach:\n\n1. Don't use a feature if you don't understand what it does. I have no issues adopting a rebase flow. I just expect people to know why they've opted for a rebase policy, and I expect everyone on the team to understand what it does. If people don't understand that they're rewriting their own commit history, they'll eventually screw up, panic, and work will get lost.\n2. I recommend someone who is familiar with the desired workflow to whip up a sensible gitignore file, and perhaps provide some hooks. Hooks are local, though, and should always be treated as optional. Make them useful, and non-invasive, so people don't feel encumbered by them.\n3. When people are new to git, I strongly advise them to use the CLI, rather than a GUI. Learn how to use the tool directly, for the rare eventuality something goes wrong, or you need that exotic feature. When googling how to use something like git fsck, or check your packlog, you're sure to find documentation and commands, not so much a step-by-step guide for your specific GUI client.\n4. The CLI has its quirks, and used to be incredibly obtuse and counter intuitive. Some of these odd things have remained (e.g. ours vs theirs), but same is true for all software. \n\n## TL;DR\n\nYes git is complex, that's fine. Is it too complex? No. It can be overwhelming because of misuse, misunderstanding, lack of understanding, but if used responsibly, it's no harder than any of the alternatives.\nThe only thing that is more complex than it needs to be are the relics of the clunky UI from the early days.\nIf you think I'm wrong, feel free to switch over to svn, with your entire team, and let me know how much you *love* branches in svn. Mercurial is probably the only other SVC system I'd consider to be a viable alternative, and could indeed be a better option if you're doing stuff that requires tracking blobs, but in terms of complexity, it's not really all that different. If you're used to git, switching to hg will feel weird, and vice versa",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrwtu28/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747057222.0
+  },
+  {
+    "id": "mrwxjtk",
+    "author": "[deleted]",
+    "body": "If you try to just jump into it without learning the model, you build a false theory, which makes it harder to learn the longer you put it off because you need to do a good amount of unlearning.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrwxjtk/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747058473.0
+  },
+  {
+    "id": "mrxkapd",
+    "author": "Top-Cupcake4775",
+    "body": "Source control is inherently complex. You can move the complexity around to different parts of the system or code lifecycle, but the essential complexity of multiple people making independent changes to a common code base has never, in my 40 years of experience in software dev, been eliminated.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrxkapd/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747065344.0
+  },
+  {
+    "id": "mrzp35y",
+    "author": "herocoding",
+    "body": "Do you have a chance to look over multiple shoulders when others manually use GIT in a console/tool?\n\nYes, most of the time we use three, four, maybe five different commands in our daily jobs - and that could be learnt quickly. We might all have a POST-IT attached to our screens or programmed keyboard-shortcuts and helper scripts for the more unusual commands and options.\n\nI'm a \"visual person\" and prefer a GUI with mouse, context-menues, drag'n'drop, \"what-you-see-is-what-you-get\", visual 2-way-diff and 3-way-diff, graphical branch-trees - NEVER dealing with command line options and printed error messages, NEVER googling.\n\n(I grew up with PVCS and Perforce.)",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrzp35y/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747088387.0
+  },
+  {
+    "id": "ms00fxh",
+    "author": "apatheticonion",
+    "body": "Most of the time I'm just pushing/pulling/branching so it's fine. \n\nThe part I hate is dealing with mega codebases. I wish git would only pull the branch you're using and lazily pull/fetch branches you use as-needed.\n\nYou can use depth=1 and manually do this workflow, but I can never remember the commands - it should be the default.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms00fxh/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747092275.0
+  },
+  {
+    "id": "ms00mmk",
+    "author": "scrubjays",
+    "body": "I dread it because it throws hundreds of directories everywhere.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms00mmk/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747092329.0
+  },
+  {
+    "id": "ms2050c",
+    "author": "johnwalkerlee",
+    "body": "Use Smartgit and enjoy your life.\n\nGit cli is for people who enjoy suffering for no reason",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms2050c/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747122419.0
+  },
+  {
+    "id": "ms29xan",
+    "author": "tealpod",
+    "body": "The basic concepts of git are bit confusing, once that stage is crossed its a bit easy. The main article 'What is git?' in [git-help.com](http://git-help.com) is written only to simplify this.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms29xan/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747128562.0
+  },
+  {
+    "id": "ms2v8ql",
+    "author": "Sad_Tangelo_742",
+    "body": "Yes, it is unnecessary complex for its purpose and nowadays is mainly used under the hood. The majority of devs, use a wrapper (JJ and other mentioned in replies) or a UI tool or the git interface of their preferred IDE. Of course, you always find a guy in the company who codes with vim and commits using raw git. The analysis of why is interesting and you can check MIT design lab papers on Gitless. It points all the common design principles that git brakes.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms2v8ql/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747138879.0
+  },
+  {
+    "id": "ms2vz56",
+    "author": "ejpusa",
+    "body": "\nI find it very easy. But that’s me.\n\ngit add .\n\ngit commit -m “first commit”\n\ngit push\n\nAnything more complicated, just ask GPT-4o.\n\n😀🤖🚀",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms2vz56/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747139161.0
+  },
+  {
+    "id": "ms3spdf",
+    "author": "ghostmaster645",
+    "body": "It CAN be complex because there is a lot you can do  with it. \n\n99% of the time it isn't though.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms3spdf/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747149728.0
+  },
+  {
+    "id": "ms72w34",
+    "author": "rashnull",
+    "body": "With AI, who needs git?!",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms72w34/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747186241.0
+  },
+  {
+    "id": "ms95o9n",
+    "author": "przemo_li",
+    "body": "Too much space for oversimplifications that work 99% of the time but deliver just 70% utility.\n\nE.g. people often say to keep branches up to date by pulling in new commits from the parent branch.\n\nBut that's half of the story. 10 devs working for 10 days each will pull each day exactly zero new commits and by the end of it all there will be 100 man-days to integrate.\n\nThat's however not as obvious to people as \"pull a day keeps merge conflict away\".\n\n\nIt would be great to have actual behavioral studies on it. Maybe it's the way most tutorial content about git is structured. Maybe it's a git design that isn't high enough to allow for a simplified mental model thus necessitating biases and other mind tricks.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/ms95o9n/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1747223131.0
+  },
+  {
+    "id": "mx2m5uo",
+    "author": "Vast_Pound461",
+    "body": "Git was invited to solve a Linux problem where 80 people worked on the same piece of code,and the vast majoritie would lose their code, just one ,the better one would commit.\n\nUsing it for a small group,let´s say a squad of 5 devs ,for me is wasting time and resources, so its not Lean.\n\nIF many people are working in the same unit,You´re probably violating the single responsability principle anyway.\n\nWe allways had branches in subversion,they just worked in another way.\n\nGit has its advantages,but it does not pay the price I think.\n\nI know companies that have one dev whose work is taking care of GIT.\n\nNobody can @#@ the whole thing in \"old schools\" version systems.\n\nFor me Git is like using a anti-aircraft battery to hunt ducks.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mx2m5uo/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1749583940.0
+  },
+  {
+    "id": "my3r50m",
+    "author": "ExcellentRuin8115",
+    "body": "So, you personally don’t use git for “simple” projects?",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/my3r50m/",
+    "parent_id": "t1_mx2m5uo",
+    "created_utc": 1750090962.0
+  },
+  {
+    "id": "n4li5r4",
+    "author": "wbarbosa0",
+    "body": "In a nutshell:  \nflexibility == complexity",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/n4li5r4/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1753218218.0
+  },
+  {
+    "id": "n56wk63",
+    "author": "ExcellentRuin8115",
+    "body": "true ",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/n56wk63/",
+    "parent_id": "t1_n4li5r4",
+    "created_utc": 1753492697.0
+  },
+  {
+    "id": "oe9xy9n",
+    "author": "Brilliant_Foot3973",
+    "body": "Git feels simple until you leave the happy path. Conflicts, rebases, andodd history states are where it gets confusing.\n\nThat’s actually why I built Git Brain for VS Code-based IDEs:\n\n[https://www.git-brain.com](https://www.git-brain.com)",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/oe9xy9n/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1775318790.0
+  },
+  {
+    "id": "mrerjvi",
+    "author": "0bel1sk",
+    "body": "yes.  it has whatever complexity is required.  it’s simple to daily drive and get started and has advanced features to solve a lot of specific use cases",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrerjvi/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746794243.0
+  },
+  {
+    "id": "mrf1syg",
+    "author": "lonelybeggar333",
+    "body": "People that say git is complicated to use for day to day stuff usually severely lack basic understanding of software development techniques.",
+    "score": -1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf1syg/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746797912.0
+  },
+  {
+    "id": "mrfhdok",
+    "author": "wildjokers",
+    "body": "I don't think anyone says it is complex for the normal day-to-day workflow stuff. It is everything beyond that.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfhdok/",
+    "parent_id": "t1_mrf1syg",
+    "created_utc": 1746802868.0
+  },
+  {
+    "id": "mrf3l7u",
+    "author": "redditreader1972",
+    "body": "Great and powerful graph database with a terrible and clunky UI.\n\n\nOn one hand, git is beautiful, fast and robust. On the other hand its CLI can feel like php and perl combined.",
+    "score": 0,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf3l7u/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746798514.0
+  },
+  {
+    "id": "mrf6r3s",
+    "author": "OtaK_",
+    "body": "It's not a complex tool. It becomes complex in its powerful workflows that you extremely rarely need. I can count on the fingers of one hand the times I had to rerere for example.\n\nThe vital/basic workflow of add/commit/rebase/merge/revert/branch is dead simple and saying it's complex is misguided/ignorant at best.",
+    "score": 0,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf6r3s/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746799549.0
+  },
+  {
+    "id": "mrfh75g",
+    "author": "wildjokers",
+    "body": "> rebase\n\nHere is my rebase workflow:\n\n* git switch branch\n* git rebase main\n* See tons of already committed changes and 20 conflicts\n* git rebase --abort\n* git merge main\n* All is clean and well\n\nRebase is absolutely part of what makes git complex. I ignore it and just merge. I do use `git rebase -i` but that is really a totally different command and should be named `git squash`. (hiding a totally different feature with an unrelated command with a CLI parameter makes it more complex than it needs to be).",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfh75g/",
+    "parent_id": "t1_mrf6r3s",
+    "created_utc": 1746802813.0
+  },
+  {
+    "id": "mrfm1jl",
+    "author": "OtaK_",
+    "body": "Non-interactive rebases are a crazy thing to do though. And interactive rebases are a completely different operation than squashing. Rewording, squashing, dropping (potentially duplicate due to cherry-picking) commits are all useful.\n\nIt's really not that complicated honestly.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfm1jl/",
+    "parent_id": "t1_mrfh75g",
+    "created_utc": 1746804291.0
+  },
+  {
+    "id": "mrfu24k",
+    "author": "wildjokers",
+    "body": "> And interactive rebases are a completely different operation than squashing.\n\nTo squash commits you do an interactive rebase. I agree it is a totally different operation which is why it should have its own command named `git squash`.",
+    "score": 3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfu24k/",
+    "parent_id": "t1_mrfm1jl",
+    "created_utc": 1746806721.0
+  },
+  {
+    "id": "mrfc0r8",
+    "author": "flavius-as",
+    "body": "Git is one of the most user friendly cli application.",
+    "score": 0,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfc0r8/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746801227.0
+  },
+  {
+    "id": "mrf7uut",
+    "author": "dpaanlka",
+    "body": "Uhh not at all?",
+    "score": -1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf7uut/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746799910.0
+  },
+  {
+    "id": "mrf8i19",
+    "author": "No-Carrot-TA",
+    "body": "I mean it's old. The gui looks like someone dropped it.",
+    "score": -3,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrf8i19/",
+    "parent_id": "t3_1kih9no",
+    "created_utc": 1746800118.0
+  },
+  {
+    "id": "mrfidiu",
+    "author": "wildjokers",
+    "body": "Which GUI are you referring to? Does it even come with a GUI? It is a command-line tool. There are 3rd party GUIs available though.",
+    "score": 1,
+    "permalink": "/r/git/comments/1kih9no/how_many_of_you_think_git_is_a_complex_tool/mrfidiu/",
+    "parent_id": "t1_mrf8i19",
+    "created_utc": 1746803173.0
+  }
+]
