@@ -1,0 +1,493 @@
+Chapter 7
+Technology Accelerators
+Most men would rather die, than think. Many do.
+—BERTRAND RUSSELL1
+OnJuly 28,1999, drugstore.com—one ofthefirst Internet pharmacies—sold shares of
+itsstock tothepublic. Within seconds oftheopening bell, thestock multiplied nearly
+threefold to$65pershare. Four weeks later,thestock closed ashigh as$69, creating amar-
+ketvaluation ofover $3.5 billion. Notbadforanenterprise thathadsold products forless
+than nine months, hadfewer than 500employees, offered nohope ofinvestor dividends
+foryears (ifnotdecades), anddeliberately planned tolose hundreds ofmillions ofdollars
+before turning a single dollar of profit.2
+What rationale didpeople usetojustify these rather extraordinary numbers? “New tech-
+nology willchange everything,” thelogic went. “The Internet isgoing tocompletely revo-
+lutionize allbusinesses,” thegurus chanted. “It’sthegreat Internet landgrab: Bethere first,
+bethere fast, build market share—no matter how expensive—and youwin,” yelled theen-
+trepreneurs.
+--- Page 138 ---
+Weentered aremarkable moment inhistory when thewhole idea oftrying tobuild
+agreat company seemed quaint andoutdated. “Built toFlip” became themantra ofthe
+day.Just tellpeople you were doing something, anything ,connected totheInternet,
+and—presto!—you became rich byflipping shares tothepublic, even ifyou hadno
+profits (oreven arealcompany). Why take allthehard steps togofrom buildup tobreak-
+through, creating amodel thatactually works, when youcould yell, “New technology!”
+or “New economy!” and convince people to give you hundreds of millions of dollars?
+Some entrepreneurs didn’ teven bother tosuggest thatthey would build arealcompany
+atall,much lessagreat one. One even filed togopublic inMarch of2000 with anenter-
+prise thatconsisted solely ofaninformational Websiteandabusiness plan, nothing more.
+The entrepreneur admitted totheIndustry Standar dthatitseemed strange togopublic
+before starting abusiness, butthatdidn’ tstop him from trying topersuade investors to
+buy1.1million shares at$7to$9pershare, despite having norevenues, noemployees,
+nocustomers, nocompany .3Withthenew technology oftheInternet, who needs allthose
+archaic relics of the old economy? Or so the logic went.
+Atthehigh point ofthisfrenzy ,drugstore.com issued itschallenge toWalgreens. At
+first, Walgreens’ stock suffered from theinvasion ofthedotcoms, losing over 40percent
+ofitsprice inthemonths leading uptothedrugstore.com public offering. WroteForbes
+inOctober 1999: “Investors seem tothink thattheWebrace willbewon bycompetitors
+who hittheground running—companies likedrugstore.com, which trades at398times
+revenue, rather than Walgreen, trading at1.4times revenue.”4Analysts downgraded Wal-
+greens’ stock, andthepressure onWalgreens toreact totheInternet threat increased as
+nearly $15 billion in market value evaporated.5
+Walgreens’ response in the midst of this frenzy?
+“We’reacrawl, walk, runcompany ,”Dan Jorndt told Forbes indescribing hisdelib-
+erate, methodical approach totheInternet. Instead ofreacting likeChicken Little, Wal-
+greens executives didsomething quite unusual forthetimes. They decided topause and
+reflect. They decided to use their brains. They decided to think!
+Slow atfirst(crawl), Walgreens began experimenting with aWebsitewhile engaging in
+intense internal dialogue anddebate about itsimplications, within thecontext ofitsown
+peculiar Hedgehog Concept. “How willtheInternet connect toourconvenience concept?
+How canwetieittooureconomic denominator ofcash flow percustomer visit? How
+canweusetheWebtoenhance what wedobetter than anyother company intheworld
+andinaway thatwe’re passionate about?” Throughout, Walgreens executives embraced
+theStockdale Paradox: “Wehave complete faith thatwecanprevail inanInternet world
+asagreat company; yet,wemust also confront thebrutal facts ofreality about theIn-
+ternet.” One Walgreens executive toldusafunlittle story about thisremarkable moment
+inhistory .AnInternet leader made astatement about Walgreens along thelines of,“Oh,
+Walgreens. They’re toooldandstodgy fortheInternet world. They’ll beleftbehind.” The
+Walgreens people, while irked bythisarrogant comment from theInternet elite, never
+seriously considered apublic response. Said oneexecutive, “Let’ squietly goabout doing
+--- Page 139 ---
+what weneed todo,andit’llbecome clear soon enough thatthey justpulled thetailofthe
+wrong dog.”
+Then alittle faster (walk), Walgreens began tofind ways totietheInternet directly
+toitssophisticated inventory-and-distribution model and— ultimately—its convenience
+concept. Fillyour prescription on-line, popintoyour carandgotoyour local Walgreens
+drive-through (inwhatever city you happen tobeinatthemoment), zoom past the
+window with hardly amoment’ spause picking upyour bottle ofwhatever .Orhave it
+shipped toyou, ifthat’smore convenient. There wasnomanic lurching about, nohype,
+nobravado—just calm, deliberate pursuit ofunderstanding, followed bycalm, deliberate
+steps forward.
+Then, finally (run!), Walgreens betbig,launching anInternet siteassophisticated and
+well designed asmost pure dot-coms. Justbefore writing thischapter ,inOctober 2000,
+wewent on-line touseWalgreens.com. Wefound itaseasy touseandthesystem ofde-
+livery asreliable andwell thought outasAmazon.com (thereigning champion ofe-com-
+merce atthetime). Precisely oneyear after theForbes article, Walgreens hadfigured out
+how toharness theInternet toaccelerate momentum, making itjustthatmuch more un-
+stoppable. Itannounced (onitsWebsite) asignificant increase injobopenings, tosupport
+itssustained growth. From itslowpoint in1999 atthedepths ofthedot-com scare, Wal-
+greens’ stock price nearly doubled within a year .
+And what ofdrugstore.com? Continuing toaccumulate massive losses, itannounced a
+layof ftoconserve cash. Atitshigh point, little more than ayear earlier ,drugstore.com
+traded ataprice twenty-six times higher than atthetime ofthiswriting. Ithadlostnearly
+allofitsinitial value.6While Walgreens went from crawl towalk torun,drugstore.com
+went from run to walk to crawl.
+Perhaps drugstore.com will figure outasustainable model thatworks andbecome a
+great company .Butitwillnotbecome great because ofsnazzy technology ,hype, andan
+irrational stock market. Itwillonly become agreat company ifitfigures outhow toapply
+technology to a coherent concept that reflects understanding of the three circles.
+TECHNOLOGY AND THE HEDGEHOG CONCEPT
+Now ,youmight bethinking: “But theInternet frenzy isjustaspeculative bubble that
+burst. Sowhat? Everybody knew thatthebubble wasunsustainable, thatitjustcouldn’ t
+last. What does that teach us about good to great?”
+Tobeclear: Thepoint ofthischapter haslittle todowith thespecifics oftheInternet
+bubble, perse.Bubbles come andbubbles go.Ithappened with therailroads. Ithappened
+with electricity .Ithappened with radio. Ithappened with thepersonal computer .It
+happened with the Internet. And it will happen again with unforeseen new technologies.
+Yetthrough allofthischange, great companies have adapted andendured. Indeed, most
+ofthetruly great companies ofthelasthundred years—from Wal-Mart toWalgreens,
+from Procter &Gamble toKimberly-Clark, from Merck toAbbott—trace their roots back
+--- Page 140 ---
+through multiple generations oftechnology change, beitelectricity ,thetelevision, orthe
+Internet. They’ve adapted before and emer ged great. The best ones will adapt again.
+Technology-induced change isnothing new.The realquestion isnot,What isthe
+roleoftechnology? Rather ,therealquestion is,How dogood-to-great organizations
+think differ ently about technology?
+Wecould have predicted thatWalgreens would eventually figure outtheInternet. The
+company hadahistory ofmaking huge investments intechnology long before other com-
+panies initsindustry became tech savvy .Intheearly 1980s, itpioneered amassive net-
+work system called Intercom. Theidea wassimple: Bylinking allWalgreens stores elec-
+tronically andsending customer data toacentral source, itturned every Walgreens outlet
+inthecountry intoacustomer ’slocal pharmacy .YouliveinFlorida, butyou’re visiting
+Phoenix andneed aprescription refill. Noproblem, thePhoenix store islinked tothecent-
+ral system, and it’ s just like going down to your hometown W algreens store.
+This might seem mundane bytoday’ sstandards. Butwhen Walgreens made theinvest-
+ment inIntercom inthelate1970s, nooneelseintheindustry hadanything likeit.Even-
+tually ,Walgreens invested over $400 million inIntercom, including $100 million forits
+own satellite system.7Touring theIntercom headquarters—dubbed “Earth Station Wal-
+green”— “isliketaking atripthrough aNASA space center with itsstunning array of
+sophisticated electronic gadgetry ,”wrote atrade journal.8Walgreens’ technical staffbe-
+came skilled atmaintaining every piece oftechnology ,rather than relying onoutside spe-
+cialists.9Itdidn’ tstop there. Walgreens pioneered theapplication ofscanners, robotics,
+computerized inventory control, andadvanced warehouse tracking systems. TheInternet
+is just one more step in a continuous pattern.
+Walgreens didn’ tadopt allofthisadvanced technology justforthesake ofadvanced
+technology orinfearful reaction tofalling behind. No,itused technology asatooltoac-
+celerate momentum after hitting breakthrough, andtiedtechnology directly toitsHedge-
+hogConcept ofconvenient drugstores increasing profit percustomer visit. Asaninterest-
+ingaside, astechnology became increasingly sophisticated inthelate1990s, Walgreens’
+CIO (chief information officer) wasaregistered pharmacist bytraining, notatechnology
+guru.10Walgreens remained resolutely clear: ItsHedgehog Concept would drive itsuse
+of technology , not the other way around.
+The Walgreens case reflects ageneral pattern. Inevery good-to-great case, wefound
+technological sophistication. However ,itwasnever technology perse,butthepioneering
+application ofcarefully selected technologies. Every good-to-great company became a
+pioneer intheapplication oftechnology ,butthetechnologies themselves varied greatly .
+(See the table on page 150.)
+--- Page 141 ---
+Kroger ,forexample, was anearly pioneer intheapplication ofbarcode scanners,
+which helped itaccelerate past A&P bylinking frontline purchases tobackroom in-
+ventory management. This might notsound very exciting (inventory management isnot
+something thattends torivet readers), butthink ofitthisway: Imagine walking back into
+thewarehouse andinstead ofseeing boxes ofcereal andcrates ofapples, youseestacks
+andstacks ofdollar bills—hundreds ofthousands andmillions offreshly minted, crisp
+andcrinkly dollar bills justsitting there onpallets, piled high totheceiling. That’ sexactly
+how youshould think ofinventory .Every single case ofcanned carrots isnotjustacase
+ofcanned carrots, it’scash.And it’scash justsitting there useless, until yousellthatcase
+of canned carrots.
+Now recall how Kroger systematically shed itsdreary oldandsmall grocery stores, re-
+placing them with nice, big,shiny superstores. Toaccomplish thistaskultimately required
+more than $9billion ofinvestment— cash thatwould somehow have tobepulled outof
+thelow-mar gingrocery business. Toputthisinperspective, Kroger putmore than twice
+itstotal annual profits intocapital expenditures onaverage every year forthirty years.11
+Even more impressive, despite taking on$5.5 billion ofjunk bond debt topayaonetime
+$40-per -share cash dividend plus an$8junior debenture tofight offcorporate raiders in
+1988, Kroger continued itscash-intensive revamping throughout the1980s and1990s.12
+Kroger modernized andturned over allitsstores, improved thecustomer ’sshopping ex-
+perience, radically expanded thevariety ofproducts offered, andpaid offbillions ofdol-
+larsofdebt. Kroger ’suseofscanning technology totake hundreds ofmillions ofcrisp and
+crinkly dollar bills outofthewarehouse andputthem tobetter usebecame akeyelement
+initsability topulloffitsmagic trick—pulling notone, nottwo, butthreerabbits outof
+a hat.
+Gillette also became apioneer intheapplication oftechnology .ButGillette’ stechno-
+logy accelerators laylargely inmanufacturing technology .Think about thetechnology
+required tomake billions—literally billions—of low-cost, high-tolerance razor blades.
+When youandIpick upaGillette razor ,weexpect theblade tobeperfect andweexpect
+ittobeinexpensive pershave. Forexample, tocreate theSensor ,Gillette invested over
+$200 million indesign anddevelopment, most ofitfocused onmanufacturing break-
+throughs, andearned twenty-nine patents.13Itpioneered theapplication oflaser weld-
+ingonamass scale toshaving systems—a technology normally used forexpensive and
+sophisticated products likeheart pacemakers.14Thewhole keytoGillette’ sshaving sys-
+tems layinmanufacturing technology sounique andproprietary thatGillette protected it
+theway Coca-Cola protects itssecret formula, complete with armed guards andsecurity
+clearances.15
+--- Page 144 ---
+Technology as an Accelerator , Not a Cr eator , of Momentum
+When JimJohnson became CEO ofFannie Mae, following David Maxwell, heandhis
+leadership team hired aconsulting firm toconduct atechnology audit. Thelead consult-
+ant,BillKelvie, used afour-level ranking, with four being cutting edge andonebeing
+Stone Age. Fannie Mae ranked only atwo. So,following theprinciple of“first who,”
+Kelvie was hired tomove thecompany ahead.16When Kelvie came toFannie Mae in
+1990, the company lagged about ten years behind W all Street in the use of technology .
+Over thenext fiveyears, Kelvie systematically took Fannie Mae from a2toa3.8on
+thefour-point ranking.17Heandhisteam created over 300computer applications, includ-
+ingsophisticated analytical programs tocontrol the$600 billion mortgage portfolio, on-
+linedata warehouses covering 60million properties andstreamlined workflows, signific-
+antly reducing paper andclerical effort. “Wemoved technology outoftheback office and
+harnessed ittotransform every partofthebusiness,” said Kelvie. “Wecreated anexpert
+system thatlowers thecost ofbecoming ahome owner .Lenders using ourtechnology
+reduced theloan-approval time from thirty days tothirty minutes andlowered theassoci-
+ated costs byover $1,000 perloan.” Todate, thesystem hassaved home buyers nearly $4
+billion.18
+Notice thattheFannie Mae transition began in1981, with thearrival ofDavid Maxwell,
+yetthecompany lagged behind intheapplication oftechnology until theearly 1990s. Yes,
+technology became ofprime importance toFannie Mae, butafter itdiscovered itsHedge-
+hogConcept andafter itreached breakthrough. Technology wasakeypartofwhat Fannie
+Mae leaders called “the second wind” ofthetransformation andacted asanaccelerating
+factor .19Thesame pattern holds forKroger ,Gillette, Walgreens, andallthegood-to-great
+companies—the pioneering application oftechnology usually came lateinthetransition
+and never at the start.
+This brings ustothecentral point ofthechapter .When used right, technology be-
+comes anaccelerator ofmomentum, notacreator ofit.Thegood-to-great compan-
+iesnever began their transitions with pioneering technology ,forthesimple reason
+thatyoucannot make good useoftechnology until youknow which technologies
+arerelevant. And which arethose? Those—and only those—that linkdirectly tothe
+three intersecting circles of the Hedgehog Concept.
+Tomake technology productive inatransformation from good togreat means asking
+thefollowing questions. Does thetechnology fitdirectly with your Hedgehog Concept?
+Ifyes, then youneed tobecome apioneer intheapplication ofthat technology .Ifno,
+then ask,doyouneed thistechnology atall?Ifyes,then allyouneed isparity .(Youdon’t
+necessarily need theworld’ smost advanced phone system tobeagreat company .)Ifno,
+then the technology is irrelevant, and you can ignore it.
+--- Page 145 ---
+Wecame toseethepioneering application oftechnology asjustonemore way inwhich
+thegood-to-great companies remained disciplined within theframe oftheir Hedgehog
+Concept. Conceptually ,their relationship totechnology isnodifferent from their relation-
+ship toanyother category ofdecisions: disciplined people, who engage indisciplined
+thought, andwho then take disciplined action. Ifatechnology doesn’ tfitsquarely within
+their three circles, they ignore allthehype andfearandjustgoabout their business with a
+remarkable degree ofequanimity .However ,once they understand which technologies are
+relevant, they become fanatical and creative in the application of those technologies.
+Inthecomparison companies, bycontrast, wefound only three cases ofpioneering in
+theapplication oftechnology .Those three cases—Chrysler (computer -aided design), Har-
+ris(electronics applied toprinting), andRubbermaid (advanced manufacturing)—were all
+unsustained comparisons, which demonstrates thattechnology alone cannot create sus-
+tained great results. Chrysler ,forinstance, made superb useofadvanced computer -aided
+andother design technologies butfailed tolinkthose technologies toaconsistent Hedge-
+hogConcept. AsChrysler strayed outside thethree circles inthemid-1980s, from Gulf-
+stream jetstoMaserati sports cars, noadvanced technology byitself could save thecom-
+pany from another massive downturn. Technology without aclear Hedgehog Concept,
+and without the discipline to stay within the three circles, cannot make a company great.
+THE TECHNOLOGY TRAP
+Twoincidents stand outinmymind asIwrite thischapter .Thefirst isTimemagazine’ s
+selection in1999 ofAlbert Einstein as“Person ofthe20th Century .”Ifyouframe the
+person-of-the-century selection around thequestion, How different would theworld be
+today ifthatperson hadnotexisted? thechoice ofEinstein issurprising, compared to
+leaders likeChurchill, Hitler ,Stalin, andGandhi—people who truly changed thecourse
+ofhuman history ,forbetter orworse. Physicists point outthatthescientific community
+would have reached anunderstanding ofrelativity with orwithout Einstein, perhaps five
+years later,certainly ten,butnotfifty.20The Nazis never gotthebomb, andtheAllies
+would have won theSecond WorldWarwithout it(although itwould have costmore Al-
+lied lives). Why did Timepick Einstein?
+Inexplaining their selection, Timeeditors wrote: “It’shard tocompare theinfluence of
+statesmen with thatofscientists. Nevertheless, wecannote thatthere arecertain erasthat
+were most defined bytheir politics, others bytheir culture, andothers bytheir scientif-
+icadvances ....So,how willthe20th century beremembered? Yes,fordemocracy .And,
+yes, forcivil rights. Butthe20th century will bemost remembered foritsearthshaking
+advances inscience andtechnology ...[which] ...advanced thecause offreedom, insome
+ways more than anystatesman did.Inacentury thatwillberemembered foremost forits
+science andtechnology ...oneperson stands outastheparamount icon ofourage... Albert
+Einstein.”21
+--- Page 146 ---
+Inessence, theTimeeditors didn’ tpick theperson ofthecentury somuch asthey
+picked thetheme ofthecentury—technology andscience— andattached themost famous
+person toit.Interestingly ,justafewdays before theEinstein announcement, Timean-
+nounced itsperson oftheyear for1999. Who diditpick? None other than theposter child
+ofe-commerce, JeffBezos ofAmazon.com—reflecting yetagain ourcultural obsession
+with technology-driven change. Letmebeclear .Ineither agree nordisagree with Time’s
+choices. Isimply find them interesting andilluminating, because they give usawindow
+intoourmodern psyche. Clearly ,akeyitem onourcollective mind istechnology ,andits
+implications.
+Which brings metothesecond incident. Taking ashort break from therigors ofwriting
+thisbook, Itraveled toMinnesota toteach sessions attheMasters Forum. The Masters
+Forum hasheld executive seminars fornearly fifteen years, andIwas curious toknow
+which themes appeared repeatedly over those years. “One oftheconsistent themes,” said
+JimEricson andPatty GriffinJensen, program directors, “istechnology ,change— andthe
+connection between the two.”
+“Why do you suppose that is?” I asked.
+“People don’tknow what they don’tknow ,”they said. “And they’re always afraid that
+some new technology isgoing tosneak uponthem from behind andknock them onthe
+head. They don’tunderstand technology ,andmany fearit.Allthey know forsure isthat
+technology is an important force of change, and that they’d better pay attention to it.”
+Given ourculture’ sobsession with technology ,andgiven thepioneering application of
+technology inthegood-to-great companies, youmight expect that“technology” would
+absorb asignificant portion ofthediscussion inourinterviews with good-to-great exec-
+utives.
+Wewere quite surprised tofindthatfully 80percent ofthegood-to-great executives
+weinterviewed didn’ teven mention technology asoneofthetopfivefactors inthe
+transition. Furthermore, inthecases where they didmention technology ,ithada
+median ranking offourth, with only twoexecutives ofeighty-four interviewed rank-
+ing it number one.
+Iftechnology issovitally important, why didthegood-to-great executives talksolittle
+about it?Certainly notbecause they ignored technology: They were technologically soph-
+isticated andvastly superior totheir comparisons. Furthermore, anumber ofthegood-to-
+great companies received extensive media coverage andawards fortheir pioneering use
+oftechnology .Yettheexecutives hardly talked about technology .It’sasifthemedia art-
+icles and the executives were discussing two totally dif ferent sets of companies!
+Nucor ,forexample, became widely known asoneofthemost aggressive pioneers in
+theapplication ofmini-mill steel manufacturing, with dozens ofarticles andtwobooks
+--- Page 147 ---
+thatcelebrated itsbold investments incontinuous thin slab casting andelectric arcfur-
+naces.22Nucor became acornerstone case atbusiness schools asanexample ofunseating
+the old order through the advanced application of new technologies.
+Butwhen weasked Ken Iverson, CEO ofNucor during itstransition, toname thetop
+fivefactors intheshift from good togreat, where onthelistdoyouthink heputtechno-
+logy? First? No.Second? No.Third? Nope. Fourth? Noteven. Fifth? Sorry ,butno.“The
+primary factors,” saidKen Iverson, “were theconsistency ofthecompany ,andourability
+toproject itsphilosophies throughout thewhole organization, enabled byourlack oflay-
+ers and bureaucracy .”23
+Stop andthink about thatforamoment. Here wehave aconsummate case study of
+upending theoldorder with new technology ,andtheCEO who made ithappen doesn’ t
+even list technology in the top five factors in the shift from good to great.
+This same pattern continued throughout theNucor interviews. Oftheseven keyexecut-
+ives andboard members thatweinterviewed, only onepicked technology asthenumber
+onefactor intheshift, andmost focused onother factors. Afewexecutives didtalkabout
+Nucor ’sbigbets ontechnology somewhere intheinterview ,butthey emphasized other
+factors even more—getting people with afarmer work ethic onthebus, getting theright
+people inkeymanagement positions, thesimple structure andlack ofbureaucracy ,the
+relentless performance culture thatincreases profit pertonoffinished steel. Technology
+waspartoftheNucor equation, butasecondary part. One Nucor executive summed up,
+“Twenty percent ofoursuccess isthenew technology thatweembrace ...[but] eighty
+percent of our success is in the culture of our company .”24
+Indeed, youcould have given theexact same technology attheexact same time toany
+number ofcompanies with theexact same resour cesasNucor—and even still, they would
+have failed todeliver Nucor ’sresults .Like theDaytona 500, theprimary variable inwin-
+ning isnotthecar,butthedriver andhisteam. Notthatthecarisunimportant, butitis
+secondary .
+Mediocrity results first andforemost from management failure, nottechnological fail-
+ure.Bethlehem Steel’ sdifficulties hadlesstodowith themini-mill technology andmore
+todowith itshistory ofadversarial labor relations, which ultimately haditsroots inun-
+enlightened andineffective management. Bethlehem hadalready begun itslong slide be-
+fore Nucor andtheother mini-mills hadtaken significant market share.25Infact, by
+thetime Nucor made itstechnological breakthrough with continuous thinslab casting in
+1986, Bethlehem hadalready lostmore than 80percent ofitsvalue relative tothemar-
+ket.This isnottosaythat technology played norole inBethlehem’ sdemise; techno-
+logy didplay arole, andultimately asignificant one. Buttechnology’ srole was asan
+accelerator ofBethlehem’ sdemise, notthecause ofit.Again, it’sthesame principle at
+work—technology asanaccelerator ,notacause—only inthiscomparison case itisoper-
+ating in reverse.
+--- Page 148 ---
+Indeed, when weexamined thecomparison companies, wedidnotfind asingle ex-
+ample ofacomparison company’ sdemise coming primarily from atechnology torpedo
+thatblew itoutofthewater .R.J.Reynolds lostitsposition asthenumber onetobacco
+company intheworld notbecause oftechnology ,butbecause RJR management thrashed
+about with undisciplined diversification and, later,went ona“let’smake management
+richattheexpense ofthecompany” buyout binge. A&P fellfrom thesecond-lar gestcom-
+pany inAmerica toirrelevance notbecause itlagged behind Kroger inscanning techno-
+logy,butbecause itlacked thediscipline toconfront thebrutal facts ofreality about the
+changing nature of grocery stores.
+The evidence from ourstudy does notsupport theidea thattechnological change
+plays theprincipal roleinthedecline ofonce-great companies (ortheperpetual me-
+diocrity ofothers). Certainly ,technology isimportant—you can’tremain alaggard
+andhope tobegreat. Buttechnology byitself isnever aprimary cause ofeither
+greatness or decline.
+Throughout business history ,early technology pioneers rarely prevail intheend.
+VisiCalc, forexample, was thefirst major personal computer spreadsheet.26Where is
+VisiCalc today? Doyouknow anyone who uses it?And what ofthecompany thatpion-
+eered it?Gone; itdoesn’ teven exist. VisiCalc eventually lostouttoLotus 1-2-3, which
+itself lostouttoExcel.27Lotus then went into atailspin, saved only byselling outto
+IBM.28Similarly ,thefirst portable computers came from now-dead companies, such as
+Osborne computers.29Today ,weprimarily useportables from companies such asDell
+and Sony .
+--- Page 149 ---
+This pattern ofthesecond (orthird orfourth) follower prevailing over theearly trail-
+blazers shows upthrough theentire history oftechnological andeconomic change. IBM
+didnothave theearly lead incomputers. Itlagged sofarbehind Remington Rand (which
+hadtheUNIV AC, thefirst commercially successful large-scale computer) that people
+called itsfirstcomputer “IBM’ sUNIV AC.”30Boeing didnotpioneer thecommercial jet.
+DeHavilland didwith theComet, butlostground when oneofitsearly jetsexploded in
+midair ,notexactly abrand-building moment. Boeing, slower tomarket, invested inmak-
+ingthesafest, most reliable jetsanddominated theairways forover three decades.31I
+could goonforpages. GEdidnotpioneer theACelectrical system; Westinghouse did.32
+Palm Computing didnotpioneer thepersonal digital assistant; Apple did,with itshigh-
+profile Newton.33AOL didnotpioneer theconsumer Internet community; CompuServe
+and Prodigy did.34
+Wecould make along listofcompanies thatwere technology leaders butthatfailed to
+prevail intheendasgreat companies. Itwould beafascinating listinitself, butallthe
+examples would underscore abasic truth: Technology cannot turn agood enterprise into
+a great one, nor by itself prevent disaster .
+History teaches thislesson repeatedly .Consider theUnited States debacle inVietnam.
+The United States hadthemost technologically advanced fighting force theworld has
+ever known. Super jetfighters. Helicopter gunships. Advanced weapons. Computers.
+Sophisticated communications. Miles ofhigh-tech border sensors. Indeed, thereliance
+ontechnology created afalse sense ofinvulnerability .TheAmericans lacked nottechno-
+logy,butasimple andcoherent concept forthewar,onwhich toattach thattechnology .
+Itlurched back andforth across avariety ofineffective strategies, never getting theupper
+hand.
+Meanwhile, thetechnologically inferior North Vietnamese forces adhered toasimple,
+coherent concept: aguerrilla warofattrition, aimed atmethodically wearing down public
+support forthewarathome. What little technology theNorth Vietnamese didemploy ,
+such astheAK47rifle (much more reliable andeasier tomaintain inthefield than the
+complicated M-16), linked directly tothatsimple concept. And intheend, asyouknow ,
+theUnited States—despite allitstechnological sophistication—did notsucceed inViet-
+nam. Ifyouever find yourself thinking thattechnology alone holds thekeytosuccess,
+then think again of V ietnam.
+Indeed, thoughtless reliance ontechnology isaliability ,notanasset. Yes,when used
+right—when linked toasimple, clear ,andcoherent concept rooted indeep understand-
+ing—technology isanessential driver inaccelerating forward momentum. Butwhen used
+wrong—when grasped asaneasy solution, without deep understanding ofhow itlinks to
+aclear andcoherent concept—technology simply accelerates your own self-created de-
+mise.
+TECHNOLOGY AND THE FEAR OF BEING LEFT BEHIND
+--- Page 150 ---
+The research team ferociously debated whether this topic merited its own chapter .
+“There must beatechnology chapter ,”said Scott Jones. “We’rebombarded bytheim-
+portance oftechnology these days atthebusiness school. Ifwedon’taddress it,we’ll
+leave a huge hole in the book.”
+“But itseems tome,” countered Brian Larsen, “that ourtechnology finding isjustaspe-
+cialcase ofdisciplined action, anditbelongs intheprevious chapter .Disciplined action
+means staying within the three circles, and that’ s the essence of our technology finding.”
+“True, butitisavery special case,” pointed outScott Cederber g.“Every oneofthe
+companies became extreme pioneers intheapplication oftechnology long before therest
+of the world became technology obsessed.”
+“But compared toother findings likeLevel 5,theHedgehog Concept, and‘first who,’
+technology feels likeamuch smaller issue,” retorted Amber Young. “Iagree with Brian:
+Technology is important, but as a subset of discipline or perhaps the flywheel.”
+Weargued throughout thesummer .Then Chris Jones, inhertypically quiet and
+thoughtful way,asked akeyquestion: “Why didthegood-to-great companies maintain
+such abalanced perspective ontechnology ,when most companies become reactionary ,
+lurching and running about like Chicken Little, as we’re seeing with the Internet?”
+Why indeed.
+Chris’ squestion ledustoanessential difference between great companies andgood
+companies, adifference that ultimately tipped thebalance infavor ofincluding this
+chapter .
+Ifyouhadtheopportunity tositdown andread all2,000+ pages oftranscripts from the
+good-to-great interviews, you’d bestruck bytheutter absence oftalkabout “competit-
+ivestrategy .”Yes,they didtalkabout strategy ,andthey didtalkabout performance, and
+they didtalkabout becoming thebest, andthey even talked about winning. Butthey nev-
+ertalked inreactionary terms andnever defined their strategies principally inresponse to
+what others were doing. They talked interms ofwhat they were trying tocreate andhow
+they were trying to improve relative to an absolute standard of excellence.
+When weasked Geor geHarvey todescribe hismotivation forbringing change toPitney
+Bowes inthe1980s, hesaid: “I’ve always wanted toseePitney Bowes asagreat com-
+pany .Let’sstart with that, allright? Let’sjuststart there. That’ sagiven thatneeds no
+justification orexplanation. We’renotthere today .Wewon’ tbethere tomorrow .There is
+always somuch more tocreate forgreatness inanever-changing world.”35OrasWayne
+Sanders summed upabout theethos thatcame totypify theinner workings ofKimberly-
+Clark: “W e’re just never satisfied. W e can be delighted, but never satisfied.”36
+Those who built thegood-to-great companies weren’ tmotivated byfear.They weren’ t
+driven byfearofwhat they didn’ tunderstand. They weren’ tdriven byfearoflooking like
+achump. They weren’ tdriven byfearofwatching others hititbigwhile they didn’ t.They
+weren’ t driven by the fear of being hammered by the competition.
+--- Page 151 ---
+No,those who turn good into great aremotivated byadeep creative urgeandan
+inner compulsion forsheer unadulterated excellence foritsown sake. Those who
+build andperpetuate mediocrity ,incontrast, aremotivated more bythefearofbe-
+ing left behind.
+Never wasthere abetter example ofthisdifference than during thetechnology bubble
+ofthelate1990s, which happened totake place right smack inthemiddle oftheresearch
+ongood togreat. Itserved asanalmost perfect stage towatch thedifference between
+great andgood play itself out, asthegreat ones responded likeWalgreens—with calm
+equanimity andquiet deliberate steps forward—while themediocre ones lurched about in
+fearful, frantic reaction.
+Indeed, thebigpoint ofthischapter isnotabout technology perse.Notechnology ,no
+matter how amazing—not computers, nottelecommunications, notrobotics, nottheInter-
+net—can byitself ignite ashift from good togreat. Notechnology canmake youLevel
+5.Notechnology canturn thewrong people intotheright people. Notechnology canin-
+stillthediscipline toconfront brutal facts ofreality ,norcanitinstill unwavering faith. No
+technology cansupplant theneed fordeep understanding ofthethree circles andthetrans-
+lation ofthatunderstanding intoasimple Hedgehog Concept. Notechnology cancreate a
+culture ofdiscipline. Notechnology caninstill thesimple inner belief thatleaving unreal-
+ized potential onthetable—letting something remain good when itcanbecome great—is
+a secular sin.
+Those thatstay true tothese fundamentals andmaintain their balance, even intimes
+ofgreat change anddisruption, willaccumulate themomentum thatcreates breakthrough
+momentum. Those thatdonot,those thatfallintoreactionary lurching about, willspiral
+downward orremain mediocre. This isthebig-picture difference between great andgood,
+thegestalt ofthewhole study captured inthemetaphor ofthefly-wheel versus thedoom
+loop. And it is to that overarching contrast that we now turn.
+--- Page 152 ---
+Chapter Summary
+Technology Accelerators
+KEY POINTS
+•Good-to-great organizations think differently about technology andtechnological
+change than mediocre ones.
+•Good-to-great organizations avoid technology fads andbandwagons, yetthey be-
+come pioneers in the application of carefully selected technologies.
+•The keyquestion about anytechnology is,Does thetechnology fitdirectly with
+your Hedgehog Concept? Ifyes,then youneed tobecome apioneer intheapplic-
+ation of that technology . If no, then you can settle for parity or ignore it entirely .
+•The good-to-great companies used technology asanaccelerator ofmomentum,
+notacreator ofit.None ofthegood-to-great companies began their transforma-
+tions with pioneering technology ,yetthey allbecame pioneers intheapplication
+oftechnology once they grasped how itfitwith their three circles andafter they
+hit breakthrough.
+•Youcould have taken theexact same leading-edge technologies pioneered atthe
+good-to-great companies andhanded them totheir direct comparisons forfree, and
+thecomparisons stillwould have failed toproduce anywhere near thesame results.
+•How acompany reacts totechnological change isagood indicator ofitsinner drive
+forgreatness versus mediocrity .Great companies respond with thoughtfulness and
+creativity ,driven byacompulsion toturnunrealized potential intoresults; medio-
+cre companies react and lurch about, motivated by fear of being left behind.
+UNEXPECTED FINDINGS
+•The idea thattechnological change istheprincipal cause inthedecline ofonce-
+great companies (ortheperpetual mediocrity ofothers) isnotsupported bythe
+evidence. Certainly ,acompany can’tremain alaggard andhope tobegreat, but
+technology by itself is never a primary root cause of either greatness or decline.
+--- Page 153 ---
+•Across eighty-four interviews with good-to-great executives, fully 80percent
+didn’ teven mention technology asoneofthetopfive factors inthetransform-
+ation. This istrueeven incompanies famous fortheir pioneering application of
+technology , such as Nucor .
+•“Crawl, walk, run” canbeavery effective approach, even during times ofrapid
+and radical technological change.
+--- Page 154 ---
