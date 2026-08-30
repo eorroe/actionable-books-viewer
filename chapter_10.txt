@@ -1,0 +1,53 @@
+66Lecture 10: Social Networks—Channels of Influencewould look different. Some people who have many friends might 
+have few work colleagues, and vice versa.
+•	When we think about networks, there are a few characteristics to keep in mind. One is popularity, or the number of ties. Some people have more ties, or friends, while others have fewer. Another measure is position. Certain people are more central in the network, while others are more on the periphery. People who are more central are connected to more people, who are connected to more people, and so on. Think about it like living in the suburbs versus living in the city. Central people in a network are in the middle of it all.
+•	Even beyond the sheer number, some areas of the network are more densely connected than others. If all of your friends are friends with all of your other friends, then one might say that your network is densely connected. This means that a piece of information can travel from one person to another very quickly. It’s only one short hop. If your network is less densely connected, it takes longer for the information to get around because it requires more hops.
+•	Our social networks are often divided into different spheres of life. Our work colleagues may be densely interconnected to each other, for example, as might our college friends. But there might be very few links (beyond ourselves) between those two groups. Similarly, while people from our last job might all know each other, none of them know many people from our current job. However, for people who live in the same town they grew up in, went to college where they work, or work in a small industry where people often move around, the interconnections may be more frequent.
+Network Structure
+•	Focusing on item characteristics, if a particular idea is more contagious, then it will be more likely to spread throughout a group or social network. But for things to catch on, network structure matters as well. If there’s no link between two people, then it’s impossible for information to spread from one person to another.
+
+--- PDF_PAGE 73 ---
+67•	In a sense, network ties are the bridges that help information get 
+off an island. They carry information and influence from one group of people to another. But is it possible to connect any two people in the world through their social ties? Are there actually paths that would do it? 
+•	You might think that the answer is no. First, people don’t know everyone. You don’t necessarily know people in some other country. Second, there’s not enough time for the information to get from one place to another. Third, there’s too much geographic distance. 
+•	One of the first studies to look at how information spreads through networks was Stanley Milgram’s small world study conducted in the late 1960s. Milgram was interested in whether any one person could be connected to any other person and, if so, how many intermediary steps it would take. 
+•	To find out, Milgram gave packets to randomly selected people in Omaha, Nebraska, and Wichita, Kansas. In the packet was a chain letter of sorts and information about a target person in Boston, Massachusetts. If the recipient personally knew the target, he or she was told to send the packet directly to that person. If not, the recipient was asked to put his or her name on a list within the packet, think of a friend or relative he or she knew personally who might be most likely to know the target, and forward the letter to that person. This new recipient, in turn, was asked to follow the same steps. 
+•	While not all the letters reached their final destination, of those that did, the average path length was around 5.5 or 6, leading to the phrase “six degrees of separation.” This also suggests that it’s a small world.
+•	Given the number of friends people have, why did it take the letters so long to get there? If everyone knows 500 people, and each of those people know 500 people, and so on, it would more than cover 
+
+--- PDF_PAGE 74 ---
+68Lecture 10: Social Networks—Channels of Influencethe population of the United States in four degrees of separation. So 
+why does it take six?
+•	The first issue is that people don’t know the shortest paths. While a computer can figure out the quickest connection between two people, we don’t have that bird’s-eye view of our own networks. We may know 500 people who know 500 people, but we don’t necessarily know who the 500 people we know know. There may be someone we know who actually knows the end target, but we don’t realize it.
+•	Beyond knowledge, another reason the paths were so long is that not all connections are independent. You may know 500 people, and each of your friends may know 500 people, but those two sets of 500 people are overlapping. For most of the people you know, you know a number of their friends as well. Groups of people tend to be interconnected, where everyone knows everyone. Thus, while you may have 500 friends, each of those friends may only have a few hundred unique connections. 
+•	The interconnection points to a broader idea in sociology called homophily. People aren’t randomly connected; they’re more likely to be friends with other people like them. A Democrat is more likely to be friends with other Democrats than Republicans. 
+•	This is driven in part by biased interaction. In general, the more time we spend with other people, the more likely we are to become friends with them. And we aren’t equally likely to meet everyone in the world. We’re much more likely to meet other people that live near us and, among them, that have similar interests to our own. 
+•	Even beyond biased interaction, there is also biased tie formation. We’re more likely to interact with other people like us, but even among those like-minded individuals we meet, we’re more likely to become friends with others who have common interests. 
+
+--- PDF_PAGE 75 ---
+69Network Strength
+•	Let’s say that you learn about a new product. Do all of your 
+social ties find out? If they do, it would require active sharing. Most information doesn’t flow like water through open channels. In thinking about ties as bridges, they are more like drawbridges, selectively opening. Who are we more likely to share with?
+•	One important distinction is tie strength. Some of our connections are stronger ties, while others are weaker ties. Strong ties are people you talk to often or have known for a long period of time—for example, good friends or family members. Weak ties are casual relationships—people you talk to infrequently or acquaintances you don’t know very well.
+•	How many strong ties do most people have? How many people in your life do you talk to at least once a week every week of the year? For most people, that number is definitely less than 10, and those are the people they’d describe as strong ties.
+•	Each type of tie provides different benefits. In his doctoral dissertation, sociologist Mark Granovetter surveyed over 200 people to find out how most people found jobs. He asked people who was the contact person in their social network that helped them find a job, if there was one, and whether those connectors were strong ties they saw often or weak ties they saw infrequently. 
+•	If you think about it, there are many reasons to think that strong ties will be more effective in helping people get jobs. Strong ties know us better, and they care about our interests more. Your best friend is more likely to know exactly what type of job you’re looking for and, therefore, should be better equipped to find something suitable for you. Similarly, they care about you and, therefore, care a lot more if you get hired. If they know you’re looking, they probably spend more time asking around for opportunities and more effort following up on any opportunities that exist.
+
+--- PDF_PAGE 76 ---
+70Lecture 10: Social Networks—Channels of Influence•	But when Granovetter looked at the data, he found the opposite. 
+He found that people were more likely to find jobs through weaker ties. How can weak ties be useful? First, they often have access to different sorts of information than the job seeker. 
+•	People tend to be friends with other people like them. And this is particularly true with strong ties. Our strong ties are similar to us in many ways. They often have similar interests, read similar publications, and have the same friends. But all these things that make them good friends for us also mean that they have less access to novel information. They drill in the same wells of information we do. 
+•	Weak ties, however, tend to be more different from us and pull from different sources. They access different social networks. They tend to live in different places and work in different industries. All of this makes them weaker ties, but it also makes them really useful at helping us get a job, because they can tap these new social networks and new sources of information to get us information we might not get otherwise.
+•	In addition to having different information, there are simply more of them. We have a small set of strong ties and many more weak ties. So, the strong number across many of them can help you get access to information.
+•	The strength not only relates to the access to information, but it also influences what we share. Think for a moment about what you might share with strong ties versus what you might share with weak ties. Would you tell a casual acquaintance the same thing you would tell a strong tie? Probably not. 
+•	If we have a deep secret, we might tell our strong friends, but we wouldn’t tell our weak ties. Or if we found out about a really great deal that only a certain number of people could get access to, we’d probably tell the people we know really well rather than the people we don’t know very well.
+
+--- PDF_PAGE 77 ---
+71Granovetter, “The Strength of Weak Ties.”
+Travers and Milgram, “An Experimental Study of the Small World Problem.”Watts, Six Degrees.
+1. Why do people tend to be friends with other people like them?
+2. Consider your own social network. What are the different islands, and 
+how interconnected are they? Which people or positions in the network might be particularly important for information to spread?
+    Suggested Reading
+    Questions to Consider
+

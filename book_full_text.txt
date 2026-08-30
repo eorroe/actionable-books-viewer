@@ -1,0 +1,1048 @@
+
+--- PDF_PAGE 1 ---
+Professional
+TopicCommunication 
+Skills
+Subtopic
+How Ideas Spread
+Course Guidebook
+Professor Jonah Berger
+The Wharton School
+University of Pennsylvania
+
+--- PDF_PAGE 2 ---
+PUBLISHED BY:
+THE GREAT COURSES
+Corporate Headquarters
+4840 Westfields Boulevard, Suite 500
+Chantilly, Virginia 20151-2299
+Phone: 1-800-832-2412
+Fax: 703-378-3819
+www.thegreatcourses.com
+Copyright © The Teaching Company, 2014
+Printed in the United States of America
+This book is in copyright. All rights reserved. 
+Without limiting the rights under copyright reserved above,
+no part of this publication may be reproduced, stored in 
+or introduced into a retrieval system, or transmitted, 
+in any form, or by any means 
+(electronic, mechanical, photocopying, recording, or otherwise), 
+without the prior written permission of
+The Teaching Company.
+
+--- PDF_PAGE 3 ---
+iJonah Berger, Ph.D.
+Associate Professor of Marketing 
+The Wharton School,  
+University of Pennsylvania 
+Professor Jonah Berger is an Associate 
+Professor of Marketing at the Wharton School of the University of Pennsylvania, 
+where he has taught since 2007. He graduated with distinction from Stanford University with 
+a B.A. in Human Judgment and Decision Making and received his Ph.D. from Stanford Graduate School of Business. He has been a visiting faculty member at Duke University and Cornell University.
+Professor Berger studies social dynamics—why products, ideas, and behaviors 
+become popular. He examines how individual decision making and social influence among people generate collective outcomes, such as social contagion and trends. His work mixes psychology, sociology, marketing, and economics to understand human behavior and its implications for collective outcomes.
+Professor Berger has received numerous awards for teaching and research. 
+In 2011, he received the MBA Teaching Commitment and Curricular Innovation Award from the Wharton School and won the “Iron Prof” faculty competition for outstanding research. He was named one of the top five most productive researchers in marketing by the American Marketing Association and received early career awards from both the Association for Consumer Research and the Society for Consumer Psychology. He has been a finalist for best article awards for articles published in the Journal of Marketing 
+Research and the Journal of Consumer Research.
+Professor Berger is the author of Contagious: Why Things Catch On, which appeared on the best-seller lists of The New York Times and The Wall Street Journal and has been translated into almost 30 languages. He also has published dozens of articles in top-tier academic journals and has consulted for a variety of Fortune 500 companies. In addition, his work is often 
+
+
+--- PDF_PAGE 4 ---
+iicovered in such popular media outlets as The New York Times and Harvard  
+Business Review . ■
+
+--- PDF_PAGE 5 ---
+Table of Contents
+iii
+Table of Contents
+LECTURE GUIDESProfessor Biography  ............................................................................ i
+Course Scope  
+..................................................................................... 1INTRODUCTION
+LECTURE 1
+Social Epidemics—Why Things Catch On
+ ......................................... 3
+LECTURE 2The Basics of Consumer Psychology
+ ............................................... 10
+LECTURE 3The Impact of 
+Triggers on Consumer Choice  ................................... 17
+LECTURE 4Simple Rules to Make Ideas Stick
+ .................................................... 24
+LECTURE 5The Social Influence of Conformity
+................................................... 31
+LECTURE 6The Social Influence of Divergence
+ .................................................. 39
+LECTURE 7W
+ord of Mouth—Powerful and Persuasive  ....................................... 45
+LECTURE 8The Social Currency of Shared Ideas
+............................................... 52
+LECTURE 9Messages 
+That Go Viral
+ ................................................................... 59
+LECTURE 10Social Networks—Channels of Influence
+ ......................................... 65
+
+--- PDF_PAGE 6 ---
+Table of Contents
+ivLECTURE 11
+Social Influencers—Myths and Science  ........................................... 72
+LECTURE 12T
+racking Results—Big Data, Little Data  ........................................... 79
+SUPPLEMENTAL MATERIAL
+Bibliography  ...................................................................................... 86
+
+--- PDF_PAGE 7 ---
+1
+How Ideas Spread
+Scope:
+Things often catch on and become popular. Movies become blockbusters, 
+and books make the best-seller list. Rumors circulate widely, and political ideas become the talk of the town. But one important 
+consideration is why some things succeed and spread while others fail.
+Some catchphrases propagate, and others languish. Some rumors circulate 
+extensively, but others die quickly. Some ideas propagate so effectively that they end up invading entire populations. But why? What separates contagious ideas from those that are less contagious?
+This course examines the surprising science behind why things catch on. 
+From movies and consumer products to exercise trends and workplace rumors, our daily lives are filled with examples of things that catch on and die out. But while it’s easy to identify examples of popular products and ideas, we often understand less about how they got that way.
+You might think that it’s all about price, quality, and advertising—that 
+higher-quality or lower-priced products are the ones that win out, or that things with a larger advertising budget are more likely to become popular. But, as you’ll learn throughout this course, it’s actually not that simple. Social factors also play a big role. Whether we like certain music, try a new restaurant, or support a political cause depends a lot on what the other people around us are doing. So, to understand why things catch on, we have to understand the underlying behavioral science—the psychological and sociological mechanisms that shape behavior.
+The course is divided into three main sections. First, you’ll learn about 
+individual psychology. Without exposure, there is no way that information can be processed. So, you’ll learn about the basic science behind exposure, perception, and memory. You’ll learn why merely seeing something more frequently makes you like it more and why the same prescription drug may be less effective when you get it at a discount. You’ll also learn about triggers 
+
+--- PDF_PAGE 8 ---
+Scope2and how subtle cues can influence what we think about and how we behave. 
+You’ll discover why voting at a church or a school might change how you vote and why playing French music at the grocery store makes people more likely to buy French wine. This section wraps up by discussing what makes ideas stick, or why we remember advertisements we heard 10 years ago but can’t seem to remember where we put our keys yesterday.
+Next, the course will move beyond the individual to consider social 
+influence. Social influence is like a magnet; it can attract, and it can repel. Sometimes it leads people to do the same thing as others around them, and sometimes it leads people to do the opposite. You’ll learn about why others’ behavior affects our own and when it leads us to go one way versus the other. You’ll also learn about interpersonal communication and the power of word of mouth—why people talk about and share things with those around them and how it impacts the choices others make.
+Finally, the course will situate these ideas in a broader social network. The 
+pattern of connections between people impacts the spread of information and influence. You’ll learn about why networks matter, how different types of social ties affect us differently, and whether some people (so-called influencers) have a bigger impact on what catches on than others. 
+Taken together, the course provides an integrated and multifaceted 
+understanding of why things catch on and the behavioral science that underlies these phenomena. ■
+
+--- PDF_PAGE 9 ---
+3Social Epidemics—Why Things Catch On
+Lecture 1
+Ideas spread from person to person, but how far they go depends on 
+the pattern of connections between people. The goal of the science of how ideas are spread is to understand what leads products, ideas, and 
+behaviors to diffuse and become popular—and what leads them to die out and become abandoned. In this lecture, you will learn about social epidemics, or cases where products, ideas, and behaviors catch on and become popular. 
+Social Epidemics
+•	Livestrong wristbands were introduced in 2004 as a fundraising item 
+to raise attention and awareness for cancer research. Originally, they were sold at Nike retail stores and online for a dollar, but celebrities soon started wearing the bands, and people started paying 10 to 15 times the retail price for wristbands on eBay. Livestrong wristbands are an example of social epidemics, or cases where products, ideas, and behaviors catch on and become popular. 
+•	Take urban legends or rumors, for example. One widely distributed urban legend suggests you only use 10 percent of your brain. This myth appears frequently in advertisements and popular culture and often shows up on television shows. 
+•	Or, for example, take behaviors like recycling. Americans recycle over one-third of what they produce, or over 90 millions tons of material every year. Over three-fourths of newspapers are recycled—an increase of over 90 percent from 1990. It’s hard to find a major city or office that doesn’t at least try to recycle.
+•	Other behaviors, however, like using reusable grocery bags, have not had the same level of success. Most people have reusable grocery bags but seem to forget them when the time comes to go to the store and use them.
+
+--- PDF_PAGE 10 ---
+4Lecture 1: Social Epidemics—Why Things Catch On•	Why do some things catch on and succeed while others fail? On the 
+surface, these examples seem quite different: One is a sports-related item, one is an urban legend, and one is a prosocial act. These things, while seemingly disparate, actually have a lot in common. All are instances of social epidemics—cases where products, ideas, and behaviors catch on and become popular.
+•	People have spent lots of time and money trying to figure out why some things catch on while others fail. The topic has caught the imagination of psychologists, philosophers, economists, and sociologists. And businesses and organizations care a lot as well. The dream of everyone who has something to sell, a cause they believe in, or a message they want to spread is to create a social epidemic.
+•	A social epidemic is a situation where something diffuses through a population. It starts with one person, or a small set of people, and spreads to infect a broader set. Products and ideas can spread from Why do some behaviors, like recycling, catch on and become second nature, 
+while other behaviors, like using reusable grocery bags, aren’t as successful?
+© spwidoff/iStock/Thinkstock.
+
+--- PDF_PAGE 11 ---
+5person to person, just like viruses. Rather than spreading through 
+the air, for example, social epidemics spread via social influence—one person’s behavior impacting another person’s. 
+•	If something spreads, we might say that it has caught on. If something spreads widely and becomes popular, we might say that it is contagious. Almost anything can be contagious, including products, political ideas, social movements, behaviors, fashion styles, first names, diets or exercise trends, and even language. 
+•	But what separates contagious ideas from those that are less contagious? One possibility is that quality drives success—that the things that win out are just plain better than the ones that don’t. We prefer products that are easier to use, drugs that are more effective, and scientific theories that are true rather than false. 
+•	Advertising is also a common explanation. People think that for something to succeed you need a big advertising budget. The thinking is that advertising will get the message in front of lots of eyeballs, and behavior will change. 
+•	Although quality, advertising, and even price matter some, they don’t explain the whole story. For example, YouTube videos have little advertising, no price, and no real relationship between quality and success. Some of the most viewed videos are shot by an amateur on a cell phone. 
+Trialability
+•	If quality, price, and advertising don’t explain why one YouTube video gets more views, what does? Quality, price, and advertising matter, but more than that, there are psychological and sociological mechanisms that lead products, ideas, and behaviors to catch on.
+•	One example of these psychological and social mechanisms is trialability, or how easy something is to try, which has a big impact on whether it catches on. Some things may be easy to try, while others are more difficult.
+
+--- PDF_PAGE 12 ---
+6Lecture 1: Social Epidemics—Why Things Catch On•	Satellite radio is a great example of a product that was originally 
+difficult to try. The service let people listen to almost any kind of music, talk, or news anywhere in the country. People who used the service thought it was the best thing ever, but it was slow to catch on, in part because of high barriers to trial. You had to sign a long contract, have a receiver installed, and pay hundreds of dollars up front. Would you do all that for something you weren’t even sure you’d like? 
+•	To get people to try the service, companies had to lower the bar to trial. They installed the service in rental cars and gave it away for free for six months in some new cars—all to make it easier for people check out. And once it was easier to try, satellite radio was quicker to catch on. 
+•	There are thousands of products clamoring for attention and hundreds you’ve never tried. A sample of a product not only lowers the risk of trial, but the norm of reciprocity will also make you feel at least a little compelled to buy. A sample doesn’t guarantee that people will buy the product, but it increases the chance and, thus, the chance that the idea will spread.
+•	The idea of trialability illustrates one of the main takeaways in the study of social epidemics. It’s not random or luck why some things succeed or fail. There’s a science behind it; a set of key principles explain why some things succeed and others fail. And at a high level, these principles all center around us—the way we’re built.
+Natural Selection
+•	Human nature has a great deal to do with how ideas spread. If you’ve ever heard about natural selection, you’re probably familiar with the ideas of variation, selection, and retention. In the natural realm, whether things succeed or fail depends on their fit with the surrounding environment. 
+•	For example, giraffes with longer necks end up having more food. And because they have more food, they’re healthier and more 
+
+--- PDF_PAGE 13 ---
+7likely to mate than short-necked giraffes, so the next generation of 
+giraffes are more likely to have long necks. Which products, ideas, and behaviors succeed and fail depends on a similar process. 
+•	Culture is also naturally selected. There is variation. Some stories are longer, and some are shorter. Some ideas are more emotional, and some are less so. Length and emotional content impact memory and sharing. 
+•	Whether ideas succeed or fail also depends on their fit with the surrounding environment. But rather than access to food or mates, the success of ideas depends on their fit with us. Human memory is just like leaves on higher trees; it’s better designed for some ideas more than others. 
+•	Our tendencies, drives, and motivations make us more likely to share some things rather than others. And the stories and ideas and products that fit with these tendencies and drives and motivations are more likely to be shared and, thus, more likely to be successful. They spread while other things fail.
+Individual Psychology, Social Influence, and Social Networks
+•	To understand why some things succeed and others fail, we’ll need to understand three key aspects: individual psychology, to understand how people process information and why we remember some things and not others; social influence, to understand how things spread between people (why we pass along certain news and information and when and why we imitate or deviate from those around us); and social networks, to understand how the pattern of social ties impacts the spread of information and influence and whether certain individuals within that network are more influential than others. 
+•	Aspects of individual psychology, including exposure, perception, and memory, give us insights into some interesting phenomena. For example, merely seeing something more frequently makes you like it more, and sometimes negative publicity increases sales. It’s even 
+
+--- PDF_PAGE 14 ---
+8Lecture 1: Social Epidemics—Why Things Catch Ontrue that the same prescription drug may be less effective when you 
+get it at a discount. 
+•	What we call “triggers” and subtle cues in the environment can influence what we think about and how we behave. V oting at a church or a school might change how you vote, and playing French music at the grocery store makes people more likely to buy  
+French wine. 
+•	Characteristics of individual psychology help us understand the science of stickiness, or what makes ideas stick. We remember some ads we heard 10 years ago but can’t seem to remember where we put our keys yesterday. Some things stick in our memory while others go in one ear and out the other. 
+•	The spread of ideas also has important social aspects. We need to move beyond the individual to the dyad and think about imitation and conformity. Bartenders are depending on people to conform when they seed the tip jar. Conformity sometimes leads us to follow others, even when we know they’re wrong.
+•	Social influence is like a magnet. Sometimes it attracts, and sometimes it repels. We also see divergence in human behavior: when people avoid what other people are doing. There are conditions when people conform versus diverge. These conditions often explain why you might have to pay more to get products with a smaller logo and why once-popular things often  
+become unpopular.
+•	Social influence also has to do, of course, with the power of interpersonal communication. Interestingly, word of mouth is more impactful in the spread of ideas than advertising. There are some very interesting reasons for that, and it has to do with why people talk about and share some things more than others. 
+•	Importantly, social media and social influence are not the same thing. Social media is an online communication tool or channel, 
+
+--- PDF_PAGE 15 ---
+9such as Facebook, Twitter, and LinkedIn. Social transmission is the 
+sharing of information and influence through social ties, whether online or off. 
+Berger, Contagious, Introduction.
+Heath, Bell, and Sternberg, “Emotional Selection in Memes.”Rogers, Diffusion of Innovations .
+1. Does the highest-quality news and information win out in the 
+marketplace of ideas?
+2. Why is trialability so important to whether things catch on?
+    Suggested Reading
+    Questions to Consider
+
+--- PDF_PAGE 16 ---
+10
+Lecture 2: The Basics of Consumer PsychologyThe Basics of Consumer Psychology
+Lecture 2
+In this lecture, you will learn about some important aspects of consumer 
+psychology and information processing: exposure (coming into contact with something), perception (having a response of some sort to it), and 
+memory (remembering it and, by implication, remembering our response to it). To understand social epidemics—the really powerful spread of ideas—it’s necessary to understand these aspects of consumer psychology and the way human beings naturally process information, or the way people’s  
+minds work.
+Exposure
+•	Exposure is the act of being exposed to concepts or information. 
+Think about the first time you meet someone. If you’d never met or heard about that person previously, meeting them is the first time you’ve been exposed to information that this person exists. Exposure is key: Without exposure to information, there is no opportunity to process it. 
+•	One big impact of exposure is awareness. It’s pretty difficult to purchase a product if you’re not aware that it exists, so one key goal of marketing and advertising is to expose people to the product. For example, the sales of Reese’s Pieces went up after the candy was featured in the movie E.T. 
+•	Companies pay huge fees to movie producers to have film characters use the company’s product. This is called product placement, and it helps people see that the product exists.
+•	The fact that exposure increases awareness may seem obvious, but it has some pretty interesting consequences. Negative attention often hurts. But could negative publicity ever increase sales? This question was studied by looking at book reviews in The New York 
+
+--- PDF_PAGE 17 ---
+11Times. Over 300 books were reviewed over time. Some were 
+positive reviews, while others were negative. 
+•	How the review impacted sales was studied. Positive reviews increased sales by over 40 percent. But whether negative reviews helped or hurt depended on how aware people were about the book already. For a well-known author, such as John Grisham or Stephen King, negative reviews hurt sales. But for an unknown author, negative reviews increased sales by around 40 percent. The reason is awareness.
+•	Exposure also influences liking. The more you see something, the more you like it. This is known as the mere exposure effect. One experiment that was conducted to test the mere exposure effect used fertile chicken eggs for the test subjects. Tones of two different frequencies were played to different groups of chicks while they were still unhatched. Once hatched, each tone was played to both groups of chicks. Each set of chicks consistently preferred the tone prenatally played to it.
+•	In a study involving Chinese characters, individuals were asked to rate whether the symbols they were shown held positive or negative connotations. The symbols that had been previously seen by the test subjects were consistently rated more positively than those that were unseen, even though subjects didn’t remember which ones they saw.
+•	Confederates attended a class either 0, 5, 10, or 15 times during a semester. Students in the class were asked to rate the attractiveness of the confederates in the class. The more frequently attending confederates were rater higher than the less frequently attending confederates. This study has an obvious implication. If you want someone to find you more attractive, try to run into him or her more frequently. The more he or she sees you, the more attractive he or she should find you.
+
+--- PDF_PAGE 18 ---
+12Lecture 2: The Basics of Consumer PsychologyPerception
+•	Once people have been exposed to information, they have to interpret 
+it. And subtle cues can impact how we interpret things—how we perceive them. Perception is no less important than exposure.
+•	Think about wine, for example. Most people who drink wine think they have some expertise—at least they know what they like. But might simple features like where the wine is from or how much it costs bias our judgment?
+•	A group of diners in an Illinois restaurant were served a free glass of Cabernet Sauvignon at dinner. All were told that the wine came from Noah’s Winery (a nonexistent brand), but half were told that the origin was California, while the other half were told that the origin was North Dakota. In fact, all of the wine was Two-Buck Chuck, a very inexpensive but brisk-selling wine from Charles Shaw Winery. The “California” wine was rated as being better than the “North Dakota” wine. 
+For people who drink wine, features like where the wine is from or how much it 
+costs can bias their judgment of the wine.
+© Fuse/Thinkstock.
+
+--- PDF_PAGE 19 ---
+13•	Another study looked at price. Researchers had people taste sips 
+of wine, but they manipulated whether people thought it cost 5 or 45 dollars. In fact, they were the same wine. In addition, they did the study while participants were in an fMRI scanner and found that the part of the brain that experiences pleasure becomes more active when the drinker thinks that he or she is enjoying the more expensive vintage. So, it’s not just that people say the wine is better because they think they are supposed to, they actually taste it  
+as better.
+•	These biases can even affect medical treatment. Imagine that you go to the doctor complaining of a severe headache. The doctor gives you some pills, and soon you feel better. It turns out the “pills” were made of sugar, so the drug wasn’t real. The placebo effect happens when someone takes a medication that he or she perceives will help, although it actually has no proven therapeutic effect for his or her particular condition. 
+•	What about price? Researchers administered a light electric shock to participants’ wrists to measure their subjective rating of pain. Then, everyone received a placebo pill that didn’t actually work. Half of the participants were given a brochure describing the pill as a newly approved pain-killer that cost $2.50 per dose. The other half were given a brochure describing it as marked down to 10 cents, without saying why.
+•	In the full-price group, 85 percent of subjects experienced a reduction in pain after taking the placebo. In the low-price group, 61 percent said that the pain was less. An interesting implication of this study is that people get what they pay for.
+•	Sounds also affect people’s interpretation of products. When people are asked to rate the name for a new line of cars—Brimley or Bromley—Bromley is rated higher than Brimley on perceived legroom, trunk space, and engine power.
+
+--- PDF_PAGE 20 ---
+14Lecture 2: The Basics of Consumer Psychology•	Research on perception might be surprising. Usually, we think we 
+taste something first and then evaluate it. But it turns out that subtle information impacts how we taste or perceive things, even beyond our actual sensory experience.
+•	Because of this, companies and organizations spend a lot of time and money focusing on the perceptions they want to create. What a store smells like, for example, can impact whether we buy something there. What a political candidate looks like can impact whether we vote for him or her. Perceptions play a big role in whether people buy products and adopt ideas.
+Memory
+•	In order for ideas to spread, we need to keep them in our memory. Once we’ve been exposed to something and the information around that thing affects how we perceive it, what affects whether we remember it?
+•	What is the first thing that comes to mind when you see the word “dog”? There is no right or wrong answer. Just pay attention to the first concept, word, or idea you think of when you see the word. You might think of “cat,” “leash,” “dog food,” “fur,” or “pet.”
+•	Why do these things in particular come to mind? They are associated with the idea of dog in our head. Not everyone thinks exactly the same thing, but many think of similar things. The associative network model of memory is that there is a semantic network of ideas or nodes in memory where related ideas are connected. These links get formed through repeated association.
+•	Marketing communications create desired links in memory. Links are important because they shape how we behave. Think about the words and concepts that come to mind when you think of Walmart. Examples include “functional value,” “low price,” and “basic utilitarian.”
+•	Similarly, think about the words and concepts that come to mind when you think of the retailer Target. Examples include “options,” 
+
+--- PDF_PAGE 21 ---
+15“some sophistication,” and “value plus.” These links determine 
+your consideration set, or which retailer we consider when we have a particular goal in mind.
+•	This also happens with political parties. For example, some terms that are often associated with Democrats include “liberal,” “socially progressive,” “social justice,” “women’s right to choose,” “environment,” and “minimum wage.” For a Republican, these terms include “conservative,” “free market,” “pro-defense,” “pro-life,” and “oppose same-sex marriage.” If someone tells you that he or she is one or the other, that shapes how you see that person. If a candidate tells you that he or she is one or the other, that shapes whether you support that person.
+•	Having this type of memory allows for shortcuts. It would take a lot of time to learn everything, so these links in memory help. In general, it is difficult to change existing links. For example, V olkswagen struggles to sell an expensive car in their line named Phaeton. This is because people expect V olkswagens to be somewhat inexpensive. 
+•	What can be done? In the brand area, a company can create new brands or sub-brands and try to start fresh with these. The semantic network of associations has interesting implications for new products. Is better to use existing links or generate new ones? Consider a new cleaning product that is similar to a mop in some ways. One name is Mr. Mop. An alternate name, and one that was chosen, was Swiffer. You don’t know what it does, but it sounds fast. Associations like these can sometimes help but also sometimes hinder.
+Berger, Sorensen, and Rasmussen, “Positive Effects of Negative Publicity.”
+Levin and Gaeth, “How Consumers Are Affected by the Framing of Attribute 
+Information.”
+    Suggested Reading
+
+--- PDF_PAGE 22 ---
+16Lecture 2: The Basics of Consumer PsychologyPlassmann, O’Doherty, Shiv, and Rangel, “Marketing Actions Can Modulate 
+Neural Representations of Experienced Pleasantness.”
+Zajonc, “Mere Exposure.”
+1. How does exposure to something affect both awareness and how much 
+you like something?
+2. Why might buying a discounted product make that product seem  
+less effective?
+    Questions to Consider
+
+--- PDF_PAGE 23 ---
+17The Impact of Triggers on Consumer Choice
+Lecture 3
+In this lecture, you will learn about the science of triggers and how they 
+bring existing ideas out of memory. You will learn what triggers are and how they shape everything from what people think about (or what’s top 
+of mind) to what people like, what people buy, and even how people vote. Triggers make products and ideas more top of mind, which makes people more likely to choose them. Furthermore, how frequently things come to mind depends in part on how frequently they are triggered.
+Triggers
+•	A trigger is any stimulus in the environment that makes us think 
+about a related concept or idea—any sight, sound, smell, etc., that makes us think of something, even though that thing may not be present at the moment. This works based on cognitive psychology—exposure, perception, and memory. If two things are connected, seeing one can activate the other.
+•	Triggers can rely on existing associations or be based on new ones. For example, Mars the planet is already associated with Mars the candy bar because they share the same name. This is an  
+existing association.
+•	In other instances, new associations form. Seeing a white duck, for example, might remind you of the insurance company Aflac. A duck isn’t naturally associated with Aflac, but it gained that association based on repeated pairings in Aflac ads. 
+•	Triggers influence what is top of mind. One way to think about our minds is like an ordered list. Some things are top of mind, or on top of the list, and others are less so. What you did a few minutes ago is probably top of mind, as is what you are doing in a few minutes. But an appointment you have six weeks from now, or your spouse’s birthday later this year, is probably not so top of mind.
+
+--- PDF_PAGE 24 ---
+18Lecture 3: The Impact of Triggers on Consumer Choice•	But cues in the environment, called triggers, can change that. When 
+you see the phrase “rum and ____,” what do you think about? You probably weren’t thinking about Coke a moment ago, but once you saw that phrase, “Coke” is now accessible, or top of mind. 
+•	Triggers can make things top of mind that might not be otherwise. Triggers also influence choice and sales.
+Voting
+•	Most people in the United States are assigned to vote at a particular polling location. They are typically public buildings—firehouses, courthouses, or schools—but can also be churches, private office buildings, or other venues. 
+•	Political scientists assume that voting is based on rational and stable preferences: People possess core beliefs and weigh costs and benefits when deciding how to vote. In this calculating, cognitive model of voting behavior, the particular kind of building people happen to cast their ballot in shouldn’t impact behavior. 
+•	But triggers suggest that it just might. Different locations contain different triggers. For example, schools are filled with lockers, desks, and chalkboards, which might remind people of children or early educational experiences. Once these thoughts are triggered, they might change behavior. V oting in a school might lead people to support education funding.
+•	Data from each polling place in Arizona’s 2000 general election was used to examine whether people voted differently at different types of polling locations. The focus was on a ballot initiative that proposed raising sales tax to support public schools, an initiative that had been hotly debated. 
+•	Over 10,000 more people voted in favor of the school-funding initiative when the polling place was a school. Polling location dramatically impacted voting behavior, and the initiative passed. 
+
+--- PDF_PAGE 25 ---
+19This difference persisted even after controlling for things like 
+regional differences in political preferences and demographics. 
+Healthy Behaviors
+•	Triggers even impact whether people eat their fruits and vegetables. Getting people to eat healthy is tough. Most people realize that they should eat more fruits and vegetables. Most people will even say that they mean to eat more fruits and vegetables. But somehow when the time comes to put fruits and vegetables into shopping carts or onto dinner plates, people forget.
+•	Students were paid 20 dollars to report what they ate every day for breakfast, lunch, and dinner at their nearby dining hall. Halfway through the two-week study, the students were asked to participate in what seemed like an unrelated experiment from a different researcher. They were asked to provide feedback on a public-health slogan targeted at college students. Just to be sure they remembered the slogan, they were shown it more than 20 times using different colors and fonts. 
+•	One group of students saw the slogan “Live the healthy way, eat five fruits and veggies a day.” Another group saw “Each and every dining-hall tray needs five fruits and veggies a day.” Both slogans encouraged people to eat fruits and vegetables, but the “tray” slogan did so using triggers. The students lived on campus, and many of them ate in dining halls that used trays. 
+•	The students didn’t really like the “tray” slogan; they rated it as half as attractive as the more generic “live healthy” slogan. Furthermore, when asked whether the slogan would influence their own fruit and vegetable consumption, the students who had been shown the “tray” slogan were more likely to say no.
+•	However, when it came to behavior, the effects were striking. Students who had been shown the more generic “live healthy” slogan didn’t change their eating habits. But students who had seen the “tray” slogan, and used trays in their cafeterias, markedly 
+
+--- PDF_PAGE 26 ---
+20Lecture 3: The Impact of Triggers on Consumer Choicechanged their behavior. The trays reminded them of the slogan, 
+and they ate 25 percent more fruits and vegetables as a result. The trigger worked.
+•	It’s interesting to think of these results in light of the way the U.S. government used to represent healthy eating. They used to use a pyramid, with grains as the biggest group at the bottom, fruits and vegetables as the next largest group a level up, meats and dairy as the next level up, and then fats, oils, and sweets as the smallest group at the top. But while the pyramid might have been visually appealing, it’s not very memorable. 
+•	In 2011, the U.S. Department of Agriculture replaced the pyramid with a new nutrition guide called MyPlate, which divides up a plate into chunks to illustrate how much of the different groups people should consume. More than one-quarter of the plate is taken up by the vegetable chunk, for example, while protein makes up a smaller chunk. You see a plate almost every time you eat, and by linking the It is difficult to change people’s eating behaviors from unhealthy to healthy, but 
+research shows that it can be done. 
+© XiXinXing/iStock/Thinkstock.
+
+--- PDF_PAGE 27 ---
+21message about what people should eat to the plate, MyPlate helps 
+trigger healthy eating.
+•	The fruits and vegetables study also points out the importance of the context. Going for interesting is our default tendency. We think that catchy or clever slogans will get us where we need to go. But as the fruits and vegetables study shows, a strong trigger can be much more effective than a catchy slogan. It’s not enough to be clever; people have to remember the message exists.
+Frequency
+•	How frequently things come to mind depends in part on how frequently they are triggered. So, things that are triggered more often should come to mind more often and be more likely to be chosen.
+•	In a sense, ideas have a habitat, just like plants and animals do. Habitats are environments that contain all the necessary elements for sustaining an organism’s life. Certain plants need lots of sunlight and moisture. 
+•	Products and ideas also have habitats, or sets of triggers that cause people to think about them. For example, barbecues, summertime, baseball, and even wiener dogs are just a few of the triggers that make up the hot dog’s habitat. 
+•	Things that have larger habitats, or more frequent triggers, should come to mind and be triggered more often. Frequency, however, must also be balanced with the strength of the link. The more things a given cue is associated with, the weaker any given association is. It’s like poking holes in the bottom of a cup filled with liquid. If there is only one hole, a strong stream of liquid will come out. But as you add more holes, the amount coming out of each is lessened. Too many holes and barely a trickle would come out of each. 
+•	The same is true with cues. People frequently see the color red, for example, but it is already associated with many things: roses, love, Coca-Cola, Chinese New Year, and fast cars. Thus, it is not a 
+
+--- PDF_PAGE 28 ---
+22Lecture 3: The Impact of Triggers on Consumer Choiceparticularly strong trigger for any of these—nor is it a good thing to 
+try to link a new product to because it is already so overburdened. Thus, the desire to pick a frequent cue must be balanced with selecting a cue that does not already trigger lots of other things.
+•	The exact timing of the triggers also matters. Consider a clever but ultimately ineffective public service advertisement from New Zealand. A handsome, muscular man is taking a shower. In the background, you hear a catchy jingle about HeatFlow, a new temperature-control system that ensures you’ll always have sufficient hot water for long, luxurious showers. The man turns off the water. When he opens the shower door, an attractive woman tosses him a towel. He smiles. She smiles. He begins to step out of the shower stall. 
+•	Suddenly, he slips. Falling, he cracks his head on the tile floor. As he lies there, motionless, his arm twitches slightly. A voiceover somberly intones: “Preventing slips around your home can be as easy as using a bath mat.” The advertisement is definitely surprising and extremely memorable, and it might make you think about it every time you take a shower in a bathroom that doesn’t have a mat on the floor. 
+•	But there’s only one problem: You can’t buy a bath mat in a bathroom. The message is too removed physically from the desired behavior. Unless you leave the bathroom, turn on your computer, and buy a mat online, you have to remember the message until you get to a store. You need to be triggered at the right time.
+•	Contrast that, however, with an advertisement from Australia about the dangers of sun exposure. The goal is to remind people to use sunscreen, but rather than use text, the ad uses a simple image of a chalk outline, as would be drawn around a dead body, on a beach towel lying in the sand. The idea is that while you’re lying happily on your towel, the sun could be killing you. 
+
+--- PDF_PAGE 29 ---
+23•	This is certainly a clever ad, but what makes it even better is the 
+smart use of triggers. Beach towels are not just a decent trigger for the dangers of sun exposure, they are a perfect one, because that is exactly when you want people to think about using sunscreen—when they are at the beach lying on their towel. 
+Berger and Fitzsimons, “Dogs on the Street, Pumas on Your Feet.”
+Berger, Meredith, and Wheeler, “Contextual Priming.”North, Hargreaves, and McKendrick, “In-Store Music Affects Product Choice.”
+1. How do triggers fit with the idea of semantic networks in memory?
+2. How can you use triggers in your own life to help you remember? What 
+is something you always forget, and what is a trick you could use to fix the problem?
+    Suggested Reading
+    Questions to Consider
+
+--- PDF_PAGE 30 ---
+24
+Lecture 4: Simple Rules to Make Ideas StickSimple Rules to Make Ideas Stick
+Lecture 4
+Certain ideas stick. While some messages come and go, sticky 
+ideas stay in people’s memories long after they have heard them. However, as you will learn in this lecture, it’s not random or a matter 
+of luck which ones succeed. In fact, there are four key principles that tend to make information more memorable. Messages that are simple, unexpected, concrete, and credible are more likely to stick, because they fit with the way our memory, and minds, are designed.
+Simplicity
+•	The first principle of what makes messages stick is simplicity. Less 
+is sometimes more. The simpler and easier to understand an idea is, the more likely people are to remember it. 
+•	When Apple first released their ultralight MacBook Air laptop, the ads were extremely simple. There was only one feature mentioned: the thinness of the laptop. Viewers didn’t know how many ports it has, how light it was, or anything else. But they knew that it was amazingly thin. By keeping the message simple, Apple ensured that people would remember that the laptop was thin.
+•	Like most resources, attention and memory are scarce. If you try to pay attention to five things at once, each thing only gets one-fifth of your attention. Each is processed less in your mind, or receives less attentional resources and, as a result, is less likely to be remembered. But if you focus on just one thing, it receives all of your attention and is more likely to be remembered. If you tell people 10 things, they’ll remember none of them, but if you tell them one, they’ll remember that one.
+•	Note that it’s more about the number of ideas in the message rather than its length. Of course, the longer the message, the tougher it tends to be to remember because there are more details. 
+
+--- PDF_PAGE 31 ---
+25But just cutting words is not the answer. It’s all about finding the 
+core, reducing the number of ideas that the message is trying to communicate. Messages that focus on one or two key idea units are much more memorable than shorter messages that try to convey more ideas. 
+•	Some ideas are quite nuanced and complex. But if you can’t find a way to communicate that complex idea in a simple way, it will never catch on. No one else will be able to understand it, let alone remember it. When you know a lot about something, it’s easy to get bogged down in the details. But this curse of knowledge hurts the ability to communicate effectively. You have to think like someone who doesn’t know everything and figure out how to focus his or  
+her attention. 
+•	Analogies help make things simple, and memorable, because they express new and complex ideas in relation to things people already understand. When Facebook was being released, for example, people described it as an online yearbook. That’s not exactly what Facebook is, but it gives someone who doesn’t know anything about it a decent sense pretty quickly. By comparing it to something people already know and understand, the comparison makes the information more memorable.
+•	Simplicity has other benefits as well. Not only are simpler things more memorable, but by not giving people all the information up front, they set up a curiosity gap, leaving people wanting more.
+Unexpectedness
+•	The next principle that drives stickiness is unexpectedness. More unexpected things are more likely to be remembered. Things can be unexpected for a number of reasons. One is that they violate expectations by breaking a pattern. 
+•	Take the experience of flying JetBlue airlines, for example. One reason that experience is so memorable is that it violates the pattern people have come to expect from airline travel. When you think 
+
+--- PDF_PAGE 32 ---
+26Lecture 4: Simple Rules to Make Ideas Stickabout flying, especially on a “lower-cost” airline, you expect dingy 
+seats and not enough legroom. Food usually consists of peanuts, and the entertainment, if there is any, is usually some G-rated movie that was barely out in theaters because it was so terrible. 
+•	But flying JetBlue is memorable because the experience breaks that pattern. There are reasonably new leather seats and a decent amount of legroom. For entertainment, there are televisions in the back of every seat. For food, they give you a choice among a variety of decent snack options, and unlike other airlines, you can take more than one. 
+•	While surprise gets people’s attention, really sticky things do something more than that: They hold people’s attention. One reason that things hold attention is because they open up what is called a curiosity gap, or a mystery where people want to know the answer. 
+•	One great example of opening up a curiosity gap is the movie The 
+Blair Witch Project . Released in the late 1990s, this horror film told 
+the story of three student filmmakers who supposedly disappeared while hiking in the hills of Maryland to film a documentary about a local legend known as the Blair Witch. 
+•	The film was unexpected because people couldn’t tell if it was real or not. Everything was shot on a handheld camera, and rather than having interviews with the director, or promotional materials, the film’s website featured fake police reports and newsreel-style interviews.
+•	As a result, some people initially thought that the film was an actual documentary about the “missing” teenagers. And this curiosity gap made it extremely memorable. People wanted to find out whether it was real or fake, so they talked to other people to try to find out and answer the mystery.
+•	Repetition dulls surprise. While something may be unexpected the first time you see it, see it again and it’s less so. The maker of The 
+
+--- PDF_PAGE 33 ---
+27Blair Witch Project  tried to come out with a sequel called The Book 
+of Shadows based on a similar premise—that it was real. But while 
+this was effective the first time around, the second time it fell flat because it was no longer surprising. 
+Concreteness
+•	Concreteness is another factor that makes things memorable. If you look at sticky rumors, or urban legends, you’ll notice that they often use very concrete language, such as words written in lipstick on the mirror. Such concrete language makes messages memorable because it helps the listener visualize what is being talked about. You can almost see the red color of the lipstick if you close  
+your eyes.
+•	Rather than being concrete, most messages we hear in daily life are much more abstract. Take, for example, the way a local construction firm might describe themselves: “Building is a series of conversations, interactions, and collaborations with a focus on creating the kind of synergy that produces extraordinary results.”
+•	It’s the type of message that sounds great when you hear it but goes in one ear and out the other. Why? Because the details are so abstract that you can’t picture any of it. What does synergy look like? What color are interactions or collaborations? This language is the opposite of concrete. 
+•	Contrast this with a much more concrete way an event planner could describe what they do: “Who designs it, arranges it, brings it, loads it, drapes it, pins it, hangs it, lights it, serves it, and then takes it all down so you don’t have to? We do.” Right away, you have a perfect sense of what they do and why you might want to hire them. And the concreteness makes it memorable.
+•	Concrete language plays an important role in political debate. Global warming, for example, is very concrete. If you close your eyes, you can see temperature shooting up and polar bears on shrinking ice floes. But the phrase “climate change” is much more 
+
+--- PDF_PAGE 34 ---
+28Lecture 4: Simple Rules to Make Ideas Stickabstract. If you close your eyes and listen to the term “climate 
+change,” it’s difficult to visualize. It’s less concrete and, thus, less likely to be memorable and drive action.
+Credibility
+•	The final factor that makes messages sticky is credibility. The more credible the message, the more likely people are to believe it and remember it. Sometimes we think of credibility as all about the communicator. Is the person sharing the message credible? If so, then we believe the message. But certain aspects of the message itself can make it more credible, regardless of who is sharing it.
+•	Let’s say that you want to convince people that California needs more tax dollars. You want them to see that California is big, so you tell them that California has 33 million people. But the problem with 33 million is that it is just a number. Most people don’t know whether it’s big or small. The phrase “global warming” is more concrete—and, therefore, easier to 
+visualize and remember—than the phrase “climate change.” 
+© pum_eva/iStock/Thinkstock.
+
+--- PDF_PAGE 35 ---
+29•	The message becomes much more memorable once that number 
+is put in context. For example, someone could say that California has more people than Alaska, Arkansas, Delaware, Hawaii, Idaho, Iowa, Kansas, Maine, Mississippi, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Dakota, Oregon, Rhode Island, South Dakota, Utah, Vermont, West Virginia, and Wyoming combined. By using a comparison, the message gives the information more context and immediately makes it  
+more understandable.
+•	In addition to putting numbers in context, another way messages evoke credibility is through something called testable credentials. Rather than trying to convince people of something, information is much more convincing if it’s presented in a way that encourages people to convince themselves.
+•	Personal care brand Clinique wanted to convince consumers that their three-step skin care system helps people exfoliate and get rid of dry skin. But rather than just telling people that, they encouraged people to convince themselves. They devised a “tape test,” where people are encouraged to press a strip of clear tape onto the back of their hand and peel it off. 
+•	When people do so, they notice a lot of white flakes, which is the dead skin that needs to be exfoliated. Try the product, though, and then use the tape, and much less skin comes off. The tape test generates credibility by encouraging people to try it themselves and see the difference.
+Berger and Heath, “Idea Habitats.” 
+Heath and Heath, Made to Stick .
+    Suggested Reading
+
+--- PDF_PAGE 36 ---
+30Lecture 4: Simple Rules to Make Ideas Stick1. Why is simplicity such an important driver of what we remember?
+2. If you’re going to present numerical information, like statistics, how can 
+you make sure it’s presented in a way that sticks?
+    Questions to Consider
+
+--- PDF_PAGE 37 ---
+31The Social Influence of Conformity
+Lecture 5
+This lecture kicks off the part of the course related to social influence—
+how it works and why some things spread from person to person while others stagnate. In this lecture, you will learn about conformity. You 
+will learn that in many cases, people conform or imitate those around them, even in cases where they know the answer is wrong or even when it requires more effort. In general, social influence has a huge effect on behavior.
+Conformity: Information
+•	People tend to follow the behavior of those around them. We 
+listen to the same music as our friends, buy similar cars to our neighbors, and follow the same religions as our parents. Whether making simple decisions, such as which dog food to buy, or more consequential ones, such as where to send our children to school, people tend to do the same things as others. 
+•	Conformity happens for two reasons. The first is about information. One reason people conform is because they are trying to figure out the right thing to do in a given situation. 
+•	People imitate others, in part, because others’ choices provide useful information. It’s called informational influence. Where should we go on vacation this year? Which preschool will give the kids a good education? Is this new policy initiative worth supporting? 
+•	We don’t know the right answer, and even if we have some sense of what to do, we’re not entirely sure. So, to help resolve our uncertainty, we see what other people are doing and follow that. We assume that if other people are doing something, it must be a decent idea. There is safety in numbers, and others may know something we don’t. 
+
+--- PDF_PAGE 38 ---
+32Lecture 5: The Social Influence of Conformity•	If a vacation destination seems popular, we assume that it must 
+be worth checking out. If everyone in the neighborhood sends their kids to a certain school, we assume that it must be pretty good. And if we see signs on lots of neighbors’ yards supporting a particular political initiative, we assume that it must be good for  
+the community. 
+•	We use others as information, or a shortcut to judgment. Collecting all that information ourselves would be difficult. Trial and error might work, but it would be extremely effortful and time consuming. Alternatively, we could try direct observation, but that’s also difficult. Furthermore, people could follow advertisements. However, most people don’t trust ads and are generally skeptical of persuasion attempts. Following others saves us time and energy.
+•	Conformity also leads to herding behavior. For example, people in the Midwest call a sweetened carbonated beverage “pop” because that is what other people in the Midwest say. If you moved to the Midwest from the East Coast, you’d probably think it was strange at first and keep saying “soda.” But, soon enough, you’d find yourself tempted to start saying “pop.” If everyone else is saying it, it just starts to sound right.
+Conformity: To Fit In
+•	The second reason people conform is to fit in. Imagine that you were asked to participate in a very simple vision test. In front of you is a pair of cards. On the left card is a line, and on the right card are three comparison lines: A, B, and C. Your job is to pick the line on the right card—A, B, or C—that is the same length as the target line on the left card. But rather than doing the experiment alone, you participate with a larger group of your peers. After five participants report that line B is the line that is the same length as the target line, even though it is clearly line C that is the correct answer, which line would you pick? When psychologist Solomon Asch designed this line length study, he was looking to do more than just test people’s vision. He was hoping to prove someone wrong. 
+
+--- PDF_PAGE 39 ---
+33•	Psychologist Muzafer Sherif had conducted a similar study and 
+found some pretty surprising results. Sherif was interested in how norms form—how groups of people come to agree on common ways of seeing the world. To study this question, he put people in an unusual situation called the autokinetic effect. 
+•	Sherif placed individuals in a dark room and displayed a small pinpoint of light on the wall. He asked them to stare at the light and not move their eyes for as long as possible. Then, he asked them to report how far the point of light moved. In reality, the point of light hadn’t moved at all. But for individuals in the room, the light seemed like it moved. 
+•	Staring at a small dot of light in an otherwise dark room is tougher than it sounds. After a while of staring in the darkness, people’s eyes eventually fatigue and start to move involuntarily. This causes people to perceive that the light is moving, even if it’s been stationary the whole time
+•	Sherif studied the autokinetic effect because he wanted to see how people might rely on others when they were uncertain. First, Sherif put each participant in the dark room by themselves—alone without anyone else present. He found that each person converged on their own norm of judgment. 
+•	The first time in the room, someone might guess that the light moved eight inches. The next time, through, that person might guess that the light moved closer to four inches. But, eventually, they settled on a particular number (for example, six inches) and stuck with it for the rest of the trials, guessing a similar number again and again. 
+•	Next, Sherif put groups of people in the room at the same time. Two or three participants would be in the room together, and each would be asked to call out their judgments to the rest of the room. While different participants often started with different answers, they soon came to a common estimate. 
+
+--- PDF_PAGE 40 ---
+34Lecture 5: The Social Influence of Conformity•	One participant might have said six inches when they were by 
+themselves, and another might have said two inches, but when placed together, their judgments tended to converge. The person who said six inches might start to make smaller judgments (for example, four inches), and the person who said two inches might start to make larger judgments (for example, four inches). It seemed that people’s estimates conformed to those around them. 
+•	In fact, this influence was so strong that it persisted even when participants returned to making individual judgments. After the group trials, Sherif split the groups up and had people do the task alone. But people continued to give the answers that they had settled on with the group, even after the group was gone. 
+•	Sherif’s findings generated a good bit of controversy. Do people just do whatever everyone else is doing? Are we mindless automatons that simply follow the actions of others without thought? The very notions of independence and free thought that much of American culture is based on seemed at stake. 
+•	But Solomon Asch wasn’t convinced. Asch thought Sherif’s results were driven by the nature of the task. Rather than people being mindless followers, he thought the results just demonstrated that people use multiple inputs when making decisions. When people are uncertain about what to do, relying on others makes sense. Others provide information about the right answer, so why wouldn’t people take that information into account?
+•	So, to test whether people only conformed because the answer was uncertain, Asch devised a different task. Rather than putting people in a situation where the answer was unclear, he wanted to put them in a situation where the answer was obvious—where people could easily tell the correct answer right away and, thus, would have no need to rely on those around them. 
+•	The line length task was a perfect choice. Even someone with poor eyesight could easily tell the correct answer. There would be no 
+
+--- PDF_PAGE 41 ---
+35need to rely on anyone else. Asch assumed that when the answer 
+was clear, conformity would be drastically reduced.
+•	To provide an even stronger test, Asch rigged the group’s responses. There was always one real participant, but rather than using multiple real participants, as Sherif had, Asch filled the rest of the “participants” with actors. In each group of people that sat in the room together, only one was a real participant, and the rest were fakes. These individuals looked like real participants—same age, gender, etc.—but rather than choosing what answer to give, each gave predetermined responses. Sometimes they gave the right answer, picking the line on the right that was the same as the one on the left. 
+•	But on other preselected trials, all of them gave the same wrong answer—all saying “line B,” for example, when the answer was clearly line C. Asch used the line task because he assumed that it would reduce conformity. The real participants could clearly see the correct answer, so even though others gave the wrong response, it shouldn’t matter. Perhaps a few participants would waver once in a while, but for the most part, people should give the correct answer.
+•	Instead, conformity was rampant. Around 75 percent of participants conformed to the group at least once. And while most people didn’t conform on every single trial, on average, people conformed one-third of the time. 
+•	But the most striking part of this finding is the way in which they conformed. Even though people’s own eyes told them the correct answer, people went along with the group—even when they could clearly tell that the group was incorrect. Solomon Asch was wrong. Even when the answer is clear, people still conform.
+•	The reason people conformed in this situation is called normative influence. In general, people like to be liked. We want people to think positively of us and avoid being ostracized. So, sometimes we go along to fit in. 
+
+--- PDF_PAGE 42 ---
+36Lecture 5: The Social Influence of Conformity•	The idea of normative influence helps us understand why people go 
+along even when the answer seems obviously wrong. It’s difficult to oppose the group. Particularly when other people can observe our behavior, we don’t want to be the only person that goes against  
+the majority.
+•	You see this a lot in meetings. People may have opposing viewpoints, but if it seems like everyone is against them, they often keep their views to themselves. And while imitating others can sometimes be helpful, saving us time and effort, in other cases it can lead us astray. 
+•	Groupthink occurs when everyone takes the same perspective because they’re exposed to one another’s opinions. It’s good to have cohesive groups, but it is also important to make sure that different opinions are heard. The idea of the wisdom of crowds depends on different people each inputting different information. If everyone says the same thing, there are few benefits to the group. In groups, most people find it difficult to oppose other members of the group, 
+and this sometimes leads to uncreative, lackluster meetings.
+© monkeybusinessimages/iStock/Thinkstock.
+
+--- PDF_PAGE 43 ---
+37•	When people can express themselves in private, that frees them up 
+to share their true opinions. Anything that makes people feel less alone in their minority opinions can have similar effects. You might think that people need to have a few others that go along with them, but having even one other dissenter frees people up to speak their mind. In fact, that other minority vote doesn’t even have to have the same opinion as you. Having at least one other person that disagrees with the majority, even if that person has a different opinion from you, frees people up to share their true opinion.
+•	It’s also important to note that conformity often happens below our awareness. The mere fact that other people are doing something can subtly make that thing seem more correct or normative than it  
+did before. 
+•	Given all the types of domains and choices on which people conform, it’s also interesting to note the one place we don’t see conformity: ourselves. While it’s easy to see others conforming and doing the same things as those around them, we tend not to see evidence of conformity in our own behavior. 
+•	We think other people bought their BMW to fit in, but we bought ours because it drives well. Part of this is because of the social value of being unique and different in American culture, but the other part of it is driven by the fact that conformity happens nonconsciously, or below our awareness. 
+Asch, “Opinions and Social Pressure.”
+Sherif, “A Study of Some Social Factors in Perception.”Zhang, “The Sound of Silence.”
+    Suggested Reading
+
+--- PDF_PAGE 44 ---
+38Lecture 5: The Social Influence of Conformity1. Why do we find it so easy to see other people being affected by social 
+influence but difficult to see it in ourselves?
+2. What is the evolutionary or functional benefit of conformity, and when does it lead us astray?
+    Questions to Consider
+
+--- PDF_PAGE 45 ---
+39The Social Influence of Divergence
+Lecture 6
+Social influence often leads people to do the same things as others. 
+But social influence can also repel, and sometimes it leads people to avoid doing what others are doing. In this lecture, you will learn about 
+divergence and the meaning of consumption. You will learn when people conform, or do the same things as others, versus diverge and do something different. People not only care about what things do, but they also care about what they mean. What things communicate determine what we choose, what things catch on, and why once-popular things die out.
+Signaling
+•	People often buy things for what they do, but they also buy things 
+for what they mean, or signal. How do products, ideas, and even whole disciplines gain signal value? Where do signals come from? One place is through marketing. Companies spend millions of dollars designing ads, products, and stores that portray a particular image.
+•	For example, when Honda launched a new compact crossover SUV called the Element, they spent a lot of time and money trying to appeal to the 20-somethings they hoped to attract. The SUV was designed with space for kayaks and seats that could be washed down. Their ads showed cool 20- and 30-somethings engaging in a variety of extreme sports. But companies don’t totally control their image. Part of what it means to drive an Element depends on the types of people that use the brand. 
+•	People engage in conspicuous consumption to signal desired identities. Most people would like to be richer, smarter, and more in shape than they actually are. So, they adopt the brands, mannerisms, and signals that convey the desired identity. 
+•	The idea of aspiration groups has been around for a long time. But while it’s clear that people sometimes adopt clothing, music, 
+
+--- PDF_PAGE 46 ---
+40Lecture 6: The Social Influence of Divergencepolitical positions, and even lingo to send desired signals, what 
+happens to the signal as a result of that adoption?
+•	Honda pitched the Element as a dorm room on wheels for college-aged folks, but that wasn’t the only demographic it appealed to. The Element was just as popular with 30- and 40-somethings, who loved it for hauling around kids and groceries. Senior citizens flocked to the SUV for its easy entry, spacious interior, and relatively low price tag. 
+•	As a result, what it meant to drive an Element started to shift. So, the people that might have originally been interested in the Element started looking elsewhere. The 20- and 30-somethings that might have once considered the SUV bought something else that better communicated their desired identity. Shifts in the signal led them to diverge, or avoid the SUV , to avoid sending undesired signals. 
+•	Similar behavior happens all the time. Professionals, for example, stopped calling their children “Junior” once the practice was adopted by the working class, and people ate 35 percent less candy when they saw an obese person take a lot. People diverge to avoid being misidentified. Teenagers don’t want to look like their parents, Democrats don’t want to look like Republicans, and jocks don’t want to look like geeks. 
+Conformity versus Divergence
+•	It’s clear that people often diverge from others to avoid signaling undesired identities, but doesn’t research suggest that people conform, or do the same thing as others? So, when and why do people conform versus diverge? It depends a lot on the domain, or the area of life, in which the behavior is taking place.
+•	In functional domains, such as brand of detergent, people choose mainly based on functional value. Is this thing good or not? If more people like something, that suggests it’s pretty good. And as a result, people conform to what other people choose in these less identity-relevant domains.
+
+--- PDF_PAGE 47 ---
+41•	But for more identity-relevant choices, the pattern reverses. For 
+things like music and clothing, people are less likely to choose things if someone unlike them chooses them previously. In these identity-relevant domains, we care not only about what things do, or their functional value, but what they mean, or what identity they signal. As a result, we diverge when certain types of people adopt them to avoid sending undesired signals. 
+•	In identity-relevant domains, we not only care about whether other people are doing something, but also who those people are. If they are like us, or are people we want to seem like, then we’re more likely to do what they’re doing. We’re more likely to buy a car if people like us tend to buy that car or if it sends a desired signal. The same thing happens with music, clothes, and other identity-relevant domains. 
+•	But if people we don’t want to look like are doing it, then we tend to stay away. We avoid products or ideas that are adopted by people we don’t want to look like, and we abandon things we once liked if those people adopt. Even though the functional value may not have changed, the signal value has. 
+•	Thinking about identity signaling and divergence helps us understand a number of puzzles we see in the world. Identity signaling also helps explain the types of signals different people prefer. Brands use large, visible logos to facilitate the signaling 
+With fashion, some people conform to 
+fit in, while others specifically try to stand out by diverging from the norm.
+© EpicStockMedia/iStock/Thinkstock.
+
+--- PDF_PAGE 48 ---
+42Lecture 6: The Social Influence of Divergenceprocess. Cars have big emblems on the front, and clothing and 
+handbags are often plastered with logos. 
+•	Such overt signals are common, but one place we might expect less overt signals is for cheaper goods. People might want to let others know that they bought an Armani shirt, but they might be less keen on broadcasting that they bought a shirt from Walmart. Consequently, one might expect a somewhat positive relationship between price and brand prominence. Cheaper goods should have small, if any, logos, and more expensive goods have larger, more prominent logos.
+•	But a distinctly different pattern emerges when hundreds of products are analyzed. Rather than a positive relationship between price and brand prominence, we find an inverted-U relationship. For cheap products, the brand is almost never identified. For mid-priced products, branding becomes more prominent. But as price increases even further, branding becomes less prominent. 
+•	Without logos, products are much more difficult to identify. Why would consumers pay more for products that are more difficult to identify? In the absence of prominent branding, most observers will confuse expensive handbags, shirts, and other items for cheap generics. Why would people spend extra money on products that most people would think were cheap? 
+•	Even premium luxury brands charge more for less prominent branding. Among Mercedes cars, for example, price and brand prominence are negatively correlated. More expensive Mercedes have a smaller emblem on the front. For every 5,000-dollar increase in price, the logo shrinks by around a centimeter. 
+•	Gucci handbags and Louis Vuitton shoes show the same pattern. Items that display the brand less prominently are more expensive. In other words, quieter signals cost more.
+
+--- PDF_PAGE 49 ---
+43•	Do wealthy people just dislike logos, or might these findings say 
+something deeper about the communication of identity? The answer lies in the power of subtle signals. Things vary in how explicitly branded they are. Some products scream the brand name in large letters for everyone to see, but other signals are less blatant.
+•	More visible signals usually facilitate desired identification. Explicit markers like obvious brand names and logos should be more effective signals to the general public because they are easier for most people to see and identify. Wearing a shirt that displays the name “Gucci” makes it easier for people to see that you bought something expensive. More subtle signals like certain colors on the soles of shoes or particular detailing may be missed. Such dog-whistle fashion flies beneath the radar and may fail to be decoded by most observers.
+•	But while this inability to signal widely may seem like a downside, it also has a hidden benefit. Explicit signals are easier to identify, but as a result, they are also more likely to be copied. If you’re a wealthy person, carrying a handbag that displays the name “Louis Vuitton” all over it should make it easier for people to  
+recognize you. 
+•	But because they’re more recognizable, such explicit signals are more likely to be poached by outsiders. Regular people who want to seem wealthy should be more likely to buy bags with prominent branding, even if they can’t really afford them. 
+•	Handbags with larger logos and more explicit branding are more likely to be pirated because customers buying counterfeits are buying them for their signal value. They don’t care about quality; they care about other people seeing that they bought a certain type of bag. 
+•	As a result, insiders, or people who know a lot about a given domain, may actually prefer subtle signals. Of course, these discreet markers aren’t as widely observable, but they help distinguish 
+
+--- PDF_PAGE 50 ---
+44Lecture 6: The Social Influence of Divergenceinsiders from wannabes. If everyone who wants to seem rich buys 
+knockoff handbags bathed in Louis Vuitton logos, then those bags are no longer a good signal of wealth, and real rich people may diverge and move on to something else.
+•	Furthermore, while not everyone can recognize them, subtle signals provide a covert communication system with other insiders. Fashionistas have the expertise to recognize understated markings. The same is true in all sorts of domains. 
+Berger and Heath, “Where Consumers Diverge from Others.”
+Berger and Rand, “Shifting Signals to Help Health.”Berger and Ward, “Subtle Signals of Inconspicuous Consumption.”
+1. Which social groups are we most likely to diverge from, and why?
+2. Why are people happy to buy the same refrigerators as other people but 
+bristle at having the same car or wearing the same shirt?
+    Suggested Reading
+    Questions to Consider
+
+--- PDF_PAGE 51 ---
+45Word of Mouth—Powerful and Persuasive
+Lecture 7
+In this lecture, you will learn about the power of word of mouth—how 
+interpersonal communication shapes everything from the products we buy to the ideas we support. You will learn about why word of mouth 
+is more impactful than company-generated communication, how it’s different from traditional advertising, and the role that online technologies like Facebook and Twitter play in shaping communication. There are many challenges to reaching an audience and getting messages heard. But some messages get through, and in this lecture, you will learn about why.
+Interpersonal Communication versus Traditional Advertising
+•	People love to share stories, news, and information with others 
+around them. We tell our neighbors about great vacation destinations, chat with our friends about movies, and gossip with coworkers about potential layoffs. We write online reviews about restaurants, share news on Facebook, or tweet about recipes we just tried.
+•	But word of mouth is not just frequent; it’s also important. The things others share with us, e-mail us, and text us have an important impact on what we think, read, buy, and do. We vote for candidates our friends endorse, try websites our neighbors praise, and read books our relatives recommend. Word of mouth is the primary factor behind 20 to 50 percent of all purchasing decisions. 
+•	Consequently, interpersonal communication has a huge impact on whether products, ideas, and behaviors become popular. A word-of-mouth conversation by a first-time customer leads to an almost 200-dollar increase in restaurant sales. For books on Amazon.com, a five- (rather than one-) star review leads to approximately 20 more books sold. 
+•	While being mentioned on TV shows like Oprah has a huge impact 
+on product success, in aggregate, online posts by regular people 
+
+--- PDF_PAGE 52 ---
+46Lecture 7: Word of Mouth—Powerful and Persuasivehave a much bigger impact. In fact, while traditional advertising 
+or company-generated communication is still useful in some ways, word of mouth from everyday people is more than 10 times  
+more effective.
+•	Word of mouth is more effective than traditional advertising for two key reasons. First, people trust their friends more, because they know their friends have their best interests at heart. Advertisements always talk about how great a product is. But the objectivity of our friends, combined with their candidness, makes us much more likely to trust, listen to, and believe our friends.
+•	The second reason word of mouth is more effective is because it’s more targeted. Companies try to advertise to reach the largest number of interested customers. Word of mouth, on the other hand, is naturally directed toward an interested audience. We don’t share a news story or recommendation with everyone we know. Rather, we tend to select particular people who we think would find that given piece of information most relevant. Consequently, word of mouth tends to reach people who are more interested in the thing being discussed. 
+•	But traditional advertising also has some beneficial features. Interpersonal communication tends to be a little slow. It takes a while for a message to move from one person to the next, and so on. Advertising, because of its scale, still does a good job of generating broad awareness very quickly. If you want millions of people to find out about something right now, a splashy Super Bowl ad is still the best way to do it. Such an ad is more expensive, and people are less likely to trust it, but it’s still the best way to guarantee broad exposure quickly.
+•	Note that interpersonal communication is a different model of information transmission than traditional advertising. Advertising is all about attention, and it’s heavily driven by the marketer and the media channel. Companies have a message they want to get out there, so they pay for television advertising or other ways to get the 
+
+--- PDF_PAGE 53 ---
+47requisite number of eyeballs. There is one message that goes out to 
+everyone from a central source.
+•	Interpersonal communication, on the other hand, is consumer driven and all about participation and advocacy. Rather than merely being a conduit for a marketer-determined message, people participate in the construction and editing of the narrative. If a person disagrees with what he or she sees or hears in an ad, he or she will share his or her own opinion, not the ads. 
+•	Beyond effectiveness, traditional marketing and interpersonal communication differ in some important ways. First, while advertising tends to be more of a broadcast medium, interpersonal communication involves narrowcasting. In most cases, communication that comes from companies or organizations is the same message broadcast to many people. 
+•	Interpersonal communication, however, tends to be more tailored to the recipient. People may tell one friend one thing, but another friend something completely different based on that person’s differing interests. This audience tuning increases the receiver’s receptiveness to the message.
+•	Second, traditional marketing is usually disruptive. Most advertising is interruption marketing. Ads get between you and the content you are interested in, interrupting you with a message you are usually less interested in. 
+•	Interpersonal communication, however, is integrated into everyday life. Any mentions of brands, ideas, or behaviors are part of the conversation. As a result, the mention gets much more attention. 
+•	Third, traditional marketing is mostly self-interested. The business wants to sell something, so it tries to convince the consumer to buy. Even cause marketing is self-interested. Greenpeace wants to convince you that its issues are important and deserve your time, attention, and money. 
+
+--- PDF_PAGE 54 ---
+48Lecture 7: Word of Mouth—Powerful and Persuasive•	Interpersonal communication, however, is more you-focused. Your 
+friends aren’t trying to sell you anything; they’re just passing along information they think you might find relevant or interesting. But because they seem less self-interested, people are more likely  
+to listen.
+•	Fourth, from a cost standpoint, traditional marketing is more expensive. Companies and organizations have to pay for television time, space on the radio, or an ad in the back of the newspaper. Costs are scaled based on the number of people they want to reach: The larger the campaign, the higher the cost. 
+•	Interpersonal communication, however, is relatively cheap. Viral videos don’t cost more the more people pass them on. So, as marketing strategies go, word of mouth can be very cost effective—as long as people actually share the message. A failed word-of-mouth campaign costs pretty much the same as a successful one, so getting people to talk and share is key. 
+The Hype Surrounding Interpersonal Communication
+•	With all its potential benefits, though, there’s also a lot of hype surrounding interpersonal communication. First, when people tend to think about word-of-mouth or interpersonal communication, they tend to focus on things like Facebook and Twitter—social media technologies and online communication. 
+•	Indeed, online communication has made it faster and easier to share news and information with a broad audience than ever before. However, only about seven percent of word of mouth happens online—even though millions of people use various sites every day and billions of pieces of content get shared every month. 
+•	It’s true that people spend a lot of time online—close to three hours per day by some estimates—but we forget that people also spend lots of time offline (more than seven times as much, in fact). This means that there is a lot more time for offline conversations, situations in which people talk face to face.
+
+--- PDF_PAGE 55 ---
+49•	Interpersonal communication and word of mouth have been around 
+for a long time. People have been talking and sharing since the invention of language. Technology has just changed how we communicate somewhat.
+•	We tend to overestimate online word of mouth because it gets more media attention. People are more likely to read the news if it talks about new technology or how things are changing faster than they ever have before, even if a lot has stayed the same.
+•	We also tend to overestimate online word of mouth because it’s so much easier to see. Social media sites provide a handy record of the posts, comments, and content we share online. And when we look at it all together, it seems like a lot. But we don’t think about all the offline conversations we had over that same time period because they’re more difficult to see. 
+•	Furthermore, while you might think that online word of mouth reaches a larger audience, that’s not always the case. After all, while face-to-face communication tends to be one on one, or among a small handful of people, tweets or Facebook status updates tend to be sent to over 100 people. But note that not all the potential recipients actually see every message. There is way too much content posted for any person to read a large portion of what shows up in his or her feed. 
+•	While interpersonal communication didn’t start with the Internet, these new technologies have changed communication in some important ways. The Internet allows people to have larger audiences for their messages. While offline word of mouth goes from one person to another and tends to be relatively slow, online word of mouth can move much faster through larger groups of people. It’s also more public and involves weaker ties. While offline we spend a lot of time talking to people we know well, online a lot of what we share goes to acquaintances.
+
+--- PDF_PAGE 56 ---
+50Lecture 7: Word of Mouth—Powerful and Persuasive•	The second issue with the hype around online communication is 
+that with all the excitement around the technology, people have forgotten about a much more important aspect: the psychology. Why do people talk and share in the first place, and why do they pass along some things rather than others? People may post on Facebook or Twitter, but if we don’t understand why they share certain things more than others it’s really difficult to understand why things catch on. Some news and information gets shared while others don’t. 
+•	Public health officials can tweet daily bulletins about safe sex, but if but no one passes them along, the campaign will fail. Research shows that 50 percent of YouTube videos have fewer than 500 views, and only one-third of one percent get more than 1 million views. Really understanding interpersonal communication requires understanding the underlying human behavior: the psychology of sharing, or the science of social transmission. While social media sites like Facebook and Twitter are popular ways for people 
+to communicate with others, face-to-face communication can be more effective.
+© Ingram Publishing/Thinkstock.
+
+--- PDF_PAGE 57 ---
+51Berger, Contagious, Introduction.
+Chevalier and Mayzlin, “The Effect of Word of Mouth on Sales.”Iyengar, Van den Bulte, and Valente, “Opinion Leadership and Social 
+Contagion in New Product Diffusion.”
+1. Why is word of mouth more impactful than traditional advertising?
+2. Think about the last time someone recommended something to you. 
+What was it, and did you end up taking their recommendation? Why, or why not? 
+3. With what types of decisions or actions might word of mouth have a bigger impact?
+    Suggested Reading
+    Questions to Consider
+
+--- PDF_PAGE 58 ---
+52
+Lecture 8: The Social Currency of Shared IdeasThe Social Currency of Shared Ideas
+Lecture 8
+There are millions of different stories, topics, and ideas that can be 
+shared. Why do people share some things in particular? Why do they share a specific story rather than another one? Certain ideas are more 
+contagious, and certain rumors are more infectious. Some online content goes viral, while other stuff never gets more than 10 views. What leads certain products, ideas, and behaviors to be talked about more? This lecture begins by teaching you that there are six key drivers of social transmission. In this lecture, you will learn about three of them: social currency, triggers, and emotion.
+Why Things Go Viral
+•	A few years ago, if you looked up why things go viral, most people 
+thought that it was luck—that it was random why people share some things rather than others. Other people thought that there was a different answer: cats. But suggesting that cats drive sharing doesn’t explain why some cat photos or videos get shared more than others, and it doesn’t explain the millions of things that get shared every day that have absolutely nothing to do with cats. 
+•	There is a science behind why people talk and share. In fact, there are six key factors that drive people to talk and share, regardless of whether the shared things are products, ideas, news, or rumors. The acronym STEPPS can help you remember these six key factors: social currency, triggers, emotion, public, practical value, stories. Each of these six factors is a psychological principle that drives people to pass information on and share it with their friends.
+•	Each of the STEPPS helps explain not only why things go viral, but also why people might share a story or news article with a friend. “Viral” is a term that has gotten a lot of attention, but most things don’t go viral in a traditional sense. People often share news and information with others, but the likelihood that one person’s shared 
+
+--- PDF_PAGE 59 ---
+53item affects an extremely long chain of people is small. So, rather 
+than focusing on huge hits, it’s more interesting to think about why things spread from one person to another, regardless of whether it eventually generates a long chain in a population. 
+Social Currency
+•	Think about the last time someone told you something that they told you not to tell anybody else. If you’re like most people, you probably told somebody else. That’s because having access to a secret, information that not everyone else knows, makes you look smart and in the know. It gives you social currency. 
+•	Just like the car we drive and the clothes we wear, the things we say and the things we share affect how other people see us. So, one reason people talk about and share things is for desired signals of identity—to share things that make them look good rather than bad. 
+•	If we tell lots of stories about taking our kids to practice or about how well they are doing in school, people see us as a good parent. If we talk a lot about new technology and the hottest, coolest thing in our industry, people think we are knowledgeable about that. 
+•	What gives people desired signals? What leads them to talk about and share certain things rather than others? The first idea is making people feel like insiders. When people feel special—not like everybody else—they’re much more likely to talk about and share information.
+•	LinkedIn was trying to get people to spread the word about the service, so rather than just sending out an e-mail endorsing themselves, they sent out a simple e-mail to some of their subscribers noting that those subscribers had one of the top 5 or 10 percent of LinkedIn profiles. When people received that e-mail, they felt smart and in the know. But they also shared the e-mail with everyone else they knew because it made them look good. 
+•	The second idea that relates to social currency is inner remarkability. You might think that certain products are naturally remarkable 
+
+--- PDF_PAGE 60 ---
+54Lecture 8: The Social Currency of Shared Ideasand others are doomed to fail—that there’s no way people would 
+talk about mundane things like socks, toilet paper, or household appliances. But one company got over 200 million views for videos about one of the most mundane products: a blender. 
+•	The CEO of a company called Blendtec wanted to build a really powerful blender, so he took anything he could find—including golf balls, BIC lighters, and even iPhones—and tossed it in the blender to see if the blender was tough enough to cut it. All of this was filmed and put online as video clips, and millions of people have shared them. Blender sales increased over 700 percent when these videos came out. 
+•	And even more impressive is the fact that they got people thinking and talking about blenders by finding inner remarkability. Anything can be made remarkable if we think about what makes it surprising, novel, or interesting. In addition, the more concrete something is—the more you show rather than tell—the more likely people are going to remember something and share it with others. 
+Triggers
+•	The next principle in the framework is triggers. Rebecca Black’s song “Friday” was deemed the worst song ever, but even though people hate it, it has over 300 million views on YouTube. It’s one of the most viral songs ever. If so many people hate this song and it’s so terrible, why do they pass it on? Why was it so successful if people hated it so much? 
+•	The number of searches on Google for just the phrase “Rebecca Black” over time shows a spike in attention every seven days—in fact, every Friday, which is the same name as Rebecca Black’s song. 
+An innovative way to 
+advertise a blender is to show it destroying phones.
+© IPGGutenbergUKLtd/iStock/Thinkstock.
+
+--- PDF_PAGE 61 ---
+55The song is equally good, or bad, depending on your preferences, 
+every day of the week. But Friday provides a ready reminder, what psychologists would call a trigger, to make people think about, and talk about, and share the song. 
+•	If something is top of mind, it’s much more likely to be tip of tongue. Even if something is not the most interesting thing in the world, if we’re thinking about it, then we’re much more likely to talk about it and share it. 
+•	And usage is not the only trigger. So, for example, if someone said “peanut butter,” you might say “jelly.” It’s almost like peanut butter is a little advertisement for jelly—because if peanut butter is around, jelly doesn’t have to remind you that it exists. 
+Emotion
+•	The next principle is emotion. The idea is that when we care, we share. The more we care about something, the more likely we are to pass it along. Many newspapers and content providers and websites have a most-shared list—the article that the most people passed on to their friends and colleagues in the past 24 hours. 
+•	Only about 20 percent of articles make this list. Why do some make the list and others don’t? What about some content makes it more viral or more likely to be shared? To address this question, researchers analyzed every article that came out in The New York Times that was featured on their website over a six-month period—over 7,000 pieces of content. Thousands, if not millions, of people pass on content through the website of The New York Times. 
+•	Then, the articles were coded on a variety of dimensions. Researchers controlled for a variety of factors that they weren’t interested in but might affect the results, including whether there were external drivers of attention, whether the article appeared earlier in the physical paper, whether it spent more time in prominent places on the website, whether it was released when readership was greater, and whether it was written by a famous author. 
+
+--- PDF_PAGE 62 ---
+56Lecture 8: The Social Currency of Shared Ideas•	In addition, researchers controlled for factors that might influence 
+transmission and presence of certain types of content, including what section the article appeared in, the writing complexity, the author’s gender, and the article’s length.
+•	Not surprisingly, the research showed that articles were more likely to be shared if they made people look good. Articles were more likely to be shared, in part, because they made the sharer seem surprising or interesting. A story about love, sex, and the changing landscape of infidelity is interesting to most people and makes the sharer look smart and in the know.
+•	Useful information was also more likely to be shared. Articles about how to beat high airfares, restaurant reviews, or tips about getting kids into college are all helpful information. People might share this to look good or to help others.
+•	But there was still one topic that stood out like a sore thumb: science articles. For the most part, these articles were not as surprising or useful as articles from more mainstream sections. While knowing that monkeys have emotion is definitely important scientifically, it’s not clear that it’s extremely useful in our daily lives. However, science articles like these made the most e-mailed list more often than those about politics, fashion, or business news. It turns out that science articles frequently chronicle innovations and discoveries that evoke a particular emotion in readers: awe. 
+•	Awe is the sense of wonder and amazement that occurs when someone is inspired by great knowledge, beauty, or might. Awe expands one’s frame of reference and drives transcendence. It can be evoked by everything from great works of art or music to religious transformations and from breathtaking natural landscapes to human feats of discovery. More than any other emotion, awe describes what people felt when they read many of the science pieces from The New York Times. 
+
+--- PDF_PAGE 63 ---
+57•	But these initial findings brought up additional questions. What 
+about awe specifically makes people share? Would other emotions have a similar impact? There are reasons to think that any emotion might encourage people to share. Talking to others often makes emotional experiences better. If we get promoted, telling others helps us celebrate. If we get fired, telling others helps us vent. 
+•	Sharing emotions also helps us connect. If a person finds a really inspiring clip online and shares it with a friend, the recipient is likely to feel similarly inspired. And the fact that both people feel the same way helps deepen their social connection. 
+•	Might any emotion boost sharing? To check, researchers picked another emotion, sadness, and went back to the data. Articles were scored based on how much sadness they evoked. Articles about things like someone paying tribute to his or her deceased grandmother were scored as evoking a good deal of sadness, while articles about things like a winning golfer were scored as low sadness. If any emotion boosted sharing, then sadness—like awe—should also increase sharing.
+•	But it didn’t. In fact, sadness had the opposite effect: Sadder articles were actually 16 percent less likely to make the most e-mailed list. Something about sadness was making people less likely to share. Usually, we think about emotions in terms of positivity, or valence. Some emotions like awe are positive, while others, like sadness, are negative. Anger and anxiety were more likely to be shared than sadness, for example.
+Berger, Contagious, “Social Currency,” “Triggers,” and “Emotion” chapters.
+Berger and Milkman, “What Makes Online Content Viral?”
+Berger and Schwartz, “What Drives Immediate and Ongoing Word of Mouth?”
+    Suggested Reading
+
+--- PDF_PAGE 64 ---
+58Lecture 8: The Social Currency of Shared Ideas1. Will people only talk about surprising or interesting things, or are there 
+reasons that even boring and mundane things might be talked about?
+2. What do funny YouTube videos have in common with angry political rants? Does any emotion drive people to share?
+    Questions to Consider
+
+--- PDF_PAGE 65 ---
+59Messages That Go Viral
+Lecture 9
+In this lecture, you will learn about the second half of the six key drivers 
+of social transmission, or STEPPS. In the previous lecture, you learned about social currency, triggers, and emotion. In this lecture, you will 
+learn about public, which is the idea that the easier it is to see something, the easier it is to imitate; practical value, which is the idea that the more useful something is, the more likely people are to share it; and, finally, stories, which is the idea that information travels under the guise of idle chatter.
+Public
+•	The phrase “monkey see, monkey do” is pretty basic. Monkeys 
+often do what other monkeys do. But the “see” part of the phrase is actually quite important, because if monkeys, or people, can’t see what others are doing, it’s going to be really difficult for other people or monkeys to imitate them. 
+•	This idea of public is that if something is easier to see, it’s easier to imitate. You might, for example, see someone’s shirt, like it, and go buy something similar. But it’s going to be much harder to imitate their socks—because you can’t see them. 
+•	This idea of public is based on a simple idea in psychology called social proof. Imagine that you’re in a foreign city and you’re going out to dinner. You don’t really know much about the area or the restaurants. You’re just going to walk around and find a place. How would you pick a place? Most people would probably simply go to the place that’s full. The idea is that if the restaurant is full, it must be pretty good. 
+•	We do this all the time. We use others’ behavior as a signal of information. When trying to figure out what we should do, what product to buy, or what idea to use, we look to others as a signal of what we should do. 
+
+--- PDF_PAGE 66 ---
+60Lecture 9: Messages That Go Viral•	If you can’t see what others are doing, it’s much more difficult to 
+imitate others. If you can’t see their behavior, you can’t decide whether you should go to that restaurant or not. If you can’t see whether it’s full, how do you know whether other people like it as well?
+•	Functional concerns are often the first thing that comes to mind when we think about why people buy a car, but social proof also plays a role. Research shows that people are more likely to buy a car if those around them have done so recently. Even more impressive is observability’s role in these effects. Purchases of new cars by others have a much bigger effect in Los Angeles and Miami, where it is easier to see what others are driving, than in New York City. Social influence is stronger when behavior is more observable. 
+•	How do companies and organizations get public to help them get their ideas to catch on? One key is to make the private public. For example, what particular nonprofit organization we donate to is pretty private, which makes it more difficult for these things to catch on. If you’re a nonprofit organization, for example, how do you make it easier for people to see what others are doing and encourage that behavior to become more popular? 
+•	One way many brands use is large logos. But there are other ways to make the private public. How can companies get people to switch from an old product to their new one? Apple, for example, started making white headphones, instead of the standard black headphones. They encouraged their product to catch on by making the private more public—by calling attention to their new  
+white headphones. 
+•	Social proof and the idea of public explain the backfiring of antidrug campaigns. The campaign that told people not to use drugs actually increased drug use. While it was telling kids not to use drugs, it was simultaneously saying that lots of other kids are using drugs. You shouldn’t use it, but other kids are doing it—in fact, the coolest kids in school. That combination of exposure and public encouraged a backfiring effect. 
+
+--- PDF_PAGE 67 ---
+61•	Highlighting what other people should do can be much more 
+effective. Focusing on the negative effects of the message, of doing drugs, rather than what others are doing, is more effective.
+Practical Value
+•	Online, people share practical, useful information, or valuable information, to help others—whether it’s saving people time or money. Links with titles such as “10 tips for using your phone more effectively” or “five secrets to managing your time” are very  
+often shared.
+•	One thing that people share a lot of is deals—for example, 10 percent off or 5 dollars off something. And retailers offer deals with a simple notion that if they offer a deal, people will be more likely to purchase and talk about the product. 
+•	But why do some deals cut through the clutter while others fail? Why do people talk about and share some deals while they don’t share others? Imagine that you’re selling a product for 20 dollars and you could either discount it 5 dollars or 25 percent off. Those two are economically the same, but people are more likely to take that deal if it’s 25 percent off. One way of framing that numerical information makes it more impactful, even though the product costs the same at the end of the day. 
+•	But percentage discounts are not always better. If a product costs 2,000 dollars, for example, the retailer might offer 500 dollars off or 25 percent off. Again, those two are economically the same. But 500 dollars sounds like a bigger number and is more likely to drive people to take action. 
+•	In general, this is what can be called the rule of 100. If the number is below 100, then percentage is more likely to drive people to take action. If it’s above 100, then the numerical information is more likely to drive people to take action. How numbers are framed makes a big difference. 
+
+--- PDF_PAGE 68 ---
+62Lecture 9: Messages That Go ViralStories
+•	What would you do if someone walked up to you at a party and 
+said, “Did you know that Subway has five subs under five grams of fat?” You’d probably try to think of an excuse to get out of the conversation. No one wants to be friends with someone that sounds like a walking advertisement, just reiterating product information. But people are happy to share stories. 
+•	Jared was an overweight guy who went on a Subway diet. He ate Subway for lunch and dinner every day for months on end. Eventually, he lost over 180 pounds by eating Subway sandwiches. That’s an amazing story. But from that story, think about what you learned about Subway.
+•	You might have learned that Subway has some low-fat subs—in fact, so many that you could eat there for weeks straight and not get tired of it. In fact, everything that person said to you at that hypothetical party—the idea that Subway has five subs under five grams of fat—is hidden inside Jared’s story. 
+•	It’s not just a story; it’s a vessel, or carrier, of information. It’s a Trojan horse story, which references the famous battle that no one could seem to win until the Trojans built a wooden horse and hid their men inside. In the same way, good stories have something on the outside but also carry messages, or information, along for the ride.
+•	For example, there’s a bar in Philadelphia called the Franklin Mortgage and Investment Company. It has high-end cocktails with ingredients like 
+The fact that a bar has three types 
+of ice sparks interest in those who hear about it. 
+© Jupiterimages/Photos.com/Thinkstock.
+
+--- PDF_PAGE 69 ---
+63chrysanthemum and elderflower and shaved cinnamon. It has high-
+end cocktail glasses and everything you might expect from a pretty impressive cocktail establishment. 
+•	But when you talk to people that have been to the Franklin Mortgage and Investment Company, most people don’t talk about the drinks. They share a very simple fact: that the Franklin Mortgage and Investment Company has three types of ice. You might wonder what that means and why you’ve never heard of it.
+•	Different types of ice melt at different rates. Some ice is cut in big blocks, and it melts slower. Other ice is chopped up into little swizzle pieces to melt quicker. You don’t care about different types of ice unless you care about really good drinks—because some drinks need ice that melts faster to give it more water, and other drinks need ice to melt slower to give it less water. 
+•	In fact, by listening to that story, you realize the key attribute that the Franklin Mortgage and Investment Company has: It’s a great bar that makes good drinks. If they told people that they are a great bar that makes good drinks, would people share that? Probably not. 
+•	But sharing that story of having three types of ice carries that message along for the ride. It opens up a curiosity gap. People want to tune in to find out more. And when they do tune in to find out more, it acts as a Trojan horse story that carries that message along for the ride, helping people realize what good drinks the Franklin Mortgage and Investment Company has.
+Berger, Contagious, “Public,” “Practical Value,” and “Stories” chapters.
+Hornik, Jacobsohn, Orwin, Piesse, and Kalton, “Effects of the National 
+Youth Anti-Drug Media Campaign on Youths.”
+    Suggested Reading
+
+--- PDF_PAGE 70 ---
+64Lecture 9: Messages That Go ViralKahneman and Tversky, “Prospect Theory.”
+McShane, Bradlow, and Berger, “Visual Influence and Social Groups.” 
+1. When is it a good idea versus a bad idea to make social information (i.e., 
+how many other people are doing something) public?
+2. Next time a company or organization presents you with numerical information, notice how it is framed. How might that frame impact  
+your behavior?
+    Questions to Consider
+
+--- PDF_PAGE 71 ---
+65Social Networks—Channels of Influence
+Lecture 10
+In this lecture, you will learn about the utility of social networks and how 
+these ties between people shape the spread of information and influence. It’s not random who we’re connected to; we tend to be connected to 
+similar others. But this pattern of connections influences whether things spread and catch on. And different types of social ties have different benefits. Strong ties may be useful for some things, because they care a lot about us, but weak ties might have access to different information. 
+Social Networks
+•	Social networks are composed of nodes and ties, or connections. 
+Depending on the pattern of ties, certain nodes are closer, and others are farther away. The Facebook network, for example, is composed of people (nodes) who are friends or at least know one another. You could take those same nodes and draw different connections. If ties represented people that worked together, the shape of the network 
+How ideas spread among social networks depends on the structure and 
+strength of the networks. 
+© dterminal/iStock/Thinkstock.
+
+--- PDF_PAGE 72 ---
+66Lecture 10: Social Networks—Channels of Influencewould look different. Some people who have many friends might 
+have few work colleagues, and vice versa.
+•	When we think about networks, there are a few characteristics to keep in mind. One is popularity, or the number of ties. Some people have more ties, or friends, while others have fewer. Another measure is position. Certain people are more central in the network, while others are more on the periphery. People who are more central are connected to more people, who are connected to more people, and so on. Think about it like living in the suburbs versus living in the city. Central people in a network are in the middle of it all.
+•	Even beyond the sheer number, some areas of the network are more densely connected than others. If all of your friends are friends with all of your other friends, then one might say that your network is densely connected. This means that a piece of information can travel from one person to another very quickly. It’s only one short hop. If your network is less densely connected, it takes longer for the information to get around because it requires more hops.
+•	Our social networks are often divided into different spheres of life. Our work colleagues may be densely interconnected to each other, for example, as might our college friends. But there might be very few links (beyond ourselves) between those two groups. Similarly, while people from our last job might all know each other, none of them know many people from our current job. However, for people who live in the same town they grew up in, went to college where they work, or work in a small industry where people often move around, the interconnections may be more frequent.
+Network Structure
+•	Focusing on item characteristics, if a particular idea is more contagious, then it will be more likely to spread throughout a group or social network. But for things to catch on, network structure matters as well. If there’s no link between two people, then it’s impossible for information to spread from one person to another.
+
+--- PDF_PAGE 73 ---
+67•	In a sense, network ties are the bridges that help information get 
+off an island. They carry information and influence from one group of people to another. But is it possible to connect any two people in the world through their social ties? Are there actually paths that would do it? 
+•	You might think that the answer is no. First, people don’t know everyone. You don’t necessarily know people in some other country. Second, there’s not enough time for the information to get from one place to another. Third, there’s too much geographic distance. 
+•	One of the first studies to look at how information spreads through networks was Stanley Milgram’s small world study conducted in the late 1960s. Milgram was interested in whether any one person could be connected to any other person and, if so, how many intermediary steps it would take. 
+•	To find out, Milgram gave packets to randomly selected people in Omaha, Nebraska, and Wichita, Kansas. In the packet was a chain letter of sorts and information about a target person in Boston, Massachusetts. If the recipient personally knew the target, he or she was told to send the packet directly to that person. If not, the recipient was asked to put his or her name on a list within the packet, think of a friend or relative he or she knew personally who might be most likely to know the target, and forward the letter to that person. This new recipient, in turn, was asked to follow the same steps. 
+•	While not all the letters reached their final destination, of those that did, the average path length was around 5.5 or 6, leading to the phrase “six degrees of separation.” This also suggests that it’s a small world.
+•	Given the number of friends people have, why did it take the letters so long to get there? If everyone knows 500 people, and each of those people know 500 people, and so on, it would more than cover 
+
+--- PDF_PAGE 74 ---
+68Lecture 10: Social Networks—Channels of Influencethe population of the United States in four degrees of separation. So 
+why does it take six?
+•	The first issue is that people don’t know the shortest paths. While a computer can figure out the quickest connection between two people, we don’t have that bird’s-eye view of our own networks. We may know 500 people who know 500 people, but we don’t necessarily know who the 500 people we know know. There may be someone we know who actually knows the end target, but we don’t realize it.
+•	Beyond knowledge, another reason the paths were so long is that not all connections are independent. You may know 500 people, and each of your friends may know 500 people, but those two sets of 500 people are overlapping. For most of the people you know, you know a number of their friends as well. Groups of people tend to be interconnected, where everyone knows everyone. Thus, while you may have 500 friends, each of those friends may only have a few hundred unique connections. 
+•	The interconnection points to a broader idea in sociology called homophily. People aren’t randomly connected; they’re more likely to be friends with other people like them. A Democrat is more likely to be friends with other Democrats than Republicans. 
+•	This is driven in part by biased interaction. In general, the more time we spend with other people, the more likely we are to become friends with them. And we aren’t equally likely to meet everyone in the world. We’re much more likely to meet other people that live near us and, among them, that have similar interests to our own. 
+•	Even beyond biased interaction, there is also biased tie formation. We’re more likely to interact with other people like us, but even among those like-minded individuals we meet, we’re more likely to become friends with others who have common interests. 
+
+--- PDF_PAGE 75 ---
+69Network Strength
+•	Let’s say that you learn about a new product. Do all of your 
+social ties find out? If they do, it would require active sharing. Most information doesn’t flow like water through open channels. In thinking about ties as bridges, they are more like drawbridges, selectively opening. Who are we more likely to share with?
+•	One important distinction is tie strength. Some of our connections are stronger ties, while others are weaker ties. Strong ties are people you talk to often or have known for a long period of time—for example, good friends or family members. Weak ties are casual relationships—people you talk to infrequently or acquaintances you don’t know very well.
+•	How many strong ties do most people have? How many people in your life do you talk to at least once a week every week of the year? For most people, that number is definitely less than 10, and those are the people they’d describe as strong ties.
+•	Each type of tie provides different benefits. In his doctoral dissertation, sociologist Mark Granovetter surveyed over 200 people to find out how most people found jobs. He asked people who was the contact person in their social network that helped them find a job, if there was one, and whether those connectors were strong ties they saw often or weak ties they saw infrequently. 
+•	If you think about it, there are many reasons to think that strong ties will be more effective in helping people get jobs. Strong ties know us better, and they care about our interests more. Your best friend is more likely to know exactly what type of job you’re looking for and, therefore, should be better equipped to find something suitable for you. Similarly, they care about you and, therefore, care a lot more if you get hired. If they know you’re looking, they probably spend more time asking around for opportunities and more effort following up on any opportunities that exist.
+
+--- PDF_PAGE 76 ---
+70Lecture 10: Social Networks—Channels of Influence•	But when Granovetter looked at the data, he found the opposite. 
+He found that people were more likely to find jobs through weaker ties. How can weak ties be useful? First, they often have access to different sorts of information than the job seeker. 
+•	People tend to be friends with other people like them. And this is particularly true with strong ties. Our strong ties are similar to us in many ways. They often have similar interests, read similar publications, and have the same friends. But all these things that make them good friends for us also mean that they have less access to novel information. They drill in the same wells of information we do. 
+•	Weak ties, however, tend to be more different from us and pull from different sources. They access different social networks. They tend to live in different places and work in different industries. All of this makes them weaker ties, but it also makes them really useful at helping us get a job, because they can tap these new social networks and new sources of information to get us information we might not get otherwise.
+•	In addition to having different information, there are simply more of them. We have a small set of strong ties and many more weak ties. So, the strong number across many of them can help you get access to information.
+•	The strength not only relates to the access to information, but it also influences what we share. Think for a moment about what you might share with strong ties versus what you might share with weak ties. Would you tell a casual acquaintance the same thing you would tell a strong tie? Probably not. 
+•	If we have a deep secret, we might tell our strong friends, but we wouldn’t tell our weak ties. Or if we found out about a really great deal that only a certain number of people could get access to, we’d probably tell the people we know really well rather than the people we don’t know very well.
+
+--- PDF_PAGE 77 ---
+71Granovetter, “The Strength of Weak Ties.”
+Travers and Milgram, “An Experimental Study of the Small World Problem.”Watts, Six Degrees.
+1. Why do people tend to be friends with other people like them?
+2. Consider your own social network. What are the different islands, and 
+how interconnected are they? Which people or positions in the network might be particularly important for information to spread?
+    Suggested Reading
+    Questions to Consider
+
+--- PDF_PAGE 78 ---
+72
+Lecture 11: Social Influencers—Myths and ScienceSocial Influencers—Myths and Science
+Lecture 11
+Are certain people are more influential than others? Is it correct to 
+think that if some special people do something, it will be much more likely to catch on? This lecture is about the notion of social 
+influencers—the idea that in a sea of influence, some fish have a bigger impact. In this lecture, you will examine the intuition behind this idea, the science behind how it works (or doesn’t work), and how likely it is to be true. You will learn more about influence and about how big a role different individuals play in social epidemics.
+Influencers
+•	There’s a notion that not all influence is created equal—that some 
+people are special and have a bigger impact than others. You can call them influencers, opinion leaders, or vanguards. The notion that certain people are more influential than others fits with our mental model of the world. Wherever there is a group, there is a hierarchy. Some people are high status, while others are low status. 
+•	We also all know people that are experts or early adopters. Certain friends always seem to have the newest tech gadget or know about the hottest restaurant opening in town. They’re the first to know about the latest big trade in sports and seem to always wear this year’s color or style three months before everyone else. So, they must have more influence than everyone else, right? 
+•	Early work on interpersonal communication recognized that the media didn’t play as large a role as once thought. This work argued that rather than the media just directly sharing a message with everyone, there was a two-step flow of communication. This theory suggested that certain opinion leaders played a big role in the diffusion of information. Certain people shaped how entire communities thought about the news, current events, and politics. More than the media, these opinion leaders determined what people think.
+
+--- PDF_PAGE 79 ---
+73•	In general, researchers often observe what looks like a 10 percent 
+rule in online forums, blogs, or social networks like Facebook or Twitter, meaning that 10 percent of the people on the site engage in most of the activity, while the other 90 percent don’t  
+contribute much. 
+•	Even among those top 10 percent, there sometimes appears to be a 10 percent rule, meaning that 10 percent of the contributors are heavy contributors while the rest only contribute intermittently. That means that only 1 percent of the members or people on the site are driving most of the contribution. Those 1 percent seem extremely important. 
+•	The idea of influencers has had a huge impact on marketing practice. Marketers spend huge sums of money trying to find these so-called opinion leaders and get them to endorse their products. Political campaigns look for the “influentials” to support their candidate or point of view. 
+It does not seem that certain people have more influence on what catches on in 
+a group than others, even though this is widely thought to be the case.  
+© Digital Vision/Thinkstock.
+
+--- PDF_PAGE 80 ---
+74Lecture 11: Social Influencers—Myths and Science•	If certain people have more influence than others, then these special 
+people should be particularly impactful in getting things to catch on. If companies and campaigns can find them and get them to support their side, the product or initiative will succeed. Anything these special people touch should turn to gold. If they adopt or talk about a product or idea, it will become popular. 
+•	The notion of influencers relies on four key assumptions: impact, meaning that certain people have a bigger impact or influence than others; identification, meaning that companies and organizations can identify them; influenceability, meaning that those companies and organizations can influence them; and cost effectiveness, meaning that all of this is cost effective.
+Impact
+•	The first assumption is impact, or that some people have a bigger impact on others’ behavior. One key question regarding impact is the dimension being considered. Some people have more friends than others, and some people are more persuasive than others. But do people who have more friends or are more persuasive actually have more influence? There are a number of reasons to question this idea.
+•	You might think, for example, that more friends means more influence, but just because someone has more friends doesn’t mean they’ll tell all of them about a product or idea. Offline communication takes a long time, and as a result, people don’t share a particular story or piece of information with everyone they know. Even if we like something a lot, we get bored of sharing the same story, and new, more exciting things happen that we share instead. What that means is that not all of our offline friends hear about everything we like.
+•	This is even true online, where we can share with all of our social ties at once. While offline sharing takes effort, online messages can be pushed to everyone we know right away. So, you might 
+
+--- PDF_PAGE 81 ---
+75expect that people with larger online social networks can diffuse 
+information more broadly. 
+•	However, even though these people have more connections, most people don’t see everything that their friends post. In addition, people with lots of connections tend to be connected to one another, which means that people with lots of friends have audiences that are seeing even more information and are less likely to pay attention to any one piece.
+•	Part of this is also about tie strength. People can have lots of Facebook friends but only so many strong ties. And strong ties have more influence. People are much more likely to listen to their regular, everyday friends, or people like them, for example, rather than influential bloggers. 
+•	But it’s not just about exposure. Communication is not the same as influence. Even if people who had more ties reached a larger audience, it often requires multiple doses of influence to change behavior. For something to catch on, it needs multiple people in one’s network to be talking about it or adopting it.
+•	Rather than certain special people getting involved, success depends on characteristics of the thing and the network. Is the product or idea contagious and likely to be talked about? Will there be enough conversations to keep interest up and enthusiasm spreading? How dense is the network? Is there a community of people that are all supporting it?
+•	Finally, just because someone was an early adopter, or adopted something before everyone else, it doesn’t mean that they influenced later adopters’ behavior. People often confuse correlation with causation. Just because someone adopted first and the thing later became popular, it doesn’t mean that they were the reason it became popular. 
+
+--- PDF_PAGE 82 ---
+76Lecture 11: Social Influencers—Myths and ScienceIdentification
+•	Another assumption underlying the notion of influencers is that if 
+such people existed, we could identify them. But there are a number of problems with this assumption. First, what does it mean to be an influencer? When people talk about influencers, many different definitions are thrown around. Sometimes it’s about knowledge, sometimes it’s about popularity, and sometimes it’s about something else. But do the same people have all these qualities? No. Therefore, it’s difficult to know what dimension to actually measure to figure out who would be an influencer.
+•	Even if people agree on what dimension to measure, there is a self-report problem. Few people would say that they are at the bottom of the influence hierarchy. As a result, asking people how influential they are doesn’t result in very accurate data. If everyone says they’re above average, the measure isn’t very helpful. 
+•	There’s also a cross-situation problem. Even if people were influential in one situation, will they be in others? We all have friends that know a lot about politics, culture, or art. But does that knowledge extend across domains? Influence is not monolithic. It depends on topic and can change over time. This makes it even more difficult to identify people who could potentially have  
+more influence.
+Influenceability
+•	The main benefit of influencers from a marketing perspective is that they can be used to help something catch on. But even if influencers existed, and we could identify them, it would be difficult to influence their behavior to spread the word about a product or idea.
+•	People are happy to spread the word about products and ideas they like—in fact, they’re happy to do that for free. But they’re not just going to talk about any product, even if you paid them a small fee. 
+•	Word of mouth works because it is mostly organic. People say they like what they like, and they say they hate what they hate. Of 
+
+--- PDF_PAGE 83 ---
+77course, if you paid someone a million dollars you could probably 
+get them to pretend that they like your product, but that’s just not going to happen for most people. 
+•	The reason people trust word of mouth is because it’s credible. People know that their friends aren’t being paid. So, most people who are seen as experts or having influence won’t take money to talk about things. They don’t offer their word of mouth to the highest bidder because they know it is worth more than that. If people can’t trust what they have to say, any influence they had would be gone. 
+Cost Effectiveness
+•	The last assumption is about cost. This is more of a practical question, but it’s an important one. Assuming that the cost to get someone to tweet about something is a penny for every follower they have, researchers found that it was only worth targeting people with more followers if the acquisition costs were extremely high—over 1,000 dollars per person. Unless that astronomical threshold is met, which rarely happens, it’s probably better to target regular, everyday people.
+•	So, influence clearly exists. It’s clear that people’s behavior is affected by those around them. And while each of us may have people in our personal network that may have more influence on us in certain domains, it’s not clear that they have more influence over many people more broadly. And it’s difficult, if not impossible, for an outside company or organization to identify them—at least not without a lot of effort. This means that the idea of influencers as we know it is overstated. 
+•	It’s important to think about the dynamics of the specific context—whether, for example, one dose of influence is enough or multiple is needed. In addition, there are some simple tricks for identifying people who are more likely to share a message or lead things to catch on. One is roles. Certain people may not be extremely popular, or persuasive, but they talk to a lot of people every day. Therefore, 
+
+--- PDF_PAGE 84 ---
+78Lecture 11: Social Influencers—Myths and Sciencethey can be influential just by the sheer number of people they come 
+into contact with.
+•	Another trick is to ask people to nominate an acquaintance. Why? Because people’s friends have more friends than they do. When people nominate an acquaintance, they can pick anyone they know. But people who have more friends show up in more of other people’s networks. So, they’re more likely to be nominated than people who have fewer friends (who show up in fewer networks). These nominated people might not be more influential, but at least they have more ties.
+Bakshy, Hofman, Mason, and Watts, “Everyone’s an Influencer.”
+Thompson, “Is the Tipping Point Toast?”Watts, “Challenging the Influentials Hypothesis.”
+1. What are the myths surrounding the notion of influencers?
+2. In your own experience, do people who have more friends or are more 
+persuasive actually have more influence in terms of how you behave?
+    Questions to Consider
+    Suggested Reading
+
+--- PDF_PAGE 85 ---
+79Tracking Results—Big Data, Little Data
+Lecture 12
+While companies used to ask people for their opinions, technology 
+has changed that. Huge amounts of data are now recorded regarding everything people do. The focus of this lecture is 
+on both big and little data—how we can track the types of things that are catching on in our own lives and in the world more broadly. In this lecture, you will learn how Google can predict outbreaks of the flu, why clothing brands monitor social media chatter, and whether our own addiction to analytics might be leading us astray.
+Measuring Volume
+•	Social media is not just a marketing platform—it’s also about 
+listening. Today, many companies collect data by engaging in what is called social media monitoring, or listening. They track what the population of consumers is saying about their brand on social media sites and use that in many different ways. One major dimension of customer response that companies can listen to and measure is volume, or how many people are talking about a particular thing. 
+•	Ann Taylor, for example, noticed that lots of consumers were complaining about one of their ad campaigns—that the models used were too thin and set up unrealistic expectations of how women should look. The comments started to build, but because the company was listening, they were able to react before it became a full-blown boycott. They took photos of actual employees wearing Ann Taylor clothes and posted them with an apology online.
+•	Google used search data to predict incidence of the flu. Between 5 and 20 percent of the U.S. population gets the flu each year. As a result, health officials are keen to know when and where outbreaks occur. The faster they know, the earlier they can put control and 
+
+--- PDF_PAGE 86 ---
+80Lecture 12: Tracking Results—Big Data, Little Dataprevention measures in place. But how can they quickly figure 
+out whether this year will be a big one for the flu—or whether the outbreak will be bigger in one region of the country versus another?
+•	Usually, officials rely on reports from the Centers for Disease Control (CDC). These reports are compiled from data collected from thousands of health-care providers and other sources. But one problem with these reports is that often the data is slow to arrive. 
+•	People don’t go to their doctor right away after getting the flu, and even when they go, it takes a while for that data to make it back to the CDC. Furthermore, many people many not go to the doctor at all, underestimating the actual strength of the outbreak. By the time the CDC realizes that a big outbreak is happening, it’s often too late. The people who have the flu have already spread it to more people, and the epidemic has taken off. So, how can they get data on a flu outbreak faster? 
+•	Google found that search data might be able to help. People with the flu often type in related search queries online. They ask Google what common flu symptoms are, how they can get rid of the flu, or how long they should wait before they go to the doctor. But all of this information is entered way before people actually go to the doctor. As a result, a spike in search queries can be a great early warning detection system. In some cases, search terms show a spike in activity weeks before the CDC could pick it up. This lets health officials act faster, prevent more people from getting the flu, and save lives. 
+•	One big benefit of search data is its scale. It’s not just data from a few people in a few different regions; it’s millions of people across the United States. This data is broad in scale and timely. It shows what people are thinking about and looking for right then. And as a predictive tool, this data can be quite powerful. 
+•	Research shows that search data can be an almost real-time predictor of retail sales, home sales, and car purchases. Combined 
+
+--- PDF_PAGE 87 ---
+81with other data, people searching for housing information, for 
+example, provide a better indication of how many houses will be sold over that period. 
+•	Search data is even useful in understanding how popular different vacation destinations are over time, accurately predicting whether France or Britain will be more popular in the summer, or what cities people are most likely to visit at different times of year.
+Tracking Sentiment
+•	In addition to volume, or the amount of interest people have in a topic, online data can also be useful for tracking sentiment, or how people feel about a given topic or idea. In 2012, for example, the Twitter political index tracked people’s attitudes toward Barak Obama and Mitt Romney. By measuring how often people were saying positive things or negative things about Obama, for example, Online data can be useful for measuring volume, tracking sentiment, and 
+conducting market research.
+© shironosov/iStock/Thinkstock.
+
+--- PDF_PAGE 88 ---
+82Lecture 12: Tracking Results—Big Data, Little Datathe index provided a decent sense of how the population felt toward 
+the candidates. 
+•	Brands often do the same sorts of analyses. By examining the words different people use to talk about Pepsi over time, for example, PepsiCo can get a sense of whether their ad campaigns are working. If the campaign is associated with more people saying positive things about Pepsi, the brand can infer that the campaign helped. If it’s associated with more people saying negative things about Pepsi, the brand might infer the opposite.
+•	However, sentiment analysis is not without its challenges. It’s one thing to measure how frequently people search for a given vacation destination. Sure, you have to account for misspellings of the word “Paris” and deal with the problem that sometimes people who search for the word “Paris” are looking for the city, while other times they are looking for Paris Hilton, but these are easy problems to crack compared with sentiment. 
+•	Rather than just looking for the incidence of certain words, such as the mention of the word “Paris,” sentiment tools need to understand something about the context in which people are using a word. The word “good” is positive, for example, but when used in the phrase “not good,” it actually indicates that people dislike rather than  
+like something. 
+•	Words like “small” can have positive or negative connotations depending on the situation. A camera being small is usually a good thing, but with a hotel room, it’s the opposite. Most people would like a hotel room not to be tiny, so may complain about small size. And with other products, like phones, the direction is even less clear. Sometimes small phones make people happy, but sometimes a phone can be too small. 
+•	Slang and sarcasm are even more difficult to parse. If people are saying, “Ford is great,” do they mean it, or are they being facetious? When someone describes the new Ford car as “hot,” can 
+
+--- PDF_PAGE 89 ---
+83the algorithm understand that the person likes the car, rather than 
+that the person thinks the air conditioning is weak? Compared to volume of mentions, sentiment is a much tougher nut to crack.
+Conducting Market Research
+•	Online data can also be used for market research more generally. Let’s say that you like a pair of running shoes, but the company stops making them. How can you figure out other shoes that are similar? Or, say that you’re Honda and you want to get a sense of what other cars people are thinking about buying when they’re thinking about buying the Honda Accord. One way to solve problems like these is to look at the coincidence of different products in online forums. 
+•	What other shoes do people tend to mention in posts that talk about your discontinued pair? What other cars do consumers mention in posts that talk about the Accord? By looking at how frequently different terms appear together, it’s possible to get a good sense of consideration sets. 
+•	The Honda Accord probably shows up with many different cars overall, but which ones does it appear with most frequently? Which other makes and models repeatedly show up with the Accord in posts? That information provides some sense of which other models people are considering.
+•	But technology hasn’t only brought about big data. It has also allowed us to measure our own lives in ways we never thought possible. The recent quest for personal quantification has changed our lives—both for better and worse. 
+•	From Target mining shopper data to figure out who is getting pregnant to Google using online searches to predict the incidence of the flu, companies and organizations are using troves of information to spot trends, combat crime, and prevent disease. Online and offline actions are being tracked, aggregated, and analyzed at dizzying rates. 
+
+--- PDF_PAGE 90 ---
+84Lecture 12: Tracking Results—Big Data, Little Data•	But innovative technologies have also enabled little data to flourish. 
+Personal quantification is the measurement, tracking, and analysis of the minutiae of our everyday lives. This includes how many calories we consumed for breakfast, how many we burned on our last run, and how long we spend using various applications on  
+our computer.
+•	In some ways, little data is a boon. We can lose weight by realizing that we tend to splurge on Thursdays. We can be more efficient at work by realizing that we dillydally more than we thought on Facebook. With data firmly in hand, we can work to optimize every aspect of our behavior. 
+•	But this measurement also has some insidious aspects that we often ignore. We forget that what we track determines where we focus and what we are motivated to improve.
+•	Why do people obsess over LinkedIn connections, Twitter followers, SAT scores, golf handicaps, or even gas mileage? Because they are observable metrics that are easy to compare. Someone who has more LinkedIn connections must have more expertise. Someone with more Twitter followers must be more “influential.” So, people use these metrics as a yardstick—an easy way to assess whether they are doing well.
+•	But just because a metric is easy to capture doesn’t mean that it’s the right metric to use. More followers don’t actually equal more influence. More connections don’t necessarily mean more expertise. They may just mean that someone spends a lot of time on the site.
+•	Measurement is great. Without it, we don’t know where we are, how we’re doing, or how to improve. But we need to be careful what we measure—because without realizing it, measurement determines rewards and motivation. It determines what people care about, what they work to achieve, and whether they cheat to get there. 
+
+--- PDF_PAGE 91 ---
+85•	For example, tracking student test scores helps measure 
+achievement, but it also encourages teachers to teach to the test. So before you obsess over a particular metric, make sure that it’s the right metric to obsess over. 
+Choi and Varian, “Predicting the Present with Google Trends.”
+Goel, Hofman, Lahaie, Pennock, and Watts, “Predicting Consumer Behavior 
+with Web Search.”
+ 
+1. Explore Google Trends (http://www.google.com/trends/), and try 
+searching for some terms on your own (https://www.google.com/trends/explore#cmpt=q). What are some of the patterns you notice? 
+2. For what types of products and ideas might search data be a good, versus not so good, predictor of actual behavior?
+3. What are the privacy implications of companies using online data to make inferences?
+    Suggested Reading
+    Questions to Consider
+
+--- PDF_PAGE 92 ---
+Bibliography
+86Bibliography
+Asch, S. E. “Opinions and Social Pressure.” Scientific American 193, 5 
+(1955): 31–35.
+Bakshy, Eytan, Jake M. Hofman, Winter A. Mason, Duncan J. Watts. 
+“Everyone’s an Influencer: Quantifying Influence on Twitter.” WSDM 
+(2011): 65–74. 
+Berger, Jonah. Contagious: Why Things Catch On. Simon and Schuster, 2013.Berger, Jonah, and Chip Heath. “Idea Habitats: How the Prevalence of 
+Environmental Cues Influences the Success of Ideas.” Cognitive Science  29 
+(2005): 195–221. 
+———. “Where Consumers Diverge from Others: Identity-Signaling and 
+Product Domains.” Journal of Consumer Research 34, 2 (2007): 121–134.
+Berger, Jonah, and Eric Schwartz. “What Drives Immediate and Ongoing 
+Word of Mouth?” Journal of Marketing Research (October 2011): 869–880.
+Berger, Jonah, and Grainne M. Fitzsimons. “Dogs on the Street, Pumas on 
+Your Feet: How Cues in the Environment Influence Product Evaluation and Choice.” Journal of Marketing Research 45, 1 (2008): 1–14.
+Berger, Jonah, and Katy Milkman. “What Makes Online Content Viral?” Journal of Marketing Research 49, 2 (2012): 192–205.
+Berger, Jonah, and Lindsay Rand. “Shifting Signals to Help Health: Using 
+Identity Signaling to Reduce Risky Heath Behaviors.” Journal of Consumer 
+Research 35, 2 (2008): 509–518.
+
+--- PDF_PAGE 93 ---
+87Berger, Jonah, and Morgan Ward. “Subtle Signals of Inconspicuous 
+Consumption.” Journal of Consumer Research 37, 4 (2010): 555–569.
+Berger, Jonah, Alan T. Sorensen, and Scott J. Rasmussen. “Positive Effects of Negative Publicity: When Negative Reviews Increase Sales.” Marketing Science  29, 5 (2010): 815–827.
+Berger, Jonah, Marc Meredith, and S. Christian Wheeler. “Contextual Priming: Where People V ote Affects How They V ote.” Proceedings of the 
+National Academy of Sciences  105, 26 (2008): 8846–8849.
+Chevalier, Judith, and Dina Mayzlin. “The Effect of Word of Mouth on Sales: Online Book Reviews.” Journal of Marketing Research 43, 3 (2006): 
+345–354.
+Choi, H., and H. Varian. “Predicting the Present with Google Trends.” 2009. 
+Available at http://google.com/googleblogs/pdfs/google_predicting_the_present.pdf. 
+Goel, S., J. M. Hofman, S. Lahaie, D. M. Pennock, and D. J. Watts. 
+“Predicting Consumer Behavior with Web Search.” Proceedings of the 
+National Academy of Sciences  107 (2010): 17486–17490.
+Granovetter, M. S. “The Strength of Weak Ties.” The American Journal of 
+Sociology  78, 6 (1973): 1360–1380.
+Heath, Chip, and Dan Heath. Made to Stick : Why Some Ideas Survive and 
+Others Die. New York: Random House, 2011.
+Heath, Chip, Chris Bell, and Emily Sternberg. “Emotional Selection in 
+Memes: The Case of Urban Legends.” Journal of Personality and Social 
+Psychology  81, 6 (2001): 1028–1041.
+Hornik, Robert, Lela Jacobsohn, Robert Orwin, Andrea Piesse, and Graham Kalton. “Effects of the National Youth Anti-Drug Media Campaign on Youths.” American Journal of Public Health  98, 12 (2008): 2229–2236.
+
+--- PDF_PAGE 94 ---
+88Bibliography
+Iyengar, Raghuram, Christophe Van den Bulte, and Thomas W. Valente. 
+“Opinion Leadership and Social Contagion in New Product Diffusion.” Marketing Science  30, 2 (2011): 195–212.
+Kahneman, Daniel, and Amos Tversky. “Prospect Theory: An Analysis of Decision under Risk.” Econometrica  XLVII (1979): 263–291.
+Levin, I. P., and G. J. Gaeth. “How Consumers Are Affected by the Framing of Attribute Information before and after Consuming the Product.” Journal 
+of Consumer Research 15 (1988): 374–378.
+McShane, Blakely, Eric T. Bradlow, and Jonah Berger. “Visual Influence and 
+Social Groups.” Journal of Marketing Research (December 2012): 854–871. 
+North, Adrian C., David J. Hargreaves, and Jennifer McKendrick. “In-Store 
+Music Affects Product Choice.” Nature 390 (November 1997): 132.
+Plassmann, H., J. O’Doherty, B. Shiv, and A. Rangel. “Marketing Actions Can Modulate Neural Representations of Experienced Pleasantness.” Proceedings of the National Academy of Sciences  105 (2008): 1050–1054.
+Rogers, E. M. Diffusion of Innovations . New York: Free Press, 1995.
+Sherif, M. “A Study of Some Social Factors in Perception.” Archives of 
+Psychology  27, 187 (1935).
+Thompson, Clive. “Is the Tipping Point Toast?” Fast Company 122 (2008): 
+74–105. Available at http://www.fastcompany.com/magazine/122/is-the-tipping-point-toast.html.
+Travers, Jeffrey, and Stanley Milgram. “An Experimental Study of the Small 
+World Problem.” Sociometry 32, 4 (1969): 425–443.
+Watts, Duncan J. “Challenging the Influentials Hypothesis,” WOMMA 
+Measuring Word of Mouth 3, 207.
+
+--- PDF_PAGE 95 ---
+89———. Six Degrees: The Science of the Connected Age. New York:  
+Norton, 2003.
+Zajonc, R. B. “Mere Exposure: A Gateway to the Subliminal.” Current 
+Directions in Psychological Science  10, 6.
+Zhang, Juanjuan. “The Sound of Silence: Observational Learning in the U.S. Kidney Market.” Marketing Science 29, 2 (2010): 315–335.

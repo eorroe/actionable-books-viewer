@@ -1,0 +1,133 @@
+80Lecture 12: Tracking Results—Big Data, Little Dataprevention measures in place. But how can they quickly figure 
+out whether this year will be a big one for the flu—or whether the outbreak will be bigger in one region of the country versus another?
+•	Usually, officials rely on reports from the Centers for Disease Control (CDC). These reports are compiled from data collected from thousands of health-care providers and other sources. But one problem with these reports is that often the data is slow to arrive. 
+•	People don’t go to their doctor right away after getting the flu, and even when they go, it takes a while for that data to make it back to the CDC. Furthermore, many people many not go to the doctor at all, underestimating the actual strength of the outbreak. By the time the CDC realizes that a big outbreak is happening, it’s often too late. The people who have the flu have already spread it to more people, and the epidemic has taken off. So, how can they get data on a flu outbreak faster? 
+•	Google found that search data might be able to help. People with the flu often type in related search queries online. They ask Google what common flu symptoms are, how they can get rid of the flu, or how long they should wait before they go to the doctor. But all of this information is entered way before people actually go to the doctor. As a result, a spike in search queries can be a great early warning detection system. In some cases, search terms show a spike in activity weeks before the CDC could pick it up. This lets health officials act faster, prevent more people from getting the flu, and save lives. 
+•	One big benefit of search data is its scale. It’s not just data from a few people in a few different regions; it’s millions of people across the United States. This data is broad in scale and timely. It shows what people are thinking about and looking for right then. And as a predictive tool, this data can be quite powerful. 
+•	Research shows that search data can be an almost real-time predictor of retail sales, home sales, and car purchases. Combined 
+
+--- PDF_PAGE 87 ---
+81with other data, people searching for housing information, for 
+example, provide a better indication of how many houses will be sold over that period. 
+•	Search data is even useful in understanding how popular different vacation destinations are over time, accurately predicting whether France or Britain will be more popular in the summer, or what cities people are most likely to visit at different times of year.
+Tracking Sentiment
+•	In addition to volume, or the amount of interest people have in a topic, online data can also be useful for tracking sentiment, or how people feel about a given topic or idea. In 2012, for example, the Twitter political index tracked people’s attitudes toward Barak Obama and Mitt Romney. By measuring how often people were saying positive things or negative things about Obama, for example, Online data can be useful for measuring volume, tracking sentiment, and 
+conducting market research.
+© shironosov/iStock/Thinkstock.
+
+--- PDF_PAGE 88 ---
+82Lecture 12: Tracking Results—Big Data, Little Datathe index provided a decent sense of how the population felt toward 
+the candidates. 
+•	Brands often do the same sorts of analyses. By examining the words different people use to talk about Pepsi over time, for example, PepsiCo can get a sense of whether their ad campaigns are working. If the campaign is associated with more people saying positive things about Pepsi, the brand can infer that the campaign helped. If it’s associated with more people saying negative things about Pepsi, the brand might infer the opposite.
+•	However, sentiment analysis is not without its challenges. It’s one thing to measure how frequently people search for a given vacation destination. Sure, you have to account for misspellings of the word “Paris” and deal with the problem that sometimes people who search for the word “Paris” are looking for the city, while other times they are looking for Paris Hilton, but these are easy problems to crack compared with sentiment. 
+•	Rather than just looking for the incidence of certain words, such as the mention of the word “Paris,” sentiment tools need to understand something about the context in which people are using a word. The word “good” is positive, for example, but when used in the phrase “not good,” it actually indicates that people dislike rather than  
+like something. 
+•	Words like “small” can have positive or negative connotations depending on the situation. A camera being small is usually a good thing, but with a hotel room, it’s the opposite. Most people would like a hotel room not to be tiny, so may complain about small size. And with other products, like phones, the direction is even less clear. Sometimes small phones make people happy, but sometimes a phone can be too small. 
+•	Slang and sarcasm are even more difficult to parse. If people are saying, “Ford is great,” do they mean it, or are they being facetious? When someone describes the new Ford car as “hot,” can 
+
+--- PDF_PAGE 89 ---
+83the algorithm understand that the person likes the car, rather than 
+that the person thinks the air conditioning is weak? Compared to volume of mentions, sentiment is a much tougher nut to crack.
+Conducting Market Research
+•	Online data can also be used for market research more generally. Let’s say that you like a pair of running shoes, but the company stops making them. How can you figure out other shoes that are similar? Or, say that you’re Honda and you want to get a sense of what other cars people are thinking about buying when they’re thinking about buying the Honda Accord. One way to solve problems like these is to look at the coincidence of different products in online forums. 
+•	What other shoes do people tend to mention in posts that talk about your discontinued pair? What other cars do consumers mention in posts that talk about the Accord? By looking at how frequently different terms appear together, it’s possible to get a good sense of consideration sets. 
+•	The Honda Accord probably shows up with many different cars overall, but which ones does it appear with most frequently? Which other makes and models repeatedly show up with the Accord in posts? That information provides some sense of which other models people are considering.
+•	But technology hasn’t only brought about big data. It has also allowed us to measure our own lives in ways we never thought possible. The recent quest for personal quantification has changed our lives—both for better and worse. 
+•	From Target mining shopper data to figure out who is getting pregnant to Google using online searches to predict the incidence of the flu, companies and organizations are using troves of information to spot trends, combat crime, and prevent disease. Online and offline actions are being tracked, aggregated, and analyzed at dizzying rates. 
+
+--- PDF_PAGE 90 ---
+84Lecture 12: Tracking Results—Big Data, Little Data•	But innovative technologies have also enabled little data to flourish. 
+Personal quantification is the measurement, tracking, and analysis of the minutiae of our everyday lives. This includes how many calories we consumed for breakfast, how many we burned on our last run, and how long we spend using various applications on  
+our computer.
+•	In some ways, little data is a boon. We can lose weight by realizing that we tend to splurge on Thursdays. We can be more efficient at work by realizing that we dillydally more than we thought on Facebook. With data firmly in hand, we can work to optimize every aspect of our behavior. 
+•	But this measurement also has some insidious aspects that we often ignore. We forget that what we track determines where we focus and what we are motivated to improve.
+•	Why do people obsess over LinkedIn connections, Twitter followers, SAT scores, golf handicaps, or even gas mileage? Because they are observable metrics that are easy to compare. Someone who has more LinkedIn connections must have more expertise. Someone with more Twitter followers must be more “influential.” So, people use these metrics as a yardstick—an easy way to assess whether they are doing well.
+•	But just because a metric is easy to capture doesn’t mean that it’s the right metric to use. More followers don’t actually equal more influence. More connections don’t necessarily mean more expertise. They may just mean that someone spends a lot of time on the site.
+•	Measurement is great. Without it, we don’t know where we are, how we’re doing, or how to improve. But we need to be careful what we measure—because without realizing it, measurement determines rewards and motivation. It determines what people care about, what they work to achieve, and whether they cheat to get there. 
+
+--- PDF_PAGE 91 ---
+85•	For example, tracking student test scores helps measure 
+achievement, but it also encourages teachers to teach to the test. So before you obsess over a particular metric, make sure that it’s the right metric to obsess over. 
+Choi and Varian, “Predicting the Present with Google Trends.”
+Goel, Hofman, Lahaie, Pennock, and Watts, “Predicting Consumer Behavior 
+with Web Search.”
+ 
+1. Explore Google Trends (http://www.google.com/trends/), and try 
+searching for some terms on your own (https://www.google.com/trends/explore#cmpt=q). What are some of the patterns you notice? 
+2. For what types of products and ideas might search data be a good, versus not so good, predictor of actual behavior?
+3. What are the privacy implications of companies using online data to make inferences?
+    Suggested Reading
+    Questions to Consider
+
+--- PDF_PAGE 92 ---
+Bibliography
+86Bibliography
+Asch, S. E. “Opinions and Social Pressure.” Scientific American 193, 5 
+(1955): 31–35.
+Bakshy, Eytan, Jake M. Hofman, Winter A. Mason, Duncan J. Watts. 
+“Everyone’s an Influencer: Quantifying Influence on Twitter.” WSDM 
+(2011): 65–74. 
+Berger, Jonah. Contagious: Why Things Catch On. Simon and Schuster, 2013.Berger, Jonah, and Chip Heath. “Idea Habitats: How the Prevalence of 
+Environmental Cues Influences the Success of Ideas.” Cognitive Science  29 
+(2005): 195–221. 
+———. “Where Consumers Diverge from Others: Identity-Signaling and 
+Product Domains.” Journal of Consumer Research 34, 2 (2007): 121–134.
+Berger, Jonah, and Eric Schwartz. “What Drives Immediate and Ongoing 
+Word of Mouth?” Journal of Marketing Research (October 2011): 869–880.
+Berger, Jonah, and Grainne M. Fitzsimons. “Dogs on the Street, Pumas on 
+Your Feet: How Cues in the Environment Influence Product Evaluation and Choice.” Journal of Marketing Research 45, 1 (2008): 1–14.
+Berger, Jonah, and Katy Milkman. “What Makes Online Content Viral?” Journal of Marketing Research 49, 2 (2012): 192–205.
+Berger, Jonah, and Lindsay Rand. “Shifting Signals to Help Health: Using 
+Identity Signaling to Reduce Risky Heath Behaviors.” Journal of Consumer 
+Research 35, 2 (2008): 509–518.
+
+--- PDF_PAGE 93 ---
+87Berger, Jonah, and Morgan Ward. “Subtle Signals of Inconspicuous 
+Consumption.” Journal of Consumer Research 37, 4 (2010): 555–569.
+Berger, Jonah, Alan T. Sorensen, and Scott J. Rasmussen. “Positive Effects of Negative Publicity: When Negative Reviews Increase Sales.” Marketing Science  29, 5 (2010): 815–827.
+Berger, Jonah, Marc Meredith, and S. Christian Wheeler. “Contextual Priming: Where People V ote Affects How They V ote.” Proceedings of the 
+National Academy of Sciences  105, 26 (2008): 8846–8849.
+Chevalier, Judith, and Dina Mayzlin. “The Effect of Word of Mouth on Sales: Online Book Reviews.” Journal of Marketing Research 43, 3 (2006): 
+345–354.
+Choi, H., and H. Varian. “Predicting the Present with Google Trends.” 2009. 
+Available at http://google.com/googleblogs/pdfs/google_predicting_the_present.pdf. 
+Goel, S., J. M. Hofman, S. Lahaie, D. M. Pennock, and D. J. Watts. 
+“Predicting Consumer Behavior with Web Search.” Proceedings of the 
+National Academy of Sciences  107 (2010): 17486–17490.
+Granovetter, M. S. “The Strength of Weak Ties.” The American Journal of 
+Sociology  78, 6 (1973): 1360–1380.
+Heath, Chip, and Dan Heath. Made to Stick : Why Some Ideas Survive and 
+Others Die. New York: Random House, 2011.
+Heath, Chip, Chris Bell, and Emily Sternberg. “Emotional Selection in 
+Memes: The Case of Urban Legends.” Journal of Personality and Social 
+Psychology  81, 6 (2001): 1028–1041.
+Hornik, Robert, Lela Jacobsohn, Robert Orwin, Andrea Piesse, and Graham Kalton. “Effects of the National Youth Anti-Drug Media Campaign on Youths.” American Journal of Public Health  98, 12 (2008): 2229–2236.
+
+--- PDF_PAGE 94 ---
+88Bibliography
+Iyengar, Raghuram, Christophe Van den Bulte, and Thomas W. Valente. 
+“Opinion Leadership and Social Contagion in New Product Diffusion.” Marketing Science  30, 2 (2011): 195–212.
+Kahneman, Daniel, and Amos Tversky. “Prospect Theory: An Analysis of Decision under Risk.” Econometrica  XLVII (1979): 263–291.
+Levin, I. P., and G. J. Gaeth. “How Consumers Are Affected by the Framing of Attribute Information before and after Consuming the Product.” Journal 
+of Consumer Research 15 (1988): 374–378.
+McShane, Blakely, Eric T. Bradlow, and Jonah Berger. “Visual Influence and 
+Social Groups.” Journal of Marketing Research (December 2012): 854–871. 
+North, Adrian C., David J. Hargreaves, and Jennifer McKendrick. “In-Store 
+Music Affects Product Choice.” Nature 390 (November 1997): 132.
+Plassmann, H., J. O’Doherty, B. Shiv, and A. Rangel. “Marketing Actions Can Modulate Neural Representations of Experienced Pleasantness.” Proceedings of the National Academy of Sciences  105 (2008): 1050–1054.
+Rogers, E. M. Diffusion of Innovations . New York: Free Press, 1995.
+Sherif, M. “A Study of Some Social Factors in Perception.” Archives of 
+Psychology  27, 187 (1935).
+Thompson, Clive. “Is the Tipping Point Toast?” Fast Company 122 (2008): 
+74–105. Available at http://www.fastcompany.com/magazine/122/is-the-tipping-point-toast.html.
+Travers, Jeffrey, and Stanley Milgram. “An Experimental Study of the Small 
+World Problem.” Sociometry 32, 4 (1969): 425–443.
+Watts, Duncan J. “Challenging the Influentials Hypothesis,” WOMMA 
+Measuring Word of Mouth 3, 207.
+
+--- PDF_PAGE 95 ---
+89———. Six Degrees: The Science of the Connected Age. New York:  
+Norton, 2003.
+Zajonc, R. B. “Mere Exposure: A Gateway to the Subliminal.” Current 
+Directions in Psychological Science  10, 6.
+Zhang, Juanjuan. “The Sound of Silence: Observational Learning in the U.S. Kidney Market.” Marketing Science 29, 2 (2010): 315–335.

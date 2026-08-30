@@ -1,0 +1,65 @@
+60Lecture 9: Messages That Go Viral•	If you can’t see what others are doing, it’s much more difficult to 
+imitate others. If you can’t see their behavior, you can’t decide whether you should go to that restaurant or not. If you can’t see whether it’s full, how do you know whether other people like it as well?
+•	Functional concerns are often the first thing that comes to mind when we think about why people buy a car, but social proof also plays a role. Research shows that people are more likely to buy a car if those around them have done so recently. Even more impressive is observability’s role in these effects. Purchases of new cars by others have a much bigger effect in Los Angeles and Miami, where it is easier to see what others are driving, than in New York City. Social influence is stronger when behavior is more observable. 
+•	How do companies and organizations get public to help them get their ideas to catch on? One key is to make the private public. For example, what particular nonprofit organization we donate to is pretty private, which makes it more difficult for these things to catch on. If you’re a nonprofit organization, for example, how do you make it easier for people to see what others are doing and encourage that behavior to become more popular? 
+•	One way many brands use is large logos. But there are other ways to make the private public. How can companies get people to switch from an old product to their new one? Apple, for example, started making white headphones, instead of the standard black headphones. They encouraged their product to catch on by making the private more public—by calling attention to their new  
+white headphones. 
+•	Social proof and the idea of public explain the backfiring of antidrug campaigns. The campaign that told people not to use drugs actually increased drug use. While it was telling kids not to use drugs, it was simultaneously saying that lots of other kids are using drugs. You shouldn’t use it, but other kids are doing it—in fact, the coolest kids in school. That combination of exposure and public encouraged a backfiring effect. 
+
+--- PDF_PAGE 67 ---
+61•	Highlighting what other people should do can be much more 
+effective. Focusing on the negative effects of the message, of doing drugs, rather than what others are doing, is more effective.
+Practical Value
+•	Online, people share practical, useful information, or valuable information, to help others—whether it’s saving people time or money. Links with titles such as “10 tips for using your phone more effectively” or “five secrets to managing your time” are very  
+often shared.
+•	One thing that people share a lot of is deals—for example, 10 percent off or 5 dollars off something. And retailers offer deals with a simple notion that if they offer a deal, people will be more likely to purchase and talk about the product. 
+•	But why do some deals cut through the clutter while others fail? Why do people talk about and share some deals while they don’t share others? Imagine that you’re selling a product for 20 dollars and you could either discount it 5 dollars or 25 percent off. Those two are economically the same, but people are more likely to take that deal if it’s 25 percent off. One way of framing that numerical information makes it more impactful, even though the product costs the same at the end of the day. 
+•	But percentage discounts are not always better. If a product costs 2,000 dollars, for example, the retailer might offer 500 dollars off or 25 percent off. Again, those two are economically the same. But 500 dollars sounds like a bigger number and is more likely to drive people to take action. 
+•	In general, this is what can be called the rule of 100. If the number is below 100, then percentage is more likely to drive people to take action. If it’s above 100, then the numerical information is more likely to drive people to take action. How numbers are framed makes a big difference. 
+
+--- PDF_PAGE 68 ---
+62Lecture 9: Messages That Go ViralStories
+•	What would you do if someone walked up to you at a party and 
+said, “Did you know that Subway has five subs under five grams of fat?” You’d probably try to think of an excuse to get out of the conversation. No one wants to be friends with someone that sounds like a walking advertisement, just reiterating product information. But people are happy to share stories. 
+•	Jared was an overweight guy who went on a Subway diet. He ate Subway for lunch and dinner every day for months on end. Eventually, he lost over 180 pounds by eating Subway sandwiches. That’s an amazing story. But from that story, think about what you learned about Subway.
+•	You might have learned that Subway has some low-fat subs—in fact, so many that you could eat there for weeks straight and not get tired of it. In fact, everything that person said to you at that hypothetical party—the idea that Subway has five subs under five grams of fat—is hidden inside Jared’s story. 
+•	It’s not just a story; it’s a vessel, or carrier, of information. It’s a Trojan horse story, which references the famous battle that no one could seem to win until the Trojans built a wooden horse and hid their men inside. In the same way, good stories have something on the outside but also carry messages, or information, along for the ride.
+•	For example, there’s a bar in Philadelphia called the Franklin Mortgage and Investment Company. It has high-end cocktails with ingredients like 
+The fact that a bar has three types 
+of ice sparks interest in those who hear about it. 
+© Jupiterimages/Photos.com/Thinkstock.
+
+--- PDF_PAGE 69 ---
+63chrysanthemum and elderflower and shaved cinnamon. It has high-
+end cocktail glasses and everything you might expect from a pretty impressive cocktail establishment. 
+•	But when you talk to people that have been to the Franklin Mortgage and Investment Company, most people don’t talk about the drinks. They share a very simple fact: that the Franklin Mortgage and Investment Company has three types of ice. You might wonder what that means and why you’ve never heard of it.
+•	Different types of ice melt at different rates. Some ice is cut in big blocks, and it melts slower. Other ice is chopped up into little swizzle pieces to melt quicker. You don’t care about different types of ice unless you care about really good drinks—because some drinks need ice that melts faster to give it more water, and other drinks need ice to melt slower to give it less water. 
+•	In fact, by listening to that story, you realize the key attribute that the Franklin Mortgage and Investment Company has: It’s a great bar that makes good drinks. If they told people that they are a great bar that makes good drinks, would people share that? Probably not. 
+•	But sharing that story of having three types of ice carries that message along for the ride. It opens up a curiosity gap. People want to tune in to find out more. And when they do tune in to find out more, it acts as a Trojan horse story that carries that message along for the ride, helping people realize what good drinks the Franklin Mortgage and Investment Company has.
+Berger, Contagious, “Public,” “Practical Value,” and “Stories” chapters.
+Hornik, Jacobsohn, Orwin, Piesse, and Kalton, “Effects of the National 
+Youth Anti-Drug Media Campaign on Youths.”
+    Suggested Reading
+
+--- PDF_PAGE 70 ---
+64Lecture 9: Messages That Go ViralKahneman and Tversky, “Prospect Theory.”
+McShane, Bradlow, and Berger, “Visual Influence and Social Groups.” 
+1. When is it a good idea versus a bad idea to make social information (i.e., 
+how many other people are doing something) public?
+2. Next time a company or organization presents you with numerical information, notice how it is framed. How might that frame impact  
+your behavior?
+    Questions to Consider
+
+--- PDF_PAGE 71 ---
+65Social Networks—Channels of Influence
+Lecture 10
+In this lecture, you will learn about the utility of social networks and how 
+these ties between people shape the spread of information and influence. It’s not random who we’re connected to; we tend to be connected to 
+similar others. But this pattern of connections influences whether things spread and catch on. And different types of social ties have different benefits. Strong ties may be useful for some things, because they care a lot about us, but weak ties might have access to different information. 
+Social Networks
+•	Social networks are composed of nodes and ties, or connections. 
+Depending on the pattern of ties, certain nodes are closer, and others are farther away. The Facebook network, for example, is composed of people (nodes) who are friends or at least know one another. You could take those same nodes and draw different connections. If ties represented people that worked together, the shape of the network 
+How ideas spread among social networks depends on the structure and 
+strength of the networks. 
+© dterminal/iStock/Thinkstock.
+

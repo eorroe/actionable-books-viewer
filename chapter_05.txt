@@ -1,0 +1,74 @@
+32Lecture 5: The Social Influence of Conformity•	If a vacation destination seems popular, we assume that it must 
+be worth checking out. If everyone in the neighborhood sends their kids to a certain school, we assume that it must be pretty good. And if we see signs on lots of neighbors’ yards supporting a particular political initiative, we assume that it must be good for  
+the community. 
+•	We use others as information, or a shortcut to judgment. Collecting all that information ourselves would be difficult. Trial and error might work, but it would be extremely effortful and time consuming. Alternatively, we could try direct observation, but that’s also difficult. Furthermore, people could follow advertisements. However, most people don’t trust ads and are generally skeptical of persuasion attempts. Following others saves us time and energy.
+•	Conformity also leads to herding behavior. For example, people in the Midwest call a sweetened carbonated beverage “pop” because that is what other people in the Midwest say. If you moved to the Midwest from the East Coast, you’d probably think it was strange at first and keep saying “soda.” But, soon enough, you’d find yourself tempted to start saying “pop.” If everyone else is saying it, it just starts to sound right.
+Conformity: To Fit In
+•	The second reason people conform is to fit in. Imagine that you were asked to participate in a very simple vision test. In front of you is a pair of cards. On the left card is a line, and on the right card are three comparison lines: A, B, and C. Your job is to pick the line on the right card—A, B, or C—that is the same length as the target line on the left card. But rather than doing the experiment alone, you participate with a larger group of your peers. After five participants report that line B is the line that is the same length as the target line, even though it is clearly line C that is the correct answer, which line would you pick? When psychologist Solomon Asch designed this line length study, he was looking to do more than just test people’s vision. He was hoping to prove someone wrong. 
+
+--- PDF_PAGE 39 ---
+33•	Psychologist Muzafer Sherif had conducted a similar study and 
+found some pretty surprising results. Sherif was interested in how norms form—how groups of people come to agree on common ways of seeing the world. To study this question, he put people in an unusual situation called the autokinetic effect. 
+•	Sherif placed individuals in a dark room and displayed a small pinpoint of light on the wall. He asked them to stare at the light and not move their eyes for as long as possible. Then, he asked them to report how far the point of light moved. In reality, the point of light hadn’t moved at all. But for individuals in the room, the light seemed like it moved. 
+•	Staring at a small dot of light in an otherwise dark room is tougher than it sounds. After a while of staring in the darkness, people’s eyes eventually fatigue and start to move involuntarily. This causes people to perceive that the light is moving, even if it’s been stationary the whole time
+•	Sherif studied the autokinetic effect because he wanted to see how people might rely on others when they were uncertain. First, Sherif put each participant in the dark room by themselves—alone without anyone else present. He found that each person converged on their own norm of judgment. 
+•	The first time in the room, someone might guess that the light moved eight inches. The next time, through, that person might guess that the light moved closer to four inches. But, eventually, they settled on a particular number (for example, six inches) and stuck with it for the rest of the trials, guessing a similar number again and again. 
+•	Next, Sherif put groups of people in the room at the same time. Two or three participants would be in the room together, and each would be asked to call out their judgments to the rest of the room. While different participants often started with different answers, they soon came to a common estimate. 
+
+--- PDF_PAGE 40 ---
+34Lecture 5: The Social Influence of Conformity•	One participant might have said six inches when they were by 
+themselves, and another might have said two inches, but when placed together, their judgments tended to converge. The person who said six inches might start to make smaller judgments (for example, four inches), and the person who said two inches might start to make larger judgments (for example, four inches). It seemed that people’s estimates conformed to those around them. 
+•	In fact, this influence was so strong that it persisted even when participants returned to making individual judgments. After the group trials, Sherif split the groups up and had people do the task alone. But people continued to give the answers that they had settled on with the group, even after the group was gone. 
+•	Sherif’s findings generated a good bit of controversy. Do people just do whatever everyone else is doing? Are we mindless automatons that simply follow the actions of others without thought? The very notions of independence and free thought that much of American culture is based on seemed at stake. 
+•	But Solomon Asch wasn’t convinced. Asch thought Sherif’s results were driven by the nature of the task. Rather than people being mindless followers, he thought the results just demonstrated that people use multiple inputs when making decisions. When people are uncertain about what to do, relying on others makes sense. Others provide information about the right answer, so why wouldn’t people take that information into account?
+•	So, to test whether people only conformed because the answer was uncertain, Asch devised a different task. Rather than putting people in a situation where the answer was unclear, he wanted to put them in a situation where the answer was obvious—where people could easily tell the correct answer right away and, thus, would have no need to rely on those around them. 
+•	The line length task was a perfect choice. Even someone with poor eyesight could easily tell the correct answer. There would be no 
+
+--- PDF_PAGE 41 ---
+35need to rely on anyone else. Asch assumed that when the answer 
+was clear, conformity would be drastically reduced.
+•	To provide an even stronger test, Asch rigged the group’s responses. There was always one real participant, but rather than using multiple real participants, as Sherif had, Asch filled the rest of the “participants” with actors. In each group of people that sat in the room together, only one was a real participant, and the rest were fakes. These individuals looked like real participants—same age, gender, etc.—but rather than choosing what answer to give, each gave predetermined responses. Sometimes they gave the right answer, picking the line on the right that was the same as the one on the left. 
+•	But on other preselected trials, all of them gave the same wrong answer—all saying “line B,” for example, when the answer was clearly line C. Asch used the line task because he assumed that it would reduce conformity. The real participants could clearly see the correct answer, so even though others gave the wrong response, it shouldn’t matter. Perhaps a few participants would waver once in a while, but for the most part, people should give the correct answer.
+•	Instead, conformity was rampant. Around 75 percent of participants conformed to the group at least once. And while most people didn’t conform on every single trial, on average, people conformed one-third of the time. 
+•	But the most striking part of this finding is the way in which they conformed. Even though people’s own eyes told them the correct answer, people went along with the group—even when they could clearly tell that the group was incorrect. Solomon Asch was wrong. Even when the answer is clear, people still conform.
+•	The reason people conformed in this situation is called normative influence. In general, people like to be liked. We want people to think positively of us and avoid being ostracized. So, sometimes we go along to fit in. 
+
+--- PDF_PAGE 42 ---
+36Lecture 5: The Social Influence of Conformity•	The idea of normative influence helps us understand why people go 
+along even when the answer seems obviously wrong. It’s difficult to oppose the group. Particularly when other people can observe our behavior, we don’t want to be the only person that goes against  
+the majority.
+•	You see this a lot in meetings. People may have opposing viewpoints, but if it seems like everyone is against them, they often keep their views to themselves. And while imitating others can sometimes be helpful, saving us time and effort, in other cases it can lead us astray. 
+•	Groupthink occurs when everyone takes the same perspective because they’re exposed to one another’s opinions. It’s good to have cohesive groups, but it is also important to make sure that different opinions are heard. The idea of the wisdom of crowds depends on different people each inputting different information. If everyone says the same thing, there are few benefits to the group. In groups, most people find it difficult to oppose other members of the group, 
+and this sometimes leads to uncreative, lackluster meetings.
+© monkeybusinessimages/iStock/Thinkstock.
+
+--- PDF_PAGE 43 ---
+37•	When people can express themselves in private, that frees them up 
+to share their true opinions. Anything that makes people feel less alone in their minority opinions can have similar effects. You might think that people need to have a few others that go along with them, but having even one other dissenter frees people up to speak their mind. In fact, that other minority vote doesn’t even have to have the same opinion as you. Having at least one other person that disagrees with the majority, even if that person has a different opinion from you, frees people up to share their true opinion.
+•	It’s also important to note that conformity often happens below our awareness. The mere fact that other people are doing something can subtly make that thing seem more correct or normative than it  
+did before. 
+•	Given all the types of domains and choices on which people conform, it’s also interesting to note the one place we don’t see conformity: ourselves. While it’s easy to see others conforming and doing the same things as those around them, we tend not to see evidence of conformity in our own behavior. 
+•	We think other people bought their BMW to fit in, but we bought ours because it drives well. Part of this is because of the social value of being unique and different in American culture, but the other part of it is driven by the fact that conformity happens nonconsciously, or below our awareness. 
+Asch, “Opinions and Social Pressure.”
+Sherif, “A Study of Some Social Factors in Perception.”Zhang, “The Sound of Silence.”
+    Suggested Reading
+
+--- PDF_PAGE 44 ---
+38Lecture 5: The Social Influence of Conformity1. Why do we find it so easy to see other people being affected by social 
+influence but difficult to see it in ourselves?
+2. What is the evolutionary or functional benefit of conformity, and when does it lead us astray?
+    Questions to Consider
+
+--- PDF_PAGE 45 ---
+39The Social Influence of Divergence
+Lecture 6
+Social influence often leads people to do the same things as others. 
+But social influence can also repel, and sometimes it leads people to avoid doing what others are doing. In this lecture, you will learn about 
+divergence and the meaning of consumption. You will learn when people conform, or do the same things as others, versus diverge and do something different. People not only care about what things do, but they also care about what they mean. What things communicate determine what we choose, what things catch on, and why once-popular things die out.
+Signaling
+•	People often buy things for what they do, but they also buy things 
+for what they mean, or signal. How do products, ideas, and even whole disciplines gain signal value? Where do signals come from? One place is through marketing. Companies spend millions of dollars designing ads, products, and stores that portray a particular image.
+•	For example, when Honda launched a new compact crossover SUV called the Element, they spent a lot of time and money trying to appeal to the 20-somethings they hoped to attract. The SUV was designed with space for kayaks and seats that could be washed down. Their ads showed cool 20- and 30-somethings engaging in a variety of extreme sports. But companies don’t totally control their image. Part of what it means to drive an Element depends on the types of people that use the brand. 
+•	People engage in conspicuous consumption to signal desired identities. Most people would like to be richer, smarter, and more in shape than they actually are. So, they adopt the brands, mannerisms, and signals that convey the desired identity. 
+•	The idea of aspiration groups has been around for a long time. But while it’s clear that people sometimes adopt clothing, music, 
+
