@@ -7,7 +7,7 @@
 ## When to Follow Book Teachings
 
 - When you need to understand the root cause of suffering, misfortune, or lack in your life
-- When working to transform your mental and emotional habits to create healthier, more prosperous, and more fulfilling external conditions in your relationships, work, and health
+- When working to transform undesirable conditions — poverty, sickness, failure, or lack — in your relationships, work, and health
 - When seeking a spiritual and philosophical foundation for genuine prosperity beyond material accumulation
 - When you feel trapped by circumstances and want to reclaim personal power through self-mastery
 - When pursuing health, success, and lasting happiness as integrated inner states rather than external goals
@@ -60,7 +60,7 @@ Once the lesson is fully integrated, the suffering naturally dissolves. You are 
 #### Keep In Mind
 
 - Suffering is the outcome of causes you have set in motion through ignorance
-- The universe operates by undeviating law — every thought and action produces a corresponding result, and this law operates consistently and without exception regardless of whether you believe in it or understand it
+- The universe operates by undeviating law — every thought and action produces a corresponding result, and this law operates consistently and without exception
 - Enduring without understanding is wasted suffering; combining endurance with understanding transforms you
 - Once you fully enter into this realization, you can mold your own circumstances and transmute all evil into good
 
@@ -105,7 +105,7 @@ Cease to believe that outward things have the power to make or mar your life. Yo
 
 #### Step 3: Monitor and Choose Your Thoughts Deliberately
 
-Monitor the content of your inmost thoughts, for whatever you harbor there will inevitably shape your outward life by the law of reaction. Cultivate thoughts of joy and serenity, strength and life, compassion and love, beauty and immortality.
+Monitor the content of your inmost thoughts, for what you harbor in your inmost thoughts will, sooner or later, shape your outward life by the law of reaction. Cultivate thoughts of joy and serenity, strength and life, compassion and love, beauty and immortality.
 
 #### Step 4: Clothe Others With the Qualities You Wish to See
 
@@ -135,7 +135,7 @@ If you wish to improve the world, heal suffering, or awaken others, the most eff
 
 - "All that we are is the result of what we have thought; it is founded on our thoughts; it is made up of our thoughts"
 - Circumstances do not have the power to bless or harm equally to all men — the difference lies in the mind that encounters them
-- The kingdom of the Divine — the state of consciousness characterized by beauty, joy, and inner peace that arises when you are fully engaged in unselfish love and service — is accessible within you right now, independent of your external circumstances or material possessions
+- The kingdom of the Divine — a happy world that fills the whole universe, accessible within you now, waiting for you to find, acknowledge, and possess — is independent of your external circumstances or material possessions
 - Inner transformation changes how you interact with others and respond to events; as you alter from within, your outlook upon life alters — and as you alter your mental attitude toward others, they will alter in their attitude toward you.
 - As you eliminate lower mental habits — fear, worry, anxiety, suspicion, and selfishness — from your thinking, you come into contact with positive, strengthening influences from people who embody strength, purity, and noble character
 
@@ -164,7 +164,7 @@ If you wish to improve the world, heal suffering, or awaken others, the most eff
 
 ##### Example 1: The Man Whom Everything Crumbles Under
 
-The person under whose touch everything crumbles away — who cannot retain success when placed in their hands — is a man dwelling continually in conditions of mind that are "the very negation of power." Such a person is described as a slave to anxiety, fear, and doubt even when success is knocking at their door, demonstrating that inner state, not outer circumstance, determines real power.
+The person under whose touch everything crumbles away — who cannot retain success when placed in their hands — dwells continually in conditions of mind that are "the very negation of power." Such a person is a slave to anxiety, fear, and doubt even when success is knocking at their door, demonstrating that inner state, not outer circumstance, determines real power.
 
 ##### Example 2: The Marsh Drained into One Channel
 
@@ -213,8 +213,8 @@ Take an honest inventory of the mental states that govern you: likes, dislikes, 
 #### Keep In Mind
 
 - "For your thoughts are heaven above you, and your thoughts are hell below; bliss is not, except in thinking, torment nought but thought can know"
-- Even a very partial success in self-mastery adds greatly to one's power
-- The universe itself supports and protects the person who has mastered his own soul — because such a person is in harmony with universal law rather than in conflict with it
+- Even a partial success in self-mastery adds to one's power
+- The universe itself aids and protects the person who has mastered his own soul — because such a person is in harmony with universal law rather than in conflict with it
 - Judgment, mental penetration, and even prophetic vision develop as natural consequences of self-mastery
 - As you alter from within, your outlook upon life alters — and as you alter your mental attitude toward others, they will alter in their attitude toward you
 
@@ -290,8 +290,8 @@ Understand that truth looks barren at its commencement (unlike error and delusio
 
 - "Whatsoever a man sows that shall he also reap" — this law governs all thoughts, words, and actions with absolute and impartial justice
 - No curse, prayer, or external intervention can alter the working-out of a cause — only changing the cause itself can change the effect
-- Worry is described as "soul-suicide" — it actively damages the soul while offering no remedy
-- The pathway looks barren at first — this is a sign you are on the right path
+- Allen calls worry "soul-suicide" — it actively damages the soul while offering no remedy
+- The pathway looks barren at first — truth always does, it is only error and delusion which are at first inviting and fascinating
 - As you proceed in inner discipline, new opportunities for growth, service, and improvement will become apparent, and helpful people, useful books, and all outward aids that you require will come to you unsought.
 
 #### Security & Safety Notes
@@ -409,11 +409,11 @@ Establish your life on four pillars of faith: faith that the universe operates b
 
 #### Step 3: Rein in Desire with Unfaltering Will (Secret of Power)
 
-Take hold of your mind-forces actively rather than passively. Practice daily mastery over your interior thought-life. Conquer petty likes and dislikes, capricious loves and hates, fits of anger, suspicion, jealousy, and all changing moods to which you are more or less helplessly subject. Eliminate mental dissipations — loud, boisterous laughter that lacks genuine joy, uncontrolled talk that serves no useful purpose, slander directed at others, idle joking that degrades conversation, and foolish talking that wastes time and energy.
+Take hold of your mind-forces actively rather than passively. Practice daily mastery over your interior thought-life. Conquer petty likes and dislikes, capricious loves and hates, fits of anger, suspicion, jealousy, and all changing moods to which you are helplessly subject. Eliminate mental dissipations — loud, boisterous laughter that lacks genuine joy, uncontrolled talk that serves no useful purpose, slander directed at others, idle joking that degrades conversation, and foolish talking that wastes time and energy.
 
 #### Step 4: Concentrate Your Whole Mind Upon Your Task
 
-Whatever your task may be, concentrate your whole mind upon it and throw into it all the energy of which you are capable. The faultless completion of small tasks leads inevitably to larger tasks. Herein lies the secret of true power.
+Whatever your task may be, concentrate your whole mind upon it and throw into it the energy of which you are capable. The faultless completion of small tasks leads inevitably to larger tasks. Herein lies the secret of true power.
 
 #### Step 5: Cultivate Poise and Passivity
 
@@ -443,8 +443,8 @@ If your present position is distasteful, still perform your duties with scrupulo
 - All power is associated with immovability — the man of power remains calm when all around are swayed
 - "The double-minded man is unstable in all his ways"
 - By the power of faith every enduring work is accomplished
-- The laws of the universe never fail and will return to you with mathematical exactitude
-- Even a very partial success in self-mastery adds greatly to one's power
+- The laws of the universe can never fail, and your own will come back to you with mathematical exactitude
+- Even a partial success in self-mastery adds to one's power
 
 #### Security & Safety Notes
 
@@ -501,7 +501,7 @@ Deliberately place the needs of others before your own comforts. The common worl
 
 #### Step 6: Expand the Soul Through Loving Generosity
 
-Let your soul expand and your heart reach outward in loving and generous warmth. Practice reaching out to others in warmth and generosity as a daily habit. Great and lasting joy, along with all prosperity, flows from this expanded state.
+Let your soul expand and your heart reach outward in loving and generous warmth. Practice reaching out to others in warmth and generosity as a daily habit. Joy, along with prosperity, flows from this expanded state.
 
 #### Step 7: Build Inward Qualities to Build Unshakable Success
 
@@ -568,7 +568,7 @@ Observe that satisfying one desire only generates new and stronger demands. Desi
 
 #### Step 3: Admit Your Own Selfishness as the Cause of Unhappiness
 
-When you feel unhappy, do not blame external people or circumstances. Ask yourself honestly: "In what specific way am I being selfish right now?" Admit to yourself that your own selfishness — your demand that circumstances serve your personal wishes, your expectation that others conform to your will, your clinging to what you want at the expense of others — is the cause. This honest admission is the gateway to the "gates of Paradise."
+When you feel unhappy, do not blame external people or circumstances. Ask yourself honestly: "In what specific way am I being selfish right now?" Admit to yourself that your own selfishness is the cause. This honest admission is the gateway to the "gates of Paradise."
 
 #### Step 4: Practice Self-Forgetfulness in Service to Others
 
