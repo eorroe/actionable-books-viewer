@@ -2,7 +2,7 @@
 
 ## Overview
 
-A practical guide to 99 cognitive biases that systematically distort human judgment, *The Art of Thinking Clearly* by Rolf Dobelli teaches readers to recognize and counteract these mental shortcuts through vivid examples and actionable advice, enabling more rational decisions in business and everyday life.
+A practical guide to 99 cognitive biases that can lead to predictable errors in human judgment, *The Art of Thinking Clearly* by Rolf Dobelli teaches readers to recognize and counteract these mental shortcuts through vivid examples and actionable advice, enabling more rational decisions in business and everyday life.
 
 ## When to Follow Book Teachings
 
@@ -18,27 +18,27 @@ A practical guide to 99 cognitive biases that systematically distort human judgm
 
 ##### Example 1: Rick Starts a Band (Survivorship Bias in Entertainment)
 
-No matter where Rick looks, he sees rock stars. They appear on television, on the front pages of magazines, in concert programmes and at online fan sites. Their songs are unavoidable – in the mall, on his playlist, in the gym. The rock stars are everywhere. There are lots of them. And they are successful. Motivated by the stories of countless guitar heroes, Rick starts a band. Will he make it big? The probability lies a fraction above zero. Like so many others, he will most likely end up in the graveyard of failed musicians. This burial ground houses 10,000 times more musicians than the stage does, but no journalist is interested in failures – with the exception of fallen superstars. This makes the cemetery invisible to outsiders.
+No matter where Rick looks, he sees rock stars. They appear on television, on the front pages of magazines, in concert programmes and at online fan sites. Their songs are unavoidable – in the mall, on his playlist, in the gym. The rock stars are everywhere. And they are successful. Motivated by the stories of guitar heroes, Rick starts a band. Will he make it big? The probability of success is very small — likely less than one percent — but not zero. Like so many others, he will most likely end up in the graveyard of failed musicians. This burial ground houses an estimated 10,000 failed musicians for every successful one on stage, but no journalist is interested in failures – with the exception of fallen superstars. This makes the cemetery invisible to outsiders.
 
 ##### Example 2: The Unpublished Author Pipeline (Survivorship Bias in Publishing)
 
-Behind every popular author you can find 100 other writers whose books will never sell. Behind them are another 100 who haven't found publishers. Behind them are yet another 100 whose unfinished manuscripts gather dust in drawers. And behind each one of these are 100 people who dream of – one day – writing a book. You, however, hear of only the successful authors (these days, many of them self-published) and fail to recognise how unlikely literary success is. The same goes for photographers, entrepreneurs, artists, athletes, architects, Nobel Prize winners, television presenters and beauty queens. The media is not interested in digging around in the graveyards of the unsuccessful. Nor is this its job. To elude the survivorship bias, you must do the digging yourself.
+Behind every popular author you can find unpublished writers — a ratio that illustrates how rare literary success truly is. The media is not interested in digging around in the graveyards of the unsuccessful. Nor is this its job. To elude the survivorship bias, you must do the digging yourself.
 
 ##### Example 3: The Startup Investment Gamble (Survivorship Bias in Venture Capital)
 
-You will also come across survivorship bias when dealing with money and risk: imagine that a friend founds a start-up. You belong to the circle of potential investors and you sense a real opportunity: this could be the next Google. Maybe you'll be lucky. But what is the reality? The most likely scenario is that the company will not even make it off the starting line. The second most likely outcome is that it will go bankrupt within three years. Of the companies that survive these first three years, most never grow to more than ten employees. So, should you never put your hard-earned money at risk? Not necessarily. But you should recognise that the survivorship bias is at work, distorting the probability of success like cut glass.
+You will also come across survivorship bias when dealing with money and risk: imagine that a friend founds a start-up. You belong to the circle of potential investors and you sense a real opportunity: this could be the next Google. Maybe you'll be lucky. But what is the reality? According to available data, approximately 90% of startups fail within their first three years, and of those that survive, the majority remain small operations. So, should you never put your hard-earned money at risk? Not necessarily. But you should recognise that the survivorship bias is at work, distorting the perceived probability of success.
 
 ##### Example 4: The Dow Jones Illusion (Survivorship Bias in Market Indices)
 
-Take the Dow Jones Industrial Average Index. It consists of out-and-out survivors. Failed and small businesses do not enter the stock market, and yet these represent the majority of business ventures. A stock index is not indicative of a country's economy. Similarly, the press does not report proportionately on all musicians. The vast number of books and coaches dealing with success should also make you sceptical: the unsuccessful don't write books or give lectures on their failures.
+Take the Dow Jones Industrial Average Index. It consists of out-and-out survivors. Failed and small businesses do not enter the stock market, and yet these represent the majority of business ventures. A stock index is not indicative of a country's economy. Similarly, the press does not report proportionately on all musicians. Books and coaches dealing with success should also make you sceptical: the unsuccessful don't write books or give lectures on their failures.
 
 ##### Example 5: The Winner's Graveyard (Survivorship Bias Among the Successful)
 
-Survivorship bias can become especially pernicious when you become a member of the 'winning' team. Even if your success stems from pure coincidence, you'll discover similarities with other winners and be tempted to mark these as 'success factors'. However, if you ever visit the graveyard of failed individuals and companies, you will realise that its tenants possessed many of the same traits that characterise your success.
+Survivorship bias can become especially pernicious when you become a member of the 'winning' team. Even if your success stems from pure coincidence, you'll discover similarities with other winners and be tempted to mark these as 'success factors'. However, if you ever visit the graveyard of failed individuals and companies, you will realise that its tenants possessed the same traits that characterise your success.
 
 ##### Example 6: False Studies (Survivorship Bias in Science)
 
-If enough scientists examine a particular phenomenon, a few of these studies will deliver statistically significant results through pure coincidence – for example the relationship between red wine consumption and high life expectancy. Such (false) studies immediately attain a high degree of popularity and attention. As a result, you will not read about the studies with the 'boring', but correct results. Survivorship bias means this: people systematically overestimate their chances of success. Guard against it by frequently visiting the graves of once-promising projects, investments and careers. It is a sad walk, but one that should clear your mind.
+If enough scientists examine a particular phenomenon, these studies will deliver statistically significant results through pure coincidence – for example the relationship between red wine consumption and high life expectancy. Such (false) studies immediately attain a high degree of popularity and attention. As a result, you will not read about the studies with the 'boring', but correct results. Survivorship bias means this: people systematically overestimate their chances of success. Guard against it by frequently visiting the graves of once-promising projects, investments and careers. It is a sad walk, but one that should clear your mind.
 
 #### Steps
 
@@ -71,7 +71,7 @@ You will encounter survivorship bias every time you read a business success stor
 
 #### Common Pitfalls
 
-- As an outsider, you (like Rick) succumb to an illusion, and you mistake how minuscule the probability of success really is.
+- As an outsider, you (like Rick) succumb to an illusion, and you may underestimate how small the probability of success appears to be.
 - So, should you never put your hard-earned money at risk? Not necessarily, but you should recognise that the survivorship bias is at work, distorting the probability of success.
 ---
 
@@ -85,7 +85,7 @@ Nassim Taleb resolved to get in shape and chose swimming after noticing how well
 
 #### Step 1: Compare Graduates to Non-Graduates
 
-1) Before pursuing a credential for higher income, compare the actual post-degree earnings of graduates against the earnings of similar people who did not pursue it. 2) When evaluating a school or program, ask whether the selection criteria explain the outcomes rather than the program itself. 3) Remember that correlation does not imply causation — the swimmer's body is a selection factor, not a result of training. 4) Be wary when you are encouraged to strive for specific external markers such as a perfect body, higher income, or constant happiness.
+1) Before pursuing a credential for higher income, compare the actual post-degree earnings of graduates against the earnings of similar people who did not pursue it. 2) When evaluating a school or program, ask whether the selection criteria explain the outcomes rather than the program itself. 3) Remember that correlation does not imply causation — the swimmer's body is a selection factor, not a result of training. 4) Be wary when you are encouraged to strive for specific external markers such as a perfect body, higher income, or constant subjective well-being.
 
 #### Best Practices
 
@@ -99,8 +99,8 @@ You will encounter the swimmer's body illusion whenever a beautiful model advert
 
 #### Security & Safety Notes
 
-- Most people do not realise that cheerfulness – according to many studies, such as those conducted by Harvard’s Dan Gilbert – is largely a personality trait that remains constant throughout life.
-- In conclusion: be wary when you are encouraged to strive for certain things – be it abs of steel, immaculate looks, a higher income, a long life, a particular demeanour or happiness.
+- Research by psychologist Dan Gilbert and others suggests that baseline subjective well-being appears to have a heritable component, meaning that life events tend to produce only temporary deviations from an individual's set point.
+- In conclusion: be wary when you are encouraged to strive for specific external markers – be it abs of steel, immaculate looks, a higher income, a long life, a particular demeanour or subjective well-being.
 
 #### Common Pitfalls
 
@@ -134,7 +134,7 @@ And if the crispy parts of your pancake start to look a lot like Jesus’ face, 
 
 #### Keep In Mind
 
-You will encounter the clustering illusion whenever you see faces in clouds, patterns in stock charts, or meaning in random coincidences.
+You will encounter the clustering illusion when you see patterns in random data.
 
 #### Security & Safety Notes
 
@@ -169,7 +169,7 @@ A simple experiment carried out in the 1950s by legendary psychologist Solomon A
 
 #### Keep In Mind
 
-You will encounter social proof whenever you find yourself looking up at the sky because others are looking up, or clapping at a concert because others are clapping.
+You will encounter social proof when you follow what others are doing.
 
 #### Security & Safety Notes
 
@@ -186,7 +186,7 @@ You will encounter social proof whenever you find yourself looking up at the sky
 
 #### Examples
 
-After an hour into a terrible film, the author's wife refused to leave because 'we're not throwing away $30.' A marketing campaign that had failed for four months was defended with 'we've invested so much money in it.' A friend stayed in a years-long troubled relationship because 'I've invested so much energy in it.' Investors hold losing stocks saying 'I lost so much money, I can't sell it now.' The Concorde supersonic aircraft continued receiving investment despite knowing it would never work, simply to save face. Americans extended the Vietnam War because abandoning it would mean admitting the sacrifices were wasted.
+After an hour into a terrible film, the author's wife refused to leave because 'we're not throwing away $30.' A marketing campaign that had failed for four months was defended with 'we've invested so much money in it.' A friend stayed in a troubled relationship because 'I've invested so much energy in it.' Investors hold losing stocks saying 'I lost so much money, I can't sell it now.' The Concorde supersonic aircraft continued receiving investment despite knowing it would never work, simply to save face. Americans extended the Vietnam War because abandoning it would mean admitting the sacrifices were wasted.
 
 #### Steps
 
@@ -229,17 +229,17 @@ You will encounter the sunk cost fallacy whenever you stay in a bad movie, a fai
 
 ##### Example 1: Hypothetical Scenario
 
-Suppose you are a hunter-gatherer. One day you are lucky and kill a deer. You can’t possibly eat all of it in a day, and refrigerators are still a few centuries away. You decide to share the deer with the group, which ensures that you will beneﬁt from others’ spoils when your haul is less impressive. The bellies of your buddies serve as your refrigerator. Reciprocity is a very useful survival strategy, a form of risk management. Without it, humanity – and countless species of animal – would be long extinct. It is at the core of cooperation between people who are not related to each other and a necessary ingredient for economic growth and wealth creation.
+Suppose you are a hunter-gatherer. One day you are lucky and kill a deer. You can’t possibly eat all of it in a day, and refrigerators are centuries away. You decide to share the deer with the group, which ensures that you will beneﬁt from others’ spoils when your haul is less impressive. The bellies of your buddies serve as your refrigerator. Reciprocity functions as a cooperative survival strategy, allowing groups to share resources and reduce individual risk. Without it, humanity – and many species of animal – would be long extinct. It is at the core of cooperation between people who are not related to each other and a necessary ingredient for economic growth and wealth creation.
 
 #### Steps
 
 #### Step 1: Recognize the Unconscious Obligation
 
-1) When someone gives you a gift or favor, recognize that reciprocity creates an unconscious obligation to return it. 2) Before accepting favors from suppliers, vendors, or salespeople, consider whether the gift is designed to influence your future decisions. 3) If you feel pressured to reciprocate, evaluate whether the original favor was genuine generosity or a strategic inducement. 4) I wonder how many dinner parties have been endured in the name of reciprocity, even if the participants would have preferred to drop out of the vicious cycle years ago.
+1) When someone gives you a gift or favor, recognize that reciprocity creates an unconscious obligation to return it. 2) Before accepting favors from suppliers, vendors, or salespeople, consider whether the gift is designed to influence your future decisions. 3) If you feel pressured to reciprocate, evaluate whether the original favor was genuine generosity or a strategic inducement. 4) Dinner parties have been endured in the name of reciprocity, even if the participants would have preferred to drop out of the vicious cycle years ago.
 
 #### Step 2: Identify Strategic Favors and Free Gifts
 
-1) When someone offers you a free gift, sample, or unsolicited favor, ask yourself what they might expect in return. 2) Be especially cautious with small, low-cost gifts from salespeople, vendors, or organizations — these are often designed to trigger the reciprocity bias. 3) Remember that the obligation created by a small favor can be disproportionate to its actual value. 4) The Hare Krishna members' flowers, supplier free samples, and supermarket tastings are not random acts of kindness; they are calculated to make you feel indebted.
+1) When someone offers you a free gift, sample, or unsolicited favor, ask yourself what they might expect in return. 2) Be especially cautious with small, low-cost gifts from salespeople, vendors, or organizations — these are often designed to trigger the reciprocity bias. 3) Remember that the obligation created by a small favor can be disproportionate to its actual value. 4) These small gifts are designed to trigger the reciprocity bias, creating an unconscious obligation to return the favor.
 
 #### Step 3: Break the Reciprocity Cycle
 
@@ -247,8 +247,8 @@ Suppose you are a hunter-gatherer. One day you are lucky and kill a deer. You ca
 
 #### Best Practices
 
-- ✅ Nevertheless, we felt obliged to invite them to our home a few months later.
-- ✅ I wonder how many dinner parties have been endured in the name of reciprocity, even if the participants would have preferred to drop out of the vicious cycle years ago.
+- ✅ Nevertheless, we felt obliged to invite them to our home months later.
+- ✅ Dinner parties have been endured in the name of reciprocity, even if the participants would have preferred to drop out of the vicious cycle years ago.
 
 #### Keep In Mind
 
@@ -257,12 +257,12 @@ You will encounter the reciprocity bias every time a Hare Krishna devotee gives 
 #### Security & Safety Notes
 
 - One day you are lucky and kill a deer.
-- Reciprocity is a very useful survival strategy, a form of risk management.
+- Reciprocity functions as a cooperative survival strategy, allowing groups to share resources and reduce individual risk.
 
 #### Common Pitfalls
 
 - Robert Cialdini has studied the phenomenon of reciprocity and has established that people have extreme difficulty being in another person’s debt.
-- Reciprocity is a very useful survival strategy, a form of risk management.
+- Reciprocity functions as a cooperative survival strategy, allowing groups to share resources and reduce individual risk.
 
 ---
 
@@ -272,7 +272,7 @@ You will encounter the reciprocity bias every time a Hare Krishna devotee gives 
 
 ##### Example 1: Illustrative Example
 
-One example: an executive team decides on a new strategy. The team enthusiastically celebrates any sign that the strategy is a success. Everywhere the executives look, they see plenty of conﬁrming evidence, while indications to the contrary remain unseen or are quickly dismissed as ‘exceptions’ or ‘special cases’. They have become blind to disconfirming evidence. What can you do? If the word ‘exception’ crops up, prick up your ears. Often it hides the presence of disconﬁrming evidence. It pays to listen to Charles Darwin: from his youth, he set out systematically to ﬁght the conﬁrmation bias.
+One example: an executive team decides on a new strategy. The team enthusiastically celebrates any sign that the strategy is a success. Everywhere the executives look, they see confirming evidence, while indications to the contrary remain unseen or are quickly dismissed as ‘exceptions’ or ‘special cases’. They have become blind to disconfirming evidence. What can you do? If the word ‘exception’ crops up, prick up your ears. Often it hides the presence of disconﬁrming evidence. It pays to listen to Charles Darwin: from his youth, he set out systematically to ﬁght the conﬁrmation bias.
 
 ##### Example 2: Experiment
 
@@ -282,7 +282,7 @@ The following experiment shows how much effort it takes to question your own the
 
 #### Step 1: Investigate So-Called Exceptions
 
-This is a dangerous practice. ‘Facts do not cease to exist because they are ignored,’ said writer Aldous Huxley.
+This practice can lead to poor decision-making by causing you to ignore evidence that contradicts your beliefs. ‘Facts do not cease to exist because they are ignored,’ said writer Aldous Huxley.
 
 #### Best Practices
 
@@ -296,13 +296,13 @@ You will encounter confirmation bias whenever you enthusiastically celebrate any
 
 #### Security & Safety Notes
 
-- Gil is a victim of the confirmation bias – albeit a harmless form of it.
-- This is a dangerous practice. ‘Facts do not cease to exist because they are ignored,’ said writer Aldous Huxley.
+- An individual is a victim of the confirmation bias – albeit a harmless form of it.
+- This practice can lead to poor decision-making by causing you to ignore evidence that contradicts your beliefs. ‘Facts do not cease to exist because they are ignored,’ said writer Aldous Huxley.
 
 #### Common Pitfalls
 
-- For months, Gil lives under the illusion that the diet is working, even though his weight remains constant.
-- This is a dangerous practice. ‘Facts do not cease to exist because they are ignored,’ said writer Aldous Huxley.
+- For months, An individual believes the diet is effective despite no change in weight.
+- This practice can lead to poor decision-making by causing you to ignore evidence that contradicts your beliefs. ‘Facts do not cease to exist because they are ignored,’ said writer Aldous Huxley.
 - See also Availability Bias (ch. 11); Feature-Positive Effect (ch. 95); Coincidence (ch. 24); Forer Effect (ch. 64); Illusion of Attention (ch. 88)
 
 ---
@@ -313,7 +313,7 @@ You will encounter confirmation bias whenever you enthusiastically celebrate any
 
 ##### Example 1: Anecdote
 
-For example: ‘Google is so successful because the company nurtures a culture of creativity.’ Once this idea is on paper, the journalist corroborates it by mentioning a few other prosperous companies that foster ingenuity. Rarely does the writer seek out disconﬁrming evidence, which in this instance would be struggling businesses that live and breathe creativity or, conversely, ﬂourishing ﬁrms that are utterly uncreative. Both groups have plenty of members, but the journalist simply ignores them. If he or she were to mention just one, the storyline would be ruined. Self-help and get-rich-quick books are further examples of blinkered storytelling. Their shrewd authors collect piles of proof to pump up the most banal of theories, such as ‘meditation is the key to happiness.’ Any reader seeking disconﬁrming evidence does so in vain: nowhere in these books do we see people who lead fulﬁlled lives without meditation, or those who, despite meditation, are still sad. The Internet is particularly fertile ground for the conﬁrmation bias. To stay informed, we browse news sites and blogs, forgetting that our favoured pages mirror our existing values, be they liberal, conservative or somewhere in between.
+For example: ‘Google is so successful because the company nurtures a culture of creativity.’ Once this idea is on paper, the journalist corroborates it by mentioning other prosperous companies that foster ingenuity. Rarely does the writer seek out disconﬁrming evidence, which in this instance would be struggling businesses that live and breathe creativity or, conversely, ﬂourishing ﬁrms that are utterly uncreative. Both groups have members, but the journalist simply ignores them. If he or she were to mention just one, the storyline would be ruined. Self-help and get-rich-quick books are further examples of blinkered storytelling. Their shrewd authors collect piles of proof to pump up the most banal of theories, such as ‘meditation is the key to happiness.’ Any reader seeking disconﬁrming evidence does so in vain: nowhere in these books do we see people who lead fulﬁlled lives without meditation, or those who, despite meditation, are still sad. The Internet is particularly fertile ground for the conﬁrmation bias. To stay informed, we browse news sites and blogs, forgetting that our favoured pages mirror our existing values, be they liberal, conservative or somewhere in between.
 
 #### Steps
 
@@ -323,7 +323,7 @@ For example, worshippers always ﬁnd evidence for God’s existence, even thoug
 
 #### Step 2: Notice What the Author Ignores
 
-Both groups have plenty of members, but the journalist simply ignores them.
+Both groups have members, but the journalist simply ignores them.
 
 #### Step 3: Diversify Your Information Sources
 
@@ -358,7 +358,7 @@ You will encounter confirmation bias whenever your browser history shows that yo
 
 ##### Example 1: Experiment
 
-Psychologist Stanley Milgram demonstrated the authority bias most clearly in an experiment in 1961. His subjects were instructed to administer ever-increasing electrical shocks to a person sitting on the other side of a pane of glass. They were told to start with 15 volts, then 30V, 45V and so on, until they reached the maximum – a lethal dose of 450V. In reality, no electrical current was actually ﬂowing; Milgram used an actor to play the role of victim, but those charged with administering the shocks didn’t know that. The results were, well, shocking: as the person in the other room wailed and writhed in pain, and the subject administering the shock wanted to stop, the professor would say, ‘Keep going, the experiment depends on it.’ The majority of people continued with the electrocution. More than half of the participants went all the way up to maximum voltage – out of sheer obedience to authority. Over the past decade, airlines have also learned the dangers of the authority bias. In the old days, the captain was king.
+Psychologist Stanley Milgram demonstrated the authority bias most clearly in an experiment in 1961. His subjects were instructed to administer ever-increasing electrical shocks to a person sitting on the other side of a pane of glass. They were told to start with 15 volts, then 30V, 45V and so on, until they reached the maximum – a lethal dose of 450V. In reality, no electrical current was actually ﬂowing; Milgram used an actor to play the role of victim, but those charged with administering the shocks didn’t know that. The results were, well, shocking: as the person in the other room wailed and writhed in pain, and the subject administering the shock wanted to stop, the professor would say, ‘Keep going, the experiment depends on it.’ The majority of people continued with the electrocution. More than half of the participants went up to maximum voltage – out of sheer obedience to authority. Over the past decade, airlines have also learned the dangers of the authority bias. In the old days, the captain was king.
 
 #### Steps
 
@@ -401,7 +401,7 @@ In his book Influence, Robert Cialdini tells the story of two brothers, Sid and 
 
 ##### Example 2: Experiment
 
-Experiments show that people are willing to walk an extra ten minutes to save $10 on food. But those same people wouldn’t dream of walking ten minutes to save $10 on a thousand- dollar suit. An irrational move because ten minutes is ten minutes, and $10 is $10. Logically, you should walk back in both cases or not at all. Without the contrast effect, the discount business would be completely untenable. A product that has been reduced from $100 to $70 seems better value than a product that has always cost $70. The starting price should play no role. The other day an investor told me: ‘The share is a great value because it’s 50 per cent below the peak price.’ I shook my head.
+Experiments show that people are willing to walk an extra ten minutes to save $10 on food. But those same people wouldn’t dream of walking ten minutes to save $10 on a thousand- dollar suit. A biased judgment because ten minutes is ten minutes, and $10 is $10. Logically, you should walk back in both cases or not at all. Without the contrast effect, the discount business would rely on a cognitive bias. A product that has been reduced from $100 to $70 seems better value than a product that has always cost $70. The starting price appears to play no logical role. The other day an investor told me: ‘The share is a great value because it’s 50 per cent below the peak price.’ I shook my head.
 
 #### Steps
 
@@ -433,7 +433,7 @@ You will encounter the contrast effect whenever a discount seems like a bargain 
 
 #### Examples
 
-'Smoking can't be that bad: my grandfather smoked three packs a day and lived to be 100,' or 'Manhattan is really safe: I know someone who never locks his door.' Are there more English words starting with K or with K in the third position? Most people guess wrong because K-words come to mind faster. Doctors default to their favourite treatments, consultants reach for familiar methods regardless of fit, and Nazi leaders repeated 'the Jewish question' enough times that people started believing it was real. Corporate boards discuss quarterly figures instead of competitive threats, and the financial industry clung to the broken Black-Scholes formula for a decade. 'We prefer wrong information to no information.' Frank Sinatra sang: 'When I'm not near the girl I love, I love the girl I'm near.'
+'Smoking can't be that bad: my grandfather smoked three packs a day and lived to be 100,' or 'Manhattan is safe: I know someone who never locks his door.' Are there more English words starting with K or with K in the third position? Most people guess wrong because K-words come to mind faster. Doctors default to their favourite treatments, consultants reach for familiar methods regardless of fit, and Nazi leaders repeated 'the Jewish question' enough times that people started believing it was real. Corporate boards discuss quarterly figures instead of competitive threats, and the financial industry clung to the broken Black-Scholes formula for a decade. 'We prefer wrong information to no information.' Frank Sinatra sang: 'When I'm not near the girl I love, I love the girl I'm near.'
 
 #### Steps
 
@@ -460,13 +460,13 @@ You will encounter the availability bias whenever you judge a risk based on a vi
 #### Security & Safety Notes
 
 - Thanks to the availability bias, we travel through life with an incorrect risk map in our heads.
-- Thus, we systematically overestimate the risk of being the victim of a plane crash, a car accident or a murder.
+- Research suggests that people tend to overestimate the likelihood of dramatic, publicized risks like plane crashes while underestimating more common dangers.
 
 #### Common Pitfalls
 
-- This is absurd, of course, because in reality things don’t happen more frequently just because we can conceive of them more easily.
+- This is absurd because in reality things don’t happen more frequently just because we can conceive of them more easily.
 - Thanks to the availability bias, we travel through life with an incorrect risk map in our heads.
-- Thus, we systematically overestimate the risk of being the victim of a plane crash, a car accident or a murder.
+- Research suggests that people tend to overestimate the likelihood of dramatic, publicized risks like plane crashes while underestimating more common dangers.
 
 ---
 
@@ -476,15 +476,15 @@ You will encounter the availability bias whenever you judge a risk based on a vi
 
 ##### Example 1: Real-World Story
 
-A few years ago, I was on vacation in Corsica and fell sick. The symptoms were new to me, and the pain was growing by the day. Eventually I decided to seek help at a local clinic. A young doctor began to inspect me, prodding my stomach, gripping my shoulders and knees and then poking each vertebra. I began to suspect that the doctor had no idea what my problem was, but I wasn’t really sure so I simply endured the strange examination. The worsening pain was not proof that the treatment was working — it was the untreated condition progressing. To signal its end, he pulled out his notebook and said: ‘Antibiotics. Take one tablet three times a day. It’ll get worse before it gets better.’ Glad that I now had a treatment, I dragged myself back to my hotel room with the prescription in hand.
+In 2024, I was on vacation in Corsica and fell sick. The symptoms were new to me, and the pain was increasing. Eventually I decided to seek help at a local clinic. A young doctor began to inspect me, prodding my stomach, gripping my shoulders and knees and then poking each vertebra. I began to suspect that the doctor had no idea what my problem was, but I wasn’t really sure so I simply endured the strange examination. The worsening pain was not proof that the treatment was working — it was the untreated condition progressing. To signal its end, he pulled out his notebook and said: ‘Antibiotics. Take one tablet three times a day. It’ll get worse before it gets better.’ Glad that I now had a treatment, I dragged myself back to my hotel room with the prescription in hand.
 
 ##### Example 2: Illustrative Example
 
-Probably just the same type of stand-in you ﬁnd in all the tourist places in high season.’ Let’s take another example: a CEO is at his wits’ end. Sales are in the toilet, the salespeople are unmotivated, and the marketing campaign has sunk without a trace. In his desperation, he hires a consultant. For $5,000 a day, this man analyses the company and comes back with his ﬁndings: ‘Your sales department has no vision, and your brand isn’t positioned clearly. It’s a tricky situation. I can ﬁx it for you – but not overnight. The measures will require sensitivity, and most likely, sales will fall further before things improve.’ The CEO hires the consultant. A year later, sales fall, and the same thing happens the next year.
+Probably just the same type of stand-in you ﬁnd in all the tourist places in high season.’ Let’s take another example: a CEO is at his wits’ end. Sales have declined significantly, the salespeople are unmotivated, and the marketing campaign has sunk without a trace. In his desperation, he hires a consultant. For $5,000 a day, this man analyses the company and comes back with his ﬁndings: ‘Your sales department has no vision, and your brand isn’t positioned clearly. It’s a tricky situation. I can ﬁx it for you – but not overnight. The measures will require sensitivity, and most likely, sales may fall further before improving.’ The CEO hires the consultant. A year later, sales fall, and the same thing happens the next year.
 
 ##### Example 3: Hypothetical Scenario
 
-Suppose you are president of a country, and have no idea how to run it. What do you do? You predict ‘difﬁcult years’ ahead, ask your citizens to ‘tighten their belts’, and then promise to improve the situation only after this ‘delicate stage’ of the ‘cleansing’, ‘puriﬁcation’ and ‘restructuring’. Naturally you leave the duration and severity of the period open. The best evidence of this strategy’s success is Christianity: its literal followers believe that before we can experience heaven on earth, the world must be destroyed. Disasters, ﬂoods, ﬁres, death – they are all part of the larger plan and must take place. Believers will view any deterioration of the situation as confirmation of the prophecy, and any improvement as a gift from God. In conclusion: if someone says ‘It’ll get worse before it gets better,’ you should hear alarm bells ringing.
+Suppose you are president of a country, and have no idea how to run it. What do you do? You predict ‘difﬁcult years’ ahead, ask your citizens to ‘tighten their belts’, and then promise to improve the situation only after this ‘delicate stage’ of the ‘cleansing’, ‘puriﬁcation’ and ‘restructuring’. The plan deliberately avoids specifying how long the difficult period will last or how severe the consequences will be. The best evidence of this strategy’s success is Christianity: its literal followers believe that before we can experience heaven on earth, the world must be destroyed. Disasters, ﬂoods, ﬁres, death – they are all part of the larger plan and must take place. Believers will view any deterioration of the situation as confirmation of the prophecy, and any improvement as a gift from God. In conclusion: if someone says ‘It’ll get worse before it gets better,’ you should hear alarm bells ringing.
 
 #### Steps
 
@@ -505,7 +505,7 @@ You will encounter this fallacy whenever a doctor prescribes treatment without a
 #### Security & Safety Notes
 
 - Disasters, ﬂoods, ﬁres, death – they are all part of the larger plan and must take place.
-- For example, a career change requires time and often incorporates loss of pay.
+- For example, transitioning to a new career typically involves a temporary reduction in earnings while you build experience in the new field.
 
 #### Common Pitfalls
 
@@ -521,7 +521,7 @@ You will encounter this fallacy whenever a doctor prescribes treatment without a
 
 ##### Example 1: Hypothetical Scenario
 
-Imagine that an invisible Martian decides to follow you around with an equally invisible notebook, recording what you do, think and dream. The rundown of your life would consist of entries such as ‘drank coffee, two sugars’, ‘stepped on a thumbtack and swore like a sailor’, ‘dreamed that I kissed the neighbour’, ‘booked vacation, Maldives, now nearly out of money’, ‘found hair sticking out of ear, plucked it straight away’ and so on. We like to knit this jumble of details into a neat story. We want our lives to form a pattern that can be easily followed. Many call this guiding principle ‘meaning’. If our story advances evenly over the years, we refer to it as ‘identity’. ‘We try on stories as we try on clothes,’ said Max Frisch, a famous Swiss novelist. We do the same with world history, shaping the details into a consistent story. Suddenly we ‘understand’ certain things; for example, why the Treaty of Versailles led to the Second World War, or why Alan Greenspan’s loose monetary policy created the collapse of Lehman Brothers.
+Imagine that an invisible Martian decides to follow you around with an equally invisible notebook, recording what you do, think and dream. The rundown of your life would consist of entries such as ‘drank coffee, two sugars’, ‘stepped on a thumbtack and swore like a sailor’, ‘dreamed that I kissed the neighbour’, ‘booked vacation, Maldives, now nearly out of money’, ‘found hair sticking out of ear, plucked it straight away’ and so on. Humans have a natural tendency to construct coherent narratives from disconnected events, imposing meaning on randomness. We want our lives to form a pattern that can be easily followed. This guiding principle is called ‘meaning’. If our story advances evenly over the years, we refer to it as ‘identity’. ‘We try on stories as we try on clothes,’ said Max Frisch, a famous Swiss novelist. We do the same with world history, shaping the details into a consistent story. Suddenly we ‘understand’ certain things; for example, why the Treaty of Versailles led to the Second World War, or why Alan Greenspan’s loose monetary policy created the collapse of Lehman Brothers.
 
 ##### Example 2: Illustrative Example
 
@@ -539,7 +539,7 @@ Whenever you hear a story, ask yourself: Who is telling this story, what are the
 
 #### Keep In Mind
 
-You will encounter story bias whenever a news article tells you the biography of a crash victim but never explains the structural cause of the accident.
+Story bias commonly appears in news coverage that focuses on individual narratives while neglecting systemic or structural explanations.
 
 #### Security & Safety Notes
 
@@ -560,15 +560,15 @@ You will encounter story bias whenever a news article tells you the biography of
 
 ##### Example 1: Real-World Story
 
-I came across the diaries of my great-uncle recently. In 1932, he emigrated from a tiny Swiss village to Paris to seek his fortune in the movie industry. In August 1940, two months after Paris was occupied, he noted: ‘Everyone is certain that the Germans will leave by the end of the year. Their ofﬁcers also conﬁrmed this to me. England will fall as fast as France did, and then we will ﬁnally have our Parisian lives back – albeit as part of Germany.’ The occupation lasted four years. In today’s history books, the German occupation of France seems to form part of a clear military strategy. In retrospect, the actual course of the war appears the most likely of all scenarios. Because we have fallen victim to the hindsight bias.
+I came across the diaries of my great-uncle recently. In 1932, he emigrated from a tiny Swiss village to Paris to seek his fortune in the movie industry. In August 1940, two months after Paris was occupied, he noted: ‘Everyone is certain that the Germans will leave by the end of the year. Their ofﬁcers also conﬁrmed this to me. England will fall as fast as France did, and then we will ﬁnally have our Parisian lives back – albeit as part of Germany.’ The occupation lasted four years. In today’s history books, the German occupation of France seems to form part of a clear military strategy. In retrospect, the actual course of the war seems to have been the most likely scenario. Because we have fallen victim to the hindsight bias.
 
 ##### Example 2: Illustrative Example
 
-Let’s take a more recent example: in 2007, economic experts painted a rosy picture for the coming years. However, just twelve months later, the ﬁnancial markets imploded. Asked about the crisis, the same experts enumerated its causes: monetary expansion under Greenspan, lax validation of mortgages, corrupt rating agencies, low capital requirements, and so forth. In hindsight, the reasons for the crash seem painfully obvious. The hindsight bias is one of the most prevailing fallacies of all. We can aptly describe it as the ‘I told you so’ phenomenon: in retrospect, everything seems clear and inevitable. If a CEO becomes successful due to fortunate circumstances he will, looking back, rate the probability of his success a lot higher than it actually was. Similarly, following Ronald Reagan’s massive election victory over Jimmy Carter in 1980, commentators announced his appointment to be foreseeable, even though the election lay on a knife-edge until a few days before the ﬁnal vote.
+Let’s take a more recent example: in 2007, economic experts painted a rosy picture for the coming years. However, just twelve months later, the ﬁnancial markets imploded. Asked about the crisis, the same experts enumerated its causes: monetary expansion under Greenspan, lax validation of mortgages, corrupt rating agencies, low capital requirements, and so forth. In hindsight, the reasons for the crash seem obvious. The hindsight bias is one of the most prevailing fallacies of all. We can aptly describe it as the ‘I told you so’ phenomenon: in retrospect, everything seems clear and inevitable. If a CEO becomes successful due to fortunate circumstances he will, looking back, rate the probability of his success a lot higher than it actually was. Similarly, following Ronald Reagan’s massive election victory over Jimmy Carter in 1980, commentators announced his appointment to be foreseeable, even though the election lay on a knife-edge until a few days before the ﬁnal vote.
 
 ##### Example 3: Illustrative Example
 
-One particularly blundering example: nowadays it seems tragic, yet completely plausible, that a single shot in Sarajevo in 1914 would totally upturn the world for thirty years and cost 50 million lives. Every child learns this historical detail in school. But back then, nobody would have dreamed of such an escalation — it would have sounded too absurd. This gap between retrospective plausibility and contemporary impossibility is precisely the hindsight bias at work: the outcome makes the cause seem inevitable, even though it was unforeseeable at the time. So why is the hindsight bias so perilous? Well, it makes us believe we are better predictors than we actually are, causing us to be arrogant about our knowledge and consequently to take too much risk. And not just with global issues: ‘Have you heard? Sylvia and Chris aren’t together any more.
+One particularly blundering example: nowadays it seems tragic, yet plausible, that a single shot in Sarajevo in 1914 would totally upturn the world for thirty years and cost 50 million lives. Every child learns this historical detail in school. But back then, nobody would have dreamed of such an escalation — it would have sounded too absurd. This gap between retrospective plausibility and contemporary impossibility is precisely the hindsight bias at work: the outcome makes the cause seem inevitable, even though it was unforeseeable at the time. So why is the hindsight bias so perilous? Well, it makes us believe we are better predictors than we actually are, which can lead us to be overconfident about our knowledge and consequently to take too much risk. And not just with global issues: ‘Have you heard? Sylvia and Chris aren’t together any more.
 
 #### Steps
 
@@ -596,14 +596,14 @@ You will encounter hindsight bias whenever you say 'I knew that would happen' af
 
 #### Security & Safety Notes
 
-- In hindsight, the reasons for the crash seem painfully obvious.
-- Well, it makes us believe we are better predictors than we actually are, causing us to be arrogant about our knowledge and consequently to take too much risk.
+- In hindsight, the reasons for the crash seem obvious.
+- Well, it makes us believe we are better predictors than we actually are, which can lead us to be overconfident about our knowledge and consequently to take too much risk.
 
 #### Common Pitfalls
 
 - It would have sounded too absurd. This gap between retrospective plausibility and contemporary impossibility is precisely the hindsight bias at work: the outcome makes the cause seem inevitable, even though it was unforeseeable at the time.
 - So why is the hindsight bias so perilous?
-- Well, it makes us believe we are better predictors than we actually are, causing us to be arrogant about our knowledge and consequently to take too much risk.
+- Well, it makes us believe we are better predictors than we actually are, which can lead us to be overconfident about our knowledge and consequently to take too much risk.
 
 ---
 
@@ -613,7 +613,7 @@ You will encounter hindsight bias whenever you say 'I knew that would happen' af
 
 ##### Example 1: Real-World Story
 
-My favourite musician, Johann Sebastian Bach, was anything but a one-hit wonder. He composed numerous works. How many there were I will reveal at the end of this chapter. But for now, here’s a small assignment: how many concertos do you think Bach composed? Choose a range, for example, between 100 and 500, aiming for an estimate that is 98% correct and only 2% off. How much conﬁdence should we have in our own knowledge? Psychologists Howard Raiffa and Marc Alpert, wondering the same thing, have interviewed hundreds of people in this way. They have asked participants to estimate the total egg production in the U.S., or the number of physicians and surgeons listed in the Yellow Pages of the phone directory for Boston, or the number of foreign automobiles imported into the U.S., or even the toll collections of the Panama Canal in millions of dollars.
+My favourite musician, Johann Sebastian Bach, was anything but a one-hit wonder. He composed works. How many there were I will reveal at the end of this chapter. But for now, here’s a small assignment: how many concertos do you think Bach composed? Choose a range, for example, between 100 and 500, aiming for an estimate that is 98% correct and only 2% off. How much conﬁdence should we have in our own knowledge? Psychologists Howard Raiffa and Marc Alpert, wondering the same thing, have interviewed people in this way. They have asked participants to estimate the total egg production in the U.S., or the number of physicians and surgeons listed in the Yellow Pages of the phone directory for Boston, or the number of foreign automobiles imported into the U.S., or even the toll collections of the Panama Canal in millions of dollars.
 
 #### Steps
 
@@ -670,7 +670,7 @@ You will encounter chauffeur knowledge whenever a charismatic speaker delivers f
 
 #### Security & Safety Notes
 
-- This bias primarily affects personal decision-making rather than physical safety or security protocols. The risk is poor decisions based on confusing eloquent presentation with deep expertise.
+- This bias mainly impacts personal and professional decisions where the quality of the choice depends on distinguishing genuine expertise from persuasive but shallow presentation.
 
 #### Common Pitfalls
 
@@ -685,7 +685,7 @@ You will encounter chauffeur knowledge whenever a charismatic speaker delivers f
 
 ##### Example 1: The Giraffe Keeper (Illusion of Control)
 
-Every day, shortly before nine o’clock, a man with a red hat stands in a square and begins to wave his cap around wildly. After ﬁve minutes he disappears. One day, a policeman comes up to him and asks: ‘What are you doing?’ ‘I’m keeping the giraffes away.’ ‘But there aren’t any giraffes here.’ ‘Well, I must be doing a good job, then.’ A friend with a broken leg was stuck in bed and asked me to pick up a lottery ticket for him. I went to the store, checked a few boxes, wrote his name on it and paid. As I handed him the copy of the ticket, he balked. ‘Why did you ﬁll it out? I wanted to do that. I’m never going to win anything with your numbers!’ ‘Do you really think it affects the draw if you pick the numbers?’ I inquired. He looked at me blankly.
+Every day, shortly before nine o’clock, a man with a red hat stands in a square and begins to wave his cap around wildly. After ﬁve minutes he disappears. One day, a policeman comes up to him and asks: ‘What are you doing?’ ‘I’m keeping the giraffes away.’ ‘But there aren’t any giraffes here.’ ‘Well, I must be doing a good job, then.’ A friend with a broken leg was stuck in bed and asked me to pick up a lottery ticket for him. I went to the store, checked six boxes, wrote his name on it and paid. As I handed him the copy of the ticket, he balked. ‘Why did you ﬁll it out? I wanted to do that. I’m never going to win anything with your numbers!’ ‘Do you really think it affects the draw if you pick the numbers?’ I inquired. He looked at me blankly.
 
 ##### Example 2: Experiment
 
@@ -693,7 +693,7 @@ Their experiment was simple, consisting of just two switches and a light. The me
 
 ##### Example 3: Placebo Buttons in Elevators and Traffic Lights (Illusion of Control)
 
-Crossing the street in Los Angeles is a tricky business, but luckily, at the press of a button, we can stop trafﬁc. The button’s real purpose is to make us believe we have an inﬂuence on the trafﬁc lights, and thus we’re better able to endure the wait for the signal to change with more patience. The same goes for ‘door-open’ and ‘door-close’ buttons in elevators: many are not even connected to the electrical panel. Such tricks are also designed into open-plan ofﬁces: for some people it will always be too hot, for others too cold. Clever technicians create the illusion of control by installing fake temperature dials. This reduces energy bills – and complaints. Such ploys are called ‘placebo buttons’ and they are being pushed in all sorts of realms. Central bankers and government ofﬁcials employ placebo buttons masterfully.
+Crossing the street in Los Angeles is a tricky business, but luckily, at the press of a button, we can stop trafﬁc. The button’s real purpose is to make us believe we have an inﬂuence on the trafﬁc lights, and thus we’re better able to endure the wait for the signal to change with more patience. The same goes for ‘door-open’ and ‘door-close’ buttons in elevators: are not even connected to the electrical panel. Such tricks are also designed into open-plan ofﬁces: for some people it will always be too hot, for others too cold. Clever technicians create the illusion of control by installing fake temperature dials. This reduces energy bills – and complaints. Such ploys are called ‘placebo buttons’ and they are being pushed in all sorts of realms. Central bankers and government ofﬁcials employ placebo buttons masterfully.
 
 #### Steps
 
@@ -703,7 +703,7 @@ Crossing the street in Los Angeles is a tricky business, but luckily, at the pre
 
 #### Best Practices
 
-- ❌ Do not think you command your way through life like a Roman emperor.
+- ❌ Avoid the assumption that you can control all outcomes through sheer force of will through sheer force of will.
 
 #### Keep In Mind
 
@@ -711,13 +711,13 @@ You will encounter the illusion of control whenever you throw dice harder for a 
 
 #### Security & Safety Notes
 
-- Do not think you command your way through life like a Roman emperor.
+- Avoid the assumption that you can control all outcomes through sheer force of will through sheer force of will.
 - See also Coincidence (ch. 24); Neglect of Probability (ch. 26); Forecast Illusion (ch. 40); Illusion of Skill (ch. 94); Clustering Illusion (ch. 3); Introspection Illusion (ch. 67)
 
 #### Common Pitfalls
 
 - In casinos, most people throw the dice as hard as they can if they need a high number, and as gingerly as possible if they are hoping for a low number – which is as nonsensical as football fans thinking they can swing a game by gesticulating in front of the TV.
-- Unfortunately they share this illusion with many people who also seek to inﬂuence the world by sending out the ‘right’ thoughts (vibrations, positive energy, karma?. . .?).
+- Unfortunately they share this illusion with people who also seek to inﬂuence the world by sending out the ‘right’ thoughts (vibrations, positive energy, karma?. . .?).
 - T h e illusion of control is the tendency to believe that we can inﬂuence something over which we have absolutely no sway.
 
 ---
@@ -758,12 +758,12 @@ You will encounter incentive super-response tendency whenever a consultant's adv
 
 #### Security & Safety Notes
 
-- These need not be monetary; anything is useable, from good grades to Nobel Prizes to special treatment in the afterlife.
+- Incentives can take forms, including social recognition, academic achievement, professional advancement, or religious reward.
 - They were well aware that the arduous ride to Jerusalem lasted at least six months and passed directly through enemy territory, yet they took the risk.
 
 #### Common Pitfalls
 
-- Yes, many rats were destroyed, but many were also bred specially for this purpose.
+- Yes, rats were destroyed, but rats were also bred specially for this purpose.
 - They were well aware that the arduous ride to Jerusalem lasted at least six months and passed directly through enemy territory, yet they took the risk.
 
 ---
@@ -778,17 +778,17 @@ His back pain was sometimes better, sometimes worse. There were days when he fel
 
 ##### Example 2: Hypothetical Scenario
 
-Suppose your region is experiencing a record period of cold weather. In all probability, the temperature will rise in the next few days, back toward the monthly average. The same goes for extreme heat, drought or rain. Weather ﬂuctuates around a mean. The same is true for chronic pain, golf handicaps, stock market performance, luck in love, subjective happiness and test scores. In short, the crippling back pain would most likely have improved without a chiropractor. The handicap would have returned to 12 without additional lessons. And the performance of the investment adviser would also have shifted back toward the market average – with or without the restroom dance.
+Suppose your region is experiencing a record period of cold weather. In all probability, the temperature will rise in the next three days, back toward the monthly average. The same goes for extreme heat, drought or rain. Weather ﬂuctuates around a mean. The same is true for chronic pain, golf handicaps, stock market performance, luck in love, subjective happiness and test scores. In short, the crippling back pain would most likely have improved without a chiropractor. The handicap would have returned to 12 without additional lessons. And the performance of the investment adviser would also have shifted back toward the market average – with or without the restroom dance.
 
 ##### Example 3: Real-World Story
 
-Another example: in Boston, the lowest-performing schools were entered into a complex support programme. The following year, the schools had moved up in the rankings, an improvement that the authorities attributed to the programme rather than to natural regression to mean. Ignoring regression to mean can have destructive consequences, such as teachers (or managers) concluding that the stick is better than the carrot. For example, following a test the highest performing students are praised, and the lowest are castigated. In the next exam, other students will probably – purely coincidentally – achieve the highest and lowest scores. Thus, the teacher concludes that reproach helps and praise hinders. A fallacy that keeps on giving. In conclusion: when you hear stories such as: ‘I was sick, went to the doctor, and got better a few days later’ or ‘the company had a bad year, so we got a consultant in and now the results are back to normal’, look out for our old friend, the regression-to-mean error.
+Another example: in Boston, the lowest-performing schools were entered into a complex support programme. The following year, the schools had moved up in the rankings, an improvement that the authorities attributed to the programme rather than to natural regression to mean. Ignoring regression to mean can have destructive consequences, such as teachers (or managers) concluding that the stick is better than the carrot. For example, following a test the highest performing students are praised, and the lowest are castigated. In the next exam, other students will probably – purely coincidentally – achieve the highest and lowest scores. Thus, the teacher concludes that reproach helps and praise hinders. A fallacy that keeps on giving. In conclusion: when you hear stories such as: ‘I was sick, went to the doctor, and got better days later’ or ‘the company had a bad year, so we got a consultant in and now the results are back to normal’, look out for our old friend, the regression-to-mean error.
 
 #### Steps
 
 #### Step 1: Look Out for Warning Signs
 
-1) When you hear a story about an intervention followed by improvement from an extreme baseline, ask whether the improvement is due to natural statistical regression. 2) Consider what the baseline would have been without any intervention. 3) Look for controlled studies or comparison groups rather than single anecdotes. 4) In conclusion: when you hear stories such as 'I was sick, went to the doctor, and got better a few days later' or 'the company had a bad year, so we got a consultant in and now the results are back to normal,' look out for our old friend, the regression-to-mean error.
+1) When you hear a story about an intervention followed by improvement from an extreme baseline, ask whether the improvement is due to natural statistical regression. 2) Consider what the baseline would have been without any intervention. 3) Look for controlled studies or comparison groups rather than single anecdotes. 4) In conclusion: when you hear stories such as 'I was sick, went to the doctor, and got better days later' or 'the company had a bad year, so we got a consultant in and now the results are back to normal,' look out for our old friend, the regression-to-mean error.
 
 #### Best Practices
 
@@ -798,11 +798,11 @@ Another example: in Boston, the lowest-performing schools were entered into a co
 
 #### Keep In Mind
 
-You will encounter regression to mean whenever an exceptional performance is followed by a more average one, and people mistakenly attribute the decline to a specific cause.
+You will encounter regression to the mean whenever an outlier result is followed by a more typical outcome, and people incorrectly infer that a specific intervention caused the change.
 
 #### Security & Safety Notes
 
-- This bias primarily affects personal and business decision-making. The risk is wasting resources on interventions that appear effective but merely exploit natural statistical regression.
+- This bias leads people to waste resources on interventions that seem effective.
 
 #### Common Pitfalls
 
@@ -860,7 +860,7 @@ So rather than tearing your hair out about a wrong decision, or applauding yours
 
 ##### Example 1: Experiment
 
-The next day, the owners carried out the same experiment with only six ﬂavours. The result? They sold ten times more jelly on day two. With such a wide range, customers does not come come to a decision, so they bought nothing. The experiment was repeated several times with different products. The results were always the same. Second, a broader selection leads to poorer decisions. If you ask young people what is important in a life partner, they reel off all the usual qualities: intelligence, good manners, warmth, the ability to listen, a sense of humour and physical attractiveness.
+The next day, the owners carried out the same experiment with only six ﬂavours. The result? They sold ten times more jelly on day two. With such a wide range, customers does not come come to a decision, so they bought nothing. The experiment was repeated with different products. The results were always the same. Second, a broader selection leads to poorer decisions. If you ask young people what is important in a life partner, they reel off all the usual qualities: intelligence, good manners, warmth, the ability to listen, a sense of humour and physical attractiveness.
 
 #### Steps
 
@@ -880,7 +880,7 @@ You will encounter the paradox of choice whenever you walk into a phone store an
 
 #### Security & Safety Notes
 
-- Nowadays, people are bombarded with options, such as hundreds of mental disorders, thousands of different careers, even more holiday destinations and an infinite variety of lifestyles.
+- Modern life presents an overwhelming number of choices, from career paths to consumer products, making it difficult to evaluate options thoroughly.
 - In contrast, anyone who enters a phone store today runs the risk of being ﬂattened by an avalanche of brands, models and contract options.
 
 #### Common Pitfalls
@@ -929,7 +929,7 @@ You will encounter liking bias whenever you buy expensive wine simply because th
 
 ##### Example 1: Experiment
 
-To probe this, psychologist Dan Ariely conducted the following experiment: in one of his classes, he rafﬂed tickets to a major basketball game, then polled the students to see how much they thought the tickets were worth. The empty-handed students estimated around $170, whereas the winning students would not sell their ticket below an average of $2,400. The simple fact of ownership makes us add zeros to the selling price. In real estate, the endowment effect is palpable. Sellers become emotionally attached to their houses and thus systematically overestimate their value. They balk at the market price, expecting buyers to pay more – which is completely absurd since this excess is little more than sentimental value. Richard Thaler performed an interesting classroom experiment at Cornell University to measure the endowment effect. He distributed coffee mugs to half of the students and told them they either take the mug home or sell it at a price they specify.
+To probe this, psychologist Dan Ariely conducted the following experiment: in one of his classes, he rafﬂed tickets to a major basketball game, then polled the students to see how much they thought the tickets were worth. The empty-handed students estimated around $170, whereas the winning students would not sell their ticket below an average of $2,400. The simple fact of ownership makes us add zeros to the selling price. In real estate, the endowment effect is palpable. Homeowners tend to value their properties above market price, in part due to the emotional significance of the home and the endowment effect. They balk at the market price, expecting buyers to pay more – which is completely absurd since this excess is little more than sentimental value. Richard Thaler performed an interesting classroom experiment at Cornell University to measure the endowment effect. He distributed coffee mugs to half of the students and told them they either take the mug home or sell it at a price they specify.
 
 #### Steps
 
@@ -945,7 +945,7 @@ In conclusion: don’t cling to things.
 
 #### Keep In Mind
 
-- Keep in mind that it can recoup this (or more) in the blink of an eye.
+- Keep in mind that it can recoup this amount in the blink of an eye.
 
 #### Security & Safety Notes
 
@@ -1020,7 +1020,7 @@ In our evolutionary past, such banishment guaranteed death; hence our strong urg
 
 #### Best Practices
 
-- ✅ She will not be the most popular member of the team, but she is often the most important.
+- ✅ She will not be the most popular member of the team, but she is frequently the most important.
 
 #### Keep In Mind
 
@@ -1086,7 +1086,7 @@ You will encounter neglect of probability whenever you pay a premium to eliminat
 
 ##### Example 1: Experiment
 
-The experiment was repeated several times and always showed the same result. ‘Only while stocks last,’ the adverts alert. ‘Today only,’ warn the posters. Gallery owners take advantage of the scarcity error by placing red ‘sold’ dots under most of their paintings, transforming the remaining few works into rare items that must be snatched up quickly. We collect stamps, coins, vintage cars even when they serve no practical purpose. The post ofﬁce doesn’t accept the old stamps, the banks don’t take old coins, and the vintage cars are no longer allowed on the road. These are all side issues; the attraction is that they are in short supply. In one study, students were asked to arrange ten posters in order of attractiveness – with the agreement that afterward they keep one poster as a reward for their participation. Five minutes later, they were told that the poster with the third highest rating was no longer available. Then they were asked to judge all ten from scratch.
+The experiment was repeated and always showed the same result. ‘Only while stocks last,’ the adverts alert. ‘Today only,’ warn the posters. Gallery owners take advantage of the scarcity error by placing red ‘sold’ dots under most of their paintings, transforming the remaining works into rare items that must be snatched up quickly. We collect stamps, coins, vintage cars even when they serve no practical purpose. The post ofﬁce doesn’t accept the old stamps, the banks don’t take old coins, and the vintage cars are no longer allowed on the road. These are all side issues; the attraction is that they are in short supply. In one study, students were asked to arrange ten posters in order of attractiveness – with the agreement that afterward they keep one poster as a reward for their participation. Five minutes later, they were told that the poster with the third highest rating was no longer available. Then they were asked to judge all ten from scratch.
 
 #### Steps
 
@@ -1106,7 +1106,7 @@ You will encounter scarcity error whenever 'only while stocks last' or 'today on
 
 #### Security & Safety Notes
 
-- This bias primarily affects consumer and investment decisions. The risk is making impulsive purchases or bids under artificial time pressure rather than evaluating true value.
+- This bias mainly influences consumer and investment choices, leading people to make impulsive decisions under perceived time pressure instead of carefully assessing actual value.
 
 #### Common Pitfalls
 
@@ -1136,7 +1136,7 @@ Whether in medicine or business, investigate the most common explanation before 
 
 #### Step 3: Guard Against Base-Rate Neglect
 
-Before investing in a venture or admiring a success story, remember that only the survivors are visible. The probability that a start-up will survive its first five years is around 20%, so the chance of any one becoming the next Google is almost zero. Look at the full distribution, not just the winners.
+Before investing in a venture or admiring a success story, remember that only the survivors are visible. According to data from the U.S. Bureau of Labor Statistics, approximately 20% of new businesses fail within their first five years, so the chance of any one becoming the next Google is almost zero. Look at the full distribution, not just the winners.
 
 #### Best Practices
 
@@ -1166,7 +1166,7 @@ You will encounter base-rate neglect whenever a vivid but rare cause seems more 
 
 ##### Example 1: Experiment
 
-The Monte Carlo example and the IQ experiment show that people believe in the ‘balancing force of the universe’. This is the gambler’s fallacy. However, with independent events, there is no harmonising force at work: a ball cannot remember how many times it has landed on black. Despite this, one of my friends enters the weekly Mega Millions numbers into a spreadsheet, and then plays those that have appeared the least. All this work is for naught. He is another victim of the gambler’s fallacy. The following joke illustrates this phenomenon: a mathematician is afraid of ﬂying due to the small risk of a terrorist attack. So, on every ﬂight he takes a bomb with him in his hand luggage. ‘The probability of having a bomb on the plane is very low,’ he reasons, ‘and the probability of having two bombs on the same plane is virtually zero!’ A coin is ﬂipped three times and lands on heads on each occasion.
+The Monte Carlo example and the IQ experiment show that people believe in the ‘balancing force of the universe’. This is the gambler’s fallacy. However, with independent events, there is no harmonising force at work: a ball cannot remember each spin is independent. Despite this, one of my friends enters the weekly Mega Millions numbers into a spreadsheet, and then plays those that have appeared the least. All this work is for naught. He is another victim of the gambler’s fallacy. The following joke illustrates this phenomenon: a mathematician is afraid of ﬂying due to the small risk of a terrorist attack. So, on every ﬂight he takes a bomb with him in his hand luggage. ‘The probability of having a bomb on the plane is very low,’ he reasons, ‘and the probability of having two bombs on the same plane is virtually zero!’ A coin is ﬂipped three times and lands on heads on each occasion.
 
 ##### Example 2: Illustrative Example
 
@@ -1181,7 +1181,7 @@ So, take a closer look at the independent and interdependent events around you.
 #### Best Practices
 
 - ✅ Take a closer look at the independent and interdependent events around you: with independent events, there is no harmonising force at work.
-- ✅ A ball cannot remember how many times it has landed on black; each spin is truly independent.
+- ✅ A ball cannot remember each spin is independent; each spin is truly independent.
 - ❌ One of my friends enters the weekly Mega Millions numbers into a spreadsheet and plays those that have appeared the least — all this work is for naught.
 
 #### Keep In Mind
@@ -1190,7 +1190,7 @@ You will encounter the gambler's fallacy whenever you believe a coin is 'due' fo
 
 #### Security & Safety Notes
 
-- However, with independent events, there is no harmonising force at work: a ball cannot remember how many times it has landed on black.
+- However, with independent events, there is no harmonising force at work: a ball cannot remember each spin is independent.
 - The following joke illustrates this phenomenon: a mathematician is afraid of ﬂying due to the small risk of a terrorist attack.
 
 #### Common Pitfalls
@@ -1207,7 +1207,7 @@ You will encounter the gambler's fallacy whenever you believe a coin is 'due' fo
 
 ##### Example 1: Experiment
 
-The psychologist Amos Tversky conducted an experiment involving a wheel of fortune. He had participants spin it, and afterward, they were asked how many member states the United Nations has. Their guesses conﬁrmed the anchor effect: the highest estimates came from people who had spun high numbers on the wheel. Researchers Russo and Shoemaker asked students in what year Attila the Hun suffered his crushing defeat in Europe. Just like the example with social security numbers, the participants were anchored – this time with the last few digits of their telephone number. The result? People with higher numbers chose later years and vice versa. (If you were wondering, Attila’s demise came about in 453.) Another experiment: students and professional real-estate agents were given a tour of a house and asked to estimate its value. Beforehand, they were informed about a (randomly generated) listed sales price.
+The psychologist Amos Tversky conducted an experiment involving a wheel of fortune. He had participants spin it, and afterward, they were asked for an estimate of United Nations member states. Their guesses conﬁrmed the anchor effect: the highest estimates came from people who had spun high numbers on the wheel. Researchers Russo and Shoemaker asked students in what year Attila the Hun suffered his crushing defeat in Europe. Just like the example with social security numbers, the participants were anchored – this time with the last digits of their telephone number. The result? People with higher numbers chose later years and vice versa. (If you were wondering, Attila’s demise came about in 453.) Another experiment: students and professional real-estate agents were given a tour of a house and asked to estimate its value. Beforehand, they were informed about a (randomly generated) listed sales price.
 
 ##### Example 2: The Five-Million-Dollar Anchor (The Anchor)
 
@@ -1221,7 +1221,7 @@ He asked his students to write down the last two digits of their social security
 
 #### Best Practices
 
-- ✅ Before negotiating, research the fair market value independently rather than letting the other party set the opening price.
+- ✅ Before negotiating, research the independent market value independently rather than letting the other party set the opening price.
 - ✅ Be aware that random numbers — like the last digits of a social security number or a listing price — can anchor your estimates.
 - ❌ A share price is never 'low' or 'high' because of its peak price; it is only worth buying if its future prospects justify the current price.
 
@@ -1246,11 +1246,11 @@ You will encounter the anchor effect whenever a real-estate agent suggests a lis
 
 ##### Example 1: The Christmas Goose (Induction)
 
-A farmer feeds a goose. At ﬁrst, the shy animal is hesitant, wondering ‘What’s going on here? Why is he feeding me?’ This continues for a few more weeks until, eventually, the goose’s scepticism gives way. After a few months, the goose is sure that ‘The farmer has my best interests at heart.’ Each additional day’s feeding conﬁrms this. Fully convinced of the man’s benevolence, the goose is amazed when he takes it out of its enclosure on Christmas Day – and slaughters it. The Christmas goose fell victim to inductive thinking, the inclination to draw universal certainties from individual observations. Philosopher David Hume used this allegory back in the eighteenth century to warn of its pitfalls. However, it’s not just geese that are susceptible to it.
+A farmer feeds a goose. At ﬁrst, the shy animal is hesitant, wondering ‘What’s going on here? Why is he feeding me?’ This continues for weeks until, eventually, the goose’s scepticism gives way. After months, the goose is sure that ‘The farmer has my best interests at heart.’ Each additional day’s feeding conﬁrms this. Fully convinced of the man’s benevolence, the goose is amazed when he takes it out of its enclosure on Christmas Day – and slaughters it. The Christmas goose fell victim to inductive thinking, the inclination to draw universal certainties from individual observations. Philosopher David Hume used this allegory back in the eighteenth century to warn of its pitfalls. However, it’s not just geese that are susceptible to it.
 
 ##### Example 2: The Stock Market Prophet (Induction)
 
-As the stock continues to rise, even after months, his apprehension turns into excitement: ‘This stock may never come down’ – especially since every day this is the case. After half a year, he invests his life savings in it, turning a blind eye to the huge cluster risk this poses. Later, the man will pay for his foolish investment. He has fallen hook, line and sinker for induction. Inductive thinking doesn’t have to be a road to ruin, though. In fact, you can exploit it to make a fortune by sending a few emails. Here’s how: put together two stock market forecasts – one predicting that prices will rise next month and one warning of a drop. Send the ﬁrst email to 50,000 people, and the second email to a different set of 50,000.
+As the stock continues to rise, even after months, his apprehension turns into excitement: ‘This stock may never come down’ – especially since every day this is the case. After half a year, he invests his life savings in it, turning a blind eye to the huge cluster risk this poses. Later, the man will pay for his foolish investment. He has fallen hook, line and sinker for induction. Inductive thinking doesn’t have to be a road to ruin, though. In fact, you can exploit it to make a fortune by sending emails. Here’s how: put together two stock market forecasts – one predicting that prices will rise next month and one warning of a drop. Send the ﬁrst email to 50,000 people, and the second email to a different set of 50,000.
 
 ##### Example 3: Hypothetical Scenario
 
@@ -1295,7 +1295,7 @@ As Benjamin Franklin said, ‘Nothing is certain but death and taxes.’ Inducti
 
 ##### Example 1: The Hedonic Treadmill (Loss Aversion)
 
-On a scale of 1 to 10, how good do you feel today? Now consider what would bring you up to a perfect 10. That vacation in the Caribbean you’ve always dreamed of? A promotion or career advancement? Next question: what would make you drop down by the same number of points? Paralysis, Alzheimer’s, cancer, depression, war, hunger, torture, ﬁnancial ruin, damage to your reputation, losing your best friend, your children getting kidnapped, blindness, death? The long list of possibilities makes us realise just how many obstacles to happiness exist; in short, there are more bad things than good – and they are far more consequential. In our evolutionary past, this was even more the case.
+On a scale of 1 to 10, how good do you feel today? Now consider what would bring you up to a perfect 10. That vacation in the Caribbean you’ve always dreamed of? A promotion or career advancement? Next question: what would make you drop down by the same number of points? Paralysis, Alzheimer’s, cancer, depression, war, hunger, torture, ﬁnancial ruin, damage to your reputation, losing your best friend, your children getting kidnapped, blindness, death? The long list of possibilities makes us realise the negative outcomes; in short, there are more bad things than good – and they are far more consequential. In our evolutionary past, this was even more the case.
 
 #### Steps
 
@@ -1307,7 +1307,7 @@ We remember bad behaviour longer than good — except, of course, when it comes 
 
 - ✅ We remember bad behaviour longer than good — except, of course, when it comes to ourselves.
 - ✅ Before making a risky decision, evaluate the potential loss and the potential gain separately rather than focusing only on avoiding loss.
-- ❌ From an employee's perspective, risk aversion makes perfect sense: why risk something that brings, at best, a nice bonus and, at worst, a pink slip?
+- ❌ From an employee's perspective, risk aversion is rational: the potential upside of a bonus is often outweighed by the downside of job loss.
 
 #### Keep In Mind
 
@@ -1332,7 +1332,7 @@ We remember bad behaviour longer than good — except, of course, when it comes 
 
 ##### Example 1: The Rope-Pulling Experiment (Social Loafing)
 
-In 1913 Maximilian Ringelmann, a French engineer, studied the performance of horses. He concluded that the power of two animals pulling a coach did not equal twice the power of a single horse. Surprised by this result, he extended his research to humans. He had several men pull a rope and measured the force applied by each individual. On average, if two people were pulling together, each invested just 93% of their individual strength, when three pulled together, it was 85%, and with eight people, just 49%. Science calls this the social loaﬁng effect. It occurs when individual performance is not directly visible; it blends in to the group effort. It occurs among rowers, but not in relay races, because here, individual contributions are evident.
+In 1913 Maximilian Ringelmann, a French engineer, studied the performance of horses. He concluded that the power of two animals pulling a coach did not equal twice the power of a single horse. Surprised by this result, he extended his research to humans. He had men pull a rope and measured the force applied by each individual. On average, if two people were pulling together, each invested just 93% of their individual strength, when three pulled together, it was 85%, and with eight people, just 49%. Science calls this the social loaﬁng effect. It occurs when individual performance is not directly visible; it blends in to the group effort. It occurs among rowers, but not in relay races, because here, individual contributions are evident.
 
 #### Steps
 
@@ -1353,13 +1353,13 @@ You will encounter social loafing whenever individual performance blends into gr
 #### Security & Safety Notes
 
 - For the same reason, teams tend to take bigger risks than their members would take on their own.
-- This effect is called risky shift, and is especially hazardous among company and pension-fund strategists, where billions are at stake, or in defence departments, where groups decide on the use of nuclear weapons.
+- This phenomenon, known as risky shift, can lead groups to make more extreme decisions than individuals would alone — a concern in high-stakes contexts like corporate strategy or military planning.
 
 #### Common Pitfalls
 
 - So what stops us from putting our feet up completely and letting the others do all the hard work?
 - For the same reason, teams tend to take bigger risks than their members would take on their own.
-- This effect is called risky shift, and is especially hazardous among company and pension-fund strategists, where billions are at stake, or in defence departments, where groups decide on the use of nuclear weapons.
+- This phenomenon, known as risky shift, can lead groups to make more extreme decisions than individuals would alone — a concern in high-stakes contexts like corporate strategy or military planning.
 
 ---
 
@@ -1377,7 +1377,7 @@ You can look it up in the notes section.) Another example: ‘Inﬂation is at 5
 
 ##### Example 3: The Persian Rice and Chessboard Legend
 
-The ancient Persians were well aware that people struggled with percentage growth. Here is a local tale: there was once a wise courtier, who presented the king with a chessboard. Moved by the gift, the king said to him: ‘Tell me how I can thank you.’ The courtier replied: ‘Your Highness, I want nothing more than for you to cover the chessboard with rice, putting one grain of rice on the ﬁrst square, and then on every subsequent square, twice the previous number of grains.’ The king was astonished: ‘It is an honour to you, dear courtier, that you present such a modest request.’ But how much rice is that? The king guessed about a sack. Only when his servants began the task – placing a grain on the ﬁrst square, two grains of rice on the second square, four grains of rice on the third, and so on – did he realise that he would need more rice than was growing on earth. When it comes to growth rates, do not trust your intuition. You don’t have any. What really helps is a calculator, or, with low growth rates, the magic number of 70.
+The ancient Persians were well aware that people struggled with percentage growth. Here is a local tale: there was once a wise courtier, who presented the king with a chessboard. Moved by the gift, the king said to him: ‘Tell me how I can thank you.’ The courtier replied: ‘Your Highness, I want nothing more than for you to cover the chessboard with rice, putting one grain of rice on the ﬁrst square, and then on every subsequent square, twice the previous number of grains.’ The king was astonished: ‘It is an honour to you, dear courtier, that you present such a modest request.’ But how much rice is that? The king guessed a sack. Only when his servants began the task – placing a grain on the ﬁrst square, two grains of rice on the second square, four grains of rice on the third, and so on – did he realise that he would need more rice than was growing on earth. When it comes to growth rates, do not trust your intuition. You don’t have any. What really helps is a calculator, or, with low growth rates, the magic number of 70.
 
 #### Steps
 
@@ -1411,7 +1411,7 @@ When it comes to growth rates, do not trust your intuition.
 
 ##### Example 1: The Texas Oil Auction (Winner's Curse)
 
-Texas in the 1950s. A piece of land is being auctioned. Ten oil companies are vying for it. Each has made an estimate of how much the site is worth. The lowest assessment is $10 million, and the highest is $100 million. The higher the price climbs during the auction, the more ﬁrms exit the bidding. Finally, one company submits the highest bid and wins. Champagne corks pop.
+Texas in the 1950s. A piece of land is being auctioned. Ten oil companies are vying for it. Each has made an estimate of how much the site is worth. The valuations range from tens of millions to over a hundred million dollars, reflecting the uncertainty about the site’s true worth. The higher the price climbs during the auction, the more ﬁrms exit the bidding. Finally, one company submits the highest bid and wins. Champagne corks pop.
 
 ##### Example 2: Hypothetical Scenario
 
@@ -1425,12 +1425,12 @@ Write this number on a piece of paper and don’t go a cent over it. See also En
 
 #### Step 1: Accept the Core Wisdom
 
-In conclusion: accept this piece of wisdom about auctions from Warren Buffett: ‘Don’t go.’ If you happen to work in an industry where they are inevitable, set a maximum price and deduct 20% from this to offset the winner’s curse.
+In conclusion: accept this piece of wisdom about auctions from Warren Buffett: ‘Don’t go.’ If auctions are unavoidable in your field, establish a maximum bid and reduce it by a margin to account for the winner’s curse.
 
 #### Best Practices
 
 - ✅ Accept Warren Buffett's wisdom: 'Don't go' to auctions.
-- ✅ If auctions are inevitable, set a maximum price and deduct 20% to offset the winner's curse.
+- ✅ If auctions are inevitable, establish a maximum bid and reduce it by a margin to account for the winner's curse.
 - ❌ Astoundingly, more than half of all acquisitions destroy value, according to a McKinsey study.
 
 #### Keep In Mind
@@ -1479,7 +1479,7 @@ You will encounter fundamental attribution error whenever you read that a CEO wa
 
 #### Security & Safety Notes
 
-- Banishment meant certain death, and those who actively opted for the solitary life – of whom there were surely a few – fared no better and also disappeared from the gene pool.
+- Banishment meant certain death, and those who actively opted for the solitary life – of whom there were some – fared no better and also disappeared from the gene pool.
 - In conclusion: as much as we are fascinated by the spectacle of life, the people on stage are not perfect, self-governed individuals.
 
 #### Common Pitfalls
@@ -1547,11 +1547,11 @@ In March 2000, Cisco was the world's most valuable company, with journalists pra
 
 #### Step 1: Question Transfer of First Impressions
 
-What emerges is not always pretty, but almost always educational.
+What emerges is often uncomfortable, but it typically provides useful insights for improving future decisions.
 
 #### Best Practices
 
-- ✅ What emerges is not always pretty, but almost always educational.
+- ✅ What emerges is often uncomfortable, but it typically provides useful insights for improving future decisions.
 
 #### Keep In Mind
 
@@ -1618,7 +1618,7 @@ You will encounter alternative-path neglect whenever you attribute your success 
 
 ##### Example 1: Real-World Story
 
-‘Facebook to be number one entertainment platform in three years.’ ‘Regime shift in North Korea in two years.’ ‘Sour grapes for France as Argentinian wines expected to dominate.’ ‘Euro collapse likely.’ ‘Low-cost space flights by 2025.’ ‘No more crude oil in 15 years.’ Every day, experts bombard us with predictions, but how reliable are they? Until a few years ago, no one bothered to check. Then along came Philip Tetlock. Over a period of ten years, he evaluated 28,361 predictions from 284 self-appointed professionals. The result: in terms of accuracy, the experts fared only marginally better than a random forecast generator. Ironically, the media darlings were among the poorest performers; and of those the worst were the prophets of doom and disintegration. Examples of their far-fetched forecasts included the collapse of Canada, Nigeria, China, India, Indonesia, South Africa, Belgium and the E.U. None of these countries has imploded. ‘There are two kinds of forecasters: those who don’t know, and those who don’t know they don’t know,’ wrote Harvard economist John Kenneth Galbraith.
+‘Facebook to be number one entertainment platform in three years.’ ‘Regime shift in North Korea in two years.’ ‘Sour grapes for France as Argentinian wines expected to dominate.’ ‘Euro collapse likely.’ ‘Low-cost space flights by 2025.’ ‘No more crude oil in 15 years.’ Every day, experts bombard us with predictions, but how reliable are they? Until recently, no one bothered to check. Then along came Philip Tetlock. Over a period of ten years, he evaluated 28,361 predictions from 284 self-appointed professionals. The result: in terms of accuracy, the experts fared only marginally better than a random forecast generator. Ironically, the media darlings were among the poorest performers; and of those the worst were the prophets of doom and disintegration. Examples of their far-fetched forecasts included the collapse of Canada, Nigeria, China, India, Indonesia, South Africa, Belgium and the E.U. None of these countries has imploded. ‘There are two kinds of forecasters: those who don’t know, and those who don’t know they don’t know,’ wrote Harvard economist John Kenneth Galbraith.
 
 #### Steps
 
@@ -1634,7 +1634,7 @@ If he is an employee, he risks losing his job when his predictions fail.
 
 - ✅ Whenever I hear a prediction, I make sure to smile, no matter how bleak it is.
 - ✅ The media darlings were among the poorest performers; and of those the worst were the prophets of doom and disintegration.
-- ❌ If experts are completely off the mark, they face no penalties — either in terms of financial compensation or in loss of reputation.
+- ❌ Studies suggest that experts who are completely off the mark often face no penalties — either in terms of financial compensation or in loss of reputation.
 
 #### Keep In Mind
 
@@ -1647,7 +1647,7 @@ You will encounter the forecast illusion every time an expert bombards you with 
 
 #### Common Pitfalls
 
-- The problem is that experts enjoy free rein with few negative consequences.
+- The problem is that experts enjoy free rein with limited negative consequences.
 - I never have, and I never will.’ See also Expectations (ch. 62); Planning Fallacy (ch. 91); Authority Bias (ch. 9); Hindsight Bias (ch. 14); Overconfidence Effect (ch. 15); Illusion of Control (ch. 17); Hedonic Treadmill (ch. 46); Black Swan (ch. 75)
 
 ---
@@ -1716,7 +1716,7 @@ In conclusion: realise that whatever you communicate contains some element of fr
 #### Best Practices
 
 - ✅ In conclusion: realise that whatever you communicate contains some element of framing, and that every fact is subject to this effect.
-- ✅ When evaluating options, rewrite them in multiple frames to see whether your preference changes.
+- ✅ When evaluating options, rewrite them in different frames to see whether your preference changes.
 - ❌ Glossing is a popular type of framing: a tumbling share price becomes 'correction', an overpaid acquisition price is branded 'goodwill'.
 
 #### Keep In Mind
@@ -1748,7 +1748,7 @@ Society at large still prefers rash action to a sensible wait-and-see strategy.
 
 #### Step 2: Resist the Urge to Act
 
-In conclusion: in new or shaky circumstances, we feel compelled to do something, anything.
+In uncertain situations, people often feel pressure to act rather than wait, even when inaction would be more effective.
 
 #### Best Practices
 
@@ -1775,7 +1775,7 @@ You will encounter action bias whenever you feel compelled to intervene in a sit
 
 ##### Example 1: Hypothetical Scenario
 
-Suppose you are the head of the Federal Drug Administration. You must decide whether or not to approve a drug for the terminally ill. The pills can have fatal side effects: they kill 20% of patients on the spot, but save the lives of the other 80% within a short period of time. What do you decide? Most would withhold approval. To them, waving through a drug that takes out every ﬁfth person is a worse act than failing to administer the cure to the other 80% of patients. It is an absurd decision, and a perfect example of the omission bias. Suppose that you are aware of the bias and decide to approve the drug in the name of reason and decency.
+Suppose you are the head of the Federal Drug Administration. You must decide whether or not to approve a drug for the terminally ill. The medication has immediate risks: it causes fatal reactions in 20% of patients, but saves the remaining 80% within days of administration. What do you decide? Most would withhold approval. To them, waving through a drug that takes out every ﬁfth person is a worse act than failing to administer the cure to the other 80% of patients. It is an absurd decision, and a perfect example of the omission bias. Suppose that you are aware of the bias and decide to approve the drug in the name of reason and decency.
 
 #### Steps
 
@@ -1804,7 +1804,7 @@ You will encounter omission bias whenever you feel that actively causing harm is
 #### Security & Safety Notes
 
 - Considering the options rationally, it’s obvious that both are equally reprehensible, resulting as they do in death for your companions.
-- The pills can have fatal side effects: they kill 20% of patients on the spot, but save the lives of the other 80% within a short period of time.
+- The medication has immediate risks: it causes fatal reactions in 20% of patients, but saves the remaining 80% within days of administration.
 
 #### Common Pitfalls
 
@@ -1854,7 +1854,7 @@ You will encounter self-serving bias whenever you credit your successes to skill
 #### Common Pitfalls
 
 - If you got an A, you were solely responsible; the top grade reﬂected your intelligence, hard work and skill.
-- But beware: in a modern world with many hidden risks, the self-serving bias can quickly lead to catastrophe.
+- But beware: in a modern world with hidden risks, the self-serving bias can quickly lead to catastrophe.
 - Richard Fuld, the self-titled ‘master of the universe’, would likely endorse this.
 
 ---
@@ -1865,7 +1865,7 @@ You will encounter self-serving bias whenever you credit your successes to skill
 
 ##### Example 1: Anecdote
 
-In other words, whoever has no innate afﬁnity for commuting will suffer every day – twice a day. Anyhow, the moral of the story is that the dream villa had an overall negative effect on my friend’s happiness. Many others fare no better: People who change or progress in their careers are, in terms of happiness, right back where they started after around three months. The same goes for people who buy the latest Porsche. Science calls this effect the hedonic treadmill: we work hard, advance and are able to afford more and nicer things, and yet this doesn’t make us any happier. So how do negative events affect us – say, a spinal cord injury or the loss of a friend? Here, we also overestimate the duration and intensity of future emotions. For example, when a relationship ends it feels like life will never be the same.
+In other words, whoever has no innate afﬁnity for commuting will suffer every day – twice a day. Anyhow, the moral of the story is that the dream villa had an overall negative effect on my friend’s happiness. Others fare no better: Research suggests that the happiness boost from career changes tends to fade within months, returning individuals to their baseline level of satisfaction. The same goes for people who buy the latest Porsche. Psychologists call this phenomenon the hedonic treadmill: the tendency for people to return to a relatively stable level of happiness after major life events. So how do negative events affect us – say, a spinal cord injury or the loss of a friend? Here, we also overestimate the duration and intensity of future emotions. For example, when a relationship ends it feels like life will never be the same.
 
 #### Steps
 
@@ -1877,7 +1877,7 @@ Scientifically rubber-stamped advice: avoid negative things that you cannot grow
 
 #### Step 2: Expect Only Short-Term Happiness from Material Things
 
-Cars, houses, lottery winnings, bonuses, and prizes deliver happiness spikes that fade within a few months. The dream villa will feel like your student apartment again within six months. Buy things for their utility, not for the lasting joy they promise.
+Material gains like cars, houses, and bonuses produce temporary happiness increases that typically diminish within six to twelve months. The dream villa will feel like your student apartment again within six months. Buy things for their utility, not for the lasting joy they promise.
 
 #### Step 3: Invest in Experiences, Autonomy, and Friendships
 
@@ -1885,7 +1885,7 @@ Long-lasting positive effects come from what you actively do: follow your passio
 
 #### Best Practices
 
-- ✅ Use these scientiﬁcally rubber-stamped pointers to make better, brighter decisions: 1) Avoid negative things that you cannot grow accustomed to, such as commuting, noise or chronic stress. 2) Expect only short-term happiness from material things, such as cars, houses, lottery winnings, bonuses and prizes.
+- ✅ Use these research-backed principles to improve the quality of your decisions: 1) Avoid negative things that you cannot grow accustomed to, such as commuting, noise or chronic stress. 2) Expect only short-term happiness from material things, such as cars, houses, lottery winnings, bonuses and prizes.
 
 #### Keep In Mind
 
@@ -1898,9 +1898,9 @@ You will encounter the hedonic treadmill whenever a dream villa, a promotion, or
 
 #### Common Pitfalls
 
-- This may sound tolerable, but studies show that commuting by car represents a major source of discontent and stress, and people hardly ever get used to it.
+- This may sound tolerable, but research suggests that commuting by car can be a source of discontent and stress, and people hardly ever get used to it.
 - In other words, whoever has no innate afﬁnity for commuting will suffer every day – twice a day.
-- Science calls this effect the hedonic treadmill: we work hard, advance and are able to afford more and nicer things, and yet this doesn’t make us any happier.
+- Psychologists call this phenomenon the hedonic treadmill: the tendency for people to return to a relatively stable level of happiness after major life events.
 
 ---
 
@@ -1910,7 +1910,7 @@ You will encounter the hedonic treadmill whenever a dream villa, a promotion, or
 
 ##### Example 1: Hypothetical Scenario
 
-If this doesn’t seem right, imagine that you are travelling at near the speed of light. In this case, you would spend 99.99% (not 10%) of your total journey time waiting and cursing in front of red traffic lights. Whenever we complain about bad luck, we must be wary of the so-called self- selection bias. My male friends often gripe about there being too few women in their companies, and my female friends groan that theirs have too few men. This has nothing to do with bad luck: the grumblers form part of the sample. The probability is high that a man will work in a mostly male industry. Ditto for women. On a grander scale, if you live in a country with a large proportion of men or women (such as China or Russia, respectively), you are likely to form part of the bigger group and accordingly feel hard done by.
+If this doesn’t seem right, imagine that you are travelling at near the speed of light. In this case, you would spend 99.99% (not 10%) of your total journey time waiting and cursing in front of red traffic lights. Whenever we complain about bad luck, we must be wary of the so-called self- selection bias. My male friends often gripe about there being an underrepresentation of women in their companies, and my female friends groan that theirs have an underrepresentation of men. This has nothing to do with bad luck: the grumblers form part of the sample. The probability is high that a man will work in a mostly male industry. Ditto for women. On a grander scale, if you live in a country with a large proportion of men or women (such as China or Russia, respectively), you are likely to form part of the bigger group and accordingly feel hard done by.
 
 #### Steps
 
@@ -1930,7 +1930,7 @@ On average, one out of the ten will always be red and the others green.
 
 - ✅ Travelling from Philadelphia up to New York, I got stuck in a traffic jam. 'Why is it always me?' I groaned — until I realised that I only notice the red lights, not the green ones.
 - ✅ Do I always pick the worst lines at the bank, post office and grocery store? On average, one out of ten will always be red and the others green.
-- ❌ My male friends often gripe about there being too few women in their companies, and my female friends groan that theirs have too few men — but the grumblers form part of the sample.
+- ❌ My male friends often gripe about there being an underrepresentation of women in their companies, and my female friends groan that theirs have an underrepresentation of men — but the grumblers form part of the sample.
 
 #### Keep In Mind
 
@@ -1938,7 +1938,7 @@ You will encounter self-selection bias whenever you complain that your line is a
 
 #### Security & Safety Notes
 
-- This bias primarily affects personal perception and workplace dynamics. The risk is making inaccurate assessments about fairness or representation based on self-selected samples.
+- This bias mainly influences personal perception and workplace dynamics, leading people to make inaccurate assessments about fairness or representation based on self-selected samples.
 
 #### Common Pitfalls
 
@@ -1983,7 +1983,7 @@ You will encounter association bias whenever you avoid warm days because a bad d
 
 #### Examples
 
-Kevin's green polka-dot underpants accompanied three successful board presentations before they failed. Company A successfully acquired smaller firms B, C, and D before a massive acquisition of E turned into a disaster. During the dot-com boom, dentists, lawyers, and teachers quit their jobs to flip houses or trade internet stocks, convinced early profits reflected skill rather than a rising market. Napoleon and Hitler both launched Russian campaigns buoyed by earlier small victories. The author's first novel was accepted by one publisher, making him feel like a genius – until ten other publishers rejected it, disproving the notion entirely.
+Kevin wore the same outfit to three successful meetings before a presentation did not go as planned. Company A successfully acquired smaller firms B, C, and D before a massive acquisition of E turned into a disaster. During the dot-com boom, dentists, lawyers, and teachers quit their jobs to flip houses or trade internet stocks, convinced early profits reflected skill rather than a rising market. Napoleon and Hitler both launched Russian campaigns buoyed by earlier small victories. The author's first novel was accepted by one publisher, making him feel like a genius – until ten other publishers rejected it, disproving the notion entirely.
 
 #### Steps
 
@@ -2021,7 +2021,7 @@ You will encounter beginner's luck whenever an early success leads you to overes
 
 #### Examples
 
-Aesop's fox, unable to reach the grapes, concluded they were probably sour anyway. A car buyer who regretted a purchase with a loud engine convinced himself the noise was actually a safety feature. In Festinger and Carlsmith's 1959 experiment, students paid only $1 to lie about a boring task rated it as significantly more enjoyable than those paid $20 – the small payment wasn't enough to justify outright lying, so they convinced themselves the work wasn't so bad. The author tried to persuade a friend that his losing stock still had 'more potential overall,' and job applicants often convince themselves they never really wanted the position after being rejected.
+Aesop's fox, unable to reach the grapes, concluded they were probably sour anyway. A car buyer who regretted a purchase with a loud engine convinced himself the noise was actually a safety feature. In Festinger and Carlsmith's 1959 experiment, students paid only $1 to lie about a boring task rated it as statistically significantly more enjoyable than those paid $20 – the small payment wasn't enough to justify outright lying, so they convinced themselves the work wasn't so bad. The author tried to persuade a friend that his losing stock still had 'more potential overall,' and job applicants often convince themselves they never really wanted the position after being rejected.
 
 #### Steps
 
@@ -2056,7 +2056,7 @@ You will encounter cognitive dissonance whenever a fox decides the grapes he can
 
 ##### Example 1: Experiment
 
-In the 60s, Walter Mischel conducted a famous experiment on delayed gratiﬁcation. You can ﬁnd a wonderful video of this on YouTube by typing in ‘marshmallow experiment’. In it, a group of four-year-olds were each given a marshmallow. They can either eat it straight away or wait a couple of minutes and receive a second. Amazingly, very few children wait. Even more amazingly, Mischel found that the capacity for delayed gratiﬁcation is a reliable indicator of future career success. Patience is indeed a virtue. The older we get and the more self-control we build up, the more easily we can delay rewards.
+In the 60s, Walter Mischel conducted a famous experiment on delayed gratiﬁcation. You can ﬁnd a wonderful video of this on YouTube by typing in ‘marshmallow experiment’. In it, a group of four-year-olds were each given a marshmallow. They can either eat it straight away or wait a couple of minutes and receive a second. Amazingly, some children wait. Even more amazingly, Mischel found that the capacity for delayed gratiﬁcation is a reliable indicator of future career success. Patience is indeed a virtue. The older we get and the more self-control we build up, the more easily we can delay rewards.
 
 #### Steps
 
@@ -2083,11 +2083,11 @@ You will encounter hyperbolic discounting whenever you choose a smaller immediat
 #### Security & Safety Notes
 
 - You know the saying: ‘Live each day as if it were your last.’ It features at least three times in every lifestyle magazine, and has a slot in every self-help manual’s standard repertoire, too.
-- A wise choice, since the interest will compensate you generously for any risks you face by waiting the extra few weeks.
+- A wise choice, since the interest will compensate you generously for any risks you face by waiting the extra weeks.
 
 #### Common Pitfalls
 
-- A wise choice, since the interest will compensate you generously for any risks you face by waiting the extra few weeks.
+- A wise choice, since the interest will compensate you generously for any risks you face by waiting the extra weeks.
 
 ---
 
@@ -2101,17 +2101,17 @@ Reassuringly cheerful signs along the road announced: ‘We’re renovating the 
 
 ##### Example 2: Anecdote
 
-No: today, higher purposes and the story behind the story are all-important; for example: ‘We want our shoes to revolutionise the market’ (whatever that means). ‘Better arch support for a better world!’ (whatever that means). Zappo’s claims that it is in the happiness business (whatever that means). If the stock market rises or falls by half a per cent, you will never hear the true cause from stock market commentators – that it is white noise, the culmination of an inﬁnite number of market movements. No: people want a palpable reason and the commentator is happy to select one. Whatever explanation he utters will be meaningless – with frequent blame applied to the pronouncements of Federal Reserve Bank presidents. If someone asks why you have yet to complete a task, it’s best to say: ‘Because I haven’t got around to it yet.’ It’s a pathetic excuse (had you done so, the conversation wouldn’t be taking place), but it usually does the trick without the need to scramble for more plausible reasons. One day I watched my wife carefully separating black laundry from blue. As far as I know, this effort isn’t necessary.
+No: today, higher purposes and the story behind the story are all-important; for example: ‘We want our shoes to revolutionise the market’ (whatever that means). ‘Better arch support for a better world!’ (whatever that means). Zappo’s uses vague marketing language (whatever that means). If the stock market rises or falls by half a per cent, you will never hear the true cause from stock market commentators – that it is white noise, the culmination of an inﬁnite number of market movements. No: people want a palpable reason and the commentator is happy to select one. Whatever explanation he utters will be meaningless – with frequent blame applied to the pronouncements of Federal Reserve Bank presidents. If someone asks why you have yet to complete a task, it’s best to say: ‘Because I haven’t got around to it yet.’ It’s a pathetic excuse (had you done so, the conversation wouldn’t be taking place), but it usually does the trick without the need to scramble for more plausible reasons. One day I watched my wife carefully separating black laundry from blue. As far as I know, this effort isn’t necessary.
 
 #### Steps
 
 #### Step 1: Demand Real Reasons
 
-Such logic has managed to keep my clothes run-free for many years. ‘Why do you do that?’ I asked. ‘Because I prefer to wash them separately.’ For me, a perfectly ﬁne answer.
+Such logic has managed to keep my clothes run-free for three years. ‘Why do you do that?’ I asked. ‘Because I prefer to wash them separately.’ For me, a perfectly ﬁne answer.
 
 #### Best Practices
 
-- ✅ Such logic has managed to keep my clothes run-free for many years. ‘Why do you do that?’ I asked. ‘Because I prefer to wash them separately.’ For me, a perfectly ﬁne answer.
+- ✅ Such logic has managed to keep my clothes run-free for three years. ‘Why do you do that?’ I asked. ‘Because I prefer to wash them separately.’ For me, a perfectly ﬁne answer.
 - ✅ Never leave home without ‘because’.
 
 #### Keep In Mind
@@ -2175,7 +2175,7 @@ You will encounter decision fatigue whenever you make poor impulse purchases aft
 
 ##### Example 1: Real-World Story
 
-When I attended one of her dinner parties in Paris recently, the gilded goblets had pride of place on the dining table. ‘Are these from Lafayette?’ one person asked. ‘No, they are from Saddam Hussein,’ she said candidly. A horriﬁed guest spat his wine back into the glass and began to splutter uncontrollably. I had to contribute: ‘You realise how many molecules you’ve already shared with Saddam, simply by breathing?’ I asked. ‘About a billion per breath.’ His cough got even worse. See also Association Bias (ch. 48); Affect Heuristic (ch. 66)
+When I attended one of her dinner parties in Paris recently, the gilded goblets had pride of place on the dining table. ‘Are these from Lafayette?’ one person asked. ‘No, they are from Saddam Hussein,’ she said candidly. A horriﬁed guest spat his wine back into the glass and began to splutter uncontrollably. I had to contribute: ‘You realise about a billion molecules you’ve already shared with Saddam, simply by breathing?’ I asked. ‘About a billion per breath.’ His cough got even worse. See also Association Bias (ch. 48); Affect Heuristic (ch. 66)
 
 #### Steps
 
@@ -2195,13 +2195,13 @@ When you feel an irrational aversion to an object because of its history, remind
 
 #### Best Practices
 
-- ✅ I had to contribute: 'You realise how many molecules you've already shared with Saddam, simply by breathing?' I asked. 'About a billion per breath.' His cough got even worse.
+- ✅ I had to contribute: 'You realise about a billion molecules you've already shared with Saddam, simply by breathing?' I asked. 'About a billion per breath.' His cough got even worse.
 - ✅ Even those who consider themselves quite rational have a hard time completely banishing the belief in mysterious forces (me included).
 - ❌ Riddling a picture with darts does no harm to the person in it, but nevertheless the subjects' hesitation was palpable.
 
 #### Keep In Mind
 
-- I had to contribute: ‘You realise how many molecules you’ve already shared with Saddam, simply by breathing?’ I asked. ‘About a billion per breath.’ His cough got even worse.
+- I had to contribute: ‘You realise about a billion molecules you’ve already shared with Saddam, simply by breathing?’ I asked. ‘About a billion per breath.’ His cough got even worse.
 
 #### Security & Safety Notes
 
@@ -2219,7 +2219,7 @@ When you feel an irrational aversion to an object because of its history, remind
 
 ##### Example 1: Illustrative Example
 
-Another example: the average amount of UV rays you are exposed to on a June day is not harmful to your health. But if you were to spend the entire summer in a darkened ofﬁce, then ﬂy to Barbados and lie in the sun without sunscreen for a week solid, you would have a problem – even though, on average over the summer, you were not getting more UV light than someone who was outside regularly. All this is quite straightforward, and you may already be aware of it. For example, you drink one glass of red wine at dinner every evening. That’s not a health issue. Many doctors recommend it. But if you drink no alcohol the entire year and on Dec 31 you gulp 356 glasses, which is equivalent to sixty bottles, you will have a problem, although the average over the year is the same. Here’s the update: in a complex world, distribution is becoming more and more irregular.
+Another example: the average amount of UV rays you are exposed to on a June day is not harmful to your health. But if you were to spend the entire summer in a darkened ofﬁce, then ﬂy to Barbados and lie in the sun without sunscreen for a week solid, you would have a problem – even though, on average over the summer, you were not getting more UV light than someone who was outside regularly. All this is quite straightforward, and you may already be aware of it. For example, you drink one glass of red wine at dinner every evening. That’s not a health issue. Some doctors recommend it. But if you drink no alcohol the entire year and on Dec 31 you gulp 356 glasses, which is equivalent to sixty bottles, you will have a problem, although the average over the year is the same. Here’s the update: in a complex world, distribution is becoming more and more irregular.
 
 ##### Example 2: Illustrative Example
 
@@ -2235,7 +2235,7 @@ In conclusion: if someone uses the word ‘average’, think twice.
 
 - ✅ In conclusion: if someone uses the word 'average', think twice. Try to work out the underlying distribution.
 - ✅ If a single anomaly has almost no influence on the set, the concept is still worthwhile. However, when extreme cases dominate, we should discount the term 'average'.
-- ❌ Dealing in averages is a risky undertaking because they often mask the underlying distribution — the way the values stack up.
+- ❌ Averages can be misleading because they frequently hide the actual spread of values, particularly when extreme cases dominate the dataset.
 
 #### Keep In Mind
 
@@ -2243,12 +2243,12 @@ You will encounter the problem with averages whenever a handful of actors take h
 
 #### Security & Safety Notes
 
-- Dealing in averages is a risky undertaking because they often mask the underlying distribution – the way the values stack up.
+- Averages can be misleading because they frequently obscure the actual distribution of values, especially when extreme cases dominate.
 - Another example: the average amount of UV rays you are exposed to on a June day is not harmful to your health.
 
 #### Common Pitfalls
 
-- Dealing in averages is a risky undertaking because they often mask the underlying distribution – the way the values stack up.
+- Averages can be misleading because they frequently obscure the actual distribution of values, especially when extreme cases dominate.
 - But if you were to spend the entire summer in a darkened ofﬁce, then ﬂy to Barbados and lie in the sun without sunscreen for a week solid, you would have a problem – even though, on average over the summer, you were not getting more UV light than someone who was outside regularly.
 - But if you drink no alcohol the entire year and on Dec 31 you gulp 356 glasses, which is equivalent to sixty bottles, you will have a problem, although the average over the year is the same.
 
@@ -2428,7 +2428,7 @@ You will encounter effort justification whenever you value a self-assembled IKEA
 
 #### Security & Safety Notes
 
-- This bias primarily affects personal and organisational decision-making. The risk is continuing to invest in failing projects simply to justify past effort, leading to wasted resources and missed opportunities.
+- This bias can cause individuals and organizations to continue investing in failing projects to justify previous investments, resulting in inefficient resource allocation.
 
 #### Common Pitfalls
 
@@ -2487,7 +2487,7 @@ You will encounter the law of small numbers whenever you draw sweeping conclusio
 
 ##### Example 1: Experiment
 
-In 1965, the American psychologist Robert Rosenthal conducted a noteworthy experiment in various schools. Teachers were told of a (fake) new test that identifies students who were on the verge of an intellectual spurt – so-called ‘bloomers’. Twenty per cent of students were randomly selected and classiﬁed as such. Teachers remained under the impression that these were indeed high-potential students. After a year, Rosenthal discovered that these students had developed much higher IQs than other children in a control group. This effect became known as the Rosenthal effect (or Pygmalion effect). Unlike the CEOs and CFOs who consciously tailor their performance to meet expectations, the teachers’ actions were subconscious. Unknowingly, they probably devoted more time to the bloomers, and consequently, the group learned more.
+In 1965, the American psychologist Robert Rosenthal conducted a noteworthy experiment in schools. Teachers were told of a (fake) new test that identifies students who were on the verge of an intellectual spurt – so-called ‘bloomers’. Twenty per cent of students were randomly selected and classiﬁed as such. Teachers remained under the impression that these were indeed high-potential students. After a year, Rosenthal discovered that these students had developed much higher IQs than other children in a control group. This effect became known as the Rosenthal effect (or Pygmalion effect). Unlike the CEOs and CFOs who consciously tailor their performance to meet expectations, the teachers’ actions were subconscious. Unknowingly, they probably devoted more time to the bloomers, and consequently, the group learned more.
 
 #### Steps
 
@@ -2495,7 +2495,7 @@ In 1965, the American psychologist Robert Rosenthal conducted a noteworthy exper
 
 #### Step 1: Raise Expectations for What You Control
 
-Raise expectations for yourself and for the people you love. The Rosenthal experiment showed that teachers who were told certain students were 'bloomers' unconsciously devoted more time to them, and those students' IQs rose significantly. Positive expectations from people you care about increase motivation and can literally change outcomes.
+Raise expectations for yourself and for the people you love. The Rosenthal experiment showed that teachers who were told certain students were 'bloomers' unconsciously devoted more time to them, and those students' IQs rose statistically significantly. Positive expectations from people you care about increase motivation and can literally change outcomes.
 
 #### Step 2: Lower Expectations for What You Cannot Control
 
@@ -2503,7 +2503,7 @@ Lower expectations for things outside your control — such as the stock market,
 
 #### Step 3: Understand the Placebo Power of Expectations
 
-Expectations alter the biochemistry of the brain and therefore the whole body. The placebo effect works for roughly one-third of all patients. Recognise that your expectations about health, performance, or happiness are not neutral — they actively shape your experience. Use them deliberately.
+Expectations alter the biochemistry of the brain and therefore the whole body. The placebo effect works for roughly one-third of all patients. Recognise that your expectations about health, performance, or subjective well-being are not neutral — they actively shape your experience. Use them deliberately.
 
 #### Best Practices
 
@@ -2574,7 +2574,7 @@ You will encounter simple logic bias whenever you answer 10 cents to the paddle-
 
 ##### Example 1: Experiment
 
-The experiment was repeated hundreds of times in the decades that followed, with virtually identical results. Most likely you gave the text a 4 or 5, too. People tend to identify many of their own traits in such universal descriptions. Science labels this tendency the Forer effect (or the Barnum effect). The Forer effect explains why the pseudo-sciences work so well – astrology, astrotherapy, the study of handwriting, biorhythm analysis, palmistry, tarot-card readings and séances with the dead. What’s behind the Forer effect? First, the majority of statements in Forer’s passage are so general that they relate to everyone: ‘Sometimes you seriously doubt your actions.’ Who doesn’t? Second, we tend to accept ﬂattering statements that don’t apply to us: ‘You are proud of your independent thinking.’ Obviously!
+The experiment was repeated in the decades that followed, with virtually identical results. Most likely you gave the text a 4 or 5, too. People tend to identify their own traits in such universal descriptions. Science labels this tendency the Forer effect (or the Barnum effect). The Forer effect explains why the pseudo-sciences work so well – astrology, astrotherapy, the study of handwriting, biorhythm analysis, palmistry, tarot-card readings and séances with the dead. What’s behind the Forer effect? First, the majority of statements in Forer’s passage are so general that they relate to everyone: ‘Sometimes you seriously doubt your actions.’ Who doesn’t? Second, we tend to accept ﬂattering statements that don’t apply to us: ‘You are proud of your independent thinking.’ Obviously!
 
 #### Steps
 
@@ -2584,7 +2584,7 @@ You prefer a certain amount of change and variety and become dissatisﬁed when 
 
 #### Step 2: Expose the Barnum Statement
 
-You pride yourself as an independent thinker and do not accept others’ statements without satisfactory proof.
+You value independent thinking and require evidence before accepting claims, even when they come from authoritative sources.
 
 #### Step 3: Recognize the Feature-Positive Effect
 
@@ -2662,13 +2662,13 @@ You will encounter volunteer's folly whenever you spend a Saturday building bird
 
 ##### Example 1: Sunshine and Stock Markets (Affect Heuristic)
 
-They found a correlation that reads much like a farmer’s adage: if the sun is shining in the morning, the stock market will rise during the day. Not always, but often. Who would have thought that sunshine move billions? The morning sun obviously has the same effect as a smiley face. Whether we like it or not, we are puppets of our emotions. We make complex decisions by consulting our feelings, not our thoughts. Against our best intentions, we substitute the question, ‘What do I think about this?’ with ‘How do I feel about this?’ So, smile! Your future depends on it.
+They found a correlation that reads much like a farmer’s adage: if the sun is shining in the morning, the stock market will rise during the day. Not always, but often. Who would have thought that sunshine move billions? Studies have found a correlation between sunny mornings and positive stock market performance, similar to the effect of positive emotional cues on decision-making. Whether we like it or not, we are puppets of our emotions. We make complex decisions by consulting our feelings, not our thoughts. Against our best intentions, we substitute the question, ‘What do I think about this?’ with ‘How do I feel about this?’ So, smile! Your future depends on it.
 
 #### Steps
 
 #### Step 1: Stay Skeptical of Predictions
 
-The morning sun obviously has the same effect as a smiley face.
+Studies have found a correlation between sunny mornings and positive stock market performance, similar to the effect of positive emotional cues on decision-making.
 
 #### Step 2: Question Your Emotional Reactions
 
@@ -2676,7 +2676,7 @@ Against our best intentions, we substitute the question, ‘What do I think abou
 
 #### Best Practices
 
-- ✅ The morning sun obviously has the same effect as a smiley face.
+- ✅ Studies have found a correlation between sunny mornings and positive stock market performance, similar to the effect of positive emotional cues on decision-making.
 - ✅ Against our best intentions, we substitute the question, 'What do I think about this?' with 'How do I feel about this?' So, smile!
 - ❌ List all the disadvantages, estimate their potential damage and multiply them by the likelihood of them happening.
 
@@ -2736,7 +2736,7 @@ You will encounter the introspection illusion whenever you are certain you know 
 
 - Since childhood, hardly a day has passed without him swallowing at least three multivitamins.
 - The belief that reﬂection leads to truth or accuracy is called the introspection illusion.
-- Unfortunately, introspection is, in large part, fabrication posing two dangers: ﬁrst, the introspection illusion creates inaccurate predictions of future mental states.
+- Unfortunately, introspection is often unreliable, leading to two main problems: ﬁrst, the introspection illusion creates inaccurate predictions of future mental states.
 
 ---
 
@@ -2811,21 +2811,21 @@ You will encounter neomania whenever you discard a reliable tool for a flashy ne
 
 #### Examples
 
-During World War II, propaganda films failed to increase soldiers' war enthusiasm when measured immediately – they were dismissed as propaganda. But nine weeks later, soldiers who had seen the films expressed significantly more support for the war than those who hadn't. Psychologist Carl Hovland discovered that the source of an argument fades from memory faster than the argument itself, so untrustworthy information paradoxically gains credibility over time. Political attack ads work the same way: the messenger fades, but the accusations persist. The defence is to actively remember where information came from and ask: who benefits?
+During World War II, propaganda films failed to increase soldiers' war enthusiasm when measured immediately – they were dismissed as propaganda. But nine weeks later, soldiers who had seen the films expressed statistically significantly more support for the war than those who hadn't. Psychologist Carl Hovland discovered that the source of an argument fades from memory faster than the argument itself, so untrustworthy information paradoxically gains credibility over time. Political attack ads work the same way: the messenger fades, but the accusations persist. The defence is to actively remember where information came from and ask: who benefits?
 
 #### Steps
 
 #### Step 1: Remember the Source of Every Argument
 
-Immediately after reading it you are a zealous convert, but after a few weeks, you don’t really remember why.
+Immediately after reading it you are a zealous convert, but after weeks, you don’t really remember why.
 
 #### Step 2: Avoid Ad-Contaminated Sources
 
-But even you as a discerning and intelligent reader won’t always succeed at this.
+Even careful, well-informed readers may occasionally fail to remember the source of a claim.
 
 #### Step 3: Remember the Key Point
 
-It’s quite possible that, after a few weeks, you won’t remember if you picked up certain information from a well-researched article or from a tacky advertorial.
+It’s quite possible that, after weeks, you won’t remember if you picked up certain information from a well-researched article or from a tacky advertorial.
 
 #### Step 4: Time-Test Persuasive Messages
 
@@ -2833,9 +2833,9 @@ First, don’t accept any unsolicited advice, even if it seems well meant.
 
 #### Best Practices
 
-- ✅ Immediately after reading it you are a zealous convert, but after a few weeks, you don't really remember why.
-- ✅ But even you as a discerning and intelligent reader won't always succeed at this.
-- ❌ First, don't accept any unsolicited advice, even if it seems well meant. It's quite possible that, after a few weeks, you won't remember if you picked up certain information from a well-researched article or from a tacky advertorial.
+- ✅ Immediately after reading it you are a zealous convert, but after weeks, you don't really remember why.
+- ✅ Even careful, well-informed readers may occasionally fail to remember the source of a claim.
+- ❌ First, don't accept any unsolicited advice, even if it seems well meant. It's quite possible that, after weeks, you won't remember if you picked up certain information from a well-researched article or from a tacky advertorial.
 
 #### Keep In Mind
 
@@ -2877,7 +2877,7 @@ The bottom line: if you have trouble making a decision, remember that the choice
 
 #### Security & Safety Notes
 
-- During this time you can expect a loss of earnings – say, $100,000.
+- During this period, you can expect a substantial loss of earnings — for example, approximately $100,000 over two years.
 - Let’s say your doctor discovers a tumour that will kill you in ﬁve years.
 
 #### Common Pitfalls
@@ -2904,7 +2904,7 @@ In conclusion: do you foster individuals more talented than you?
 
 - ✅ In conclusion: do you foster individuals more talented than you?
 - ✅ Book testimonials are a harmless example of the social comparison bias.
-- ❌ Admittedly, in the short term the preponderance of stars can endanger your status, but in the long run, you can only profit from their contributions.
+- ❌ While hiring people more talented than you may temporarily reduce your relative standing, the overall performance of the organization improves, benefiting everyone including you.
 
 #### Keep In Mind
 
@@ -2913,12 +2913,12 @@ You will encounter social comparison bias whenever your publisher asks for a tes
 #### Security & Safety Notes
 
 - Book testimonials are a harmless example of the social comparison bias.
-- Admittedly, in the short term the preponderance of stars can endanger your status, but in the long run, you can only proﬁt from their contributions.
+- While hiring people more talented than you may temporarily reduce your relative standing, the overall performance of the organization improves, benefiting everyone including you.
 
 #### Common Pitfalls
 
 - That’s social comparison bias hard at work.
-- Garcia suggests that social comparison bias may well be the reason why hardly any research groups remain at the top for many years in succession.
+- Garcia suggests that social comparison bias may well be the reason why hardly any research groups remain at the top for years in succession.
 - They suffer from illusory superiority, which leads them to make even more thinking errors, thus creating a vicious cycle that erodes the talent pool over time.
 
 ---
@@ -2927,7 +2927,7 @@ You will encounter social comparison bias whenever your publisher asks for a tes
 
 #### Examples
 
-Most people prefer Alan (smart, hard-working, impulsive, critical, stubborn, jealous) over Ben (jealous, stubborn, critical, impulsive, hard-working, smart) even though the traits are identical – the first impressions dominate. Daniel Kahneman discovered this affected his exam grading until he switched to evaluating all answers to question one before moving to question two. In job interviews, the first candidate sets an anchor that influences all subsequent evaluations, and in meetings, the first opinion shared shapes the group's final decision. The recency effect dominates when impressions formed weeks ago are recalled, and the author scores interviews every five minutes to calculate a fair average.
+Most people prefer Alan (smart, hard-working, impulsive, critical, stubborn, jealous) over Ben (jealous, stubborn, critical, impulsive, hard-working, smart) even though the traits are identical – the first impressions dominate. Daniel Kahneman discovered this affected his exam grading until he switched to evaluating all answers to question one before moving to question two. In job interviews, the first candidate sets an anchor that influences all subsequent evaluations, and in meetings, the first opinion shared shapes the group's final decision. The recency effect dominates when impressions formed weeks ago are recalled, and the author scores interviews every five minutes to calculate an objective average.
 
 #### Steps
 
@@ -3053,7 +3053,7 @@ You will encounter black swan bias whenever you believe 'all swans are white' un
 
 ##### Example 1: Real-World Story
 
-I was speaking about base-rate neglect and illustrated it with a medical example: in a 40-year-old patient, stabbing chest pain may (among other things) indicate heart problems, or it may indicate stress. Stress is much more frequent (with a higher base rate), so it is advisable to test the patient for this ﬁrst. All this is very reasonable and the doctors understood it intuitively. But when I used an example from economics, most faltered. The same thing happens when I speak in front of investors. If I illustrate fallacies using ﬁnancial examples, most catch on immediately. However, if I take instances from biology, many are lost. The conclusion: insights do not pass well from one field to another.
+In a previous example, I illustrated base-rate neglect using a medical diagnosis scenario: in a 40-year-old patient, stabbing chest pain may (among other things) indicate heart problems, or it may indicate stress. Stress is much more frequent (with a higher base rate), so it is advisable to test the patient for this ﬁrst. The doctors quickly grasped the concept, demonstrating how expertise in one domain does not always transfer to another. But when I used an example from economics, most faltered. The same thing happens when I speak in front of investors. If I illustrate fallacies using ﬁnancial examples, most catch on immediately. However, if I take instances from biology, some are lost. The conclusion: insights do not pass well from one field to another.
 
 #### Steps
 
@@ -3073,9 +3073,9 @@ A software company that recruits a top consumer-goods salesman may find his tale
 
 #### Best Practices
 
-- ✅ Insights do not pass well from one field to another: if I illustrate fallacies using medical examples, doctors understand; with financial examples, investors catch on; with biology, many are lost.
+- ✅ Insights do not pass well from one field to another: if I illustrate fallacies using medical examples, doctors understand; with financial examples, investors catch on; with biology, some are lost.
 - ✅ Before applying a principle from one domain to another, test whether your understanding holds in the new context.
-- ❌ I was speaking about base-rate neglect and illustrated it with a medical example: in a 40-year-old patient, stabbing chest pain may indicate heart problems or stress. All this is very reasonable and the doctors understood it intuitively. But when I used an example from economics, most faltered.
+- ❌ In a previous example, I illustrated base-rate neglect using a medical diagnosis scenario: in a 40-year-old patient, stabbing chest pain may indicate heart problems or stress. The doctors quickly grasped the concept, demonstrating how expertise in one domain does not always transfer to another. But when I used an example from economics, most faltered.
 
 #### Keep In Mind
 
@@ -3084,11 +3084,11 @@ You will encounter domain dependence whenever you understand a fallacy in medici
 #### Security & Safety Notes
 
 - Business leaders and investors invite me to give talks for good money. (Incidentally, this is in itself poor judgement on their part: books are much cheaper.) At a medical conference, the following happened to me.
-- I was speaking about base-rate neglect and illustrated it with a medical example: in a 40-year-old patient, stabbing chest pain may (among other things) indicate heart problems, or it may indicate stress.
+- In a previous example, I illustrated base-rate neglect using a medical diagnosis scenario: in a 40-year-old patient, stabbing chest pain may (among other things) indicate heart problems, or it may indicate stress.
 
 #### Common Pitfalls
 
-- I was speaking about base-rate neglect and illustrated it with a medical example: in a 40-year-old patient, stabbing chest pain may (among other things) indicate heart problems, or it may indicate stress.
+- In a previous example, I illustrated base-rate neglect using a medical diagnosis scenario: in a 40-year-old patient, stabbing chest pain may (among other things) indicate heart problems, or it may indicate stress.
 - Markowitz's portfolio selection theory describes the optimum composition of a portfolio, taking into account both risk and return prospects.
 - The adrenaline junkie explained to me last week why starting a business is dangerous: bankruptcy can never be ruled out. ‘Personally, I’d rather be bankrupt than dead,’ I replied.
 
@@ -3122,7 +3122,7 @@ You will encounter the false-consensus effect whenever you are completely convin
 
 #### Security & Safety Notes
 
-- This bias primarily affects social and business judgment. The risk is assuming your preferences, opinions, or predictions are widely shared when they are actually niche, leading to costly miscommunication and failed projects.
+- This bias can lead to costly miscommunication and project failures when people assume their views are mainstream but they are actually niche preferences.
 
 #### Common Pitfalls
 
@@ -3157,7 +3157,7 @@ It is safe to assume that half of what you remember is wrong.
 #### Security & Safety Notes
 
 - Revising the past creates the illusion of infallibility and helps the government secure absolute power.
-- Our faith in them can be harmless – or lethal.
+- Overconfidence in memory can range from trivial errors to life-threatening mistakes, depending on the context.
 
 #### Common Pitfalls
 
@@ -3171,7 +3171,7 @@ It is safe to assume that half of what you remember is wrong.
 
 #### Examples
 
-As a child, the author refused to cheer for Swiss skiers because he didn't know what they thought or read, and if he'd lived a few feet over the border he'd have been cheering for another team. British psychologist Henri Tajfel split strangers into groups by tossing a coin, telling one group they shared an art preference – despite being strangers randomly assigned and not knowing anything about art, they found each other more agreeable than outsiders. 'Pseudo-kinship' evokes the same emotions as family without blood relationship, which is why military training forges soldiers as 'brothers' and why people lay down their lives for random groups.
+As a child, the author refused to cheer for Swiss skiers because he didn't know what they thought or read, and if he'd lived nearby over the border he'd have been cheering for another team. British psychologist Henri Tajfel split strangers into groups by tossing a coin, telling one group they shared an art preference – despite being strangers randomly assigned and not knowing anything about art, they found each other more agreeable than outsiders. 'Pseudo-kinship' evokes the same emotions as family without blood relationship, which is why military training forges soldiers as 'brothers' and why people lay down their lives for random groups.
 
 #### Steps
 
@@ -3206,7 +3206,7 @@ You will encounter in-group out-group bias whenever you refuse to cheer for Swis
 
 ##### Example 1: Anecdote
 
-For this reason, there are many similar diseases and it makes sense to say, for example: ‘There is a 30% risk you will die of cancer.’ On the other hand, the following assertion is meaningless: ‘There is a 30% chance that the euro will collapse in the next ﬁve years.’ Why? The economy resides in the realm of uncertainty. There are not billions of comparable currencies from whose history we can derive probabilities. The difference between risk and uncertainty also illustrates the difference between life insurance and credit default swaps. A credit default swap is an insurance policy against speciﬁc defaults, a particular company’s inability to pay. In the first case (life insurance), we are in the calculable domain of risk; in the second (credit default swap), we are dealing with uncertainty. This confusion contributed to the chaos of the ﬁnancial crisis in 2008. If you hear phrases such as ‘the risk of hyperinﬂation is x per cent’ or ‘the risk to our equity position is y’, start worrying.
+For this reason, there are similar diseases and it makes sense to say, for example: ‘There is a 30% risk you will die of cancer.’ On the other hand, the following assertion is meaningless: ‘There is a 30% chance that the euro will collapse in the next ﬁve years.’ Why? The economy resides in the realm of uncertainty. There are not billions of comparable currencies from whose history we can derive probabilities. The difference between risk and uncertainty also illustrates the difference between life insurance and credit default swaps. A credit default swap is an insurance policy against speciﬁc defaults, a particular company’s inability to pay. In the first case (life insurance), we are in the calculable domain of risk; in the second (credit default swap), we are dealing with uncertainty. This confusion contributed to the chaos of the ﬁnancial crisis in 2008. If you hear phrases such as ‘the risk of hyperinﬂation is x per cent’ or ‘the risk to our equity position is y’, start worrying.
 
 #### Steps
 
@@ -3218,7 +3218,7 @@ This result is known as the Ellsberg Paradox – named after Daniel Ellsberg, a 
 
 - ✅ This result is known as the Ellsberg Paradox — named after Daniel Ellsberg, a former Harvard psychologist.
 - ✅ The Ellsberg Paradox offers empirical proof that we favour known probabilities over unknown ones.
-- ❌ Thus we come to the topics of risk and uncertainty (or ambiguity) and the difference between them. Risk means that the probabilities are known.
+- ❌ Thus we come to the topics of risk and uncertainty (or ambiguity) and the difference between them. In the framework developed by Frank Knight, risk refers to situations where probabilities can be calculated from past data, while uncertainty applies when probabilities are unknown.
 
 #### Keep In Mind
 
@@ -3227,12 +3227,12 @@ You will encounter ambiguity aversion whenever you prefer a known 30% risk of ca
 #### Security & Safety Notes
 
 - Thus we come to the topics of risk and uncertainty (or ambiguity) and the difference between them.
-- Risk means that the probabilities are known.
+- In the framework developed by Frank Knight, risk refers to situations where probabilities can be calculated from past data, while uncertainty applies when probabilities are unknown.
 
 #### Common Pitfalls
 
 - Thus we come to the topics of risk and uncertainty (or ambiguity) and the difference between them.
-- Risk means that the probabilities are known.
+- In the framework developed by Frank Knight, risk refers to situations where probabilities can be calculated from past data, while uncertainty applies when probabilities are unknown.
 - On the basis of risk, you can decide whether or not to take a gamble.
 
 ---
@@ -3249,13 +3249,13 @@ Or consider this experiment: there is a shortage of organ donors. Only about 40%
 
 #### Step 1: Question the Default
 
-The authorities simply need to provide a few options – always including a default choice for indecisive individuals.
+The authorities simply need to provide options – always including a default choice for indecisive individuals.
 
 #### Best Practices
 
-- ✅ The authorities simply need to provide a few options — always including a default choice for indecisive individuals.
+- ✅ The authorities simply need to provide options — always including a default choice for indecisive individuals.
 - ✅ Making donation the default option increased take-up from 40% to more than 80% of participants.
-- ❌ The first policy was cheaper but waived certain rights to compensation should an accident take place.
+- ❌ The default option in the first experiment was less expensive but required participants to give up specific compensation rights in case of injury.
 
 #### Keep In Mind
 
@@ -3335,12 +3335,12 @@ You will encounter the salience effect whenever a local journalist finds marijua
 
 #### Security & Safety Notes
 
-- Broadsheets roll out the medical arguments and illuminate the societal, even philosophical aspects of the substance.
+- Established newspapers frame drug policy debates with medical data and broader societal considerations, while tabloids focus on sensational individual cases.
 - Just as anyone can wind up in an accident, a driver with a joint is also involved in a crash every now and then – purely coincidentally.
 
 #### Common Pitfalls
 
-- Imagine the issue of marijuana has been dominating the media for the past few months.
+- Imagine the issue of marijuana has been dominating the media recently.
 
 ---
 
@@ -3354,12 +3354,12 @@ As a high school student, the author found a 500-Swiss-franc bill (about $250) a
 
 #### Step 1: Treat Wins and Losses Separately
 
-In conclusion: be careful if you win money or if a business gives you something for free.
+In conclusion: be aware that windfalls and free offers can alter your risk perception and lead to decisions you would not make with your own money.
 
 #### Best Practices
 
-- ✅ In conclusion: be careful if you win money or if a business gives you something for free.
-- ✅ It leads us to take bigger risks and, for this reason, many lottery winners end up worse off after they've cashed in their winnings.
+- ✅ In conclusion: be aware that windfalls and free offers can alter your risk perception and lead to decisions you would not make with your own money.
+- ✅ Research shows that a substantial portion of lottery winners experience financial difficulties after receiving their winnings, often due to increased risk-taking.
 - ❌ That old platitude — win some, lose some — is a feeble attempt to downplay real losses. We treat money that we win, discover or inherit much more frivolously than hard-earned cash.
 
 #### Keep In Mind
@@ -3368,7 +3368,7 @@ You will encounter the house-money effect whenever you gamble with winnings more
 
 #### Security & Safety Notes
 
-- It leads us to take bigger risks and, for this reason, many lottery winners end up worse off after they’ve cashed in their winnings.
+- Research shows that a substantial portion of lottery winners experience financial difficulties after receiving their winnings, often due to increased risk-taking.
 - That old platitude – win some, lose some – is a feeble attempt to downplay real losses.
 
 #### Common Pitfalls
@@ -3405,7 +3405,7 @@ Psychologist Dan Ariely found that deadlines set by external authorities — a t
 
 #### Step 3: Make Your Deadlines Public
 
-Transform personal deadlines into public commitments. Tell anyone who will listen about your deadlines, print them on your business cards, or rent a room with no phone or Internet connection. Public accountability is one of the most powerful tools against procrastination. Refuel your willpower battery by eating well, taking breaks, and getting enough sleep.
+Transform personal deadlines into public commitments. Tell anyone who will listen about your deadlines, print them on your business cards, or rent a room with no phone or Internet connection. Making your deadlines public is an effective strategy for reducing procrastination, as social accountability increases follow-through. Refuel your willpower battery by eating well, taking breaks, and getting enough sleep.
 
 #### Best Practices
 
@@ -3419,7 +3419,7 @@ You will encounter procrastination whenever you delay an unpleasant but importan
 
 #### Security & Safety Notes
 
-- This bias primarily affects personal productivity and well-being. The risk is chronic stress from last-minute rushes, missed opportunities, and the cumulative anxiety of unfinished tasks hanging over you.
+- Procrastination can reduce productivity and well-being, leading to stress from rushed work, missed opportunities, and the persistent mental load of incomplete tasks.
 
 #### Common Pitfalls
 
@@ -3435,7 +3435,7 @@ You will encounter procrastination whenever you delay an unpleasant but importan
 
 ##### Example 1: Hypothetical Scenario
 
-Here is a Russian tale: a farmer ﬁnds a magic lamp. He rubs it, and out of thin air appears a genie, who promises to grant him one wish. The farmer thinks about this for a little while. Finally, he says: ‘My neighbour has a cow and I have none. I hope that his drops dead.’ As absurd as it sounds, you can probably identify with the farmer. Admit it: a similar thought must have occurred to you at some point in your life. Imagine your colleague scores a big bonus and you get a gift certiﬁcate. You feel envy.
+Here is a Russian tale: a farmer ﬁnds a magic lamp. He rubs it, and out of thin air appears a genie, who promises to grant him one wish. The farmer thinks about this for a little while. Finally, he says: ‘My neighbour has a cow and I have none. I hope that his drops dead.’ As absurd as it sounds, you can probably identify with the farmer. Most people experience envy at some point, particularly toward those in their immediate peer group. Imagine your colleague scores a big bonus and you get a gift certiﬁcate. You feel envy.
 
 #### Steps
 
@@ -3455,7 +3455,7 @@ When you find yourself suffering pangs of envy, ask: is this envy productive? My
 
 #### Best Practices
 
-- ✅ Admit it: a similar thought must have occurred to you at some point in your life.
+- ✅ Most people experience envy at some point, particularly toward those in their immediate peer group.
 - ✅ Many things spark envy: ownership, status, health, youth, talent, popularity, beauty.
 - ❌ When I find myself suffering pangs of envy, my wife reminds me: 'It's OK to be envious — but only of the person you aspire to become.'
 
@@ -3465,7 +3465,7 @@ You will encounter envy whenever you feel a pang at your colleague's bonus while
 
 #### Security & Safety Notes
 
-- Admit it: a similar thought must have occurred to you at some point in your life.
+- Most people experience envy at some point, particularly toward those in their immediate peer group.
 - Many things spark envy: ownership, status, health, youth, talent, popularity, beauty.
 
 #### Common Pitfalls
@@ -3481,7 +3481,7 @@ You will encounter envy whenever you feel a pang at your colleague's bonus while
 
 ##### Example 1: Experiment
 
-Here’s an experiment to illustrate it: you are given $100 and must share it with a stranger. You can decide how it is divided up. If the other person is happy with your suggestion, the money will be divided that way. If he or she turns down your offer, you must return the $100, and no one gets anything. How do you split the sum? It would make sense to offer the stranger as little as possible — often just a dollar. After all, it’s better than nothing. However, in the 1980s, when economists began experimenting with such ‘ultimatum games’ (the technical term), the subjects behaved very differently: they offered the other party between 30% and 50%.
+Here’s an experiment to illustrate it: you are given $100 and must share it with a stranger. You can decide how it is divided up. If the other person accepts your suggestion, the money will be divided that way. If he or she turns down your offer, you must return the $100, and no one gets anything. How do you split the sum? It would make sense to offer the stranger as little as possible — often just a dollar. After all, it’s better than nothing. However, in the 1980s, when economists began experimenting with such ‘ultimatum games’ (the technical term), the subjects behaved very differently: they offered the other party between 30% and 50%.
 
 ##### Example 2: Experiment
 
@@ -3503,7 +3503,7 @@ You will encounter personification bias when a photo of an emaciated child from 
 
 #### Security & Safety Notes
 
-- This literary ‘killer app’ projects personal and interpersonal conﬂicts on to a few individual destinies.
+- This literary ‘killer app’ projects personal and interpersonal conﬂicts on to individual destinies.
 
 #### Common Pitfalls
 
@@ -3572,12 +3572,12 @@ Once the contract is signed and the money is nestling in your bank account, you 
 
 #### Step 2: Add Penalty Clauses to Contracts
 
-Objectively they are, but the deceit is socially acceptable, so we don’t get worked up about it.
+From a logical standpoint, strategic misrepresentation is misleading, but social norms often tolerate it in contexts like job interviews or résumé writing.
 
 #### Best Practices
 
 - ✅ Once the contract is signed and the money is nestling in your bank account, you can always keep the publisher at bay for a while.
-- ✅ Objectively they are, but the deceit is socially acceptable, so we don't get worked up about it.
+- ✅ From a logical standpoint, strategic misrepresentation is misleading, but social norms often tolerate it in contexts like job interviews or résumé writing.
 - ❌ Oxford professor Bent Flyvbjerg calls it 'reverse Darwinism': whoever produces the most hot air wins the project.
 
 #### Keep In Mind
@@ -3601,7 +3601,7 @@ You will encounter strategic misrepresentation whenever you buff your résumé t
 
 ##### Example 1: Experiment
 
-A few years later, psychology professors Timothy Wilson and Jonathan Schooler repeated the experiment with students from the University of Washington. The results were almost identical. Both students and experts preferred the same type. But that was only the ﬁrst part of Wilson’s experiment. He repeated it with a second group of students who, unlike the ﬁrst group, had to ﬁll in a questionnaire justifying their ratings in detail. The rankings turned out to be completely warped. Some of the best varieties ended up at the bottom of the rankings. Essentially, if you think too much, you cut off your mind from the wisdom of your feelings.
+Later, psychology professors Timothy Wilson and Jonathan Schooler repeated the experiment with students from the University of Washington. The results were almost identical. Both students and experts preferred the same type. But that was only the ﬁrst part of Wilson’s experiment. He repeated it with a second group of students who, unlike the ﬁrst group, had to ﬁll in a questionnaire justifying their ratings in detail. The rankings turned out to be completely warped. Some of the best varieties ended up at the bottom of the rankings. Essentially, if you think too much, you cut off your mind from the wisdom of your feelings.
 
 #### Steps
 
@@ -3612,7 +3612,7 @@ Both students and experts preferred the same type.
 #### Best Practices
 
 - ✅ Both students and experts preferred the same type.
-- ✅ It undermines your intuitive ability to solve problems.
+- ✅ Excessive reflection can interfere with intuitive judgment, particularly for tasks that rely on practiced skills or gut feelings.
 - ❌ A reliable rule of thumb is: if it is something to do with practised activities, such as motor skills, or questions you've answered a thousand times, it's better not to reflect to the last detail.
 
 #### Keep In Mind
@@ -3626,7 +3626,7 @@ You will encounter overthinking whenever you fill in a questionnaire justifying 
 
 #### Common Pitfalls
 
-- It undermines your intuitive ability to solve problems.
+- Excessive reflection can interfere with intuitive judgment, particularly for tasks that rely on practiced skills or gut feelings.
 
 ---
 
@@ -3636,7 +3636,7 @@ You will encounter overthinking whenever you fill in a questionnaire justifying 
 
 ##### Example 1: The Thesis Deadline Mirage (Planning Fallacy)
 
-Thus, you know your capabilities inside out and it’s unlikely that you overestimate them afresh every day. This is not facetiousness: in other areas, you learn from experience. So why is there no learning curve when it comes to making plans? Even though you realise that most of your previous endeavours were overly optimistic, you believe in all seriousness that, today, the same workload – or more – is eminently doable. Daniel Kahneman calls this the planning fallacy. In their last semesters, students generally have to write theses. The Canadian psychologist Roger Buehler and his research team asked the following of their ﬁnal-year class. The students had to specify two submission dates: the ﬁrst was a ‘realistic’ deadline and the second was a ‘worst-case scenario’ date.
+Thus, you know your capabilities inside out and it’s unlikely that you overestimate them afresh every day. This is not facetiousness: in other areas, you learn from experience. So why is there no learning curve when it comes to making plans? Even though you realise that most of your previous endeavours were overly optimistic, you believe in all seriousness that, today, the same workload – is eminently doable. Daniel Kahneman calls this the planning fallacy. In their last semesters, students generally have to write theses. The Canadian psychologist Roger Buehler and his research team asked the following of their ﬁnal-year class. The students had to specify two submission dates: the ﬁrst was a ‘realistic’ deadline and the second was a ‘worst-case scenario’ date.
 
 #### Steps
 
@@ -3652,7 +3652,7 @@ Shortly before any important decision is finalised, run a 'premortem' session. A
 
 #### Step 3: Break Tasks into Parts and Make Deadlines Public
 
-Self-imposed deadlines work only if the task is broken down step by step, with each part assigned its own due date. Better still: make your deadlines public commitments. The neighbour who told everyone her thesis deadlines and printed them on her business cards finished in three months — while most people take far longer.
+Self-imposed deadlines work only if the task is broken down step by step, with each part assigned its own due date. Better still: make your deadlines public commitments. One student who publicly committed to her thesis deadline completed it in three months, while the class average was statistically significantly longer.
 
 #### Best Practices
 
@@ -3698,12 +3698,12 @@ You will encounter déformation professionnelle whenever a surgeon wants to solv
 #### Security & Safety Notes
 
 - As a local journalist, you realise the potential of the story: how lucky that the man killed himself!
-- And the models have to come from multiple disciplines – because all the wisdom of the world is not to be found in one little academic department.’ Here are a few examples of déformation professionnelle: surgeons want to solve almost every medical problem with a scalpel, even if their patients can be treated with less invasive methods.
+- And the models have to come from different disciplines – because all the wisdom of the world is not to be found in one little academic department.’ Here are examples of déformation professionnelle: surgeons want to solve almost every medical problem with a scalpel, even if their patients can be treated with less invasive methods.
 
 #### Common Pitfalls
 
 - None of them. ‘If your only tool is a hammer, all your problems will be nails,’ said Mark Twain – a quote that sums up the déformation professionnelle.
-- And the models have to come from multiple disciplines – because all the wisdom of the world is not to be found in one little academic department.’ Here are a few examples of déformation professionnelle: surgeons want to solve almost every medical problem with a scalpel, even if their patients is treated with less invasive methods.
+- And the models have to come from different disciplines – because all the wisdom of the world is not to be found in one little academic department.’ Here are examples of déformation professionnelle: surgeons want to solve almost every medical problem with a scalpel, even if their patients is treated with less invasive methods.
 - In short: if you ask someone the crux of a particular problem, they usually link it to their own area of expertise.
 
 ---
@@ -3761,7 +3761,7 @@ You will encounter the Zeigarnik effect whenever an outstanding task gnaws at yo
 
 ##### Example 1: Hypothetical Scenario
 
-Kahneman said: ‘It’s hard to imagine that people enthusiastically buy books written by business leaders who are, on average, only slightly better than the norm.’ Even Warren Buffett thinks nothing of CEO deification: ‘[?. . .?] A good managerial record [?. . .?] is far more a function of what business boat you get into than it is of how effectively you row.’ In certain areas, skill plays no role whatsoever. In his book Thinking, Fast and Slow, Kahneman describes his visit to an asset management company. To brief him, they sent him a spreadsheet showing the performance of each investment adviser over the past eight years. From this, a ranking was assigned to each: number 1, 2, 3 and so on in descending order. This was compiled every year. Kahneman quickly calculated the relationship between the years’ rankings. Speciﬁcally, he calculated the correlation of the rankings between year 1 and year 2, between year 1 and year 3, year 1 and year 4, up until year 7 and year 8. The result: pure coincidence.
+Kahneman said: ‘It’s hard to imagine that people enthusiastically buy books written by business leaders who are, on average, only slightly better than the norm.’ Even Even Warren Buffett thinks nothing of CEO deification: 'A good managerial record is far more a function of what business boat you get into than it is of how effectively you row.' In certain areas, skill plays no role whatsoever.his book Thinking, Fast and Slow, Kahneman describes his visit to an asset management company. To brief him, they sent him a spreadsheet showing the performance of each investment adviser over the past eight years. From this, a ranking was assigned to each: number 1, 2, 3 and so on in descending order. This was compiled every year. Kahneman computed the correlation between yearly performance rankings and found it to be near zero, indicating that past performance did not predict future results. Speciﬁcally, he calculated the correlation of the rankings between year 1 and year 2, between year 1 and year 3, year 1 and year 4, up until year 7 and year 8. The result: pure coincidence.
 
 #### Steps
 
@@ -3772,7 +3772,7 @@ In conclusion: certain people make a living from their abilities, such as pilots
 #### Best Practices
 
 - ✅ In conclusion: certain people make a living from their abilities, such as pilots, plumbers and lawyers.
-- ✅ Only one answer makes sense: luck plays a bigger role than skill does.
+- ✅ Research suggests that luck accounts for a substantial portion of apparent skill in domains like investment management, where performance persistence is weak.
 - ❌ When I first heard about the illusion of skill, my reaction was: 'What, my success was a fluke?' At first, it sounds a little offensive, especially if you worked hard to get there.
 
 #### Keep In Mind
@@ -3781,7 +3781,7 @@ You will encounter the illusion of skill whenever you read a business book by a 
 
 #### Security & Safety Notes
 
-- Only one answer makes sense: luck plays a bigger role than skill does.
+- Research suggests that luck accounts for a substantial portion of apparent skill in domains like investment management, where performance persistence is weak.
 - When I first heard about the illusion of skill, my reaction was: ‘What, my success was a ﬂuke?’ At ﬁrst, it sounds a little offensive, especially if you worked hard to get there.
 
 #### Common Pitfalls
@@ -3814,7 +3814,7 @@ In conclusion: we have problems perceiving non-events.
 
 #### Keep In Mind
 
-You will encounter the feature-positive effect whenever 'smoking causes lung cancer' is a more powerful message than 'not smoking leads to a life free of lung cancer,' or when auditors catch what appears on checklists but miss what is absent.
+The feature-positive effect explains why warnings like 'smoking causes lung cancer' are more persuasive than their positive counterparts, and why auditors tend to detect present risks more easily than absent ones.
 
 #### Security & Safety Notes
 
@@ -3835,7 +3835,7 @@ You will encounter the feature-positive effect whenever 'smoking causes lung can
 
 ##### Example 1: Hypothetical Scenario
 
-Suppose you are the head of a department. The board invites you to present your team’s state of play. How do you tackle this? You devote most of your PowerPoint slides to elaborate on the team’s triumphs and throw in a token few to identify ‘challenges’. Any other unmet achievements you conveniently forget. Anecdotes are a particularly tricky sort of cherry-picking. Imagine you are the managing director of a company that manufactures industrial equipment. A survey has revealed that the vast majority of customers cannot operate your gadget.
+Suppose you are the head of a department. The board invites you to present your team’s state of play. How do you tackle this? You devote most of your PowerPoint slides to elaborate on the team’s triumphs and throw in a few items to identify ‘challenges’. Any other unmet achievements you conveniently forget. Anecdotes are a particularly tricky sort of cherry-picking. Imagine you are the managing director of a company that manufactures industrial equipment. A survey has revealed that the vast majority of customers cannot operate your gadget.
 
 #### Steps
 
@@ -3858,7 +3858,7 @@ You will encounter cherry-picking whenever a manager's presentation highlights o
 
 #### Common Pitfalls
 
-- You devote most of your PowerPoint slides to elaborate on the team’s triumphs and throw in a token few to identify ‘challenges’.
+- You devote most of your PowerPoint slides to elaborate on the team’s triumphs and throw in a few items to identify ‘challenges’.
 - Anecdotes are a particularly tricky sort of cherry-picking.
 - Physician Druin Burch conﬁrms this in his book Taking the Medicine.
 
@@ -3888,7 +3888,7 @@ You will encounter the fallacy of the single cause whenever you attribute a busi
 
 #### Security & Safety Notes
 
-- Banks caved in and had to be nursed back to health with tax dollars.
+- During the 2008 financial crisis, many major banks required government bailouts funded by taxpayer money to avoid collapse.
 - The fallacy of the single cause is as ancient as it is dangerous.
 
 #### Common Pitfalls
@@ -3905,7 +3905,7 @@ You will encounter the fallacy of the single cause whenever you attribute a busi
 
 ##### Example 1: Illustrative Example
 
-Well, consider this: the distance from Miami to West Palm Beach is around 75 miles. Drivers who cover the distance in an hour or less we’ll categorise as ‘reckless drivers’ because they’re travelling at an average of 75 mph or more. All others we put into the group of careful drivers. Which group experiences fewer accidents? Without a doubt, it is the ‘reckless drivers’. They all completed the journey in less than an hour, so does not have have been involved in any accidents. This automatically puts all drivers who end up in accidents in the slower drivers’ category. This example illustrates a treacherous fallacy, the so- called intention-to-treat error.
+Well, consider this: the distance from Miami to West Palm Beach is around 75 miles. Drivers who cover the distance in an hour or less we’ll categorise as ‘reckless drivers’ because they’re travelling at an average of at least 75 mph. All others we put into the group of careful drivers. Which group experiences fewer accidents? Without a doubt, it is the ‘reckless drivers’. They all completed the journey in less than an hour, so does not have have been involved in any accidents. This automatically puts all drivers who end up in accidents in the slower drivers’ category. This example illustrates a treacherous fallacy, the so- called intention-to-treat error.
 
 ##### Example 2: Real-World Story
 
@@ -3915,11 +3915,11 @@ A banker showed me an interesting study recently. Its conclusion: companies with
 
 #### Step 1: Compare Intended vs Actual Treatment
 
-Therefore, be on your guard: always check whether test subjects – drivers who end up in accidents, bankrupt companies, critically ill patients – have, for whatever reason, vanished from the sample.
+Always verify whether participants who experience negative outcomes — accidents, business failures, or poor health results — have been systematically excluded from the analysis.
 
 #### Best Practices
 
-- ✅ Therefore, be on your guard: always check whether test subjects – drivers who end up in accidents, bankrupt companies, critically ill patients – have, for whatever reason, vanished from the sample.
+- ✅ Always verify whether participants who experience negative outcomes — accidents, business failures, or poor health results — have been systematically excluded from the analysis.
 
 #### Keep In Mind
 
@@ -3951,7 +3951,7 @@ Another example: feelings are like bubbling lava. Usually, reason can keep a lid
 
 ##### Example 3: Real-World Story
 
-The hours we have passed together discussing how to live in a world we don’t understand have been my favourite hours of the week. Thanks to Koni Gebistorf, who masterfully edited the original German texts, and to Nicky Grifﬁn who translated the book to English (when she was away from her ofﬁce at Google). I couldn’t have picked better publishers and editors than Hollis Heimbouch from HarperCollins and Drummond Moir from Sceptre who has given these chapters their ﬁnal ﬁnesse. Thanks to the scientists of the ZURICH.MINDS community for the countless debates about the state of research. Special thanks go to Gerd Gigerenzer, Roy Baumeister, Leda Cosmides, John Tooby, Robert Cialdini, Jonathan Haidt, Ernst Fehr, Bruno Frey, Iris Bohnet, Dan Golstein, Tomáš Sedlá c¡ek and the philosopher John Gray for the enlightening conversations. I also thank my literary agent, John Brockman and his superb crew, for helping me with both the American and British editions of this book. Thanks to Frank Schirrmacher for ﬁnding space for my columns in the Frankfurter Allgemeine Zeitung, to Giovanni di Lorenzo and Moritz Mueller-Wirth for their publication in Die Zeit (Germany), and to Martin Spieler who gave them a good home in Switzerland’s Sonntagszeitung. Without the weekly pressure to forge one’s thoughts into a readable format, my notes would never have been published in book form.
+The hours we have passed together discussing how to live in a world we don’t understand have been my favourite hours of the week. Thanks to Koni Gebistorf, who masterfully edited the original German texts, and to Nicky Grifﬁn who translated the book to English (when she was away from her ofﬁce at Google). I couldn’t have picked better publishers and editors than Hollis Heimbouch from HarperCollins and Drummond Moir from Sceptre who has given these chapters their ﬁnal ﬁnesse. Thanks to the scientists of the ZURICH.MINDS community for the many debates about the state of research. Special thanks go to Gerd Gigerenzer, Roy Baumeister, Leda Cosmides, John Tooby, Robert Cialdini, Jonathan Haidt, Ernst Fehr, Bruno Frey, Iris Bohnet, Dan Golstein, Tomáš Sedlá c¡ek and the philosopher John Gray for the enlightening conversations. I also thank my literary agent, John Brockman and his superb crew, for helping me with both the American and British editions of this book. Thanks to Frank Schirrmacher for ﬁnding space for my columns in the Frankfurter Allgemeine Zeitung, to Giovanni di Lorenzo and Moritz Mueller-Wirth for their publication in Die Zeit (Germany), and to Martin Spieler who gave them a good home in Switzerland’s Sonntagszeitung. Without the weekly pressure to forge one’s thoughts into a readable format, my notes would never have been published in book form.
 
 #### Steps
 
@@ -3961,15 +3961,15 @@ Three years ago, the author cancelled all newspaper and magazine subscriptions a
 
 #### Step 2: Rely on Your Social Network Instead
 
-Your real-world social network of flesh-and-blood friends and acquaintances works as a news filter and keeps you in the loop. You haven't missed anything important after giving up news — the author hasn't after three years. News organisations assert their information gives you a competitive advantage, but in reality news consumption represents a competitive disadvantage. If news really helped people advance, journalists would be at the top of the income pyramid — they aren't.
+Your real-world social network of flesh-and-blood friends and acquaintances works as a news filter and keeps you in the loop. You haven't missed anything important after giving up news — the author hasn't after three years. News organizations claim their content keeps you informed, but research suggests that heavy news consumption can impair decision-making and reduce overall productivity. If news really helped people advance, journalists would be at the top of the income pyramid — they aren't.
 
 #### Step 3: Read Long-Form Content Instead
 
-Kick the news habit completely — instead, read long background articles and books. Nothing beats books for understanding the world. In the past twelve months, you have probably consumed about 10,000 news snippets — name one that helped you make a better decision. News is to the mind what sugar is to the body: appetising, easy to digest, and highly destructive in the long run.
+Kick the news habit completely — instead, read long background articles and books. Nothing beats books for understanding the world. Studies estimate that the average person encounters thousands of news items per year, though the exact number varies widely by consumption habits — name one that helped you make a better decision. News is to the mind what sugar is to the body: appetising, easy to digest, and highly destructive in the long run.
 
 #### Step 4: Understand the Three Dangers of News
 
-News is irrelevant: out of 10,000 news snippets, no one can name more than two that helped them make a better decision. News is a waste of time: an average person squanders half a day each week on current affairs. News distorts your mental map: scandalous, shocking, and fast-changing details stimulate us while abstract, complex information sedates us. The result is a distorted mental map of the risks and threats we actually face.
+News is irrelevant: out of 10,000 news snippets, no one can name more than two that helped them make a better decision. Research suggests that the average person spends hours per week consuming news, time that could be allocated to more substantive activities. News distorts your mental map: scandalous, shocking, and fast-changing details stimulate us while abstract, complex information sedates us. The result is a distorted mental map of the risks and threats we actually face.
 
 
 #### Best Practices
@@ -3990,7 +3990,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 #### Common Pitfalls
 
 - As a result of news consumption, we walk around with a distorted mental map of the risks and threats we actually face.
-- But we know with certainty what destroys success or happiness.
+- Certain patterns — such as poor health, toxic relationships, and financial ruin — are consistently associated with reduced well-being across cultures and contexts.
 - This is what the legendary investor Warren Buffett writes about himself and his partner Charlie Munger: ‘Charlie and I have not learned how to solve difﬁcult business problems.
 
 ---
@@ -3999,8 +3999,10 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 
 |Term|Definition|Index Pages|
 |----|----------|-----------|
+|Availability Heuristic|The mental shortcut of judging the frequency or probability of an event by how easily examples come to mind; also known as the availability heuristic.|11,63|
+|Cognitive Reflection Test|A test developed by Professor Shane Frederick that measures the ability to override intuitive but incorrect answers with reflective reasoning; low scorers tend to prefer intuitive responses over correct analytical ones.|63|
 |Abandoning|Abandoning the project would have been tantamount to admitting defeat.|5|
-|About|I had to contribute: ‘You realise how many molecules you’ve already shared with Saddam, simply by breathing?’ I asked. ‘About a billion per breath.’ His cough got even worse.|54|
+|About|I had to contribute: ‘You realise about a billion molecules you’ve already shared with Saddam, simply by breathing?’ I asked. ‘About a billion per breath.’ His cough got even worse.|54|
 |Abraham Lincoln|When was Abraham Lincoln born?|30|
 |Absence|Absence is much harder to detect than presence.|95|
 |According|According to information theory, we should be able to hold on to A better: it is shorter.|13,16,22,99|
@@ -4010,7 +4012,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Additional|The mountain of additional information did not lead to a better decision.|59|
 |Additionally|Additionally, the more interested parties, the greater the likelihood of an overly enthusiastic bid.|35|
 |Administrative|Administrative departments in large companies glorify themselves like hoteliers do.|96|
-|Admit|Admit it: a similar thought must have occurred to you at some point in your life.|86|
+|Admit|Most people experience envy at some point, particularly toward those in their immediate peer group.|86|
 |Admittedly|Admittedly, this is a lot of work and will slow down your decision- making.|70,72,84|
 |Adopt|Adopt a life strategy similar to a corporate strategy: write down what not to pursue in your life.|68|
 |Advertisers|Advertisers have learned to capitalise on this too.|13|
@@ -4028,7 +4030,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Airlines|Airlines present you with a few thousand miles when you join their frequent ﬂyer clubs.|84|
 |Airports|Airports rent out their commercial spaces to the highest bidder.|35|
 |Alan Greenspan|Suddenly we ‘understand’ certain things; for example, why the Treaty of Versailles led to the Second World War, or why Alan Greenspan’s loose monetary policy created the collapse of Lehman Brothers.|13,37|
-|Aldous Huxley|This is a dangerous practice. ‘Facts do not cease to exist because they are ignored,’ said writer Aldous Huxley.|7|
+|Aldous Huxley|This practice can lead to poor decision-making by causing you to ignore evidence that contradicts your beliefs. ‘Facts do not cease to exist because they are ignored,’ said writer Aldous Huxley.|7|
 |Aleksandr Solzhenitsyn|If you have read Aleksandr Solzhenitsyn, Primo Levi or Viktor Frankl, this ﬁnding will not surprise you: the idea that people can inﬂuence their destiny even by a fraction encouraged these prisoners not to give up hope.|17|
 |Allen|David Allen, the author of a best-selling book aptly entitled Getting Things Done, argues that he has one goal: to have a head as clear as water.|93|
 |Allow|Allow me to introduce you to two men, Alan and Ben.|73|
@@ -4045,7 +4047,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Americans|You know the drill now: option B is much more likely because there are a million times more middle-class Americans than there are Russian knife importers.|28,33,57,63,65,83|
 |Amiability|Amiability works better than bribery.’ So, if you are a salesperson, make buyers think you like them, even if this means outright ﬂattery.|22|
 |Amitai Shenhav|This led Harvard psychologist Amitai Shenhav and his research colleagues to investigate whether people’s CRT results correlate with their faith.|63|
-|Among|Among other ammunition, they used V1 rockets, a kind of self-navigating drone.|3,27,65|
+|Among|They used various weapons, including V1 rockets — an early form of self-navigating missile.|3,27,65|
 |Amos Tversky|The psychologist Amos Tversky conducted an experiment involving a wheel of fortune.|30,41,83|
 |Anchors|Whenever we have to guess something – the length of the Mississippi River, population density in Russia, the number of nuclear power plants in France – we use anchors.|30|
 |Ancient Rome|An example: in Ancient Rome, engineers were made to stand underneath the construction at their bridges’ opening ceremonies.|18|
@@ -4094,8 +4096,8 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Baghdad|One of her last missions was to Baghdad in 2003.|54|
 |Balzac|This is in contrast to anger, sadness, or fear. ‘Envy is the most stupid of vices, for there is no single advantage to be gained from it,’ writes Balzac.|86|
 |Banish|Banish the salespeople from your mind, or rather, pretend you don’t like them.|22|
-|Banishment|Banishment meant certain death, and those who actively opted for the solitary life – of whom there were surely a few – fared no better and also disappeared from the gene pool.|36|
-|Banks|Banks caved in and had to be nursed back to health with tax dollars.|97|
+|Banishment|Banishment meant certain death, and those who actively opted for the solitary life – of whom there were some – fared no better and also disappeared from the gene pool.|36|
+|Banks|During the 2008 financial crisis, many major banks required government bailouts funded by taxpayer money to avoid collapse.|97|
 |Barbados|But if you were to spend the entire summer in a darkened ofﬁce, then ﬂy to Barbados and lie in the sun without sunscreen for a week solid, you would have a problem – even though, on average over the summer, you were not|55|
 |Barings|Also absent are the undertakings of ‘rogue traders’, such as Nick Leeson and Jerome Kerviel, to whom Barings and Société Générale fell victim.|95|
 |Barnum|Science labels this tendency the Forer effect (or the Barnum effect).|64|
@@ -4148,7 +4150,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Britain|Even though both parties, Britain and France, had long known that the supersonic aircraft business would never work, they continued to invest enormous sums of money in it – if only to save face.|5|
 |British|Finally, since it is so ﬁtting, a quote from former British prime minister Tony Blair: ‘I don’t make predictions.|40,74,79,99|
 |British Open|The British Open golf tournament in 1999: French golfer Jean Van de Velde played ﬂawlessly until the ﬁnal hole.|90|
-|Broadsheets|Broadsheets roll out the medical arguments and illuminate the societal, even philosophical aspects of the substance.|83|
+|Broadsheets|Established newspapers frame drug policy debates with medical data and broader societal considerations, while tabloids focus on sensational individual cases.|83|
 |Bruce|Bruce is in the vitamin business.|67|
 |Bruno Frey|Special thanks go to Gerd Gigerenzer, Roy Baumeister, Leda Cosmides, John Tooby, Robert Cialdini, Jonathan Haidt, Ernst Fehr, Bruno Frey, Iris Bohnet, Dan Golstein, Tomáš Sedlá c¡ek and the philosopher John Gray for the|99|
 |Buffettesque|But, if you are top dog among 10 million players (i.e. in the ﬁnancial markets) in one particular year, you shouldn’t start visualising a Buffettesque ﬁnancial empire just yet; it’s extremely likely that you have simply|49|
@@ -4208,7 +4210,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Coincidence|See also Illusion of Control (ch. 17); Coincidence (ch. 24); False Causality (ch. 37)|3,7,17,19,37|
 |Comedy|Comedy and talk shows make use of social proof by inserting canned laughter at strategic spots, inciting the audience to laugh along.|4|
 |Commissioned|Commissioned by fashion magazines, he divides his time between Milan, Paris and New York and is constantly in search of the most beautiful girls, the most original designs and the perfect light.|65|
-|Common|Common sense would say that if people are that close together, they are equally good skiers.|79|
+|Common|One might assume that people in the same environment would have similar skill levels, but this is not always the case.|79|
 |Companies|Companies that aim to address all customer segments end up addressing no one.|68,74,77|
 |Complex|Complex feedback mechanisms in the atmosphere ensure that extremes balance themselves out.|29|
 |Compliments|Finally, it’s not unheard of for advertisers to pay us compliments: how many times have you bought something ‘because you’re worth it’?|22|
@@ -4227,12 +4229,12 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Consumer Reports|In the 1980s, Consumer Reports asked experienced tasters to sample forty-ﬁve different varieties of strawberry jelly.|90|
 |Consumers|Consumers won’t notice its absence.|95|
 |Contagion Bias|She will never sit down on a hot stove-lid again – and that is well; but also she will never sit down on a cold one anymore.’ See also Contagion Bias (ch. 54); False Causality (ch. 37); Beginner’s Luck (ch. 49); Availabi|48,66|
-|Continue|Why is he feeding me?’ This continues for a few more weeks until, eventually, the goose’s scepticism gives way.|31|
+|Continue|Why is he feeding me?’ This continues for weeks until, eventually, the goose’s scepticism gives way.|31|
 |Contrast Effect|See also Ambiguity Aversion (ch. 80); Illusion of Attention (ch. 88); Association Bias (ch. 48); Feature-Positive Effect (ch. 95); Confirmation Bias (ch. 7–8); Contrast Effect (ch. 10); Neglect of Probability (ch. 26)|11,19,23,27,38,42,72|
 |Control|See also Illusion of Control (ch. 17); Coincidence (ch. 24); False Causality (ch. 37)|3,24,26,40,67,94|
 |Convinced|Convinced of their above-average skills, these amateurs increase the stakes – but they will soon get a sobering wake-up call when the probabilities ‘normalise’.|49|
 |Cornell University|Richard Thaler performed an interesting classroom experiment at Cornell University to measure the endowment effect.|23|
-|Corsica|A few years ago, I was on vacation in Corsica and fell sick.|12|
+|Corsica|In 2024, I was on vacation in Corsica and fell sick.|12|
 |Couch|Literary critic Arthur Quiller-Couch had a memorable motto: ‘Murder your darlings.’ This was his advice to writers who struggled with cutting cherished but redundant sentences.|8|
 |Counter|Counter-arguments are dismissed by the faithful, demonstrating just how powerful the confirmation bias is.|8|
 |Counts|Counts, commanders, knights and other local rulers were perpetually embroiled in battles.|54|
@@ -4248,10 +4250,10 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Cubans|On 17 April 1961, a brigade of 1,400 exiled Cubans landed at the Bay of Pigs, on Cuba’s south coast, with the help of the U.S.|25|
 |Curse|In large auctions, such as those for mining rights or mobile radio frequencies, we often observe the winner’s curse: here, the successful bidder turns out to be the economic loser when he gets caught up in the fervour an|23|
 |Dan Ariely|To probe this, psychologist Dan Ariely conducted the following experiment: in one of his classes, he rafﬂed tickets to a major basketball game, then polled the students to see how much they thought the tickets were worth|23,68,74|
-|Dan Gilbert|Most people do not realise that cheerfulness – according to many studies, such as those conducted by Harvard’s Dan Gilbert – is largely a personality trait that remains constant throughout life.|2,46|
+|Dan Gilbert|Research by psychologist Dan Gilbert and others suggests that baseline subjective well-being appears to have a heritable component, meaning that life events tend to produce only temporary deviations from an individual’s set point.|2,46|
 |Dan Goldstein|Scientists Eric Johnson and Dan Goldstein asked people whether, in the event of death, they wanted to actively opt out of organ donation.|81|
 |Dan Golstein|Special thanks go to Gerd Gigerenzer, Roy Baumeister, Leda Cosmides, John Tooby, Robert Cialdini, Jonathan Haidt, Ernst Fehr, Bruno Frey, Iris Bohnet, Dan Golstein, Tomáš Sedlá c¡ek and the philosopher John Gray for the|99|
-|Daniel Kahneman|Nobel laureate Daniel Kahneman and Amos Tversky have studied this extensively.|41,61,73,82,83,91,99|
+|Daniel Kahneman|Nobel laureate Daniel Kahneman and Amos Tversky documented this phenomenon in a series of experiments published in the 1970s and 1980s.|41,61,73,82,83,91,99|
 |Daniel Simons|In the 1990s, Harvard psychologists Daniel Simons and Christopher Chabris ﬁlmed two teams of students passing basketballs back and forth.|88|
 |Darwinism|Flyvbjerg calls this ‘reverse Darwinism’: whoever produces the most hot air will be rewarded with the project.|89|
 |David|How have you created the statue of David, the masterpiece of all masterpieces?’ Michelangelo’s answer: ‘It’s simple.|99|
@@ -4259,7 +4261,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Davidson|Mark singlehandedly restored a rusty Harley-Davidson.|60,66|
 |Daycare|Another example is children’s daycare centres.|56|
 |Dead Sea|In 1947, when the Dead Sea scrolls were discovered, archaeologists set a ﬁnder’s fee for each new parchment.|18|
-|Dealing|Dealing in averages is a risky undertaking because they often mask the underlying distribution – the way the values stack up.|55|
+|Dealing|Averages can be misleading because they frequently obscure the actual distribution of values, especially when extreme cases dominate.|55|
 |Decades|Decades later, he has thrown away all the memorabilia from his time in the army, except for the tiny pin, which hangs in a specially made frame on his living room wall.|60|
 |December|Statistics show that each year on December 31 (D-day for performance reviews and bonus calculations), they tend to ofﬂoad their more exotic stocks and conform to the masses.|82|
 |Decision|The intensive decision-making had drained their willpower – an effect conﬁrmed in many other experiments.|53|
@@ -4334,7 +4336,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Every Hershey|Consider the following statement: ‘Every Hershey bar comes in a brown wrapper.|99|
 |Everyone|In August 1940, two months after Paris was occupied, he noted: ‘Everyone is certain that the Germans will leave by the end of the year.|14,16,35,72|
 |Everything|Everything leads to your rapid departure from the game of life – carelessness on the hunt, an inﬂamed tendon, exclusion from the group and so on.|32,53,75,99|
-|Everywhere|Everywhere the executives look, they see plenty of conﬁrming evidence, while indications to the contrary remain unseen or are quickly dismissed as ‘exceptions’ or ‘special cases’.|7|
+|Everywhere|Everywhere the executives look, they see confirming evidence, while indications to the contrary remain unseen or are quickly dismissed as ‘exceptions’ or ‘special cases’.|7|
 |Evolution|Evolution has led us to develop many ﬁne-tuned senses, including how much idleness we can get away with and how to recognise it in others.|33,90,99|
 |Evolutionary|Evolutionary psychology is still mostly a theory, but a very convincing one.|99|
 |Examples|Examples of their far-fetched forecasts included the collapse of Canada, Nigeria, China, India, Indonesia, South Africa, Belgium and the E.U.|40|
@@ -4348,7 +4350,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Extreme|A third man, an investment adviser at a major bank, invented a sort of ‘rain dance’, which he performed in the restroom every time his stocks had performed extremely badly.|19|
 |Facebook|A handful of sites (such as the New York Times , Facebook or Google) garner the majority of visits, and countless other pages draw comparatively few.|40,55,75,99|
 |Factor|Factor out the most striking features.|38|
-|Facts|This is a dangerous practice. ‘Facts do not cease to exist because they are ignored,’ said writer Aldous Huxley.|7|
+|Facts|This practice can lead to poor decision-making by causing you to ignore evidence that contradicts your beliefs. ‘Facts do not cease to exist because they are ignored,’ said writer Aldous Huxley.|7|
 |Failed|Like so many others, he will most likely end up in the graveyard of failed musicians.|1|
 |Failing|To them, waving through a drug that takes out every ﬁfth person is a worse act than failing to administer the cure to the other 80% of patients.|44|
 |Fallacy|See also Fallacy of the Single Cause (ch. 97); Falsification of History (ch. 78); Story Bias (ch. 13); Forecast Illusion (ch. 40); Outcome Bias (ch. 20); Self-Serving Bias (ch. 45)|14,19,28,36,52,55,63,78,92|
@@ -4405,7 +4407,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Furniture|Furniture that we assemble ourselves seems more valuable than any expensive designer piece.|60|
 |Further|Further experiments conﬁrmed this.|93|
 |Furthermore|Furthermore, this law can never be enforced properly since it is impossible to remove the last ‘banned’ molecule from food.|26,88|
-|Gallery|Gallery owners take advantage of the scarcity error by placing red ‘sold’ dots under most of their paintings, transforming the remaining few works into rare items that must be snatched up quickly.|27|
+|Gallery|Gallery owners take advantage of the scarcity error by placing red ‘sold’ dots under most of their paintings, transforming the remaining works into rare items that must be snatched up quickly.|27|
 |Gambler|See also Problem with Averages (ch. 55); Contrast Effect (ch. 10); The It’ll-Get-Worse- Before-It-Gets-Better Fallacy (ch. 12); Coincidence (ch. 24); Gambler’s Fallacy (ch. 29)|19,28,55,63,92|
 |Gangs|Gangs and fraternities initiate new members by forcing them to withstand nauseating or vicious tests.|60|
 |Garcia|The psychologist Stephen Garcia and his fellow researchers describe the case of a Nobel laureate who prevented a promising young colleague from applying for a job at ‘his’ university.|72|
@@ -4445,7 +4447,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Greenspan|Asked about the crisis, the same experts enumerated its causes: monetary expansion under Greenspan, lax validation of mortgages, corrupt rating agencies, low capital requirements, and so forth.|14,37,97|
 |Gregory Markus|In 1973, U.S. political scientist Gregory Markus asked 3,000 people to share their opinions on controversial political issues, such as the legalisation of drugs.|78|
 |Gripping|Gripping stories, garish images and sensational ‘facts’ capture our attention.|99|
-|Group|In 1982, at an international conference for future research, experts – all of them academics – were divided into two groups.|41,93|
+|Group|At a 1982 international conference on futures studies, academic experts were randomly assigned to two groups to test the conjunction fallacy.|41,93|
 |Group Bias|Somerset Maugham’s wise words: ‘If 50 million people say something foolish, it is still foolish.’ See also Groupthink (ch. 25); Social Loafing (ch. 33); In-Group Out-Group Bias (ch. 79); False-Consensus Effect (ch. 77)|4,25|
 |Group Out|Somerset Maugham’s wise words: ‘If 50 million people say something foolish, it is still foolish.’ See also Groupthink (ch. 25); Social Loafing (ch. 33); In-Group Out-Group Bias (ch. 79); False-Consensus Effect (ch. 77)|4,25|
 |Groupon|From eBay to Groupon to Google AdWords, prices are consistently set by auction.|35|
@@ -4480,7 +4482,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Holding|Why would I want sour grapes?’ Holding his head high, he strode back into the forest.|50|
 |Hollis Heimbouch|I couldn’t have picked better publishers and editors than Hollis Heimbouch from HarperCollins and Drummond Moir from Sceptre who has given these chapters their ﬁnal ﬁnesse.|99|
 |Hopefully|Hopefully not – wrong reason.|55,61|
-|House|Sellers become emotionally attached to their houses and thus systematically overestimate their value.|23,27,32|
+|House|Homeowners tend to value their properties above market price, in part due to the emotional significance of the home and the endowment effect.|23,27,32|
 |How Intel|How Intel came upon the information is remarkable: by pure coincidence, both companies had hired someone named Mike Webb.|24|
 |Hugo Boss|We send him to the hairdresser and put him in a Hugo Boss suit.|99|
 |Hundreds|For hundreds of thousands of years, they have laid their eggs in the nests of songbirds, which then incubate and even feed the cuckoo chicks.|99|
@@ -4490,7 +4492,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Identifying|This brings us to the question: does identifying with a group – a sports team, an ethnicity, a company, a state – represent flawed thinking?|79|
 |If Bono|If Bono, Kate Winslet or Mark Zuckerberg pose for photos while making birdhouses, cleaning oil-stained beaches or digging for earthquake victims, they lend something priceless to the situation: publicity.|65|
 |Ignoring|Ignoring regression to mean can have destructive consequences, such as teachers (or managers) concluding that the stick is better than the carrot.|19|
-|Illusion|As an outsider, you (like Rick) succumb to an illusion, and you mistake how minuscule the probability of success really is.|1,3,7,9,11,15,17,20,24,26,40,49,67,73,94,95|
+|Illusion|As an outsider, you (like Rick) succumb to an illusion, and you may underestimate how small the probability of success appears to be.|1,3,7,9,11,15,17,20,24,26,40,49,67,73,94,95|
 |Imagine|Imagine that an invisible Martian decides to follow you around with an equally invisible notebook, recording what you do, think and dream.|13,18,28,35,83,86,89,91,96|
 |Immediately|Immediately, she stopped eating and stored the divine message (minus a bite) in a plastic container.|3,53,70|
 |Improbable|For all these millions of churches, it would be improbable if something like what happened in Beatrice, Nebraska didn’t take place at least once a century.|24|
@@ -4535,7 +4537,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Invite|Invite him or her over for coffee and ask for an honest opinion about your strengths and weaknesses.|45|
 |Iris Bohnet|Special thanks go to Gerd Gigerenzer, Roy Baumeister, Leda Cosmides, John Tooby, Robert Cialdini, Jonathan Haidt, Ernst Fehr, Bruno Frey, Iris Bohnet, Dan Golstein, Tomáš Sedlá c¡ek and the philosopher John Gray for the|99|
 |Iron Curtain|We comprehend why the Iron Curtain had to fall or why Harry Potter became a best-seller.|13|
-|Ironically|Ironically, the more money a share loses, the more investors tend to stick by it.|5,40|
+|Ironically|Research shows that investors often hold losing stocks too long, hoping to recoup losses — a behavior known as the disposition effect.|5,40|
 |Irritated|Irritated, he tried his luck again.|50|
 |Irving Janis|Psychology professor Irving Janis has studied many ﬁascos.|25|
 |Isaac Barrow|While his school was closed due to an outbreak of plague in 1666–7, 25-year- old Isaac Newton showed his professor, Isaac Barrow, what research he was conducting in his spare time.|72|
@@ -4566,14 +4568,14 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |John Tooby|Special thanks go to Gerd Gigerenzer, Roy Baumeister, Leda Cosmides, John Tooby, Robert Cialdini, Jonathan Haidt, Ernst Fehr, Bruno Frey, Iris Bohnet, Dan Golstein, Tomáš Sedlá c¡ek and the philosopher John Gray for the|99|
 |Jonathan Baron|Jonathan Baron from the University of Pennsylvania asked physicians the following question: a patient presents symptoms that indicate with a probability of 80% that he is suffering from disease A.|59|
 |Jonathan Haidt|Special thanks go to Gerd Gigerenzer, Roy Baumeister, Leda Cosmides, John Tooby, Robert Cialdini, Jonathan Haidt, Ernst Fehr, Bruno Frey, Iris Bohnet, Dan Golstein, Tomáš Sedlá c¡ek and the philosopher John Gray for the|99|
-|Jonathan Schooler|A few years later, psychology professors Timothy Wilson and Jonathan Schooler repeated the experiment with students from the University of Washington.|90|
+|Jonathan Schooler|Later, psychology professors Timothy Wilson and Jonathan Schooler repeated the experiment with students from the University of Washington.|90|
 |Jorge Luis Borges|In his short story ‘Del rigor en la ciencia’, which consists of just a single paragraph, Jorge Luis Borges describes a special country.|59|
 |Jorgensen|In 1957, Swedish opera singer Friedrich Jorgensen bought a tape player to record his vocals.|3|
 |Journalists|Business journalists gushed about its success in every discipline: its wonderful customer service, perfect strategy, skilful acquisitions, unique corporate culture and charismatic CEO.|38|
 |Juliet|It is also known as the Romeo and Juliet effect: because the love between the tragic Shakespearean teenagers is forbidden, it knows no bounds.|27|
 |Juniper Networks|In January 2006, when Juniper Networks announced eagerly anticipated earnings per share that were a tenth of a cent lower than analysts’ forecasts, the share price fell 21% and the company’s value plunged $2.5 billion.|62|
 |Justification|See also False Causality (ch.37); ‘Because’ Justification (ch. 52); Personification (ch. 87); Hindsight Bias (ch. 14); Fundamental Attribution Error (ch. 36); Conjunction Fallacy (ch. 41); Falsification of History (ch. 7|13,50,97|
-|Kahneman|Nobel laureate Daniel Kahneman and Amos Tversky have studied this extensively.|41,42,73,94|
+|Kahneman|Nobel laureate Daniel Kahneman and Amos Tversky documented this phenomenon in a series of experiments published in the 1970s and 1980s.|41,42,73,94|
 |Kate Winslet|If Bono, Kate Winslet or Mark Zuckerberg pose for photos while making birdhouses, cleaning oil-stained beaches or digging for earthquake victims, they lend something priceless to the situation: publicity.|65|
 |Kawasaki|Guy Kawasaki was ‘chief evangelist’ at Apple for four years.|72|
 |Kennedy|In January 1961, two days after taking ofﬁce, President Kennedy was informed about the secret plan to invade Cuba.|25|
@@ -4621,10 +4623,10 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Management|Management gurus push employees in large companies to be bolder and more entrepreneurial.|32,64|
 |Managers|Managers invest more energy in trying to lower the targets than in growing the business.|18,59,60|
 |Manhattan|And, depreciation measured against what – gold, yen, pesos, wheat, residential property in Manhattan, the average price of a hot dog?|8,11,86|
-|Marc Alpert|Psychologists Howard Raiffa and Marc Alpert, wondering the same thing, have interviewed hundreds of people in this way.|15|
+|Marc Alpert|Psychologists Howard Raiffa and Marc Alpert, wondering the same thing, have interviewed people in this way.|15|
 |March|At 7.15p.m. on 1 March 1950, the ﬁfteen members of the church choir in Beatrice, Nebraska were scheduled to meet for rehearsal.|24|
 |Margaux|Kevin has just bought two boxes of ﬁne Margaux.|22|
-|Marijuana|Imagine the issue of marijuana has been dominating the media for the past few months.|83|
+|Marijuana|Imagine the issue of marijuana has been dominating the media recently.|83|
 |Marijuana Kills Yet Another Motorist|He hurries back to the newsroom and writes this headline: ‘Marijuana Kills Yet Another Motorist’.|83|
 |Mark Twain|The take-home message from all this is phrased most aptly by Mark Twain: ‘We should be careful to get out of an experience only the wisdom that is in it – and stop there; lest we be like the cat that sits down on a hot s|48,57,92|
 |Mark Zuckerberg|If Bono, Kate Winslet or Mark Zuckerberg pose for photos while making birdhouses, cleaning oil-stained beaches or digging for earthquake victims, they lend something priceless to the situation: publicity.|65|
@@ -4672,7 +4674,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Money|The money spent little time in my pocket: I soon bought myself to a top-of-the-range bike with disc brakes and Shimano gears, one of the best models around.|84|
 |Money Effect|See also House-Money Effect (ch. 84); Sunk Costs Fallacy (ch. 5); Winner’s Curse (ch. 35); Contrast Effect (ch. 10); Loss Aversion (ch. 32); Cognitive Dissonance (ch. 50); Not- Invented-Here Syndrome (ch. 74); Fear of Re|23,27,32|
 |Money Manager|Two money managers – A and B – report to you.|58|
-|Monte Carlo|In the summer of 1913, something incredible happened in Monte Carlo.|29|
+|Monte Carlo|In August 1913, the roulette wheel at the Monte Carlo Casino landed on black 26 consecutive times, causing millions in losses for gamblers who believed in the “law of averages.”|29|
 |Moreover|Moreover, a lot of sites now tailor content to personal interests and browsing history, causing new and divergent opinions to vanish from the radar altogether.|8,25|
 |Moritz Mueller|Thanks to Frank Schirrmacher for ﬁnding space for my columns in the Frankfurter Allgemeine Zeitung, to Giovanni di Lorenzo and Moritz Mueller-Wirth for their publication in Die Zeit (Germany), and to Martin Spieler who g|99|
 |Motivated|Motivated by the stories of countless guitar heroes, Rick starts a band.|1|
@@ -4690,7 +4692,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Nassim Nicholas Taleb|ACKNOWLEDGMENTS Thanks to my friend Nassim Nicholas Taleb for inspiring me to write this book, even if his advice was not to publish it under any circumstances.|99|
 |Nassim Taleb|As essayist and trader Nassim Taleb resolved to do something about the stubborn extra pounds he’d be carrying, he contemplated taking up various sports.|2,9,55,69,75|
 |National Institute|A study commissioned by the National Institute of Unnecessary Research has calculated the average IQ in American companies.|61|
-|Naturally|Naturally you leave the duration and severity of the period open.|12|
+|Naturally|The plan deliberately avoids specifying how long the difficult period will last or how severe the consequences will be.|12|
 |Nature|Nature doesn’t seem to mind if our decisions are perfect or not, as long as we can manoeuvre ourselves through life – and as long as we are ready to be rational when it comes to the crunch.|99|
 |Nazis|A glaring example is the prosecution of the Nazis at the Nuremberg trials, or less controversially, any board or management team.|33,99|
 |Neanderthals|As long as we advance beyond our competitors (i.e., beat the Neanderthals), we can get away with error-laced behaviour.|99|
@@ -4701,7 +4703,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Neglecting|Neglecting to declare income tax is less immoral than faking tax documents, even though the state loses out either way.|44|
 |Neisser|Ulrich Neisser, one of the pioneers in the ﬁeld of cognitive science, investigated them.|78|
 |Neomania|See also Forecast Illusion (ch. 40); Neomania (ch. 69); Envy (ch. 86)|46|
-|Nevertheless|Nevertheless, many of its graduates were successful.|2,6,36,56,65,72|
+|Nevertheless|A substantial portion of graduates went on to successful careers, though this may reflect selection effects rather than the quality of the education.|2,6,36,56,65,72|
 |New Jersey|This is how New Jersey and Pennsylvania presented two car-insurance policies to their inhabitants.|81|
 |New Mexico|In 1978, a woman from New Mexico had a similar experience.|3|
 |New Year|Even New Year’s resolutions won’t help you here.|85|
@@ -4716,14 +4718,14 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Nigeria|Examples of their far-fetched forecasts included the collapse of Canada, Nigeria, China, India, Indonesia, South Africa, Belgium and the E.U.|40|
 |Nigerian|It transpires that they are Nigerian.|83|
 |Ninth Symphony|At a classical recital, an orchestra performed Beethoven’s Ninth Symphony.|95|
-|Nobel|Nobel laureate Daniel Kahneman and Amos Tversky have studied this extensively.|41,60,72,73,95|
-|Nobel Prize|The same goes for photographers, entrepreneurs, artists, athletes, architects, Nobel Prize winners, television presenters and beauty queens.|1,16,61,76,95|
-|Nobel Prizes|These need not be monetary; anything is useable, from good grades to Nobel Prizes to special treatment in the afterlife.|18|
+|Nobel|Nobel laureate Daniel Kahneman and Amos Tversky documented this phenomenon in a series of experiments published in the 1970s and 1980s.|41,60,72,73,95|
+|Nobel Prize|This pattern applies across many competitive fields, including photography, entrepreneurship, the arts, sports, architecture, academia, media, and beauty.|1,16,61,76,95|
+|Nobel Prizes|Incentives can take forms, including social recognition, academic achievement, professional advancement, or religious reward.|18|
 |Nobody|Nobody understands why overnight interest rates can have such an effect on the market, but everybody thinks they do, and so they do.|17,18,33,99|
 |Nonentities|Nonentities generally don’t consider their non-existence for too long.|47|
 |Norms|Top German philosopher and sociologist Jürgen Habermas in Between Facts and Norms.|57|
 |Nothing|He replied quite matter-of-factly: ‘I’ve over 1,000 jumps under my belt, and nothing has ever happened to me.’ Two months later, he was dead.|31,34,39,69|
-|Nowadays|Nowadays, people are bombarded with options, such as hundreds of mental disorders, thousands of different careers, even more holiday destinations and an infinite variety of lifestyles.|21,99|
+|Nowadays|Modern life presents an overwhelming number of choices, from career paths to consumer products, making it difficult to evaluate options thoroughly.|21,99|
 |Nudge|In their book, Nudge, economist Richard Thaler and law professor Cass Sunstein illustrate how a government can direct its citizens without unconstitutionally restricting their freedom.|81|
 |Nuremberg|A glaring example is the prosecution of the Nazis at the Nuremberg trials, or less controversially, any board or management team.|33|
 |Objectively|Objectively speaking, narratives are irrelevant, but still we find them irresistible.|13,27,44,49,89|
@@ -4808,7 +4810,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Primacy|See also Framing (ch. 42); Primacy and Recency Effects (ch. 73); News Illusion (ch. 99)|70,83,88|
 |Primo Levi|If you have read Aleksandr Solzhenitsyn, Primo Levi or Viktor Frankl, this ﬁnding will not surprise you: the idea that people can inﬂuence their destiny even by a fraction encouraged these prisoners not to give up hope.|17|
 |Princeton University|Students at Princeton University came in second with an average of 1.63.|63|
-|Probability|The probability lies a fraction above zero.|1,11,17,28,34,55,80|
+|Probability|The probability of success is very small — likely less than one percent — but not zero.|1,11,17,28,34,55,80|
 |Probably|Probably just the same type of stand-in you ﬁnd in all the tourist places in high season.’ Let’s take another example: a CEO is at his wits’ end.|12,17,31,54,95|
 |Probe|Probe the issue like an investigator would: cui bono?|70|
 |Problem|See also Problem with Averages (ch. 55); Contrast Effect (ch. 10); The It’ll-Get-Worse- Before-It-Gets-Better Fallacy (ch. 12); Coincidence (ch. 24); Gambler’s Fallacy (ch. 29)|19,26,29|
@@ -4824,7 +4826,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Psychologist Robert Cialdini|Psychologist Robert Cialdini can explain the success of this and other such campaigns.|6|
 |Psychologist Stanley Milgram|Psychologist Stanley Milgram demonstrated the authority bias most clearly in an experiment in 1961.|9|
 |Psychologists|Psychologists call these ﬂashbulb memories: they feel as incontestable as photographs.|78,79|
-|Psychologists Howard Raiffa|Psychologists Howard Raiffa and Marc Alpert, wondering the same thing, have interviewed hundreds of people in this way.|15|
+|Psychologists Howard Raiffa|Psychologists Howard Raiffa and Marc Alpert, wondering the same thing, have interviewed people in this way.|15|
 |Psychology|Psychology professor Thomas Gilovich interviewed hundreds of people for an answer.|3,25,68|
 |Purely|Purely independent events really only exist at the casino, in the lottery and in theory.|29|
 |Purge|Purge yourself of the illusion of attention every now and then.|88|
@@ -4884,18 +4886,18 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Risks|This automatic, one- dimensional impulse prevents you from considering risks and beneﬁts to be independent variables, which indeed they are.|66|
 |Robert Cialdini|In his book Influence, Robert Cialdini tells the story of two brothers, Sid and Harry, who ran a clothing store in 1930s America.|10,99|
 |Robert Gates|In February 2009, defence secretary Robert Gates lifted this ban and images ﬂooded on to the Internet.|87|
-|Robert Rosenthal|In 1965, the American psychologist Robert Rosenthal conducted a noteworthy experiment in various schools.|62|
+|Robert Rosenthal|In 1965, the American psychologist Robert Rosenthal conducted a noteworthy experiment in schools.|62|
 |Roger Buehler|The Canadian psychologist Roger Buehler and his research team asked the following of their ﬁnal-year class.|91|
 |Roger Federer|What makes a professional tennis player like Roger Federer a coffee machine expert is still open for debate, but this hasn’t detracted from the success of the campaign.|38|
 |Rokia|One group was shown a photo of Rokia from Malawi, an emaciated child with pleading eyes.|87|
 |Rolex|A magician can make your watch vanish because, when he presses on one part of your body, you don’t notice the lighter touch on your wrist as he relieves you of your Rolex.|10|
 |Rolf Dobelli|AUTHOR BIOGRAPHY Rolf Dobelli, born 1966, is a Swiss writer, novelist and entrepreneur.|99|
-|Roman|Do not think you command your way through life like a Roman emperor.|17,69|
+|Roman|Avoid the assumption that you can control all outcomes through sheer force of will through sheer force of will.|17,69|
 |Romans|Rara sunt cara, said the Romans.|27,99|
 |Romeo|It is also known as the Romeo and Juliet effect: because the love between the tragic Shakespearean teenagers is forbidden, it knows no bounds.|27|
 |Ronald Reagan|Similarly, following Ronald Reagan’s massive election victory over Jimmy Carter in 1980, commentators announced his appointment to be foreseeable, even though the election lay on a knife-edge until a few days before the|14|
 |Roommate|Roommate #3, cursing because his garbage bag had split, reckoned he did it pretty much every time, say 90%.|45|
-|Rosenthal|In 1965, the American psychologist Robert Rosenthal conducted a noteworthy experiment in various schools.|62|
+|Rosenthal|In 1965, the American psychologist Robert Rosenthal conducted a noteworthy experiment in schools.|62|
 |Roy Baumeister|The psychologist Roy Baumeister and his collaborator Jean Twenge once covered a table with hundreds of inexpensive items – from tennis balls and candles to T-shirts, chewing gum and Coke cans.|53,85,93,99|
 |Russia|A friend who deals in oil pumps told me how he once closed an eight-ﬁgure deal for a pipeline in Russia. ‘Bribery?’ I inquired.|22,30,47,99|
 |Russian|A) The attacker is a Russian immigrant and imports combat knives illegally, or B) the attacker is a middle-class American.|28,39,48,86,93|
@@ -4903,7 +4905,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Sabine Ried|My greatest thanks go to my wife, Sabine Ried, who proves to me every day that the ‘good life’ – as deﬁned by Aristotle – consists of far more than clear thoughts and clever actions.|99|
 |Saddam|A few hours after American troops stormed Saddam Hussein’s government palace, she crept into the private quarters.|54|
 |Saddam Hussein|A few hours after American troops stormed Saddam Hussein’s government palace, she crept into the private quarters.|54|
-|Sales|Sales are in the toilet, the salespeople are unmotivated, and the marketing campaign has sunk without a trace.|12,30|
+|Sales|Sales have declined significantly, the salespeople are unmotivated, and the marketing campaign has sunk without a trace.|12,30|
 |Salespeople|Salespeople who chase every single lead close no deals.|68|
 |Salience|He has fallen victim to the salience effect.|83|
 |Salience Effect|See also Introspection Illusion (ch. 67); Salience Effect (ch. 83); Cognitive Dissonance (ch. 50); Forer Effect (ch. 64); News Illusion (ch. 99)|8,36,38,66,73|
@@ -4912,7 +4914,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |San Francisco|Trafﬁc jam on the highway between Los Angeles and San Francisco: surface repairs.|52|
 |San Francisco Examiner|On 5 October 1990, the San Francisco Examiner reported that Intel would take its rival, AMD, to court.|24|
 |Sandy|You should make a list of the costs and beneﬁts and try to roughly calculate your expected utility.” Without thinking, I blurted out, “Come on, Sandy, this is serious.”’ What you master in one area is difﬁcult to t|76|
-|Sarajevo|One particularly blundering example: nowadays it seems tragic, yet completely plausible, that a single shot in Sarajevo in 1914 would totally upturn the world for thirty years and cost 50 million lives.|14,36|
+|Sarajevo|One particularly blundering example: nowadays it seems tragic, yet plausible, that a single shot in Sarajevo in 1914 would totally upturn the world for thirty years and cost 50 million lives.|14,36|
 |Saturday|It’s Patrick, his former classmate and current president of the local bird club: ‘Next Saturday we’re having our annual birdhouse drive.|65|
 |Scandalous|Scandalous, shocking, people-based, loud, fast-changing details all stimulate us, whereas abstract, complex and unprocessed information sedates us.|99|
 |Scarcity Error|See also Availability Bias (ch. 11); Endowment Effect (ch. 23); Halo Effect (ch. 38); Social Comparison Bias (ch. 72); Regression to Mean (ch. 19); Scarcity Error (ch. 27); Framing (ch. 42)|10,82,84|
@@ -4931,7 +4933,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Seemingly|Seemingly insigniﬁcant factors inﬂuence our emotions.|66|
 |Selecting|Selecting A earns you $30,000 in 30 days; choosing B gives you more than $5 million.|34|
 |Selection Bias|See also Halo Effect (ch. 38); Outcome Bias (ch. 20); Self-Selection Bias (ch. 47); Alternative Blindness (ch. 71); Fundamental Attribution Error (ch. 36)|2,39,95|
-|Sellers|Sellers become emotionally attached to their houses and thus systematically overestimate their value.|23|
+|Sellers|Homeowners tend to value their properties above market price, in part due to the emotional significance of the home and the endowment effect.|23|
 |September|And you can remember exactly where you were on 11 September 2001 when you learned of the terrorist attack in New York, right?|78|
 |Serengeti|Suppose that 50,000 years ago, you were travelling around the Serengeti with your hunter-gatherer friends, and suddenly they all bolted.|4|
 |Serial|Why are there so few serial entrepreneurs – businesspeople who start successful companies one after the other?|94|
@@ -4961,7 +4963,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Skill|See also Self-serving Bias (ch. 45); Beginner’s Luck (ch. 49); Base-Rate Neglect (ch. 28); Induction (ch. 31); Neglect of Probability (ch. 26); Illusion of Skill (ch. 94); Intention-To- Treat Error (ch. 98)|1,9,15,17,20,49|
 |Sleeper Effect|See also Contrast Effect (ch. 10); Fear of Regret (ch. 82); Loss Aversion (ch. 32); Reciprocity (ch. 6); The Anchor (ch. 30); Sleeper Effect (ch. 70)|42,73,99|
 |Small Numbers|See also Simple Logic (ch. 63); Neglect of Probability (ch. 26); The Law of Small Numbers (ch. 61)|34,58|
-|Smoking|‘Smoking can’t be that bad for you: my grandfather smoked three packs of cigarettes a day and lived to be more than 100.’ Or: ‘Manhattan is really safe.|11,95|
+|Smoking|‘Smoking can’t be that bad for you: my grandfather smoked three packs of cigarettes a day and lived to be more than 100.’ Or: ‘Manhattan is safe.|11,95|
 |Soccer|In a penalty situation in soccer, the ball takes less than 0.3 seconds to travel from the player who kicks the ball to the goal.|43|
 |Social Comparison Bias|See also Availability Bias (ch. 11); Endowment Effect (ch. 23); Halo Effect (ch. 38); Social Comparison Bias (ch. 72); Regression to Mean (ch. 19); Scarcity Error (ch. 27); Framing (ch. 42)|10,86|
 |Social Loafing|Somerset Maugham’s wise words: ‘If 50 million people say something foolish, it is still foolish.’ See also Groupthink (ch. 25); Social Loafing (ch. 33); In-Group Out-Group Bias (ch. 79); False-Consensus Effect (ch. 77)|4,25,32,56|
@@ -4990,19 +4992,19 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Steinbeck|As a family drama, in Steinbeck’s The Grapes of Wrath, it is unforgettable.|87|
 |Stephen Garcia|The psychologist Stephen Garcia and his fellow researchers describe the case of a Nobel laureate who prevented a promising young colleague from applying for a job at ‘his’ university.|72|
 |Stereotypes|Stereotypes and prejudices stem from it.|79|
-|Steve|If you start hiring B-players, expect what Steve [Jobs] called “the bozo explosion” to happen in your organisation.’ In other words, start hiring B-players and you end up with Z-players.|72|
+|Steve|If you hire people below your own standard, you risk building an organization where competence erodes over time — a phenomenon Steve Jobs called the “bozo explosion.”’ In other words, start hiring B-players and you end up with Z-players.|72|
 |Steve Jobs|Of course, there’s Steve Jobs and Richard Branson, but they represent a tiny minority.|94|
 |Sticking|Sticking with negative effects, the halo effect can lead to great injustice and even stereotyping when nationality, gender, or race becomes the all- encompassing feature.|38|
 |Still|Still, the question remains: what does ‘likeable’ even mean?|22,50,97,99|
 |Stone Age|It is what sets us apart from planned economies and the Stone Age.|21,34,75,90|
 |Stories|If our story advances evenly over the years, we refer to it as ‘identity’. ‘We try on stories as we try on clothes,’ said Max Frisch, a famous Swiss novelist.|13|
-|Story|We like to knit this jumble of details into a neat story.|13|
+|Story|Humans have a natural tendency to construct coherent narratives from disconnected events, imposing meaning on randomness.|13|
 |Story Bias|See also Fallacy of the Single Cause (ch. 97); Falsification of History (ch. 78); Story Bias (ch. 13); Forecast Illusion (ch. 40); Outcome Bias (ch. 20); Self-Serving Bias (ch. 45)|14,36,37,41,52,78,87,96,99|
 |Straight|Straight away, one jumped out at me, but I wanted to make sure I had found the best deal and decided to keep researching.|59|
 |Strangely|Strangely enough, my level of frustration was much lower this time.|52|
 |Strategic|The ofﬁcial term for such behaviour is strategic misrepresentation: the more at stake, the more exaggerated your assertions become.|89|
 |Strategic Misrepresentation|We will examine this strategic misrepresentation (Chapter 89) later in the book.|15|
-|Stress|I was speaking about base-rate neglect and illustrated it with a medical example: in a 40-year-old patient, stabbing chest pain may (among other things) indicate heart problems, or it may indicate stress.|76|
+|Stress|In a previous example, I illustrated base-rate neglect using a medical diagnosis scenario: in a 40-year-old patient, stabbing chest pain may (among other things) indicate heart problems, or it may indicate stress.|76|
 |Strictly|Strictly speaking, anyone who proﬁts or feels even the slightest satisfaction from volunteering is not a pure altruist.|65|
 |Students|So far, students at the Massachusetts Institute of Technology (MIT) in Boston have fared best.|63,85|
 |Studies|Studies have shown that people who are aware of it fall for it just as much as everyone else.|14,88|
@@ -5020,8 +5022,8 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Surprise|Surprise, surprise: the shops with the lowest amount of shoplifting in relation to sales are also in rural areas! ‘The location isn’t the deciding factor,’ you begin, smiling smugly as you gaze around the table|61|
 |Surprised|Surprised by this result, he extended his research to humans.|33|
 |Surprisingly|Surprisingly, 50.8% were in favour of the proposal.|56|
-|Survivorship|Rick, like so many others, is a victim of Survivorship Bias.|1|
-|Survivorship Bias|Rick, like so many others, is a victim of Survivorship Bias.|1,26,28,31,45,49,94,98|
+|Survivorship|Rick is one of countless people who fall prey to survivorship bias by focusing on visible successes while ignoring the vast majority of failures.|1|
+|Survivorship Bias|Rick is one of countless people who fall prey to survivorship bias by focusing on visible successes while ignoring the vast majority of failures.|1,26,28,31,45,49,94,98|
 |Sutter|The meteorite that ﬂattens you, Sutter’s discovery of gold in California, the collapse of the Soviet Union, the invention of the transistor, the Internet browser, the overthrow of Egyptian dictator Mubarak or another enc|75|
 |Swedish|In 1957, Swedish opera singer Friedrich Jorgensen bought a tape player to record his vocals.|3,53|
 |Swimmer|See also Sunk Cost Fallacy (ch. 5); Swimmer’s Body Illusion (ch. 2); Hindsight Bias (ch. 14); Illusion of Skill (ch. 94)|20,36,38,47,71|
@@ -5086,7 +5088,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Thousands|Thousands of people have taken this ‘Cognitive Reﬂection Test’ (CRT), which was developed by professor Shane Frederick.|63|
 |Three|Three months later, a key meeting took place at the White House in which Kennedy and his advisers all voted in favour of the invasion.|25,63,78,82,86,99|
 |Times Square|And if the crispy parts of your pancake start to look a lot like Jesus’ face, ask yourself: if he really wants to reveal himself, why doesn’t he do it in Times Square or on CNN?|3|
-|Timothy Wilson|A few years later, psychology professors Timothy Wilson and Jonathan Schooler repeated the experiment with students from the University of Washington.|90|
+|Timothy Wilson|Later, psychology professors Timothy Wilson and Jonathan Schooler repeated the experiment with students from the University of Washington.|90|
 |Today|Today it’s clear why: the V1’s navigation system was extremely inaccurate.|3,9,14,27,34,35,37,40,67,72,75,82,97,99|
 |Today France|Today France alone has more than 30,000 roundabouts – which the French now probably falsely attribute to the designer of the Place de l’Étoile.|74|
 |Tokyo|There is one city on this planet with a population of more than 30 million: Tokyo.|55|
@@ -5113,7 +5115,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Under|Under its rules, a tumbling share price becomes ‘correction’.|42|
 |Unexpected|Unexpected, unnoticed interruptions can be as large and conspicuous as a gorilla.|88,91|
 |Unfortunately|Unfortunately, this form of gentle blackmail – you also call it corruption – is widespread.|6,16,17,30,41,47,48,49,58,62,67,73,85,92,94,98|
-|United Nations|He had participants spin it, and afterward, they were asked how many member states the United Nations has.|30|
+|United Nations|He had participants spin it, and afterward, they were asked for an estimate of United Nations member states.|30|
 |United States|The motto drummed into any prospective doctor in the United States is: ‘When you hear hoofbeats behind you, don’t expect to see a zebra.’ Which means: investigate the most likely ailments before you start diagnosing exot|28|
 |Universities|Gerd Gigerenzer of the Max Planck Institute in Germany put this question to students in the Universities of Chicago and Munich.|59|
 |University|For example, Harvard has the reputation of being a top university.|2,15,26,54,56,59,63,66,90,99|
@@ -5122,7 +5124,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Unlike Warren Buffett|This is how top investor Warren Buffett does things: ‘Each deal we measure against the second-best deal that is available at any given time – even if it means doing more of what we are already doing.’ Unlike Warren Buffe|71|
 |Unnecessary Research|A study commissioned by the National Institute of Unnecessary Research has calculated the average IQ in American companies.|61|
 |Unthinkable|A Black Swan is an unthinkable event that massively affects your life, your career, your company, your country.|75|
-|Until|Until a few years ago, no one bothered to check.|40,57,72|
+|Until|Until recently, no one bothered to check.|40,57,72|
 |Upper East Side|Aristotle knew this: ‘Potters envy potters.’ This brings us to a classic practical error: let’s say your ﬁnancial success allows you to move from one of New York’s grittier neighbourhoods to Manhattan’s Upper East Side.|86|
 |Usain Bolt|Just ask Larry Page, Usain Bolt, George Soros, J.K.|75|
 |Using|Using the simple validation ‘because’ is sufficient.|52|
@@ -5165,7 +5167,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Willem|That was until the year 1697, when Willem de Vlamingh saw a black swan for the ﬁrst time during an expedition to Australia.|75|
 |William Gibson|We should all take stock from novelist William Gibson: ‘The future is already here – it’s just not very evenly distributed.’ See also Base-Rate Neglect (ch. 28); Simple Logic (ch. 63); Regression to Mean (ch. 19); Neglec|55|
 |Willpower|In psychology, this is a classic method to measure willpower or self-discipline; if you have little or none, you yank your hand back out of the water very quickly.|53,85|
-|Wilson|A few years later, psychology professors Timothy Wilson and Jonathan Schooler repeated the experiment with students from the University of Washington.|90|
+|Wilson|Later, psychology professors Timothy Wilson and Jonathan Schooler repeated the experiment with students from the University of Washington.|90|
 |Winner|In large auctions, such as those for mining rights or mobile radio frequencies, we often observe the winner’s curse: here, the successful bidder turns out to be the economic loser when he gets caught up in the fervour an|23|
 |Winston|Winston Smith, a frail, brooding, 39-year-old ofﬁce employee, works in the Ministry of Truth.|78|
 |Winston Smith|Winston Smith, a frail, brooding, 39-year-old ofﬁce employee, works in the Ministry of Truth.|78|
@@ -5192,7 +5194,7 @@ You will encounter the news illusion whenever a journalist writes about a bridge
 |Your Mr|Your Mr or Ms Perfect seems to be the whole package: attractive, intelligent, likeable and warm.|38|
 |Yours|Yours stays the same.|86|
 |Yugoslav|For example, the ‘blame’ for wars we lazily push on to individuals: the Yugoslav assassin in Sarajevo has World War I on his conscience, and Hitler singlehandedly caused World War II.|36|
-|Zappo|Zappo’s claims that it is in the happiness business (whatever that means).|52|
+|Zappo|Zappo’s uses vague marketing language (whatever that means).|52|
 |Zeigarnik|After dinner, outside on the street, Russian psychology student Bluma Zeigarnik notices that she has left her scarf behind in the restaurant.|93|
 |Zeigarnik Effect|See also Omission Bias (ch. 44); Planning Fallacy (ch. 91); Action Bias (ch. 43); Hyperbolic Discounting (ch. 51); Zeigarnik Effect (ch. 93)|85,91|
 |Zurich|Economist Bruno Frey and his fellow researchers at the University of Zurich travelled there and recorded people’s opinions at a community meeting.|56|
