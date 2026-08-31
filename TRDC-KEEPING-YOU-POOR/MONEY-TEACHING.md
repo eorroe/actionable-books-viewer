@@ -15,7 +15,7 @@ This money teaching explains why relying on a paycheck, savings, and 401(k)s kee
 
 ### Step 1: Learn the four types of income the tax system recognizes
 
-Understand the four categories the government uses to classify income: earned income (wages and salary), portfolio income (capital gains from investments like stocks and real estate), passive income (business or rental income that continues without active work), and phantom income (tax breaks and deductions that reduce your tax bill). Earned income is taxed at the highest rate, while passive and portfolio income receive lower tax rates.
+Understand the four categories the government uses to classify income: earned income (wages and salary), portfolio income (capital gains from investments like stocks and real estate), passive income (business or rental income that continues without active work), and phantom income (tax breaks and deductions that reduce your tax bill). Earned income is taxed at the highest rate, and portfolio income is taxed at the second-highest rate. Passive income continues regardless of your active work, and phantom income represents taxes you do not have to pay.
 
 ### Step 2: Recognize that the system is designed to discourage earned income
 
@@ -23,7 +23,7 @@ The government does not want you working for money; it punishes earned income an
 
 ### Step 3: Understand that traditional savings vehicles are heavily taxed
 
-Savings accounts, 401(k)s, RRSPs (Registered Retirement Savings Plan), and superannuation funds are all taxed at the highest rates. Without understanding the tax consequences, people assume these are smart financial moves, but they can trap you in a cycle of working harder.
+Savings, 401(k)s, RRSPs (Registered Retirement Savings Plan), and superannuation funds are all taxed at the highest rates. Without understanding the tax consequences, people assume these are smart financial moves, but they can trap you in a cycle of working harder.
 
 ### Step 4: Study financial statements and the tax code to find phantom income
 
@@ -93,7 +93,7 @@ If your tax bill is $100,000 and you qualify for $50,000 in tax breaks by invest
 ## Security & Safety Notes
 
 - Financial education requires capital at risk; never invest money you cannot afford to lose
-- Professional investors spend time studying before becoming consistently profitable
+- Take classes and gain experience in a specific asset class before committing capital; you can get "hammered" really easily without proper education
 - Avoid "get rich quick" schemes that promise passive income without effort or education
 - Consult with qualified tax and investment professionals before implementing these strategies
 - Be cautious of anyone who claims you can become a successful investor with no prior experience or study

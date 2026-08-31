@@ -4,7 +4,7 @@ Prepare for the Future Economy by Shifting from Employee to Investor Mindset
 
 ## Overview
 
-This money teaching explains why traditional financial advice is failing the next generation and what millennials and young investors must do differently to survive and thrive in a mismanaged economy. Robert Kiyosaki argues that government overspending, mounting national debt, and unfunded social program liabilities will create a tax burden on younger Americans, making the old "go to school, get a job, save money, and invest in a 401k" formula a poor strategy for building wealth. The teaching synthesizes this into one actionable sentence: Become a business owner or investor instead of an employee or self-employed individual, acquire real assets, and get financially educated before the economy shifts further away from you.
+This money teaching explains that government overspending, mounting national debt, and unfunded social program liabilities will create a tax burden on younger Americans, and what millennials and young investors must do differently to survive and thrive in a mismanaged economy. Robert Kiyosaki argues that government overspending, mounting national debt, and unfunded social program liabilities will create a tax burden on younger Americans, making the old "go to school, get a job, save money, and invest in a 401k" formula a poor strategy for building wealth. The teaching synthesizes this into one actionable sentence: Become a business owner or investor instead of an employee or self-employed individual, acquire real assets, and get financially educated before the economy shifts further away from you.
 
 ## When to Follow These Money Teachings
 
@@ -29,11 +29,11 @@ Intentionally move toward the Business Owner (B) or Investor (I) quadrants. Star
 
 ### Step 4: Prepare for Higher Taxes and Social Program Burdens
 
-Understand that the estimate of unfunded social security, Medicare, and pension liabilities is $655 trillion, though the exact number is unknown. These obligations will require funding, and younger workers may face higher taxes to cover them. Build your financial strategy around this projected reality by legally minimizing taxes and building income streams that are not dependent on a single employer.
+Understand that the estimate of unfunded social programs, welfare programs, social security, and retirement plans is $655 trillion, though the exact number is unknown. These obligations will require funding, and younger workers may face higher taxes to cover them. Build your financial strategy around this projected reality by legally minimizing taxes and building income streams that are not dependent on a single employer.
 
 ### Step 5: Take Control of Your Financial Education
 
-Read books, watch educational content, play Cashflow, and learn from people who actually do what they teach. Financial education is your responsibility, not your school's. Baby Boomers did not prepare your generation for this economy, so you must prepare yourself.
+Read books, watch educational content, play Cashflow, and learn from people who actually do what they teach. Financial education is your responsibility, not your school's. Previous generations faced easier economic conditions, so you must prepare yourself for the challenges ahead.
 
 ## Examples
 

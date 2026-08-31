@@ -31,7 +31,7 @@ Student loan debt is classified as bad debt because it does not put money in you
 
 ### Step 4: Learn the specific asset class you plan to invest in
 
-Study the asset class thoroughly before borrowing. Take real estate classes, study the market, and learn how to analyze cash flow. Never stop learning, as the speaker never stopped taking real estate classes.
+Study the asset class before borrowing. Take real estate classes, study the market, and learn how to analyze cash flow. Never stop learning, as the speaker never stopped taking real estate classes.
 
 ### Step 5: Build the deal so the asset pays for the debt
 
@@ -39,13 +39,13 @@ Set up the investment so the asset pays for the debt itself. For example, buy a 
 
 ### Step 6: Scale the strategy once the first deal is proven
 
-Start with a small, cash-flow-positive purchase. Once you confirm the cash flow, expand by repeating the process with larger or more properties. Each acquisition should meet the same cash flow test. Over time, income-producing assets funded by good debt grow your monthly cash flow.
+Start with a small, cash-flow-positive purchase. Once you confirm the cash flow, expand by repeating the process with larger or more properties. Each acquisition should meet the same cash flow test. Year after year, income-producing assets funded by good debt grow your monthly cash flow.
 
 ## Examples
 
 ### Example 1: Rental property purchase with a mortgage
 
-You buy a one-bedroom condo for $18,000 in Maui in the 1970s by charging it on a credit card and using the debt to acquire a rental that sends $25 per month into your pocket. That $25 per month represents positive cash flow, making the debt used to buy it good debt. Today, that same principle is applied at scale to own rental properties that all generate monthly income, all funded through debt.
+You buy a one-bedroom condo for $18,000 in Maui in the 1970s by charging it on a credit card and using the debt to acquire a rental that sends $25 per month into your pocket. That $25 per month represents positive cash flow, making the debt used to buy it good debt. Today, the speaker owns 6,500 rental properties that all generate monthly income, all funded through debt.
 
 ### Example 2: Student loan debt for an unclear degree
 
@@ -57,9 +57,9 @@ Most boats lose money for their owner. However, if you charter the boat so rente
 
 ## Best Practices
 
-- ✅ Use debt only for purchases that produce monthly income exceeding all expenses
+- ✅ Use debt only for purchases that produce positive monthly cash flow
 - ✅ Verify you will graduate and what you will study before taking on student loan debt
-- ✅ Study the asset class thoroughly before borrowing to invest
+- ✅ Study the asset class before borrowing to invest
 - ✅ Focus on cash flow as the key metric for good debt
 - ✅ Keep learning after your first purchase; never assume you know everything
 - ✅ Start small with a single property or asset, confirm the cash flow, then scale
@@ -72,7 +72,7 @@ Most boats lose money for their owner. However, if you charter the boat so rente
 
 - Debt is neutral; it is not inherently good or bad. The outcome depends entirely on what you buy with it.
 - A house you live in is a liability, not an asset, regardless of whether you have a mortgage.
-- Cash flow is the only metric that matters. If cash flows into your pocket, the debt is good. If it flows out, the debt is bad.
+- Cash flow is the primary metric. If cash flows into your pocket, the debt is good. If it flows out, the debt is bad.
 - Student loan debt is the worst type of bad debt because it cannot be discharged through bankruptcy.
 - Good debt requires intelligence and continuous education. Someone without specialized knowledge of an asset class should not attempt leveraged investments without preparation.
 
@@ -92,7 +92,7 @@ Most boats lose money for their owner. However, if you charter the boat so rente
   **Solution:** Do not borrow for education unless you intend to graduate and you have selected a field to study.
 
 - **Problem:** Buying an asset without knowing the actual cash flow after all expenses.
-  **Solution:** Analyze the property or business thoroughly before borrowing. A mistake turns good debt into bad debt immediately.
+  **Solution:** Analyze the property or business before borrowing. A mistake turns good debt into bad debt immediately.
 
 - **Problem:** Flipping a property that was originally a good cash-flow investment.
   **Solution:** If the goal is passive monthly income, do not sell the asset. One property sold today loses the ongoing cash flow it would have generated.

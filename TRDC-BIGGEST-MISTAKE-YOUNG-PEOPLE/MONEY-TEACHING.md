@@ -8,7 +8,7 @@ This Money Teaching guides young people away from the common mistake of prioriti
 
 - When you are a young person deciding between a career path and building wealth
 - When working on choosing investments or asset classes for long-term growth
-- When the user asks about financial independence, passive income, or the Cashflow Quadrant
+- When the user asks about financial independence, passive income, or the Cashflow Quadrant (Kiyosaki's framework for categorizing how people earn money as Employees, Self-employed, Big Business owners, or Investors)
 
 ## Steps
 
@@ -30,7 +30,7 @@ Acquire properties you genuinely love such as land, buildings, or fixer-uppers. 
 
 ### Step 5: Diversify into Commodities
 
-Invest in tangible assets you love such as food (avocado farms), oil, gold, and silver. Focus on assets you love rather than chasing shiny objects like cryptocurrencies without understanding them.
+Invest in tangible assets you love such as food (avocado farms), oil, gold, and silver. Focus on assets you love rather than chasing speculative investments like cryptocurrencies without understanding them.
 
 ### Step 6: Understand Liquidity and Risk
 
@@ -53,7 +53,7 @@ Kiyosaki invests only in properties he loves. He looks at numbers, houses, and l
 - ✅ Start with a business before investing in real estate
 - ✅ Prioritize liquidity education before moving into illiquid assets
 - ✅ Focus on purpose (serving people) over passion (greed)
-- ❌ Don't chase shiny objects like Bitcoin or cryptocurrencies without understanding them
+- ❌ Don't chase speculative investments like Bitcoin or cryptocurrencies without understanding them
 - ❌ Don't stay trapped in the E or S quadrants
 - ❌ Don't ignore taxes, debt, insurance, and lawsuits
 - ❌ Don't invest in assets you have not researched just because peers, advisors, or social media influencers are investing in them
@@ -76,7 +76,7 @@ Kiyosaki invests only in properties he loves. He looks at numbers, houses, and l
 
 - **Problem:** Focusing on "doing what you love" as a career instead of investing in assets
   **Solution:** Shift your focus from career passion to acquiring assets that generate passive income
-- **Problem:** Chasing shiny objects like Bitcoin without understanding them
+- **Problem:** Chasing speculative investments like Bitcoin without understanding them
   **Solution:** Build assets through business and real estate that you have researched and can explain
 - **Problem:** Not learning skills like taxes, debt, insurance, accounting, and lawsuits
   **Solution:** Accept that learning about taxes, debt, insurance, accounting, and lawsuits is necessary to build the assets you love

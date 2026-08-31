@@ -2,7 +2,7 @@
 
 ## Overview
 
-Traditional education trains students to get jobs and work for paychecks, leaving them dependent on employers and vulnerable to job loss, lost pensions, and economic changes. Robert Kiyosaki teaches that the wealthy instead focus on acquiring assets—businesses, real estate, and commodities—that generate passive cash flow with minimum tax, making never needing a paycheck the goal rather than a secure paycheck.
+Traditional education trains students to get jobs and work for paychecks, leaving them dependent on employers and vulnerable to job loss, lost pensions, and economic changes. Robert Kiyosaki teaches that the wealthy instead focus on acquiring assets—businesses, real estate, and commodities—that generate cash flow with minimum tax, making never needing a paycheck the goal rather than a secure paycheck.
 
 ## When to Follow These Money Teachings
 
@@ -24,8 +24,8 @@ Stop pursuing a job as the promised outcome of education. Recognize that working
 Learn the four asset classes and their tax implications:
 - **Businesses** — generate cash flow and provide tax benefits through employees
 - **Real estate** — allows use of debt as leverage and offers huge tax breaks
-- **Paper assets** — savings, stocks, bonds, mutual funds, Exchange Traded Funds (ETFs), and 401Ks offer no tax advantages and tie you to market performance
-- **Commodities** — gold, silver, oil, land, water, and food that hold intrinsic value
+- **Paper assets** — savings, stocks, bonds, mutual funds, Exchange Traded Funds (ETFs), and 401Ks pay the highest taxes and require the most work
+- **Commodities** — gold, silver, oil, land, water, and food
 
 ### Step 3: Choose which asset class to focus on first
 
@@ -33,11 +33,11 @@ Decide which quadrant aligns with your skills and risk tolerance. Start with one
 
 ### Step 4: Use debt strategically for real estate
 
-Learn to use other people's money (debt) to acquire income-producing real estate. Unlike paper assets, real estate purchased with debt provides tax deductions and shelter. Understand that the average person is trained to fear debt, while the wealthy use it as a tool.
+Learn to use other people's money (debt) to acquire income-producing real estate. Unlike paper assets, real estate purchased with debt provides tax deductions and shelter. Understand that most people are trained to fear debt, while Kiyosaki uses it to acquire income-producing real estate and pay no taxes.
 
 ### Step 5: Build or buy a business
 
-Create or acquire businesses that generate cash flow independently of your daily labor. Even failed ventures teach critical lessons about entrepreneurship. The goal is to build systems that produce income while you sleep.
+Create or acquire businesses that generate cash flow independently of your daily labor. Even failed ventures teach critical lessons about entrepreneurship. The goal is to build systems that produce income.
 
 ### Step 6: Eliminate bad debt and avoid liabilities
 
@@ -55,7 +55,7 @@ Alexandra worked at a bank earning a salary but still could not afford the goods
 
 ### Example 2: Robert Kiyosaki buys gold in 1972
 
-When gold was illegal for Americans to own in 1972, Kiyosaki began purchasing gold as his first commodity investment despite the legal restriction, illustrating how unconventional approaches can create opportunities others miss.
+When gold was illegal for Americans to own in 1972, Kiyosaki began purchasing gold as his first commodity investment despite the legal restriction.
 
 ### Example 3: Kiyosaki's nylon wallet business
 
@@ -68,14 +68,14 @@ Kiyosaki launched a nylon and velcro surfer wallet business that went worldwide 
 - ✅ Use debt as leverage for real estate and business acquisitions
 - ✅ Focus on cash flow from assets rather than accumulating a salary
 - ✅ Build businesses that generate income without requiring your daily presence
-- ✅ Read financial statements as your measure of wealth, not a Fair Isaac Corporation (FICO) credit score
+- ✅ Read financial statements, not a Fair Isaac Corporation (FICO) credit score
 - ❌ Don't rely on 401K plans, pensions, or Social Security as your retirement strategy
 - ❌ Don't take on student loans unless you know they cannot be discharged in bankruptcy
 - ❌ Don't assume your house is an asset if it costs you money through mortgage, taxes, and maintenance, it is a liability, not an asset.
 
 ## Keep In Mind
 
-- Schools teach you how to get a job, not how to get rich. Financial literacy is your responsibility.
+- Schools teach you how to get a job, not how to get rich.
 - The rules of money are written by the rich for the rich. He who has the gold makes the rules.
 - Having employees creates tax benefits for business owners that employees themselves do not receive.
 - Making a mistake is acceptable if you admit it; covering it up is what gets people fired.
@@ -83,11 +83,11 @@ Kiyosaki launched a nylon and velcro surfer wallet business that went worldwide 
 
 ## Security & Safety Notes
 
-- Student loan debt is the worst type of debt because it cannot be eliminated through bankruptcy, trapping you for life.
+- Student loan debt is the worst type of debt because it cannot be eliminated through bankruptcy.
 - Relying on a single paycheck makes you vulnerable to job loss, economic changes, and employer decisions.
 - Government programs like Social Security and pensions can be lost entirely.
 - Buying real estate with debt requires understanding cash flow, tax laws, and market cycles to avoid losses.
-- The fear of being fired or losing a pension drives most people to stay in miserable jobs rather than build real security.
+- The fear of being fired or losing a pension drives most people to stay in jobs rather than build security.
 
 ## Common Pitfalls
 
@@ -100,4 +100,4 @@ Kiyosaki launched a nylon and velcro surfer wallet business that went worldwide 
 - **Problem:** Using debt to fund consumption (cars, credit cards, vacations) instead of investment
   **Solution:** Restrict debt to acquisitions that produce income or offer tax benefits. If debt does not pay you, it is bad debt.
 - **Problem:** Thinking financial success requires a high salary
-  **Solution:** Focus on the gap between income and expenses, then invest the surplus into assets that grow independently of your labor.
+  **Solution:** Avoid spending every penny of a high income; instead, invest in assets that generate cash flow independent of your labor.

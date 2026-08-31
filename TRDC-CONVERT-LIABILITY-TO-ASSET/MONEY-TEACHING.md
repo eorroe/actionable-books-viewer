@@ -25,11 +25,11 @@ For any item you own or are considering buying, ask: does cash flow into your po
 
 ### Step 3: Buy Properties That Generate Positive Cash Flow
 
-When purchasing real estate, buy properties that you do not live in but rent out to tenants. The rental income should cover the mortgage, operating costs, taxes, and maintenance, with money still left over. Robert Kiyosaki bought his first investment property at age 25 for $18,000, and it put $25 per month in his pocket after all expenses. This is an infinite return because the tenant pays for the property while you build equity.
+When purchasing real estate, buy properties that you do not live in but rent out to tenants. The rental income should cover the mortgage, operating costs, taxes, and maintenance, with money still left over. Robert Kiyosaki bought his first investment property at age 25 for $18,000, and it put $25 per month in his pocket after all expenses. The tenant covered the mortgage and expenses while Kiyosaki built equity in the property.
 
 ### Step 4: Avoid Letting Expenses Grow With Your Income
 
-Do not fall into the middle-class trap of buying a bigger house every time you get a pay raise. This pattern keeps money flowing out through larger mortgage payments, higher property taxes, and increased upkeep costs. Instead, redirect raises into income-generating assets so that your cash flow pattern moves upward rather than sideways.
+Do not fall into the common pattern of buying a bigger house every time you get a pay raise. This pattern keeps money flowing out through larger mortgage payments, higher property taxes, and increased upkeep costs. Instead, redirect raises into income-generating assets so that your cash flow pattern moves upward rather than sideways.
 
 ### Step 5: Account for Human Liabilities in Your Financial Plan
 
@@ -55,7 +55,7 @@ A friend's mother required long-term care at a cost of $18,000 per month after h
 
 ### Example 4: Alimony as a Million-Dollar Liability
 
-Two friends who married and later divorced now pay a million dollars per year in alimony and child support. Their ex-wives are 40 years old with new partners, yet the financial obligation continues for years. This human liability could have been anticipated with adequate advance planning before marriage and family decisions.
+Two friends who married and later divorced now pay a million dollars per year in alimony and child support. Their ex-wives are 40 years old with new partners, yet the financial obligation continues for years. This liability could have been anticipated with planning before marriage and family decisions.
 
 ## Best Practices
 
@@ -74,7 +74,7 @@ Two friends who married and later divorced now pay a million dollars per year in
 
 - Cash flow is the only concept that truly matters when classifying something as an asset or liability
 - Financial IQ is about solving cash flow problems, not academic achievements
-- 95 percent of college graduates do not know what a financial statement is
+- 95 percent of all college graduates probably do not know what a financial statement is
 - Rich dad poor dad defines assets and liabilities by cash flow, not by what something is called
 - A car can be an asset if it generates income, such as a taxi or delivery vehicle
 - People can be both assets and liabilities depending on their financial impact on you

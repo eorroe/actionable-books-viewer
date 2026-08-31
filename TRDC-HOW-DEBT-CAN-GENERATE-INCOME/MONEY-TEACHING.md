@@ -4,7 +4,7 @@ How Debt Can Generate Income
 
 ## Overview
 
-Robert Kiyosaki presents debt as a financial tool rather than something to fear or eliminate. Debt is neither good nor bad in his framework — its value depends on cash flow direction. When borrowed money is used to acquire income-producing assets, it becomes "good debt" that builds wealth. When borrowed money funds consumption with no income return, it becomes "bad debt" that drains wealth.
+Robert Kiyosaki presents debt as a financial tool rather than something to fear or eliminate. Debt is classified as good or bad depending on how it is used — its value depends on cash flow direction. When borrowed money is used to acquire income-producing assets, it becomes "good debt" that builds wealth. When borrowed money funds consumption with no income return, it becomes "bad debt" that drains wealth.
 
 ## When to Follow These Money Teachings
 
@@ -27,7 +27,7 @@ Ask one question for every item you own or are considering purchasing: does it p
 
 ### Step 3: Classify Every Debt as Good or Bad
 
-Good debt is borrowed money used to purchase income-producing assets. Bad debt is borrowed money used for consumption that produces no income. Examples of bad debt include student loans taken without a clear graduation and career plan, credit card spending on luxury items, and personal consumer purchases.
+Good debt is borrowed money used to purchase income-producing assets. Bad debt is borrowed money used for consumption that produces no income. Student loan debt is bad debt because it cannot be discharged in bankruptcy. Other examples of bad debt include credit card spending on luxury items and personal consumer purchases.
 
 ### Step 4: Acquire Assets Using Good Debt
 
@@ -41,9 +41,9 @@ Monitor where your money goes every month. Employees have cash flow going out to
 
 ### Example 1: Rental Property Purchased With a Credit Card
 
-In the 1970s, Robert Kiyosaki bought his first investment property — a one-bedroom condo in Maui, Hawaii — using a credit card. The property cost $18,000. After taking real estate classes to learn how to evaluate deals, he identified an undervalued property, paid for it with his credit card, and rented it out. The rent covered the mortgage, operating costs, and left $25 per month in his pocket. That $25 represented positive cash flow, making the credit card debt "good debt." He wishes he had never sold that property, estimating it would be worth $400,000 to $500,000.
+In the 1970s, Robert Kiyosaki bought his first investment property — a one-bedroom condo in Maui, Hawaii — using a credit card. The property cost $18,000. After taking real estate classes to learn how to evaluate deals, he identified an undervalued property, paid for it with his credit card, and rented it out. The rent covered the mortgage, operating costs, and left $25 per month in his pocket. That $25 represented positive cash flow, making the credit card debt "good debt." Kiyosaki wishes he had never sold the property, noting that it is probably worth $400,000 to $500,000 today.
 
-### Example 2: Student Loan Debt Without a Career Plan
+### Example 2: Student Loan Debt With an Unwanted Career Outcome
 
 A friend of Alexandra's changed her college major three times and is now finished with a nursing degree she does not want. She is stuck paying back student loan debt for a career she does not intend to pursue. Because student loan debt cannot be discharged in bankruptcy, it becomes a financial burden. This is bad debt because it produces no income stream and cannot be escaped through legal means.
 
@@ -53,18 +53,18 @@ Most boats are liabilities because they cost money for docking, maintenance, fue
 
 ### Example 4: 6,500 Rental Properties Funded Entirely by Debt
 
-Robert and Kim Kiyosaki own 6,500 rental properties that are 100% financed with debt. Monthly, all 6,500 properties send them positive cash flow. Tenants pay the mortgages, and the Kiyosakis collect the surplus income. This demonstrates how good debt, used at scale with proper knowledge and structure, can generate passive income.
+Robert and Kim Kiyosaki own 6,500 rental properties that are 100% financed with debt. Monthly, the 6,500 properties send them positive cash flow. Tenants pay the mortgages, and the Kiyosakis collect the surplus income. This demonstrates how good debt, used at scale with proper knowledge and structure, can generate passive income.
 
 ## Best Practices
 
 - ✅ Evaluate every debt decision by tracing the cash flow direction — into your pocket or out of your pocket
 - ✅ Take real estate and financial education classes before using debt to acquire assets
 - ✅ Use credit cards to purchase income-producing assets, not consumer goods
-- ✅ Ensure you have a graduation and intended career outcome before taking on student loan debt
+- ✅ Ensure you are certain you will graduate before taking on student loan debt
 - ✅ Structure investments so the asset pays for its own expenses and still delivers positive cash flow
 - ✅ Continuously improve your financial intelligence by studying cash flow patterns
 - ❌ Do not assume a house you live in is an asset — it is a liability because it pulls money from your pocket through taxes, insurance, maintenance, and mortgage payments
-- ❌ Do not take on student loan debt unless you have absolute certainty that you will graduate and enter your intended career
+- ❌ Do not take on student loan debt unless you have absolute certainty that you will graduate.
 - ❌ Do not cut up credit cards unless you are unable to control your spending — credit cards are tools that can fund asset purchases
 
 ## Keep In Mind
@@ -77,7 +77,7 @@ Robert and Kim Kiyosaki own 6,500 rental properties that are 100% financed with 
 
 ## Security & Safety Notes
 
-- Student loan debt cannot be discharged in bankruptcy. Treat it as a lifelong commitment and only accept it with absolute certainty about your graduation and career path.
+- Student loan debt cannot be discharged in bankruptcy and remains owed for life. Only accept it if you are absolutely certain you will graduate.
 - Good debt requires targeted real estate knowledge. If you buy real estate without proper education, a single mistake can turn a potential asset into a financial liability.
 - Using credit cards for asset purchases requires the discipline to repay the card from asset income, not from wages or savings.
 - Entrepreneurship and real estate investing carry real risk. Never invest money you cannot afford to lose, and always have an exit strategy.
