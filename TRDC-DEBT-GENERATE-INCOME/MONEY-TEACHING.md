@@ -4,7 +4,7 @@ How to distinguish good debt from bad debt.
 
 ## Overview
 
-This money teaching explains the difference between good debt and bad debt.
+This money teaching explains that good debt is borrowing used to purchase cash-flowing assets where the income from the asset covers the debt payment and generates profit, while bad debt is borrowing used to buy consumables, depreciating items, or liabilities that take money out of your pocket each month.
 
 ## When to Follow These Money Teachings
 
@@ -18,11 +18,11 @@ Determine where the cash flows. If the money you borrow goes toward something th
 
 ### Step 2: Classify the intended purchase
 
-Student loan debt is classified as bad debt. The main reason it is bad debt is because it is the worst possible type of debt. If you get into trouble with business debt, you can declare bankruptcy and be clean, but student loan debt has a different consequence.
+Student loan debt is classified as bad debt. The main reason it is bad debt is because the borrower receives no collateral asset that generates income to cover the payments; additionally, Kiyosaki says of student loan debt, "you can't discharge that [through bankruptcy]. You know, it hangs around your neck for the rest of your life," unlike business debt which a borrower can discharge through bankruptcy.
 
 ## Best Practices
 
-- ✅ Use debt only for purchases that put money in your pocket
+- ✅ Use debt only when the asset or investment purchased generates enough cash flow to cover the debt payment and produce additional income
 - ✅ Cut up your credit cards if you cannot control your spending
 
 ## Keep In Mind
@@ -36,5 +36,5 @@ Student loan debt is classified as bad debt. The main reason it is bad debt is b
 
 ## Common Pitfalls
 
-- **Problem:** Thinking all debt must be eliminated to be financially safe.
-  **Solution:** Understand the difference between good debt and bad debt.
+- **Problem:** Thinking all debt must be eliminated because financial gurus say to "live totally debt free."
+  **Solution:** Apply the cash flow test to every debt: if the borrowed money is used for an asset that puts more money in your pocket than it takes out, keep the debt; if the borrowed money funds consumption or depreciating items that drain cash, eliminate it aggressively.

@@ -10,7 +10,7 @@ This teaching explains how to identify whether something in your financial life 
 - When evaluating if a family member or relationship is creating a cash flow drain
 - When planning for long-term care costs for aging parents or relatives
 - When learning the basics of financial literacy and understanding financial statements
-- When assessing whether your 401(k), IRA, or pension is truly building wealth
+- When assessing whether your 401(k) retirement savings plan, Individual Retirement Account (IRA), or pension is truly building wealth
 - When choosing between a job and investing in income-generating assets
 
 ## Steps
@@ -55,7 +55,7 @@ A friend's mother required long-term care at a cost of $18,000 per month after h
 
 ### Example 4: Alimony as a Million-Dollar Liability
 
-Two friends who married and later divorced now pay a million dollars per year in alimony and child support. Their ex-wives are 40 years old with new partners, yet the financial obligation continues. This liability could have been anticipated with planning before marriage and family decisions.
+Two friends married, got divorced, and now each pays a million dollars per year in alimony and child support. Kiyosaki cited this as an example of a human liability that can drain wealth. Their ex-wives are 40 years old with new partners, yet the financial obligation continues. This liability could have been anticipated with planning before marriage and family decisions.
 
 ## Best Practices
 
@@ -74,7 +74,7 @@ Two friends who married and later divorced now pay a million dollars per year in
 
 - Cash flow is the only concept that truly matters when classifying something as an asset or liability
 - Financial IQ is about solving cash flow problems, not academic achievements
-- 95 percent of all college graduates probably do not know what a financial statement is
+- 95 percent of all college graduates do not know what a financial statement is
 - Rich dad poor dad defines assets and liabilities by cash flow, not by what something is called
 - A car can be an asset if it generates income, such as a taxi or delivery vehicle
 - People can be both assets and liabilities depending on their financial impact on you
@@ -93,7 +93,7 @@ Two friends who married and later divorced now pay a million dollars per year in
 - **Problem:** Calling your personal house an asset and feeling wealthy because of home equity, while ignoring monthly cash outflows for taxes, upkeep, and mortgage
   **Solution:** Calculate your true cash flow from the property. If it costs you money every month, treat it as a liability on your financial statement regardless of its market value.
 
-- **Problem:** Believing a 401(k), IRA, or pension is a guaranteed asset without understanding the risks of market crashes, inflation, or policy changes
+- **Problem:** Believing a 401(k) retirement savings plan, Individual Retirement Account (IRA), or pension is a guaranteed asset without understanding the risks of market crashes, inflation, or policy changes
   **Solution:** Recognize that these accounts are subject to market risk, inflation risk, and counterparty risk. Diversify into tangible assets and income-producing investments that you control directly.
 
 - **Problem:** Failing to plan for aging parents or family members becoming financial liabilities, leading to rapid depletion of savings

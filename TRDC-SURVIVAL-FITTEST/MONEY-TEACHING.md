@@ -2,7 +2,7 @@
 
 ## Overview
 
-This money teaching explains how going to school actually diminishes your ability to get rich.
+This money teaching explains Robert Kiyosaki's view that school actually diminishes your ability to get rich by conditioning you for employee behavior rather than financial independence.
 
 ## When to Follow These Money Teachings
 
@@ -27,7 +27,7 @@ A college degree does not guarantee financial security. Robert Kiyosaki has a co
 
 ### Step 4: Redefine "Survival of the Fittest" for the Modern Economy
 
-In school, the "fittest" is the A student who follows rules and avoids mistakes. Kiyosaki says being a C student who learns from others and embraces failure can be better preparation for business than being an A student who fears mistakes.
+In school, the "fittest" is the A student who follows rules and avoids mistakes. Kiyosaki says: "I was a C student. And I found out that by cheating, I was actually preparing myself to do well in business."
 
 ### Step 5: Seek a Rich Dad or Mentor Who Teaches Money
 
@@ -45,7 +45,7 @@ Kiyosaki references Shawn Achor's research showing that the age of suicide is go
 
 ### Example 3: The A Student vs. The C Student
 
-Kiyosaki was a C student who learned by cooperating with classmates and making mistakes. He found that by asking smart people for help, he was preparing himself to do well in business.
+Kiyosaki says he was a "D, F, and C student" who learned by cooperating with classmates and making mistakes. He found that by asking smart people for help, he was preparing himself to do well in business.
 
 ## Best Practices
 
@@ -58,7 +58,7 @@ Kiyosaki was a C student who learned by cooperating with classmates and making m
 - According to Kiyosaki, academic credentials do not equal money knowledge.
 - According to Kiyosaki, schools teach individual competition rather than cooperation and learning from mistakes.
 - Kiyosaki's rich dad called asking smart people for help cooperation; his poor dad called it cheating.
-- According to Kiyosaki, the "fittest" in the modern economy are those who can learn from others and embrace failure.
+- According to Kiyosaki, the "fittest" in the modern economy are C students who prepare themselves for business by cooperating with smart people and learning from mistakes, not A students who fear failure.
 - Kiyosaki learned about money from his rich dad, not from school.
 
 ## Security & Safety Notes

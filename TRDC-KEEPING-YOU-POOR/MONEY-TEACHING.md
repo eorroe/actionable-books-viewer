@@ -2,7 +2,7 @@
 
 ## Overview
 
-This money teaching explains why relying on a paycheck, savings, and 401(k)s keeps most people poor, and shows how the rich build wealth by working for different types of income. It is based on Robert Kiyosaki's explanation of the four income types recognized by the tax code: earned income, portfolio income, passive income, and phantom income. The core message is that the government's tax structure punishes earned income and rewards investing, and financial education and a shift toward passive income streams help you avoid that outcome.
+This money teaching explains why relying on a paycheck, savings, and 401(k) retirement savings plans keeps most people poor, and shows how the rich build wealth by working for different types of income. It is based on Robert Kiyosaki's explanation of the four income types recognized by the tax code: earned income, portfolio income, passive income, and phantom income. The core message is that the government's tax structure punishes earned income and rewards investing, and financial education and a shift toward passive income streams help you avoid that outcome.
 
 ## When to Follow These Money Teachings
 
@@ -23,15 +23,15 @@ The government does not want you working for money; it punishes earned income an
 
 ### Step 3: Understand that traditional savings vehicles are heavily taxed
 
-Savings, 401(k)s, RRSPs (Registered Retirement Savings Plan), and superannuation funds are all taxed at the highest rates. Without understanding the tax consequences, people assume these are smart financial moves, but if you keep doing what you are doing, you will keep paying more taxes.
+"Savings and 401(k)s are taxed the highest types of income," Kiyosaki says. Without understanding the tax consequences, people assume these are smart financial moves, but if you keep doing what you are doing, you will keep paying more taxes.
 
 ### Step 4: Study financial statements and the tax code to find phantom income
 
-Phantom income refers to taxes you do not have to pay because the government offers incentives for qualifying behaviors such as investing in real estate or business ownership. For example, if your tax bill is $100,000 and the government gives you $50,000 in tax breaks for investing in real estate or business, that $50,000 stays in your pocket instead of going to the government. Financial education teaches you to read and use financial statements to identify these opportunities.
+Phantom income refers to taxes you do not have to pay because the government offers incentives for qualifying behaviors such as investing in real estate or business ownership. For example, let's say your tax bill is $100,000. By doing what the government wants, the government may give you a $50,000 tax break. That means $50,000 in taxes you don't have to pay. Financial education teaches you to read and use financial statements to identify these opportunities.
 
 ### Step 5: Choose an asset class and commit to learning it
 
-Select one area to focus on: business ownership, real estate, commodities (such as oil wells), or active stock investing. Kiyosaki emphasizes that you should become an active, professional investor in your chosen field rather than a passive participant. Becoming an active, professional investor takes years of work, study, seminars, and hands-on experience, because as Kiyosaki warns, "you can get hammered really easily" without proper education.
+Select one area to focus on: business ownership, real estate, commodities (such as oil wells), or active stock investing. Kiyosaki emphasizes that you should become a specialist in your chosen field—someone who commits to years of work to become a professional investor because financial education is practiced, study, lessons, and being a student—rather than a passive participant. Becoming a specialist in your chosen field takes years of work to become a professional investor because financial education is practiced, study, lessons, and being a student, because as Kiyosaki warns, "you can get hammered really easily" without proper education.
 
 ### Step 6: Start building passive income streams
 
@@ -53,11 +53,11 @@ Stop measuring success by how much money you make from a job. Instead, measure i
 
 ### Example 1: Ray Kroc and McDonald's
 
-Ray Kroc, the founder of McDonald's, was asked what business McDonald's is in. Most people, including MBA students at the University of Texas, answered "hamburgers." Kroc corrected them: McDonald's is a real estate company. By owning the land beneath each restaurant, McDonald's generates passive income, uses debt strategically, and pays no taxes. This is in stark contrast to a Mom and Pop hamburger stand where the owners work hard and pay the highest taxes on earned income.
+Ray Kroc, the founder of McDonald's, was asked what business McDonald's is in. Most people, including MBA (Master of Business Administration) students at the University of Texas, answered "hamburgers." Kroc corrected them: McDonald's is a real estate company. By owning the land beneath each restaurant, McDonald's generates passive income, uses debt strategically, and pays no taxes. This is in stark contrast to a Mom and Pop hamburger stand where the owners work hard and pay the highest taxes on earned income.
 
 ### Example 2: Alexandra Gonzalez's financial education journey
 
-Alexandra, featured in the video, explains that she was taught her entire life to work for earned income and that universities do not offer classes on portfolio or passive income. Through financial education outside of school, seminars, and working at the Rich Dad company, she learned about real estate investing and shifted her career goals toward building assets rather than relying on a paycheck. Her story illustrates the importance of seeking education outside traditional institutions.
+Alexandra, featured in the video, explains that she was taught her entire life to work for earned income. Through financial education outside of school, seminars, and working at the Rich Dad company, she learned about real estate investing and shifted her career goals toward building assets rather than relying on a paycheck. Her story illustrates the importance of seeking education outside traditional institutions.
 
 ### Example 3: Capital gains from real estate flipping
 
@@ -74,7 +74,7 @@ If your tax bill is $100,000 and you qualify for $50,000 in tax breaks by invest
 - ✅ Use debt strategically to acquire income-producing assets, not to fund consumption
 - ✅ Study financial statements and tax codes to understand phantom income opportunities
 - ✅ Accept that mistakes and losses are part of the learning process; start small and learn from each experience
-- ✅ Become an active, professional investor in your chosen field rather than a passive participant
+- ✅ Become a specialist in your chosen field—someone who commits to years of work to become a professional investor because financial education is practiced, study, lessons, and being a student—rather than a passive participant
 - ❌ Do not rely solely on a paycheck as your primary income source
 - ❌ Do not assume academic credentials alone prepare you for investing success
 - ❌ Do not avoid mistakes by staying in your comfort zone
@@ -87,7 +87,7 @@ If your tax bill is $100,000 and you qualify for $50,000 in tax breaks by invest
 - Financial education is not taught in traditional schools; you must seek it out yourself
 - Building wealth takes practice, study, and learning from mistakes
 - The rich work for passive income, not earned income
-- Academic success does not guarantee real-world investing success; practical skill matters more than memorized answers
+- Academic success does not guarantee real-world investing success; as Kiyosaki warns, academic types like his "poor dad" think memorizing a right answer is all they need
 - A working-class mindset that values earned income above all else is a trap; you must choose to work for the right type of income instead.
 
 ## Security & Safety Notes

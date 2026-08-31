@@ -19,7 +19,7 @@ Robert Kiyosaki presents debt as a financial tool rather than something to fear 
 
 ### Step 1: Learn the Six Words of Financial Intelligence
 
-Memorize and internalize these six words: income, expense, asset, liability, cash flow, and debt.
+Memorize and internalize these six words: income, expense, asset, liability, cash, flow.
 
 ### Step 2: Define Assets and Liabilities by Cash Flow
 
@@ -60,11 +60,11 @@ Robert and Kim Kiyosaki own 6,500 rental properties that are 100% financed with 
 - ✅ Evaluate every debt decision by tracing the cash flow direction — into your pocket or out of your pocket
 - ✅ Take real estate and financial education classes before using debt to acquire assets
 - ✅ Use credit cards to purchase income-producing assets, not consumer goods
-- ✅ Ensure you are absolutely 100% guaranteed that you will commit to graduating before taking on student loan debt
+- ✅ Ensure you absolutely 100% guaranteed that you'll commit to graduating before taking on student loan debt
 - ✅ Structure investments so the asset pays for its own expenses and still delivers positive cash flow
 - ✅ Never stop improving your financial intelligence by studying cash flow patterns
 - ❌ Do not assume a house you live in is an asset — it is a liability because it pulls money from your pocket through taxes, insurance, maintenance, and mortgage payments
-- ❌ Do not take on student loan debt unless you are absolutely 100% guaranteed that you will commit to graduating.
+- ❌ Do not take on student loan debt unless you absolutely 100% guaranteed that you'll commit to graduating.
 - ❌ Do not cut up credit cards unless you are unable to control your spending — credit cards are tools that can fund asset purchases
 
 ## Keep In Mind
@@ -77,7 +77,7 @@ Robert and Kim Kiyosaki own 6,500 rental properties that are 100% financed with 
 
 ## Security & Safety Notes
 
-- Student loan debt cannot be discharged in bankruptcy. It hangs around your neck for the rest of your life. Only accept it if you are absolutely 100% guaranteed that you will commit to graduating.
+- Student loan debt cannot be discharged in bankruptcy. It cannot be eliminated through bankruptcy and must still be repaid. Only accept it if you absolutely 100% guaranteed that you'll commit to graduating.
 - Good debt requires targeted real estate knowledge. If you buy real estate without proper education, a single mistake can turn a potential asset into a financial liability.
 - Using credit cards for asset purchases requires the discipline to repay the card from asset income, not from wages or savings.
 - Entrepreneurship and real estate investing carry real risk. Never invest money you cannot afford to lose.

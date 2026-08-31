@@ -14,7 +14,7 @@ This Money Teaching guides young people away from the common mistake of prioriti
 
 ### Step 1: Understand the Cashflow Quadrant
 
-Learn the four quadrants: E (Employee), S (Small Business/Self-employed), B (Big Business with at least 500 employees), and I (Investor). Recognize that E pays 40% in taxes and S pays 60% in taxes, and both require constant work. Aim to move toward B and I for financial freedom.
+Learn the four quadrants: E (Employee), S (Small Business/Self-employed), B (Big Business with at least 500 employees), and I (Investor). Recognize that E pays 40% in taxes, S pays 60%, B pays 20%, and I pays 0%, and both E and S require constant work. Aim to move toward B and I for financial freedom.
 
 ### Step 2: Shift Your Mindset from Doing to Investing
 
@@ -34,7 +34,7 @@ Invest in tangible assets you love such as food (avocado farms), oil, gold, and 
 
 ### Step 6: Understand Liquidity and Risk
 
-Paper assets (stocks, bonds, mutual funds, ETFs, 401(k), IRA) are liquid and have lower barriers to entry but lower potential returns. Real estate, businesses, and commodities are illiquid but have higher potential returns. The less liquid the asset, the more financial education and study you need before investing. You can make mistakes with liquid assets and recover; illiquid mistakes are harder to fix.
+Paper assets (stocks, bonds, mutual funds, Exchange Traded Funds (ETFs), 401(k) retirement savings plan, Individual Retirement Account (IRA)) are liquid and have lower barriers to entry but lower potential returns. Real estate, businesses, and commodities are illiquid but have higher potential returns. The less liquid the asset, the more financial education and study you need before investing. You can make mistakes with liquid assets and recover; illiquid mistakes are harder to fix.
 
 ## Examples
 
@@ -60,8 +60,9 @@ Kiyosaki invests only in properties he loves. He looks at numbers, houses, and l
 
 ## Keep In Mind
 
+- Real estate and business investing present a circular dependency: you need business income to fund real estate purchases, but you often need real estate as collateral to build business capital — break the cycle by starting a business first, then using those profits to acquire property
 - One of the most important things you have in your life is time. It's one of your greatest assets or your liability - when you're young, having fun instead of learning can make time a liability
-- The higher the risk, the greater the potential returns, but also the greater the dedication, education, and study required
+- Kiyosaki says: "the higher the risk, the higher the returns, but also the higher dedication, education, and study you have to go through"
 - You can get rich in the E and S quadrants, but you'll pay 40% to 60% in taxes
 - Young people often think they can delay financial education, but time passes quickly
 - Passion is greedy; purpose is for the people

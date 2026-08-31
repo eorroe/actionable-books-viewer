@@ -2,7 +2,7 @@
 
 ## Overview
 
-Traditional education trains students to get jobs and work for paychecks, leaving them dependent on employers and vulnerable to job loss, lost pensions, and economic changes. Robert Kiyosaki teaches that the wealthy instead focus on acquiring assets—businesses, real estate, and commodities—that generate cash flow, making never needing a paycheck the goal rather than a secure paycheck.
+Traditional education trains students to get jobs and work for paychecks, leaving them dependent on employers and vulnerable to job loss, lost pensions, and losing all security they were promised. Robert Kiyosaki teaches that the wealthy instead focus on acquiring assets—businesses, real estate, and commodities—that generate cash flow, making never needing a paycheck the goal rather than a secure paycheck.
 
 ## When to Follow These Money Teachings
 
@@ -17,14 +17,14 @@ Traditional education trains students to get jobs and work for paychecks, leavin
 
 ### Step 1: Reject the paycheck as the ultimate goal
 
-Stop pursuing a job as the promised outcome of education. Recognize that working for money makes you dependent on an employer, subject to higher taxes, and vulnerable to being fired or losing a pension. Set your goal to never need a paycheck again from any source, including the government.
+Stop pursuing a job as the promised outcome of education. Recognize that, according to Kiyosaki, working for money makes you dependent on an employer and subject to higher taxes than business owners and investors with asset income, and vulnerable to being fired or losing a pension. Set your goal to never need a paycheck again from any source, including the government.
 
 ### Step 2: Understand the four asset classes
 
 Learn the four asset classes and their tax implications:
 - **Businesses** — generate cash flow and provide tax benefits through employees
 - **Real estate** — allows use of debt as leverage and offers tax breaks
-- **Paper assets** — savings, stocks, bonds, mutual funds, Exchange Traded Funds (ETFs), and 401Ks pay more taxes and require more work
+- **Paper assets** — savings, stocks, bonds, mutual funds, Exchange Traded Funds (ETFs), and 401Ks. As Kiyosaki states, \"These people pay the highest taxes. And they work the hardest.\"
 - **Commodities** — gold, silver, oil, land, water, and food
 
 ### Step 3: Choose which asset class to focus on first
@@ -33,7 +33,7 @@ Decide which quadrant aligns with your skills and risk tolerance. Start with one
 
 ### Step 4: Use debt strategically for real estate
 
-Learn to use other people's money (debt) to acquire income-producing real estate. Unlike paper assets, real estate purchased with debt provides tax advantages. Understand that most people are trained to fear debt, while Kiyosaki uses it to acquire income-producing real estate and pay no taxes.
+Learn to use other people's money (debt) to acquire income-producing real estate. Unlike paper assets, Kiyosaki teaches that real estate purchased with debt provides tax advantages. Understand that most people are trained to fear debt, while Kiyosaki uses it to acquire income-producing real estate and pay no taxes.
 
 ### Step 5: Build or buy a business
 
@@ -84,10 +84,10 @@ Kiyosaki launched a nylon and velcro surfer wallet business that ultimately fail
 ## Security & Safety Notes
 
 - Student loan debt is the worst type of debt because it cannot be eliminated through bankruptcy.
-- Relying on a single paycheck exposes you to the risk of job loss, economic changes, and employer decisions.
+- Relying on a single paycheck exposes you to the risk of job loss, losing all security you were promised, and employer decisions.
 - Government programs like Social Security and pensions can be lost entirely.
 - Buying real estate with debt requires understanding cash flow, tax laws, and market cycles to avoid losses.
-- According to Kiyosaki, fear of being fired or losing a pension drives people to stay in jobs rather than build security.
+- According to Kiyosaki, the biggest terror of most people—being fired or losing a pension—drives people to stay in jobs rather than build security.
 
 ## Common Pitfalls
 
@@ -96,7 +96,7 @@ Kiyosaki launched a nylon and velcro surfer wallet business that ultimately fail
 - **Problem:** Confusing a primary residence with an investment asset
   **Solution:** Run a cash flow test: if the property costs you money through mortgage, taxes, and maintenance, it is a liability, not an asset.
 - **Problem:** Investing exclusively in paper assets like a 401K because "that is what everyone does"
-  **Solution:** Study the tax treatment of every asset class and build a portfolio that includes assets with better tax advantages and cash flow characteristics.
+  **Solution:** Study the tax treatment of every asset class and build a portfolio that includes assets with more favorable tax treatment than paper assets and stronger cash flow characteristics.
 - **Problem:** Using debt to fund consumption (cars, credit cards, vacations) instead of investment
   **Solution:** Restrict debt to acquisitions that produce income or offer tax benefits. If debt does not pay you, it is bad debt.
 - **Problem:** Believing that employment alone provides financial security
