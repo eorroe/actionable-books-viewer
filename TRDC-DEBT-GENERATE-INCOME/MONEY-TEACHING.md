@@ -1,10 +1,8 @@
 # How to Distinguish Good Debt from Bad Debt
 
-How to distinguish good debt from bad debt.
-
 ## Overview
 
-This money teaching explains that good debt is borrowing used to purchase cash-flowing assets where the income from the asset covers the debt payment and generates profit, while bad debt is borrowing used to buy consumables, depreciating items, or liabilities that take money out of your pocket each month.
+This money teaching explains that good debt is borrowing used to purchase cash-flowing assets that put cash in your pocket, while bad debt is borrowing used to buy consumables, depreciating items, or liabilities that take money out of your pocket each month.
 
 ## When to Follow These Money Teachings
 
@@ -18,21 +16,21 @@ Determine where the cash flows. If the money you borrow goes toward something th
 
 ### Step 2: Classify the intended purchase
 
-Student loan debt is classified as bad debt. The main reason it is bad debt is because the borrower receives no collateral asset that generates income to cover the payments; additionally, Kiyosaki says of student loan debt, "you can't discharge that [through bankruptcy]. You know, it hangs around your neck for the rest of your life," unlike business debt which a borrower can discharge through bankruptcy.
+Student loan debt is bad debt. The main reason it is bad debt is because it's the worst possible type of debt. You see if I get into trouble as a businessman with debt I can declare bankruptcy and I'm clean. But the trouble with student loan debt, you can't discharge that [through bankruptcy]. You know, it hangs around your neck.
 
 ## Best Practices
 
 - ✅ Use debt only when the asset or investment purchased generates enough cash flow to cover the debt payment and produce additional income
-- ✅ Cut up your credit cards if you cannot control your spending
+- ✅ If you cannot control your spending, cut up your credit cards; an alternative for practical expenses like hotels, car rentals, and dining is to use a debit card or pay off your credit card balance in full each month
 
 ## Keep In Mind
 
-- Debt is a four letter word for most people, but it can be powerful and used in a good way to generate money
-- Student loan debt is the worst type of bad debt.
+- Debt is a four letter word for most people — meaning the word "debt" itself carries the same stigma as a profanity (a "four-letter word"), evoking shame and fear — but it can be powerful and used in a good way to generate money
+- Student loan debt is among the most burdensome forms of bad debt for many borrowers.
 
 ## Security & Safety Notes
 
-- Student loan debt has a different consequence than other types of debt.
+- In most cases, student loan debt cannot be discharged in bankruptcy, unlike many other types of unsecured debt, though rare exceptions exist under specific legal circumstances.
 
 ## Common Pitfalls
 

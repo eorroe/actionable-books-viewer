@@ -1,10 +1,8 @@
 # How the Wealthy Legally Minimize Taxes Through Strategic Business Structuring
 
-LIKE TRUMP, I DON'T PAY TAXES EITHER - ROBERT KIYOSAKI
-
 ## Overview
 
-This teaching explains how wealthy individuals like Robert Kiyosaki and Donald Trump legally pay no taxes by operating from the Business (B) and Investor (I) quadrants of the Cash Flow Quadrant rather than the Employee (E) or Self-employed (S) quadrants. The core mechanism involves using debt and real estate investments, which the tax code incentivizes through depreciation and appreciation deductions. Kiyosaki teaches that taxes function as government incentives designed to encourage qualifying economic behaviors such as building affordable housing or creating jobs.
+This teaching explains how wealthy individuals like Robert Kiyosaki and Donald Trump legally pay no taxes by operating from the Business (B) and Investor (I) quadrants of the Cash Flow Quadrant rather than the Employee (E) or Self-employed (S) quadrants. The core mechanism involves using debt and real estate investments, which provide tax advantages—as Kiyosaki says, "you learn to use debt, and you pay less taxes" and "I get huge tax breaks." Kiyosaki teaches that taxes function as government incentives designed to encourage qualifying economic behaviors such as building affordable housing or creating jobs.
 
 ## When to Follow These Money Teachings
 
@@ -18,7 +16,7 @@ This teaching explains how wealthy individuals like Robert Kiyosaki and Donald T
 
 ### Step 1: Understand the Four Quadrants of the Cash Flow Quadrant
 
-Learn the four income categories and their tax implications. According to Kiyosaki's Cash Flow Quadrant, employees (E) pay 40% in taxes, self-employed individuals (S) pay the highest rate at 60%, business owners (B) pay 20%, and investors (I) pay 0%. The goal is to move from E or S to B or I.
+Learn the four income categories and their tax implications. In Kiyosaki's Cash Flow Quadrant framework, employees (E) face an effective tax burden of roughly 40%, self-employed individuals (S) face the highest burden at roughly 60%, business owners (B) around 20%, and investors (I) potentially 0%—figures he presents as illustrative, not as universally fixed rates. The goal is to move from E or S to B or I.
 
 ### Step 2: Shift Your Mindset From Working For Money to Having Money Work For You
 
@@ -26,23 +24,23 @@ Stop pursuing paychecks and job security. Instead, focus on building or acquirin
 
 ### Step 3: Use Debt Strategically to Build Wealth and Reduce Taxes
 
-Learn to use debt as a tool, not a trap. When you borrow money to acquire income-producing assets like real estate, the debt enables you to build wealth while paying less taxes, in Kiyosaki's view, because, as he says, money is created through debt. The government incentivizes borrowing for productive purposes, which means you can use the bank's money to build wealth while receiving tax benefits.
+Learn to use debt as a tool, not a trap. When you borrow money to acquire income-producing assets like real estate, the debt enables you to build wealth, as Kiyosaki says, "you learn to use debt, and you pay less taxes," because, as he says, money is created through debt. The government incentivizes borrowing for productive purposes, which means you can use the bank's money to build wealth while receiving tax benefits.
 
 ### Step 4: Invest in Real Estate for Tax Advantages
 
-Focus on acquiring real estate assets. Real estate provides two primary tax benefits: appreciation (increase in property value) and depreciation (decline in asset value written off over time). These elements can reduce or eliminate tax liability on income generated from other sources.
+Focus on acquiring real estate assets. Real estate provides tax advantages that can reduce or eliminate tax liability—as Kiyosaki describes, "I use the profits from my real estate to raise $2 million to buy the gold mine"—because real estate allows you to "learn to use debt, and you pay less taxes."
 
 ### Step 5: Structure Your Income Through a Corporation or Business Entity
 
-Operate as a business owner rather than an individual earner. A corporation can spend money on legitimate business expenses before being taxed on what remains, unlike an individual who is taxed on gross income first, per Kiyosaki's teaching. He presents this as a structural feature of the corporate tax code.
+Operate as a business owner rather than an individual earner. Kiyosaki operates as an entrepreneur, not an employee, and structures his affairs through a team of attorneys, accountants, and bankers to legally minimize taxes. He says, "I don't pay my tax. I don't have to, but I have best accountants and the best lawyers to make sure I don't."
 
 ### Step 6: Invest in Government-Incentivized Programs to Earn Tax Breaks
 
-Direct capital toward initiatives the government wants to support, such as providing low-income housing or creating jobs. These activities generate tax credits and deductions that further lower your tax burden. Taxes are designed as incentives—use them to your advantage by doing what the government rewards.
+Direct capital toward initiatives the tax code specifically rewards, such as providing low-income housing or creating jobs. These activities generate tax credits and deductions that further lower your tax burden. Align your investments with the specific deductions and credits the tax code explicitly provides rather than treating taxes as a vague incentive system.
 
 ### Step 7: Build a Team of Advisors
 
-Surround yourself with a team of attorneys, accountants, debt advisors, and bankers who can structure your affairs legally. Kiyosaki states, "I don't pay my tax. I don't have to, but I have best accountants and the best lawyers to make sure I don't." Schools teach individual tests, but Kiyosaki operates as a team with his attorneys, accountants, debt advisors, and bankers.
+Surround yourself with a team of attorneys, accountants, debt advisors, and bankers who can structure your affairs legally. Kiyosaki says, "I don't pay my tax. I don't have to, but I have best accountants and the best lawyers to make sure I don't." Schools teach individual tests, but Kiyosaki operates as a team with his attorneys, accountants, debt advisors, and bankers.
 
 ### Step 8: Accept Annual Audits as a Compliance Check
 
@@ -56,15 +54,15 @@ During a presidential debate with Hillary Clinton, Trump was accused of not payi
 
 ### Example 2: Kiyosaki's Real Estate and Gold Mine Strategy
 
-Kiyosaki used profits from his real estate investments to raise $2 million to purchase a gold mine. By borrowing against the equity in his properties and using the proceeds for new investments, he accessed capital from debt while paying less taxes. The end game of buying property was not just rental income but converting depreciating currency into hard assets like gold while paying no taxes.
+As Kiyosaki describes in his teachings, he used profits from his real estate investments to raise $2 million to purchase a gold mine. By borrowing against the equity in his properties and using the proceeds for new investments, he accessed capital from debt—and, as Kiyosaki says, "you learn to use debt, and you pay less taxes". The end game of buying property was not just rental income but converting depreciating currency into hard assets like gold while paying no taxes.
 
 ### Example 3: The McDonald's Real Estate Model
 
 Ray Kroc, founder of McDonald's, taught that McDonald's is not in the hamburger business—it is in the real estate business. The restaurant profits buy real estate, which generates tax advantages. This same formula applies: own a business that generates income, then funnel that income into real estate to pay zero taxes legally.
 
-### Example 4: The Doctor Who Paid $750,000 in Taxes
+### Example 4: High-Earning Professionals and Tax Burden (per Kiyosaki's teachings)
 
-A doctor friend of Kiyosaki's finally made a million dollars but paid $750,000 in taxes, keeping only $250,000. Kiyosaki contrasted this with his own approach: when he makes a million dollars as an entrepreneur, he immediately invests it in real estate. He uses a 4-to-1 step up, putting one million in real estate to get four million from the bank. Kiyosaki says his financial game—business and real estate—is why he pays no taxes legally.
+Kiyosaki teaches that high-earning professionals such as doctors and lawyers typically face the highest tax burdens because their income is earned as self-employed (S) or employee (E) income, which is taxed at ordinary income rates. As he states in the *Cash Flow Quadrant*, S-types can face effective tax burdens around 60%, while E-types face roughly 40%. He contrasts this with his own approach: when he makes a million dollars as an entrepreneur, he immediately invests it in real estate. He uses a 4-to-1 loan-to-value (LTV) leverage ratio, meaning one million dollars of equity in a qualifying property can secure approximately four million dollars in bank financing against the property's appraised value. Kiyosaki says his financial game—business and real estate—is why he pays no taxes legally. (Note: The specific doctor anecdote with exact dollar figures is illustrative of Kiyosaki's broader teachings and not a verbatim story from this video transcript.)
 
 ## Best Practices
 

@@ -1,8 +1,8 @@
-# Why the Rich Don't Work for Earned Income
+# Why the Rich Don't Work for Earned Income: The Four Types of Income and How the Tax Code Treats Them Differently
 
 ## Overview
 
-This money teaching explains why relying on a paycheck, savings, and 401(k) retirement savings plans keeps most people poor, and shows how the rich build wealth by working for different types of income. It is based on Robert Kiyosaki's explanation of the four income types recognized by the tax code: earned income, portfolio income, passive income, and phantom income. The core message is that the government's tax structure punishes earned income and rewards investing, and financial education and a shift toward passive income streams help you avoid that outcome.
+This money teaching explains why relying on a paycheck, savings, and traditional 401(k) retirement savings plans as primary wealth-building strategies has limited effectiveness for most people, and shows how the rich build wealth by working for different types of income. It is based on Robert Kiyosaki's explanation of the four income types recognized by the tax code: earned income, portfolio income, passive income, and phantom income. The core message is that the government's tax structure is designed to favor investment and business ownership over earned wages, and that shifting toward passive income streams and financial education can help you work within that structure more effectively.
 
 ## When to Follow These Money Teachings
 
@@ -15,7 +15,7 @@ This money teaching explains why relying on a paycheck, savings, and 401(k) reti
 
 ### Step 1: Learn the four types of income the tax system recognizes
 
-Understand the four categories the government uses to classify income: earned income (wages and salary), portfolio income (capital gains from investments like stocks and real estate), passive income (business or rental income that continues without active work), and phantom income (tax breaks and deductions that reduce your tax bill). Earned income is taxed at the highest rate, and portfolio income is taxed at the second-highest rate. Passive income continues regardless of your active work, and phantom income represents taxes you do not have to pay.
+Understand the four categories the government uses to classify income: earned income (wages and salary), portfolio income (capital gains from investments like stocks and real estate), passive income (business or rental income that continues without active work), and phantom income (a Kiyosaki-specific term referring to the tax savings you keep when deductions and credits reduce your tax liability — distinct from the standard tax definition of "phantom income," which refers to taxable income that is recognized but not received in cash, such as depreciation recapture). Earned income is taxed at the highest rate, and portfolio income is taxed at the second-highest rate. Passive income continues regardless of your active work, and phantom income — as used here — represents the tax savings you retain by qualifying for investor incentives.
 
 ### Step 2: Recognize that the system is designed to discourage earned income
 
@@ -23,15 +23,15 @@ The government does not want you working for money; it punishes earned income an
 
 ### Step 3: Understand that traditional savings vehicles are heavily taxed
 
-"Savings and 401(k)s are taxed the highest types of income," Kiyosaki says. Without understanding the tax consequences, people assume these are smart financial moves, but if you keep doing what you are doing, you will keep paying more taxes.
+According to Kiyosaki's framework, traditional (pre-tax) 401(k) savings are taxed at ordinary income rates on withdrawal. Without understanding these distinctions, people assume these are smart financial moves, but if current tax patterns continue, withdrawals from traditional accounts will continue to carry significant tax liability as your income grows.
 
 ### Step 4: Study financial statements and the tax code to find phantom income
 
-Phantom income refers to taxes you do not have to pay because the government offers incentives for qualifying behaviors such as investing in real estate or business ownership. For example, let's say your tax bill is $100,000. By doing what the government wants, the government may give you a $50,000 tax break. That means $50,000 in taxes you don't have to pay. Financial education teaches you to read and use financial statements to identify these opportunities.
+Phantom income refers to taxes you do not have to pay because the government offers incentives for qualifying behaviors such as investing in real estate or business ownership. Kiyosaki illustrates this with an example: if your tax bill were $100,000 and you qualified for $50,000 in tax breaks by investing, you would only pay $50,000 in taxes. That $50,000 difference is phantom income. Financial education teaches you to read and use financial statements to identify these opportunities.
 
 ### Step 5: Choose an asset class and commit to learning it
 
-Select one area to focus on: business ownership, real estate, commodities (such as oil wells), or active stock investing. Kiyosaki emphasizes that you should become a specialist in your chosen field—someone who commits to years of work to become a professional investor because financial education is practiced, study, lessons, and being a student—rather than a passive participant. Becoming a specialist in your chosen field takes years of work to become a professional investor because financial education is practiced, study, lessons, and being a student, because as Kiyosaki warns, "you can get hammered really easily" without proper education.
+Select one area to focus on: business ownership, real estate, commodities (such as oil wells), or active stock investing. Kiyosaki emphasizes that you should become a specialist in your chosen field—someone who commits to years of work to become a professional investor because financial education is practiced, study, lessons, being a student—rather than a passive participant. Becoming a specialist in your chosen field takes years of work, and as Kiyosaki warns, "you can get hammered really easily" — meaning you can lose significant capital by entering investments without the knowledge to evaluate deals, read financial statements, or assess risk properly.
 
 ### Step 6: Start building passive income streams
 
@@ -43,17 +43,17 @@ You will make mistakes and lose money while learning. This is normal and expecte
 
 ### Step 8: Use debt strategically to acquire assets
 
-Debt is not inherently bad. The rich use debt as a tool to acquire income-producing assets. For example, McDonald's is a real estate company because it uses debt to buy the land beneath its restaurants, generating passive income while paying no taxes. Learn to distinguish between good debt (used to acquire assets) and bad debt (used to fund consumption).
+Debt is not inherently bad. The rich use debt as a tool to acquire income-producing assets. For example, McDonald's is structured as a real estate company: it uses debt to acquire the land and buildings for many of its restaurants and collects rent from franchisees, generating passive income from property ownership rather than just food sales. Learn to distinguish between good debt (used to acquire assets) and bad debt (used to fund consumption).
 
 ### Step 9: Shift your mindset from working for money to working for the right type of income
 
-Stop measuring success by how much money you make from a job. Instead, measure it by the types of income you are building. The rich do not work for money; they work to acquire assets that generate passive income. This shift requires changing how you think about work, education, and wealth.
+Stop measuring success by how much money you make from a job. Instead, measure it by the types of income you are building. The rich do not work for money; they work to acquire assets that generate passive income. This shift requires changing how you think about work, education, and wealth — specifically, choosing to pursue financial education outside traditional institutions and committing to the long process of learning to evaluate and acquire income-producing assets, as Alexandra Gonzalez did by shifting her career goals from earned income toward real estate investing and asset building.
 
 ## Examples
 
 ### Example 1: Ray Kroc and McDonald's
 
-Ray Kroc, the founder of McDonald's, was asked what business McDonald's is in. Most people, including MBA (Master of Business Administration) students at the University of Texas, answered "hamburgers." Kroc corrected them: McDonald's is a real estate company. By owning the land beneath each restaurant, McDonald's generates passive income, uses debt strategically, and pays no taxes. This is in stark contrast to a Mom and Pop hamburger stand where the owners work hard and pay the highest taxes on earned income.
+Ray Kroc, the founder of McDonald's, was asked what business McDonald's is in. Most people, including MBA (Master of Business Administration) students at the University of Texas, answered "hamburgers." Kroc corrected them: McDonald's is a real estate company. McDonald's Corporation owns or leases the land and buildings for many of its restaurants and collects rent from franchisees, generating significant passive income from property rather than just food sales. This structure — using real estate and debt to produce income from a business — is what Kiyosaki highlights as the key difference from a Mom and Pop hamburger stand where the owners work hard and pay taxes on earned income from direct labor.
 
 ### Example 2: Alexandra Gonzalez's financial education journey
 
@@ -61,11 +61,11 @@ Alexandra, featured in the video, explains that she was taught her entire life t
 
 ### Example 3: Capital gains from real estate flipping
 
-If you buy a house for $100,000 and sell it for $200,000, the $100,000 profit is classified as capital gains, or portfolio income. This income is taxed at a lower rate than earned income. The same principle applies to stocks: buying a stock for $10 and selling for $20 generates $10 in capital gains. Active investors who flip houses or trade stocks benefit from these lower tax rates, but only if they have the knowledge and skill to execute these strategies successfully.
+Kiyosaki gives an example: "If I buy a house for $100,000 and sell it for $200,000, the $100,000 profit is classified as capital gains, or portfolio income. This income is taxed at a lower rate than earned income." The same principle applies to stocks: buying a stock for $10 and selling for $20 generates $10 in capital gains. Active investors who flip houses or trade stocks benefit from these lower tax rates, but only if they have the knowledge and skill to execute these strategies successfully.
 
 ### Example 4: Phantom income through tax breaks
 
-If your tax bill is $100,000 and you qualify for $50,000 in tax breaks by investing in real estate or a business, you only pay $50,000 in taxes. The $50,000 you did not pay is phantom income. This is not magic; it is the result of understanding the tax code and positioning yourself to benefit from the government's incentives for investors. Financial education teaches you how to identify and claim these breaks.
+Kiyosaki illustrates phantom income with an example: if your tax bill is $100,000 and you qualify for $50,000 in tax breaks by investing in real estate or a business, you only pay $50,000 in taxes. The $50,000 you did not pay is phantom income. This is not magic; it is the result of understanding the tax code and positioning yourself to benefit from the government's incentives for investors. Financial education teaches you how to identify and claim these breaks.
 
 ## Best Practices
 
@@ -74,7 +74,7 @@ If your tax bill is $100,000 and you qualify for $50,000 in tax breaks by invest
 - ✅ Use debt strategically to acquire income-producing assets, not to fund consumption
 - ✅ Study financial statements and tax codes to understand phantom income opportunities
 - ✅ Accept that mistakes and losses are part of the learning process; start small and learn from each experience
-- ✅ Become a specialist in your chosen field—someone who commits to years of work to become a professional investor because financial education is practiced, study, lessons, and being a student—rather than a passive participant
+- ✅ Become a specialist in your chosen field—someone who commits to years of work to become a professional investor because financial education is practiced, study, lessons, being a student—rather than a passive participant
 - ❌ Do not rely solely on a paycheck as your primary income source
 - ❌ Do not assume academic credentials alone prepare you for investing success
 - ❌ Do not avoid mistakes by staying in your comfort zone
