@@ -17,7 +17,7 @@ This teaching explains how to identify whether something in your financial life 
 
 ### Step 1: Master the Six Words of Financial Literacy
 
-Learn and internalize the six essential words: income, expense, asset, liability, cash, and flow. These are the building blocks of every financial statement. Understand that your FICO score measures trustworthiness with borrowing money, not your ability to build wealth. Financial education begins with knowing what these terms mean and how they interact on a financial statement.
+Learn and internalize the six essential words: income, expense, asset, liability, cash, and flow. These are the building blocks of every financial statement. Understand that your FICO score (a numerical credit rating used by lenders) measures trustworthiness with borrowing money, not your ability to build wealth. Financial education begins with knowing what these terms mean and how they interact on a financial statement.
 
 ### Step 2: Apply the Cash Flow Test
 
@@ -37,7 +37,7 @@ Recognize that people can be either assets or liabilities. Children, aging paren
 
 ### Step 6: Control Your Cash Flow Intelligence
 
-Develop the habit of asking about every financial decision: will this put money in my pocket or take it out? Over time, this practice builds financial IQ. Wealth is not determined by how much money you make, but by how much money you keep and how hard it works for you. Focus on acquiring assets that generate passive income rather than relying solely on earned income from a job.
+Develop the habit of asking about every financial decision: will this put money in my pocket or take it out? Over time, this practice builds financial IQ — the ability to control cash flow. Wealth is not determined by how much money you make, but by how much money you keep and how hard it works for you. Focus on acquiring assets that generate passive income rather than relying solely on earned income from a job.
 
 ## Examples
 
@@ -47,7 +47,7 @@ A house that you live in requires mortgage payments, property taxes, insurance, 
 
 ### Example 2: NFL Players Who Go Broke
 
-National Football League players who earn millions of dollars in their 20s most go broke within two years because they cannot control cash flow. Despite enormous income, expenses and liabilities consume their earnings. This demonstrates that high income alone does not create wealth; controlling the direction of cash flow does.
+National Football League players who earn millions of dollars in their 20s go broke within two years because they cannot control cash flow. Despite enormous income, expenses and liabilities consume their earnings. This demonstrates that high income alone does not create wealth; controlling the direction of cash flow does.
 
 ### Example 3: Long-Term Care Costs for a Parent
 
@@ -55,7 +55,7 @@ A friend's mother required long-term care at a cost of $18,000 per month after h
 
 ### Example 4: Alimony as a Million-Dollar Liability
 
-Two friends who married and later divorced now pay a million dollars per year in alimony and child support. Their ex-wives are 40 years old with new partners, yet the financial obligation continues for years. This liability could have been anticipated with planning before marriage and family decisions.
+Two friends who married and later divorced now pay a million dollars per year in alimony and child support. Their ex-wives are 40 years old with new partners, yet the financial obligation continues. This liability could have been anticipated with planning before marriage and family decisions.
 
 ## Best Practices
 
@@ -78,7 +78,7 @@ Two friends who married and later divorced now pay a million dollars per year in
 - Rich dad poor dad defines assets and liabilities by cash flow, not by what something is called
 - A car can be an asset if it generates income, such as a taxi or delivery vehicle
 - People can be both assets and liabilities depending on their financial impact on you
-- Insurance companies are canceling long-term care policies, leaving families responsible for these costs
+- Insurance companies can cancel long-term care policies: a friend's mother had her policy canceled, leaving her family responsible for $18,000 per month in costs
 
 ## Security & Safety Notes
 

@@ -4,7 +4,7 @@ How Debt Can Generate Income
 
 ## Overview
 
-Robert Kiyosaki presents debt as a financial tool rather than something to fear or eliminate. Debt is classified as good or bad depending on how it is used — its value depends on cash flow direction. When borrowed money is used to acquire income-producing assets, it becomes "good debt" that builds wealth. When borrowed money funds consumption with no income return, it becomes "bad debt" that drains wealth.
+Robert Kiyosaki presents debt as a financial tool rather than something to fear or eliminate. Debt is classified as good or bad depending on how it is used — whether it is good or bad depends on cash flow direction. When borrowed money is used to acquire income-producing assets, it becomes "good debt" that builds wealth. When borrowed money funds consumption with no income return, it becomes "bad debt" that drains wealth.
 
 ## When to Follow These Money Teachings
 
@@ -19,7 +19,7 @@ Robert Kiyosaki presents debt as a financial tool rather than something to fear 
 
 ### Step 1: Learn the Six Words of Financial Intelligence
 
-Memorize and internalize these six words: income, expense, asset, liability, cash flow, and debt. Financial intelligence is measured by your ability to control the direction of cash flow, not by your job title, degrees, or income level.
+Memorize and internalize these six words: income, expense, asset, liability, cash flow, and debt.
 
 ### Step 2: Define Assets and Liabilities by Cash Flow
 
@@ -35,7 +35,7 @@ Borrow money specifically to buy income-generating assets such as rental propert
 
 ### Step 5: Control the Direction of Cash Flow
 
-Monitor where your money goes every month. Employees have cash flow going out to taxes, mortgage payments, and living expenses. Entrepreneurs and investors structure their affairs so that cash flow moves toward them through asset income. This control of cash flow is the core skill of the financially intelligent, enabling them to solve cash flow problems.
+Monitor where your money goes every month. Employees have cash flow going out to taxes, mortgage payments, and living expenses. Entrepreneurs and investors structure their affairs so that cash flow moves toward them through asset income. If you want to be successful as an employee or entrepreneur, you must control the direction of your cash flow.
 
 ## Examples
 
@@ -49,7 +49,7 @@ A friend of Alexandra's changed her college major three times and is now finishe
 
 ### Example 3: A Boat That Generates Income
 
-Most boats are liabilities because they cost money for docking, maintenance, fuel, and insurance without generating income. Robert Kiyosaki's wife Kim owns a boat placed in a charter program where other people pay to rent it. Because the boat generates rental income that exceeds its expenses, it becomes an asset and the debt used to acquire it becomes good debt.
+Most boats are liabilities because they cost money for docking, maintenance, fuel, and insurance without generating income. Robert Kiyosaki's wife owns a boat placed in a charter program where other people pay to rent it. Because the boat generates rental income that exceeds its expenses, it becomes an asset and the debt used to acquire it becomes good debt.
 
 ### Example 4: 6,500 Rental Properties Funded Entirely by Debt
 
@@ -60,35 +60,35 @@ Robert and Kim Kiyosaki own 6,500 rental properties that are 100% financed with 
 - ✅ Evaluate every debt decision by tracing the cash flow direction — into your pocket or out of your pocket
 - ✅ Take real estate and financial education classes before using debt to acquire assets
 - ✅ Use credit cards to purchase income-producing assets, not consumer goods
-- ✅ Ensure you are certain you will graduate before taking on student loan debt
+- ✅ Ensure you are absolutely 100% guaranteed that you will commit to graduating before taking on student loan debt
 - ✅ Structure investments so the asset pays for its own expenses and still delivers positive cash flow
-- ✅ Continuously improve your financial intelligence by studying cash flow patterns
+- ✅ Never stop improving your financial intelligence by studying cash flow patterns
 - ❌ Do not assume a house you live in is an asset — it is a liability because it pulls money from your pocket through taxes, insurance, maintenance, and mortgage payments
-- ❌ Do not take on student loan debt unless you have absolute certainty that you will graduate.
+- ❌ Do not take on student loan debt unless you are absolutely 100% guaranteed that you will commit to graduating.
 - ❌ Do not cut up credit cards unless you are unable to control your spending — credit cards are tools that can fund asset purchases
 
 ## Keep In Mind
 
-- The definition of asset and liability is universal: an asset puts money in your pocket; a liability takes money out of your pocket. This definition applies to houses, cars, boats, student loans, and people.
-- Financial IQ is your ability to control cash flow. A high IQ in finance means being able to solve cash flow problems.
-- Traditional education rarely teaches the practical applications of accounting. Seek out teachers and mentors with practical experience in finance.
-- Being an entrepreneur rather than an employee changes your cash flow pattern permanently. Employees pay tax on income before expenses; entrepreneurs pay expenses before tax.
+- In this framework, the definition of asset and liability is based on cash flow: an asset puts money in your pocket; a liability takes money out of your pocket. This definition applies to houses, cars, boats, student loans, and people.
+- Financial intelligence is your ability to control cash flow.
+- Traditional education often fails to teach the practical applications of accounting. Seek out teachers and mentors with practical experience in finance.
+- Being an entrepreneur rather than an employee changes your cash flow pattern permanently. Employees have taxes flowing out before income; entrepreneurs do not.
 - In the Robert Kiyosaki framework, a personal residence is classified as a liability rather than an asset, regardless of whether you have a mortgage or own it outright.
 
 ## Security & Safety Notes
 
-- Student loan debt cannot be discharged in bankruptcy and remains owed for life. Only accept it if you are absolutely certain you will graduate.
+- Student loan debt cannot be discharged in bankruptcy. It hangs around your neck for the rest of your life. Only accept it if you are absolutely 100% guaranteed that you will commit to graduating.
 - Good debt requires targeted real estate knowledge. If you buy real estate without proper education, a single mistake can turn a potential asset into a financial liability.
 - Using credit cards for asset purchases requires the discipline to repay the card from asset income, not from wages or savings.
-- Entrepreneurship and real estate investing carry real risk. Never invest money you cannot afford to lose, and always have an exit strategy.
+- Entrepreneurship and real estate investing carry real risk. Never invest money you cannot afford to lose.
 
 ## Common Pitfalls
 
 - **Problem:** Assuming your primary home is an asset because you have no mortgage.
   **Solution:** Reclassify it as a liability. Even with no mortgage, the home costs money for taxes, insurance, repairs, and upkeep every month. If it does not put cash in your pocket, it is a liability.
 - **Problem:** Taking student loans for a degree without confirming your intended career outcome.
-  **Solution:** Before signing for any student loan, verify that you will graduate, that the degree leads to a job that generates income sufficient to service the debt, and that you actually want that career.
+  **Solution:** Before signing for any student loan, verify that you will graduate and that you know what you are going to study.
 - **Problem:** Using debt to buy consumer goods such as clothing, electronics, or vacations.
   **Solution:** Only use borrowed money for purchases that generate income. If the item does not pay for itself and produce surplus cash, pay for it with cash you have already earned.
 - **Problem:** Flipping properties or making quick real estate deals without education.
-  **Solution:** Study real estate thoroughly before entering the market. A single bad deal can drain years of savings and turn a credit line into a liability. Robert Kiyosaki advises against flipping because one mistake can reverse cash flow from positive to negative.
+  **Solution:** Study real estate thoroughly before entering the market. A single bad deal can turn a potential asset into a liability. Robert Kiyosaki advises against flipping because one mistake can reverse cash flow from positive to negative.

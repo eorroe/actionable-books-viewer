@@ -4,7 +4,7 @@ Prepare for the Future Economy by Shifting from Employee to Investor Mindset
 
 ## Overview
 
-This money teaching explains that government overspending, mounting national debt, and unfunded social program liabilities will create a tax burden on younger Americans, and what millennials and young investors must do differently to survive and thrive in a mismanaged economy. Robert Kiyosaki argues that government overspending, mounting national debt, and unfunded social program liabilities will create a tax burden on younger Americans, making the old "go to school, get a job, save money, and invest in a 401k" formula a poor strategy for building wealth. The teaching synthesizes this into one actionable sentence: Become a business owner or investor instead of an employee or self-employed individual, acquire real assets, and get financially educated before the economy shifts further away from you.
+This money teaching explains that government overspending, mounting national debt, and unfunded social program liabilities may create a tax burden on younger Americans, and what millennials and young investors must do differently to survive and thrive in a mismanaged economy. Robert Kiyosaki argues that government overspending, mounting national debt, and unfunded social program liabilities may create a tax burden on younger Americans, making the old "go to school, get a job, save money, and invest in a 401k" formula a potentially poor strategy for building wealth. The teaching synthesizes this into one actionable sentence: Become a business owner or investor instead of an employee or self-employed individual, acquire real assets, and get financially educated before the economy shifts further away from you.
 
 ## When to Follow These Money Teachings
 
@@ -21,7 +21,7 @@ Recognize that the economy you were taught to trust may not work as expected. Go
 
 ### Step 2: Educate Yourself on Real Assets vs. Fake Assets
 
-Learn the difference between assets that put money in your pocket (real estate, businesses, commodities) and assets that take money out (consumer goods, liabilities disguised as assets, paper investments). Study the Cashflow Quadrant model, which categorizes income earners as Employee (E), Self-Employed (S), Business Owner (B), or Investor (I). Understand that Employee and Self-Employed earners face higher tax rates and depend on active work for income.
+Learn the difference between assets that put money in your pocket (real estate, businesses, commodities) and assets that take money out (consumer goods, liabilities disguised as assets, paper investments). Study the Cashflow Quadrant model, which categorizes income earners as Employee (E), Self-Employed (S), Business Owner (B), or Investor (I). Understand that Employee and Self-Employed earners depend on active work for income.
 
 ### Step 3: Choose the Right Quadrant
 
@@ -29,21 +29,12 @@ Intentionally move toward the Business Owner (B) or Investor (I) quadrants. Star
 
 ### Step 4: Prepare for Higher Taxes and Social Program Burdens
 
-Understand that the estimate of unfunded social programs, welfare programs, social security, and retirement plans is $655 trillion, though the exact number is unknown. These obligations will require funding, and younger workers may face higher taxes to cover them. Build your financial strategy around this projected reality by legally minimizing taxes and building income streams that are not dependent on a single employer.
+Understand that unfunded social programs, welfare programs, social security, and retirement plans are estimated at $655 trillion, though the exact number is unknown. These obligations will require funding, and younger workers may face higher taxes to cover them. Build your financial strategy around this projected reality by legally minimizing taxes and building income streams that are not dependent on a single employer.
 
 ### Step 5: Take Control of Your Financial Education
 
 Read books, watch educational content, play Cashflow, and learn from people who actually do what they teach. Financial education is your responsibility, not your school's. Previous generations faced easier economic conditions, so you must prepare yourself for the challenges ahead.
 
-## Examples
-
-### Example 1: The Employee vs. Business Owner Tax Difference
-
-An employee and a business owner with the same revenue may face different effective tax rates. A business owner may legally deduct expenses and pay a lower effective tax rate than an employee, keeping more of their money.
-
-### Example 2: Using Debt to Build Wealth
-
-Instead of avoiding all debt, learn to use "good debt" to acquire assets like rental real estate. A business owner or investor can use leverage to control large assets while tenants or customers pay down the debt and generate cash flow.
 
 ## Best Practices
 
@@ -59,9 +50,9 @@ Instead of avoiding all debt, learn to use "good debt" to acquire assets like re
 
 ## Keep In Mind
 
-- The estimate of $655 trillion in unfunded social program liabilities represents debt obligations that affect long-term financial planning
-- Medical costs and healthcare bills can be high even with insurance; for example, a minor injury can result in a $34,000 bill
-- The tax reform benefits that are permanent for Baby Boomers are temporary for Millennials
+- Estimated unfunded social program liabilities of $655 trillion represent debt obligations that affect long-term financial planning
+- Medical costs and healthcare bills can be high even with insurance; for example, Robert Kiyosaki says a minor injury he experienced resulted in a $34,000 bill.
+- Robert Kiyosaki says the tax reform benefits that are permanent for Baby Boomers are temporary for Millennials.
 - Your generation's economic conditions differ from your parents' generation
 - Having internet access gives you a resource for learning and business building if you use it
 
@@ -79,7 +70,7 @@ Instead of avoiding all debt, learn to use "good debt" to acquire assets like re
   **Solution:** Study how the Cashflow Quadrant works and test whether your current path aligns with long-term wealth building or only job security.
 
 - **Problem:** Believing that getting a good degree and a high-paying job is enough to be financially free.
-  **Solution:** Understand that employees and self-employed people trade time for money and may face higher effective tax rates than business owners and investors; wealth comes from owning systems and assets.
+  **Solution:** Understand that employees and self-employed people trade time for money; wealth comes from owning systems and assets.
 
 - **Problem:** Accumulating consumer debt and liabilities while thinking you are building credit or "living the dream."
   **Solution:** Learn to distinguish between liabilities that drain your wallet and assets that put money in your pocket each month.

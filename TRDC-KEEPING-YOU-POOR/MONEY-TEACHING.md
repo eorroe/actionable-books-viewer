@@ -2,7 +2,7 @@
 
 ## Overview
 
-This money teaching explains why relying on a paycheck, savings, and 401(k)s keeps most people poor, and shows how the rich build wealth by working for different types of income. It is based on Robert Kiyosaki's explanation of the four income types recognized by the tax code: earned income, portfolio income, passive income, and phantom income. The core message is that the government's tax structure punishes earned income and rewards investing, and financial education and a shift toward passive income streams help you avoid staying in that cycle.
+This money teaching explains why relying on a paycheck, savings, and 401(k)s keeps most people poor, and shows how the rich build wealth by working for different types of income. It is based on Robert Kiyosaki's explanation of the four income types recognized by the tax code: earned income, portfolio income, passive income, and phantom income. The core message is that the government's tax structure punishes earned income and rewards investing, and financial education and a shift toward passive income streams help you avoid that outcome.
 
 ## When to Follow These Money Teachings
 
@@ -23,7 +23,7 @@ The government does not want you working for money; it punishes earned income an
 
 ### Step 3: Understand that traditional savings vehicles are heavily taxed
 
-Savings, 401(k)s, RRSPs (Registered Retirement Savings Plan), and superannuation funds are all taxed at the highest rates. Without understanding the tax consequences, people assume these are smart financial moves, but they can trap you in a cycle of working harder.
+Savings, 401(k)s, RRSPs (Registered Retirement Savings Plan), and superannuation funds are all taxed at the highest rates. Without understanding the tax consequences, people assume these are smart financial moves, but if you keep doing what you are doing, you will keep paying more taxes.
 
 ### Step 4: Study financial statements and the tax code to find phantom income
 
@@ -31,19 +31,19 @@ Phantom income refers to taxes you do not have to pay because the government off
 
 ### Step 5: Choose an asset class and commit to learning it
 
-Select one area to focus on: business ownership, real estate, commodities (such as oil wells), or active stock investing. Kiyosaki emphasizes that you should become an active, professional investor in your chosen field rather than a passive participant. Becoming proficient requires study, seminars, and hands-on experience.
+Select one area to focus on: business ownership, real estate, commodities (such as oil wells), or active stock investing. Kiyosaki emphasizes that you should become an active, professional investor in your chosen field rather than a passive participant. Becoming an active, professional investor takes years of work, study, seminars, and hands-on experience, because as Kiyosaki warns, "you can get hammered really easily" without proper education.
 
 ### Step 6: Start building passive income streams
 
-Begin acquiring assets that generate cash flow regardless of whether you work. Examples include rental real estate, businesses that operate without your daily involvement, and commodity investments. The goal is to reach a point where income continues to arrive even when you are not actively laboring.
+Begin acquiring assets that generate cash flow regardless of whether you work. Examples include rental real estate, businesses that generate income whether or not you work, and commodity investments. The goal is to reach a point where income continues to arrive even when you are not actively laboring.
 
 ### Step 7: Accept that mistakes and losses are part of the process
 
-You will make mistakes and lose money while learning. This is normal and expected. The key is to lose the fear of making mistakes and treat each loss as a lesson. Academic types routinely struggle because they expect to memorize a "right answer" and apply it perfectly, but real-world investing requires practical experience that can only be gained through action.
+You will make mistakes and lose money while learning. This is normal and expected. The key is to lose the fear of making mistakes and treat each loss as a lesson. Academic types like Kiyosaki's "poor dad" expect to memorize a "right answer" and apply it perfectly, but in the real world what matters is what you can do. Real-world investing requires practical experience that comes from practice, study, and learning from mistakes.
 
 ### Step 8: Use debt strategically to acquire assets
 
-Debt is not inherently bad. The rich use debt as a tool to acquire income-producing assets. For example, McDonald's is a real estate company because it uses debt to buy the land beneath its restaurants, generating passive income while minimizing taxes. Learn to distinguish between good debt (used to acquire assets) and bad debt (used to fund consumption).
+Debt is not inherently bad. The rich use debt as a tool to acquire income-producing assets. For example, McDonald's is a real estate company because it uses debt to buy the land beneath its restaurants, generating passive income while paying no taxes. Learn to distinguish between good debt (used to acquire assets) and bad debt (used to fund consumption).
 
 ### Step 9: Shift your mindset from working for money to working for the right type of income
 
@@ -53,7 +53,7 @@ Stop measuring success by how much money you make from a job. Instead, measure i
 
 ### Example 1: Ray Kroc and McDonald's
 
-Ray Kroc, the founder of McDonald's, was asked what business McDonald's is in. Most people, including MBA students at the University of Texas, answered "hamburgers." Kroc corrected them: McDonald's is a real estate company. By owning the land beneath each restaurant and leasing it to franchisees, McDonald's generates passive income, uses debt strategically, and pays minimal taxes. This is in stark contrast to a Mom and Pop hamburger stand where the owners work hard and pay the highest taxes on earned income.
+Ray Kroc, the founder of McDonald's, was asked what business McDonald's is in. Most people, including MBA students at the University of Texas, answered "hamburgers." Kroc corrected them: McDonald's is a real estate company. By owning the land beneath each restaurant, McDonald's generates passive income, uses debt strategically, and pays no taxes. This is in stark contrast to a Mom and Pop hamburger stand where the owners work hard and pay the highest taxes on earned income.
 
 ### Example 2: Alexandra Gonzalez's financial education journey
 
@@ -88,7 +88,7 @@ If your tax bill is $100,000 and you qualify for $50,000 in tax breaks by invest
 - Building wealth takes practice, study, and learning from mistakes
 - The rich work for passive income, not earned income
 - Academic success does not guarantee real-world investing success; practical skill matters more than memorized answers
-- Your parents taught you to work hard for earned income; you must consciously break that cycle
+- A working-class mindset that values earned income above all else is a trap; you must choose to work for the right type of income instead.
 
 ## Security & Safety Notes
 
