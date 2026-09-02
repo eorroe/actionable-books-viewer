@@ -6,8 +6,8 @@
 ## Lesson 1: Accept a Bona Fide Spiritual Master to Understand God
 
 ### Step-by-Step Instructions
-1. Recognize that religious truth is not innate within man—it must be received from God through an authorized teacher.
-2. Understand that God comes as His own servant in human form (the spiritual master) because people would be overawed if God came directly as He is.
+ 1. Recognize that religious truth is not innate within man—it must be received from God through an authorized teacher, according to the Vedic tradition.
+ 2. Understand that God comes as His own servant in human form (the spiritual master) because people would be overawed if God came directly as He is, according to the Vedic tradition.
 3. Approach a bona fide guru who is fully trained in the ocean of spiritual knowledge (Vedic knowledge) and is no longer interested in material things.
 4. Surrender unto the spiritual master, serve him, and inquire from him about God and your relationship with God.
 5. Accept the spiritual master as God's representative—not as someone who simply juggles words for money or fame.
@@ -27,7 +27,7 @@
 ### Step-by-Step Instructions
 1. Recognize the three basic stages of life: the aesthetic stage, the ethical stage, and the religious stage.
 2. Understand that the aesthetic stage involves hedonism (sensual pleasure) or philosophical speculation—both are uncommitted and lack an ultimate goal.
-3. Recognize that despair is the first stepping-stone toward self-realization—when the aesthetic life ends in hopelessness, abandon it for the next stage.
+ 3. Recognize that despair is the first stepping-stone toward self-realization—when the aesthetic life ends in hopelessness, abandon it for the next stage, according to the Vedic analysis.
 4. On the ethical stage, make active choices rather than aimlessly seeking pleasure; do good deeds and act piously.
 5. Understand that mere decision-making without a basis in truth has no real value—you must know the proper decision to make.
 6. Advance to the religious stage by submitting yourself to God and obeying Him totally—this is the topmost stage of life (Kṛṣṇa consciousness).
@@ -47,7 +47,7 @@
 ### Step-by-Step Instructions
 1. Understand that despair arises from impersonalism and voidism—when one has no goal in life, disappointment and despair follow.
 2. Recognize that despair can be a springboard to higher consciousness—when you realize the material world offers no lasting happiness, turn to spiritual life.
-3. Understand that Krishna sometimes creates situations of material loss to remove impediments to devotional service.
+ 3. Understand that Krishna sometimes creates situations of material loss to remove impediments to devotional service, according to the Vedic tradition.
 4. When you despair of all material happiness, you are relieved of responsibility and can fully engage in Krishna's devotional service.
 5. Accept that despair of material life is actually a great happiness (nirāśaṁ paramaṁ sukham) because it frees you to seek the Supreme.
 
@@ -168,7 +168,7 @@
 ### Step-by-Step Instructions
 1. Understand that standing transparent before God means engaging in His service—this is true self-realization.
 2. Recognize that every living entity is meant to engage in the service of God, just as each part of the body serves the entire body.
-3. Understand that as soon as you engage in Krishna's service, you are self-realized and liberated from the miseries of material life.
+ 3. Understand that as soon as you engage in Krishna's service, you are self-realized and liberated from the miseries of material life, according to the Vedic analysis.
 4. Avoid the mistake of thinking that self-realization comes from mental speculation, fruitive work, or yoga without serving the Supreme Self (Krishna).
 5. Accept that your only real decision is to serve Krishna—all other decisions come from Him or His representative after you surrender.
 6. Engage in practical service to Krishna as the means to stand transparent before Him.
@@ -206,7 +206,7 @@
 ## Lesson 11: Despair of Material Happiness to Strengthen Your Faith in God
 
 ### Step-by-Step Instructions
-1. Understand that to strengthen your faith in God, you must give up all hope of happiness in this material life.
+ 1. Understand that to strengthen your faith in God, you must give up all hope of material happiness in this material life, according to the Vedic tradition.
 2. Recognize that Krishna sometimes creates situations of material loss to remove impediments to your devotional service.
 3. When Krishna smashes your material resources, do not think He is being unkind—realize this is His mercy, removing all obstacles so you can fully and absolutely surrender.
 4. When you despair of material happiness, you become relieved of all responsibility and can turn fully to spiritual life.
@@ -286,7 +286,7 @@
 ## Lesson 15: Recognize That Truth Is Absolute, Not Relative or Subjective
 
 ### Step-by-Step Instructions
-1. Understand that truth is truth, and it is absolute—there is one Absolute Truth, not many relative truths.
+1. Understand that truth is truth, and it is absolute—there is one Absolute Truth, not relative truths.
 2. Recognize that emphasizing relative truths without knowing the Absolute Truth leads to being misled.
 3. Do not accept Kierkegaard's idea that truth is relative and subjective, discovered only through personal inward passion.
 4. Understand that passion (activity) without knowing the ultimate goal is useless—you may drive your car, but if you do not know where to go, you simply waste your energy.

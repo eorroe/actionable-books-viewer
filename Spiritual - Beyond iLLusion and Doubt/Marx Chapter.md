@@ -7,15 +7,15 @@
 
 ### Step-by-Step Instructions
 1. Recognize that men naturally fall into different classes because everyone's nature and abilities are different.
-2. Understand that artificial attempts to make everyone equal at the same level are doomed to fail — training cannot override natural differences.
-3. Accept that a true classless society is possible only when there is one perfect center who is fully satisfied.
+2. Understand that artificial attempts to make everyone equal at one level are doomed to fail — training cannot override natural differences.
+3. Accept that a classless society is possible only when there is one perfect center who is fully satisfied.
 4. Apply the body analogy: just as the stomach is the enjoyer and all other parts (head, legs, hands, eyes) are workers who automatically cooperate, a society with Kṛṣṇa as the center can be truly classless.
-5. Make Kṛṣṇa the center of all activities — the intellectual can work in his own way, the administrator in his way, the merchant in his way, and the laborer in his way, and all can be perfectly satisfied in their positions.
-6. Recognize that in the International Society for Krishna Consciousness, there are no classes because everyone works for Kṛṣṇa and the spiritual master, making all work equally valuable on the absolute platform.
+5. Make Kṛṣṇa the center of all activities — the intellectual can work in his own way, the administrator in his way, the merchant in his way, and the laborer in his way, and all can be satisfied in their positions.
+6. Recognize that in the International Society for Krishna Consciousness, there are no classes because everyone works for Kṛṣṇa and the spiritual master, making all work valuable on the absolute platform.
 
 ### Key Terms and Keywords
 - **Classless society** — A society where higher and lower distinctions are forgotten because everyone is satisfied in serving the center
-- **Perfect center** — Kṛṣṇa, the only perfect person who can give perfect satisfaction to all
+- **Perfect center** — Kṛṣṇa, the perfect person who can give satisfaction to all
 - **Body analogy** — The stomach as enjoyer, all other parts as workers; applied to society with Kṛṣṇa as the center
 - **Kṛṣṇa consciousness** — The process of making Kṛṣṇa the center of all activities
 - **Natural classes** — Different social classes arising from different natures and abilities
@@ -27,11 +27,11 @@
 ## Lesson 2: Change Mentality Before Changing Social Structure
 
 ### Step-by-Step Instructions
-1. Reject the communist idea that social conditions must be changed first, after which the corrupt mentality will automatically change — this is impossible and utopian.
-2. Understand that the proper sequence is: change the people's mentality first through spiritual training, and then a change in social structure will naturally follow.
+1. Reject the communist idea that social conditions must be changed first, after which the corrupt mentality will automatically change — this is impractical according to the Vedic analysis.
+2. Understand that the sequence is: change the people's mentality first through spiritual training, and then a change in social structure will naturally follow.
 3. Recognize that repression and force cannot change people's minds — even a child cannot be convinced by force, what to speak of a mature, educated man.
-4. Accept that the real process for changing people's minds is chanting the Hare Kṛṣṇa mantra, which cleanses the heart of material desires (ceto-darpaṇa-mārjanam).
-5. Understand that unless people have perfect faith in a perfect leader, there is no possibility of a classless society — faith cannot be forced.
+4. Accept that the process for changing people's minds is chanting the Hare Kṛṣṇa mantra, which cleanses the heart of material desires (ceto-darpaṇa-mārjanam).
+5. Understand that unless people have faith in a perfect leader, there is no possibility of a classless society — faith cannot be forced.
 6. See that if people were truly satisfied, they could not be influenced by outsiders or propagandists.
 
 ### Key Terms and Keywords
@@ -40,7 +40,7 @@
 - **Ceto-darpaṇa-mārjanam** — Cleansing of the heart through chanting the Hare Kṛṣṇa mantra
 - **Perfect faith** — The necessary condition for a harmonious society; faith in a perfect leader
 - **Mental revolution** — The prerequisite for real social change
-- **Force vs. persuasion** — Repression causes reaction; only spiritual change creates lasting transformation
+- **Force vs. persuasion** — Repression causes reaction; only spiritual change creates transformation
 - **Utopian nonsense** — The idea that the state can train everyone to think everything belongs to the state
 
 ---
@@ -48,12 +48,12 @@
 ## Lesson 3: Material Production Cannot Satisfy the Soul — Spiritual Understanding Is Required
 
 ### Step-by-Step Instructions
-1. Recognize that increasing economic production alone will not make people happy — America is the practical example: sufficient production of everything, yet young men are dissatisfied and becoming hippies.
+1. Recognize that increasing economic production alone will not make people happy — America is the practical example: abundant production of goods, yet young men are dissatisfied and seeking alternative lifestyles.
 2. Understand that man is not meant simply for eating — he has mental, intellectual, and spiritual necessities that material goods cannot fulfill.
 3. See that even those who have renounced material production (like yogis in India sitting alone silently in the jungle) are not satisfied by material goods — they would laugh at offers of wealth.
 4. Realize that real happiness does not depend on either production or starvation, but upon peace of mind.
 5. Use the analogy of the crying child: a mother cannot stop the child's crying simply by giving milk if the real cause of distress is something else — similarly, economic production alone cannot solve deep dissatisfaction.
-6. Seek spiritual understanding as the only real solution to dissatisfaction.
+6. Seek spiritual understanding as the solution to dissatisfaction.
 
 ### Key Terms and Keywords
 - **Material satisfaction** — The communist/capitalist idea that economic production brings happiness; shown to be insufficient
@@ -72,7 +72,7 @@
 1. Understand that the tendency to exploit others and become wealthy is present in every human being, whether in a communist or capitalist system.
 2. See that this tendency cannot be destroyed by law or force — the state cannot eliminate it.
 3. Recognize that in any materialistic system, leaders will inevitably become corrupt and exploit their positions (examples: Khrushchev giving posts to his son and son-in-law; Stalin killing enemies).
-4. Accept that the only way to stop exploitation is to change the heart through Krishna consciousness — not by changing the economic system.
+4. Accept that the way to stop exploitation is to change the heart through Krishna consciousness — not by changing the economic system.
 5. Use the bug analogy: in winter (communism) bugs cannot come out to exploit, but in summer (capitalism) they immediately bite and suck blood — the tendency is always there.
 6. Understand that simply changing from capitalism to communism is useless unless the mentality changes — a mill worker who becomes a proprietor will exploit just like a capitalist (Henry Ford example).
 
@@ -116,8 +116,8 @@
 ### Step-by-Step Instructions
 1. Understand that the communist slogan "Nothing is mine" is incomplete — they think everything belongs to the state, but the state is simply an extended "mine."
 2. Recognize that nationalism and communism are simply extended selfishness — the quality remains the same. Mahatma Gandhi, who sacrificed to drive the English from India, was still thinking, "I am a very good man; I am doing national work."
-3. Accept the real change: "Nothing belongs to me; everything belongs to God, Kṛṣṇa, and therefore I should use everything in His service."
-4. Understand that this is the factual abolition of private property — not by force, but by realization.
+3. Accept the change: "Nothing belongs to me; everything belongs to God, Kṛṣṇa, and therefore I should use everything in His service."
+4. Understand that this is the abolition of private property — not by force, but by realization.
 5. See that Marx's definition of communism ("The common or public ownership of the means of production, and the abolition of private property") is imperfect because it replaces individual ownership with state ownership.
 6. Apply the principle of yathā taror mūla-niṣecanena: pour water on the root of a tree, and all branches, twigs, leaves, and flowers are nourished — similarly, serve Kṛṣṇa, and everyone is satisfied.
 
@@ -135,7 +135,7 @@
 ## Lesson 7: Human Nature Has an Eternal Spiritual Dimension That Cannot Be Changed by Material Conditions
 
 ### Step-by-Step Instructions
-1. Reject Marx's proposition that "Human nature has no reality" and that man's nature changes through history according to material conditions.
+1. Reject Marx's proposition, according to Marx's materialist framework, that "Human nature has no reality" and that man's nature changes through history according to material conditions.
 2. Understand that while everything in the cosmic creation is changing (the body changes daily, waves in the ocean), man has a fundamental nature that never changes: his spiritual nature.
 3. Recognize that we are spiritual beings meant to serve Kṛṣṇa — this is our eternal, constitutional position.
 4. Accept that acting spiritually means serving Kṛṣṇa, and this service continues eternally (nitya) — even in the spiritual world (Vaikuṇṭha).
@@ -158,11 +158,11 @@
 
 ### Step-by-Step Instructions
 1. Accept that forced conditioning cannot change people's minds — even a child cannot be convinced by force, what to speak of a mature, educated man.
-2. Understand that the real process for changing people's minds is chanting the Hare Kṛṣṇa mantra.
+2. Understand that the process for changing people's minds is chanting the Hare Kṛṣṇa mantra.
 3. Recognize that this process cleanses the heart of material desires (ceto-darpaṇa-mārjanam).
 4. Apply this process personally and encourage others to chant — this is the method for transforming human nature.
 5. Understand that when the heart is purified, the tendency for exploitation naturally disappears.
-6. See that people in Moscow are not happy and are simply waiting for another revolution — they need this purificatory process.
+6. See that people in Moscow report dissatisfaction with material conditions and are simply waiting for another revolution — they need this purificatory process.
 
 ### Key Terms and Keywords
 - **Hare Kṛṣṇa mantra** — The real process for changing people's minds and cleansing the heart
@@ -182,7 +182,7 @@
 3. Recognize that when people accept Kṛṣṇa as their friend, they will have perfect confidence in Him, just as Arjuna had perfect confidence in Kṛṣṇa on the Battlefield of Kurukṣetra.
 4. Understand that Kṛṣṇa consciousness is actually perfect communism — everyone works for Kṛṣṇa and is equally satisfied.
 5. See that in the International Society for Krishna Consciousness, whether one washes dishes, writes books, or worships the Deity, the value is the same because all are serving Kṛṣṇa on the absolute platform.
-6. Accept that when Kṛṣṇa is at the center of society, the people will be perfectly secure and prosperous.
+6. Accept that when Kṛṣṇa is at the center of society, the people will be secure and prosperous.
 
 ### Key Terms and Keywords
 - **Spiritualized communism** — The communist idea perfected by accepting God as the center instead of the state
@@ -199,7 +199,7 @@
 
 ### Step-by-Step Instructions
 1. Understand that in any society there must be a leader, directors, and workers — but everyone should be so satisfied that they forget the difference.
-2. Recognize that this perfection is possible only when the leader is perfect — Kṛṣṇa is the only perfect leader.
+2. Recognize that this perfection is possible only when the leader is perfect — Kṛṣṇa is the perfect leader.
 3. Accept that Lenin and other communist leaders were imperfect — people are not happy simply reading their books.
 4. Understand that the perfect leader is one who is fully surrendered to Kṛṣṇa and can guide others perfectly.
 5. Accept that you must surrender to Kṛṣṇa or to His representative (the spiritual master) — there is no other alternative for perfect leadership.
@@ -211,7 +211,7 @@
 - **Imperfect leader** — Any leader in the material world, including Lenin, who cannot give perfect satisfaction
 - **Khrushchev** — Example of an imperfect communist leader who was driven from power
 - **Stalin** — Example of imperfect dictator who killed enemies
-- **Spiritual master** — Kṛṣṇa's representative, the only perfect leader in the material world
+- **Spiritual master** — Kṛṣṇa's representative, the perfect leader in the material world
 - **Surrender** — The only alternative to imperfect leadership; surrender to Kṛṣṇa or His representative
 - **Satisfaction** — Only possible when the center is perfect
 
@@ -246,7 +246,7 @@
 3. See that Marx's knowledge is insufficient — he does not know that real happiness comes from spiritual understanding.
 4. Accept that Marx's theories are useless because they do not address the root cause of human suffering: the soul's forgetfulness of Kṛṣṇa.
 5. Understand that Marx's idea that "Human nature has no reality" is false — man has a fundamental spiritual nature that never changes.
-6. Recognize that Marx's statement that "God does not create man; rather, man creates God" is nonsense — the fool can be identified by his speech.
+6. Recognize that Marx's statement that "God does not create man; rather, man creates God" is nonsense — according to the Vedic tradition, a fool can be identified by his speech.
 7. See that in the sixty years since the Russian Revolution, Marx's philosophy has become distorted, while Vedic religion has remained intact for countless years.
 
 ### Key Terms and Keywords
@@ -259,6 +259,6 @@
 
 ---
 
-*Analysis prepared for: BIAD-WESTERN-PHILOSOPHERS-VEDIC-INSIGHTS*
+*Analysis prepared for: BIAD (Beyond Illusion & Doubt)-WESTERN-PHILOSOPHERS-VEDIC-INSIGHTS*
 *Chapter: BID 11: Marx — Beyond Illusion & Doubt*
 *Pages covered: 122–138 of the Bhaktivedanta Vedabase edition*

@@ -45,8 +45,8 @@
 ## Lesson 3: Recognize That Everything Has a Purpose — There Is No Accident
 
 ### Step-by-Step Instructions
-1. Understand that all 8,400,000 varieties of living forms unfold according to a divine plan, not by accident.
-2. Recognize that one's particular bodily form is determined by one's karma — just as one accepts a new suit of clothes according to the price one pays, one accepts a form according to one's work.
+1. Understand that all 8,400,000 varieties of living forms unfold according to a divine plan, not by accident, according to the Vedic tradition.
+2. Recognize that one's particular bodily form is determined by one's karma — just as one accepts a new suit of clothes according to the price one pays—as an analogy, one accepts a form according to one's work.
 3. Study the process of evolution: the living entity passes from fish → trees → vegetables → insects → birds → beasts → humans.
 4. Understand that the human form is the flower fully unfolded — the result of the entire evolutionary process.
 5. Identify the proper duty of the human form: to understand one's lost relationship with God.
@@ -238,6 +238,6 @@
 
 ---
 
-*Analysis prepared for: BIAD-WESTERN-PHILOSOPHERS-VEDIC-INSIGHTS*
+*Analysis prepared for: BIAD (Beyond Illusion & Doubt)-WESTERN-PHILOSOPHERS-VEDIC-INSIGHTS*
 *Chapter: BID 3: Aristotle — Beyond Illusion & Doubt*
 *Pages covered: 29–36 of the Bhaktivedanta Vedabase edition*

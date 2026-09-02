@@ -8,7 +8,7 @@
 **Source:** *Beyond Illusion and Doubt* (BID), Chapter 6: Thomas Aquinas  
 **Subject:** Thomas Aquinas (1225?–1274), leading Christian philosopher of the Middle Ages  
 **Format:** Q&A dialogue between Śrīla Prabhupāda and a disciple, comparing Aquinas's ideas with Vedic wisdom  
-**Core Thesis:** Many of Aquinas's ideas agree with Vedic teachings (Bhagavad-gītā, Brahma-saṁhitā, Padma Purāṇa, Śrīmad-Bhāgavatam, Vedānta-sūtra, Śvetāśvatara Upaniṣad), but Aquinas errs in claiming the material universe was created *ex nihilo* (out of nothing) and in his views on the soul being created.
+**Core Thesis:** Key ideas in Aquinas's Five Ways agree with Vedic teachings (Bhagavad-gītā, Brahma-saṁhitā, Padma Purāṇa, Śrīmad-Bhāgavatam, Vedānta-sūtra, Śvetāśvatara Upaniṣad), but Aquinas errs in claiming the material universe was created *ex nihilo* (out of nothing) and in his views on the soul being created.
 
 ---
 
@@ -146,7 +146,7 @@
 2. Recognize that the soul is unborn, eternal, ever-existing, and primeval (*ajaḥ, nityaḥ, śāśvataḥ, purāṇaḥ*).
 3. Understand that the soul appears to be born and die only because it accepts a material body — the soul itself does not die when the body dies.
 4. Know that the soul has the independence to turn from God — like a spark falling from a great fire, it loses its illumination when separated.
-5. Understand that the master (God) and His servants (souls) exist eternally together — not separately created at some point.
+5. Understand that the master (God) and His servants (souls) exist eternally together, without beginning or end — not separately created at some point.
 6. Know that the soul returns to its original spiritual body upon liberation, without needing to accept another material body.
 
 **Key Terms & Keywords:** soul, ātma, eternal, unborn, never created, nitya, ajaḥ, śāśvataḥ, spiritual body, material body, transmigration, liberation, Bhagavad-gītā 2.20, spark of God

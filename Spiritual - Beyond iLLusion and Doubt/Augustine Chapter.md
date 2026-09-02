@@ -3,7 +3,7 @@
 ## Source
 - **Book:** Beyond Illusion & Doubt (BID)
 - **Chapter:** BID 5: Augustine
-- **Pages:** 45–52 (approx.)
+- **Pages:** 45–52
 - **Format:** Dialogue between a disciple and Śrīla Prabhupāda
 
 ---
@@ -24,13 +24,13 @@
 ## Lesson 2: Spiritual Consciousness Can Always Be Revived
 
 **Step-by-step instructions from the text:**
-1. Consciousness is like a sleeping person: one may be "eternally abandoned" for millions of years, but this is only temporary.
+ 1. Consciousness is like a sleeping person: one may be "eternally abandoned" for an extended period, but this is only temporary.
 2. Spiritual consciousness can be revived at any moment.
 3. Two primary means of revival:
    - **Good association** (satsang)
    - **The method of hearing and chanting about Krishna**
 4. Constant practice awakens the spiritual consciousness.
-5. One can then return to normal, spiritual life.
+  5. One can then return to spiritual life.
 
 **Key terms and keywords:** consciousness revival, good association, hearing and chanting, spiritual awakening, Krishna consciousness, satsang
 
@@ -67,7 +67,7 @@
 1. The body can be considered punishment because it is subject to suffering, old age, disease, and death.
 2. Yet human life is also a gift because it provides the opportunity to approach and realize God.
 3. One should view the body as God's mercy — even when given for correction, it can be used to purify oneself.
-4. Devotees consider the body a reward because, through undergoing its difficulties willingly and practicing Krishna consciousness, one can progress toward God realization.
+ 4. Devotees consider the body a reward because, through undergoing its difficulties with acceptance and practicing Krishna consciousness, one can progress toward God realization.
 
 **Key terms and keywords:** body as punishment, body as gift, material body, human life, purification, God realization, mercy
 

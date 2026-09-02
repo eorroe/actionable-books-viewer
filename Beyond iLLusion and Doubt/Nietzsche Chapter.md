@@ -6,8 +6,8 @@
 ## Lesson 1: Transcend Envy Through Spiritual Advancement
 
 **Step-by-step instructions from the text:**
-1. Recognize that envy is a symptom of conditioned (material) life.
-2. Understand that in the material world, everyone is envious—even of God and His instructions.
+ 1. Recognize that envy is a symptom of conditioned (material) life, according to the Vedic tradition.
+  2. Understand that in the material world, all living entities are envious—even of God and His instructions, according to the Vedic analysis.
 3. Realize that by so-called willpower alone, one cannot escape envy and pride while on the material platform.
 4. Advance to the transcendental stage (*brahma-bhūta*), described in the Bhagavad-gītā as *samaḥ sarveṣu bhūteṣu*—able to see everyone with equal spiritual understanding.
 5. At that stage, envy and pride naturally fall away.
@@ -27,10 +27,10 @@
 
 **Step-by-step instructions from the text:**
 1. Understand that the true superman (*gosvāmī* / *svāmī*) controls six forces: words, mind, anger, tongue, belly, and genitals.
-2. Prioritize controlling the tongue—its force is very great, and for its gratification many harmful, artificial habits arise.
+2. Prioritize controlling the tongue—its force is very great, and for its gratification harmful, artificial habits arise.
 3. Abandon nonsensical habits such as smoking, drinking, and meat-eating; these are not essential and one does not die without them.
 4. Recognize that by controlling the tongue, one automatically gains control over the other senses.
-5. Strive to become a *gosvāmī*, which Nietzsche would call the *Ūbermensch*—though the text notes this is impossible for an ordinary man without spiritual advancement.
+ 5. Strive to become a *gosvāmī*, which Nietzsche would call the *Ūbermensch* if Nietzsche were familiar with the Vedic concept — though the text notes this is impossible for an ordinary man without spiritual advancement.
 
 **Key terms and keywords:**
 - Ūbermensch (superman)
@@ -64,15 +64,15 @@
 
 **Step-by-step instructions from the text:**
 1. Understand that the real *Ūbermensch* engages in the service of the Supreme Person (God).
-2. Recognize that Kṛṣṇa (God) wants to make everyone a superman.
+ 2. Recognize that Kṛṣṇa (God) wants to make everyone a superman, according to the Vedic tradition.
 3. Follow the instruction of the Bhagavad-gītā (18.66): *sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja*—“Give up everything and simply surrender to Me.”
 4. Let go of the false notion of personal independence; instead, recognize that one’s only duty is to surrender to Kṛṣṇa.
-5. Understand that this consciousness is attained after many, many births (*bahūnāṁ janmanām ante*).
+5. Understand that this consciousness is attained after births (*bahūnāṁ janmanām ante*).
 6. As soon as one surrenders, one becomes the superman.
 
 **Key terms and keywords:**
 - Surrender to Kṛṣṇa
-- Sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja (BG 18.66)
+- Sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja (Bhagavad-gītā [Bg.] 18.66)
 - Bahūnāṁ janmanām ante
 - Service of the Supreme Person
 - Superman through surrender
@@ -148,7 +148,7 @@
 
 **Key terms and keywords:**
 - Eternal recurrence / Cyclical creation
-- Bhūtvā bhūtvā pralīyate (BG 8.19)
+- Bhūtvā bhūtvā pralīyate (Bhagavad-gītā [Bg.] 8.19)
 - Conditioned soul
 - Vedic instructions
 - Paramparā (disciplic succession)

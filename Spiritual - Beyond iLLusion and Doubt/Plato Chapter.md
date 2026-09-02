@@ -25,7 +25,7 @@
 - **Guṇa-karma-vibhāgaśaḥ** — Classification by qualities and work
 - **Brahmana** — Intelligent, transcendental class
 - **Kṣatriya** — Administrative/warrior class
-- **Vaiśya** —productive/mercantile class
+- **Vaiśya** — productive/mercantile class
 - **Śūdra** — Laborer class
 - **Sattva-guṇa** — Mode of goodness
 - **Rajo-guṇa** — Mode of passion
@@ -99,9 +99,9 @@
 ### Step-by-Step Instructions
 1. Recognize that material existence is like a dark well — those trapped inside cannot conceive of the light outside.
 2. Admit that you are suffering in the material world.
-3. Catch hold of the rope of Kṛṣṇa consciousness that is being offered.
+3. Catch hold of the rope of Kṛṣṇa consciousness (the process of devotional service to Kṛṣṇa) that is being offered.
 4. Have faith in the spiritual master who is trying to save you.
-5. Allow the spiritual master to pull you out of the dark well of suffering.
+5. Allow the spiritual master to pull you out of the dark well of suffering (a state of deep material suffering).
 6. Do not refuse the rope out of ignorance or lack of faith.
 
 ### Key Terms and Keywords
@@ -109,8 +109,8 @@
 - **Dr. Frog analogy** — Frog in a well cannot conceive of the Atlantic Ocean
 - **Rope of Kṛṣṇa consciousness** — The means of deliverance
 - **Spiritual master** — The savior who pulls the conditioned soul out
-- **Material world** — The dark well of suffering
-- **Spiritual world** — The illuminated, happy world
+- **Material world** — The dark well of suffering (a state of deep material suffering)
+- **Spiritual world** — The spiritual world, where all beings are illuminated by Kṛṣṇa's presence.
 
 ---
 
@@ -136,7 +136,7 @@
 ## Lesson 7: Establish God-Conscious Leadership
 
 ### Step-by-Step Instructions
-1. Ensure that the head of state is a saintly philosopher or a group of wise, God-conscious men.
+ 1. Ensure that the head of state is a saintly philosopher or wise, God-conscious leaders.
 2. Have administrators rule under the instructions of the philosophers/theologians.
 3. Allow the productive class to protect cows and provide life's necessities under the protection of administrators.
 4. Enable the laborer class to contribute through bodily service.

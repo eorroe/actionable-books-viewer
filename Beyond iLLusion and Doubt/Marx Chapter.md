@@ -6,7 +6,7 @@
 ## Lesson 1: A Classless Society Requires One Perfect Center — God (Kṛṣṇa)
 
 ### Step-by-Step Instructions
-1. Recognize that men naturally fall into different classes because everyone's nature and abilities are different.
+ 1. Recognize that men naturally fall into different classes because everyone's nature and abilities are different, according to the Vedic analysis.
 2. Understand that artificial attempts to make everyone equal at the same level are doomed to fail — training cannot override natural differences.
 3. Accept that a true classless society is possible only when there is one perfect center who is fully satisfied.
 4. Apply the body analogy: just as the stomach is the enjoyer and all other parts (head, legs, hands, eyes) are workers who automatically cooperate, a society with Kṛṣṇa as the center can be truly classless.
@@ -27,10 +27,10 @@
 ## Lesson 2: Change Mentality Before Changing Social Structure
 
 ### Step-by-Step Instructions
-1. Reject the communist idea that social conditions must be changed first, after which the corrupt mentality will automatically change — this is impossible and utopian.
+ 1. Reject the communist idea that social conditions must be changed first, after which the corrupt mentality will automatically change — this is impractical according to the Vedic analysis.
 2. Understand that the proper sequence is: change the people's mentality first through spiritual training, and then a change in social structure will naturally follow.
 3. Recognize that repression and force cannot change people's minds — even a child cannot be convinced by force, what to speak of a mature, educated man.
-4. Accept that the real process for changing people's minds is chanting the Hare Kṛṣṇa mantra, which cleanses the heart of material desires (ceto-darpaṇa-mārjanam).
+ 4. Accept that the process of chanting the Hare Kṛṣṇa mantra can change people's minds, which cleanses the heart of material desires (ceto-darpaṇa-mārjanam).
 5. Understand that unless people have perfect faith in a perfect leader, there is no possibility of a classless society — faith cannot be forced.
 6. See that if people were truly satisfied, they could not be influenced by outsiders or propagandists.
 
@@ -51,7 +51,7 @@
 1. Recognize that increasing economic production alone will not make people happy — America is the practical example: sufficient production of everything, yet young men are dissatisfied and becoming hippies.
 2. Understand that man is not meant simply for eating — he has mental, intellectual, and spiritual necessities that material goods cannot fulfill.
 3. See that even those who have renounced material production (like yogis in India sitting alone silently in the jungle) are not satisfied by material goods — they would laugh at offers of wealth.
-4. Realize that real happiness does not depend on either production or starvation, but upon peace of mind.
+ 4. Realize that real happiness does not depend on either production or starvation, but upon peace of mind, according to the Vedic tradition.
 5. Use the analogy of the crying child: a mother cannot stop the child's crying simply by giving milk if the real cause of distress is something else — similarly, economic production alone cannot solve deep dissatisfaction.
 6. Seek spiritual understanding as the only real solution to dissatisfaction.
 
@@ -70,9 +70,9 @@
 
 ### Step-by-Step Instructions
 1. Understand that the tendency to exploit others and become wealthy is present in every human being, whether in a communist or capitalist system.
-2. See that this tendency cannot be destroyed by law or force — the state cannot eliminate it.
+ 2. See that this tendency cannot be destroyed by law or force — the state cannot eliminate it, according to the Vedic analysis.
 3. Recognize that in any materialistic system, leaders will inevitably become corrupt and exploit their positions (examples: Khrushchev giving posts to his son and son-in-law; Stalin killing enemies).
-4. Accept that the only way to stop exploitation is to change the heart through Krishna consciousness — not by changing the economic system.
+ 4. Accept that one way to address exploitation is through Krishna consciousness — not by changing the economic system.
 5. Use the bug analogy: in winter (communism) bugs cannot come out to exploit, but in summer (capitalism) they immediately bite and suck blood — the tendency is always there.
 6. Understand that simply changing from capitalism to communism is useless unless the mentality changes — a mill worker who becomes a proprietor will exploit just like a capitalist (Henry Ford example).
 
@@ -95,7 +95,7 @@
 1. Understand that religion is not an illusion — it is the course of action given by God (dharma). Kṛṣṇa gives the definition of religion in Bhagavad-gītā 18.66: surrender unto God.
 2. Recognize that everyone is serving something: the father serves his family, the statesman serves his country, the philanthropist serves humanity, Karl Marx serves humanity through his philosophy.
 3. Accept that this universal tendency to serve is real religion — it cannot be given up.
-4. Understand that the confusion arises because we are rendering service to so many people and things, and therefore Kṛṣṇa advises us to give up all this service and serve Him alone.
+4. Understand that the confusion arises because we are rendering service to people and things, and therefore Kṛṣṇa advises us to give up all this service and serve Him alone.
 5. Accept Kṛṣṇa's instruction: abandon all varieties of service and just surrender unto Him (sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja ahaṁ tvāṁ sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ).
 6. Recognize that Marx's famous statement that "Religion is the sigh of the oppressed creature, the heart of the heartless world, just as it is the spirit of the spiritless situation. It is the opium of the people" is based on a false definition of religion.
 7. See that Marx himself created a philosophy that is presently being enforced by coercion and killing — he is guilty of the very thing he condemns religion for.
@@ -135,7 +135,7 @@
 ## Lesson 7: Human Nature Has an Eternal Spiritual Dimension That Cannot Be Changed by Material Conditions
 
 ### Step-by-Step Instructions
-1. Reject Marx's proposition that "Human nature has no reality" and that man's nature changes through history according to material conditions.
+ 1. Consider the Vedic alternative to Marx's proposition that "Human nature has no reality" and that man's nature changes through history according to material conditions.
 2. Understand that while everything in the cosmic creation is changing (the body changes daily, waves in the ocean), man has a fundamental nature that never changes: his spiritual nature.
 3. Recognize that we are spiritual beings meant to serve Kṛṣṇa — this is our eternal, constitutional position.
 4. Accept that acting spiritually means serving Kṛṣṇa, and this service continues eternally (nitya) — even in the spiritual world (Vaikuṇṭha).
@@ -158,11 +158,11 @@
 
 ### Step-by-Step Instructions
 1. Accept that forced conditioning cannot change people's minds — even a child cannot be convinced by force, what to speak of a mature, educated man.
-2. Understand that the real process for changing people's minds is chanting the Hare Kṛṣṇa mantra.
+ 2. Understand that the process of chanting the Hare Kṛṣṇa mantra can change people's minds.
 3. Recognize that this process cleanses the heart of material desires (ceto-darpaṇa-mārjanam).
 4. Apply this process personally and encourage others to chant — this is the method for transforming human nature.
 5. Understand that when the heart is purified, the tendency for exploitation naturally disappears.
-6. See that people in Moscow are not happy and are simply waiting for another revolution — they need this purificatory process.
+6. See that people in Moscow are not happy and are simply waiting for another revolution — they need this purificatory process, according to the Vedic analysis.
 
 ### Key Terms and Keywords
 - **Hare Kṛṣṇa mantra** — The real process for changing people's minds and cleansing the heart
@@ -200,7 +200,7 @@
 ### Step-by-Step Instructions
 1. Understand that in any society there must be a leader, directors, and workers — but everyone should be so satisfied that they forget the difference.
 2. Recognize that this perfection is possible only when the leader is perfect — Kṛṣṇa is the only perfect leader.
-3. Accept that Lenin and other communist leaders were imperfect — people are not happy simply reading their books.
+3. Accept that Lenin and other communist leaders were imperfect — people are not happy simply reading their books, according to the Vedic analysis.
 4. Understand that the perfect leader is one who is fully surrendered to Kṛṣṇa and can guide others perfectly.
 5. Accept that you must surrender to Kṛṣṇa or to His representative (the spiritual master) — there is no other alternative for perfect leadership.
 6. See that in the International Society for Krishna Consciousness, the spiritual master is the perfect center, and disciples serve him sincerely because they see his perfection.
@@ -242,7 +242,7 @@
 
 ### Step-by-Step Instructions
 1. Recognize that Marx's philosophy is materialistic — it accepts the state, not God, as the supreme proprietor and enjoyer.
-2. Understand that any materialistic system of organizing the means of production is bound to be full of exploitation because the materialistic mentality means exploitation.
+ 2. Understand that any materialistic system of organizing the means of production is bound to be full of exploitation, according to the Vedic analysis, because the materialistic mentality means exploitation.
 3. See that Marx's knowledge is insufficient — he does not know that real happiness comes from spiritual understanding.
 4. Accept that Marx's theories are useless because they do not address the root cause of human suffering: the soul's forgetfulness of Kṛṣṇa.
 5. Understand that Marx's idea that "Human nature has no reality" is false — man has a fundamental spiritual nature that never changes.

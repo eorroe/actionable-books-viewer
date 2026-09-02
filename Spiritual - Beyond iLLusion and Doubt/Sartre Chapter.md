@@ -83,9 +83,9 @@ This chapter examines Jean-Paul Sartre’s existentialism through a Vedic lens. 
 1. Recognize that Sartre’s philosophy is a philosophy of despair born of poor knowledge.
 2. Understand that the desire to exist eternally is natural because the soul is eternal.
 3. Instead of concluding that one’s nature is “nothingness,” create one’s nature as something through Krishna consciousness.
-4. Transfer yourself to a safe place free from anxiety (Vaikuṇṭha) by serving Krishna.
+4. Transfer yourself to a secure state free from anxiety (Vaikuṇṭha) by serving Krishna.
 
-**Key terms and keywords:** Krishna consciousness, Vaikuṇṭha, despair, nothingness, eternal soul, liberation, anxiety, safe place
+**Key terms and keywords:** Krishna consciousness, Vaikuṇṭha, despair, nothingness, eternal soul, liberation, anxiety, secure state
 
 ---
 

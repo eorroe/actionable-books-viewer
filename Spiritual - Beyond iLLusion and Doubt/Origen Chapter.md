@@ -10,7 +10,7 @@
 2. Understand that reality is defined by relationships between persons and the infinite person.
 3. Realize that individual souls (living entities) are always present and have an intimate relationship with the Supreme Personality of Godhead.
 4. In material, conditioned life, this relationship is forgotten.
-5. By rendering devotional service, attain the liberated position and revive the relationship with the Supreme Personality of Godhead.
+5. By rendering devotional service, attain a liberated position and revive the relationship with the Supreme Personality of Godhead.
 
 **Key terms and keywords:** ultimate spiritual reality, supreme infinite person, individual personalities, living entities, devotional service, liberated position, conditioned life, Supreme Personality of Godhead
 
@@ -22,7 +22,7 @@
 1. Understand that the Absolute Truth is manifested in three features: Brahman (all-pervading), Paramātmā (Supersoul in everyone’s heart), and Bhagavān (personal feature).
 2. Recognize that the Paramātmā feature, situated in everyone’s heart, may be compared to the Holy Spirit.
 3. Understand that the Brahman feature is present everywhere.
-4. Realize that the highest perfection of spiritual life includes understanding the personal feature of the Lord (Bhagavān).
+4. Realize that perfection of spiritual life includes understanding the personal feature of the Lord (Bhagavān).
 5. When one understands Bhagavān, engage in His service.
 6. By engaging in devotional service, the living entity is situated in his original constitutional position and becomes eternally blissful.
 
@@ -51,7 +51,7 @@
 2. When perfectly situated by hearing, the next stage begins: preaching (kīrtanam).
 3. Preach about Kṛṣṇa for Kṛṣṇa, not for any person within the material world.
 4. Hear and preach about the Supreme Person, the transcendental Personality of Godhead.
-5. Understand that this is the duty of a liberated soul.
+5. Understand that this is the duty of one seeking liberation.
 
 **Key terms and keywords:** śravaṇam, kīrtanam, bona fide spiritual master, authorized person, real preacher, liberated soul, Kṛṣṇa, Supreme Personality of Godhead
 
@@ -81,7 +81,7 @@
 4. Understand that he again goes through the process of dying and accepting another material body.
 5. Use the analogy: a person cannot wear the same clothes all his life; similarly, the living being changes bodies.
 6. Know that this process of transmigration continues until one attains liberation and goes back home, back to Godhead.
-7. Accept that a sober person is not bewildered by the change of bodies.
+7. Accept that a thoughtful person is not bewildered by the change of bodies.
 
 **Key terms and keywords:** transmigration, reincarnation, material body, living entity, liberation, back to Godhead, Bhagavad-gītā 2.13, bodily change, death, rebirth
 
@@ -121,7 +121,7 @@
 **Step-by-step instructions:**
 1. Understand that spiritual identity can best be realized in a human civilization where the varṇāśrama system is practiced.
 2. Recognize the four āśramas (brahmacārī, gṛhastha, vānaprastha, sannyāsa) and four varṇas (brāhmaṇa, kṣatriya, vaiśya, śūdra).
-3. Aim for the highest position: brāhmaṇa-sannyāsī.
+3. Aim for the highest spiritual position: brāhmaṇa-sannyāsī.
 4. From this platform, best realize your original constitutional position and act accordingly.
 5. By acting accordingly, attain deliverance (mukti).
 
@@ -145,7 +145,7 @@
 ## Lesson 11: Salvation Through Combined Working of Divine Grace and Free Will (Bhakti-mārga)
 
 **Step-by-step instructions:**
-1. Understand that the individual soul attains perfection through the combined working of divine grace and man’s free will.
+1. Understand that the individual soul attains perfection through the interaction of divine grace and man’s free will.
 2. Perfection consists of attaining a personal relationship with the infinite person (Bhagavān).
 3. Recognize this path as bhakti-mārga, the path of devotional service to the Supreme Personality of Godhead.
 4. Strive to understand the personal feature of the Lord (Bhagavān).
@@ -155,13 +155,13 @@
 
 ---
 
-## Lesson 12: Material Detachment Through Help from the Logos (Christ/Kṛṣṇa)
+## Lesson 12: Material Detachment Through Help from the Logos, the divine word or reason (Christ/Kṛṣṇa)
 
 **Step-by-step instructions:**
 1. Recognize that man’s free will can bring about his salvation, just as it precipitated his fall.
 2. Understand that man can return to God by practicing material detachment.
 3. Realize that such detachment can be made possible by help from the Logos (Christ) or Kṛṣṇa.
-4. When consciousness is sufficiently developed, be enlightened by God through the Bhagavad-gītā.
+4. When consciousness is adequately developed, be enlightened by God through the Bhagavad-gītā.
 5. Through the spiritual master’s help, attain full enlightenment.
 6. When you understand your transcendental position of bliss, automatically give up material bodily attachments.
 7. Attain freedom by being properly situated in your spiritual identity and engaged in the service of the Lord.

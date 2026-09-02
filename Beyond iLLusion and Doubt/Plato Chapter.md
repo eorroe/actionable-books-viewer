@@ -11,12 +11,12 @@
 
 ### Step-by-Step Instructions
 1. Recognize that every person is influenced by the three modes of material nature: goodness (sattva-guṇa), passion (rajo-guṇa), and ignorance (tamo-guṇa).
-2. Scientifically classify individuals according to their inherent qualities and natural abilities, not their family background.
+2. Classify individuals according to their inherent qualities and natural abilities, not their family background.
 3. Assign social roles based on these classifications:
    - **Brahmanas** (intelligent class): Topmost posts, transcendental knowledge, philosophy
    - **Kṣatriyas** (administrative class): Law and order, governance, protection
    - **Vaiśyas** (productive class): Agriculture, cow protection, business
-   - **Śūdras** (laborer class): Service to the other three classes
+   - **Śūdras** (laborer class): Work that supports the other three classes
 4. Ensure cooperation among all classes under the guidance of the most qualified (brahmanas).
 5. Depose leaders who are unfit for their positions.
 
@@ -45,7 +45,7 @@
    - Productive/business inclination → train in agriculture, cow protection, or commerce/vaiśya
    - Ordinary ability → train as laborer/śūdra
 4. Avoid wasting time on irrelevant training (e.g., don't force a philosopher into military drill).
-5. Recognize that tendencies carry over from previous births (soul continuity).
+ 5. Recognize that tendencies carry over from previous births (soul continuity), according to the Vedic tradition.
 
 ### Key Terms and Keywords
 - **Yasya yal-lakṣaṇaṁ proktam** — One is recognized by his symptoms/qualifications
@@ -70,7 +70,7 @@
 - **Śuddha-sattva** — Pure goodness (transcendental platform)
 - **Material coating** — The bodily covering of the soul
 - **Kṛṣṇa consciousness** — Process of removing material covering
-- **Soul continuity** — The soul's eternal existence through many births
+- **Soul continuity** — The soul's eternal existence through births
 
 ---
 
@@ -97,8 +97,8 @@
 ## Lesson 5: Escape the Dark Well of Material Existence
 
 ### Step-by-Step Instructions
-1. Recognize that material existence is like a dark well — those trapped inside cannot conceive of the light outside.
-2. Admit that you are suffering in the material world.
+ 1. Recognize that material existence is like a dark well — those trapped inside cannot conceive of the light outside.
+ 2. Recognize that suffering exists in the material world.
 3. Catch hold of the rope of Kṛṣṇa consciousness that is being offered.
 4. Have faith in the spiritual master who is trying to save you.
 5. Allow the spiritual master to pull you out of the dark well of suffering.
@@ -110,7 +110,7 @@
 - **Rope of Kṛṣṇa consciousness** — The means of deliverance
 - **Spiritual master** — The savior who pulls the conditioned soul out
 - **Material world** — The dark well of suffering
-- **Spiritual world** — The illuminated, happy world
+- **Spiritual world** — Illuminated by Kṛṣṇa's presence.
 
 ---
 
@@ -156,7 +156,7 @@
 
 ### Step-by-Step Instructions
 1. Understand that Kṛṣṇa consciousness is open to everyone, regardless of birth or social status.
-2. Recognize that even the lowest member of society can become a first-class brahmana by becoming Kṛṣṇa conscious.
+ 2. Recognize that even a person born into the laborer class can become a first-class brahmana by becoming Kṛṣṇa conscious.
 3. Provide temple access and spiritual instruction to all people without discrimination.
 4. Distribute prasādam (sanctified food) to everyone.
 5. Allow everyone to contribute according to their capacity:
@@ -201,8 +201,8 @@
 ## Lesson 10: Avoid Industrialization and Animal Slaughter
 
 ### Step-by-Step Instructions
-1. Recognize that large-scale industrialization leads to exploitation of one person by another.
-2. Understand that such industry was unnecessary in Vedic civilization.
+ 1. Recognize that large-scale industrialization leads to exploitation of one person by another, according to the Vedic analysis.
+ 2. Understand that such industry was unnecessary in Vedic civilization, according to the Vedic tradition.
 3. Reject the slaughtering and eating of animals as barbarous and inhuman.
 4. Support simple living based on agriculture and cow protection.
 5. Ensure sufficient milk, grain, fruits, and vegetables for a peaceful life.

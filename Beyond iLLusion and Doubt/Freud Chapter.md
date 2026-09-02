@@ -3,7 +3,7 @@
 ## Source
 - **Book:** Beyond Illusion & Doubt (BID)
 - **Chapter:** BID 13: Freud
-- **Pages:** 149–157 (approx.)
+- **Pages:** 149–157
 - **Format:** Dialogue between a disciple and Śrīla Prabhupāda
 
 ---
@@ -12,9 +12,9 @@
 
 **Step-by-step instructions from the text:**
 1. Freud investigated psychological problems through psychoanalysis, tracing them to childhood traumas.
-2. Śrīla Prabhupāda explains that Freud's approach is like treating headaches and stomach aches without curing the underlying disease.
-3. The real disease is materialistic life itself — the misidentification of the self with the body.
-4. All psychological symptoms (anxiety, neuroses, personality disorders) are manifestations of this root disease.
+ 2. Śrīla Prabhupāda explains that Freud's approach treats psychological symptoms without addressing the root cause.
+ 3. The real disease is materialistic life itself — the misidentification of the self with the body, according to the Vedic analysis.
+ 4. All psychological symptoms (anxiety, neuroses, personality disorders) are manifestations of this root disease, according to the Vedic analysis.
 5. The only total cure is spiritual: Kṛṣṇa consciousness eliminates the root cause, and all symptoms vanish automatically.
 6. As long as one remains under the control of material nature, new shocks and problems will keep arising, one after another.
 
@@ -37,10 +37,10 @@
 ## Lesson 3: Sexual Pleasure Is Ultimately Frustrating and Insignificant
 
 **Step-by-step instructions from the text:**
-1. The pleasure derived from sexual intercourse is confirmed in the śāstras as tenth class at best (yan maithunādi-gṛhamedhi-sukhaṁ hi tuccham).
-2. For materialists who have no knowledge of Kṛṣṇa consciousness, sex appears to be the highest pleasure.
-3. The aftereffects of sexual pleasure are abominable: labor pains for the mother and responsibility for raising children for the father.
-4. Material pleasures like sex are like one drop of water in a desert compared to the unlimited pleasure of Kṛṣṇa consciousness.
+1. The pleasure derived from sexual intercourse is confirmed in the śāstras as a lower class of pleasure at best (yan maithunādi-gṛhamedhi-sukhaṁ hi tuccham).
+ 2. For materialists who have no knowledge of Kṛṣṇa consciousness, sex appears to be the highest material pleasure.
+ 3. The aftereffects of sexual pleasure are difficult: labor pains for the mother and responsibility for raising children for the father.
+ 4. Material pleasures like sex are a small amount compared to the unlimited pleasure of Kṛṣṇa consciousness.
 5. The real psychology is to tolerate the "itching sensation" of sex desire by practicing Kṛṣṇa consciousness.
 
 **Key terms and keywords:** sexual pleasure, frustration, material pleasure, Kṛṣṇa consciousness, tenth-class pleasure, itching sensation, tolerance, śāstras, yan maithunādi-gṛhamedhi-sukhaṁ hi tuccham
@@ -68,7 +68,7 @@
 **Step-by-step instructions from the text:**
 1. The sex appetite is innate in every embodied living being.
 2. The Vedic brahmacarya system restricts a child's sex life from the earliest stages of development.
-3. By diverting the child's attention to Kṛṣṇa consciousness, there is very little chance of personality disorders later in life.
+ 3. By diverting the child's attention to Kṛṣṇa consciousness, there is reduced likelihood of personality disorders later in life, according to the Vedic tradition.
 4. In the Vedic age, leaders knew that unrestricted sex indulgence increases the duration of materialistic life and forces one to accept a material body birth after birth.
 5. The śāstras enjoin that sexual intercourse is permitted only if married and only for procreation; otherwise it is illicit.
 6. In the Kṛṣṇa consciousness society, illicit sex is prohibited, but regulated legal sex within marriage is allowed.
@@ -97,7 +97,7 @@
 2. This identification with a material body is ignorance.
 3. Thinking "I am Indian, American, Hindu, or Muslim" is egoism of inferior quality.
 4. The superior egoism is: "I am Brahman. I am an eternal servant of Kṛṣṇa."
-5. If a child is taught this superior egoism from the beginning, his false egoism is automatically stopped.
+ 5. If a child is taught this superior egoism from the beginning, his false egoism is prevented.
 
 **Key terms and keywords:** ahaṅkāra, false ego, bodily identification, ignorance, Brahman, eternal servant of Kṛṣṇa, superior egoism, material body
 
@@ -106,12 +106,12 @@
 ## Lesson 8: All Mental Interactions Are Subtle Bodily Interactions — Know the Soul
 
 **Step-by-step instructions from the text:**
-1. Freud's id, ego, and superego are all subtle bodily interactions, not spiritual realities.
+ 1. Freud's id, ego, and superego are all subtle bodily interactions, not spiritual realities, according to the Vedic analysis.
 2. The mind is the first element of the subtle body; the gross senses are controlled by the mind, which is controlled by the intelligence, which is controlled by the ego.
 3. If the ego is false (bodily identification), then everything based on it is also false.
 4. This is called māyā, or illusion.
 5. The whole of Vedic education aims at getting off this false platform and coming to brahma-jñāna (spiritual knowledge).
-6. When one realizes he is spirit soul, not this body, he immediately becomes happy and the blazing fire of material existence is extinguished.
+6. When one realizes he is spirit soul, not this body, he becomes happy and the blazing fire of material existence is extinguished.
 
 **Key terms and keywords:** id, ego, superego, subtle body, gross body, false ego, māyā, illusion, brahma-jñāna, spirit soul, material existence
 
@@ -120,7 +120,7 @@
 ## Lesson 9: The Real Ego Is the Superself — Not the Body
 
 **Step-by-step instructions from the text:**
-1. Freud identified the body with the soul — a fundamental mistake.
+ 1. According to the Vedic tradition, Freud identified the body with the soul, which the tradition considers a fundamental mistake.
 2. We are not this body; we are different from it and are transmigrating from one body to another.
 3. The real ego is the spiritual identity as an eternal servant of Kṛṣṇa.
 4. Without this knowledge, all psychological theories are based on a misunderstanding.
@@ -186,7 +186,7 @@
 ## Lesson 14: Children Are Like Soft Dough — Mold Them Through Good Association
 
 **Step-by-step instructions from the text:**
-1. Children have no independent psychology; they are a blank slate.
+ 1. Children have no independent psychology; they are a blank slate, according to the Vedic analysis.
 2. They imitate whoever they associate with (example: Tarzan brought up by monkeys took on monkey habits).
 3. Children can be molded in any direction, like soft dough — however you put them into the mold, they will come out.
 4. If given good association, they will develop nicely and become like demigods.
@@ -202,8 +202,8 @@
 **Step-by-step instructions from the text:**
 1. Freud concluded that human nature is beset with irrational and chaotic impulses that cannot be eliminated.
 2. Śrīla Prabhupāda states this is not pessimism but evidence of poor knowledge.
-3. Freud did not have perfect knowledge, nor was he trained by a perfect spiritual master.
-4. Therefore his theories are ultimately useless.
+ 3. According to the Vedic tradition, Freud did not have perfect knowledge, nor was he trained by a perfect spiritual master.
+ 4. Therefore his theories are limited from the Vedic perspective.
 5. Freud correctly concluded that one cannot be truly happy in the material world, but he thought psychoanalysis could only make the path smoother — he did not know about Kṛṣṇa consciousness as the real solution.
 
 **Key terms and keywords:** perfect knowledge, spiritual master, pessimistic view, human nature, irrational impulses, psychoanalysis limitations, transcendental knowledge
@@ -213,7 +213,7 @@
 ## Lesson 16: Spiritual Elevation Through Krishna Consciousness Is the Only Path to Real Happiness
 
 **Step-by-step instructions from the text:**
-1. It is true that one cannot be happy in the material world through material means.
+ 1. It is true that one cannot be happy in the material world through material means, according to the Vedic tradition.
 2. Freud correctly identified this but offered only palliative treatment.
 3. The real solution is spiritual elevation — changing one's consciousness to Kṛṣṇa consciousness.
 4. When situated in real Kṛṣṇa consciousness, one can face the most severe adversity and remain completely undisturbed.

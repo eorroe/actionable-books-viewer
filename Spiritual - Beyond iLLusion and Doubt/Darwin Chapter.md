@@ -9,7 +9,7 @@
 1. Understand that Darwin's theory of evolution ultimately relies on the concept of "chance variations" — the idea that favorable traits appear by chance.
 2. Recognize that the word "chance" is used when someone cannot explain a phenomenon adequately; it signifies imperfect knowledge.
 3. Accept that there is no such thing as chance in nature — everything operates according to a precise plan.
-4. Study nature's regularities as evidence of planning: the sun rises at exactly calculated times according to the seasons; it does not rise whimsically.
+4. Study nature's regularities as evidence of planning: the sun rises at calculated times according to the seasons; it does not rise whimsically.
 5. Conclude that anyone who attributes natural phenomena to chance has insufficient knowledge and is therefore unfit to give authoritative knowledge.
 
 ### Key Terms and Keywords
@@ -26,9 +26,9 @@
 
 ### Step-by-Step Instructions
 1. Understand that nature operates by laws — for example, big snakes devour small snakes, male tigers kill cubs — but these laws are not blind.
-2. Recognize that behind every natural law is a brain, a very big brain — that brain is God.
+2. Recognize that behind every natural law is a brain, a supreme intelligence — that brain is God.
 3. Study Bhagavad-gītā 9.10: "Under My superintendence material nature produces all moving and nonmoving beings."
-4. Accept that natural activities such as overpopulation control (war, epidemic, famine) are planned, not accidental.
+4. Accept that natural activities such as overpopulation control (war, epidemic, famine) are planned, not accidental, according to the Vedic analysis.
 5. See that just as a Telex machine requires a mechanic to create it, the mechanical order of nature requires a supreme mechanic — God.
 
 ### Key Terms and Keywords
@@ -37,7 +37,7 @@
 - **Bhagavad-gītā 9.10** — the verse stating that material nature works under Kṛṣṇa's direction
 - **Brain behind nature** — God as the supreme intelligence planning and executing natural law
 - **Mechanical order** — the precise, calculated functioning of the universe
-- **Malthusian theory** — the economic theory of overpopulation leading to war and famine
+- **Malthusian theory** — Thomas Malthus's theory of population growth; the economic theory of overpopulation leading to war and famine
 
 ---
 
@@ -49,7 +49,7 @@
 3. Accept that just as a cook combines ghee, spices, rice, and dhal to produce a meal, God combines material ingredients to produce life and species.
 4. Investigate the origin of basic chemicals (carbon, hydrogen, nitrogen, oxygen) and accept that the Vedānta answer is Brahman/Kṛṣṇa.
 5. Study Bhagavad-gītā 10.8: "ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate" — "I am the origin of everything."
-6. Reject the claim that science will one day discover the original source of matter — the answer is already known through Vedic revelation.
+6. Reject the claim that science will one day discover the source of matter — the answer is already known through Vedic revelation.
 7. Distinguish between knowledge received from a perfect authority and "chance"-based speculation.
 
 ### Key Terms and Keywords
@@ -95,7 +95,7 @@
 3. Conclude that if humans and other species coexist now, the same situation must have always existed — human life has always been present.
 4. Recognize that the absence of fossil evidence is not proof of absence — human bodies are cremated after death, leaving no bones for excavation.
 5. See that Darwin's limited excavation of only a few places on Earth cannot be taken as authoritative for the entire planet, let alone the universe.
-6. Note that Darwin studied only one island (Galápagos) and one planet — his knowledge is inherently limited.
+6. Note that Darwin studied only one island (Galápagos) and one planet — his knowledge is limited to material observations.
 
 ### Key Terms and Keywords
 - **Fossil evidence** — bones and remains used by Darwinists to argue for historical species absence
@@ -157,7 +157,7 @@
 4. Understand that Brahmā received the Vedic knowledge and passed it down through the disciplic succession to the present day.
 5. See that if the most intelligent being existed first, then intelligence did not evolve — it was present from the beginning.
 6. Accept that Vedic knowledge coming from Brahmā is perfect and should be preferred over Darwin's imperfect speculations.
-7. Note that millions and millions of years are not astonishing to the Vedic timeline — Brahmā's day alone is 4.3 billion human years.
+ 7. Note that extended periods of years are consistent with the Vedic timeline — Brahmā's day alone is 4.3 billion human years.
 
 ### Key Terms and Keywords
 - **Lord Brahmā** — the first created being in the universe, the most intelligent living entity
@@ -165,7 +165,7 @@
 - **First educated by God** — Brahmā receiving Vedic knowledge directly from Kṛṣṇa
 - **Intelligent philosophy** — the Vedic knowledge existing from the date of Brahmā's birth
 - **Vedic disciplic succession** — the unbroken chain of perfect knowledge transmission
-- **Brahmā's timeline** — millions and millions of years are insignificant compared to Brahmā's lifespan
+- **Brahmā's timeline** — extended periods of years are insignificant compared to Brahmā's lifespan
 
 ---
 
@@ -210,6 +210,6 @@
 
 ---
 
-*Analysis prepared for: BIAD-WESTERN-PHILOSOPHERS-VEDIC-INSIGHTS*
+*Analysis prepared for: BIAD (Beyond Illusion & Doubt)-WESTERN-PHILOSOPHERS-VEDIC-INSIGHTS*
 *Chapter: BID 9: Darwin — Beyond Illusion & Doubt*
 *Pages covered: 95–108 of the Bhaktivedanta Vedabase edition*

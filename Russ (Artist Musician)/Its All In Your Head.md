@@ -287,7 +287,7 @@ No sensitive personal data, credentials, or financial information is discussed i
 
 ---
 
-### Lesson 6: The Otherside – On the Otherside of Your Fear Is Your Truth
+### Lesson 6: The Other Side – On the Other Side of Your Fear Is Your Truth
 
 #### Examples
 
@@ -1026,7 +1026,7 @@ No specific security or safety concerns are raised in this chapter. General prin
 |Self-Belief|The unwavering conviction in your own potential and vision, even when no external evidence supports it; the foundational ingredient for all success|22, 23, 24, 40, 41, 44|
 |Stakeout|The practice of thoroughly studying your industry and ecosystem—fans, players, coaches, and owners—before expecting to succeed, combined with patience through the long wait|55, 56, 57, 58, 59|
 |The Game|Your passion and the pursuit itself; the activity you engage in for the love of it rather than for external rewards|29, 30, 31, 32|
-|The Otherside|The state of being on the far side of fear, where your true self and your dreams exist; reached by catapulting belief over the wall of fear|33, 34, 35, 36, 37|
+|The Other Side|The state of being on the far side of fear, where your true self and your dreams exist; reached by catapulting belief over the wall of fear|33, 34, 35, 36, 37|
 |Tornado Effect|The phenomenon of being awe-struck by your own manifested success even though you expected and prepared for it; reinforces the need for gratitude|77, 78, 79|
 |Trust the What, Fuck the When|The core mantra of the book regarding manifestation timelines: focus on what you want and detach from when you think it should happen|26, 27, 28|
 |Video Game Metaphor|The concept of treating life like a video game where you start at a 60 overall and continuously level up; your future self is the source of inspiration|81, 82, 83|

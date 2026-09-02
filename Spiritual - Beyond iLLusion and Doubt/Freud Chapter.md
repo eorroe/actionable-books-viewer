@@ -3,7 +3,7 @@
 ## Source
 - **Book:** Beyond Illusion & Doubt (BID)
 - **Chapter:** BID 13: Freud
-- **Pages:** 149–157 (approx.)
+- **Pages:** 149–157
 - **Format:** Dialogue between a disciple and Śrīla Prabhupāda
 
 ---
@@ -38,9 +38,9 @@
 
 **Step-by-step instructions from the text:**
 1. The pleasure derived from sexual intercourse is confirmed in the śāstras as tenth class at best (yan maithunādi-gṛhamedhi-sukhaṁ hi tuccham).
-2. For materialists who have no knowledge of Kṛṣṇa consciousness, sex appears to be the highest pleasure.
-3. The aftereffects of sexual pleasure are abominable: labor pains for the mother and responsibility for raising children for the father.
-4. Material pleasures like sex are like one drop of water in a desert compared to the unlimited pleasure of Kṛṣṇa consciousness.
+2. For materialists who have no knowledge of Kṛṣṇa consciousness, sex appears to be the highest material pleasure.
+3. The aftereffects of sexual pleasure are difficult: labor pains for the mother and responsibility for raising children for the father.
+4. Material pleasures like sex are like a small amount compared to the unlimited pleasure of Kṛṣṇa consciousness.
 5. The real psychology is to tolerate the "itching sensation" of sex desire by practicing Kṛṣṇa consciousness.
 
 **Key terms and keywords:** sexual pleasure, frustration, material pleasure, Kṛṣṇa consciousness, tenth-class pleasure, itching sensation, tolerance, śāstras, yan maithunādi-gṛhamedhi-sukhaṁ hi tuccham
@@ -68,7 +68,7 @@
 **Step-by-step instructions from the text:**
 1. The sex appetite is innate in every embodied living being.
 2. The Vedic brahmacarya system restricts a child's sex life from the earliest stages of development.
-3. By diverting the child's attention to Kṛṣṇa consciousness, there is very little chance of personality disorders later in life.
+3. By diverting the child's attention to Kṛṣṇa consciousness, there is little chance of personality disorders later in life.
 4. In the Vedic age, leaders knew that unrestricted sex indulgence increases the duration of materialistic life and forces one to accept a material body birth after birth.
 5. The śāstras enjoin that sexual intercourse is permitted only if married and only for procreation; otherwise it is illicit.
 6. In the Kṛṣṇa consciousness society, illicit sex is prohibited, but regulated legal sex within marriage is allowed.
@@ -97,7 +97,7 @@
 2. This identification with a material body is ignorance.
 3. Thinking "I am Indian, American, Hindu, or Muslim" is egoism of inferior quality.
 4. The superior egoism is: "I am Brahman. I am an eternal servant of Kṛṣṇa."
-5. If a child is taught this superior egoism from the beginning, his false egoism is automatically stopped.
+5. If a child is taught this superior egoism from the beginning, his false egoism is stopped.
 
 **Key terms and keywords:** ahaṅkāra, false ego, bodily identification, ignorance, Brahman, eternal servant of Kṛṣṇa, superior egoism, material body
 

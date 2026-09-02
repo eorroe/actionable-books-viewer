@@ -20,7 +20,7 @@
 
 **Step-by-step instructions:**
 1. Understand that the Absolute Truth is manifested in three features: Brahman (all-pervading), Paramātmā (Supersoul in everyone’s heart), and Bhagavān (personal feature).
-2. Recognize that the Paramātmā feature, situated in everyone’s heart, may be compared to the Holy Spirit.
+2. Recognize that the Paramātmā feature, situated in everyone’s heart, may be compared to the Holy Spirit, according to the Vedic analysis.
 3. Understand that the Brahman feature is present everywhere.
 4. Realize that the highest perfection of spiritual life includes understanding the personal feature of the Lord (Bhagavān).
 5. When one understands Bhagavān, engage in His service.
@@ -37,7 +37,7 @@
 2. Recognize that the living entity is part and parcel of God.
 3. Accept that although eternally existing, the living entity changes bodies.
 4. Internalize the truth: one body after another is created and destroyed, but the living being himself exists eternally.
-5. Reject the misconception that the soul was created at some point.
+5. Reject the misconception that the soul was created at a particular point.
 6. Understand the distinction: material things are created, but spirit is without beginning.
 
 **Key terms and keywords:** soul, eternally existing, part and parcel of God, material body, spiritual identity, created vs. without beginning, Bhagavad-gītā 2.20, transmigration
@@ -60,8 +60,8 @@
 ## Lesson 5: Understand Scripture Through a Realized Guru, Not Personal Interpretation
 
 **Step-by-step instructions:**
-1. Accept that generally every word in scripture has a literal meaning.
-2. Recognize that people cannot understand it properly because they do not hear from the proper person.
+ 1. Accept that generally every word in scripture has a literal meaning, according to the Vedic tradition.
+ 2. Recognize that people cannot understand it properly because they do not hear from the proper person, according to the Vedic tradition.
 3. Avoid interpreting the words of God independently.
 4. Due to imperfect knowledge, our interpretations are also imperfect.
 5. Receive the words of the scriptures through the transparent medium of the guru.
@@ -75,7 +75,7 @@
 ## Lesson 6: The Process of Transmigration (Reincarnation)
 
 **Step-by-step instructions:**
-1. Understand that the material body grows, remains for some time, reproduces, grows old, and becomes useless.
+1. Understand that the material body grows, remains for a period of time, reproduces, grows old, and becomes useless.
 2. Recognize that the living entity has to leave one body for another.
 3. Accept that once in a new body, he again attempts to fulfill his desires.
 4. Understand that he again goes through the process of dying and accepting another material body.

@@ -6,9 +6,9 @@
 ## Chapter Overview
 
 **Source:** *Beyond Illusion and Doubt* (BID), Chapter 6: Thomas Aquinas  
-**Subject:** Thomas Aquinas (1225?–1274), leading Christian philosopher of the Middle Ages  
+**Subject:** Thomas Aquinas (1225–1274), leading Christian philosopher of the Middle Ages  
 **Format:** Q&A dialogue between Śrīla Prabhupāda and a disciple, comparing Aquinas's ideas with Vedic wisdom  
-**Core Thesis:** Many of Aquinas's ideas agree with Vedic teachings (Bhagavad-gītā, Brahma-saṁhitā, Padma Purāṇa, Śrīmad-Bhāgavatam, Vedānta-sūtra, Śvetāśvatara Upaniṣad), but Aquinas errs in claiming the material universe was created *ex nihilo* (out of nothing) and in his views on the soul being created.
+**Core Thesis:** Aquinas's ideas agree with Vedic teachings (Bhagavad-gītā, Brahma-saṁhitā, Padma Purāṇa, Śrīmad-Bhāgavatam, Vedānta-sūtra, Śvetāśvatara Upaniṣad), but Aquinas errs in claiming the material universe was created *ex nihilo* (out of nothing) and in his views on the soul being created.
 
 ---
 
@@ -40,7 +40,7 @@
 1. Approach a bona fide spiritual master (guru) who has seen the Absolute Truth through the disciplic succession.
 2. Render submissive, humble service to the spiritual master (*sevayā*).
 3. Inquire from him in a submissive mood (*paripraśnena*).
-4. Offer obeisances to the spiritual master's lotus feet at least three times a day (*yasya prasādād bhagavat-prasādo*).
+ 4. Offer obeisances to the spiritual master's lotus feet (*yasya prasādād bhagavat-prasādo*).
 5. Understand that without the grace of the spiritual master, one cannot make advancement.
 6. Receive the message of truth from one who carries it without personal speculation.
 
@@ -303,7 +303,7 @@
 6. Engage in the four regulative principles: no meat-eating, no illicit sex, no intoxication, no gambling.
 7. Practice Kṛṣṇa consciousness 24 hours a day — the spiritual platform is absolute, so one never becomes tired.
 
-**Key Terms & Keywords:** bhakti-yoga, devotional service, mahā-mantra, Hare Kṛṣṇa, all yogas combined, 24-hour engagement, Kṛṣṇa consciousness, regulative principles, spiritual platform, transcendental, ISKCON
+**Key Terms & Keywords:** bhakti-yoga, devotional service, mahā-mantra, Hare Kṛṣṇa, all yogas combined, 24-hour engagement, Kṛṣṇa consciousness, regulative principles, spiritual platform, transcendental, International Society for Krishna Consciousness (ISKCON)
 
 ---
 
@@ -347,7 +347,7 @@ Vedānta-sūtra (janmādy asya yataḥ, athāto brahma-jijñāsā)
 Śrī Gurv-aṣṭaka 8
 
 **Key Figures:**  
-Thomas Aquinas (1225?–1274), Śrīla Prabhupāda (A.C. Bhaktivedanta Swami Prabhupada), Kṛṣṇa (Govinda), Hayagrīva dāsa, Śyāmasundara dāsa
+Thomas Aquinas (1225–1274), Śrīla Prabhupāda (A.C. Bhaktivedanta Swami Prabhupada), Kṛṣṇa (Govinda), Hayagrīva dāsa, Śyāmasundara dāsa
 
 **Core Practices:**  
 Bhakti-yoga (devotional service), japa (chanting), mahā-mantra (Hare Kṛṣṇa), sevā (service to spiritual master), prasāda, tapasya (austerity), brahmacarya (celibacy), Kṛṣṇa consciousness, disciplic succession (paramparā), submissive inquiry (paripraśnena)

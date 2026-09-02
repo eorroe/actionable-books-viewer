@@ -7,7 +7,7 @@ This chapter teaches that thoughts carry real weight in the universe and that yo
 1. Fully embody the reality you want—not just think about it, but feel it in your entire being.
 2. Close your eyes and immerse yourself in the sensory details of your desired outcome.
 3. Make yourself feel the pride and joy of already having achieved your goal.
-4. Visualize specific scenarios with all five senses—the sights, sounds, smells, and physical sensations.
+4. Visualize specific scenarios with all five senses—the sights, sounds, smells, tastes, and physical sensations.
 5. Transmute those vivid feelings into your daily work as you move toward your goal.
 6. Believe so deeply that success is already true, and you are simply waiting for the world to catch up.
 7. Write your goals as declarations of fact, not wishes (e.g., "I have a platinum debut album" rather than "I want a platinum album").

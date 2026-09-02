@@ -1,4 +1,4 @@
-# Chapter 6 Analysis: The Otherside - On the Otherside of Your Fear Is Your Truth
+# Chapter 6 Analysis: The Other Side - On the Other Side of Your Fear Is Your Truth
 
 ## Chapter Summary
 This chapter explores how pursuing your passion with supreme confidence will inevitably offend some people while simultaneously attracting and inspiring others. Russell argues that confidence and passion are contagious forces that naturally separate genuine supporters from "energy leeches" who are too afraid to chase their own dreams. He shares his personal journey from doubting his ability to rap to letting his elevated self take over at the microphone, emphasizing that fear is merely a wall that belief can catapult you over.
@@ -10,15 +10,15 @@ This chapter explores how pursuing your passion with supreme confidence will ine
 4. Share your passion to create a domino effect - your pursuit of what you love will inspire others to chase their own dreams, creating a ripple effect of confidence.
 5. Let your elevated self take control - stop overthinking and allow your higher, more confident version to take the wheel when fear tries to hold you back.
 6. Trust that one believer can be enough - a single supportive conversation or person can provide the initial boost needed to overcome self-doubt and start.
-7. Push through the wall of fear - recognize that fear is an obstacle, but belief is the mechanism that launches you over it to your truth on the otherside.
+7. Push through the wall of fear - recognize that fear is an obstacle, but belief is the mechanism that launches you over it to your truth on the other side.
 8. Start even if you're terrible - record those "dog shit" first attempts because being on the court is what matters; skill develops through action.
 9. Stay so consumed by your passion that you don't notice others' confidence or criticism - when you're fully immersed in your own journey, you won't have time to be distracted by anyone else.
 
 ## Key Quotes
 - "Confidence is contagious and at the same time offensive. You pick."
-- "You can push a button and something pops out on the otherside but they don't teach that they just want you trapped in your mind."
+- "You can push a button and something pops out on the other side but they don't teach that they just want you trapped in your mind."
 - "Fear is the wall. Belief is what catapults you over the wall."
-- "Welcome to the otherside."
+- "Welcome to the other side."
 - "The transfer of confidence that happens when you are around someone passionate is enlightenment."
 - "When somebody is confident and passionate, their enthusiasm is contagious. The energy of the people you surround yourself with rubs off on you; choose wisely."
 

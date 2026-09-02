@@ -19,7 +19,7 @@ This chapter centers on the idea that the future version of yourself should be y
 - "Your potential has no roof. Stop giving it ceilings."
 - "What if it can turn out better than you can imagine?"
 - "As long as you are becoming the best version of you, you will not disappoint yourself. If you ever have a crisis of faith, you will always have the answer: The answer is YOU."
-- "I GET MY INSPIRATION FROM MY OWN POTENTIAL." — Lapped
+- "I GET MY INSPIRATION FROM MY OWN POTENTIAL."
 
 ## Best Practices
 - Make the future version of yourself your primary motivator in daily decisions.

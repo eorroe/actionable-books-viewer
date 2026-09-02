@@ -9,7 +9,7 @@
 1. Recognize that it is natural to accept a leader, and if we do not accept God as leader, we will accept some material substitute.
 2. Identify material substitutes that people accept as leaders in place of God — sex, bodily comforts, nationalism, etc.
 3. Understand that accepting any material leader means accepting the leadership of māyā (illusion).
-4. Make the conscious decision to accept Kṛṣṇa as the only true leader.
+4. Make the conscious decision to accept Kṛṣṇa as the true leader.
 5. Align your life to follow Kṛṣṇa's guidance instead of material impulses.
 
 ### Key Terms and Keywords
@@ -43,14 +43,14 @@
 ## Lesson 3: Understand Kṛṣṇa as the Only Puruṣa — The Only Enjoyer
 
 ### Step-by-Step Instructions
-1. Recognize that Kṛṣṇa is the only puruṣa, the only direct enjoyer — all others are indirect enjoyers.
+1. Recognize that Kṛṣṇa is the puruṣa, the direct enjoyer — all others are indirect enjoyers.
 2. Understand that the living entities are predominated (prakṛti) and Kṛṣṇa is the predominator (puruṣa).
 3. On the material platform, when a wife helps her husband enjoy, she also becomes an enjoyer — similarly, when we help Kṛṣṇa enjoy, we become enjoyers.
-4. Apply the analogy: the hand puts the rasagullā into the mouth so the mouth can taste it; the hand cannot taste directly. Kṛṣṇa is the only direct enjoyer; others enjoy by satisfying Him.
+4. Apply the analogy: the hand puts the rasagullā into the mouth so the mouth can taste it; the hand cannot taste directly. Kṛṣṇa is the direct enjoyer; others enjoy by satisfying Him.
 5. Redirect your desire to enjoy toward serving Kṛṣṇa's enjoyment.
 
 ### Key Terms and Keywords
-- **Puruṣa** — the predominator, the enjoyer; Kṛṣṇa is the only true puruṣa
+- **Puruṣa** — the predominator, the enjoyer; Kṛṣṇa is the true puruṣa
 - **Prakṛti** — the predominated, the enjoyed; the living entity's original position
 - **Indirect enjoyer** — one who enjoys by serving Kṛṣṇa
 - **Supreme enjoyer** — Kṛṣṇa as the center and source of all enjoyment
@@ -62,7 +62,7 @@
 
 ### Step-by-Step Instructions
 1. Acknowledge the Vedic injunction: to acquire perfect knowledge, one must approach a guru (tad vijñānārthaṁ sa gurum evābhigacchet).
-2. Understand that the guru must be a factual representative of God — one who has seen and experienced God, not merely theoretically.
+2. Understand that the guru must be a representative of God — one who has seen and experienced God, not merely theoretically.
 3. Approach such a guru through service, surrender, and sincere inquiry.
 4. Recognize that without a self-realized guide, spiritual search remains frustrated.
 5. Do not try to learn from a guru what you cannot attain on your own — accept the truth from one who knows it.
@@ -103,21 +103,21 @@
 2. Recognize that this natural tendency is seen even in animals — a puppy seeks shelter, a child seeks protection.
 3. When consciousness is developed in the human form, take Kṛṣṇa as the proper shelter and leader.
 4. Follow Bhagavad-gītā's ultimate instruction: sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja — "Abandon all varieties of religion and just surrender unto Me."
-5. Understand that taking Kṛṣṇa's shelter is the ultimate solution to all of life's problems.
+5. Understand that taking Kṛṣṇa's shelter is the solution to all of life's problems.
 
 ### Key Terms and Keywords
 - **Constitutional position** — the living entity's original nature as a servant of God
 - **Shelter (śaraṇa)** — taking refuge under Kṛṣṇa's protection
 - **Sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja** — Bhagavad-gītā 18.66; the ultimate instruction
 - **Master** — the natural tendency to seek a sheltering authority
-- **Kṛṣṇa as leader** — the only leader who can give perfect protection and guidance
+- **Kṛṣṇa as leader** — the leader who can give protection and guidance
 
 ---
 
 ## Lesson 7: Understand Kṛṣṇa as the Supreme Father and Yourself as His Eternal Servant
 
 ### Step-by-Step Instructions
-1. Recognize that Kṛṣṇa, or God, is the supreme father of all living entities.
+1. Recognize that Kṛṣṇa, or God, is the father of all living entities.
 2. Understand that all men are sons of God, born of their father — this is an experience common to everyone at all times.
 3. Realize that you are an eternal servant of God (kṛṣṇera nitya-dāsa).
 4. Understand the family structure: God is the supreme father, material nature (prakṛti) is the mother, and living entities are the sons.
@@ -268,7 +268,7 @@
 - **Sinful reactions** — karma accumulated by serving material desires
 - **Material service** — serving bodily and mental demands that never satisfy
 - **Real peace** — the result of universal Kṛṣṇa consciousness
-- **God's service** — the only service that brings complete satisfaction
+- **God's service** — the service that brings complete satisfaction
 
 ---
 
@@ -318,7 +318,7 @@
 1. Recognize that the salvation of the world consists in the salvation of the individual soul.
 2. Understand that society is the sum total of individuals in need of redemption.
 3. Realize that if the individual is not truly regenerated in spirit, society cannot be either.
-4. Understand that the only thing that saves man from submersion into the masses is his relationship to God.
+4. Understand that the thing that saves man from submersion into the masses is his relationship to God.
 5. Make your own spiritual progress the priority — this is the basis of changing the world.
 6. Cooperate with Kṛṣṇa consciousness movement to liberate human society from the gross darkness of ignorance.
 
@@ -346,7 +346,7 @@
 - **Inner man** — the soul; the real locus of transformation
 - **External energy (māyā)** — illusion; material progress as expansion of māyā
 - **Material progress** — advancement of external civilization; not the goal of life
-- **Deep-seated change** — inner spiritual transformation; the only real change
+- **Deep-seated change** — inner spiritual transformation; the real change
 - **Saintly life** — minimizing material necessities for spiritual advancement
 - **Materialistic progress** — the enemy of the individual's spiritual development
 
@@ -397,7 +397,7 @@
 ### Step-by-Step Instructions
 1. Recognize that atheistic communism is the greatest threat to human civilization — it degrades man by robbing him of freedom in the moral and spiritual sense.
 2. Understand that the state has taken the place of God in communist ideology — state slavery is a form of worship.
-3. Accept that the only antidote to Marxism is an equally potent faith of a nonmaterialistic kind.
+3. Accept that the antidote to Marxism is an equally potent faith of a nonmaterialistic kind.
 4. Realize that Kṛṣṇa consciousness is the nonmaterialistic religion above Marxism, capitalism, and all other materialistic "isms."
 5. Teach that we are servants, but our service is wrongly placed — render service to Kṛṣṇa to find happiness.
 6. Support neither communism nor capitalism, nor pseudo-religions — be only for Kṛṣṇa.
@@ -405,7 +405,7 @@
 ### Key Terms and Keywords
 - **Atheistic communism** — materialistic ideology that replaces God with the state
 - **Nonmaterialistic religion** — Kṛṣṇa consciousness; the antidote to materialism
-- **Alexipharmic** — the antidote; Jung's term for the remedy to communism
+- **Alexipharmic** (from Greek alexipharmakos, meaning 'protecting from harm') — Jung's term for the remedy to communism
 - **State as God** — communism's substitution of state worship for God worship
 - **Kṛṣṇa consciousness** — the nonmaterialistic movement above all materialistic "isms"
 - **Pseudo religions** — ineffective religious forms that do not address the soul's needs
@@ -437,7 +437,7 @@
 
 ### Step-by-Step Instructions
 1. Understand that every living entity is by nature a female, prakṛti — the predominated.
-2. Recognize that Kṛṣṇa is the only predominator, puruṣa.
+2. Recognize that Kṛṣṇa is the predominator, puruṣa.
 3. Realize that under illusion, the living entity attempts to become male, an enjoyer — this is māyā.
 4. Understand that although the jīvātmā is not puruṣa, it has the propensity to enjoy like a male and is therefore sometimes described as puruṣa.
 5. Come to original consciousness: understand that you are not the predominator but the predominated.
@@ -445,7 +445,7 @@
 
 ### Key Terms and Keywords
 - **Prakṛti** — female; the predominated; the living entity's original constitutional position
-- **Puruṣa** — male; the predominator; Kṛṣṇa is the only true puruṣa
+- **Puruṣa** — male; the predominator; Kṛṣṇa is the true puruṣa
 - **Māyā** — illusion; the attempt to imitate Kṛṣṇa as the enjoyer
 - **Jīvātmā** — the individual soul
 - **Predominated** — the living entity's real position as served by Kṛṣṇa
@@ -488,11 +488,11 @@
 - **Karmaṇā daiva-netreṇa** — by higher order, the soul receives a body according to its karma
 - **Tamo-guṇa, rajo-guṇa, sattva-guṇa** — the three modes of ignorance, passion, and goodness
 - **Lower forms of life** — bodies awarded to those without Kṛṣṇa consciousness
-- **Kṛṣṇa consciousness** — the only insurance for a joyful death and return to Godhead
+- **Kṛṣṇa consciousness** — the insurance for a joyful death and return to Godhead
 - **Material body** — the temporary covering that is destroyed at death
 
 ---
 
-*Analysis prepared for: BIAD-WESTERN-PHILOSOPHERS-VEDIC-INSIGHTS*
+*Analysis prepared for: BIAD (Beyond Illusion & Doubt)-WESTERN-PHILOSOPHERS-VEDIC-INSIGHTS*
 *Chapter: BID 15: Carl Jung — Beyond Illusion & Doubt*
 *Pages covered: Based on Vanisource BID 15 Carl Jung*

@@ -15,9 +15,9 @@ This chapter teaches the critical importance of living with urgency and taking i
 9. Focus on output volume - do the work so you can do it again
 10. Get in as many repetitions as possible, knowing repetition is the father of perfection
 11. Be comfortable with not being great for a year or even ten years
-11. Accept that even achieved goals won't be perfect - perfection is always on the horizon
-12. Surround yourself only with people who value both their own time and yours
-13. Distance yourself from those who idolize the fake and dismiss the real
+12. Accept that even achieved goals won't be perfect - perfection is always on the horizon
+13. Surround yourself only with people who value both their own time and yours
+14. Distance yourself from those who idolize the fake and dismiss the real
 
 ## Key Quotes
 - "Move with a purpose. Move with urgency. Move like you're trying to make it happen by tonight, like there is someone else out there in their basement working super hard who is going to take it away from you if you don't do it first."

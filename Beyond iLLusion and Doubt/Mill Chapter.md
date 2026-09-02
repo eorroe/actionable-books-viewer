@@ -13,7 +13,7 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 
 ### Step-by-step instructions from the text:
 
-1. **Recognize your dual nature.** Understand that you possess both a **rational nature** and an **animal nature**. The animal nature encompasses the basic bodily activities of eating, sleeping, mating, and defending — activities shared with animals.
+ 1. **Recognize your dual nature.** Understand that you possess both a **rational nature** and an **animal nature**. The animal nature encompasses the basic bodily activities of eating, sleeping, mating, and defending — activities shared with animals, according to the Vedic analysis.
 2. **Use reason to examine your habits.** Apply your rational faculty to question whether your daily habits are truly necessary. For example, by reason one can understand that eating meat is not necessary for a healthy life.
 3. **Do not simply follow nature's prompts.** Human beings are accustomed to eating the most abominable foods and, in doing so, become implicated. Do not be carried away by nature's way, which says "you can eat anything."
 4. **Direct your rationality toward the Absolute Truth.** The proper use of human reason is to search out the Absolute Truth (Kṛṣṇa/God). This distinguishes human life from animal life and gives life its highest purpose.
@@ -79,7 +79,7 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 
 ### Step-by-step instructions from the text:
 
-1. **Understand that virtues must be cultivated.** Virtues like courage, cleanliness, and self-control are **not instinctive in human nature**. They must be cultivated through proper education and culture.
+ 1. **Understand that virtues must be cultivated.** Virtues like courage, cleanliness, and self-control are **not instinctive in human nature**, according to the Vedic tradition. They must be cultivated through proper education and culture.
 2. **Study the Bhagavad-gītā as the supreme educational text.** Recognize that the Bhagavad-gītā is the grand summation of all Vedic literature. Everyone should read it as it is, without unnecessary interpretation.
 3. **Accept the need for proper education.** Educational systems in human society must teach according to the instructions given in the Vedic literatures. Without such education, human beings remain on the animal platform.
 4. **Become educated in the science of Kṛṣṇa consciousness.** The highest education is understanding your constitutional position as an eternal servant of Kṛṣṇa. This education delivers you from illusion.
@@ -102,7 +102,7 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 
 ### Step-by-step instructions from the text:
 
-1. **Understand that everything has a cause.** Recognize that for every phenomenon, there is a cause. Scientists admit that nothing can come out of nothing.
+ 1. **Understand that everything has a cause.** Recognize that for every phenomenon, there is a cause. According to the Vedic tradition, nothing can come out of nothing.
 2. **Trace causes back to their origin.** While Mill proposed methods for studying immediate causes (e.g., the Method of Agreement), the Vedic approach goes further to find the **original cause of all causes**.
 3. **Know that philosophy means finding the cause of the cause.** The Sanskrit word *darśana* means "to find the cause." Philosophy is called *darśana-śāstra* — finding the cause of the cause — ultimately arriving at Kṛṣṇa.
 4. **Accept Kṛṣṇa as the ultimate cause.** The ultimate cause of everything is Brahman, the Absolute Truth — which in its personal aspect is Lord Kṛṣṇa. Everything we see is an effect of His original push.
@@ -177,7 +177,7 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 ### Step-by-step instructions from the text:
 
 1. **Define morality correctly.** True morality means **carrying out the orders of God**. Morality is not a manufactured social convention; it is rooted in religion, which means obeying God's will.
-2. **Do not manufacture your own morality.** Moral standards differ from country to country and era to era because they are often manufactured. True morality is universal because it is based on the orders of the Supreme Authority.
+ 2. **Do not manufacture your own morality.** Moral standards differ from country to country and era to era because they are often manufactured. True morality is universal because it is based on the orders of the Supreme Authority, according to the Vedic tradition.
 3. **Learn your duty from higher authority.** A sense of duty is different from mere conscience. You must receive instructions from higher personalities (God, spiritual master, śāstras) to truly know your duty. Without this, you cannot know what is right.
 4. **Apply morality contextually through higher guidance.** Arjuna initially considered fighting to be immoral, but when he received instructions from Kṛṣṇa, he understood that fighting as a kṣatriya was his moral duty. Context and divine direction determine true morality.
 5. **Use the Mahājanas as the standard.** Follow the example and desires of great personalities (*mahājanas*) as the standard for what is morally right. Their standard is superior to the shifting opinions of the masses.
@@ -203,7 +203,7 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 
 1. **Observe the body's changes.** Watch your own body and those of others: the body of an infant changes into a child, a young person, a middle-aged person, and then an old person. In every condition, **the conscious self remains the same**.
 2. **Deduce that you are not the body.** If the body is constantly changing but "I" (the conscious self) remain the same, then logically you are something **other than the body**. The body is yours, but you are not the body.
-3. **Understand this through common sense, not belief.** The immortality of the soul is not a matter of belief — it is a **fact observable through reason and daily experience**. A person who cannot understand this is compared to an animal.
+ 3. **Understand this through common sense, not belief.** The immortality of the soul is not a matter of belief — it is a **fact observable through reason and daily experience**. A person who cannot understand this is compared to an animal in the Vedic texts.
 4. **Refer to Bhagavad-gītā 2.12.** Kṛṣṇa states: "There was never a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to exist." The soul never takes birth and never dies.
 5. **Do not neglect the soul while taking care of the body.** Taking care of the body while neglecting the soul within is like a foolish man taking care of a birdcage while neglecting the bird inside it.
 6. **Use the body as a vehicle for spiritual advancement.** The human body is meant for self-realization — understanding the soul and its relationship with Kṛṣṇa. Do not waste it merely on eating, sleeping, mating, and defending.
@@ -228,8 +228,8 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 
 1. **Understand that pleasures differ in quality, not just quantity.** Mill correctly identified that pleasures differ in *kind* (quality), not just intensity and duration (quantity). Some pleasures are inherently superior to others.
 2. **Accept that a small amount of higher pleasure exceeds a large amount of lower pleasure.** This is the Vedic position: even a little devotional service (Kṛṣṇa consciousness) is more valuable than vast amounts of material sense gratification. "In this endeavor there is no loss or diminution, and a little advancement on this path can protect one from the most dangerous type of fear." (Bg. 3.40)
-3. **Seek eternal pleasure, not transient pleasure.** Ordinary people take sex to be the highest pleasure, but it lasts only a few minutes. A wise person seeks pleasure that continues **perpetually**. *Nitya* = eternal; *ānanda* = bliss. Those who are intelligent seek eternal spiritual pleasure, not transient bodily pleasure.
-4. **Know that higher pleasure is experienced by the few.** The pleasure of Kṛṣṇa consciousness is transcendental, but it is understood only by a few fortunate souls. There may be millions of stars, but one moon is sufficient to drive away darkness — similarly, one realized soul is sufficient to spread spiritual light.
+ 3. **Seek eternal pleasure, not transient pleasure.** People in the material world take sex to be the highest pleasure, but it lasts only briefly. A wise person seeks pleasure that continues **perpetually**. *Nitya* = eternal; *ānanda* = bliss. Those who are intelligent seek eternal spiritual pleasure, not transient bodily pleasure.
+4. **Know that higher pleasure is experienced by fortunate souls.** The pleasure of Kṛṣṇa consciousness is transcendental, but it is understood only by fortunate souls. There may be millions of stars, but one moon is sufficient to drive away darkness — similarly, one realized soul is sufficient to spread spiritual light.
 5. **Train yourself to appreciate higher pleasure.** Educate yourself to appreciate higher spiritual pleasure rather than remaining satisfied with lower, bodily pleasures. Through hearing about Kṛṣṇa and associating with devotees, you can develop a taste for higher pleasure.
 6. **Use the mahājanas as the standard for desire.** Do not let the opinions of the masses determine what is desirable. Follow what the great personalities (*mahājanas*) desire. Caitanya Mahāprabhu desired Kṛṣṇa, and that should be the real standard for all desires.
 
@@ -275,8 +275,8 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 
 ### Step-by-step instructions from the text:
 
-1. **Do not assume that what most people desire is good.** Mill's contention was: "if something is desired, it is desirable." But living entities desire many things — a hog desires stool, addicts desire alcohol, Bowery alcoholics desire drinking. Their desires do not make those things desirable.
-2. **Question the "greatest number" criterion.** The greatest number of people may say cigarettes are nice, or that sex is the highest pleasure. The fact that many people desire something does not make it good or desirable.
+ 1. **Do not assume that what most people desire is good.** Mill's contention was: "if something is desired, it is desirable." But living entities in the material world desire things according to their bodily identities — a hog desires stool, addicts desire alcohol, Bowery alcoholics desire drinking. Their desires do not make those things desirable.
+2. **Question the "greatest number" criterion.** The greatest number of people may say cigarettes are nice, or that sex is the highest pleasure. The fact that people desire something does not make it good or desirable.
 3. **Take the mahājanas as your standard.** We should know what the greatest personalities, the *mahājanas*, are desiring, and we should make that our standard. We may desire something harmful and not desire the good.
 4. **Learn from Kṛṣṇa's example.** In the Bhagavad-gītā, Kṛṣṇa wanted Arjuna to fight, but this was not Arjuna's original desire. Arjuna changed his mind because he accepted the standard of a higher authority (Kṛṣṇa).
 5. **Understand that conditioned souls are fools.** According to Vedic philosophy, man is born a fool, but he can be made intelligent through education and culture. The pleasure followed by the greatest number is usually the pleasure of fools.

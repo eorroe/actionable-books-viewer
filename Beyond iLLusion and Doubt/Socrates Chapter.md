@@ -9,7 +9,7 @@
 1. Recognize that philosophy and spiritual understanding are perfected only when in harmony with the Absolute Truth — God (Kṛṣṇa).
 2. Understand that dharma (true religion) means carrying out the orders given by God — it cannot be manufactured by human beings.
 3. Accept that just as individual citizens cannot manufacture laws (only the government can), individuals cannot manufacture their own religious or moral systems.
-4. Make the conscious decision to follow God's orders cent percent rather than creating personal or social conventions of right and wrong.
+ 4. Make the conscious decision to follow God's orders completely rather than creating personal or social conventions of right and wrong.
 5. Reject relativism — the idea that standards of truth, right and wrong are established solely by individual opinion or social convention.
 
 ### Key Terms and Keywords
@@ -28,7 +28,7 @@
 ## Lesson 2: Seek the Absolute Truth Beyond Mere Speculation and Opinion
 
 ### Step-by-Step Instructions
-1. Acknowledge that there is an absolute, universal truth or good — beyond mere speculation and personal opinion — that can be known clearly and with certainty.
+1. Acknowledge that there is an absolute, universal truth or good — beyond mere speculation and personal opinion — that can be known clearly and with certainty, according to the Vedic tradition.
 2. Do not accept that "if you believe it, then it's true for you" — this relativistic thinking is a path to confusion.
 3. Direct your intellectual endeavor toward discovering this absolute good rather than remaining satisfied with relative or situational truths.
 4. Understand that relative truth depends on and derives its reality from the Absolute Truth — just as the reflection of the sun in water derives its light from the sun itself.
@@ -50,11 +50,11 @@
 ## Lesson 3: Practice the Maieutic Method — Awaken Knowledge From Within
 
 ### Step-by-Step Instructions
-1. Do not impose information from an external source onto the soul as a means of gaining true knowledge — true knowledge must be awakened from within.
+ 1. Do not impose information from an external source onto the soul as a means of gaining true knowledge — true knowledge must be awakened from within, according to the Vedic tradition.
 2. If you are a teacher, your role is to direct, encourage, and prod the student until they give birth to the truth themselves — do not simply lecture.
 3. Understand that knowledge is ultimately a kind of recollection or remembrance — the soul possessed it in a previous life and has forgotten.
 4. Use questioning and dialogue to help others uncover what they already know deep within them.
-5. Accept that the continuity of the soul (its existence through many lives) is evidenced by the fact that one person is highly intelligent while another is ignorant — this difference comes from past life cultivation of knowledge.
+5. Accept that the continuity of the soul (its existence through lives) is evidenced by the fact that one person is highly intelligent while another is ignorant — this difference comes from past life cultivation of knowledge.
 
 ### Key Terms and Keywords
 - **Maieutic Method** — Socratic method; like a midwife helping give birth to truth from within the soul
@@ -121,7 +121,7 @@
 5. Understand the qualifications of a real spiritual master: he is constantly seeing the Lord within his heart (as the Supersoul) and takes advice from Him; Kṛṣṇa gives such a master intelligence from within (dadāmi buddhi-yogaṁ tam).
 6. Accept that only one who has *seen* the truth (tattva-darśinaḥ) can impart that knowledge — mere academic learning is insufficient.
 7. If you are a teacher, give your disciples a genuine chance to develop their intelligence — encourage them, support them when they stumble, and help them learn to think properly about how to return to Godhead.
-8. Understand that surrendering to Kṛṣṇa's instructions directly saves time and many, many births — compared to the slow path of self-searching for knowledge.
+8. Understand that surrendering to Kṛṣṇa's instructions directly saves time and births — compared to the slow path of self-searching for knowledge.
 
 ### Key Terms and Keywords
 - **Guru** — spiritual master; bona fide representative of God
@@ -187,7 +187,7 @@
 ## Lesson 9: Stand Firm in Your Convictions — Even to the Point of Martyrdom
 
 ### Step-by-Step Instructions
-1. Do not compromise your deeply held spiritual and moral convictions, even when faced with severe consequences including loss of social standing, freedom, or life itself.
+ 1. Do not compromise your deeply held spiritual and moral convictions when those convictions are based on authorized Vedic teachings, even when faced with significant consequences including loss of social standing, freedom, or life itself.
 2. Socrates' example demonstrates the principle: he could have avoided the death penalty by compromising his principles, but he refused and chose martyrdom instead.
 3. Understand that sticking to one's principles is the hallmark of a great soul, especially in a society that does not support independent thinking or spiritual values.
 4. When you find yourself in a society or environment hostile to spiritual life and independent thought, maintain your inner compass — do not conform to external pressure.

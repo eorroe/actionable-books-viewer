@@ -121,7 +121,7 @@
 5. Understand the qualifications of a real spiritual master: he is constantly seeing the Lord within his heart (as the Supersoul) and takes advice from Him; Kṛṣṇa gives such a master intelligence from within (dadāmi buddhi-yogaṁ tam).
 6. Accept that only one who has *seen* the truth (tattva-darśinaḥ) can impart that knowledge — mere academic learning is insufficient.
 7. If you are a teacher, give your disciples a genuine chance to develop their intelligence — encourage them, support them when they stumble, and help them learn to think properly about how to return to Godhead.
-8. Understand that surrendering to Kṛṣṇa's instructions directly saves time and many, many births — compared to the slow path of self-searching for knowledge.
+8. Understand that surrendering to Kṛṣṇa's instructions directly saves time and many births — compared to the slow path of self-searching for knowledge.
 
 ### Key Terms and Keywords
 - **Guru** — spiritual master; bona fide representative of God
@@ -205,6 +205,6 @@
 
 ---
 
-*Analysis prepared for: BIAD-WESTERN-PHILOSOPHERS-VEDIC-INSIGHTS*
+*Analysis prepared for: BIAD (Beyond Illusion & Doubt)-WESTERN-PHILOSOPHERS-VEDIC-INSIGHTS*
 *Chapter: BID 1: Socrates — Beyond Illusion & Doubt*
 *Pages covered: 8–18 of the Bhaktivedanta Vedabase edition*

@@ -7,8 +7,8 @@
 
 ### Step-by-Step Instructions
 1. Understand that Darwin's theory of evolution ultimately relies on the concept of "chance variations" — the idea that favorable traits appear by chance.
-2. Recognize that the word "chance" is used when someone cannot explain a phenomenon adequately; it signifies imperfect knowledge.
-3. Accept that there is no such thing as chance in nature — everything operates according to a precise plan.
+ 2. Recognize that the word "chance" is used when someone cannot explain a phenomenon adequately; it signifies imperfect knowledge, according to the Vedic analysis.
+ 3. Accept that there is no such thing as chance in nature — everything operates according to a precise plan, according to the Vedic understanding.
 4. Study nature's regularities as evidence of planning: the sun rises at exactly calculated times according to the seasons; it does not rise whimsically.
 5. Conclude that anyone who attributes natural phenomena to chance has insufficient knowledge and is therefore unfit to give authoritative knowledge.
 
@@ -26,9 +26,9 @@
 
 ### Step-by-Step Instructions
 1. Understand that nature operates by laws — for example, big snakes devour small snakes, male tigers kill cubs — but these laws are not blind.
-2. Recognize that behind every natural law is a brain, a very big brain — that brain is God.
+ 2. Recognize that behind every natural law is a brain, a very big brain — that brain is God, according to the Vedic tradition.
 3. Study Bhagavad-gītā 9.10: "Under My superintendence material nature produces all moving and nonmoving beings."
-4. Accept that natural activities such as overpopulation control (war, epidemic, famine) are planned, not accidental.
+ 4. Accept that natural activities such as overpopulation control (war, epidemic, famine) are planned, not accidental, according to the Vedic analysis.
 5. See that just as a Telex machine requires a mechanic to create it, the mechanical order of nature requires a supreme mechanic — God.
 
 ### Key Terms and Keywords
@@ -45,7 +45,7 @@
 
 ### Step-by-Step Instructions
 1. Understand that the combination of material ingredients does not take place automatically.
-2. Study the cooking analogy: many ingredients may be gathered, but they do not combine by themselves — a cook is required.
+2. Study the cooking analogy: ingredients may be gathered, but they do not combine by themselves — a cook is required.
 3. Accept that just as a cook combines ghee, spices, rice, and dhal to produce a meal, God combines material ingredients to produce life and species.
 4. Investigate the origin of basic chemicals (carbon, hydrogen, nitrogen, oxygen) and accept that the Vedānta answer is Brahman/Kṛṣṇa.
 5. Study Bhagavad-gītā 10.8: "ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate" — "I am the origin of everything."
@@ -65,7 +65,7 @@
 ## Lesson 4: Understand the True Theory of Evolution — The Soul Evolves Through Transmigration, Not the Body
 
 ### Step-by-Step Instructions
-1. Recognize that Darwin's theory addresses only the body, completely missing the soul — "They're missing the whole point."
+ 1. Recognize that Darwin's theory addresses only the body, completely missing the soul — "They're missing the whole point," according to the Vedic perspective.
 2. Understand that the soul (living entity) is eternal and transmigrates from one body to another.
 3. Accept from the Padma Purāṇa that there are exactly 8,400,000 species of life.
 4. Realize that all 8,400,000 species exist simultaneously — they do not evolve one from another.
@@ -92,9 +92,9 @@
 ### Step-by-Step Instructions
 1. Understand Darwin's claim: there were no human beings millions of years ago.
 2. Observe that human beings currently exist alongside all other species simultaneously.
-3. Conclude that if humans and other species coexist now, the same situation must have always existed — human life has always been present.
+ 3. Conclude that if humans and other species coexist now, the same situation must have always existed — human life has always been present, according to the Vedic understanding.
 4. Recognize that the absence of fossil evidence is not proof of absence — human bodies are cremated after death, leaving no bones for excavation.
-5. See that Darwin's limited excavation of only a few places on Earth cannot be taken as authoritative for the entire planet, let alone the universe.
+5. See that Darwin's limited excavation of only selected places on Earth cannot be taken as authoritative for the entire planet, let alone the universe.
 6. Note that Darwin studied only one island (Galápagos) and one planet — his knowledge is inherently limited.
 
 ### Key Terms and Keywords
@@ -131,7 +131,7 @@
 1. Understand that all experimental knowledge is imperfect because it is gathered by imperfect senses.
 2. Study the Dr. Frog analogy: a frog confined to a three-foot-wide well cannot understand the Atlantic Ocean, no matter how hard he tries.
 3. See that Darwin studied only one planet and claimed to understand all of nature — this is like Dr. Frog claiming to know the ocean.
-4. Accept that scientific knowledge is always imperfect and progressive — today's "fact" may be tomorrow's error.
+ 4. Accept that scientific knowledge is always imperfect and progressive — today's "fact" may be tomorrow's error, according to the Vedic tradition.
 5. Learn from the mother analogy: if you want to know your father, it is better to ask your mother (an authority) than to search for him yourself with imperfect senses.
 6. Accept Vedic knowledge received through the discilic succession (ācāryas) from Brahmā, who received it directly from Kṛṣṇa.
 7. Distinguish between "dead bones" (scientific research) and "living brains" (knowledge from perfect authorities).
@@ -152,12 +152,12 @@
 
 ### Step-by-Step Instructions
 1. Understand that Darwin's theory claims intelligence developed gradually from lower forms.
-2. Accept the Vedic teaching that the first created being within the universe is Lord Brahmā — the most intelligent, most intellectual being.
+ 2. Accept the Vedic teaching that the first created being within the universe is Lord Brahmā — the most intelligent, most intellectual being, according to the Vedic tradition.
 3. Recognize that Brahmā was born of Kṛṣṇa and was directly educated by God.
 4. Understand that Brahmā received the Vedic knowledge and passed it down through the disciplic succession to the present day.
 5. See that if the most intelligent being existed first, then intelligence did not evolve — it was present from the beginning.
 6. Accept that Vedic knowledge coming from Brahmā is perfect and should be preferred over Darwin's imperfect speculations.
-7. Note that millions and millions of years are not astonishing to the Vedic timeline — Brahmā's day alone is 4.3 billion human years.
+ 7. Note that extended periods of years are not astonishing to the Vedic timeline — Brahmā's day alone is 4.3 billion human years.
 
 ### Key Terms and Keywords
 - **Lord Brahmā** — the first created being in the universe, the most intelligent living entity
@@ -165,7 +165,7 @@
 - **First educated by God** — Brahmā receiving Vedic knowledge directly from Kṛṣṇa
 - **Intelligent philosophy** — the Vedic knowledge existing from the date of Brahmā's birth
 - **Vedic disciplic succession** — the unbroken chain of perfect knowledge transmission
-- **Brahmā's timeline** — millions and millions of years are insignificant compared to Brahmā's lifespan
+- **Brahmā's timeline** — extended periods of years are insignificant compared to Brahmā's lifespan
 
 ---
 
@@ -174,7 +174,7 @@
 ### Step-by-Step Instructions
 1. Recognize that Darwin's research was confined to planet Earth.
 2. Understand that material nature includes millions of universes, each containing millions of planets.
-3. See that a person who has studied only one planet has insufficient knowledge to speak about all of nature.
+3. See that a person who has studied only one planet has limited knowledge to speak about all of nature.
 4. Accept that species exist throughout all universes and planets, not just on Earth.
 5. Conclude that Darwin's knowledge is limited and relative — he has not seen all the continents, the depths of the seas, or any other planets.
 6. Understand that one should accept knowledge from a person who is not within this relativity — a perfect authority who has seen everything.

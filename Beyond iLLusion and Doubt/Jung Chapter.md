@@ -7,8 +7,8 @@
 
 ### Step-by-Step Instructions
 1. Recognize that it is natural to accept a leader, and if we do not accept God as leader, we will accept some material substitute.
-2. Identify material substitutes that people accept as leaders in place of God — sex, bodily comforts, nationalism, etc.
-3. Understand that accepting any material leader means accepting the leadership of māyā (illusion).
+ 2. Identify material substitutes that persons in the material world accept as leaders in place of God — sex, bodily comforts, nationalism, etc.
+ 3. Understand that accepting any material leader means accepting the leadership of māyā (illusion), according to the Vedic analysis.
 4. Make the conscious decision to accept Kṛṣṇa as the only true leader.
 5. Align your life to follow Kṛṣṇa's guidance instead of material impulses.
 
@@ -27,7 +27,7 @@
 1. Recognize that the sex impulse is natural for everyone in the material world.
 2. When lusty desire arises, think of Kṛṣṇa embracing Rādhārāṇī or dancing with the gopīs — hear these pastimes from a bona fide source.
 3. Allow the sex impulse to be sublimated and weakened by absorption in Kṛṣṇa's pastimes.
-4. Understand that this is the process of Jung's "integration" or "individuation" — channeling subconscious sexual energy into conscious, creative activity directed toward God realization.
+ 4. Understand that this is the process of Jung's "integration" or "individuation" if Jung's concepts are interpreted through the Vedic lens — channeling subconscious sexual energy into conscious, creative activity directed toward God realization.
 5. Develop devotional service as the proper channel for all material desires.
 
 ### Key Terms and Keywords
@@ -43,7 +43,7 @@
 ## Lesson 3: Understand Kṛṣṇa as the Only Puruṣa — The Only Enjoyer
 
 ### Step-by-Step Instructions
-1. Recognize that Kṛṣṇa is the only puruṣa, the only direct enjoyer — all others are indirect enjoyers.
+ 1. Recognize that Kṛṣṇa is the puruṣa, the direct enjoyer — all others are indirect enjoyers.
 2. Understand that the living entities are predominated (prakṛti) and Kṛṣṇa is the predominator (puruṣa).
 3. On the material platform, when a wife helps her husband enjoy, she also becomes an enjoyer — similarly, when we help Kṛṣṇa enjoy, we become enjoyers.
 4. Apply the analogy: the hand puts the rasagullā into the mouth so the mouth can taste it; the hand cannot taste directly. Kṛṣṇa is the only direct enjoyer; others enjoy by satisfying Him.
@@ -82,8 +82,8 @@
 ### Step-by-Step Instructions
 1. Recognize that the soul is presently in a sleeping state, identified with the body.
 2. Understand that the soul must be awakened with the instruction: "You are not the body! You are not the body!"
-3. Realize that only the human form has sufficiently developed consciousness to be awakened.
-4. Understand that lower life forms are more or less in a dream state and cannot be raised to Kṛṣṇa consciousness.
+ 3. Realize that only the human form has sufficiently developed consciousness to be awakened, according to the Vedic tradition.
+ 4. Understand that lower life forms are more or less in a dream state and cannot be raised to Kṛṣṇa consciousness, according to the Vedic analysis.
 5. Make the effort to awaken to your real identity as the eternal servant of Kṛṣṇa.
 
 ### Key Terms and Keywords
@@ -117,7 +117,7 @@
 ## Lesson 7: Understand Kṛṣṇa as the Supreme Father and Yourself as His Eternal Servant
 
 ### Step-by-Step Instructions
-1. Recognize that Kṛṣṇa, or God, is the supreme father of all living entities.
+ 1. Recognize that Kṛṣṇa, or God, is the supreme father of all living entities, according to the Vedic tradition.
 2. Understand that all men are sons of God, born of their father — this is an experience common to everyone at all times.
 3. Realize that you are an eternal servant of God (kṛṣṇera nitya-dāsa).
 4. Understand the family structure: God is the supreme father, material nature (prakṛti) is the mother, and living entities are the sons.
@@ -195,7 +195,7 @@
 ## Lesson 11: Elevate Your Consciousness While on Earth — Prepare for the Next Life
 
 ### Step-by-Step Instructions
-1. Understand that only on earth can the general level of consciousness be raised — this is man's metaphysical task.
+ 1. Understand that on Earth, the general level of consciousness can be raised — this is man's metaphysical task.
 2. Recognize that consciousness survives death and continues into the next life.
 3. If your yoga practice is incomplete or you die prematurely, your consciousness accompanies you and begins at the point where you left off in the next life.
 4. Reference Bhagavad-gītā 6.43: tatra taṁ buddhi-saṁyogaṁ labhate paurva-dehikam — "On taking rebirth, one revives the consciousness of his previous life."
@@ -278,7 +278,7 @@
 1. Understand that it is not necessary to be a learned scholar to become a guru.
 2. Accept Caitanya Mahāprabhu's instruction: "Wherever you are, simply become a guru and deliver all these people who are in ignorance."
 3. Learn to explain Bhagavad-gītā as it is — whoever explains the Bhagavad-gītā as it is is a guru.
-4. Do not worry about being a "learned scholar" — many so-called scholars are fools anyway.
+4. Do not worry about being a "learned scholar" — so-called scholars are fools anyway.
 5. Understand that the spiritual master teaches his disciple how to always remain in the ocean of God consciousness.
 6. Recognize that one who works under the directions of the ācārya knows everything about God.
 
@@ -395,7 +395,7 @@
 ## Lesson 21: Combat Atheistic Communism With Nonmaterialistic Religion
 
 ### Step-by-Step Instructions
-1. Recognize that atheistic communism is the greatest threat to human civilization — it degrades man by robbing him of freedom in the moral and spiritual sense.
+ 1. Recognize that atheistic communism is a notable threat to human civilization according to the Vedic analysis — it degrades man by robbing him of freedom in the moral and spiritual sense.
 2. Understand that the state has taken the place of God in communist ideology — state slavery is a form of worship.
 3. Accept that the only antidote to Marxism is an equally potent faith of a nonmaterialistic kind.
 4. Realize that Kṛṣṇa consciousness is the nonmaterialistic religion above Marxism, capitalism, and all other materialistic "isms."
@@ -436,7 +436,7 @@
 ## Lesson 23: Realize Your Original Constitutional Position as Female (Prakṛti) Before Kṛṣṇa
 
 ### Step-by-Step Instructions
-1. Understand that every living entity is by nature a female, prakṛti — the predominated.
+ 1. Understand that every living entity is by nature a female, prakṛti — the predominated, according to the Vedic tradition.
 2. Recognize that Kṛṣṇa is the only predominator, puruṣa.
 3. Realize that under illusion, the living entity attempts to become male, an enjoyer — this is māyā.
 4. Understand that although the jīvātmā is not puruṣa, it has the propensity to enjoy like a male and is therefore sometimes described as puruṣa.
@@ -461,7 +461,7 @@
 3. After negating all false identities, understand what remains: the soul's real identity.
 4. Reference Caitanya Mahāprabhu: gopī-bhartuḥ pada-kamalayor dāsa-dāsānudāsaḥ — "I am the servant of the servant of the servant of Kṛṣṇa."
 5. Use bhakti (devotional service) to purify yourself of all false identifications.
-6. Do not remain subject to various false identifications — realize your eternal position as servant of Kṛṣṇa.
+6. Do not remain subject to false identifications — realize your eternal position as servant of Kṛṣṇa.
 
 ### Key Terms and Keywords
 - **Negation** — the process of rejecting false identifications to find the real identity

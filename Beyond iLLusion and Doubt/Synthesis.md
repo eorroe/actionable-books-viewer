@@ -4,13 +4,13 @@
 
 ## Book Description
 
-*Beyond Illusion & Doubt* systematically examines sixteen major Western philosophers through the lens of Vedic wisdom, demonstrating that sense-based speculation leads only to doubt and contradiction, while the descending path of knowledge—receiving perfect truth from God through a disciplic succession of spiritual masters and experimentally verifying it through bhakti-yoga—is the only reliable means to understand reality, achieve self-realization, and attain lasting happiness in devotional service to Kṛṣṇa.
+*Beyond Illusion & Doubt* systematically examines sixteen Western philosophers through the lens of Vedic wisdom, demonstrating that, according to the Vedic tradition, sense-based speculation leads only to doubt and contradiction, while the descending path of knowledge—receiving perfect truth from God through a disciplic succession of spiritual masters and experimentally verifying it through bhakti-yoga—is a reliable means to understand reality, achieve self-realization, and attain lasting happiness as distinct from temporary material pleasure in devotional service to Kṛṣṇa, according to the Vedic tradition.
 
 ---
 
 ## When to Follow This Book
 
-**Scenario 1: When intellectual speculation has left you with more questions than answers.** If you have explored philosophy, science, or religion and found only contradictory opinions, uncertainty, and the constant overhauling of systems, this book offers a tested alternative: receive perfect knowledge from a perfect source and verify it through direct spiritual practice.
+**Scenario 1: When intellectual speculation has left you with more questions than answers.** If you have explored philosophy, science, or religion and found only contradictory opinions, uncertainty, and the constant overhauling of systems, this book offers an alternative: receive perfect knowledge from a perfect source and verify it through direct spiritual practice.
 
 **Scenario 2: When you are suffering from the miseries of material existence and want to understand your true identity.** If you feel trapped by the cycles of birth, death, old age, and disease, or if you sense that you are more than a temporary body subject to birth and death, this book provides the self-knowledge that distinguishes the eternal soul from the material covering.
 
@@ -22,7 +22,7 @@
 
 ### Lesson 1: Accept the Descending Path of Knowledge
 
-Western philosophy relies on the ascending path of speculation—evidence from imperfect senses evaluated by an illusioned mind. This method can never produce certain knowledge. The only reliable path is the descending path: receiving perfect knowledge from the supreme intelligence (Kṛṣṇa) through a disciplic succession of spiritual masters, then testing that knowledge with logic and experimentally verifying it through yoga.
+Western philosophy relies on the ascending path of speculation—evidence from imperfect senses evaluated by an illusioned mind. This method cannot produce perfect knowledge according to the Vedic tradition. A reliable path is the descending path: receiving perfect knowledge from the supreme intelligence (Kṛṣṇa) through a disciplic succession of spiritual masters, then testing that knowledge with logic and experimentally verifying it through yoga.
 
 **Step-by-step instructions:**
 1. Recognize that the mind and senses are imperfect instruments for knowing ultimate reality—speculation therefore produces only doubt and contradiction.
@@ -35,20 +35,20 @@ Western philosophy relies on the ascending path of speculation—evidence from i
 
 ### Lesson 2: Know Yourself as the Eternal Soul, Not the Body
 
-The living entity is an eternal spiritual being, temporarily covered by a material body. The body grows from infancy to old age and is eventually destroyed, but the conscious self remains the same throughout. Mistaking the body for the self is the root cause of all suffering, anxiety, and illusion.
+The living entity is an eternal spiritual being, temporarily covered by a material body. The body grows from infancy to old age and is eventually destroyed, but the conscious self remains the same throughout. Mistaking the body for the self is the root cause of all suffering, anxiety, and illusion, according to the Vedic tradition.
 
 **Step-by-step instructions:**
 1. Study each part of your body systematically and ask, "Am I this hand? Am I this eye?" Recognize the answer: "No, this is my hand; I am different from it."
-2. Deduce from the fact that you once had a child's body and now have an adult body that you are a continuous conscious being beyond the material covering—just as a person who changes apartments remains the same resident.
+2. Deduce from the fact that you once had a child's body and now have an adult body that you are a continuous conscious being beyond the material covering—just as a person who changes apartments remains the same resident (the soul remains unchanged despite bodily changes).
 3. Meditate on this distinction until it becomes a firm, direct realization: "I am the eternal soul (ātmā), part and parcel of Kṛṣṇa, temporarily embodied in this material form."
 
-**Key terms:** Ātmā (soul), false ego (ahaṅkāra), material body, spiritual body, transmigration, bodily identification, brahma-bhūta platform
+**Key terms:** Ātmā (soul), false ego (ahaṅkāra), material body, spiritual body, bodily identification, brahma-bhūta platform
 
 ---
 
 ### Lesson 3: Surrender Fully to Kṛṣṇa Through Bhakti-Yoga
 
-The highest good in life is to surrender completely to Kṛṣṇa and engage in His loving devotional service. This single process gives the benefits of all other yogic paths—karma-yoga, jñāna-yoga, and aṣṭāṅga-yoga—simultaneously. Full surrender means abandoning all other duties, desires, and designations and accepting Kṛṣṇa as the only enjoyer, proprietor, and goal of life.
+The highest good in life is to surrender completely to Kṛṣṇa and engage in His loving devotional service. This single process gives the benefits of all other yogic paths simultaneously. Full surrender means abandoning all other duties, desires, and designations except those duties prescribed by dharma that do not conflict with devotional service, and accepting Kṛṣṇa as the only enjoyer, proprietor, and goal of life.
 
 **Step-by-step instructions:**
 1. Accept Kṛṣṇa as the supreme enjoyer, proprietor, and friend of all living entities (sarva-bhūtānāṁ hṛd-deśe'rjuna tiṣṭhati).
@@ -68,7 +68,7 @@ Perfect knowledge cannot be obtained by one's own imperfect speculation; it must
 2. Offer obeisances, render practical service, and ask questions with a sincere desire to understand, not to challenge or debate.
 3. Accept the knowledge as it comes through the disciplic succession, without adding personal interpretation or manufactured ideas.
 
-**Key terms:** Guru, tattva-darśī, praṇipāta, paripraśna, sevā, paramparā, disciplic succession, representative of God
+**Key terms:** Guru, tattva-darśī, praṇipāta, paripraśna, paramparā, disciplic succession, representative of God
 
 ---
 
@@ -81,7 +81,7 @@ The primary process of spiritual advancement in this age is śravaṇaṁ (heari
 2. Attend classes and discussions where Kṛṣṇa is described in His true, personal form; hear from Vedic literature (especially Bhagavad-gītā and Śrīmad-Bhāgavatam) under the guidance of a spiritual master.
 3. Follow the four regulative principles—no illicit sex, no meat-eating, no intoxication, no gambling—to protect the platform of goodness and allow purification to take place.
 
-**Key terms:** Śravaṇaṁ, kīrtanaṁ, Hare Kṛṣṇa mahā-mantra, mahā-mantra, purification, ceto-darpaṇa-mārjanam, sattva-guṇa, regulative principles
+**Key terms:** Śravaṇaṁ, kīrtanaṁ, Hare Kṛṣṇa mahā-mantra, mahā-mantra, purification, sattva-guṇa
 
 ---
 
@@ -92,22 +92,22 @@ All of material existence is governed by three modes (guṇas): tamo-guṇa (ign
 **Step-by-step instructions:**
 1. Recognize which mode dominates your current consciousness: ignorance (laziness, delusion, darkness), passion (hustle, greed, lust), or goodness (knowledge, peace, piety).
 2. Detoxify from lower modes by avoiding association with those who promote ignorance and passion, and by engaging in regulated spiritual practices such as chanting, hearing, and Deity worship.
-3. Rise to the transcendental platform by engaging all senses in the service of Kṛṣṇa; from this platform, devotional service automatically destroys all that is troublesome to the heart and establishes irrevocable loving service to the Supreme Personality of Godhead.
+3. Rise to the transcendental platform by engaging all senses in the service of Kṛṣṇa; from this platform, devotional service destroys all that is troublesome to the heart and establishes irrevocable loving service to the Supreme Personality of Godhead.
 
-**Key terms:** Guṇas, tamo-guṇa, rajo-guṇa, sattva-guṇa, transcendental platform, brahma-bhūta, purification, devotional service
+**Key terms:** Guṇas, tamo-guṇa, rajo-guṇa, sattva-guṇa, brahma-bhūta platform, devotional service
 
 ---
 
 ### Lesson 7: Direct All Desires Toward Serving Kṛṣṇa — Distinguish Love from Lust
 
-Desire (will) is the constant companion of the eternal soul and cannot be annihilated; it can only be purified. Material desires—rooted in lust and sense gratification—are the cause of bondage and suffering. Real love is unconditional service to Kṛṣṇa, from which love for all living entities naturally flows.
+Desire (will) is the constant companion of the eternal soul and cannot be annihilated; it can only be purified. Material desires—rooted in lust and sense gratification—are the cause of bondage and suffering for the conditioned soul. Real love is unconditional service to Kṛṣṇa, from which love for all living entities naturally flows.
 
 **Step-by-step instructions:**
 1. Recognize that material "love" is actually lust—a mutual exchange of sense gratification—and that true love means thinking only of the pleasure of the beloved (Kṛṣṇa).
 2. Do not attempt to become desireless; instead, purify your desires by engaging them in Kṛṣṇa's service—thinking, speaking, and acting only for His satisfaction.
-3. When a higher taste in Kṛṣṇa consciousness is experienced, inferior material pleasures automatically lose their appeal (paraṁ dṛṣṭvā nivartate).
+3. When a higher taste in Kṛṣṇa consciousness is experienced, inferior material pleasures lose their appeal (paraṁ dṛṣṭvā nivartate).
 
-**Key terms:** Lust vs. love, desire (will), purification, sense gratification, paraṁ dṛṣṭvā nivartate, prema (pure love), sarvopādhi-vinirmukta
+**Key terms:** Lust vs. love, desire (will), purification, paraṁ dṛṣṭvā nivartate, prema (pure love)
 
 ---
 
@@ -157,6 +157,8 @@ Desire (will) is the constant companion of the eternal soul and cannot be annihi
 
 **Kṛṣṇa consciousness** — The state of constant awareness of Kṛṣṇa; the goal and practice of the Beyond Illusion & Doubt teachings.
 
+**Lust** — The desire for sense gratification rooted in bodily identification, which binds the soul to material existence; contrasted with pure love of God (prema).
+
 **Māyā** — The external energy of Kṛṣṇa that covers the real spiritual nature of the soul, creating the illusion of material existence.
 
 **Māyāvādī** — An impersonalist philosopher who claims that the Absolute is ultimately formless and that individual souls merge into the impersonal Brahman.
@@ -165,7 +167,11 @@ Desire (will) is the constant companion of the eternal soul and cannot be annihi
 
 **Mukti** — Liberation from material bondage; understanding one's constitutional position as an eternal servant of Kṛṣṇa and acting accordingly.
 
+**Nine processes of bhakti** — Hearing, chanting, remembering, serving the feet, worshiping, praying, becoming servant, becoming friend, and fully surrendering; the ninefold path of devotional service to Kṛṣṇa.
+
 **Paramparā** — The discilic succession; the unbroken chain of spiritual masters through which perfect knowledge descends from Kṛṣṇa to the present day.
+
+**Paraṁ dṛṣṭvā nivartate** — 'Having seen the supreme, one turns away'; the principle that when a higher taste in Kṛṣṇa consciousness is experienced, inferior material pleasures lose their appeal.
 
 **Paramātmā** — The Supersoul; Kṛṣṇa's localized presence within the heart of every living entity, who directs the soul's wanderings according to its karma.
 
@@ -177,13 +183,19 @@ Desire (will) is the constant companion of the eternal soul and cannot be annihi
 
 **Prema** — Pure, unconditional love of God; love free from all ulterior motives and desires for personal return.
 
+**Purification** — The process of cleansing the heart of material desires through hearing, chanting, and following the regulative principles, which elevates consciousness and allows spiritual realization.
+
 **Rajo-guṇa** — The mode of passion; characterized by activity, desire, greed, and attachment to material results.
 
 **Sādhu** — A saintly person; one who talks and acts in terms of the revealed scriptures and who is fully devoted to Kṛṣṇa.
 
+**Śaraṇāgati** — Full surrender to Kṛṣṇa; abandoning all other duties, desires, and designations and accepting Kṛṣṇa as the only enjoyer, proprietor, and goal of life.
+
 **Sarva-dharmān parityajya** — "Abandon all varieties of religion and simply surrender unto Me" (Bhagavad-gītā 18.66); Kṛṣṇa's ultimate instruction to give up all material duties and serve Him exclusively.
 
 **Sattva-guṇa** — The mode of goodness; characterized by knowledge, peace, piety, and cleanliness; the platform from which transcendental knowledge can be received.
+
+**Sense gratification** — The pursuit of pleasure through the senses of the material body, which is the opposite of Kṛṣṇa consciousness and the cause of material bondage.
 
 **Śāstra** — Vedic revealed scripture; the perfect, infallible knowledge that descends from Kṛṣṇa through the disciplic succession.
 
@@ -192,6 +204,8 @@ Desire (will) is the constant companion of the eternal soul and cannot be annihi
 **Śuddha-sattva** — Pure goodness; the transcendental platform of consciousness beyond the material modes, on which one can directly perceive Kṛṣṇa.
 
 **Tamo-guṇa** — The mode of ignorance; characterized by laziness, delusion, darkness, and ignorance of spiritual reality.
+
+**Transcendental platform** — The state of consciousness beyond the three modes of material nature (sattva, rajas, tamas), from which pure devotional service to Kṛṣṇa can be performed.
 
 **Tattva-darśī** — One who has directly seen the Absolute Truth; a self-realized soul who can impart perfect knowledge to others.
 

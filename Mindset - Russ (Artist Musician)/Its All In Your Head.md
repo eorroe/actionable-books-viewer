@@ -262,7 +262,7 @@ Russell acknowledges that there are bills to pay and mouths to feed. If working 
 - ✅ Surround yourself with supportive people who encourage your dreams
 - ✅ Treat your passion as a form of deeper purpose to sustain motivation during hard times
 - ✅ Accept that struggle and sacrifice are necessary parts of the journey
-- ✅ Maintain multiple income sources if needed to fund your passion without compromising your dream
+- ✅ Maintain income sources if needed to fund your passion without compromising your dream
 - ❌ Don't play for external rewards like money, accolades, or status
 - ❌ Don't dismiss your passion because it seems unrealistic or impractical
 - ❌ Don't let fear of judgment or financial instability suppress your intuition

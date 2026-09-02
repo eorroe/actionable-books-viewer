@@ -46,7 +46,7 @@
 2. Recognize that this method produces uncertainty because our senses are imperfect.
 3. Recognize that our minds are subject to illusion, mistakes, and the propensity to cheat — to pretend we know something when we really don't.
 4. Understand that because of these limitations, each philosopher tends to arrive at different, contradictory answers to fundamental questions.
-5. Accept that constant overhauling of philosophies throughout Western history makes purely speculative philosophy frustrating — especially for those seeking practical answers to life's most perplexing questions rather than playing an intellectual game.
+5. Accept that constant overhauling of philosophies throughout Western history makes purely speculative philosophy unreliable — especially for those seeking practical answers to life's most perplexing questions rather than playing an intellectual game.
 6. Do not rely solely on sense perception and mental speculation for certain knowledge of ultimate matters.
 
 ### Key Terms and Keywords
@@ -62,7 +62,7 @@
 
 ### Step-by-Step Instructions
 1. Recognize the existence of a supreme intelligence behind the universe — God, known by the name Kṛṣṇa.
-2. Accept that the only way to get certain answers to ultimate questions is to receive knowledge coming down from this supreme intelligence.
+ 2. Accept that one effective way to get certain answers to ultimate questions is to receive knowledge coming down from this supreme intelligence.
 3. Understand that this knowledge, originating with Kṛṣṇa, has been passed down through a chain of spiritual masters since the beginning of time.
 4. Accept that there is no need to change this knowledge and no need to speculate about it — it is perfect knowledge.
 5. Understand that the duty of a spiritual master is simply to pass this knowledge on to disciples, who in turn become spiritual masters and pass it on to a new generation.
@@ -118,7 +118,7 @@
 3. Learn the practice of Kṛṣṇa consciousness — the methods such as bhakti-yoga, chanting, hearing, and serving the pure devotee.
 4. Learn the goals of Kṛṣṇa consciousness — liberation from material bondage, pure love of God, and regaining one's original spiritual state.
 5. Apply these three elements — philosophy, practice, and goals — to make your life successful.
-6. Do not consider yourself unfortunate for lacking a qualified guru — use the available teachings and the example of Prabhupāda's followers to advance.
+6. Do not consider yourself unfortunate for lacking a qualified guru — use the teachings presented in this book and the example of Prabhupāda's followers to advance.
 
 ### Key Terms and Keywords
 - **Kṛṣṇa consciousness** — awareness of and relationship with Kṛṣṇa as the Supreme Personality of Godhead
@@ -130,6 +130,6 @@
 
 ---
 
-*Analysis prepared for: BIAD-WESTERN-PHILOSOPHERS-VEDIC-INSIGHTS*
+*Analysis prepared for: BIAD (Beyond Illusion & Doubt)-WESTERN-PHILOSOPHERS-VEDIC-INSIGHTS*
 *Chapter: BID: Introduction — Beyond Illusion & Doubt*
 *Pages covered: 1–7 of the Bhaktivedanta Vedabase edition (before BID 1: Socrates)*

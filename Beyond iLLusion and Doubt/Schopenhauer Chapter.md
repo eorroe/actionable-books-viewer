@@ -2,9 +2,9 @@
 
 ## Lesson 1: Purify Material Desires Through Krishna Consciousness, Do Not Attempt to Extinguish All Desire
 **Step-by-step instructions:**
-1. Recognize that desire is the constant companion of the soul and cannot be annihilated, even for a second (Bhagavad-gītā 3.5).
+ 1. Recognize that desire is the constant companion of the soul and cannot be annihilated, even for a second (Bhagavad-gītā 3.5), according to the Vedic analysis.
 2. Understand that stopping all desire would make you like a stone.
-3. Instead of trying to put an end to all desire, try to cleanse the diseased form of desire (*sarvopādhi-vinirmukta*).
+ 3. Instead of trying to put an end to all desire, try to purify desire (sarvopādhi-vinirmukta).
 4. Engage in Krishna consciousness (*bhakti*) as the cleansing process for material desires.
 
 **Key terms and keywords:** desire, will, Krishna consciousness, bhakti, purification, *sarvopādhi-vinirmukta*, material desires, spirit soul, Bhagavad-gītā 3.5
@@ -14,7 +14,7 @@
 ## Lesson 2: Understand the Material World as Temporary, Not False
 **Step-by-step instructions:**
 1. Recognize that the material world is constantly changing and therefore not ultimate reality.
-2. Understand that material life is like a dream—temporary, not false.
+ 2. Understand that material life is temporary and unsatisfying.
 3. See that the dreamer (the living entity) is the factual reality, while the dream (material world) is temporary.
 4. Awaken to the real, eternal spiritual platform so that flickering material dreams can be extinguished.
 
@@ -70,7 +70,7 @@
 ## Lesson 7: Seek Permanent Happiness, Not Momentary Relief from Suffering
 **Step-by-step instructions:**
 1. Do not mistake momentary suspension of suffering for real happiness.
-2. Understand that real happiness means being relieved of suffering permanently, not just for a few moments.
+2. Understand that real happiness means being relieved of suffering permanently, not just momentarily.
 3. Recognize that the material world's pleasures are at best a negative state—a momentary pause in suffering.
 4. Seek the real, eternal spiritual platform where suffering is extinguished permanently.
 
@@ -80,8 +80,8 @@
 
 ## Lesson 8: Accept That Suffering Implies a Judge and Seek God's Treatment
 **Step-by-step instructions:**
-1. If you recognize that there is a crime (sinful life), understand that there is someone who punishes you for that crime—a judge.
-2. Accept that God provides hospitalization and treatment for the mad world through the process of Krishna consciousness.
+ 1. If you recognize that there is a crime (sinful life), understand that there is someone who punishes you for that crime—a judge, according to the Vedic analysis.
+ 2. Accept that God provides spiritual guidance for those in material consciousness through the process of Krishna consciousness.
 3. Do not speak of sinful life while refusing to accept the judge who gives punishment for sinful life.
 4. Seek the treatment (Krishna consciousness) for the disease of material existence.
 
@@ -91,7 +91,7 @@
 
 ## Lesson 9: Recognize That Sex Is the Center of Material Life, Not Real Love
 **Step-by-step instructions:**
-1. Understand that the basic principle of those addicted to the material world is the pleasure from sexual intercourse (*maithuna*).
+ 1. Understand that the basic principle of those addicted to the material world is the pleasure from sexual intercourse (*maithuna*), according to the Vedic analysis.
 2. Recognize that the strong desire for sex continues as long as one is in material existence because sex is the center of all material pleasure.
 3. Seek superior spiritual pleasure in Krishna consciousness to give up inferior material pleasure (*paraṁ dṛṣṭvā nivartate*).
 4. When you get a taste of spiritual pleasure, you can give up sex.
@@ -114,7 +114,7 @@
 ## Lesson 11: Understand That Immorality Comes from Avoiding Surrender to Krishna
 **Step-by-step instructions:**
 1. Recognize that immoral acts result from a sense of egoism.
-2. Understand that to be immoral means to avoid surrendering to the will of Kṛṣṇa.
+ 2. Understand that to be immoral means to avoid surrendering to the will of Kṛṣṇa, according to the Vedic tradition.
 3. Avoid demonic thinking such as: "Why should I surrender to Kṛṣṇa? Kṛṣṇa is a person, and I also am a person."
 4. Surrender to the supreme will to attain salvation.
 
@@ -138,7 +138,7 @@
 ## Lesson 13: Practice Compassionate Love for Those Who Are Suffering
 **Step-by-step instructions:**
 1. See that everyone within material nature is suffering.
-2. Understand that people think they are happy because of material possessions (car, apartment, girlfriend), but this is actually suffering.
+ 2. Understand that people think they are happy because of material possessions (car, apartment, girlfriend), but this is actually suffering, according to the Vedic analysis.
 3. Take up the renounced order (sannyāsa) or the equivalent compassionate preaching mission out of compassion for others.
 4. Preach the message of Krishna consciousness to deliver fallen souls from ignorance.
 

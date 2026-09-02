@@ -29,7 +29,7 @@ This chapter emphasizes the importance of thoroughly studying your industry and 
 ## Best Practices
 - Create a physical or digital vision board populated with industry leaders, successful strategies, and role models
 - Document and analyze every release to understand what resonates and what doesn't
-- Maintain a content pipeline that keeps you six months or more ahead of your release schedule
+- Maintain a content pipeline that keeps you at least six months ahead of your release schedule
 - Set aside dedicated time for industry research separate from creative work
 - Track your failures systematically to identify patterns and adjust strategy
 - Balance deep focus on your craft with periodic strategic reviews of the broader landscape

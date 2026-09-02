@@ -1,7 +1,7 @@
 # Chapter 7 Analysis: Always Knew - Hard Work > Talent
 
 ## Chapter Summary
-Chapter 7 lays out the foundational argument that hard work, not talent, is the true X-factor in success. Vitale illustrates this with personal anecdotes from his own inconsistent work ethic in school and jobs, contrasted with his relentless output in music — the one pursuit that never felt like work. The chapter culminates in a powerful metaphor: self-belief is a cup. Vitale and his collaborator Bugus had overflowing cups they shared with others, but too many talented friends quit when results didn't come instantly, their belief cups riddled with holes.
+Chapter 7 lays out the foundational argument that hard work, not talent, is the true X-factor in success. Vitale illustrates this with personal anecdotes from his own inconsistent work ethic in school and jobs, contrasted with his relentless output in music — the one pursuit that never felt like work. The chapter culminates in a powerful metaphor: self-belief is a cup. Vitale and his collaborator Bugus had overflowing cups they shared with others, but talented friends quit when results didn't come instantly, their belief cups riddled with holes.
 
 ## Actionable Lessons
 1. Choose work that doesn't feel like work — when your craft brings joy, effort compounds naturally.

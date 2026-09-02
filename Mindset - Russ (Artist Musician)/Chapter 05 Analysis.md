@@ -41,7 +41,7 @@ Chapter 5 reframes success as playing for the love of the game rather than chasi
 - Surround yourself with supportive people who encourage your dreams rather than imposing their own limitations.
 - Treat your passion as a form of religion or deeper purpose to sustain motivation during difficult times.
 - Accept that struggle and sacrifice are necessary parts of the journey.
-- Maintain multiple income sources or jobs if needed to fund your passion without compromising your dream.
+- Maintain income sources or jobs if needed to fund your passion without compromising your dream.
 - Practice self-honesty about whether you truly want your dream or are just saying you do.
 
 ## Common Pitfalls

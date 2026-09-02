@@ -36,7 +36,7 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 ### Step-by-step instructions from the text:
 
 1. **Understand the temporary nature of material perfection.** Recognize that this world is so made that even if you make it perfect today, it will deteriorate tomorrow. Do not expect permanent material improvement.
-2. **Engage in the best social activity.** The highest social service is to bring people to Kṛṣṇa consciousness and deliver the message of Kṛṣṇa to whomever you meet.
+2. **Engage in the highest social activity.** The highest social service is to bring people to Kṛṣṇa consciousness and deliver the message of Kṛṣṇa to whomever you meet.
 3. **Purify your own existence first.** Before trying to change the world, purify your own existence through the process of Kṛṣṇa consciousness — chanting the Hare Kṛṣṇa mahā-mantra, hearing about Kṛṣṇa, and serving the spiritual master.
 4. **Share Kṛṣṇa consciousness as the solution.** Whatever the social or material problem, the root cause is ignorance of Kṛṣṇa. Sharing Kṛṣṇa consciousness is the most effective way to improve society.
 5. **Accept that world improvement is possible through consciousness.** Even though the material world will always deteriorate, it can be improved by raising the consciousness of its inhabitants.
@@ -57,11 +57,11 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 
 ### Step-by-step instructions from the text:
 
-1. **Identify the source of genuine happiness.** Understand that real happiness comes from Kṛṣṇa consciousness — happiness connected with Kṛṣṇa — not from material sources separate from Him.
+1. **Identify the source of genuine happiness.** Understand that happiness comes from Kṛṣṇa consciousness — happiness connected with Kṛṣṇa — not from material sources separate from Him.
 2. **Recognize the diseased condition of material existence.** Everyone is working hard for happiness, but happiness cannot be attained in a diseased (materially conditioned) condition. The material disease must first be cured.
-3. **Distinguish artificial happiness from real happiness.** The utilitarians try to give people artificial happiness — temporary pleasure unrelated to Kṛṣṇa. Real happiness is spiritual, eternal, and directly connected with the Supreme Lord.
+3. **Distinguish temporary happiness from happiness.** The utilitarians try to give people temporary happiness — temporary pleasure unrelated to Kṛṣṇa. Real happiness is spiritual, eternal, and directly connected with the Supreme Lord.
 4. **Purify your existence to attain spiritual bliss.** By purifying your existence through Kṛṣṇa consciousness, you can attain spiritual, eternal happiness and bliss.
-5. **Do not be satisfied with temporary pleasures.** The material disease of hankering for temporary sense pleasures is an impediment to real happiness. Cure this disease by taking to Kṛṣṇa consciousness.
+5. **Do not be satisfied with temporary pleasures.** The material disease of hankering for temporary sense pleasures is an impediment to happiness. Cure this disease by taking to Kṛṣṇa consciousness.
 
 ### Key terms and keywords:
 - Kṛṣṇa consciousness
@@ -102,7 +102,7 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 
 ### Step-by-step instructions from the text:
 
-1. **Understand that everything has a cause.** Recognize that for every phenomenon, there is a cause. Scientists admit that nothing can come out of nothing.
+1. **Understand that everything has a cause.** Recognize that for every phenomenon, there is a cause. According to the Vedic tradition, nothing can come out of nothing.
 2. **Trace causes back to their origin.** While Mill proposed methods for studying immediate causes (e.g., the Method of Agreement), the Vedic approach goes further to find the **original cause of all causes**.
 3. **Know that philosophy means finding the cause of the cause.** The Sanskrit word *darśana* means "to find the cause." Philosophy is called *darśana-śāstra* — finding the cause of the cause — ultimately arriving at Kṛṣṇa.
 4. **Accept Kṛṣṇa as the ultimate cause.** The ultimate cause of everything is Brahman, the Absolute Truth — which in its personal aspect is Lord Kṛṣṇa. Everything we see is an effect of His original push.
@@ -227,11 +227,11 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 ### Step-by-step instructions from the text:
 
 1. **Understand that pleasures differ in quality, not just quantity.** Mill correctly identified that pleasures differ in *kind* (quality), not just intensity and duration (quantity). Some pleasures are inherently superior to others.
-2. **Accept that a small amount of higher pleasure exceeds a large amount of lower pleasure.** This is the Vedic position: even a little devotional service (Kṛṣṇa consciousness) is more valuable than vast amounts of material sense gratification. "In this endeavor there is no loss or diminution, and a little advancement on this path can protect one from the most dangerous type of fear." (Bg. 3.40)
+2. **Accept that a small amount of higher pleasure exceeds a large amount of lower pleasure.** This is the Vedic position: even a little devotional service (Kṛṣṇa consciousness) is more valuable than vast amounts of material sense gratification. "In this endeavor there is no loss or diminution, and a little advancement on this path can protect one from great fear." (Bg. 3.40)
 3. **Seek eternal pleasure, not transient pleasure.** Ordinary people take sex to be the highest pleasure, but it lasts only a few minutes. A wise person seeks pleasure that continues **perpetually**. *Nitya* = eternal; *ānanda* = bliss. Those who are intelligent seek eternal spiritual pleasure, not transient bodily pleasure.
 4. **Know that higher pleasure is experienced by the few.** The pleasure of Kṛṣṇa consciousness is transcendental, but it is understood only by a few fortunate souls. There may be millions of stars, but one moon is sufficient to drive away darkness — similarly, one realized soul is sufficient to spread spiritual light.
 5. **Train yourself to appreciate higher pleasure.** Educate yourself to appreciate higher spiritual pleasure rather than remaining satisfied with lower, bodily pleasures. Through hearing about Kṛṣṇa and associating with devotees, you can develop a taste for higher pleasure.
-6. **Use the mahājanas as the standard for desire.** Do not let the opinions of the masses determine what is desirable. Follow what the great personalities (*mahājanas*) desire. Caitanya Mahāprabhu desired Kṛṣṇa, and that should be the real standard for all desires.
+6. **Use the mahājanas as the standard for desire.** Do not let the opinions of the masses determine what is desirable. Follow what the great personalities (*mahājanas*) desire. Caitanya Mahāprabhu desired Kṛṣṇa, and that should be the standard for all desires.
 
 ### Key terms and keywords:
 - Quality vs. quantity of pleasure
@@ -253,7 +253,7 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 
 1. **Understand that everyone is ultimately dependent on Kṛṣṇa.** Mill advocated freedom as independence, but the Vedic position is that everyone is ultimately dependent — either on Kṛṣṇa or on māyā. True freedom comes from depending on Kṛṣṇa, not from false independence.
 2. **Make Kṛṣṇa the center of all activities.** Whether you are an intellectual, an administrator, a merchant, or a laborer, make Kṛṣṇa the center of your work. When everyone works for Kṛṣṇa's satisfaction, all are satisfied equally.
-3. **Recognize the formula for a classless society.** A classless society is possible only when Kṛṣṇa is the center. In Vṛndāvana (the ideal spiritual society), some are cowherd boys, some are cows, some are fathers, some are mothers, but the center is Kṛṣṇa, and everyone is satisfied.
+3. **Recognize the formula for a classless society.** A classless society is possible only when Kṛṣṇa is the center. In Vṛndāvana (the ideal spiritual society), individuals appear in various forms, including cowherd boys, cows, fathers, mothers, and other relations, but the center is Kṛṣṇa, and everyone is satisfied.
 4. **Work without attachment to results.** Follow the principle: *yasya prasādād bhagavat-prasādaḥ* — if the spiritual master is satisfied, Kṛṣṇa is satisfied. Whatever you do, offer the results to Kṛṣṇa.
 5. **See all work as equally valuable on the spiritual platform.** In Kṛṣṇa consciousness, whether you wash dishes, write books, or worship the Deity, the value is the same because all are serving Kṛṣṇa.
 6. **Do not compete, but cooperate for Kṛṣṇa.** Mill's ideal of freedom as competition is not real freedom. Real freedom comes from depending on Kṛṣṇa and cooperating in His service.
@@ -275,11 +275,11 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 
 ### Step-by-step instructions from the text:
 
-1. **Do not assume that what most people desire is good.** Mill's contention was: "if something is desired, it is desirable." But living entities desire many things — a hog desires stool, addicts desire alcohol, Bowery alcoholics desire drinking. Their desires do not make those things desirable.
+1. **Do not assume that what most people desire is good.** Mill's contention was: "if something is desired, it is desirable." But living entities desire many things — a hog desires stool, addicts desire alcohol, Bowery alcoholics in New York City's Bowery neighborhood desire drinking. Their desires do not make those things desirable.
 2. **Question the "greatest number" criterion.** The greatest number of people may say cigarettes are nice, or that sex is the highest pleasure. The fact that many people desire something does not make it good or desirable.
 3. **Take the mahājanas as your standard.** We should know what the greatest personalities, the *mahājanas*, are desiring, and we should make that our standard. We may desire something harmful and not desire the good.
 4. **Learn from Kṛṣṇa's example.** In the Bhagavad-gītā, Kṛṣṇa wanted Arjuna to fight, but this was not Arjuna's original desire. Arjuna changed his mind because he accepted the standard of a higher authority (Kṛṣṇa).
-5. **Understand that conditioned souls are fools.** According to Vedic philosophy, man is born a fool, but he can be made intelligent through education and culture. The pleasure followed by the greatest number is usually the pleasure of fools.
+5. **Understand that conditioned souls are fools.** According to Vedic philosophy, man is born a fool, according to the Vedic tradition, but he can be made intelligent through education and culture. The pleasure followed by the greatest number is usually the pleasure of fools.
 6. **Seek the transcendental standard.** The real standard for what is desirable comes from Kṛṣṇa and His representatives, not from popular opinion. Desire Kṛṣṇa, even if others do not.
 
 ### Key terms and keywords:
@@ -352,8 +352,8 @@ This chapter (Chapter IX) presents a dialogue between Śrīla Prabhupāda and hi
 | # | Lesson Title | Core Principle | Key Vedic Reference |
 |---|-------------|----------------|---------------------|
 | 1 | Cultivate Rational Nature Beyond Animal Instincts | Use reason to seek the Absolute Truth | Reason vs. animal nature |
-| 2 | Improve the World Through Kṛṣṇa Consciousness | Spread Kṛṣṇa consciousness as the best social activity | Spiritual improvement |
-| 3 | Seek Eternal Spiritual Happiness, Not Artificial Material Happiness | Purify existence to attain real happiness | Material disease cure |
+| 2 | Improve the World Through Kṛṣṇa Consciousness | Spread Kṛṣṇa consciousness as the highest social activity | Spiritual improvement |
+| 3 | Seek Eternal Spiritual Happiness, Not Artificial Material Happiness | Purify existence to attain happiness | Material disease cure |
 | 4 | Educate Through Authoritative Vedic Teachings | Read Bhagavad-gītā as it is; cultivate virtues through education | Bhagavad-gītā |
 | 5 | Seek the Original Cause — Kṛṣṇa | Trace all causes back to Kṛṣṇa, the Absolute Truth | Darśana-śāstra, Brahman |
 | 6 | Understand the Origin of Evil — Misuse of Free Will | Evil arises from misuse of free will, not from God | Free will, material nature |

@@ -4,7 +4,7 @@
 Chapter 17 emphasizes that falling and struggling are inevitable parts of any journey, and adversity is actually a catalyst for breakthroughs. Russell shares his personal experience of hitting a dark place in 2018 when negativity overwhelmed him, and explains that resilience comes from remembering it is always "you versus you," not "you versus the world." The core lesson is that you cannot control external circumstances, but you can control your thoughts, what you put out into the world, and your behavior, and that rising from hardship makes you stronger than before.
 
 ## Actionable Lessons
-1. Accept that struggle is necessary — a certain amount of hardship is required to truly appreciate success.
+1. Accept that struggle is necessary — hardship is required to truly appreciate success.
 2. Reframe adversity as "you versus you" — never let your journey turn into "you versus the world," because the only real battle is internal.
 3. Identify and control what you can control — focus your energy on your thoughts, what you put out into the world, and your behavior.
 4. Trust the process — decide that whatever happens is actually what is supposed to happen and that it will contribute to long-term growth.

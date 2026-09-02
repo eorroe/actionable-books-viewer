@@ -125,8 +125,8 @@
 1. Always think of Kṛṣṇa and act for Him — this is the process of bhakti (devotional service).
 2. Integrate God-consciousness into all activities: when you sweep Kṛṣṇa's temple, remember Kṛṣṇa; when you cook for Kṛṣṇa, remember Kṛṣṇa; when you talk about Kṛṣṇa, remember Kṛṣṇa.
 3. Understand that this process is described in Bhagavad-gītā 6.47: "Of all yogis, the one with great faith who always abides in Me, thinks of Me within himself, and renders transcendental loving service to Me — he is the most intimately united with Me in yoga."
-4. Develop attraction for God through practice — just as a married woman thinks constantly of her lover while performing household duties, you can think of God constantly despite engaging in various work.
-5. Do not accept a vague conception of God — receive clear information from Vedic literature about God's personality, appearance, and activities.
+4. Develop attraction for God through practice — just as a married woman thinks constantly of her lover while performing household duties, you can think of God constantly despite engaging in work.
+5. Do not accept an unclear conception of God — receive clear information from Vedic literature about God's personality, appearance, and activities.
 
 ### Key Terms and Keywords
 - **Bhakti** — devotional service; the process of constant remembrance of God

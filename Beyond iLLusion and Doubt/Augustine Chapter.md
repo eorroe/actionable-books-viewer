@@ -3,7 +3,7 @@
 ## Source
 - **Book:** Beyond Illusion & Doubt (BID)
 - **Chapter:** BID 5: Augustine
-- **Pages:** 45–52 (approx.)
+- **Pages:** 45–52
 - **Format:** Dialogue between a disciple and Śrīla Prabhupāda
 
 ---
@@ -11,7 +11,7 @@
 ## Lesson 1: "Soul-Death" Is Not Actual Death — It Is Forgetfulness of God
 
 **Step-by-step instructions from the text:**
-1. Augustine taught that some people face both physical death and "soul-death" (when God abandons the soul).
+1. Augustine taught that individuals may face both physical death and spiritual death (when God abandons the soul).
 2. Śrīla Prabhupāda explains that the soul is eternally existing and cannot actually be destroyed.
 3. The "death" Augustine refers to is figurative — it is the state of being unconscious to one's real identity as a servant of God.
 4. A person who has forgotten God is like a man asleep: still alive but unconscious.
@@ -128,7 +128,7 @@
 
 **Step-by-step instructions from the text:**
 1. Augustine held that the human mind and soul were one and the same ("reasonable soul").
-2. The soul is placed in various bodies that have different minds (different ways of thinking, feeling, and willing).
+2. The soul is placed in bodies that have different minds (different ways of thinking, feeling, and willing).
 3. The mind differs according to the body (a dog's mind is not equal to that of a human being), but the soul always remains the same.
 4. The mistake of equating soul with mind led Augustine to deny animals the same eternal, reasonable souls as humans.
 
@@ -157,7 +157,7 @@
 2. The individual soul exists in māyā (illusion) when the servant-master relationship with God is destroyed.
 3. Peace is attained when the individual is situated in spiritual consciousness (Krishna consciousness).
 4. Through this consciousness one understands: God is the actual enjoyer, proprietor, and Supreme Being.
-5. When we understand God's transcendental qualities and serve Him as His servant, we become happy and attain peace.
+5. When we understand God's transcendental qualities and serve Him as His servant, we become spiritually satisfied and attain inner peace.
 
 **Key terms and keywords:** peace, God consciousness, Krishna consciousness, servant of God, God as enjoyer, God as proprietor, māyā, illusion, spiritual consciousness
 
