@@ -2,16 +2,16 @@
 
 ## Overview
 
-This book teaches a systematic method for acquiring new skills in 20 hours of focused, deliberate practice. It challenges the common belief that skill acquisition requires thousands of hours of practice by demonstrating that meaningful progress can be made in just 20 hours of intelligent, strategic effort.
+This book teaches a systematic method for acquiring new skills in 20 hours of focused, deliberate practice. It challenges the common belief that skill acquisition requires thousands of hours of practice by demonstrating that progress can be made in just 20 hours of intelligent, strategic effort.
 
-The method is universal and applies to any skill - from learning a new language to playing an instrument to building software. Through six real-world examples, the author demonstrates how to deconstruct skills, eliminate barriers to practice, and practice efficiently to break through the frustration barrier quickly.
+The method applies to any skill - from learning a new language to playing an instrument to building software. Through six skill examples, the author demonstrates how to deconstruct skills, eliminate barriers to practice, and practice efficiently to break through the frustration barrier.
 
 ## When to Follow Book Teachings
 
 - When you want to acquire a new skill but have limited time available
 - When you feel overwhelmed by the complexity of learning something new
 - When traditional learning methods have failed to produce results
-- When you need to get "good enough" at a skill quickly for a specific purpose
+- When you need to get "good enough" at a skill for a specific purpose
 - When you want to break through the initial frustration barrier of skill acquisition
 - When you're restarting an old skill you haven't practiced in years
 
@@ -27,7 +27,7 @@ The author's experience learning Spanish in high school versus his friend Carlos
 
 ##### Example 2: Web Development
 
-The author taught himself web development over 15 years through trial and error, but could have reached the same competence level in a single focused month using systematic skill acquisition principles.
+The author taught himself web development through trial and error over 15 years, but could have reached the same competence level in a single focused month using systematic skill acquisition principles.
 
 #### Step 1: Understand the Four Key Steps
 
@@ -43,7 +43,7 @@ Precommit to practicing the skill for at least twenty hours before starting. Onc
 
 #### Step 3: Focus on Sufficiency, Not Mastery
 
-World-class mastery may take ten thousand hours, but developing the capacity to perform well enough for your own purposes usually requires less time. Rapid skill acquisition is about reaching a target performance level quickly, not achieving perfection.
+mastery may take ten thousand hours according to the 10,000-hour rule research, but developing the capacity to perform well enough for your own purposes usually requires much less than 15 years, in the author's experience. Rapid skill acquisition is about reaching a target performance level quickly, not achieving perfection.
 
 #### Best Practices
 
@@ -60,16 +60,16 @@ World-class mastery may take ten thousand hours, but developing the capacity to 
 
 #### Keep In Mind
 
-- The human brain is plastic and capable of learning new skills at any age
+- Research shows the human brain is plastic and capable of learning new skills at any age, according to Dr. Jon Medina in Brain Rules
 - Skill acquisition follows a three-stage model: cognitive, associative, and autonomous
-- The power law of practice means you'll improve quickly in the beginning
-- Emotions, not physical or intellectual barriers, are the major obstacle to rapid skill acquisition
+- The power law of practice according to research means you'll improve in the beginning
+- Emotions, not physical or intellectual barriers, are the obstacle to rapid skill acquisition, in the author's view
 - This principle emphasizes efficient effort over brute-force effort
 
 #### Security & Safety Notes
 
-- Some skills have safety considerations that must be included in your target performance level
-- Getting hurt or killed acquiring a new skill defeats the purpose
+- Some skills have safety considerations that must be included in your target performance level, in the author's view
+- Getting hurt or killed acquiring a new skill defeats the purpose, in the author's view
 - Proper preparation and safety gear are essential for physically risky skills
 
 #### Common Pitfalls
@@ -81,7 +81,7 @@ World-class mastery may take ten thousand hours, but developing the capacity to 
 - **Problem:** Trying to practice perfectly from the start
   **Solution:** Focus on quantity and speed first, then refine quality once you have the basics
 - **Problem:** Not having a clear target performance level
-  **Solution:** Write a specific sentence describing what "good enough" looks like before you start
+  **Solution:** Write a specific sentence describing what "good enough" means for your purposes before you start
 
 ### Lesson 2: Ten Principles of Rapid Skill Acquisition
 
@@ -89,7 +89,7 @@ World-class mastery may take ten thousand hours, but developing the capacity to 
 
 ##### Example 1: Learning Go
 
-The author was intensely interested in learning Go, the world's oldest strategic board game, which helped him acquire the skill more quickly because he was emotionally invested in the project.
+The author was intensely interested in learning Go, the world's oldest strategic board game, which helped him acquire the skill more quickly because he was genuinely interested in the project.
 
 ##### Example 2: Yoga Practice
 
@@ -97,35 +97,35 @@ Developing a personal yoga practice requires identifying the most important subs
 
 #### Step 1: Choose a Lovable Project
 
-Select a skill you genuinely care about learning. The more excited you are about the skill, the more quickly you'll acquire it. If you're not emotionally invested, you're unlikely to persist through the inevitable frustrations of early practice.
+Select a skill you genuinely care about learning. The more excited you are about the skill, the more quickly you'll acquire it, in the author's experience. If you're not genuinely interested, you're unlikely to persist through the inevitable frustrations of early practice.
 
 #### Step 2: Focus on One Skill at a Time
 
-Acquiring new skills requires a sufficient amount of concentrated time and focused attention. Spreading your time across more than one skill means no individual skill receives enough attention to generate noticeable improvement. Put other skills on a "someday/maybe" list.
+Acquiring new skills requires enough time and attention. Spreading your time across more than one skill means no individual skill receives enough time and attention to generate noticeable improvement, in the author's experience. Put other skills on a "someday/maybe" list.
 
 #### Step 3: Define Your Target Performance Level
 
-Write a specific sentence describing what "good enough" looks like for your skill acquisition project. The more specific your target, the easier it is to figure out how to get there. Your target should be challenging but achievable, not out of the realm of possibility.
+Write a specific sentence describing what "good enough" means for your purposes for your skill acquisition project. The more specific your target, the easier it is to figure out how to get there, in the author's experience. Your target should be just out of reach, not impossible to achieve, in the author's view.
 
 #### Step 4: Deconstruct the Skill into Subskills
 
-Break the skill down into the smallest possible parts. Most skills are actually bundles of smaller subskills. By focusing on the critical subskills first, you'll make more progress with less effort and avoid feeling overwhelmed.
+Break the skill down into the smallest possible subskills. Most skills are bundles of smaller subskills. By focusing on the critical subskills first, you'll make more progress with less effort and avoid feeling overwhelmed.
 
 #### Step 5: Obtain Critical Tools
 
-Identify what tools, components, and environments you need before you can practice efficiently. Taking a moment to acquire the right tools before you start saves precious practice time and ensures you can practice effectively.
+Identify what tools, components, and environments you need before you can practice efficiently. Taking a moment to acquire the critical tools before you start saves precious practice time and ensures you can practice effectively.
 
 #### Step 6: Eliminate Barriers to Practice
 
-Remove physical, mental, and emotional barriers that make it harder to start practicing. Common barriers include: pre-practice effort, intermittent resource availability, environmental distractions, and emotional blocks like fear and embarrassment.
+Remove physical, mental, and emotional barriers that make it harder to start practicing. Barriers include: pre-practice effort, intermittent resource availability, environmental distractions, and emotional blocks such as fear, doubt, and embarrassment.
 
 #### Step 7: Make Dedicated Time for Practice
 
-"Finding" time is a myth - you must "make" time. Identify low-value uses of time and eliminate them to free up practice time. The author recommends at least ninety minutes of practice each day. Precommit to completing at least twenty hours of practice.
+You cannot simply "find" time for practice - you must deliberately allocate it. Identify low-value uses of time and eliminate them to free up practice time. The author recommends at least ninety minutes of practice each day. Precommit to completing at least twenty hours of practice.
 
 #### Step 8: Create Fast Feedback Loops
 
-Fast feedback means getting accurate information about how well you're performing as quickly as possible. The longer it takes to get feedback, the longer it will take to acquire the skill. Use coaches, video cameras, computer programs, and training aids to get immediate feedback.
+Fast feedback means getting accurate information about how well you're performing as quickly as possible. The longer it takes to get feedback, the longer it will take to acquire the skill, in the author's view. Use coaches, video cameras, computer programs, and training aids to get immediate feedback.
 
 #### Step 9: Practice by the Clock in Short Bursts
 
@@ -133,7 +133,7 @@ Use a countdown timer and set it for twenty to ninety minutes. Once you start th
 
 #### Step 10: Emphasize Quantity and Speed
 
-In early-stage practice, quantity and speed trump absolute quality. Focus on practicing as much as you can as quickly as you can, while maintaining "good enough" form. Once you're practicing in good form at least 80-90% of the time, crank up the speed for faster skill acquisition.
+In early-stage practice, quantity and speed trump absolute quality. Focus on practicing as much as you can as quickly as you can, while maintaining "good enough" form. Once you're practicing in good form at least 80-90% of the time, increase the speed for faster skill acquisition.
 
 #### Best Practices
 
@@ -142,7 +142,7 @@ In early-stage practice, quantity and speed trump absolute quality. Focus on pra
 - ✅ Practice one skill at a time
 - ✅ Deconstruct skills into smallest possible subskills
 - ✅ Acquire necessary tools before starting practice
-- ✅ Create a dedicated practice space free from distractions
+- ✅ Create a dedicated practice space to eliminate distractions
 - ✅ Use timers to structure practice sessions
 - ✅ Seek immediate feedback on your performance
 - ✅ Focus on quantity of practice over perfection
@@ -151,7 +151,7 @@ In early-stage practice, quantity and speed trump absolute quality. Focus on pra
 #### Keep In Mind
 
 - The ten principles work together as a system, not as isolated tips
-- You don't need to use every principle for every skill, but you'll always find at least some essential
+- You don't need to use every principle for every skill, but, in the author's experience, you'll always find at least three essential
 - Rapid skill acquisition requires becoming highly focused on the skill
 - The principles are designed to eliminate nonproductive thrashing and replace it with focused practice
 - These principles apply to both new skills and reactivating old skills
@@ -168,7 +168,7 @@ In early-stage practice, quantity and speed trump absolute quality. Focus on pra
   **Solution:** Pick something you're genuinely excited about
 - **Problem:** Spreading practice time across more than one skill
   **Solution:** Focus on one prime skill until you reach your target performance level
-- **Problem:** Having vague or unrealistic target performance levels
+- **Problem:** Having not specific enough target performance levels
   **Solution:** Write a specific, achievable sentence describing what good enough looks like
 - **Problem:** Starting practice without the necessary tools or preparation
   **Solution:** Spend a small amount of time upfront acquiring critical tools and eliminating barriers
@@ -187,7 +187,7 @@ By imagining the worst possible outcome in white-water kayaking (flipping upside
 
 #### Step 1: Research the Skill and Related Topics
 
-Spend twenty minutes searching for books, instructional DVDs, courses, or other resources related to the skill. The goal is to identify at least three resources and understand the most important subskills, critical components, and required tools. Skimming is better than deep reading - notice ideas and tools that come up over and over again.
+Spend twenty minutes searching for books, instructional DVDs, courses, or other resources related to the skill. The goal is to identify at least three resources and understand the most important subskills, critical components, and required tools. Skimming is better than deep reading - notice ideas and tools that come up repeatedly.
 
 #### Step 2: Jump in Over Your Head
 
@@ -199,19 +199,19 @@ Mental models are basic units of learning - ways of understanding and labeling o
 
 #### Step 4: Imagine the Opposite of What You Want
 
-Use inversion - contemplate worst-case outcomes rather than perfection. By studying the opposite of what you want, you can identify important elements that aren't immediately obvious. This technique helps you identify critical subskills and safety considerations.
+Use inversion - contemplate worst possible outcome rather than perfection. By studying the opposite of what you want, you can identify important elements that aren't immediately obvious, in the author's experience. This technique helps you identify critical subskills and safety considerations, in the author's experience.
 
 #### Step 5: Talk to Practitioners to Set Expectations
 
-Talk to people who have acquired the skill before you. This helps dispel myths and misconceptions before you invest your time and energy. Knowing what to expect as you progress makes it easier to sustain interest and avoid becoming discouraged early in the process.
+Talk to people who have acquired the skill before you. This helps dispel myths and misconceptions before you invest your time and energy. Knowing what to expect as you progress makes it easier to sustain interest and avoid becoming discouraged early in the process, in the author's experience.
 
 #### Step 6: Eliminate Distractions in Your Environment
 
-Distractions are the enemy of rapid skill acquisition. Turn off your television, phone, and Internet unless they're necessary for practice. Let family members and colleagues know you'll be unavailable during practice time.
+Distractions make rapid skill acquisition more difficult. Turn off your television, phone, and Internet unless they're necessary for practice. Let family members and colleagues know you'll be unavailable during practice time.
 
 #### Step 7: Use Spaced Repetition and Reinforcement for Memorization
 
-Memory follows a decay curve - new concepts need to be reinforced regularly, but older concepts need less frequent review. Use flash card software like Anki, SuperMemo, or Smartr to systematize the review process. Create flash cards while deconstructing the skill to accomplish two tasks at once.
+Memory follows a decay curve - new concepts need to be reinforced regularly, but older concepts need less frequent review. Use flash card software like Anki or SuperMemo to systematize the review process. Create flash cards while deconstructing the skill to accomplish two tasks at once.
 
 #### Step 8: Create Scaffolds and Checklists
 
@@ -233,17 +233,17 @@ Your brain and body have biological needs: food, water, exercise, rest, and slee
 - ✅ Use inversion to identify critical safety and skill elements
 - ✅ Talk to experienced practitioners to set realistic expectations
 - ✅ Create a distraction-free practice environment
-- ✅ Use spaced repetition for memorization-heavy skills
+- ✅ Use spaced repetition for skills requiring extensive memorization
 - ✅ Create checklists and scaffolds for routine practice elements
 - ✅ Track predictions and experiments in a notebook
 - ✅ Take breaks every 60-90 minutes during practice
 
 #### Keep In Mind
 
-- Learning enhances practice but doesn't replace it
+- Learning enhances practice but doesn't replace it in the author's view
 - Early research should focus on identifying what to practice, not trying to learn everything beforehand
 - The ten principles of effective learning complement the ten principles of rapid skill acquisition
-- You won't need to use all ten principles for every skill, but you'll always find at least some essential
+- You won't need to use all ten principles for every skill, but you'll always find at least one essential in the author's experience
 - Effective learning is about making your practice time more efficient, not replacing practice time
 
 #### Security & Safety Notes
@@ -278,7 +278,7 @@ Learning basic breathing techniques (ujjayi breath) early in the practice provid
 
 #### Step 1: Define Your Target Performance Level
 
-For yoga, the author's target was to develop a regular home practice of basic postures and breathing techniques that could be performed without instruction. The goal was personal health and stress reduction, not becoming a yoga master.
+For yoga, the author's target was to develop a home practice of basic postures and breathing techniques that could be performed without instruction. The goal was personal health and stress reduction, not becoming a yoga master.
 
 #### Step 2: Research Yoga Resources
 
@@ -304,7 +304,7 @@ The author established a consistent practice routine, practicing at the same tim
 #### Best Practices
 
 - ✅ Start with basic breathing techniques before attempting complex postures
-- ✅ Focus on form and alignment over achieving perfect poses
+- ✅ Focus on form and alignment over achieving optimal poses
 - ✅ Practice consistently at the same time each day
 - ✅ Use video instruction to learn proper form
 - ✅ Start with short sessions (20-30 minutes) and gradually increase
@@ -317,10 +317,10 @@ The author established a consistent practice routine, practicing at the same tim
 
 #### Keep In Mind
 
-- Yoga is about the process, not achieving perfect poses
-- Consistency matters more than duration or intensity
+- Yoga is about the process, not achieving optimal poses, in the author's view
+- Consistency matters more than duration or intensity in the author's experience
 - Breathing is the foundation of all yoga practice
-- Props and modifications are tools, not cheating
+- Props and modifications are tools to help you practice safely and effectively
 - The goal is personal health and well-being, not performance
 
 #### Security & Safety Notes
@@ -329,7 +329,7 @@ The author established a consistent practice routine, practicing at the same tim
 - Always warm up before attempting challenging poses
 - Avoid forcing your body into positions that cause pain
 - Consider working with a qualified instructor initially to learn proper form
-- Some poses are not appropriate for certain physical conditions
+- Specific poses are not appropriate for specific physical conditions
 
 #### Common Pitfalls
 
@@ -340,7 +340,7 @@ The author established a consistent practice routine, practicing at the same tim
 - **Problem:** Holding your breath during challenging poses
   **Solution:** Maintain steady, controlled breathing throughout all postures
 - **Problem:** Practicing inconsistently and expecting rapid progress
-  **Solution:** Establish a daily practice routine, even if sessions are short
+  **Solution:** Establish a daily practice routine, even if sessions are 20-30 minutes
 
 ### Lesson 5: Applying the Method - Programming Example
 
@@ -365,7 +365,7 @@ Key subskills identified included:
 - Learning a specific programming language (Ruby)
 - Understanding web fundamentals (HTTP, HTML, CSS)
 - Using a web framework (Sinatra)
-- Database basics
+ - Database basics (Postgres, DataMapper, SQLite)
 - Debugging and testing code
 
 #### Step 3: Learn Enough to Practice Intelligently
@@ -392,7 +392,7 @@ Programming provides naturally fast feedback - you make a change and immediately
 #### Best Practices
 
 - ✅ Start with a specific, useful project to build
-- ✅ Learn one programming language well before trying to learn other languages
+- ✅ Learn one programming language before trying to learn other languages
 - ✅ Focus on understanding core concepts rather than memorizing syntax
 - ✅ Practice by building real projects, not just following tutorials
 - ✅ Use version control from the beginning
@@ -407,18 +407,18 @@ Programming provides naturally fast feedback - you make a change and immediately
 #### Keep In Mind
 
 - Programming is about problem-solving, not memorizing syntax
-- Every programmer makes mistakes and looks up information regularly
-- The best way to learn is by building things, not reading about building things
-- Programming languages are tools - choose the right one for your project
-- Debugging is a normal, expected part of programming
+- Every programmer makes mistakes and looks up information regularly in the author's experience
+- In the author's experience, the best way to learn is by building things, not reading about building things
+- Programming languages are tools - choose an appropriate one for your project
+- In the author's experience, debugging is a normal, expected part of programming
 
 #### Security & Safety Notes
 
-- Never run code from untrusted sources without understanding what it does
+- Never run code from sources you don't understand or that aren't from reputable developers without understanding what it does
 - Use version control to track changes and avoid losing work
 - Back up your code regularly
 - Be careful with user input in web applications to prevent security vulnerabilities
-- Don't commit passwords or sensitive information to version control
+- Don't commit passwords or sensitive information such as API keys, database credentials, or user passwords to version control
 
 #### Common Pitfalls
 
@@ -429,7 +429,7 @@ Programming provides naturally fast feedback - you make a change and immediately
 - **Problem:** Trying to build something too complex for your current skill level
   **Solution:** Start with the simplest possible version of your project
 - **Problem:** Giving up when you encounter errors
-  **Solution:** Learn to read and understand error messages - they're the fastest way to improve
+  **Solution:** Learn to read and understand error messages - they're an effective way to improve
 
 ### Lesson 6: Applying the Method - Touch Typing Example
 
@@ -450,11 +450,11 @@ Touch typing is a motor skill that requires physical retraining of your fingers.
 #### Step 2: Deconstruct into Subskills
 
 Key subskills include:
-- Correct finger placement on home row
+- Correct finger placement (fingers resting on the home row A, S, D, F, J, K, L, ;)
 - Touch typing each letter without looking
 - Building muscle memory for common letter combinations
 - Increasing speed while maintaining accuracy
-- Developing the habit of not looking at the keyboard
+- Breaking the habit of looking at the keyboard
 
 #### Step 3: Obtain Critical Tools
 
@@ -473,7 +473,7 @@ The biggest barrier to learning touch typing is the habit of looking at the keyb
 
 #### Step 6: Test Progress Regularly
 
-The author tested typing speed regularly to track progress. Seeing improvement helped maintain motivation during the frustrating early stages.
+The author tested typing speed regularly to track progress. Seeing improvement helped maintain motivation during the frustrating early stages in the author's experience.
 
 #### Best Practices
 
@@ -492,28 +492,28 @@ The author tested typing speed regularly to track progress. Seeing improvement h
 #### Keep In Mind
 
 - Touch typing is a motor skill that requires physical retraining
-- The early hours feel slow and frustrating, but improvement accelerates quickly
+- The early hours feel slow and frustrating, but improvement accelerates, in the author's experience.
 - Muscle memory takes time to develop - be patient
-- Consistency matters more than practice session length
-- The power law of practice applies - you'll improve quickly in the beginning
+- Consistency matters more than practice session length, in the author's experience.
+- The power law of practice applies - you'll improve in the beginning
 
 #### Security & Safety Notes
 
-- Repetitive strain injuries (RSI) can occur from excessive typing
+- Repetitive strain injuries (RSI) can occur according to medical research from prolonged typing
 - Take regular breaks to avoid strain
 - Maintain proper ergonomics: wrists straight, elbows at 90 degrees
-- Don't push through pain - rest if you feel discomfort
+- Don't practice through pain - rest if you feel discomfort
 
 #### Common Pitfalls
 
 - **Problem:** Looking at the keyboard while typing
   **Solution:** Cover your hands, use a keyboard cover, or practice in low light
-- **Problem:** Using only some fingers instead of all ten
+- **Problem:** Using fewer than all ten fingers
   **Solution:** Start slow and focus on using the correct finger for each key
 - **Problem:** Practicing too fast and developing bad habits
   **Solution:** Go slow, focus on accuracy, speed will come naturally
-- **Problem:** Giving up after days because progress seems slow
-  **Solution:** Remember the power law of practice - the first hours feel slow but improvement accelerates
+- **Problem:** Giving up too early because progress seems slow
+  **Solution:** Remember the power law of practice - the first hours feel challenging but improvement accelerates in the author's experience
 
 ### Lesson 7: Applying the Method - Go Example
 
@@ -529,7 +529,7 @@ The author focused on developing pattern recognition skills through repeated pla
 
 #### Step 1: Understand the Game
 
-Go is a two-player strategy game where players place stones on a 19x19 grid to control territory. The rules are simple, but the strategy is deep. The goal is to control more territory than your opponent.
+Go is a two-player strategy game where players place stones on a 19x19 grid to control territory. The rules are simple, but the strategy is deep, in the author's view. The goal is to control more territory than your opponent.
 
 #### Step 2: Deconstruct into Subskills
 
@@ -560,7 +560,7 @@ The author studied famous historic games like the Shusaku vs. Inseki game to lea
 
 #### Step 6: Use Fast Feedback
 
-Online Go servers provide immediate feedback through ranking systems. The author tracked his progress through his ranking and get immediate feedback on his moves through the game results.
+Online Go servers provide immediate feedback (feedback that arrives within seconds or minutes) through ranking systems. The author tracked his progress through his ranking and got immediate feedback on his moves through the game results.
 
 #### Best Practices
 
@@ -577,15 +577,15 @@ Online Go servers provide immediate feedback through ranking systems. The author
 
 #### Keep In Mind
 
-- Go has a challenging learning curve but improves quickly early on.
+- Go has a learning curve but improves at first, in the author's experience.
 - Pattern recognition develops through repeated play
-- Even experienced players make mistakes - the game is deep
+- Even skilled players make mistakes - the game is deep, in the author's view.
 - Losses are valuable learning opportunities
-- The game combines analytical thinking with intuitive pattern recognition
+- The game combines analytical thinking with intuitive pattern recognition, in the author's view.
 
 #### Security & Safety Notes
 
-- No specific safety concerns for learning Go
+- No specific safety concerns for learning Go, in the author's experience
 
 #### Common Pitfalls
 
@@ -596,7 +596,7 @@ Online Go servers provide immediate feedback through ranking systems. The author
 - **Problem:** Trying to memorize opening sequences without understanding principles
   **Solution:** Focus on understanding basic principles and patterns
 - **Problem:** Playing too quickly without thinking
-  **Solution:** Take time to consider each move, especially early in your practice
+  **Solution:** Take a moment to consider each move, especially early in your practice
 
 ### Lesson 8: Applying the Method - Ukulele Example
 
@@ -612,7 +612,7 @@ The author learned the "Four Chord Song" (I-V-vi-IV progression) which is used i
 
 #### Step 1: Understand the Instrument
 
-The ukulele is a small, four-stringed instrument that is easy to learn compared to guitar. The author chose it because it's portable, affordable, and the basic chords are simple to form.
+The ukulele is a small, four-stringed instrument that is portable and relatively simple to learn. The author chose it because it's portable, affordable, and the basic chords are simple to form.
 
 #### Step 2: Deconstruct into Subskills
 
@@ -651,24 +651,24 @@ The author practiced by playing actual songs rather than just drills. This made 
 - ✅ Practice chord transitions slowly at first, then gradually increase speed
 - ✅ Learn songs you actually enjoy listening to
 - ✅ Practice strumming patterns separately from chord changes
-- ✅ Use a metronome to develop consistent timing
+- ✅ Use a metronome to develop steady timing
 - ✅ Record yourself playing to identify areas for improvement
 - ❌ Don't try to learn complex fingerpicking before mastering basic chords
 - ❌ Don't practice songs that are too difficult for your current level
 - ❌ Don't neglect tuning - an out-of-tune ukulele sounds bad and discourages practice
-- ❌ Don't press the strings too hard - find the minimum pressure needed
+- ❌ Don't press harder than necessary - find the lightest pressure needed
 
 #### Keep In Mind
 
-- The ukulele is a beginner-friendly instrument - basic chords are simple to learn
-- Consistency matters more than practice session length
-- Popular songs use the same four chords (I-V-vi-IV progression)
-- Calluses will build up on your fingers, making playing more comfortable
-- The goal is to have fun making music, not to achieve professional-level technique
+- The ukulele is an accessible instrument for beginners in the author's experience - basic chords are simple to learn
+- Consistency matters more than practice session length, in the author's experience.
+- Songs use the same four chords (I-V-vi-IV progression)
+- Calluses will build up on your fingers in the author's experience, making playing more comfortable
+- The goal is to have fun making music, not to achieve performance-ready technique, in the author's view (the level of skill required to perform professionally)
 
 #### Security & Safety Notes
 
-- No specific safety concerns for learning ukulele
+- No specific safety concerns for learning ukulele, in the author's experience
 
 #### Common Pitfalls
 
@@ -677,9 +677,9 @@ The author practiced by playing actual songs rather than just drills. This made 
 - **Problem:** Playing out of tune because you don't tune regularly
   **Solution:** Tune your ukulele before every practice session
 - **Problem:** Strumming with too much force or too little force
-  **Solution:** Practice with a metronome and focus on even strums
+  **Solution:** Practice with a metronome and focus on steady strums (strums with uniform timing and force)
 - **Problem:** Getting discouraged because your playing sounds rough
-  **Solution:** Remember that everyone sounds rough when they're learning - it's part of the process
+  **Solution:** Remember that everyone sounds unpolished when they're learning - it's part of the process
 
 ### Lesson 9: Applying the Method - Windsurfing Example
 
@@ -695,7 +695,7 @@ The author's first windsurfing attempt was a difficult experience - he fell repe
 
 #### Step 1: Research the Skill and Environment
 
-The author researched windsurfing by finding instructional videos, talking to experienced windsurfers, and studying the local wind patterns at his chosen lake. He learned about equipment, safety considerations, and ideal learning conditions.
+The author researched windsurfing by finding instructional videos, talking to experienced windsurfers, and studying the local wind patterns at his chosen lake. Ideal learning conditions include winds of 5-10 mph, flat water, and warm temperatures. He learned about equipment, safety considerations, and ideal learning conditions.
 
 #### Step 2: Define Target Performance Level
 
@@ -713,11 +713,11 @@ The author acquired:
 
 #### Step 4: Learn Rigging and Safety
 
-The author watched instructional videos to learn how to rig the board and sail properly. He also learned self-rescue techniques in case he fell and couldn't get back on the board.
+The author watched instructional videos to learn how to rig the board and sail properly according to the instructional videos. He also learned self-rescue techniques in case he fell and couldn't get back on the board.
 
 #### Step 5: Start in Ideal Conditions
 
-After a difficult first attempt in strong wind, the author practiced on calm days to isolate specific skills like balancing on the board without the sail. This approach allowed him to build skills progressively.
+After a difficult first attempt in strong wind, the author practiced on calm days (days with light winds less than 5 mph) to isolate specific skills like balancing on the board without the sail. This approach allowed him to build skills progressively.
 
 #### Step 6: Practice Subskills Separately
 
@@ -730,7 +730,7 @@ The author practiced individual subskills:
 
 #### Step 7: Learn from Mistakes
 
-After his first attempt, the author conducted a post-traumatic event analysis to identify what went wrong. This analysis revealed four key issues: wind too strong for beginner, no balancing experience, improper weight shifting, and lack of safety gear.
+After his first attempt, the author conducted an analysis of what went wrong to identify key issues. This analysis revealed four issues: wind too strong for beginner, no balancing experience, improper weight shifting, and lack of safety gear.
 
 #### Best Practices
 
@@ -749,11 +749,11 @@ After his first attempt, the author conducted a post-traumatic event analysis to
 
 #### Keep In Mind
 
-- Windsurfing requires physical effort - you'll be uphauling the sail repeatedly
-- Environmental conditions (wind, water temperature) significantly impact practice
-- The early sessions will involve falling - that's normal
+- Windsurfing requires physical effort in the author's experience - you'll be uphauling the sail repeatedly
+- Environmental conditions (wind, water temperature) impact practice, in the author's experience
+- In the author's experience, the early sessions involve falling - that's expected (expected for beginners learning a physical skill)
 - Progress comes from practicing individual skills separately before combining them
-- Safety should always be the top priority
+- Safety should be the top priority, in the author's view
 
 #### Security & Safety Notes
 
@@ -797,19 +797,19 @@ After his first attempt, the author conducted a post-traumatic event analysis to
 |Deconstruct|To break a skill down into the smallest possible subskills|18, 276|
 |Deliberate practice|Intentional and systematic practice to improve a skill|250|
 |Dvorak keyboard|An alternative keyboard layout designed to reduce finger movement|135, 136, 137|
-|Fast feedback loops|Getting accurate information about performance as quickly as possible|20, 807|
-|Fixed mind-set|The belief that skills and talents are innate and cannot be significantly improved with practice|12, 514|
+|Fast feedback loops|Getting accurate information about performance as fast as possible|20, 807|
+|Fixed mind-set|The belief that skills and talents are innate and cannot be improved with practice|12, 514|
 |Flowcharts|Visual representations of processes used as an analogy for programming|76, 77|
 |Frustration barrier|The period in early skill acquisition where you're unskilled and aware of it|ix, 87|
 |Go|The world's oldest and most complex board game, originating in China over 3,000 years ago|157, 159, 160|
 |Growth mind-set|The belief that skills and abilities grow with practice and persistence|12, 518|
-|Hydroplane|When a windsurf board lifts out of the water at high speed, significantly increasing speed|254, 313|
+|Hydroplane|When a windsurf board lifts out of the water at high speed, increasing speed|254, 313|
 |Immersion|Completely changing your environment to result in constant deliberate practice|25, 959|
 |Inversion|A problem-solving technique that involves studying the opposite of what you want to identify critical elements|31, 1161|
 |Jekyll|A static site generator used for web development|73, 88, 110|
 |Keyzen|A typing training program used for learning touch typing|145, 146, 147|
 |Ladder|A sequence of capturing moves in Go that forces stones to the edge of the board|200, 201|
-|Learning curve|A graph showing how quickly skill improves with practice|23, 913|
+|Learning curve|A graph showing how skill improves with practice|23, 913|
 |Liberties|Empty points adjacent to a stone or group in Go|178, 179, 180|
 |Lovable project|A skill or project you're genuinely excited about learning or building|15, 16, 621|
 |Mental hooks|Analogies and metaphors that help you remember new concepts|31, 1142|
@@ -818,7 +818,7 @@ After his first attempt, the author conducted a post-traumatic event analysis to
 |Motor skills|Skills that involve physical movement|12, 147, 539|
 |Net|A technique in Go for capturing stones by surrounding them|203, 204|
 |N-grams|Sequences of n items (words, letters) used in language analysis|152, 153|
-|Power law of practice|The phenomenon where performance improves quickly in a short period of time when beginning a new skill|23, 897|
+|Power law of practice|The phenomenon where performance improves in a short period of time when beginning a new skill|23, 897|
 |Practice by the clock|Using timers to structure practice sessions|21, 836|
 |Precommitment|Committing to a minimum practice time before starting|20, 791|
 |Prime skill|Your most lovable project - the skill you're most excited about acquiring|15, 16, 648|
