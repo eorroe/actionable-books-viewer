@@ -246,7 +246,7 @@ At the end of Brahmā's day, which lasts 4.3 billion human years, all lower plan
 
 ##### Example 2: The Spiritual Airplanes
 
-There are spiritual airplanes in the spiritual sky, and liberated entities travel about on these planes like lightning (i.e., with great speed). According to the Vedic tradition, everything that we find here can also be found there in reality, while everything in the material world is an imitation or shadow of that which exists in the spiritual sky.
+There are spiritual airplanes in the spiritual sky, and liberated entities travel about on these planes like lightning (i.e., at lightning-like speed). According to the Vedic tradition, everything that we find here can also be found there in reality, while everything in the material world is an imitation or shadow of that which exists in the spiritual sky.
 
 ##### Example 3: The Cinema Show
 
@@ -266,7 +266,7 @@ Aspire for the supreme abode (paramāṁ gatim) which is called unmanifested and
 
 #### Step 4: Approach the Supreme Lord Through Bhakti, Not Speculation
 
-Understand that, according to the Vedic tradition, the puruṣas (persons) in the spiritual sky can be approached only by bhakti (devotional service), not by challenge, philosophical speculation, mental concoctions, or physical exercises. According to the Vedic tradition, pure devotion without deviations of fruitive activity is the only means.
+Understand that, according to the Vedic tradition, the puruṣas (persons) in the spiritual sky can be approached only by bhakti (devotional service), not by challenge, philosophical speculation, mental concoctions, or physical exercises. According to the Vedic tradition, pure devotional service without deviations into fruitive activity is the only means.
 
 #### Step 5: Develop Authorized Faith
 
@@ -437,14 +437,17 @@ Understand that a person who accepts the path of devotional service is not beref
 |Hare Kṛṣṇa|The mahā-mantra (great chanting) consisting of the holy names of the Lord: "Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare / Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare"; an address to the Supreme Lord and His energy requesting acceptance.|17, 39, 46|
 |haṭha-yogī|A transcendentalist who practices the physical yoga system; a practitioner of haṭha-yoga, which emphasizes physical postures and exercises as a means of spiritual control.|18|
 |immediately (right away)|Without delay or prerequisite conditions; according to the Vedic tradition, anyone can begin chanting the Hare Kṛṣṇa mahā-mantra immediately, without any knowledge of Sanskrit or other qualifications.|46|
+|impersonal merging|The process of merging into the impersonal Brahman effulgence, which is considered temporary liberation because one eventually falls back to the material world.|12, 18, 26|
 |impersonalism|The philosophical view that the Absolute Truth is ultimately impersonal and without form, leading to the goal of merging into the Brahman effulgence.|26, 43|
 |impersonalists|Those who seek liberation by merging into the impersonal Brahman effulgence rather than maintaining personal relationship with the Supreme Lord.|26|
 |inferior things / inferior material enjoyment|Material pleasures and sense gratification, which are naturally given up when one attains superior spiritual association with the Supreme Person.|25, 37|
 |jñāna-yogī|A transcendentalist who practices the yoga system of knowledge; a mystic who cultivates knowledge as the primary means of yoga; one who seeks the Absolute through philosophical speculation.|18|
 |Jñāni|A transcendentalist who pursues knowledge, often leading to impersonal liberation.|26|
 |language background|One's native or learned language; according to the Vedic tradition, not a barrier to beginning the practice of Kṛṣṇa consciousness through chanting the mahā-mantra.|46|
+|permanent liberation|Liberation that is lasting and irreversible, achieved only through pure devotional service to Kṛṣṇa, not through impersonal merging which results in return to the material world.|12, 26|
 |liberation|Freedom from material existence; release from the cycle of birth, death, old age, and disease.|26|
 |light (as a path descriptor)|One of the two paths of departure from this world (the other being darkness); the path of Kṛṣṇa consciousness that leads to no return to the material world.|45|
+|lower planetary systems|The seven lower planetary systems in Vedic cosmology (Atala, Vitala, Sutala, Talatala, Mahatala, Rasatala, Patala) situated below the earthly planetary system; subject to annihilation at the end of Brahmā's day.|24, 25|
 |mahā-mantra|The great chanting: Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare / Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare; the most powerful means of spiritual realization in the present age.|17, 46|
 |material benefit for oneself|Personal material gain or comfort sought from the Supreme Lord through petitionary prayers; according to the Vedic tradition, this is distinct from pure devotional service and should be abandoned in favor of selfless service to Kṛṣṇa.|43|
 |material body|The temporary physical body composed of material elements, which the soul mistakenly identifies with as its true self.|9, 12, 13, 17, 31|
@@ -503,15 +506,19 @@ Understand that a person who accepts the path of devotional service is not beref
 |supreme destination (paramāṁ gatim)|The supreme abode of Kṛṣṇa in the spiritual sky, from which one never returns to the material world.|20, 36|
 |Supreme Personality of Godhead|The ultimate, supreme person—Kṛṣṇa—who is the source of all incarnations, the ultimate enjoyer, and the object of pure devotional service; according to the Vedic tradition, He is greater than all and attainable only by unalloyed devotion.|5, 17, 20, 32, 42|
 |surabhi cows|Cows that yield an endless supply of milk; described in Vedic scriptures as existing in the spiritual world.|25|
+|self-realization|The understanding of one's true spiritual identity as the eternal soul (ātmā) distinct from the temporary material body; the beginning of spiritual life in Kṛṣṇa consciousness.|5|
 |surrender|The complete dedication of the self to the Supreme Lord, abandoning all mental speculation and personal desire to serve Him exclusively.|27|
 |symptoms|Indicators or distinguishing signs of a spiritual condition; in the context of the soul, the symptoms of life are consciousness and the presence of a living being, as opposed to a dead body; the symptom of pure devotion is constant remembrance of Kṛṣṇa and lack of material desires.|17, 32|
+|temporary elevation|Advancement to higher material planets or better material conditions through yogic or pious activity, which is not the same as true spiritual liberation and does not end the cycle of birth and death.|12, 18|
 |the most important part of the living entity|For practitioners of Kṛṣṇa consciousness, Kṛṣṇa consciousness itself, which is the essential duty of the soul and should not be treated as a casual hobby or optional extra; according to the Vedic tradition, it is the most important part of the living entity.|43|
 |traiguṇya|The three modes of material nature: goodness (sattva), passion (rajas), and ignorance (tamas).|13|
+|traiguṇya-viṣayā vedā|The Vedic scriptures that deal with the three modes of material nature (goodness, passion, ignorance); Bhagavad-gītā 7.14 describes how these modes bind the living entity.|13|
 |transcendental knowledge|Pure spiritual knowledge received from authorized Vedic sources, free from mental speculation and material contamination.|9, 13, 17, 27, 38, 42|
 |transcendental service|Devotional service (bhakti) to the Supreme Lord, which is beyond the material modes of nature and constitutes the eternal occupation of the soul.|17, 27, 37, 38, 42|
 |transferral|The movement or conveyance of the spiritual spark from one position to another; in the context of yoga, the transferral of the conscious living entity to the top of the head at the time of death for onward travel to the spiritual world.|18|
 |travel about|To move from place to place; in the spiritual sky, liberated entities travel on spiritual airplanes.|24|
 |unconquerable Lord|Kṛṣṇa, who cannot be conquered by challenge, philosophical speculation, or mental concoctions, but is conquered by pure devotional service.|16, 27, 32|
+|undeviated from the path|Maintaining constant remembrance of Kṛṣṇa without being distracted by material thoughts or engagements; staying fixed in the practice of bhakti-yoga as taught in the disciplic succession.|45|
 |vedāḥ|The Vedic literatures; sacred scriptures originating from the Supreme Lord.|13|
 |viṣṇumūrti|The form of Lord Viṣṇu; the four-armed expansion of the Supreme Personality of Godhead.|20|
 |voidism|The philosophy that the ultimate goal is annihilation or void, rejecting both personal and impersonal aspects of the Absolute Truth.|42|
