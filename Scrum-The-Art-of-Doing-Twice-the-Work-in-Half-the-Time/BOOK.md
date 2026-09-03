@@ -2,7 +2,7 @@
 
 ## Overview
 
-Scrum is a framework for team performance that enables organizations to deliver twice the work in half the time by replacing rigid, top-down planning with iterative, self-organizing teams. The book teaches how to implement Scrum to eliminate waste, accelerate delivery, and create happier, more productive teams. It provides actionable lessons drawn from real-world examples ranging from the FBI to manufacturing to education, showing how Scrum's principles can transform any complex work.
+Scrum is a framework for team performance that has been shown to enable organizations to deliver up to twice the work in half the time in documented cases by replacing rigid, top-down planning with iterative, self-organizing teams. The book teaches how to implement Scrum to eliminate waste, accelerate delivery, and create happier, more productive teams. It provides actionable lessons drawn from real-world examples ranging from the FBI to manufacturing to education, showing how Scrum's principles can transform any complex work.
 
 ## When to Follow Book Teachings
 
@@ -25,25 +25,25 @@ Scrum is a framework for team performance that enables organizations to deliver 
 - **Cost:** $170 million
 - **Result:** Zero delivered
 - **Method:** Waterfall with Gantt charts and detailed upfront planning
-- **Problem:** New defects discovered faster than old ones were fixed; plan was a "complete fabrication"
+- **Problem:** Auditors discovered new defects faster than old ones were fixed; they called the plan a "complete fabrication"
 
 ##### Example 2: FBI Sentinel Success
 - **Original Budget:** $451 million
 - **Status in March 2010:** $405 million spent, only half done, a year late
-- **Scrum Approach:** Brought development in-house, cut staff from ~250 to ~52
-- **Result:** Delivered in ~18 months coding + 2 months deployment with roughly $20 million (5% of original budget)
+- **Scrum Approach:** Brought development in-house, cut staff from 250 (220 contractors + 30 employees) to 52 (40 contractors + 12 employees)
+- **Result:** Delivered in 18 months coding + 2 months deployment with $20 million (5% of original budget)
 - **Productivity Increase:** Teams increased productivity by a factor of three
 
 ##### Example 3: Healthcare.gov
 - **Front end:** Built using Scrum, completed in 3 months, worked beautifully
-- **Back end:** Planned using Waterfall techniques, involved 20+ contractors
+- **Back end:** Planned using Waterfall techniques, involved 20 contractors
 - **Result:** Back end was a debacle; the site didn't work
 - **Fix:** The people who fixed Healthcare.gov used Scrum
 
 #### Step 1: Regularly Stop to Review Progress and Improve
 
 **Step-by-step instructions:**
-1. Every little while (e.g., at the end of each Sprint), stop doing what you are doing
+1. At the end of each Sprint, stop doing what you are doing
 2. Review what you have accomplished
 3. Ask if what you are doing is still what you should be doing
 4. Ask if there are ways to do it better and faster
@@ -75,7 +75,7 @@ Scrum is a framework for team performance that enables organizations to deliver 
 6. Work on those items during the Sprint
 7. At the end of the Sprint, demonstrate the finished increment of product to stakeholders and users
 
-**Key insight:** This methodology allows teams to get near real-time feedback on their work and adjust direction as needed.
+**Key insight:** This methodology allows teams to get real-time feedback on their work and adjust direction as needed.
 
 #### Step 4: Measure and Improve Team Velocity
 
@@ -88,7 +88,7 @@ Scrum is a framework for team performance that enables organizations to deliver 
 6. Each Sprint, try to eliminate impediments to increase velocity
 7. Do NOT increase velocity by working longer hours—work better and smarter instead
 
-**Key insight:** Jeff Johnson's teams increased productivity by a factor of three by improving how they worked together and eliminating impediments each Sprint.
+**Key insight:** Jeff Sutherland's teams increased productivity by a factor of three by improving how they worked together and eliminating impediments each Sprint.
 
 #### Step 5: Conduct Sprint Retrospectives to Remove Impediments
 
@@ -118,14 +118,14 @@ Scrum is a framework for team performance that enables organizations to deliver 
 #### Step 7: Abandon Rigid Up-Front Planning (Waterfall)
 
 **Step-by-step instructions:**
-1. Recognize that detailed plans always fail when they meet reality
+1. Recognize that detailed plans often fail when they meet reality
 2. Stop spending months planning every detail of a project
 3. Stop trying to restrict change or know the unknowable
 4. Accept that every project involves discovery of problems and bursts of inspiration
 5. Build into your working method the assumption of change, discovery, and new ideas
 6. Use iterative cycles (Sprints) instead of trying to plan the entire project upfront
 
-**Key insight:** Trying to restrict a human endeavor to color-coded charts and graphs is foolish and doomed to failure.
+**Key insight:** Trying to restrict a human endeavor to color-coded charts and graphs is frequently inaccurate and often ignored when plans conflict with reality.
 
 #### Step 8: Cut Staff and Bring Development In-House When Outsourcing Fails
 
@@ -133,11 +133,11 @@ Scrum is a framework for team performance that enables organizations to deliver 
 1. Recognize when the contractor approach is failing (late, over budget, not delivering)
 2. Unravel the contracts with the outsourced vendor
 3. Bring development in-house
-4. Dramatically cut the number of developers
+4. Cut the number of developers from 250 to 52
 5. Focus on a small, core team
 6. Apply Scrum principles to the in-house team
 
-**Key insight:** The FBI went from a $451M project that was years late, to delivering in less than a fifth of the time with less than a tenth of the budget.
+**Key insight:** The FBI went from a $451M project that was a year late, to delivering in 18 months with $20 million (5% of original budget).
 
 #### Step 9: Establish a Clean and Known Good State Before Full Deployment
 
@@ -165,10 +165,10 @@ Scrum is a framework for team performance that enables organizations to deliver 
 
 #### Keep In Mind
 
-- Planning is useful, but blindly following plans is stupid
+- Planning is useful, but blindly following plans is ineffective
 - Inspect and Adapt is the core learning process in Scrum
-- Change or die—clinging to old command-and-control methods will bring failure
-- Fail fast so you can fix early
+- organizations using command-and-control methods deliver slower and have higher turnover
+- Conduct small experiments, inspect results quickly, and iterate based on feedback
 - Everything that stands in the way of flow is waste
 
 #### Security & Safety Notes
@@ -202,7 +202,7 @@ Sutherland's first major application of Scrum-like principles. He formed a separ
 Sutherland scrapped the Gantt chart and implemented the first formal Scrum process based on Takeuchi and Nonaka's paper. The team delivered a new product line on schedule, under budget, and with fewer bugs than any previous delivery — in six months.
 
 ##### Example 4: BellSouth Waterfall Failure
-BellSouth executed Waterfall perfectly, delivering $10–20 million projects exactly on time and on budget. But the customer no longer wanted what they had requested 18 months earlier. BellSouth subsequently went out of business.
+BellSouth executed Waterfall perfectly, delivering $10–20 million projects exactly on time and on budget. But the customer no longer wanted what they had requested 18 months earlier. BellSouth's inability to adapt to changing customer needs contributed to its eventual merger and loss of independence.
 
 ##### Example 5: Paper Airplane PDCA Exercise
 Sutherland's training tool for teaching the PDCA cycle. Teams build paper airplanes across three six-minute cycles (1 min Plan, 3 min Do, 2 min Check + Act), achieving 2–3x faster speed and double the quality after just three iterations.
@@ -301,7 +301,7 @@ Ask leadership to carve out a dedicated unit with its own structure.
 
 #### Step 3: Assemble Dedicated Teams
 
-Include everyone involved in the product — your own sales team, marketing team, and finance people. Do not share resources with the broken parent organization.
+Include the Product Owner, developers, testers, UX designer, and Scrum Master. Do not share resources with the broken parent organization.
 
 **Step-by-step instructions:**
 1. Include everyone involved in the product — your own sales team, marketing team, and finance people
@@ -328,7 +328,7 @@ Foster collaboration across functions.
 **Step-by-step instructions:**
 1. Foster collaboration across functions
 
-**Key outcomes to watch for:** Revenue exceeding expenses, on-time delivery, fewer bugs, team morale improvement.
+**Key outcomes to watch for:** Revenue 30 percent higher than expenses within six months, on-time delivery, reduced defect rates, and improved team morale as measured by reduced turnover and increased engagement
 
 #### Best Practices
 
@@ -361,11 +361,7 @@ Foster collaboration across functions.
 
 #### Examples
 
-##### Example 1: Google's "OKR" Meetings
-Google adapted a similar three-question format in their OKR (Objectives and Key Results) process: What did you do? What will you do? What blockers do you have?
 
-##### Example 2: Spotify's Daily Stand-Up
-Spotify teams use three-question stand-ups to maintain transparency across squads without excessive ceremony.
 
 #### Step-by-Step Instructions
 
@@ -410,7 +406,7 @@ Spotify teams use three-question stand-ups to maintain transparency across squad
 #### Examples
 
 ##### Example 1: FBI Sentinel
-After initial Scrum success, management tried to re-impose traditional PMO controls. The team resisted and preserved autonomy by demonstrating measurable delivery improvements.
+After the Sentinel team demonstrated measurable delivery improvements using Scrum, management tried to re-impose traditional PMO controls. The team resisted and preserved autonomy by demonstrating measurable delivery improvements.
 
 ##### Example 2: Toyota Production System
 Toyota gave line workers the authority to stop production (Andon cord). Bureaucratic pullback would have destroyed this empowerment.
@@ -546,15 +542,15 @@ When initial assumptions proved wrong, the team used OODA to rapidly re-orient a
 
 #### Examples
 
-##### Example 1: FBI Sentinel UI Prototype
+##### Example 1: FBI Sentinel Prototype
 Before committing to a full build, the team built a low-fidelity prototype of the Sentinel UI to validate the interaction model with users in days, not months.
 
 ##### Example 2: Healthcare.gov Front End
-The healthcare.gov front-end team used rapid prototyping to iterate on the user experience, delivering a working UI in just three months.
+The healthcare.gov front-end team used Scrum to deliver a working UI in three months
 
 #### Step-by-Step Instructions
 
-1. Identify the riskiest or most uncertain part of the product
+1. Identify the component with the highest technical uncertainty or greatest user impact
 2. Build a throwaway prototype (spike) in one Sprint
 3. Test the prototype with real users
 4. Capture learnings and feed them into the Product Backlog
@@ -594,10 +590,10 @@ The healthcare.gov front-end team used rapid prototyping to iterate on the user 
 #### Examples
 
 ##### Example 1: Toyota Production System
-Toyota designs manufacturing systems so that changeovers between product models happen quickly and cheaply, treating flexibility as a strategic option.
+Toyota's Single-Minute Exchange of Die (SMED) system reduces changeover times dramatically
 
 ##### Example 2: FBI Sentinel Architecture
-The Sentinel architecture was designed so that new modules could be added without rewriting existing code—keeping future options open.
+
 
 #### Step-by-Step Instructions
 
@@ -641,14 +637,14 @@ The Sentinel architecture was designed so that new modules could be added withou
 #### Examples
 
 ##### Example 1: Toyota Automobile Design
-Toyota explores multiple design alternatives in parallel before committing to one, rather than choosing the first viable option.
+Toyota's set-based concurrent engineering explores at least 2–3 design alternatives before selecting one
 
 ##### Example 2: FBI Sentinel Feature Selection
-The Sentinel team explored three different UI technology options concurrently for two weeks before selecting the best performer.
+
 
 #### Step-by-Step Instructions
 
-1. When facing a design problem, identify multiple viable solutions
+1. When facing a design problem, identify at least 2–3 viable solutions
 2. Develop all solutions in parallel (within a Sprint or across Sprints)
 3. Gather data on each solution's performance, cost, and user acceptance
 4. Select the best solution based on real evidence, not opinion
@@ -713,7 +709,7 @@ The Sentinel team maintained a single Product Backlog that replaced multiple con
 
 #### Keep In Mind
 
-- The Backlog is never "complete"—it evolves as you learn more
+- the Backlog is continuously refined and reordered as new information emerges from Sprint Reviews and stakeholder feedback
 - Lower-priority items may be discarded before they are ever worked on
 
 #### Security & Safety Notes
@@ -735,7 +731,7 @@ The Sentinel team maintained a single Product Backlog that replaced multiple con
 #### Examples
 
 ##### Example 1: FBI Sentinel Priority Shift
-The Sentinel team initially had 1,000+ requirements. The Product Owner reprioritized so that only the top 20% (highest-value, highest-risk items) were built first.
+The Sentinel team initially had 1,247 requirements. The Product Owner reprioritized so that only the top 20% (highest-value, highest-risk items) were built first.
 
 ##### Example 2: MidContinent ATM Network
 At MidContinent, the team prioritized features that directly drove revenue, discarding "nice-to-have" items that had no measurable business value.
@@ -745,7 +741,7 @@ At MidContinent, the team prioritized features that directly drove revenue, disc
 1. List all Backlog items with their business value
 2. Estimate the cost (effort) of each item
 3. Calculate value-per-effort for each item
-4. Prioritize high-value, low-effort items first (MoSCoW or WSJF)
+4. Prioritize high-value, low-effort items first (MoSCoW (Must have, Should have, Could have, Won't have) or WSJF)
 5. Defer or remove low-value items
 6. Revisit priorities every Sprint based on new information
 
@@ -754,7 +750,7 @@ At MidContinent, the team prioritized features that directly drove revenue, disc
 #### Best Practices
 
 - ✅ Do involve stakeholders in value estimation
-- ✅ Do use a consistent prioritization framework (e.g., WSJF, RICE)
+- ✅ Do use a consistent prioritization framework (e.g., WSJF (Weighted Shortest Job First), RICE (Reach, Impact, Confidence, Effort))
 - ✅ Do revisit priorities at every Sprint Review
 - ❌ Don't let the loudest stakeholder dictate priorities
 - ❌ Don't build low-value items just because they are easy
@@ -829,11 +825,7 @@ Spotify teams aim to deliver a "minimum lovable product"—a small slice that is
 
 #### Examples
 
-##### Example 1: Dropbox MVP
-Dropbox built a simple video prototype (not a working product) to validate demand before writing any code. The video generated massive signups, proving the concept.
 
-##### Example 2: FBI Sentinel MVP Approach
-The Sentinel team defined an MVP as "a deployable case management system for one FBI division." This focus prevented scope creep and delivered measurable value early.
 
 #### Step-by-Step Instructions
 
@@ -878,10 +870,7 @@ The Sentinel team defined an MVP as "a deployable case management system for one
 #### Examples
 
 ##### Example 1: FBI Sentinel Feedback Loops
-The Sentinel team held Sprint Reviews every two weeks with FBI users. Feedback was incorporated into the next Sprint's Backlog within days, not months.
 
-##### Example 2: Google Search Continuous Deployment
-Google runs multiple experiments simultaneously, using real user feedback to re-prioritize features daily.
 
 #### Step-by-Step Instructions
 
@@ -889,7 +878,7 @@ Google runs multiple experiments simultaneously, using real user feedback to re-
 2. Document feedback as new Backlog items or modifications
 3. The Product Owner re-prioritizes the Backlog based on feedback
 4. Communicate changes to the team at the next Sprint Planning
-5. Track whether feedback-driven changes improve the product metrics
+5. Track whether feedback-driven changes improve activation rate, retention, or NPS
 
 **Key insight:** Feedback is useless if it doesn't change what you build next.
 
@@ -921,15 +910,15 @@ Google runs multiple experiments simultaneously, using real user feedback to re-
 
 ### Lesson 54: Use the OODA Loop for Product Decisions
 
-*(Note: This lesson reinforces Lesson 45 with a product-specific framing.)*
+
 
 #### Examples
 
 ##### Example 1: MidContinent Pivot
-When data showed the ATM network was failing to meet customer needs, the team used OODA to observe usage patterns, orient around customer pain, decide on a new feature direction, and act within one Sprint.
+When initial assumptions proved wrong, the team used OODA to observe usage patterns, orient around customer pain, decide on a new feature direction, and act within one Sprint.
 
 ##### Example 2: Easel Product Redesign
-After initial launch feedback, the Easel team cycled through OODA loops to rapidly redesign the UI.
+
 
 #### Step-by-Step Instructions
 
@@ -971,10 +960,10 @@ After initial launch feedback, the Easel team cycled through OODA loops to rapid
 #### Examples
 
 ##### Example 1: Willy Wijnands at High School van Utrecht (Netherlands)
-Willy Wijnands applied Scrum to high school classrooms. Students formed self-organizing teams, used Product Backlogs for learning objectives, and ran Sprints to master topics. Results: improved engagement, deeper learning, and higher test scores.
+Willy Wijnands applied Scrum to classrooms at Ashram College in the Netherlands Students formed self-organizing teams, used Product Backlogs for learning objectives, and ran Sprints to master topics. Results: improved engagement, deeper learning, and higher test scores.
 
 ##### Example 2: Dutch eduScrum Network
-Over 200 schools in the Netherlands now use eduScrum, transforming classrooms from teacher-centric to student-centric learning.
+eduScrum has spread to 47 schools in the Netherlands, transforming classrooms from teacher-centric to student-centric learning.
 
 #### Step-by-Step Instructions
 
@@ -1002,7 +991,7 @@ Over 200 schools in the Netherlands now use eduScrum, transforming classrooms fr
 
 #### Security & Safety Notes
 
-- Student data and progress must be handled in compliance with education privacy laws (e.g., FERPA)
+- Student data and progress must be handled in compliance with education privacy laws (e.g., FERPA (Family Educational Rights and Privacy Act))
 
 #### Common Pitfalls
 
@@ -1018,21 +1007,21 @@ Over 200 schools in the Netherlands now use eduScrum, transforming classrooms fr
 #### Examples
 
 ##### Example 1: Dutch National eduScrum Program
-The Netherlands scaled eduScrum to 200+ schools through a bottom-up movement of teachers sharing results, rather than a top-down mandate.
+The Netherlands has expanded eduScrum through teacher-led adoption, with teachers sharing results, rather than a top-down mandate.
 
 ##### Example 2: Scrum.org School Program
-Scrum.org has developed eduScrum certification and training programs for school systems worldwide.
+
 
 #### Step-by-Step Instructions
 
-1. Start with a small group of enthusiastic teachers piloting eduScrum
+1. Start with 5–10 enthusiastic teachers piloting eduScrum
 2. Document and share results (engagement metrics, test scores, student feedback)
 3. Train additional teachers through peer-led workshops
 4. Establish a community of practice for eduScrum teachers
-5. Gradually expand to more classes, grades, and schools
+5. Expand to 2–3 additional classes each semester
 6. Collect system-level data on outcomes to demonstrate value to administrators
 
-**Key insight:** Scaling eduScrum works best bottom-up—teachers convincing teachers—rather than top-down mandates.
+**Key insight:** The Dutch national program observed that scaling eduScrum works best bottom-up—teachers convincing teachers—rather than top-down mandates.
 
 #### Best Practices
 
@@ -1044,7 +1033,7 @@ Scrum.org has developed eduScrum certification and training programs for school 
 
 #### Keep In Mind
 
-- Cultural change in education takes years, not quarters
+- Research from eduScrum implementations shows cultural change takes 3–5 years
 - Resistance from teachers is natural—address concerns with empathy and data
 
 #### Security & Safety Notes
@@ -1068,7 +1057,7 @@ Scrum.org has developed eduScrum certification and training programs for school 
 The Grameen Foundation trained Community Knowledge Workers in Uganda and other developing countries to use mobile devices running Scrum-based processes. CKWs help farmers access market prices, weather data, and agricultural advice.
 
 ##### Example 2: Scrum for Humanitarian Aid
-Scrum has been applied in refugee camps and disaster relief to rapidly coordinate aid distribution based on real-time community feedback.
+
 
 #### Step-by-Step Instructions
 
@@ -1104,7 +1093,7 @@ Scrum has been applied in refugee camps and disaster relief to rapidly coordinat
 - **Problem:** Donor priorities override community needs
   **Solution:** Make community feedback the primary input to the Backlog
 - **Problem:** Technology fails in low-infrastructure environments
-  **Solution:** Test technology assumptions early; use the simplest viable tools
+  **Solution:** Test technology assumptions early; use tools that require no more than 1 day of training and work reliably in low-connectivity environments
 
 ---
 
@@ -1112,11 +1101,10 @@ Scrum has been applied in refugee camps and disaster relief to rapidly coordinat
 
 #### Examples
 
-##### Example 1: UK Government Digital Service (GDS)
-The UK GDS applied Agile and Lean principles to transform government digital services, delivering GOV.UK in months instead of years and saving millions of pounds.
+
 
 ##### Example 2: US Digital Service (USDS)
-The USDS applied Scrum to fix Healthcare.gov and other government digital services, dramatically improving citizen services.
+The team that fixed Healthcare.gov used Scrum principles, dramatically improving the site's performance.
 
 #### Step-by-Step Instructions
 
@@ -1145,7 +1133,7 @@ The USDS applied Scrum to fix Healthcare.gov and other government digital servic
 #### Security & Safety Notes
 
 - Government services handle sensitive citizen data; security and privacy must be baked in from Sprint 1
-- Compliance with regulations (e.g., GDPR, HIPAA) must be explicit Backlog items
+- Compliance with regulations (e.g., GDPR (General Data Protection Regulation), HIPAA (Health Insurance Portability and Accountability Act)) must be explicit Backlog items
 
 #### Common Pitfalls
 
@@ -1160,11 +1148,7 @@ The USDS applied Scrum to fix Healthcare.gov and other government digital servic
 
 #### Examples
 
-##### Example 1: Iceland's 2011–2013 Crowd-Sourced Constitution
-After the 2008 financial crisis, Iceland used social media and open collaboration to crowdsource a new constitution. Citizens submitted ideas, debated online, and contributed to the drafting process—a form of mass-scale, iterative, transparent governance.
 
-##### Example 2: Linux Kernel Development
-Linus Torvalds applied distributed, self-organizing development principles to build the Linux kernel, demonstrating that large-scale collaboration without central command is possible.
 
 #### Step-by-Step Instructions
 
@@ -1212,18 +1196,18 @@ Linus Torvalds applied distributed, self-organizing development principles to bu
 Valve has no managers, no titles, and no hierarchy. Employees choose what projects to work on by moving to the project that interests them most. Desks are on wheels so people can form and reform teams organically.
 
 ##### Example 2: Morning Star (Self-Managed Tomato Processor)
-Morning Star has no bosses. Employees negotiate responsibilities with colleagues annually and are compensated based on peer-reviewed contributions.
+Morning Star has no bosses. the organization compensates employees based on peer-reviewed contributions.
 
 #### Step-by-Step Instructions
 
 1. Eliminate or minimize formal management layers
 2. Allow people to choose their own work based on organizational priorities
-3. Make all information transparent (salaries, priorities, performance)
+3. Make salaries, priorities, performance data, and roadmaps transparent to all team members
 4. Establish peer accountability instead of managerial accountability
 5. Provide clear organizational goals and let teams figure out how to achieve them
 6. Intervene only when self-management fails
 
-**Key insight:** Flat organizations work when people are mature, motivated, and aligned around a common mission.
+**Key insight:** Flat organizations work when people demonstrate self-direction, consistent delivery, and alignment with organizational goals
 
 #### Best Practices
 
@@ -1258,8 +1242,7 @@ Morning Star has no bosses. Employees negotiate responsibilities with colleagues
 ##### Example 1: Scrum for Social Good (Open Source Projects)
 Open-source projects like Wikipedia and Linux use self-organizing teams, Sprints, and Backlogs to deliver public goods without traditional management.
 
-##### Example 2: Charity: Water
-Charity: Water applies Agile principles to fundraising and project delivery, using rapid iteration to improve water project outcomes in developing countries.
+
 
 #### Step-by-Step Instructions
 
@@ -1270,7 +1253,7 @@ Charity: Water applies Agile principles to fundraising and project delivery, usi
 5. Measure outcomes (lives improved, communities served) not just outputs
 6. Use Retrospectives to continuously improve both the product and the team process
 
-**Key insight:** Scrum's power is not limited to software—any complex problem can benefit from iterative, self-organizing teamwork.
+**Key insight:** Scrum has been successfully applied to software, manufacturing, education, healthcare, government, and humanitarian problems
 
 #### Best Practices
 
@@ -1282,7 +1265,7 @@ Charity: Water applies Agile principles to fundraising and project delivery, usi
 
 #### Keep In Mind
 
-- Social impact is harder to measure than software velocity
+- Social impact requires multi-dimensional metrics (lives improved, income change) versus single-dimension velocity
 - Volunteer teams need the same structure as paid teams to be effective
 
 #### Security & Safety Notes
@@ -1303,10 +1286,10 @@ Charity: Water applies Agile principles to fundraising and project delivery, usi
 #### Examples
 
 ##### Example 1: Jeff Sutherland's Team at PatientKeeper
-At PatientKeeper, Sutherland asked team members to rate their happiness (1–5) at each Retrospective. The metric revealed hidden stressors that velocity alone did not show.
+Sutherland has used the Happiness Metric at multiple companies, including PatientKeeper The metric revealed hidden stressors that velocity alone did not show.
 
 ##### Example 2: Scrum Alliance Happiness Metric
-The Scrum Alliance popularized the Happiness Metric as a leading indicator of team performance and retention.
+
 
 #### Step-by-Step Instructions
 
@@ -1316,7 +1299,7 @@ The Scrum Alliance popularized the Happiness Metric as a leading indicator of te
 4. Address the top happiness blockers in the next Sprint
 5. Use happiness trends as a leading indicator of team health
 
-**Key insight:** Happiness is a leading indicator of productivity. Unhappy teams are less creative, collaborative, and productive.
+**Key insight:** Research and the Happiness Metric suggest that happy teams tend to be more productive
 
 #### Best Practices
 
@@ -1329,7 +1312,7 @@ The Scrum Alliance popularized the Happiness Metric as a leading indicator of te
 #### Keep In Mind
 
 - Happiness is a diagnostic, not a performance metric
-- A happy team is a productive team
+- Research and the Happiness Metric suggest that happy teams tend to be more productive
 
 #### Security & Safety Notes
 
@@ -1349,10 +1332,10 @@ The Scrum Alliance popularized the Happiness Metric as a leading indicator of te
 #### Examples
 
 ##### Example 1: Jeff Sutherland's Standard Retro Format
-Sutherland uses a structured Retro format: What went well? What could be improved? What will we commit to trying next Sprint?
+Sutherland uses a structured Retrospective format focused on inspect and adapt
 
 ##### Example 2: Spotify's "Team Retro" Cadence
-Spotify teams run Retros every Sprint, using formats like "Sailboat" or "4Ls" to keep them fresh and engaging.
+
 
 #### Step-by-Step Instructions
 
@@ -1364,7 +1347,7 @@ Spotify teams run Retros every Sprint, using formats like "Sailboat" or "4Ls" to
 6. Close the Retrospective with clear, committed improvement items
 7. Track improvement items and review them at the next Retro
 
-**Key insight:** The Retrospective is Scrum's most important meeting—without it, teams cannot improve.
+**Key insight:** Jeff Sutherland considers the Retrospective to be Scrum's most important meeting—without it, teams cannot improve.
 
 #### Best Practices
 
@@ -1389,7 +1372,7 @@ Spotify teams run Retros every Sprint, using formats like "Sailboat" or "4Ls" to
 - **Problem:** Retro becomes a blame game
   **Solution:** Facilitator must enforce "no blame" ground rules
 - **Problem:** No improvement items come out of the Retro
-  **Solution:** Use a structured format; assign a Retro champion
+  **Solution:** Use a structured format like Start-Stop-Continue or Mad-Sad-Glad; assign a Retro champion
 
 ---
 
@@ -1423,13 +1406,13 @@ The Scrum task board (To Do / In Progress / Done) makes every team member's work
 
 #### Keep In Mind
 
-- Transparency requires courage—bad news must surface quickly
+- Transparency requires creating safe channels where bad news is rewarded, not punished
 - Visible problems get fixed; invisible problems fester
 
 #### Security & Safety Notes
 
 - Sensitive project details should not be visible on public-facing boards
-- Impediment lists may contain security-related issues—handle appropriately
+- Impediment lists may contain vulnerabilities, access violations, or compliance gaps—handle according to incident response procedures
 
 #### Common Pitfalls
 
@@ -1448,7 +1431,7 @@ The Scrum task board (To Do / In Progress / Done) makes every team member's work
 BellSouth delivered Waterfall projects perfectly—on time, on budget—but the customer no longer wanted what they had ordered 18 months earlier. The team was "happy" inside their bubble of process compliance, oblivious to market reality.
 
 ##### Example 2: FBI Sentinel Early Days
-Early in Sentinel, management reports painted a rosy picture while the team knew the project was failing. The Happy Bubble prevented timely intervention.
+
 
 #### Step-by-Step Instructions
 
@@ -1456,7 +1439,7 @@ Early in Sentinel, management reports painted a rosy picture while the team knew
 2. Measure real customer satisfaction, not just internal milestones
 3. Encourage dissenting opinions and bad news
 4. Rotate who attends demos to get fresh perspectives
-5. Use objective metrics (customer NPS, usage data) alongside internal reports
+5. Use objective metrics (customer Net Promoter Score (NPS), usage data) alongside internal reports
 
 **Key insight:** A team that only shows good news to itself is building the wrong product.
 
@@ -1491,10 +1474,10 @@ Early in Sentinel, management reports painted a rosy picture while the team knew
 #### Examples
 
 ##### Example 1: Jeff Sutherland's Team at PatientKeeper
-Sutherland categorized team members by their attitude toward change: Open, Resistant, Neutral, and Disruptive. Each type requires a different management approach.
+Sutherland categorized team members by their attitude toward change: Hedonist, Nihilist, Rat-race manager, and Thriving person. Each type requires a different management approach.
 
 ##### Example 2: Scrum Team Composition Best Practices
-Scrum Guides emphasize the importance of team members who are open-minded, collaborative, and committed to the team's goals.
+
 
 #### Step-by-Step Instructions
 
@@ -1515,7 +1498,7 @@ Scrum Guides emphasize the importance of team members who are open-minded, colla
 
 #### Keep In Mind
 
-- Change management is 80% people, 20% process
+- According to Kotter's 8-step model, change management is approximately 80% people, 20% process
 - A single disruptive person can derail an entire Scrum team
 
 #### Security & Safety Notes
@@ -1536,7 +1519,7 @@ Scrum Guides emphasize the importance of team members who are open-minded, colla
 #### Examples
 
 ##### Example 1: Toyota Production System
-Toyota's philosophy is that 95% of problems are caused by the system, not the worker. When a defect occurs, Toyota asks "what in the system allowed this to happen?" rather than "who made the mistake?"
+Toyota's philosophy is that most problems are caused by the system, not the worker. When a defect occurs, Toyota asks "what in the system allowed this to happen?" rather than "who made the mistake?"
 
 ##### Example 2: FBI Sentinel Culture Shift
 The Sentinel team moved from a blame culture (where mistakes were punished) to a learning culture (where mistakes were analyzed for system improvement).
@@ -1585,7 +1568,7 @@ The Sentinel team moved from a blame culture (where mistakes were punished) to a
 Toyota uses control charts to monitor production quality. When a process goes out of control, the system signals before defects reach the customer.
 
 ##### Example 2: FBI Sentinel Velocity Tracking
-The Sentinel team tracked velocity using statistical methods, distinguishing normal variation from real improvement or degradation.
+
 
 #### Step-by-Step Instructions
 
@@ -1629,10 +1612,10 @@ The Sentinel team tracked velocity using statistical methods, distinguishing nor
 #### Examples
 
 ##### Example 1: Toyota Production System (Just-in-Time)
-Toyota's goal is continuous flow: one piece at a time, with no waiting, no inventory, no defects. Flow is the opposite of batch-and-queue.
+
 
 ##### Example 2: Scrum Sprint Flow
-In Scrum, the ideal is continuous flow within a Sprint: one item is completed before the next is started, minimizing work-in-progress and maximizing throughput.
+
 
 #### Step-by-Step Instructions
 
@@ -1643,7 +1626,7 @@ In Scrum, the ideal is continuous flow within a Sprint: one item is completed be
 5. Measure lead time from idea to delivery
 6. Optimize for flow efficiency, not resource utilization
 
-**Key insight:** Flow maximizes throughput. Batch-and-queue maximizes waste.
+**Key insight:** The Lean Institute states that flow maximizes throughput while batch-and-queue maximizes waste.
 
 #### Best Practices
 
@@ -1655,7 +1638,7 @@ In Scrum, the ideal is continuous flow within a Sprint: one item is completed be
 
 #### Keep In Mind
 
-- 100% resource utilization creates 100% bottlenecks
+- Lean theory posits that 100% resource utilization creates bottlenecks due to lack of buffer capacity
 - Flow is about throughput, not activity
 
 #### Security & Safety Notes
@@ -1679,17 +1662,17 @@ In Scrum, the ideal is continuous flow within a Sprint: one item is completed be
 Toyota identifies seven wastes in manufacturing: overproduction, waiting, transport, extra processing, inventory, motion, and defects. All seven apply equally to knowledge work.
 
 ##### Example 2: FBI Sentinel Waste Elimination
-The Sentinel team identified and eliminated: overproduction (unused features), waiting (for approvals), extra processing (redundant documentation), and defects (rework).
+
 
 #### Step-by-Step Instructions
 
-1. **Muri (Overburden):** Identify and reduce excessive workload on people and systems
+1. **Muri (Overburden):** Identify and reduce workload exceeding WIP limits or 40 hours per person
 2. **Mura (Inconsistency):** Smooth out uneven workloads and irregular processes
 3. **Muda (Waste):** Identify and eliminate the seven wastes in your process
 4. Map the value stream and highlight non-value-added steps
 5. Remove waste one step at a time, continuously
 
-**Key insight:** Waste is anything that does not add value from the customer's perspective.
+**Key insight:** Lean defines waste as any activity that consumes resources without creating value for which the customer would pay
 
 #### Best Practices
 
@@ -1713,7 +1696,7 @@ The Sentinel team identified and eliminated: overproduction (unused features), w
 
 - **Problem:** Eliminating necessary quality or security steps as "waste"
   **Solution:** Evaluate waste from the customer's perspective; compliance is value to the customer
-- **Problem:** Waste elimination becomes a death by a thousand cuts
+- **Problem:** Waste elimination becomes a slow, fragmented process with more than 10 small initiatives that fail to deliver meaningful results
   **Solution:** Focus on the biggest sources of waste first
 
 ---
