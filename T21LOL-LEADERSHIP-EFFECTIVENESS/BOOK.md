@@ -18,7 +18,7 @@ The 21 Irrefutable Laws of Leadership distills John C. Maxwell's over thirty yea
 
 ##### Example 1: The McDonald Brothers and Ray Kroc (Law of the Lid)
 
-Dick and Maurice McDonald built a revolutionary fast-food system with efficient operations and a scalable model, yet their leadership lid capped their effectiveness at 10 franchises. Ray Kroc possessed a high leadership lid and transformed the same concept into more than 21,000 restaurants across more than 100 countries. The operational system was identical; the leadership multiplier, meaning the multiplying effect of leadership ability on effectiveness, was different.
+Dick and Maurice McDonald built a revolutionary fast-food system with efficient operations and a scalable model, yet their leadership lid capped their effectiveness at 10 franchises. Ray Kroc possessed a high leadership lid and transformed the same concept into more than 21,000 restaurants across more than 100 countries. The operational system was identical; the leadership multiplier, referring to how leadership ability multiplies organizational effectiveness, was different.
 
 ##### Example 2: Princess Diana and Mother Teresa (Law of Influence)
 
@@ -63,8 +63,8 @@ Use the navigation acrostic: Predetermine the course, Lay out goals, Adjust prio
 
 #### Keep In Mind
 
-- Leadership is the ultimate multiplier: leadership rating minus one equals maximum effectiveness ceiling (on a scale of 1 to 10). For example, a leader with a leadership rating of 8 can achieve a maximum effectiveness score of 7; a leader with a rating of 4 caps the team at 3.
-- The laws are learnable, they stand alone, they carry consequences, and they form the foundation of leadership.
+- The maximum possible effectiveness score equals leadership ability minus one point (on a scale of 1 to 10). For example, a leadership rating of 8 produces a maximum effectiveness score of 7; a leadership rating of 4 produces a maximum effectiveness score of 3.
+- The laws can stand alone individually. Each law complements all the others, but you don't need one in order to learn another. However, the laws compound when practiced together.
 - Momentum cannot compensate for a low leadership lid; only raising the lid creates sustainable organizational growth.
 
 #### Security & Safety Notes
@@ -90,11 +90,11 @@ Use the navigation acrostic: Predetermine the course, Lay out goals, Adjust prio
 
 ##### Example 1: The Real Leader at the Board Meeting (E.F. Hutton)
 
-At John Maxwell's first board meeting as president, he made a key decision and looked to the group for approval. Everyone looked at Claude, a longtime board member who had no title but possessed significant influence. When Claude spoke, the decision was made. The E.F. Hutton principle operates in every organization: when the real leader speaks, people listen.
+At John Maxwell's first board meeting as president, he made a key decision and looked to the group for approval. Everyone looked at Claude, a longtime board member who had no title but possessed considerable influence. When Claude spoke, the decision was made. The E.F. Hutton principle operates in every organization: when the real leader speaks, people listen.
 
 ##### Example 2: Robert McNamara and the Vietnam War (Solid Ground)
 
-Robert McNamara spent years defending the Vietnam War strategy. Late in life, he admitted, "We were wrong, terribly wrong." McNamara's admission came too late to restore public trust. In Maxwell's framework, trust, once broken by character lapses or cover-ups, is difficult to fully rebuild. Maxwell indicates that rebuilding trust typically requires sustained periods of consistent trustworthy behavior. People tolerate honest mistakes made in the course of demonstrating ability, but they do not tolerate character failures.
+Robert McNamara spent years defending the Vietnam War strategy. Late in life, he admitted, "We were wrong, terribly wrong." McNamara's admission came too late to restore public trust. In Maxwell's framework, trust, once broken by character lapses or cover-ups, is difficult to fully rebuild. Maxwell indicates that rebuilding trust typically requires periods of consistent trustworthy behavior. People tolerate honest mistakes made in the course of demonstrating ability, but they do not tolerate character failures.
 
 ##### Example 3: Harriet Tubman and Dean Smith (Respect)
 
@@ -137,7 +137,7 @@ In Maxwell's framework, character lapses have lasting consequences; there is no 
 
 - Titles provide a brief window of time—either to increase your influence or to lose it entirely.
 - Trust is built through competence, connection, and character—all three are required.
-- People naturally follow leaders stronger than themselves. In Maxwell's framework, people naturally follow stronger leaders. This tendency is inherent and unavoidable.
+- People naturally follow leaders whose leadership ability, character, and influence exceed their own. In Maxwell's framework, people naturally follow stronger leaders. This tendency is inherent and unavoidable.
 - Character lapses are lethal to leadership; honest mistakes based on ability are tolerable.
 
 #### Security & Safety Notes
@@ -151,7 +151,7 @@ In Maxwell's framework, character lapses have lasting consequences; there is no 
 - **Problem:** Assuming your title makes you the real leader. You may have positional authority but no real influence.
   **Solution:** Observe who people naturally turn to in meetings and crises. Build your influence through relationships and results, not just your org chart position.
 - **Problem:** Destroying trust through a single character lapse or cover-up.
-  **Solution:** Establish a personal accountability system. When you err, confess immediately and publicly. Trust, once broken, takes years of consistent trustworthy behavior to rebuild.
+  **Solution:** Establish a personal accountability system. When you err, confess immediately and publicly. Maxwell indicates that trust, once broken, takes years of consistent trustworthy behavior to rebuild.
 - **Problem:** Alienating team members through a win-at-all-costs mentality.
   **Solution:** Balance performance demands with genuine care for people. Respect requires both competence and character.
 
@@ -163,11 +163,11 @@ In Maxwell's framework, character lapses have lasting consequences; there is no 
 
 ##### Example 1: Stan Humphries and Informed Intuition (Intuition)
 
-The San Diego Chargers chose Stan Humphries over more physically gifted quarterbacks because he demonstrated leadership intuition during interviews and workouts. Leadership intuition is not magic; it is informed intuition—a combination of natural ability and learned skills developed through study, experience, and pattern recognition.
+The San Diego Chargers chose Stan Humphries over more physically gifted quarterbacks because he demonstrated leadership intuition during interviews and workouts. Leadership intuition is not magic; it is a combination of natural ability and learned skills developed through study, experience, and pattern recognition.
 
 ##### Example 2: General Schwarzkopf and Roald Amundsen (Intuition)
 
-General Schwarzkopf turned around the worst battalion in the US Army in 30 days by reading intangibles that others missed: morale, unspoken tensions, hidden potential. He later transformed the Circus Brigade using the same intuitive reading of people and situations. Amundsen's success at the South Pole came from intuitively understanding conditions that Scott ignored.
+General Schwarzkopf turned around the worst battalion in the US Army in 30 days by reading intangibles that others missed: morale, unspoken tensions, hidden potential. He later transformed the unit nicknamed the Circus Brigade using the same intuitive reading of people and situations. Amundsen's success at the South Pole came from intuitively understanding conditions that Scott ignored.
 
 ##### Example 3: Skyline Church and Orval Butcher (Magnetism)
 
@@ -217,12 +217,12 @@ Read the situation before acting. Assess whether the timing is right by evaluati
 
 - Leadership intuition is informed intuition, not mystical guessing.
 - You attract who you are, not who you want. Self-development precedes team development.
-- Timing can make or break any leadership initiative. The right action at the wrong time fails; the wrong action at the right time also fails.
+- Timing can make or break any leadership initiative. The right action at the wrong time fails; the wrong action at the right time also fails. Only the right action at the right time succeeds.
 - The Pareto Principle applies to leadership: 20% of your leadership activities produce 80% of your results.
 
 #### Security & Safety Notes
 
-- In timing-sensitive decisions, avoid irreversible commitments until you have validated readiness through multiple signals.
+- In timing-sensitive decisions, avoid irreversible commitments until you have validated readiness through signals.
 - In magnetism and attraction, avoid cult-of-personality dynamics; build systems and culture that outlast any single leader.
 - In priority-setting, protect against burnout by ensuring your top 20% includes renewal and rest.
 
@@ -259,7 +259,7 @@ John Maxwell empowered Dan Reiland by giving him real authority and ownership. R
 
 ##### Example 5: Bill Walsh, Tom Landry, and Jack Welch (Reproduction)
 
-Maxwell notes that Bill Walsh and Tom Landry together served as mentors for 50 percent of all NFL head coaches then serving as of 1998. Jack Welch's GE developed at least 20 CEOs who went on to lead major corporations. It takes a leader to raise up a leader. Maxwell states that 85 percent of all leaders develop because an established leader invested in them.
+Maxwell states that Bill Walsh and Tom Landry together served as mentors for 50 percent of all NFL head coaches serving in 1998. Jack Welch's GE developed at least 20 CEOs who went on to lead major corporations. It takes a leader to raise up a leader. Maxwell states that 85 percent of all leaders develop because an established leader invested in them.
 
 #### Step 1: Connect Before You Ask
 
@@ -295,13 +295,13 @@ Become a leader first, then attract potential leaders one at a time. Spend time 
 - People buy into the leader first, then the vision. Credibility precedes commitment.
 - A leader's potential is determined by the closest five people. Upgrade deliberately.
 - Empowerment is a multiplier: it enlarges both the giver and the receiver.
-- Reproduction is exponential: one leader can raise up many leaders who each raise up more.
+- Reproduction is exponential: one leader can raise up leaders who each raise up more.
 
 #### Security & Safety Notes
 
 - In empowerment, establish clear boundaries and accountability so that delegated authority does not become abdication.
 - In inner circle upgrades, handle transitions with dignity. Exit conversations should be short, honest, and respectful.
-- In reproduction, protect against cult dynamics by developing multiple leaders, not just one successor.
+- In reproduction, protect against cult dynamics by developing leaders, not just one successor.
 
 #### Common Pitfalls
 
@@ -320,7 +320,7 @@ Become a leader first, then attract potential leaders one at a time. Spend time 
 
 ##### Example 1: Gandhi's 20-Year Path to Leadership (Buy-In)
 
-Gandhi spent 20 years developing as a leader in South Africa before returning to India. Within six years, he led the independence movement because people had already bought into him as a person. People buy the leader first, then the vision. Credibility built over years enables overnight success.
+Gandhi spent 20 years developing as a leader in South Africa before returning to India. Within six years, he led the independence movement because people had already bought into him as a person. People buy the leader first, then the vision. Credibility built over years enables what appears to be overnight success.
 
 ##### Example 2: Judy Estrim's Second Company (Buy-In)
 
@@ -348,7 +348,7 @@ Set victory as the highest priority. Unity of vision, diversity of skills, and a
 
 #### Step 3: Build Momentum Before Changing Direction
 
-Create forward progress before attempting to steer. Start small and build early wins. Motivate through multiple methods tailored to individuals. Prepare people effectively for change. Build confidence with small victories. Turn setbacks into momentum builders by reframing them as learning moments. Sustain momentum during long battles through vision, small victories, and consistent, frequent communication.
+Create forward progress before attempting to steer. Start small and build early wins. Motivate through methods tailored to individuals. Prepare people effectively for change. Build confidence with small victories. Turn setbacks into momentum builders by reframing them as learning moments. Sustain momentum during long battles through vision, small victories, and consistent, frequent communication.
 
 #### Step 4: Create a No-Plan-B Culture
 
@@ -425,7 +425,7 @@ Understand that leadership requires continual sacrifice: giving up rights and sw
 
 #### Step 3: Build a Leadership Culture
 
-Make leader development the highest priority in your organization. Create processes for identifying, mentoring, and promoting leaders. Celebrate leadership growth. Make it acceptable to fail forward while learning. When leadership becomes the culture, explosive growth becomes the byproduct.
+Make leader development the highest priority in your organization. Create processes for identifying, mentoring, and promoting leaders. Celebrate leadership growth. Make it acceptable to fail forward, meaning learn from mistakes and use them as stepping stones. When leadership becomes the culture, explosive growth becomes the byproduct.
 
 #### Step 4: Lead With a Long View for Legacy
 
@@ -456,7 +456,7 @@ Evaluate every decision by asking: Will this choice strengthen the organization 
 
 - In empowerment and leader development, establish clear succession criteria to avoid power vacuums.
 - In sacrifice modeling, avoid martyrdom that burns out the team. Frame sacrifice as strategic investment, not endless depletion.
-- In legacy planning, protect the organization from succession crises by developing multiple viable candidates.
+- In legacy planning, protect the organization from succession crises by developing viable candidates.
 
 #### Common Pitfalls
 
@@ -491,15 +491,15 @@ Set victory as the non-negotiable standard. Unity of vision, diversity of skills
 
 #### Step 2: Build and Sustain Momentum
 
-Create forward progress before changing direction. Start small with early wins. Motivate through multiple methods. Prepare people effectively for change. Build confidence with each win. Turn setbacks into momentum builders by reframing and responding with decisive action. Sustain momentum during long battles through vision, small victories, and relentless communication.
+Create forward progress before changing direction. Start small with early wins. Motivate through methods. Prepare people effectively for change. Build confidence with each win. Turn setbacks into momentum builders by reframing and responding with decisive action. Sustain momentum during long battles through vision, small victories, and relentless communication.
 
 #### Step 3: Apply the Pareto Principle Ruthlessly
 
-Identify the 20% of activities producing 80% of results. Protect those activities from interruptions and busywork. Reassess priorities regularly. Don't mistake activity for accomplishment. Focus on the few things that bring the highest reward. Climb the tallest tree periodically to survey the situation.
+Identify the 20% of activities producing 80% of results. Protect those activities from interruptions and busywork. Reassess priorities regularly. Don't mistake activity for accomplishment. Focus on the small number of activities that bring the highest reward. Climb the tallest tree periodically to survey the situation.
 
 #### Step 4: Synthesize All 21 Laws Into Daily Practice
 
-The laws are not isolated; they compound. A leader with a high lid exercises influence through daily process, navigates with intuition, attracts quality people, connects deeply, builds strong inner circles, empowers others, reproduces leaders, earns buy-in, creates victory, sustains momentum, prioritizes ruthlessly, sacrifices continually, generates explosive growth, and builds legacy. Mastery comes from applying all laws simultaneously.
+The laws are not isolated; they compound. A leader with a high lid exercises influence through daily process; navigates with intuition; attracts quality people; connects deeply; builds strong inner circles; empowers others; reproduces leaders; earns buy-in; creates victory; sustains momentum; prioritizes ruthlessly; sacrifices continually; generates explosive growth; and builds legacy. Mastery comes from applying all laws simultaneously.
 
 #### Best Practices
 
@@ -519,7 +519,7 @@ The laws are not isolated; they compound. A leader with a high lid exercises inf
 - Momentum is a leader's best friend; once you have it, protect and sustain it.
 - Activity does not equal accomplishment. Focus on high-leverage activities.
 - The 21 laws are learnable, but they must be practiced together to create transformation.
-- Everything rises and falls on leadership.
+- "Everything rises and falls on leadership," Maxwell asserts.
 
 #### Security & Safety Notes
 
@@ -552,13 +552,13 @@ The laws are not isolated; they compound. A leader with a high lid exercises inf
 |Law of Magnetism|Who you are determines who you attract. You draw people with similar values, strengths, and weaknesses.|113-127|
 |Leader's Math|The exponential calculation of leader development: one leader mentors five, who each mentor five, creating compounding growth across generations.|245-259|
 |Leadership Intuition|Informed intuition developed through study and experience that allows leaders to read intangibles and act before others see the need.|101-115|
-|Leadership Lid|The maximum possible effectiveness score, calculated as leadership ability minus one point (on a scale of 1 to 10). If leadership is a 4, effectiveness can never exceed 3.|17-31|
+|Leadership Lid|The maximum possible effectiveness score, calculated as Maximum possible effectiveness equals leadership ability minus one point, measured on a scale of 1 to 10. If leadership is a 4, effectiveness can never exceed 3.|17-31|
 |Leadership Process|Leadership develops daily through disciplined, lifelong learning, not in a single event or seminar.|41-55|
 |Legacy|A leader's lasting value measured by whether the organization thrives, grows, and sustains its mission after the leader has departed.|257-271|
 |Momentum|A leader's best friend that makes change possible and carries teams through challenges. Cannot steer a stationary ship.|197-211|
 |Navigation|The leader's ability to chart the course and anticipate problems before they arise, drawing on experience, others' input, and conditions assessment.|53-67|
 |Pareto Principle|The 80/20 rule applied to leadership: 20% of activities produce 80% of results. Focus on high-leverage tasks.|209-223|
-|Reproduction|The law that it takes a leader to raise up a leader. Research shows that 85 percent of all leaders develop because an established leader invested in them. Only 10 percent come from natural gifting and 5 percent from crisis.|161-175|
+|Reproduction|The law that it takes a leader to raise up a leader. Maxwell states that 85 percent of all leaders develop because an established leader invested in them. Only 10 percent come from natural gifting and 5 percent from crisis.|161-175|
 |Respect|The natural human response to follow leaders stronger than oneself in character, skills, and commitment.|89-103|
 |Sacrifice|The constant requirement that leaders give up to go up, including rights, pride, and comfort. The price of leadership is continual giving.|221-235|
 |Timing|The principle that when to lead is as important as what to do and where to go. Right action at wrong time fails; right timing amplifies success.|233-247|
