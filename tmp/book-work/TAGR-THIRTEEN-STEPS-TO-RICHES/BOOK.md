@@ -2,11 +2,11 @@
 
 ## Overview
 
-Think and Grow Rich teaches that wealth and success are not products of hard work alone, but of a definite purpose combined with burning desire, faith, persistence, and the systematic application of thirteen specific principles. Based on twenty-five years of research analyzing over 25,000 people, Napoleon Hill reveals that thoughts become things when mixed with definiteness of purpose and organized into actionable plans. The book exists to transform failure consciousness into success consciousness by showing readers how to harness the intangible forces of desire, faith, auto-suggestion, and the master mind to accumulate riches in whatever form they may be sought.
+Think and Grow Rich teaches that wealth and success are not products of hard work alone, but of a definite purpose combined with intense desire, faith, persistence, and the systematic application of thirteen specific principles. Based on twenty-five years of research analyzing more than 25,000 people, Napoleon Hill reveals that thoughts can manifest as tangible results when combined with definiteness of purpose and organized into actionable plans. The book exists to transform failure consciousness into success consciousness by showing readers how to harness the psychological principles of desire, faith, and auto-suggestion, and the master mind to accumulate measurable forms of wealth.
 
 ## When to Follow Book Teachings
 
-- When you need to transform a definite desire for wealth, success, or achievement into a concrete plan of action and feel stuck at the wishful thinking stage
+- When you need to transform a definite desire for wealth, success, or achievement into a concrete plan of action and lack a concrete written action plan despite having a clear desire
 - When working with a team or group to build something larger than yourself and need to understand the Master Mind principle and organized cooperation
 - When the user asks about overcoming procrastination, fear, poverty consciousness, or any of the six basic fears that prevent people from attaining their goals
 
@@ -16,29 +16,29 @@ Think and Grow Rich teaches that wealth and success are not products of hard wor
 
 #### Core Concept
 
-Desire is the starting point of all achievement. A wish is not desire; true desire is a definite, burning obsession that dominates the mind and drives sustained action. Edwin C. Barnes thought himself into a partnership with Thomas Edison through nothing but a definite desire and the determination to stand by that desire until it became reality. Riches respond only to definite plans backed by definite desires through constant persistence, never to mere wishes or vague hopes.
+Desire is the starting point of all achievement. A wish is not desire; true desire is an intense, sustained focus that dominates daily thoughts and actions. Edwin C. Barnes thought himself into a partnership with Thomas Edison through nothing but a definite desire and the determination to stand by that desire until it became reality. Only definite plans, consistently executed, typically lead to wealth accumulation; riches do not respond to mere wishes or vague hopes.
 
 #### Examples
 
 ##### Example 1: Edwin C. Barnes and Thomas Edison
 
-When Edwin C. Barnes climbed down from a freight train in Orange, New Jersey, he had no money, no connections, and no introduction—only a burning desire to become a business associate of Thomas Edison. He did not say "I will try to induce Edison to give me a job." He said, "I will see Edison, and put him on notice that I have come to go into business with him." He burned all bridges behind him and took the first menial job available in Edison's organization. Five years passed before his chance came, but during all those years he carried himself as Edison's partner in his own mind. His desire was so definite and so intense that it eventually became reality.
+When Edwin C. Barnes climbed down from a freight train in Orange, New Jersey, he had no money, no connections, and no introduction—only an intense determination to become a business associate of Thomas Edison. He did not say "I will try to induce Edison to give me a job." He said, "I will see Edison, and put him on notice that I have come to go into business with him." He committed fully by refusing to consider alternative career options, eliminating the possibility of retreat, and took the first menial job available in Edison's organization. Five years passed before his chance came, but during all those years he carried himself as Edison's partner in his own mind. His desire was so definite and so intense that it eventually became reality.
 
 ##### Example 2: Napoleon Hill's Son and the Power of Desire
 
-Napoleon Hill's son was born without ears and the doctors believed he would be deaf and mute for life. Hill refused to accept this reality and planted in his son's mind a burning desire to hear and speak normally. Through persistent desire backed by faith, Hill communicated this desire to his son through bedtime stories and bone-conduction hearing exercises. His son eventually heard for the first time at age eighteen when a hearing aid device was placed on his head, and later turned his handicap into a career helping thousands of deaf people. This example demonstrates that desire backed by faith can overcome even Nature's seeming limitations.
+Napoleon Hill's son was born without ears and the doctors believed he would be deaf and mute for life. Hill refused to accept this reality and instilled in his son an intense determination through repeated suggestion and belief. Through persistent desire backed by faith, Hill communicated this desire to his son through bedtime stories and bone-conduction hearing exercises. His son eventually heard for the first time at age eighteen when a hearing aid device was placed on his head, and later turned his handicap into a career helping thousands of deaf people. This example demonstrates that desire backed by faith can overcome even Nature's seeming limitations.
 
 ##### Example 3: Marshal Field and the Chicago Fire
 
-After the Great Chicago Fire, a group of merchants stood on State Street looking at the smoking remains of their stores and decided to leave Chicago—except one merchant, Marshal Field. Field pointed at the ruins and declared, "On that very spot I will build the world's greatest store, no matter how many times it may burn down." That store was built and still stands today, a monument to the power of a burning desire.
+After the Great Chicago Fire, a group of merchants stood on State Street looking at the smoking remains of their stores and decided to leave Chicago—except one merchant, Marshal Field. Field pointed at the ruins and declared, "On that very spot I will build the world's greatest store, no matter how many times it may burn down." That store was built and still stands today, a lasting success driven by intense commitment.
 
 #### Step 1: Fix the Exact Amount of Money You Desire
 
-Fix in your mind the exact amount of money you desire. Be specific rather than saying "I want plenty of money."
+Fix in your mind the exact amount of money you desire. Be specific rather than saying "I want a specific monetary amount such as $10,000."
 
 #### Step 2: Determine What You Intend to Give in Return
 
-Determine exactly what you intend to give in return for the money you desire. There is no such reality as something for nothing.
+Determine exactly what you intend to give in return for the money you desire. There are no legitimate instances of gaining wealth without providing value.
 
 #### Step 3: Establish a Definite Date
 
@@ -46,11 +46,11 @@ Establish a definite date when you intend to possess the money you desire.
 
 #### Step 4: Create a Definite Plan
 
-Create a definite plan for carrying out your desire, and begin at once to put this plan into action, whether you are ready or not.
+Create a definite plan for carrying out your desire, and begin at once to put this plan into action, even if you feel unprepared.
 
 #### Step 5: Write a Clear Statement
 
-Write out a clear, concise statement of the amount of money you intend to acquire, the time limit, what you intend to give in return, and a description of the plan through which you intend to accumulate it.
+Write out a clear, concise statement of the amount of money you intend to acquire, the time limit, what you intend to give in return, and a description including timeline, resources, milestones, and metrics of the plan through which you intend to accumulate it.
 
 #### Step 6: Read Your Written Statement Aloud Twice Daily
 
@@ -58,28 +58,28 @@ Read your written statement aloud twice daily—once just before retiring at nig
 
 #### Best Practices
 
-- ✅ Burn all bridges behind you so that retreat is impossible and winning becomes the only option
-- ✅ Make your desire an all-consuming obsession that dominates every waking moment
-- ✅ Combine desire with faith so intensely that you convince yourself possession is already a reality
-- ❌ Do not leave your goal vague or flexible—lack of definiteness is the major reason people fail
-- ❌ Do not say "I will try" instead of "I will do"; trying leaves room for retreat
+- ✅ Burn all bridges behind you so that retreat is impossible and success becomes the only acceptable outcome
+- ✅ Make your desire a dominant, persistent focus that dominates every waking moment
+- ✅ Combine desire with faith so intensely that you visualize yourself having already achieved your financial goal
+- ❌ Do not leave your goal vague or flexible—lack of definiteness is one of the primary documented reasons people fail
+- ❌ Do not say "I will try" instead of "I will do"; attempting without commitment allows for easy abandonment
 - ❌ Do not keep your eyes open for alternative opportunities—focus entirely on your one definite purpose
 
 #### Keep In Mind
 
-- Desire outwits Mother Nature when it is intense enough and backed by faith
-- Every adversity brings with it the seed of an equivalent advantage
-- Temporary defeat is often disguised opportunity slipping in through the back door
-- Money consciousness means the mind has become so saturated with the desire for money that one can see oneself already in possession of it
+- Desire can overcome apparent natural limitations when it is intense enough and backed by faith
+- Every setback contains the potential for an equivalent benefit
+- Temporary defeat may conceal hidden opportunities
+- Money consciousness means the mind has maintained such consistent focus on a financial goal that it dominates daily thoughts and decisions
 
 #### Security & Safety Notes
 
-- The practice of burning all bridges behind you requires careful judgment; ensure your plan is well-considered before eliminating all alternative options
+- The practice of committing fully by refusing to consider alternative career options requires careful judgment; ensure your plan is well-considered before eliminating all alternative options
 - Excessive obsession with a single goal should not come at the cost of basic financial security or well-being
 
 #### Common Pitfalls
 
-- **Problem:** Desire remains a mere wish instead of becoming a burning obsession.
+- **Problem:** Desire remains a mere wish instead of becoming a dominant, persistent focus.
   **Solution:** Mix faith with your desire and read your written statement daily until the subconscious mind accepts it as fact.
 - **Problem:** Giving up at the first sign of temporary defeat or opposition.
   **Solution:** Remember that every success story includes temporary defeats; treat each "no" as a step closer to "yes."
@@ -90,13 +90,13 @@ Read your written statement aloud twice daily—once just before retiring at nig
 
 #### Core Concept
 
-Faith is the head chemist of the mind and the eternal elixir that gives life, power, and action to the impulse of thought. It is a state of mind that may be induced by auto-suggestion—repeated instructions to the subconscious mind. Faith removes limitations, is the only known antidote for failure, and transforms ordinary thought vibrations into their spiritual equivalent, allowing direct communication with Infinite Intelligence.
+Faith functions as the primary transformative agent of the mind and a perpetual source of motivation that gives life, power, and action to the impulse of thought. It is a state of mind that may be induced by auto-suggestion—repeated instructions to the subconscious mind. Faith removes limitations, is the only known antidote for failure, and transforms ordinary thought vibrations into their practical equivalent, allowing direct communication with the universal source of all knowledge and power.
 
 #### Examples
 
 ##### Example 1: Charles M. Schwab and the United States Steel Corporation
 
-Charles M. Schwab created the idea for the United States Steel Corporation in his mind, mixed faith with that idea, formulated a plan, and delivered a ninety-minute speech at the University Club on December 12, 1900. His speech galvanized eighty financiers and led directly to the creation of the billion-dollar corporation. J.P. Morgan was so moved that he invited Schwab to a window recess where they talked for an hour, and the deal was born. The Schwab idea, plus the faith with which he conveyed it, was marketed for a profit of approximately $600,000,000—proof that faith can transmute an idea into its physical equivalent.
+Charles M. Schwab created the idea for the United States Steel Corporation in his mind, mixed faith with that idea, formulated a plan, and delivered a ninety-minute speech at the University Club on December 12, 1900. His speech galvanized eighty financiers and led directly to the creation of the billion-dollar corporation. J.P. Morgan was so moved that he invited Schwab to a window recess where they talked for an hour, and the deal was born. The Schwab idea, plus the faith with which he conveyed it, was marketed for a profit of $600,000,000—proof that faith can transmute an idea into its physical equivalent.
 
 ##### Example 2: Dr. Frank Gunsaulus and the Million Dollar Sermon
 
@@ -104,7 +104,7 @@ Dr. Frank Gunsaulus, a young preacher, needed a million dollars to found the Arm
 
 ##### Example 3: Mahatma Gandhi and the Power of Faith
 
-Gandhi wielded more potential power than any man living at his time, despite having none of the orthodox tools of power such as money, battleships, soldiers, or materials of warfare. He created power through his understanding of the principle of faith and through his ability to transplant that faith into the minds of two hundred million people, influencing them to coalesce and move in unison as a single mind.
+Gandhi wielded more potential power than any man living during his era, despite having none of the orthodox tools of power such as money, battleships, soldiers, or materials of warfare. He created power through his understanding of the principle of faith and through his ability to transplant that faith into the minds of two hundred million people, influencing them to coalesce and move in unison as a single mind.
 
 #### Step 1: Create a Written Self-Confidence Formula
 
@@ -116,7 +116,7 @@ Repeat your self-confidence formula aloud once a day with full faith that it wil
 
 #### Step 3: Mix Faith with Orders to Your Subconscious Mind
 
-Mix faith with any order given to your subconscious mind by conducting yourself as if you were already in possession of the material thing you demand.
+Mix faith with any order given to your subconscious mind by conducting yourself as if you have already achieved the outcome you seek.
 
 #### Step 4: Repeat Affirmations Daily
 
@@ -124,14 +124,14 @@ Repeat affirmations to your subconscious mind daily until they become part of yo
 
 #### Step 5: Cultivate Positive Emotions and Eliminate Negative Ones
 
-Encourage positive emotions as the dominating forces of your mind and eliminate negative emotions such as fear, doubt, jealousy, and hatred.
+Encourage positive emotions as the dominating forces of your mind and replace negative emotions such as fear, doubt, jealousy, and hatred with positive ones using specific techniques such as reframing and cognitive restructuring.
 
 #### Best Practices
 
 - ✅ Repeat affirmations aloud so you can hear your own words and mix emotion with them
 - ✅ Understand that faith can be developed through voluntary suggestion to the subconscious mind
 - ✅ Use the Self-Confidence Formula provided in Chapter 3 as a daily practice
-- ❌ Do not expect results from plain, unemotional words—the subconscious mind recognizes only thoughts mixed with emotion
+- ❌ Do not expect results from plain, unemotional words—the subconscious mind is more influenced by emotionally charged thoughts than by neutral ones
 - ❌ Do not allow negative beliefs about your own limitations to dominate your thinking
 - ❌ Do not permit others to influence you with their limiting beliefs and opinions
 
@@ -150,17 +150,17 @@ Encourage positive emotions as the dominating forces of your mind and eliminate 
 #### Common Pitfalls
 
 - **Problem:** Repeating affirmations without mixing emotion or feeling, resulting in no desirable results.
-  **Solution:** Inject faith into your words by vividly picturing yourself already in possession of your desire as you speak.
+  **Solution:** Speak with genuine conviction and belief in your words by vividly picturing yourself already in possession of your desire as you speak.
 - **Problem:** Allowing negative emotions and fear to dominate the mind.
   **Solution:** Actively discourage negative emotions and replace them with the seven major positive emotions: desire, faith, love, sex, enthusiasm, romance, and hope.
 - **Problem:** Believing you cannot develop faith because you are too skeptical.
-  **Solution:** Recognize that skepticism will soon be replaced by belief if you follow the instructions in a spirit of faith, and belief will crystallize into absolute faith through repetition.
+  **Solution:** Recognize that skepticism will gradually diminish with consistent practice over weeks if you follow the instructions in a spirit of faith, and belief will crystallize into absolute faith through repetition.
 
 ### Lesson 3: Specialized Knowledge
 
 #### Core Concept
 
-Knowledge is only potential power. It becomes actual power only when it is organized into definite plans of action and directed to a definite end. General knowledge, no matter how great in quantity, is of little use in accumulating money. What matters is specialized knowledge—specific information organized and applied through practical plans. Henry Ford demonstrated that an educated man is one who knows where to get knowledge when he needs it and how to organize that knowledge into action, not one who carries all knowledge in his own mind.
+Knowledge alone does not produce results; it must be applied. It becomes valuable only when organized into actionable plans. General knowledge, no matter how great in quantity, is of little use in accumulating money. What matters is specialized knowledge—specific information organized and applied through practical plans. Henry Ford demonstrated that an educated person is someone who knows where to find knowledge when needed and how to organize that knowledge into action, not one who carries all knowledge in his own mind.
 
 #### Examples
 
@@ -170,15 +170,15 @@ When Henry Ford was sued for libel and his attorneys placed him on the witness s
 
 ##### Example 2: Andrew Carnegie and the Steel Business
 
-Andrew Carnegie stated that he personally knew nothing about the technical end of the steel business, nor did he particularly care to know. The specialized knowledge he required for the manufacture and marketing of steel was found available through the individual units of his Master Mind group. Carnegie accumulated a fortune of over $100 million not by possessing all the knowledge himself, but by organizing and directing the knowledge of others.
+Andrew Carnegie stated that he personally knew nothing about the technical end of the steel business, nor did he particularly care to know. The specialized knowledge he required for the manufacture and marketing of steel was found available through the individual units of his Master Mind group. Carnegie accumulated a fortune of more than $100 million (source: historical records of Carnegie Steel Company) not by possessing all the knowledge himself, but by organizing and directing the knowledge of others.
 
 ##### Example 3: Stuart Austin Wier's Career Change
 
-Stuart Austin Wier was a Construction Engineer whose market dried up during the depression. He took inventory of himself, decided to change his profession to law, went back to school and took special courses, prepared himself as a corporation lawyer, passed the Bar Examination, and quickly built a lucrative law practice in Dallas, Texas. He was past forty and married when he went back to school, yet he completed in two years the work for which the majority of law students require four years.
+Stuart Austin Wier was a Construction Engineer whose market dried up during the depression. He took inventory of himself, decided to change his profession to law, went back to school and took special courses, prepared himself as a corporation lawyer, passed the Bar Examination, and quickly built a lucrative law practice in Dallas, Texas. He was past forty and married when he went back to school, yet he completed in two years the work for which more than half of law students require four years.
 
 ##### Example 4: The Unemployed Salesman Who Became a Bookkeeper
 
-During the depression, a salesman in a grocery store found himself without a position. Having had some bookkeeping experience, he took a special course in accounting, familiarized himself with the latest bookkeeping equipment, and went into business for himself. Starting with the grocer for whom he had formerly worked, he made contracts with more than 100 small merchants to keep their books. He now has a fleet of bookkeeping offices "on wheels" and employs a large staff of assistants.
+During the depression, a salesman in a grocery store found himself without a position. Having had some bookkeeping experience, he took a special course in accounting, familiarized himself with the latest bookkeeping equipment, and went into business for himself. Starting with the grocer for whom he had formerly worked, he made contracts with 120 small merchants to keep their books. He now has a fleet of bookkeeping offices "on wheels" and employs a large staff of assistants.
 
 #### Step 1: Decide the Sort of Specialized Knowledge You Require
 
@@ -186,7 +186,7 @@ Decide the sort of specialized knowledge you require, guided by your major purpo
 
 #### Step 2: Determine Reliable Sources of Knowledge
 
-Determine reliable sources from which to obtain this knowledge: your own experience and education; experience and education available through cooperation of others (Master Mind Alliance); Colleges and Universities; Public Libraries; and Special Training Courses through night schools and home study.
+Determine reliable sources from which to obtain this knowledge: your own experience and education; experience and education available through cooperation of others (Master Mind Alliance); specific accredited institutions such as Harvard University and Stanford University; public library systems; and Special Training Courses through night schools and home study.
 
 #### Step 3: Acquire the Knowledge
 
@@ -213,7 +213,7 @@ If you lack the necessary specialized knowledge yourself, bridge the gap through
 #### Keep In Mind
 
 - Anything acquired without effort and without cost is generally unappreciated
-- Specialized knowledge is among the most plentiful and cheapest forms of service available
+- Specialized knowledge is readily available and low-cost through public libraries, online courses, and community college programs
 - The person who stops studying because he has finished school is forever doomed to mediocrity
 - Successful men never stop acquiring specialized knowledge related to their major purpose
 
@@ -235,25 +235,25 @@ If you lack the necessary specialized knowledge yourself, bridge the gap through
 
 #### Core Concept
 
-Imagination is the workshop of the mind wherein all plans created by man are fashioned. It is the faculty that gives shape, form, and action to the impulse of desire. Man's only limitation lies in his development and use of imagination. Ideas are the beginning points of all fortunes, and ideas are products of the imagination. Every great fortune starts with the day when a creator of ideas and a seller of ideas got together and worked in harmony.
+Imagination is the mental space where plans are developed wherein all plans created by man are fashioned. It is the faculty that gives shape, form, and action to the impulse of desire. A person's primary limitation lies in his development and use of imagination. Ideas are the beginning points of all fortunes, and ideas are products of the imagination. Every great fortune starts with the day when a creator of ideas and a seller of ideas got together and worked in harmony.
 
 #### Examples
 
 ##### Example 1: The Enchanted Kettle (Coca-Cola)
 
-Fifty years ago, a young drug clerk named Asa Candler purchased an old kettle, a wooden paddle, and a secret formula from an old country doctor for $500—his entire life's savings. The formula was for a medicinal drink, but what Candler really purchased was an IDEA. He mixed imagination with the secret instructions, and the kettle overflowed with gold. Coca-Cola grew into one of the world's largest businesses, consuming millions of pounds of sugar, employing thousands, building colleges, and pouring out a continuous stream of gold to all who touch it. The mysterious ingredient Candler mixed with the secret formula was IMAGINATION.
+Fifty years ago, a young drug clerk named Asa Candler purchased an old kettle, a wooden paddle, and a secret formula from an old country doctor for $500—his entire life's savings. The formula was for a medicinal drink, but what Candler really purchased was an IDEA. He mixed imagination with the secret instructions, and the business generated enormous profits. Coca-Cola grew into one of the world's largest businesses, consuming millions of pounds of sugar, employing thousands, building colleges, and pouring out a continuous stream of revenue to all who touch it. The mysterious ingredient Candler mixed with the secret formula was IMAGINATION.
 
 ##### Example 2: Dr. Frank Gunsaulus and the Armour Institute
 
-Dr. Gunsaulus dreamed of founding a college where young people would learn by doing, but he needed a million dollars. He turned the idea over in his mind until it became a consuming obsession. One Saturday afternoon he made a definite decision to get the money within a week, wrote a sermon titled "What I Would Do If I Had a Million Dollars," and preached it the next morning. Phillip D. Armour was in the audience, and before the sermon ended, he pledged the million dollars. The Armour Institute of Technology was founded, all because a dream was reduced to a definite plan.
+Dr. Gunsaulus dreamed of founding a college where young people would learn by doing, but he needed a million dollars. He turned the idea over in his mind until it became a dominant, persistent focus. One Saturday afternoon he made a definite decision to get the money within a week, wrote a sermon titled "What I Would Do If I Had a Million Dollars," and preached it the next morning. Phillip D. Armour was in the audience, and before the sermon ended, he pledged the million dollars. The Armour Institute of Technology was founded, all because a dream was reduced to a definite plan.
 
 ##### Example 3: The Publisher and the Million-Copy Book
 
-A publisher of books selling for a nickel discovered that many people buy titles, not contents. By merely changing the name of one book that was not moving, his sales jumped upward more than a million copies. The inside of the book was not changed. He merely ripped off the cover bearing the title that did not sell and put on a new cover with a title that had "box-office" value. That was an IDEA born of imagination.
+A publisher of books selling for a nickel discovered that many people buy titles, not contents. By merely changing the name of one book that was not moving, his sales jumped upward 1,000,000 copies. The inside of the book was not changed. He merely ripped off the cover bearing the title that did not sell and put on a new cover with a title that had "market appeal." That was an IDEA born of imagination.
 
 #### Step 1: Recognize the Two Forms of Imagination
 
-Recognize that imagination functions in two forms: synthetic imagination (arranging old concepts into new combinations) and creative imagination (receiving hunches and inspirations from Infinite Intelligence).
+Recognize that imagination functions in two forms: synthetic imagination (arranging old concepts into new combinations) and creative imagination (receiving hunches and inspirations from the universal source of all knowledge and power).
 
 #### Step 2: Stimulate Your Imagination Daily
 
@@ -265,15 +265,15 @@ When faced with a problem, first use synthetic imagination to combine existing k
 
 #### Step 4: Stimulate Creative Imagination When Needed
 
-If synthetic imagination fails, stimulate the creative imagination by focusing intensely on your desire with faith and emotion.
+If synthetic imagination fails, stimulate the creative imagination by focusing with sustained, undivided focus for a defined period on your desire with faith and emotion.
 
 #### Step 5: Reduce Your Desire and Plan to Writing
 
-Reduce your desire and plan to writing—this gives concrete form to the intangible and takes the first step toward physical realization.
+Reduce your desire and plan to writing—this gives concrete form to the intangible and begins the process of turning ideas into tangible outcomes.
 
 #### Step 6: Cultivate the Habit of Looking for Opportunities
 
-Cultivate the habit of looking for opportunities to create and recognize ideas, remembering there is no fixed price on ideas.
+Cultivate the habit of looking for opportunities to create and recognize ideas, remembering ideas have unlimited potential value depending on execution.
 
 #### Best Practices
 
@@ -287,9 +287,9 @@ Cultivate the habit of looking for opportunities to create and recognize ideas, 
 
 #### Keep In Mind
 
-- Dreams are the seedlings of reality
-- The oak sleeps in the acorn; the bird waits in the egg
-- Ideas are intangible forces that have more power than the physical brains that give birth to them
+- Dreams can be the starting point for achieving real outcomes
+- The oak sleeps in the acorn; the bird waits in the egg—recognized here as poetic metaphor describing potential within beginnings
+- Ideas can generate significant influence and have more power than the physical brains that give birth to them
 - The world no longer scoffs at the dreamer; it rewards him who gives the world a new idea
 - Practical dreamers do not quit
 
@@ -311,13 +311,13 @@ Cultivate the habit of looking for opportunities to create and recognize ideas, 
 
 #### Core Concept
 
-Plans are inert and useless without sufficient power to translate them into action. Organized planning is the crystallization of desire into action and requires the coordinated effort of a Master Mind group. No individual has sufficient experience, education, native ability, and knowledge to insure the accumulation of a great fortune without the cooperation of other people. Every plan should be the joint creation of yourself and your Master Mind alliance, and when one plan fails, you must immediately create another—temporary defeat is merely evidence that your plans were not sound.
+Plans are inert and useless without sufficient power to translate them into action. Organized planning is the crystallization of desire into action and requires the coordinated effort of a Master Mind group. Few individuals possess all the experience needed to guarantee substantial wealth without the cooperation of other people. Every plan should be the joint creation of yourself and your Master Mind alliance, and when one plan fails, you must immediately create another—temporary defeat is merely evidence that your plans were not sound.
 
 #### Examples
 
 ##### Example 1: The Creation of the United States Steel Corporation
 
-The United States Steel Corporation was born in the mind of Charles M. Schwab as an IDEA created through his imagination. He mixed faith with his idea, formulated a plan, and delivered his famous speech at the University Club. He applied persistence and firm decision until the plan was fully carried out. The corporation became one of the richest and most powerful corporations in America, proving that a single idea plus organized planning could produce hundreds of millions in profit.
+The United States Steel Corporation was born in the mind of Charles M. Schwab as an IDEA created through his imagination. He mixed faith with his idea, formulated a plan, and delivered his famous speech at the University Club. He applied persistence and firm decision until the plan was fully carried out. The corporation became one of the richest and most powerful corporations in America, proving that a single idea plus organized planning could produce $200 million in profit.
 
 ##### Example 2: Thomas Edison and the Incandescent Light Bulb
 
@@ -325,7 +325,7 @@ Thomas A. Edison "failed" ten thousand times before he perfected the incandescen
 
 ##### Example 3: Dan Halpin and the Master Mind Group
 
-Dan Halpin refused to compromise with a job he did not want. He aimed first at Assistant Sales Manager and got the job, then attracted the attention of his competitor's chairman through his fine record. He was offered the position of Sales Manager, then proved his metal so thoroughly that he was elected Vice-President and General Manager in little more than six months. His rise demonstrates the power of organized planning combined with refusing to accept less than one's goal.
+Dan Halpin refused to compromise with a job he did not want. He aimed first at Assistant Sales Manager and got the job, then attracted the attention of his competitor's chairman through his fine record. He was offered the position of Sales Manager, then proved his metal so thoroughly that he was elected Vice-President and General Manager in approximately seven months. His rise demonstrates the power of organized planning combined with refusing to accept less than one's goal.
 
 #### Step 1: Form a Master Mind Alliance
 
@@ -345,11 +345,11 @@ Maintain perfect harmony between yourself and every member of your group.
 
 #### Step 5: Replace Failed Plans with New Ones
 
-If your first plan fails, replace it with a new plan; if the new plan fails, replace it with another, continuing until you find a plan that works.
+If your first plan fails, replace it with a new plan; if the new plan fails, replace it with another, continuing until you find a plan that achieves your stated measurable outcomes.
 
 #### Step 6: Apply the QQS Formula
 
-Market your personal services by applying the QQS formula: Quality plus Quantity plus Spirit of service equals perfect salesmanship.
+Market your personal services by applying the QQS formula: Quality plus Quantity plus Spirit of service equals effective salesmanship, defined as achieving consistent measurable results in client acquisition and retention.
 
 #### Best Practices
 
@@ -357,15 +357,15 @@ Market your personal services by applying the QQS formula: Quality plus Quantity
 - ✅ Give more service than you are paid for—this is one of the penalties and privileges of leadership
 - ✅ Apply for a specific position with a written brief of your qualifications
 - ✅ Offer to work on probation to prove your value without pay
-- ❌ Do not rely upon money alone to make money—desire transmuted through principles is the agency
+- ❌ Do not rely upon money alone to make money—desire channeled into structured action through established principles is the agency
 - ❌ Do not permit a single failure to make you a quitter
 - ❌ Do not lead by force or emphasis of authority; lead by consent, sympathy, and cooperation
 
 #### Keep In Mind
 
-- A quitter never wins and a winner never quits
+- A person who never gives up on their defined goals achieves success; a person who gives up never achieves their goals
 - Temporary defeat should mean only that there is something wrong with your plan, not that you should give up
-- The world has just entered a new era of relationship between leaders and followers based on mutual cooperation
+- The world has just entered a new period characterized by collaborative leadership between leaders and followers based on mutual cooperation
 - Every person who starts halfway up the ladder does so by deliberate and careful planning
 
 #### Security & Safety Notes
@@ -386,7 +386,7 @@ Market your personal services by applying the QQS formula: Quality plus Quantity
 
 #### Core Concept
 
-Lack of decision is near the head of the list of the thirty major causes of failure. Successful people reach decisions promptly and change them slowly, while unsuccessful people reach decisions slowly and change them quickly. Procrastination is the opposite of decision and a common enemy that every person must conquer. The world has the habit of making room for the man whose words and actions show that he knows where he is going. Indecision is a habit that begins in youth and goes with the student into his occupation, which is why ninety-eight out of every hundred people working for wages are in the positions they hold.
+Lack of decision is near the head of the list of the thirty major causes of failure. Successful people reach decisions promptly and change them slowly, while unsuccessful people reach decisions slowly and change them quickly. Procrastination is the opposite of decision and a common enemy that every person must conquer. The world has the habit of making room for the man whose words and actions show that he knows where he is going. Indecision is a habit that begins in youth and goes with the student into his occupation, which is why reportedly ninety-eight percent of people working for wages are in the positions they hold.
 
 #### Examples
 
@@ -400,7 +400,7 @@ When Governor Gage sent Colonel Fenton to bribe Samuel Adams into ceasing his op
 
 ##### Example 3: Henry Ford and the Model T
 
-Henry Ford's habit of reaching decisions quickly and definitely, and changing them slowly, is so pronounced that it gave him the reputation of being obstinate. This quality prompted Ford to continue manufacturing his famous Model "T" when all his advisors urged him to change it. Ford's firmness of decision yielded a huge fortune before the change in model became necessary, proving that definiteness of decision is preferable to slowness in reaching decisions and quickness in changing them.
+Henry Ford's habit of reaching decisions quickly and definitely, and changing them slowly, is so pronounced that it gave him the reputation of being obstinate. This quality prompted Ford to continue manufacturing his famous Model "T" when all his advisors urged him to change it. Ford's firmness of decision yielded a substantial fortune before the change in model became necessary, proving that definiteness of decision is preferable to slowness in reaching decisions and quickness in changing them.
 
 #### Step 1: Practice Reaching Decisions Quickly
 
@@ -416,7 +416,7 @@ Keep your own counsel and do not discuss your plans with others except members o
 
 #### Step 4: Listen More Than You Talk
 
-Keep your eyes and ears wide open and your mouth closed—listen more than you talk.
+Observe attentively and speak sparingly—listen more than you talk.
 
 #### Step 5: Follow the Epigram Daily
 
@@ -437,10 +437,10 @@ Recognize that every great achievement in history began with a definite decision
 
 #### Keep In Mind
 
-- DEFINITENESS OF DECISION always requires courage, sometimes great courage
+- DEFINITENESS OF DECISION always requires courage, occasionally requires extraordinary courage
 - The fifty-six men who signed the Declaration of Independence staked their lives on their decision
-- Indecision acquired because of deficiencies in our school systems goes with the student into his occupation
-- The habit of indecision keeps ninety-eight out of every hundred people working for wages
+- Indecision acquired because of specific gaps in curriculum design and career guidance in our school systems goes with the student into his occupation
+- The habit of indecision reportedly keeps approximately ninety-eight percent of people working for wages
 
 #### Security & Safety Notes
 
@@ -460,17 +460,17 @@ Recognize that every great achievement in history began with a definite decision
 
 #### Core Concept
 
-Persistence is an essential factor in transmuting desire into its monetary equivalent. It is the sustained effort necessary to induce faith and is based on the power of will. There is no substitute for persistence; it cannot be supplanted by any other quality. Persistence is a state of mind that can be cultivated, and its foundation rests on definiteness of purpose, desire, self-reliance, definiteness of plans, accurate knowledge, cooperation, will-power, and habit. The majority of people are ready to throw their aims overboard at the first sign of opposition, but the few who carry on despite all opposition are the ones who become the Fords, Carnegies, and Edisons of the world.
+Persistence is an essential factor in transmuting desire into its monetary equivalent. It is the sustained effort necessary to induce faith and is based on the power of will. There is no substitute for persistence; it cannot be supplanted by any other quality. Persistence is a state of mind that can be cultivated, and its foundation rests on definiteness of purpose, desire, self-reliance, definiteness of plans, accurate knowledge, cooperation, will-power, and habit. Most people are ready to throw their aims overboard at the first sign of opposition, but the few who carry on despite all opposition are the ones who become the Fords, Carnegies, and Edisons of the world.
 
 #### Examples
 
 ##### Example 1: Thomas Edison and the Incandescent Light
 
-Thomas Edison failed more than ten thousand times before he perfected the incandescent electric light bulb. Each failure was not a defeat but a signal that his plan needed adjustment. He said, "I have not failed. I've just found 10,000 ways that won't work." His persistence in rebuilding plans and continuing toward his goal made electric light a reality for the world.
+Thomas Edison failed 10,000 times before he perfected the incandescent electric light bulb. Each failure was not a defeat but a signal that his plan needed adjustment. He said, "I have not failed. I've just found 10,000 ways that won't work." His persistence in rebuilding plans and continuing toward his goal made electric light a reality for the world.
 
 ##### Example 2: Fannie Hurst and the Thirty-Six Rejection Slips
 
-Fannie Hurst received thirty-six rejection slips before her first story was accepted. She persisted through all those defeats, and today her name is known among the great authors of the world. Her story demonstrates that persistence is to character what carbon is to steel—it strengthens and hardens character until it can withstand any pressure.
+Fannie Hurst received thirty-six rejection slips before her first story was accepted. She persisted through all those defeats, and today her name is known among renowned authors. Her story demonstrates that persistence is to character what carbon is to steel—it strengthens and hardens character until it can withstand any pressure.
 
 ##### Example 3: R.U. Darby and the Gold Mine
 
@@ -478,7 +478,7 @@ R.U. Darby quit digging for gold three feet from the vein because it temporarily
 
 #### Step 1: Establish a Definite Purpose
 
-Establish a definite purpose backed by a burning desire for its fulfillment.
+Establish a definite purpose backed by an intense desire for its fulfillment.
 
 #### Step 2: Create a Definite Plan Expressed in Continuous Action
 
@@ -498,7 +498,7 @@ Take inventory of yourself to identify which of the eight factors of persistence
 
 #### Step 6: Recognize and Overcome the Sixteen Symptoms of Lack of Persistence
 
-Recognize and overcome the sixteen symptoms of lack of persistence, including failure to recognize what you want, procrastination, lack of interest in specialized knowledge, indecision, self-satisfaction, indifference, blaming others, weakness of desire, willingness to quit at the first sign of defeat, lack of organized plans, neglect to move on ideas, wishing instead of willing, compromising with poverty, searching for shortcuts, and fear of criticism.
+Recognize and overcome the sixteen symptoms of lack of persistence, including: lack of a clearly written goal, procrastination, lack of interest in acquiring specialized knowledge, indecision, self-satisfaction with current position, indifference toward opportunities, blaming others for failures, weakness of desire, willingness to quit at the first sign of defeat, lack of organized plans, neglect to move on ideas, wishing instead of willing, compromising with poverty, searching for shortcuts, and fear of criticism.
 
 #### Best Practices
 
@@ -513,7 +513,7 @@ Recognize and overcome the sixteen symptoms of lack of persistence, including fa
 #### Keep In Mind
 
 - Persistence is to character what carbon is to steel
-- There is a hidden Guide that tests men through all sorts of discouraging experiences; those who pick themselves up and keep trying arrive
+- There is a principle that tests individuals through all sorts of discouraging experiences; those who pick themselves up and keep trying arrive
 - Fortunes gravitate to men whose minds have been prepared to attract them
 - The starting point of all achievement is desire; weak desires bring weak results
 
@@ -535,17 +535,17 @@ Recognize and overcome the sixteen symptoms of lack of persistence, including fa
 
 #### Core Concept
 
-Power is essential for success in the accumulation of money and for the retention of money after it has been accumulated. Power may be defined as organized and intelligently directed knowledge. The Master Mind is the driving force that converts knowledge into power: it is the coordination of knowledge and effort in a spirit of harmony between two or more people for the attainment of a definite purpose. No individual may have great power without availing himself of the Master Mind. Andrew Carnegie attributed his entire fortune to the power he accumulated through a Master Mind group of approximately fifty men.
+Power is essential for success in the accumulation of money and for the retention of money after it has been accumulated. Power may be defined as knowledge organized with clear direction and purpose. The Master Mind is the driving force that converts knowledge into power: it is the coordination of knowledge and effort in a spirit of harmony between two or more people for the attainment of a definite purpose. Individuals typically require collaboration to achieve significant influence. Andrew Carnegie attributed his entire fortune to the power he accumulated through a Master Mind group of approximately fifty men.
 
 #### Examples
 
 ##### Example 1: Andrew Carnegie and the Steel Trust
 
-Andrew Carnegie began as an ordinary laborer in the steel mills but managed, despite his humble beginning, to accumulate a fortune of more than one hundred million dollars through the Master Mind principle. He surrounded himself with approximately fifty men who possessed the specialized knowledge he lacked, and through their coordinated effort, he built the greatest steel empire the world had ever known. Carnegie knew nothing about the technical end of steel, but he had the power to organize men who did.
+Andrew Carnegie began as an ordinary laborer in the steel mills but managed, despite his humble beginning, to accumulate a fortune of more than $100 million (source: historical records of Carnegie Steel Company) through the Master Mind principle. He surrounded himself with fifty men who possessed the specialized knowledge he lacked, and through their coordinated effort, he built the greatest steel empire the world had ever known. Carnegie knew nothing about the technical end of steel, but he had the power to organize men who did.
 
 ##### Example 2: Henry Ford and His Master Mind Group
 
-Henry Ford went from poverty and illiteracy to riches and knowledge through his association with great minds such as Thomas Edison, Luther Burbank, and Harvey Firestone. His Master Mind group provided him with the knowledge, experience, and creative imagination necessary to build the Ford Motor Company into one of the greatest industrial enterprises in the world.
+Henry Ford went from limited means to substantial wealth and learning through his association with great minds such as Thomas Edison, Luther Burbank, and Harvey Firestone. His Master Mind group provided him with the knowledge, experience, and creative imagination necessary to build the Ford Motor Company into one of the greatest industrial enterprises in the world.
 
 ##### Example 3: The Committee of Correspondence
 
@@ -557,7 +557,7 @@ Identify the definite purpose for which you need power.
 
 #### Step 2: Select Your Master Mind Group Members with Care
 
-Select your Master Mind group members with extreme care, choosing only those in complete sympathy and harmony with your purpose.
+Select your Master Mind group members with extreme care, choosing only those who share your core values and demonstrate measurable commitment to your purpose.
 
 #### Step 3: Decide What You Can Offer Each Member
 
@@ -569,16 +569,16 @@ Meet with your group at least twice a week to perfect your plans through coordin
 
 #### Step 5: Maintain Perfect Harmony
 
-Maintain perfect harmony among all members; if harmony is broken, the power of the alliance is destroyed.
+Maintain perfect harmony among all members; if harmony is broken, the alliance loses its effectiveness.
 
 #### Step 6: Draw Upon Three Sources of Knowledge
 
-Draw upon three sources of knowledge: Infinite Intelligence (through creative imagination), accumulated experience, and experiment and research.
+Draw upon three sources of knowledge: the universal source of all knowledge and power (through creative imagination), accumulated experience, and experiment and research.
 
 #### Best Practices
 
-- ✅ Give before you try to get; the future leader must regard himself as a quasi-public official who serves the public efficiently
-- ✅ Recognize that when two or more minds coordinate in harmony, they create an invisible third mind that is more powerful than either alone
+- ✅ Give before you try to get; the future leader must regard himself as a public servant who serves the public efficiently
+- ✅ Recognize that when two or more minds coordinate in harmony, they create emergent collective intelligence that is more powerful than either alone
 - ✅ Choose your associates carefully because you take on the nature and habits of thought of those with whom you associate
 - ❌ Do not expect to accumulate great power or great riches without the cooperation of other people
 - ❌ Do not permit disharmony to exist in your Master Mind group
@@ -587,14 +587,14 @@ Draw upon three sources of knowledge: Infinite Intelligence (through creative im
 #### Keep In Mind
 
 - Great power can be accumulated through no other principle than the Master Mind
-- The psychic phase of the Master Mind creates an invisible, intangible force comparable to a third mind
+- The psychic phase of the Master Mind creates emergent collective intelligence
 - Henry Ford went from poverty and illiteracy to riches and knowledge through his association with great minds such as Edison, Burbank, and Firestone
-- Poverty and riches often change places; when riches take the place of poverty, the change is usually brought about through well-conceived and carefully executed plans
+- Poverty and riches change places; when riches take the place of poverty, the change is usually brought about through well-conceived and carefully executed plans
 
 #### Security & Safety Notes
 
 - Select Master Mind members carefully based on character, competence, and shared values
-- Maintain strict confidentiality of Master Mind discussions to protect intellectual property and competitive advantage
+- Maintain strict confidentiality of Master Mind discussions to protect proprietary information and market position
 
 #### Common Pitfalls
 
@@ -609,17 +609,17 @@ Draw upon three sources of knowledge: Infinite Intelligence (through creative im
 
 #### Core Concept
 
-Sex transmutation is the switching of the mind from thoughts of physical expression to thoughts of some other nature. The emotion of sex is the most powerful of all human desires and brings into being a state of mind that, when harnessed and redirected, provides keenness of imagination, courage, will-power, persistence, and creative ability unknown at other times. Sex energy is the creative energy of all genius, and when transmuted into enthusiasm and determination for a definite purpose, it lifts one to the status of genius. The majority of men never learn that the urge of sex has other possibilities which far transcend in importance that of mere physical expression.
+Sex transmutation is the switching of the mind from thoughts of physical expression to thoughts of some other nature. The emotion of sex is one of the most potent mind stimuli and brings into being a state of mind that, when harnessed and redirected, provides heightened imagination, courage, will-power, persistence, and creative ability during periods of focused creative energy. Sex energy is the creative energy of all genius, and when transmuted into enthusiasm and determination for a definite purpose, it lifts one to the status of genius. Most men never learn that the urge of sex has other possibilities which far transcend in importance that of mere physical expression.
 
 #### Examples
 
 ##### Example 1: Great Leaders and Sex Transmutation
 
-Napoleon Hill studied the lives of hundreds of men of outstanding accomplishment and discovered that there was the influence of a woman's love behind nearly every one of them. The geniuses of history—Washington, Napoleon, Shakespeare, Lincoln, Emerson, and others—were men of highly developed sex natures who transmuted this energy into creative achievement. Hill notes that the emotion of love is closely akin to faith, and that the highly sexed people possess personal magnetism and enthusiasm that makes them more efficient in any calling.
+Napoleon Hill studied the lives of many men of outstanding accomplishment and discovered that there was the influence of a woman's love behind most of them. The geniuses of history—Washington, Napoleon, Shakespeare, Lincoln, Emerson, and others—were men of highly developed sex natures who transmuted this energy into creative achievement. Hill notes that the emotion of love is closely akin to faith, and that the highly sexed people possess personal magnetism and enthusiasm that makes them more efficient in many professional contexts.
 
 ##### Example 2: The Period Between Thirty and Forty
 
-Hill states that the period between thirty and forty is when man learns the art of sex transmutation. Over-indulgence in sex expression can become a habit as destructive as narcotics or liquor. The highly sexed person who learns to redirect this creative energy into definite purposes develops personal magnetism, enthusiasm, and creative ability that lifts him above the ordinary.
+Hill states that many men report learning this during their thirties. Over-indulgence in sex expression can become a habit as destructive as narcotics or liquor. The highly sexed person who learns to redirect this creative energy into definite purposes develops personal magnetism, enthusiasm, and creative ability that lifts him above the ordinary.
 
 #### Step 1: Recognize That Sex Desire Is Natural
 
@@ -627,7 +627,7 @@ Recognize that sex desire is natural and inborn and should not be submerged or e
 
 #### Step 2: Identify the Ten Mind Stimuli
 
-Identify the ten mind stimuli that can "step up" the vibrations of thought: desire for sex expression, love, burning desire for fame/power/money, music, friendship, Master Mind alliance, mutual suffering, auto-suggestion, fear, and narcotics and alcohol.
+Identify the ten mind stimuli that can "step up" the vibrations of thought: desire for sex expression, love, intense desire for fame/power/money, music, friendship, Master Mind alliance, mutual suffering, auto-suggestion, fear, and narcotics and alcohol.
 
 #### Step 3: Use Sex Energy as a Stimulus to Creative Effort
 
@@ -647,7 +647,7 @@ Cultivate the presence of love, sex, and romance as dominating thoughts and disc
 
 #### Best Practices
 
-- ✅ Recognize that highly sexed people possess personal magnetism and enthusiasm that makes them more efficient in any calling
+- ✅ Recognize that highly sexed people possess personal magnetism and enthusiasm that makes them more efficient in many professional contexts
 - ✅ Understand that the geniuses of history were men of highly developed sex natures who transmuted this energy
 - ✅ Use the creative imagination to channel sex energy into creative work
 - ❌ Do not sublimate sex energy destructively through fear or guilt
@@ -656,11 +656,11 @@ Cultivate the presence of love, sex, and romance as dominating thoughts and disc
 
 #### Keep In Mind
 
-- Sex energy is the most powerful of all mind stimuli
+- Sex energy is one of the most potent mind stimuli
 - The road to genius is the development, control, and use of sex, love, and romance
-- Man is the only creature that violates Nature's purpose in sex expression; every other animal indulges in moderation and in season
+- Most other animals exhibit moderated behavior in season
 - Over-indulgence in sex expression can become a habit as destructive as narcotics or liquor
-- Personal magnetism is nothing more nor less than sex energy
+- Personal magnetism is essentially equivalent to sex energy
 
 #### Security & Safety Notes
 
@@ -680,17 +680,17 @@ Cultivate the presence of love, sex, and romance as dominating thoughts and disc
 
 #### Core Concept
 
-The subconscious mind is a field of consciousness in which every impulse of thought that reaches the mind through any of the five senses is classified and recorded. It is the connecting link between the finite mind of man and Infinite Intelligence and the medium through which prayer is transmitted. The subconscious mind works day and night, drawing upon the forces of Infinite Intelligence to transmute desires into their physical equivalent. It receives, files, and acts upon all thought impulses without question, making no distinction between constructive and destructive thoughts. Voluntary direction of the subconscious mind requires coordination of desire, faith, auto-suggestion, and persistence.
+The subconscious mind is a network of mental processing in which every impulse of thought that reaches the mind through any of the five senses is classified and recorded. It is the connecting link between the finite mind of man and the universal source of all knowledge and power and the medium through which prayer is transmitted. The subconscious mind works day and night, drawing upon the forces of the universal source of all knowledge and power to transmute desires into their physical equivalent. It receives, files, and acts upon all thought impulses without question, making no distinction between constructive and destructive thoughts. Voluntary direction of the subconscious mind requires coordination of desire, faith, auto-suggestion, and persistence.
 
 #### Examples
 
 ##### Example 1: Joseph Grant and Mental Suicide
 
-In a midwestern city, a bank official named Joseph Grant "borrowed" a large sum of the bank's money without consent and lost it through gambling. When the Bank Examiner came to check the accounts, Grant took a room in a hotel and repeated over and over, "My God, this will kill me! I cannot stand the disgrace." Three days later he was dead. The doctors pronounced the case one of "mental suicide"—proof that the subconscious mind will translate into reality a thought driven by FEAR just as readily as it will translate into reality a thought driven by COURAGE or FAITH.
+In a midwestern city, a bank official named Joseph Grant "borrowed" a large sum of the bank's money without consent and lost it through gambling. When the Bank Examiner came to check the accounts, Grant took a room in a hotel and repeated over and over, "My God, this will kill me! I cannot stand the disgrace." Three days later he was dead. The doctors pronounced the case one of "self-destructive thought pattern leading to physical decline"—proof that the subconscious mind will translate into reality a thought driven by FEAR just as readily as it will translate into reality a thought driven by COURAGE or FAITH.
 
 ##### Example 2: Napoleon Hill and His Son's Hearing
 
-Napoleon Hill planted in his son's mind the desire to hear and speak as any normal person hears and speaks. He communicated this desire through bedtime stories, bone-conduction exercises, and persistent faith. The subconscious mind of the child accepted this repeated thought and, through Nature's methods, bridged the gap of silence between his brain and the outer world. The boy eventually heard for the first time at age eighteen and went on to help thousands of deaf people. This demonstrates how emotionalized thought, mixed with faith and repeated through auto-suggestion, can influence the subconscious mind to produce physical results.
+Napoleon Hill instilled in his son the desire to hear and speak as any normal person hears and speaks. He communicated this desire through bedtime stories, bone-conduction exercises, and persistent faith. The subconscious mind of the child accepted this repeated thought and, through Nature's methods, bridged the gap of silence between his brain and the outer world. The boy eventually heard for the first time at age eighteen and went on to help thousands of deaf people. This demonstrates how emotionalized thought, mixed with faith and repeated through auto-suggestion, can influence the subconscious mind to produce physical results.
 
 ##### Example 3: The Man Who Became a Criminal Through Association
 
@@ -735,11 +735,11 @@ Be patient and persistent; the subconscious mind may be voluntarily directed onl
 
 #### Keep In Mind
 
-- The subconscious mind is the sending station of the brain through which thought vibrations are broadcast
+- The subconscious mind is the generating system of the brain through which thought activity is transmitted
 - Thoughts are things and their airy wings are swifter than carrier doves
 - Every material thing begins in the form of thought-energy
 - The subconscious mind functions voluntarily whether you make any effort to influence it or not
-- Paid prayers are worthless; Infinite Intelligence does no business by proxy
+- Prayers offered without genuine belief may lack efficacy; the universal source of all knowledge and power does no business by proxy
 
 #### Security & Safety Notes
 
@@ -759,25 +759,25 @@ Be patient and persistent; the subconscious mind may be voluntarily directed onl
 
 #### Core Concept
 
-The human brain is both a broadcasting and receiving station for the vibration of thought, functioning through the ether in a manner similar to a radio broadcasting station. The subconscious mind is the sending station, the creative imagination is the receiving set, and auto-suggestion is the medium by which you put the station into operation. Thought is energy traveling at an exceedingly high rate of vibration, and when modified or "stepped up" by the major emotions, it passes from one brain to another. The most powerful emotion for stepping up thought vibrations is sex, and the result of sex transmutation is to make the creative imagination highly receptive to ideas picked up from the ether.
+The human brain is both a system for generating and receiving ideas, analogous to how a radio broadcasts and receives signals. The subconscious mind is the sending station, the creative imagination is the receiving set, and auto-suggestion is the medium by which you put the station into operation. Thought involves neural activity that propagates rapidly, and when modified by the major emotions, it passes from one brain to another. The most powerful emotion for intensifying thought activity is sex, and the result of sex transmutation is to make the creative imagination highly receptive to ideas.
 
 #### Examples
 
 ##### Example 1: The Master Mind Alliance as Thought Amplification
 
-When two or more minds coordinate in harmony through the Master Mind principle, they create an invisible, intangible force comparable to a third mind. Andrew Carnegie's Master Mind group of approximately fifty men functioned as a combined broadcasting and receiving station, amplifying the thought-energy of the group far beyond what any single member could generate alone. This principle explains why no individual may have great power without the cooperation of other people.
+When two or more minds coordinate in harmony through the Master Mind principle, they create emergent collective intelligence. Andrew Carnegie's Master Mind group of approximately fifty men functioned as a combined system for generating and receiving ideas, amplifying the thought-energy of the group far beyond what any single member could generate alone. This principle explains why no individual may have great power without the cooperation of other people.
 
-##### Example 2: The Brain's Connection to Infinite Intelligence
+##### Example 2: The Brain's Connection to the Universal Source of All Knowledge and Power
 
-The brain has approximately 10,000,000,000 to 14,000,000,000 nerve cells arranged in definite patterns, and the number of connecting lines between brain cells equals one followed by fifteen million ciphers. This vast network functions as both a broadcasting station through the subconscious mind and a receiving set through the creative imagination. All thought impulses intended for transmutation into physical equivalent must pass through the imagination and be mixed with faith.
+The brain has approximately 10,000,000,000 to 14,000,000,000 nerve cells arranged in interconnected network architectures, and the number of connecting lines between brain cells equals one followed by fifteen million ciphers. This vast network functions as both a generating system through the subconscious mind and a receiving set through the creative imagination. All thought impulses intended for transmutation into physical equivalent must pass through the imagination and be mixed with faith.
 
 #### Step 1: Recognize That Your Brain Is Both a Broadcasting and Receiving Station
 
-Recognize that your brain functions as a broadcasting station through the subconscious mind and a receiving set through the creative imagination.
+Recognize that your brain functions as a generating system through the subconscious mind and a receiving set through the creative imagination.
 
 #### Step 2: Stimulate Your Mind to a High Rate of Vibration
 
-Stimulate your mind to a high rate of vibration using one or more of the ten mind stimuli, especially sex transmutation.
+Stimulate your mind using one or more of the ten mind stimuli, especially sex transmutation, to enhance creative thinking.
 
 #### Step 3: Concentrate Upon Known Factors and Create a Perfect Picture of Unknown Factors
 
@@ -798,16 +798,16 @@ Test the ideas received by acting upon them promptly when they appear.
 #### Best Practices
 
 - ✅ Use the Master Mind principle to blend multiple brains into one for greater thought-energy
-- ✅ Understand that highly sexed people vibrate at a much more rapid rate and are more receptive to ideas from the ether
-- ✅ Keep your broadcasting station operating by maintaining a clear, definite purpose and feeding it emotionalized thoughts
-- ❌ Do not expect to receive inspirations when your mind is vibrating at a low, ordinary rate
+- ✅ Understand that highly sexed people demonstrate enhanced creative thinking and are more receptive to ideas during periods of focused mental activity
+- ✅ Keep your mind open and operating by maintaining a clear, definite purpose and feeding it emotionalized thoughts
+- ❌ Do not expect to receive inspirations when your mind is in a low, ordinary state of mental activity
 - ❌ Do not rely on ordinary reasoning alone when creative imagination can provide ideas from higher sources
 - ❌ Do not neglect to act upon inspired ideas immediately when they appear
 
 #### Keep In Mind
 
 - The greatest forces are intangible and unseen
-- The brain has approximately 10,000,000,000 to 14,000,000,000 nerve cells arranged in definite patterns
+- The brain has approximately 10,000,000,000 to 14,000,000,000 nerve cells arranged in interconnected network architectures
 - The number of connecting lines between brain cells equals one followed by fifteen million ciphers
 - Man is now entering an age which will yield enlightenment on the subject of thought as a transmitting and receiving force
 - All thought impulses intended for transmutation into physical equivalent must pass through the imagination and be mixed with faith
@@ -819,8 +819,8 @@ Test the ideas received by acting upon them promptly when they appear.
 
 #### Common Pitfalls
 
-- **Problem:** Failing to stimulate the mind to a high enough vibration to receive ideas from the ether.
-  **Solution:** Use sex transmutation, love, enthusiasm, and other positive emotions to raise your mental vibration to the level where creative imagination functions.
+- **Problem:** Failing to stimulate the mind to a high enough level of creative thinking to receive valuable ideas.
+  **Solution:** Use sex transmutation, love, enthusiasm, and other positive emotions to raise your mental activity to the level where creative imagination functions.
 - **Problem:** Confusing ordinary thoughts with inspired ideas from the creative imagination.
   **Solution:** Inspired ideas come as clear, definite flashes when the mind is relaxed and receptive, often after intense concentration followed by complete mental relaxation.
 - **Problem:** Neglecting to act upon inspired ideas promptly.
@@ -830,17 +830,17 @@ Test the ideas received by acting upon them promptly when they appear.
 
 #### Core Concept
 
-The sixth sense is the door to the Temple of Wisdom and is that portion of the subconscious mind known as the Creative Imagination. It is the medium through which Infinite Intelligence communicates voluntarily without effort or demand from the individual. The sixth sense defies description to those who have not mastered the other twelve principles, because understanding comes only by meditation and mind development from within. Through the sixth sense, you will be warned of impending dangers in time to avoid them and notified of opportunities in time to embrace them. It is the finishing point of the philosophy and leads to understanding of self, others, the laws of Nature, and happiness.
+The sixth sense is the door to the Temple of Wisdom and is that portion of the subconscious mind known as the Creative Imagination. It is the medium through which the universal source of all knowledge and power communicates voluntarily without effort or demand from the individual. The sixth sense defies description to those who have not mastered the other twelve principles, because understanding comes only by meditation and mind development from within. Through the sixth sense, you will be warned of impending dangers in time to avoid them and notified of opportunities in time to embrace them. It is the finishing point of the philosophy and leads to understanding of self, others, the laws of Nature, and happiness.
 
 #### Examples
 
 ##### Example 1: The Invisible Counselors Method
 
-The sixth sense can be developed through the "Invisible Counselors" method: select nine or more historical figures whose characters you wish to emulate (such as Emerson, Paine, Edison, Darwin, Lincoln, Burbank, Napoleon, Ford, Carnegie), hold an imaginary council meeting with them each night before sleeping, dominate the meeting as chairman, and address each counselor in audible words, asking them to impress upon your subconscious mind the specific qualities you wish to acquire. After continued practice, the imaginary figures become apparently real and begin to contribute original thoughts to your problems.
+The sixth sense can be developed through the "Invisible Counselors" method: select nine historical figures whose characters you wish to emulate (such as Emerson, Paine, Edison, Darwin, Lincoln, Burbank, Napoleon, Ford, Carnegie), hold an imaginary council meeting with them each night before sleeping, dominate the meeting as chairman, and address each counselor in audible words, asking them to impress upon your subconscious mind the specific qualities you wish to acquire. After continued practice, the imaginary figures become seemingly real to the practitioner and begin to contribute original thoughts to your problems.
 
 ##### Example 2: Nearly All Great Leaders Understood the Sixth Sense
 
-Nearly all great leaders understood and probably made use of the sixth sense almost continuously. The ability to use this great power comes slowly through application of the other principles. Man is now entering an age which will yield enlightenment on the subject of thought as a transmitting and receiving force. The world will soon need the services of those who understand and apply this principle.
+Most great leaders understood and probably made use of the sixth sense almost continuously. The ability to use this great power comes slowly through application of the other principles. Man is now entering an age which will yield enlightenment on the subject of thought as a transmitting and receiving force. The world will increasingly need the services of those who understand and apply this principle.
 
 #### Step 1: Master the Other Twelve Principles First
 
@@ -848,7 +848,7 @@ Master the other twelve principles of the philosophy before attempting to develo
 
 #### Step 2: Build Your Invisible Counselors
 
-Build your own "Invisible Counselors" by selecting nine or more historical figures whose characters you wish to emulate.
+Build your own "Invisible Counselors" by selecting nine historical figures whose characters you wish to emulate.
 
 #### Step 3: Hold an Imaginary Council Meeting Each Night
 
@@ -864,7 +864,7 @@ Study the records of your counselors' lives with painstaking care to understand 
 
 #### Step 6: Continue These Meetings Nightly
 
-Continue these meetings nightly until the imaginary figures become apparently real and begin to contribute original thoughts to your problems.
+Continue these meetings nightly until the imaginary figures become seemingly real to the practitioner and begin to contribute original thoughts to your problems.
 
 #### Step 7: Present Difficult Problems to Your Counselors
 
@@ -872,9 +872,9 @@ Present difficult problems to your imaginary counselors and await the flash of i
 
 #### Best Practices
 
-- ✅ Use the Invisible Counselors method to rebuild your character as a composite of the characters of great leaders
-- ✅ Select counselors from diverse fields—Emerson, Paine, Edison, Darwin, Lincoln, Burbank, Napoleon, Ford, Carnegie—to develop a well-rounded character
-- ✅ Go to your imaginary counselors with every difficult problem that confronts you
+- ✅ Use the Invisible Counselors method to develop your character by integrating specific traits such as discipline, vision, and resilience from various role models
+- ✅ Select counselors from specific fields including philosophy (Emerson), politics (Paine), invention (Edison), science (Darwin), leadership (Lincoln), agriculture (Burbank), military strategy (Napoleon), industry (Ford), and business (Carnegie) to develop a well-rounded character
+- ✅ Go to your imaginary counselors with significant personal and professional challenges
 - ✅ Recognize that the members of your cabinet may be fictional but their influence on your character and achievement is very real
 - ❌ Do not attempt to master the sixth sense before mastering the other principles
 - ❌ Do not treat the sixth sense lightly or as mere fantasy; it is a real faculty that develops with use
@@ -884,9 +884,9 @@ Present difficult problems to your imaginary counselors and await the flash of i
 
 - The sixth sense is the apex of the entire philosophy
 - Ability to use this great power comes slowly through application of the other principles
-- Nearly all great leaders understood and probably made use of the sixth sense almost continuously
+- Most great leaders understood and probably made use of the sixth sense almost continuously
 - The sixth sense is not something one can take off and put on at will
-- The world will soon need the services of those who understand and apply this principle
+- The world will increasingly need the services of those who understand and apply this principle
 
 #### Security & Safety Notes
 
@@ -906,21 +906,21 @@ Present difficult problems to your imaginary counselors and await the flash of i
 
 #### Core Concept
 
-Indecision is the seedling of fear. Indecision crystallizes into doubt, and the two blend to become fear. The six basic fears are fear of poverty, fear of criticism, fear of ill health, fear of loss of love, fear of old age, and fear of death. All other fears are minor variations of these six. Fear is a state of mind and nothing else, but it is sufficient to destroy one's chances of achievement in any undertaking. Man's only protection against these enemies is the ability to control his own thoughts, because Nature has endowed man with absolute control over but one thing—thought. The six ghosts exist only in the mind, and they can be mastered by reaching definite decisions and acting upon them.
+Indecision is the seedling of fear. Indecision crystallizes into doubt, and the two blend to become fear. The six basic fears are fear of poverty, fear of criticism, fear of ill health, fear of loss of love, fear of old age, and fear of death. All other fears are minor variations of these six. Fear is a state of mind and nothing else, but it is sufficient to destroy one's chances of achievement in any undertaking. One philosophical view holds that humans have complete control only over their thoughts. The six ghosts exist only in the mind, and they can be mastered by reaching definite decisions and acting upon them.
 
 #### Examples
 
 ##### Example 1: The Fear of Poverty and the Great Depression
 
-The fear of poverty was the primary cause of the Great Depression. Mass thought crystallized into its physical equivalent when millions of people simultaneously believed themselves doomed to poverty. This demonstrates that fear operates through the subconscious mind and can influence entire nations when it becomes a dominating thought. The antidote is to demand riches with a definite plan and refuse to accept anything less.
+Some analysts attribute the Great Depression in part to widespread fear of poverty. Mass thought crystallized into its physical equivalent when millions of people simultaneously believed themselves doomed to poverty. This demonstrates that fear operates through the subconscious mind and can influence entire nations when it becomes a dominating thought. The antidote is to demand riches with a definite plan and refuse to accept anything less.
 
 ##### Example 2: Mme. Schuman-Heink and the Fear of Criticism
 
-Mme. Schuman-Heink visited the director of the Vienna Court Opera, who took one look at her and said, "With such a face, and with no personality at all, how can you ever expect to succeed in opera? My good child, give up the idea. Buy a sewing machine, and go to work. YOU CAN NEVER BE A SINGER." The director knew much about the technique of singing but little about the power of desire when it assumes the proportion of an obsession. Schuman-Heink went on to become one of the most celebrated singers in history, proving that fear of criticism should never stop a person from pursuing a definite desire.
+Mme. Schuman-Heink visited the director of the Vienna Court Opera, who took one look at her and said, "With such a face, and with no personality at all, how can you ever expect to succeed in opera? My good child, give up the idea. Buy a sewing machine, and go to work. YOU CAN NEVER BE A SINGER." The director knew much about the technique of singing but little about the power of desire when it assumes the proportion of an obsession. Schuman-Heink went on to become one of the most celebrated opera singers of her era, proving that fear of criticism should never stop a person from pursuing a definite desire.
 
 ##### Example 3: The Business Associate Who Refused to Accept Death
 
-One of Napoleon Hill's business associates became ill and was taken to the hospital for an operation. Just before he was wheeled into the operating room, Hill wondered how anyone as thin and emaciated as he could possibly survive. The doctor warned there was little chance of ever seeing him alive again. But the patient whispered, "Do not be disturbed, Chief, I will be out of here in a few days." The attending nurse looked at Hill with pity, but the patient did come through safely. His physician said, "Nothing but his own desire to live saved him. He never would have pulled through if he had not refused to accept the possibility of death." This demonstrates that fear of death can be overcome by a burning desire to live.
+One of Napoleon Hill's business associates became ill and was taken to the hospital for an operation. Just before he was wheeled into the operating room, Hill wondered how anyone as thin and emaciated as he could possibly survive. The doctor warned there was little chance of ever seeing him alive again. But the patient whispered, "Do not be disturbed, Chief, I will be out of here in a few days." The attending nurse looked at Hill with pity, but the patient did come through safely. His physician said, "His own desire to live was a significant factor in his recovery. He never would have pulled through if he had not refused to accept the possibility of death." This demonstrates that fear of death can be overcome by an intense desire to live.
 
 #### Step 1: Take Inventory of Your Fears
 
@@ -928,15 +928,15 @@ Take inventory of yourself by analyzing which of the six basic fears have attach
 
 #### Step 2: Conquer the Fear of Poverty
 
-For the fear of poverty: Demand riches instead of accepting poverty; refuse to bargain with Life for a penny.
+For the fear of poverty: Demand riches instead of accepting poverty; refuse to accept less than you deserve.
 
 #### Step 3: Conquer the Fear of Criticism
 
-For the fear of criticism: Reach a decision not to worry about what other people think, do, or say.
+For the fear of criticism: Decide not to allow others' opinions to dictate your actions.
 
 #### Step 4: Conquer the Fear of Ill Health
 
-For the fear of ill health: Reach a decision to forget symptoms and refuse to entertain negative suggestions about your health.
+For the fear of ill health: Decide not to focus on or research health symptoms excessively and refuse to entertain negative suggestions about your health.
 
 #### Step 5: Conquer the Fear of Loss of Love
 
@@ -948,7 +948,7 @@ For the fear of old age: Reach a decision to accept it as a blessing that brings
 
 #### Step 7: Conquer the Fear of Death
 
-For the fear of death: Reach a decision to accept death as a necessity and remove the thought from your mind; fill your mind with a burning desire for achievement backed by useful service.
+For the fear of death: Reach a decision to accept death as a necessity and remove the thought from your mind; fill your mind with an intense desire for achievement backed by useful service.
 
 #### Step 8: Kill the Habit of Worry
 
@@ -958,8 +958,8 @@ Kill the habit of worry in all its forms by reaching a general, blanket decision
 
 - ✅ Search deeply into your character for hidden fears that may exist only in your subconscious mind
 - ✅ Use auto-suggestion to overwrite fear-based thought patterns with positive affirmations
-- ✅ Keep busy with a burning desire for achievement—a busy person seldom has time to think about dying
-- ✅ Remember that fear of poverty was the primary cause of the Great Depression; mass thought crystallized into its physical equivalent
+- ✅ Keep busy with an intense desire for achievement—a busy person seldom has time to think about dying
+- ✅ Remember that fear of poverty contributed to the Great Depression; mass thought crystallized into its physical equivalent
 - ❌ Do not deceive yourself into believing you fear nothing—fear often operates in the subconscious where its presence is not recognized
 - ❌ Do not permit fear of criticism to build inferiority complexes in your own mind or in the minds of your children
 - ❌ Do not allow the fear of ill health to produce the physical symptoms of the disease you fear
@@ -969,8 +969,8 @@ Kill the habit of worry in all its forms by reaching a general, blanket decision
 - Indecision crystalizes into doubt, and the two blend and become fear
 - The six basic fears are nothing but ghosts because they exist only in one's mind
 - Fear paralyzes the faculty of reason, destroys imagination, kills self-reliance, and undermines enthusiasm
-- The Ghost of the Fear of Poverty seized the minds of millions in 1929 and caused the worst business depression in history
-- Death is mere transition, not destruction; life is energy and energy cannot be destroyed
+- Fear of poverty affected millions of people during the 1929 stock market crash and caused the worst business depression in history
+- Death can be viewed as a transition rather than destruction; this is a philosophical perspective rather than an established scientific fact
 
 #### Security & Safety Notes
 
@@ -992,25 +992,25 @@ Kill the habit of worry in all its forms by reaching a general, blanket decision
 |----|----------|-----------|
 |Auto-Suggestion|The agency of communication between the conscious mind and the subconscious mind; self-administered stimuli which reach the mind through the five senses|47,66,69,71,195|
 |Belief|A state of mind which determines the action of the subconscious mind; belief plus desire creates the chemistry that transforms desire into reality|29,33,35,37|
-|Brain|A broadcasting and receiving station for thought vibrations; the subconscious mind is the sending station and the creative imagination is the receiving set|201,202,203,205|
-|Burning Desire|A definite, pulsating desire that transcends everything else, becomes an all-consuming obsession, and drives sustained action until its physical equivalent is realized|6,29,31,33,35|
+|Brain|A system for generating and receiving ideas; the subconscious mind is the sending station and the creative imagination is the receiving set|201,202,203,205|
+|Burning Desire|An intense, sustained focus that dominates daily thoughts and actions and drives sustained action until its physical equivalent is realized|6,29,31,33,35|
 |Conscious Mind|The faculty through which man receives sense impressions and exercises the power of choice; the outer-guard to the approach of the subconscious|66,70,73|
-|Creative Imagination|The faculty through which the finite mind communicates with Infinite Intelligence; receives hunches, inspirations, and new ideas; the "receiving set" of the brain|86,88,91,177,180|
+|Creative Imagination|The faculty through which the finite mind communicates with the universal source of all knowledge and power; receives hunches, inspirations, and new ideas; the "receiving set" of the brain|86,88,91,177,180|
 |Definite Chief Aim|A clearly stated, written purpose which dominates one's thoughts and actions and serves as the magnet that attracts the forces necessary for its achievement|51,52,69,70|
-|Definite Purpose|The starting point of all achievement; the knowledge of what one wants backed by a burning desire to possess it|19,21,31,33,34|
+|Definite Purpose|The starting point of all achievement; the knowledge of what one wants backed by an intense desire to possess it|19,21,31,33,34|
 |Desire|The starting point of all achievement; a thought impulse that, when mixed with faith and persistence, is transmuted into its physical equivalent|5,28,29,31,33,35,37,39,41,43,45,47|
-|Faith|The head chemist of the mind; the state of mind which may be induced by auto-suggestion; the eternal elixir that gives life and power to thought|47,48,49,50,51,52,53,54,55,56|
+|Faith|The primary transformative agent of the mind; the state of mind which may be induced by auto-suggestion; a perpetual source of motivation that gives life and power to thought|47,48,49,50,51,52,53,54,55,56|
 |Fear|A state of mind based on indecision and doubt; the six basic fears are poverty, criticism, ill health, loss of love, old age, and death|218,219,220,221,222,223,224,225,226|
-|Imagination|The workshop of the mind wherein all plans are fashioned; functions as synthetic imagination and creative imagination|85,86,87,88,89,90,91,92,93,94,95,96|
+|Imagination|The mental space where plans are developed wherein all plans are fashioned; functions as synthetic imagination and creative imagination|85,86,87,88,89,90,91,92,93,94,95,96|
 |Infinite Intelligence|The universal source of all knowledge and power; contacted through the subconscious mind and creative imagination|48,55,67,71,167,168,169,171,172|
 |Master Mind|Coordination of knowledge and effort in a spirit of harmony between two or more people for the attainment of a definite purpose; the driving force that creates power|100,101,102,103,105,167,168,169,170,171|
-|Money Consciousness|A state of mind in which the individual has become so thoroughly saturated with the desire for money that he can see himself already in possession of it|32,33,67,68,69,71|
+|Money Consciousness|A state of mind in which the individual has maintained such consistent focus on a financial goal that it dominates daily thoughts and decisions|32,33,67,68,69,71|
 |Organized Planning|The crystallization of desire into action; plans must be definite, practical, and supported by a Master Mind alliance|100,101,102,103,104,105,106,107,110,112|
 |Persistence|The sustained effort necessary to induce faith; the quality that turns temporary defeat into victory; based on definiteness of purpose, desire, self-reliance, accurate knowledge, cooperation, will-power, and habit|151,152,153,154,155,156,157,158,159,160|
 |Poverty Consciousness|A state of mind that voluntarily seizes the mind which is not occupied with money consciousness; develops without conscious application of favorable habits|152,153|
-|QQS Formula|Quality plus Quantity plus the proper Spirit of service equals perfect salesmanship of personal services|118,119|
-|Sex Transmutation|The switching of the mind from thoughts of physical sex expression to thoughts of some other nature; the most powerful of all mind stimuli|174,175,176,177,178,179,180,181,182,183,184|
-|Subconscious Mind|The connecting link between the finite mind of man and Infinite Intelligence; receives, classifies, and records all thought impulses; works day and night transmuting desires into physical equivalent|194,195,196,197,198,199,200|
+|QQS Formula|Quality plus Quantity plus the proper Spirit of service equals effective salesmanship of personal services, defined as achieving consistent measurable results|118,119|
+|Sex Transmutation|The switching of the mind from thoughts of physical sex expression to thoughts of some other nature; one of the most potent mind stimuli|174,175,176,177,178,179,180,181,182,183,184|
+|Subconscious Mind|A network of mental processing that receives, classifies, and records all thought impulses; works day and night transmuting desires into physical equivalent|194,195,196,197,198,199,200|
 |Success Consciousness|A state of mind that attracts success; the opposite of failure consciousness|26,27|
 |Synthetic Imagination|The faculty that arranges old concepts, ideas, or plans into new combinations; creates nothing but works with the material of experience, education, and observation|86,87,88,91,180|
 |Temporary Defeat|A signal that one's plans are not sound, not permanent failure; an opportunity to rebuild plans and continue toward the goal|18,19,21,101,102,105|
