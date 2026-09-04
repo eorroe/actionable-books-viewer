@@ -2,7 +2,7 @@
 
 ## Overview
 
-This chapter teaches that psychological independence means total freedom from all obligatory relationships and other-directed behavior, and that dependency is a choice rather than a circumstance that simply happens to you. It identifies common dependency-fostering behaviors and the strategies people use to maintain dominance and control in relationships. The chapter provides practical guidance for building independence through financial self-sufficiency, setting boundaries, and modeling self-confidence for children. Ultimately it shows that dependency is the enemy of all happiness and fulfillment, while independence garners the most respect from others.
+This chapter teaches that psychological independence involves minimizing obligatory pressures in relationships and reducing behavior driven by others' expectations, and that dependency is a choice rather than a circumstance that simply happens to you. It identifies common dependency-fostering behaviors and the strategies people use to maintain dominance and control in relationships. The chapter provides practical guidance for building independence through financial self-sufficiency, setting boundaries, and modeling self-confidence for children. Ultimately it argues that dependency tends to reduce well-being and fulfillment, while independence tends to earn more respect from others.
 
 ## When to Follow These Book Teachings
 
@@ -14,27 +14,27 @@ This chapter teaches that psychological independence means total freedom from al
 
 ### Step 1: Understand Psychological Independence vs. Psychological Dependence
 
-1. Understand that psychological independence means total freedom from all obligatory relationships and an absence of other-directed behavior.
-2. Recognize that psychological independence means being free from having to do something you would not otherwise choose, were the relationship not to exist.
-3. Identify that the obligation in a relationship is the problem, rather than the relationship itself.
-4. Note that obligation breeds guilt and dependency, while choice fosters love and independence.
+1. Understand that psychological independence involves reducing obligatory pressures in relationships and behavior driven by others' expectations, rather than achieving complete freedom from every relationship obligation.
+2. Recognize that psychological independence involves being free from having to do things you would not otherwise choose, if the relationship were not to exist.
+3. Identify that the obligation in a relationship is the central concern, rather than the relationship itself.
+4. Note that obligation often produces guilt and dependency, while choice tends to support autonomy and independence.
 
-"If you want some kind of relationship, then it is not unhealthy. But if you need it, or are forced into it, and subsequently feel resentment, then you are in a self-defeating area. Thus, it is the obligation that is the problem, rather than the relationship itself. Obligation breeds guilt and dependency, while choice fosters love and independence. There is no choice in a psychologically dependent relationship, consequently there will always be indignation and ill-feelings in any such alliance."
+"If you want some kind of relationship, then it is not unhealthy. But if you need it, or are forced into it, and subsequently feel resentment, then you are in a self-defeating area. Thus, it is the obligation that is the problem, rather than the relationship itself. Obligation often produces guilt and dependency, while choice tends to support autonomy and independence. There is often limited choice in a psychologically dependent relationship, and people in such situations may experience anger and negative feelings toward the relationship."
 
 ### Step 2: Recognize That Dependency Is a Choice
 
-1. Understand that dependency is not something that just happens because of association with domineering people; it is a choice.
-2. Recognize that you teach people to dominate you and treat you the way you've always been treated.
-3. Acknowledge that domineering strategies are repeated only if they work—they work if they keep you in line and in a dependent position.
+1. Understand that dependency is not something that simply occurs due to association with domineering people; it can be a deliberate or habitual choice to rely on others for emotional regulation.
+2. Recognize that repeated accommodating responses toward controlling people can reinforce controlling behavior in those people.
+3. Acknowledge that domineering strategies tend to be repeated only when they produce the intended effect—keeping the other person in a dependent position.
 
-"Dependency is not something that just happens because of association with domineering people. It is, like all erroneous zone behavior, a choice. You teach people to dominate you, and to treat you the way you've always been treated." "They work if they keep you in line and in a dependent position in the relationship."
+"Dependency is not something that simply occurs because of association with domineering people. It is, like all erroneous zone behavior, something a person can choose. Repeated accommodating responses toward controlling people can reinforce controlling behavior in those people." "They are likely to persist if they succeed at keeping the other person in a dependent position in the relationship."
 
 ### Step 3: Identify Common Dependency-Fostering Behaviors
 
 1. Review the list of common dependency behaviors to identify which apply to you.
-2. Note behaviors such as feeling unable to leave the nest, asking permission of a spouse, invasions of privacy, feeling required to visit/telephone/entertain, falling into depression after a loved one's death, feeling committed to a job and never venturing out, having expectations for how others have to be, being hurt by what others say/feel/think/do, only feeling happy if your mate is happy, taking orders, allowing someone else to make decisions for you, and not doing things in front of a dominant person because they wouldn't approve.
+2. Note behaviors such as feeling unable to leave the nest, asking permission of a spouse, invasions of privacy, feeling required to visit/telephone/entertain, falling into depression after a loved one's death, feeling committed to a job and never venturing out, having expectations for how others have to be, being hurt by what others say/feel/think/do, feeling unable to experience your own happiness when a romantic partner is not happy, taking orders, allowing someone else to make decisions for you, and avoiding activities in front of a dominant person out of concern about disapproval.
 
-"Feeling unable to leave the nest or leaving it with bad feelings on both sides." "Feeling required or obliged to visit, telephone, entertain, chauffeur and the like." "Asking permission of a spouse for anything, including spending money, authority to speak, or use of the car." "Invasions of privacy, such as looking through drawers and private records of children." "Falling into depression and immobilization after the death of a loved one." "Feeling committed to a particular job and never venturing out on your own." "Having expectations for how a spouse, parent, or child has to be." "Only feeling happy or successful if your mate is feeling that way." "Taking orders from someone." "Allowing someone else to make decisions for you, or always asking advice before deciding." "Not doing something in front of a parent or dominant person because they wouldn't approve."
+"Feeling unable to leave the nest or leaving it with bad feelings on both sides." "Feeling required or obliged to visit, telephone, entertain, chauffeur and the like." "Asking permission of a spouse for anything, including spending money, authority to speak, or use of the car." "Invasions of privacy, such as looking through drawers and private records of children." "Falling into depression and immobilization after the death of a loved one." "Feeling committed to a particular job and never venturing out on your own." "Having expectations for how a spouse, parent, or child has to be." "Being unable to experience personal happiness when a romantic partner is not happy." "Taking orders from someone." "Allowing someone else to make decisions for you, or always asking advice before deciding." "Avoiding something in front of a parent or dominant person out of concern that they would disapprove."
 
 ### Step 4: Recognize Common Strategies for Maintaining Dominance and Control in Relationships
 
