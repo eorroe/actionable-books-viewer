@@ -2,22 +2,22 @@
 
 ## Overview
 
-Bhagavad-gita As It Is is a transcendental science of self-realization and devotional service to the Supreme Personality of Godhead, Sri Krishna. It presents the direct teachings of Krishna to Arjuna on the battlefield of Kuruksetra, covering the nature of the soul, the modes of material nature, karma-yoga (action in devotional consciousness), and the process of surrender to the Supreme Lord. The book's purpose is to deliver conditioned souls from the cycle of birth and death by establishing them in Krishna consciousness through practical, actionable spiritual principles grounded in Vedic authority and disciplic succession.
+Bhagavad-gita As It Is is a transcendental science of self-realization and devotional service to the Supreme Personality of Godhead, Sri Krishna. It presents the direct teachings of Krishna to Arjuna on the battlefield of Kuruksetra, systematically presenting teachings on the nature of the soul, the three modes of material nature, karma-yoga as action in devotional consciousness, and the process of surrendering to the Supreme Personality of Godhead, Sri Krishna. The book's purpose is to deliver conditioned souls from the cycle of birth and death by establishing them in Krishna consciousness through practical, actionable spiritual principles grounded in Vedic authority and disciplic succession.
 
 ## When to Follow Book Teachings
 
 - When facing a moral crisis or difficult decision that requires clear judgment beyond emotional attachment
-- When seeking to understand the true nature of the self beyond the material body
+- When seeking to understand the eternal, spiritual identity of the atma (soul) distinct from the temporary material body
 - When attempting to act in the world without being bound by the reactions of action
 - When experiencing restlessness, anxiety, or fear in the face of duty or conflict
 - When wanting to cultivate lasting equanimity amid success and failure, pleasure and pain
 - When seeking to transcend the three modes of material nature (goodness, passion, ignorance)
 - When looking for a bona fide spiritual master and authentic path of spiritual realization
-- When wanting to understand the proper relationship between knowledge, action, renunciation, and devotion
+- When wanting to understand the correct balance among jnana (knowledge), karma (action), sannyasa (renunciation), and bhakti (devotion)
 - When needing to distinguish between divine and demoniac qualities within oneself
-- When preparing for the moment of death and seeking a transcendental destination beyond material rebirth
+- When preparing for the time of passing from this body and seeking a transcendental destination beyond material rebirth
 - When desiring to engage all activities—work, eating, sacrifice, charity—in the service of the Supreme Lord
-- When seeking to understand the cosmic order, the role of the Supersoul, and the process of liberation
+- When seeking to understand the universal administration (cosmic order), the function of the Paramatma (Supersoul), and the path of liberation from material existence
 
 ## Lessons From Book
 
@@ -27,7 +27,7 @@ Bhagavad-gita As It Is is a transcendental science of self-realization and devot
 
 ##### Example 1: Position Yourself Between the Two Sides
 
-Before making any significant decision or taking action, place yourself in a position to see the complete picture — all parties involved, their positions, strengths, and motivations. Arjuna asked Krishna: *"Please draw my chariot between the two armies so that I may see who is present here, who is desirous of fighting, and with whom I must contend."* (Ch.1, Text 21)
+Before making any significant decision or taking action, place yourself in a position to see the complete picture — all parties involved, their positions, strengths, and motivations. Arjuna asked Krishna: *"Please draw my chariot between the two armies so that I may see who is present here, who is desirous of fighting, and with whom I must contend."* (Chapter 1, Text 21)
 
 #### Step-by-Step Instructions
 
@@ -40,17 +40,17 @@ Before making any significant decision or taking action, place yourself in a pos
 #### Best Practices
 
 - Do not act without surveying the full landscape.
-- Seek a vantage point that is impartial — not tilted toward one side.
+- Seek a vantage point that considers the interests and positions of all parties equally.
 - Gather complete intelligence before committing to a course of action.
 
 #### Keep In Mind
 
-- Acting from a partial or biased view of the situation leads to poor decisions.
+- Acting without complete information about all parties involved leads to flawed decisions.
 - Assuming you already know who is on which side without verification is dangerous.
 
 #### Security & Safety Notes
 
-- Rushing into action without seeing the human cost involved can result in irreversible harm.
+- Acting before fully assessing the consequences for all affected individuals can cause permanent damage.
 
 #### Common Pitfalls
 
@@ -59,7 +59,7 @@ Before making any significant decision or taking action, place yourself in a pos
 - **Problem:** Assuming you already know who is on which side without verification.
   **Solution:** Verify all assumptions before acting.
 - **Problem:** Rushing into action without seeing the human cost involved.
-  **Solution:** Pause to assess the full human impact before proceeding.
+   **Solution:** Pause to assess all consequences for every person and party affected before proceeding.
 
 ---
 
@@ -75,13 +75,13 @@ Strong affection for family, friends, and familiar relationships can override so
 
 1. Notice physical symptoms of emotional disturbance: trembling limbs, dry mouth, hair standing on end, bow slipping from your hand, burning skin.
 2. Acknowledge that your mind is reeling and you are foreseeing only negative outcomes.
-3. Identify that this disturbance originates from attachment to specific people involved in the situation.
+  3. Identify that the disturbance originates from attachment to particular individuals who are part of the situation.
 4. Separate emotional reaction from rational assessment of duty and responsibility.
 5. Do not let attachment alone dictate whether you fulfill your obligations.
 
 #### Best Practices
 
-- Such symptoms are not weakness but a sign of a soft heart — a characteristic of a pure, compassionate person.
+- These physical reactions reflect emotional sensitivity, not personal weakness; they indicate a person with capacity for compassion.
 - A devotee's compassion extends even to adversaries, foreseeing their imminent destruction.
 - The material mind, overpowered by attachment, loses equilibrium and sees only loss.
 
@@ -126,7 +126,7 @@ The material body is temporary and perishable, while the soul (atma) is eternal,
 #### Security & Safety Notes
 
 - Understanding that the soul cannot be killed by any material weapon (swords, fire, water, wind, or even nuclear weapons) helps avoid unnecessary fear of death.
-- The Mayavadi theory that the soul merges into impersonal Brahman after liberation is rejected — individual identity is eternal.
+- The Bhagavad-gita rejects the impersonalist view that the individual soul merges into undifferentiated Brahman after liberation — the individual soul retains its distinct, personal identity eternally and does not lose its separate existence.
 
 #### Common Pitfalls
 
@@ -143,30 +143,30 @@ The material body is temporary and perishable, while the soul (atma) is eternal,
 
 #### Examples
 
-##### Example 1: Material Kingdom vs. Eternal Relationships
+##### Example 1: Material Kingdom versus Eternal Relationships
 
 Material kingdom, wealth, bodily pleasure, and even life itself are temporary. Do not sacrifice eternal spiritual welfare, dharma, or relationships for temporary material gain. Arjuna declared: *"O Govinda, of what avail to us are kingdoms, happiness or even life itself when all those for whom we may desire them are now arrayed in this battlefield?"* (Ch.1, Text 36)
 
 #### Step-by-Step Instructions
 
 1. When evaluating a decision, list all the material gains at stake (kingdom, wealth, pleasure, victory).
-2. Identify the eternal values and relationships that would be sacrificed to obtain those gains.
-3. Weigh the temporary against the eternal — kingdoms and pleasures derived from them are not permanent.
+  2. Identify spiritual values (dharma, devotional service) and eternal relationships with the Supreme Lord that would be sacrificed to obtain those gains.
+  3. Evaluate whether material gains justify compromising spiritual welfare: material gains are temporary, while spiritual welfare is eternal.
 4. Consider the long-term spiritual consequences for yourself and your descendants.
 5. Refuse to risk eternal salvation for temporary bodily happiness.
 6. Accept that certain material losses are preferable if they preserve spiritual integrity.
 
 #### Best Practices
 
-- Make decisions based on what sustains eternal welfare, not immediate material gain.
-- Ask: "What is the real self-interest here?" — the answer is always spiritual alignment.
-- Consider consequences across generations, not just the immediate situation.
+- Make decisions based on what advances Krishna consciousness and spiritual progress, rather than immediate material benefit.
+- Ask: "What is the lasting benefit for the eternal soul?" — the answer is always alignment with spiritual principles.
+- Consider the spiritual impact on future generations of your family and society, not only the immediate outcome.
 
 #### Common Pitfalls
 
 - **Problem:** Greed for kingdom, wealth, or power overriding moral and spiritual considerations.
   **Solution:** Weigh material gains against eternal values before committing.
-- **Problem:** Believing that victory in a material conflict justifies any means.
+- **Problem:** Believing that achieving material victory through unethical or spiritually compromising actions.
   **Solution:** Remember that all material acquisitions are impermanent; eternal values transcend them.
 - **Problem:** Forgetting that all material acquisitions are impermanent.
   **Solution:** Cultivate detachment by regularly contemplating the temporary nature of all material things.
@@ -179,11 +179,11 @@ Material kingdom, wealth, bodily pleasure, and even life itself are temporary. D
 
 ##### Example 1: The Warrior's Duty
 
-You have a right to perform your prescribed duty, but you are not entitled to the fruits of action. Never consider yourself the cause of results, and never be attached to inaction. A ksatriya's (warrior's) duty is to fight on religious principles when necessary; nonviolence in such contexts is cowardice, not virtue. (Ch.2)
+You have a right to perform your prescribed duty, but you are not entitled to the fruits of action. Never consider yourself the cause of results, and never be attached to inaction. A ksatriya's (warrior's) duty is to fight on religious principles when duty calls; nonviolence in such contexts is cowardice, not virtue. (Ch.2)
 
 #### Step-by-Step Instructions
 
-1. Identify your specific duty (svadharma) based on your position and nature.
+  1. Identify your prescribed duty (svadharma) — the specific responsibilities appropriate to your position in life and your innate nature.
 2. Perform the duty with full dedication and determination.
 3. Do not be attached to success or failure, victory or defeat.
 4. Act for the sake of the Supreme (Krishna consciousness), not for personal sense gratification.
@@ -191,14 +191,14 @@ You have a right to perform your prescribed duty, but you are not entitled to th
 
 #### Best Practices
 
-- Abandoning prescribed duty out of false compassion leads to sin and loss of reputation.
+- Abandoning one's prescribed duty out of misplaced compassion results in spiritual regression and loss of social standing.
 - For a respectable person, ill fame is worse than death.
 - Nonperformance of prescribed duty causes bondage; even attachment to the idea of "not doing" is still attachment.
 - Work for the satisfaction of Krishna, not for personal sense gratification.
 
 #### Security & Safety Notes
 
-- Fighting for a religious cause is not violence at all because the soul cannot be killed.
+- Fighting in defense of dharma (righteousness and spiritual principles) is not ordinary violence, because the soul cannot be killed.
 - A surgical operation is not meant to kill the patient, but to cure him — similarly, fighting for the cause of religion purifies.
 
 #### Common Pitfalls
@@ -218,11 +218,11 @@ You have a right to perform your prescribed duty, but you are not entitled to th
 
 ##### Example 1: The Parampara Chain
 
-Genuine spiritual and practical knowledge is received through a recognized line of teachers (guru-parampara), not through self-interested or motivated personal interpretation. The supreme science was originally spoken by the Supreme Lord to Vivasvan (the sun-god). Vivasvan spoke it to Manu, and Manu to Iksvaku, creating a disciplic chain. If someone is fortunate enough to understand Bhagavad-gita in that line of disciplic succession, without motivated interpretation, then he surpasses all studies of Vedic wisdom. (Ch.4)
+Genuine spiritual and practical knowledge is received through an authorized lineage of teachers (guru-parampara) — an unbroken chain of disciplic succession. The supreme science was originally spoken by the Supreme Lord to Vivasvan (the sun-god). Vivasvan spoke it to Manu, and Manu to Iksvaku, creating a disciplic chain. One who receives Bhagavad-gita through this authorized lineage, without personal motivated interpretation, attains the highest understanding that exceeds mere scholarly study of Vedic literature. (Ch.4)
 
 #### Step-by-Step Instructions
 
-1. Seek out a qualified teacher who is a genuine devotee of the Lord and established in the knowledge being sought.
+  1. Seek a teacher who is a pure devotee of Krishna and who has mastered the teachings of Bhagavad-gita through authorized study.
 2. Study the teachings with the guidance of that teacher — do not impose your own motivations onto the text.
 3. Understand the teaching as it was understood by Arjuna, who heard directly from the Lord — this represents the standard of correct understanding.
 4. Follow the line of disciplic succession when interpreting teachings.
@@ -231,7 +231,7 @@ Genuine spiritual and practical knowledge is received through a recognized line 
 
 #### Best Practices
 
-- Study under a qualified, realized teacher.
+- Study under a teacher who is authorized in the disciplic succession and who has personally realized the teachings through devotional practice.
 - Cross-reference understanding with the traditional disciplic succession.
 - Avoid using sacred texts to justify pre-existing personal agendas.
 - A book accepted as it is through parampara is a great boon; treated as philosophical speculation, it wastes time.
@@ -253,11 +253,11 @@ Genuine spiritual and practical knowledge is received through a recognized line 
 
 ##### Example 1: The Steady Mind in All Seasons
 
-The person who is not disturbed by happiness and distress, who is steady in both, is eligible for liberation. Happiness and distress are temporary, like winter and summer seasons. One has to tolerate them without being disturbed. (Ch.2)
+The person who remains undisturbed by happiness and distress attains the qualification for liberation from material existence. Happiness and distress are temporary conditions that arise and pass, just as seasonal weather changes. One has to tolerate them without being disturbed. (Ch.2)
 
 #### Step-by-Step Instructions
 
-1. Recognize that happiness and distress are temporary, like winter and summer seasons.
+  1. Recognize that happiness and distress are temporary conditions that arise and pass, just as seasonal weather changes.
 2. Learn to tolerate them without being disturbed.
 3. Do not be elated when happy, and do not lament when distressed.
 4. Be free from attachment, fear, and anger.
@@ -266,18 +266,18 @@ The person who is not disturbed by happiness and distress, who is steady in both
 #### Best Practices
 
 - A person fixed in Krsna consciousness is like the ocean — always full in himself, undisturbed by the incessant flow of desires entering like rivers.
-- The self-controlled sage considers the time of awakening for all beings as night for himself, and the night of all beings as his time of awakening.
+- The self-controlled sage regards the time when ordinary beings engage in material activity as his period of spiritual rest, and the time when ordinary beings rest as his opportunity for spiritual engagement.
 
 #### Keep In Mind
 
-- One cannot achieve equanimity by artificial sense restriction alone — it must be rooted in Krsna consciousness.
+- Equanimity cannot be produced by forced suppression of the senses; it must be founded on genuine Krishna consciousness.
 - Being affected by dualities (happiness/distress, heat/cold) shows lack of transcendental intelligence.
 
 #### Common Pitfalls
 
 - **Problem:** Being elated by happiness and devastated by distress.
   **Solution:** Treat both as temporary; fix your mind on the eternal through devotional practice.
-- **Problem:** Trying to achieve equanimity by artificial sense restriction alone.
+- **Problem:** Trying to force equanimity by mechanically suppressing natural desires without devotional engagement.
   **Solution:** Root equanimity in Krishna consciousness, not in suppression of feelings.
 - **Problem:** Forgetting that all material dualities are temporary.
   **Solution:** Meditate on the eternal soul and its relationship with the Supreme Lord.
@@ -294,8 +294,8 @@ In every step of life there is perplexity. One must approach a bona fide spiritu
 
 #### Step-by-Step Instructions
 
-1. Recognize that by nature's own way, the complete system of material activities is a source of perplexity for everyone.
-2. Understand that one who does not solve the problems of life as a human and quits this world without understanding self-realization is a miser.
+  1. Recognize that by nature's own way, the entire material world and its activities naturally create confusion for all living beings.
+  2. Understand that one who fails to seek self-realization during human life and dies without understanding the purpose of existence is spiritually impoverished.
 3. Approach a spiritual master who is in the disciplic succession (parampara).
 4. Submit yourself as a disciple: "Now I am Your disciple, and a soul surrendered unto You. Please instruct me."
 5. Accept the instructions of the spiritual master as one's mission in life.
@@ -303,13 +303,13 @@ In every step of life there is perplexity. One must approach a bona fide spiritu
 
 #### Best Practices
 
-- It does not matter whether a person is a learned scholar (vipra) or born in a lower family or is in the renounced order — if he is master in the science of Krsna, he is the perfect and bona fide spiritual master.
-- A scholarly brahmana is unfit to become a spiritual master without being a Vaisnava (expert in Krishna consciousness).
+- It does not matter whether a person is a learned scholar (vipra) or born in a lower family or is in the renounced order — if he has fully mastered the science of Krishna consciousness through practice and realization, he qualifies as a bona fide spiritual master.
+- A person who has merely academic brahminical learning, without being a practitioner of Krishna consciousness, is not qualified to be a spiritual master.
 
 #### Keep In Mind
 
 - Academic knowledge, scholarship, high position, and comparable material achievements such as wealth, fame, and prestige are all useless in solving the problems of life.
-- Help can only be given by a spiritual master who is one hundred percent Krishna conscious.
+- Effective spiritual guidance can come only from a master who is fully absorbed in Krishna consciousness.
 - One should not remain in material perplexities but should approach a spiritual master.
 
 #### Common Pitfalls
@@ -317,7 +317,7 @@ In every step of life there is perplexity. One must approach a bona fide spiritu
 - **Problem:** Seeking a spiritual master based on academic credentials rather than devotional realization.
   **Solution:** Look for one who is a genuine devotee of the Lord and established in Krishna consciousness.
 - **Problem:** Approaching without humility or a desire to learn.
-  **Solution:** Approach with full surrender (pranipatena), submissive inquiry (pariprasnena), and service (sevaya).
+   **Solution:** Approach with full surrender (pranipatena — falling at the master's feet in humility), submissive inquiry (pariprasnena — asking questions with a receptive mind), and service (sevaya — rendering practical service).
 - **Problem:** Remaining in material perplexities without seeking help.
   **Solution:** Recognize the futility of trying to solve life's problems independently; approach a spiritual master.
 
@@ -329,11 +329,11 @@ In every step of life there is perplexity. One must approach a bona fide spiritu
 
 ##### Example 1: The Tortoise Withdrawing Its Limbs
 
-The senses can be controlled only by engaging them in the transcendental loving service of the Lord. Restriction alone is not sufficient. Withdraw the senses from sense objects, as the tortoise draws its limbs within the shell. Engage the mind in the service of the lotus feet of Lord Krishna. (Ch.2)
+The senses can be controlled only by engaging them in bhakti-yoga — devotional service to the Supreme Lord. Restriction alone is not sufficient. Withdraw the senses from sense objects, as the tortoise draws its limbs within the shell. Engage the mind in the service of the lotus feet of Lord Krishna. (Ch.2)
 
 #### Step-by-Step Instructions
 
-1. Understand that the senses are like venomous serpents that want to act very loosely.
+  1. Understand that the uncontrolled senses are dangerous, like untrained venomous serpents, because they lead one into degrading activities.
 2. Withdraw the senses from sense objects, as the tortoise draws its limbs within the shell.
 3. Engage the mind in the service of the lotus feet of Lord Krishna.
 4. Engage every sense in the service of the Lord:
@@ -351,24 +351,24 @@ The senses can be controlled only by engaging them in the transcendental loving 
 
 #### Best Practices
 
-- Maharaja Ambarisa conquered even the great yogi Durvasa Muni simply because his mind was engaged in Krishna consciousness.
-- Sri Yamunacarya states that since his mind has been engaged in the service of the lotus feet of Lord Krishna, whenever he thinks of sex life with a woman, his face at once turns from it, and he spits at the thought.
+- Maharaja Ambarisa, through his pure devotional service, gained the respect and favor of the powerful yogi Durvasa Muni simply because his mind was engaged in Krishna consciousness.
+- The great devotee Sri Yamunacarya testified that once his mind was absorbed in Krishna's lotus feet, thoughts of material sense pleasure immediately became repugnant to him.
 - The senses of the Krishna conscious person are used only for particular purposes in the service of the Lord and are withdrawn otherwise.
 
 #### Keep In Mind
 
-- Unless one is transcendentally situated, it is not possible to cease from sense enjoyment.
-- The process of restriction by rules and regulations is like restricting a diseased person from certain types of eatables — the patient neither likes such restrictions nor loses his taste.
-- Restriction is recommended for less intelligent persons who have no better knowledge.
+- Unless one is elevated to the transcendental platform of Krishna consciousness, complete cessation of sense enjoyment is not possible.
+- Mechanical sense restriction by rules alone is like putting a sick person on a diet the patient dislikes — it does not cure the disease of desire.
+- The text recommends restriction for less intelligent persons who have no better knowledge.
 
 #### Common Pitfalls
 
-- **Problem:** Restraining the senses while the mind dwells on sense objects.
+- **Problem:** Physically restraining the senses while mentally remaining absorbed in thoughts of sense gratification.
   **Solution:** Engage the mind fully in Krishna consciousness; this is the true control of senses.
-- **Problem:** Artificial sense control without Krishna consciousness leads to eventual failure.
+- **Problem:** Artificial sense control without Krishna consciousness leads to certain failure.
   **Solution:** Replace lower taste with higher taste through devotional engagement.
 - **Problem:** Believing that restriction alone is sufficient for spiritual progress.
-  **Solution:** Restriction without positive devotional engagement is temporary and ineffective.
+   **Solution:** Suppression of the senses without replacing that engagement with higher devotional activity is temporary and will ultimately fail.
 
 ---
 
@@ -378,12 +378,12 @@ The senses can be controlled only by engaging them in the transcendental loving 
 
 ##### Example 1: The Progressive Fall From Contemplation
 
-Contemplating sense objects leads to attachment, which leads to lust, which leads to anger, which leads to delusion, which leads to loss of memory, which leads to loss of intelligence, and ultimately to falling back into the material pool. Lord Siva was deep in meditation, but when Parvati agitated him for sense pleasure, he agreed, resulting in the birth of Kartikeya. Haridasa Thakura was allured by the incarnation of Maya-devi, but easily passed the test because of his unalloyed devotion to Lord Krishna. (Ch.2)
+Contemplating sense objects leads to attachment, which leads to lust, which leads to anger, which leads to delusion, which leads to loss of memory, which leads to loss of intelligence, and ultimately to falling back into the cycle of repeated birth and death in material existence. Lord Siva was deep in meditation, but when Parvati requested him for marital union and sense pleasure, he agreed, resulting in the birth of Kartikeya. Haridasa Thakura was allured by the material energy personified as a beautiful woman who tested Haridasa Thakura, but easily passed the test because of his unalloyed devotion to Lord Krishna. (Ch.2)
 
 #### Step-by-Step Instructions
 
-1. Avoid contemplating sense objects.
-2. Do not develop attachment for sense objects.
+  1. Redirect the mind away from prolonged thoughts of material sense objects.
+  2. Prevent fondness for material sense objects from taking root in the heart.
 3. Prevent lust from developing.
 4. Do not allow anger to arise.
 5. Avoid delusion and bewilderment of memory.
@@ -392,9 +392,9 @@ Contemplating sense objects leads to attachment, which leads to lust, which lead
 
 #### Best Practices
 
-- Chanting the holy names of the Lord is the best process to cleanse the mirror of the mind.
-- One who is not Krishna conscious is subjected to material desires while contemplating the objects of the senses.
-- The senses require real engagements, and if they are not engaged in transcendental loving service of the Lord, they will certainly seek engagement in materialism.
+- Chanting the holy names of the Lord is the most effective method for purifying the consciousness and removing material contamination.
+- A person who is not absorbed in Krishna consciousness remains under the domination of material desires while contemplating the objects of the senses.
+- The senses must be engaged in genuine spiritual activity; if they are not employed in devotional service to the Lord, they will inevitably become absorbed in material pursuits.
 
 #### Keep In Mind
 
@@ -430,14 +430,14 @@ The Vedas primarily deal with the three modes of material nature. One must rise 
 
 #### Best Practices
 
-- One who knows the purpose of the Vedas does not get bewildered by flowery language recommending fruitive activities for heavenly planets.
-- In Kali-yuga, the best purpose of Vedanta philosophy is served by inoffensively chanting the holy name of the Lord.
-- Bhakti-yoga is the process that at once surmounts the influence of the three modes.
+- One who knows the purpose of the Vedas does not get bewildered by elaborate, ritualistic descriptions recommending fruitive activities for heavenly planets.
+- In Kali-yuga, the primary purpose of Vedanta philosophy is served by inoffensively chanting the holy name of the Lord.
+- Bhakti-yoga is the process that immediately upon sincere practice surmounts the influence of the three modes.
 
 #### Keep In Mind
 
 - All modes of material nature are binding; none are sources of liberation.
-- One who cannot elevate himself beyond the impersonal conception of Brahman runs the risk of falling down.
+- One who cannot elevate himself beyond the impersonal conception of Brahman runs the risk of losing spiritual advancement and returning to material consciousness.
 
 #### Common Pitfalls
 
@@ -456,7 +456,7 @@ The Vedas primarily deal with the three modes of material nature. One must rise 
 
 ##### Example 1: The Twenty-Six Divine Qualities
 
-There are twenty-six divine (transcendental) qualities: fearlessness, purity, spiritual knowledge, charity, self-control, sacrifice, study of Vedas, austerity, simplicity, nonviolence, truthfulness, freedom from anger, renunciation, tranquility, aversion to fault-finding, compassion, freedom from greed, gentleness, modesty, steady determination, vigor, forgiveness, fortitude, cleanliness, freedom from envy, and not expecting unnecessary honor. (Ch.16)
+There are twenty-six divine (transcendental) qualities: fearlessness, purity, spiritual knowledge, charity, self-control, sacrifice, study of Vedas, austerity, simplicity, nonviolence, truthfulness, freedom from anger, renunciation, tranquility, aversion to fault-finding, compassion, freedom from greed, gentleness, modesty, steady determination, vigor, forgiveness, fortitude, cleanliness, freedom from envy, and not seeking honor from others. (Ch.16)
 
 ##### Example 2: The Six Demoniac Qualities to Avoid
 
@@ -465,10 +465,10 @@ There are six demoniac qualities: arrogance, pride, conceit, anger, harshness, a
 #### Step-by-Step Instructions
 
 1. Develop fearlessness by cultivating firm conviction that the Supreme Lord (Krishna/Paramatma) is always within you.
-2. Purify your existence through appropriate rules and regulations for your status of life.
+2. Purify your existence through scriptural rules and regulations prescribed for your status of life.
 3. Practice self-control (dama) over the mind and senses.
 4. Practice charity, especially by spending resources to propagate divine consciousness.
-5. Perform sacrifice (yajna) as appropriate for your means and stage of life.
+5. Perform sacrifice (yajna) according to scriptural rules and your capacity.
 6. Study Vedic literature (svadhyayah) and practice austerity (tapah) and simplicity (arjavam).
 7. Practice nonviolence (ahimsa) — do not arrest the progressive life of any living entity.
 8. Practice truthfulness (satyam) without distorting truth for personal interest.
@@ -476,14 +476,14 @@ There are six demoniac qualities: arrogance, pride, conceit, anger, harshness, a
 10. Show compassion (daya) toward all living entities and practice freedom from greed (aloluptvam).
 11. Cultivate gentleness (mardavam), modesty (hrih), and steady determination (acapalam).
 12. Maintain cleanliness (saucam) both externally and internally.
-13. Practice freedom from envy (adrohah) and do not expect unnecessary honor (na ati-manita).
+13. Practice freedom from envy (adrohah) and do not seek honor from others (na ati-manita).
 14. Avoid arrogance (dambhah), pride (darpah), conceit (abhimanah), anger (krodhah), harshness (parusyam), and ignorance (ajnanam).
 15. Follow scriptural injunctions (sastra-vidhi) rather than acting whimsically.
 
 #### Best Practices
 
-- Charity should be given to the right receiver — institutional societies propagating divine consciousness.
-- For sudras (worker class): maintain your status without false prestige, offer respect to higher classes.
+- Give charity to the right receiver — authorized Krishna consciousness organizations propagating divine consciousness.
+- For those in the sudra occupational classification (worker class, based on qualities and work, not birth): maintain your status without material self-importance, offer respect to those with spiritual and intellectual qualification.
 - All classes should cultivate these qualities regardless of material conditions.
 
 #### Keep In Mind
@@ -509,7 +509,7 @@ There are six demoniac qualities: arrogance, pride, conceit, anger, harshness, a
 
 ##### Example 1: The Nine Processes of Devotional Service
 
-Devotional service to the Lord is very simple and should be practiced in the association of devotees under the influence of the spiritual master. It consists of nine processes: (1) hearing about Krishna (sravanam), (2) chanting the names of Krishna (kirtanam), (3) remembering Krishna (visnoh smaranam), (4) worshiping Krishna (pada-sevanam), (5) serving the lotus feet of the Lord (arcanam), (6) offering prayers to Krishna (vandanam), (7) carrying out the orders of the Lord (dasyam), (8) making friends with Krishna (sakhyam), and (9) surrendering everything to Him (atma-nivedanam). (Ch.9, Ch.12)
+Devotional service to the Lord is very simple; practice it in the association of devotees under the guidance of the spiritual master. It consists of nine processes: (1) hearing about Krishna (sravanam), (2) chanting the names of Krishna (kirtanam), (3) remembering Krishna (visnoh smaranam), (4) worshiping Krishna (pada-sevanam), (5) serving the lotus feet of the Lord (arcanam), (6) offering prayers to Krishna (vandanam), (7) carrying out the orders of the Lord (dasyam), (8) making friends with Krishna (sakhyam), and (9) surrendering everything to Him (atma-nivedanam). (Ch.9, Ch.12)
 
 #### Step-by-Step Instructions
 
@@ -530,21 +530,21 @@ Devotional service to the Lord is very simple and should be practiced in the ass
 
 - By practicing these nine elements, one is elevated to spiritual consciousness (Krishna consciousness).
 - Bhakti-yoga is very simple, pure, and easy to perform; begin by chanting Hare Krishna.
-- Even those who cannot directly practice devotional activities can rise to a higher state by contributing land, capital, organization, or labor to support devotional activities.
+- Even those who cannot directly practice devotional activities can advance spiritually in Krishna consciousness by contributing land, capital, organization, or labor to support the Krishna consciousness movement.
 - Devotional service removes the material desire to dominate and firmly situates one in the Lord's transcendental loving service.
 
 #### Keep In Mind
 
-- Devotional service is the king of all education and confidential knowledge — it is the purest form of religion and can be executed joyfully without difficulty.
+- Devotional service is the supreme form of education and knowledge revealed only to qualified devotees — it is the most spiritually beneficial form of religion and can be executed joyfully without difficulty.
 - No one can understand the Supreme Personality of Godhead independently through other yogic processes.
 - One who engages in devotional service in full Krishna consciousness has no need for any other spiritual process — he has already come to the point.
-- The devotional service seed sown in the heart fructifies with regular hearing and chanting.
+- The devotional service initiated in the heart fructifies with regular hearing and chanting.
 
 #### Common Pitfalls
 
-- **Problem:** Mixing devotional service with fruitive activities or speculative knowledge.
+- **Problem:** Mixing devotional service with actions performed for material gain or philosophical speculation without devotional practice.
   **Solution:** Practice ananyaya bhakti — unmixed, undivided devotional service to Krishna alone.
-- **Problem:** Trying to understand the Absolute Truth by mere academic Vedic study without devotional service.
+- **Problem:** Trying to understand the Absolute Truth by intellectual Vedic study alone, without devotional practice.
   **Solution:** Approach a pure devotee and hear the Gita in the association of devotees.
 - **Problem:** Thinking the impersonal Brahman is the Absolute Truth and Krishna's personal form is a material product.
   **Solution:** Accept that Krishna is the Supreme Personality of Godhead, sac-cid-ananda-vigraha.
@@ -557,20 +557,20 @@ Devotional service to the Lord is very simple and should be practiced in the ass
 
 ##### Example 1: Maharaja Kulasekhara's Prayer
 
-Remember Krishna at the time of death. Maharaja Kulasekhara prayed to die immediately while healthy so his mind could enter the lotus feet of the Lord before the throat became choked at death. Whatever state of being one remembers when he quits his body, that state he will attain without fail. (Ch.8)
+Remember Krishna at the time of death. Maharaja Kulasekhara prayed to die immediately while healthy so his mind could attain Krishna consciousness — entering the lotus feet of the Lord at the time of death — before the throat became choked at death. Whatever state of being one remembers when he quits his body, that state he will attain without fail. (Ch.8)
 
 #### Step-by-Step Instructions
 
 1. Chant the Hare Krishna maha-mantra incessantly: Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare / Hare Rama, Hare Rama, Rama Rama, Hare Hare.
 2. Cultivate tolerance greater than a tree and humility greater than grass.
 3. Offer all respect to others without demanding respect in return.
-4. Constantly concentrate your mind on the Supreme Self.
-5. Fix your life air between the eyebrows at the time of death, if you have practiced yoga.
+4. Constantly concentrate your mind on the Supreme Personality of Godhead (Krishna).
+5. Fix your consciousness between the eyebrows at the time of death, if you have practiced yoga.
 6. Vibrate the sacred syllable om and remember the Supreme Personality of Godhead while quitting the body.
 
 #### Best Practices
 
-- If one always fixes the mind on Krishna in devotional service, it is very easy to remain in undisturbed transcendental trance (samadhi).
+- If one always fixes the mind on Krishna in devotional service, one can steadily maintain undisturbed transcendental trance (samadhi).
 - For a pure devotee who does not practice hatha-yoga, always fixing the mind on Krishna in devotional service suffices.
 - The best way to be absorbed in Krishna consciousness is to be always engaged in His service.
 
@@ -584,9 +584,9 @@ Remember Krishna at the time of death. Maharaja Kulasekhara prayed to die immedi
 - **Problem:** Trying to suddenly remember the Supreme at death without prior practice.
   **Solution:** Establish constant practice of Krishna consciousness throughout life.
 - **Problem:** Allowing material thoughts to dominate, which determines a material next birth.
-  **Solution:** Chant Hare Krishna as the best process for successfully changing one's state of being to transcendental life.
+  **Solution:** Chant Hare Krishna as the most effective process recommended in Kali-yuga for successfully changing one's state of being to transcendental life.
 - **Problem:** Thinking that only advanced yogis can attain the supreme at death.
-  **Solution:** A pure devotee who always fixes the mind on Krishna easily transcends the paths of light and darkness.
+  **Solution:** A pure devotee who always fixes the mind on Krishna easily transcends the paths of the bright and dark lunar fortnights.
 
 ---
 
@@ -596,7 +596,7 @@ Remember Krishna at the time of death. Maharaja Kulasekhara prayed to die immedi
 
 ##### Example 1: All Aspects of Life Offered as Sacrifice
 
-All aspects of life — actions, senses, vital air, possessions — should be offered as sacrifice (yajna) to the Supreme Lord. Whatever you do, do it as an offering unto Krishna. Whatever you eat, accept it as remnants offered to Krishna. Whatever religious ritualistic ceremonies you perform, do them for Krishna. Whatever you give away in charity, give it to Krishna. Whatever austerities you perform, do them as offering unto Krishna. (Ch.3, Ch.9)
+Offer all aspects of life — actions, senses, life force, possessions — as sacrifice (yajna) to the Supreme Lord. Whatever you do, do it as an offering unto Krishna. Whatever you eat, accept it as remnants offered to Krishna. Whatever religious ritualistic ceremonies you perform, do them for Krishna. Whatever you give away in charity, give it to Krishna. Whatever austerities you perform, do them as offering unto Krishna. (Ch.3, Ch.9)
 
 #### Step-by-Step Instructions
 
@@ -605,22 +605,22 @@ All aspects of life — actions, senses, vital air, possessions — should be of
 3. Perform duties under the expert guidance of a devotee of the Lord or under the direct instruction of the Lord.
 4. Whatever you do, do it as an offering unto Krishna.
 5. Whatever religious ritualistic ceremonies you perform, do them for Krishna (arcana).
-6. Whatever you give away in charity, give it to Krishna (utilize surplus money for Krishna consciousness movement).
+6. Whatever you give away in charity, give it to Krishna (utilize money beyond basic necessities for the Krishna consciousness movement).
 7. Whatever austerities you perform, do them as offering unto Krishna.
 8. Chant the Hare Krishna mantra round your beads twenty-four hours.
-9. Give fifty percent of earnings to a good cause engaged in Krishna consciousness.
+9. Give fifty percent of your income after covering basic living costs to the Krishna consciousness movement or authorized Krishna consciousness organizations.
 
 #### Best Practices
 
 - In the Age of Kali, sankirtana-yajna (chanting the holy names of God) is the recommended sacrifice.
 - Food offered to the Lord and then taken makes one sufficiently resistant to material affection.
-- One who does not eat prasadam continues to increase the volume of sinful action.
+- One who does not eat prasadam continues to accrue karmic reactions from unauthorized action.
 - All work done in Krishna consciousness is technically a sacrifice because sacrifice involves satisfying the Supreme Person.
 
 #### Keep In Mind
 
 - All sacrificial performances are meant for the satisfaction of Lord Vishnu.
-- When yajnas are perfectly performed, naturally the demigods in charge of different departments of supply are pleased, and there is no scarcity in the supply of natural products.
+- When yajnas are perfectly performed, naturally the natural forces governing cosmic supply are pleased, and there is no scarcity in the supply of natural products.
 - Anyone who has completely surrendered unto Krishna, giving up all other duties, is no longer a debtor to anyone.
 
 #### Common Pitfalls
@@ -628,9 +628,9 @@ All aspects of life — actions, senses, vital air, possessions — should be of
 - **Problem:** Eating food prepared for personal sense gratification without offering to the Lord.
   **Solution:** Offer all food to Krishna before eating; accept only remnants (prasadam).
 - **Problem:** Performing charity without spiritual objective, making it material.
-  **Solution:** Give to persons or causes engaged in Krishna consciousness — this is the best cause.
+  **Solution:** Give to persons or causes engaged in Krishna consciousness — this is the most spiritually beneficial cause.
 - **Problem:** Sacrificing possessions without dovetailing for spiritual realization.
-  **Solution:** Dovetail everything with Krishna immediately upon possession.
+  **Solution:** Connect material possessions to spiritual purposes as soon as you acquire them.
 
 ---
 
@@ -640,7 +640,7 @@ All aspects of life — actions, senses, vital air, possessions — should be of
 
 ##### Example 1: Arjuna as Instrument
 
-The entire cosmic manifestation moves according to the Supreme Lord's plan — there is no randomness or accident. Krishna told Arjuna that all the great warriors were already destroyed by His arrangement; Arjuna was simply to become the instrument. Therefore get up and prepare to fight. (Ch.11)
+The entire cosmic manifestation moves according to the Supreme Lord's plan — there is no randomness or accident. Krishna told Arjuna that all the great warriors were already destroyed by His arrangement; Arjuna was simply to become the instrument. Krishna told Arjuna: "Therefore get up and prepare to fight." (Ch.11)
 
 #### Step-by-Step Instructions
 
@@ -648,7 +648,7 @@ The entire cosmic manifestation moves according to the Supreme Lord's plan — t
 2. Perform your prescribed duty (dharma) as an instrument of the Supreme Lord's plan.
 3. Do not be disturbed by the outcome — know that the Lord has already arranged everything.
 4. Act while keeping the Supreme Lord in consciousness.
-5. Know that the plans of devotees are as good as the Lord's plans.
+5. Know that plans made by devotees under the Lord's guidance are aligned with the Lord's plan.
 
 #### Best Practices
 
@@ -673,20 +673,20 @@ The entire cosmic manifestation moves according to the Supreme Lord's plan — t
 
 ---
 
-### Lesson 17: Know the Six Categories of Aggressors Who May Be Lawfully Dealt With
+### Lesson 17: Know the Six Categories of Aggressors Who Must Be Lawfully Dealt With
 
 #### Examples
 
 ##### Example 1: The Six Categories of Aggressors
 
-There are specific, well-defined categories of aggressors whose actions justify defensive or punitive measures, including up to the use of force. According to Vedic injunctions there are six kinds of aggressors: (1) a poison giver, (2) one who sets fire to the house, (3) one who attacks with deadly weapons, (4) one who plunders riches, (5) one who occupies another's land, and (6) one who kidnaps a wife. Such aggressors are at once to be killed, and no sin is incurred by killing such aggressors. (Ch.1, Purport to Text 36)
+There are specific, well-defined categories of aggressors whose actions justify defensive or punitive measures, including up to the use of force. According to Vedic injunctions there are six kinds of aggressors: (1) a poison giver, (2) one who sets fire to the house, (3) one who attacks with deadly weapons, (4) one who plunders riches, (5) one who occupies another's land, and (6) one who kidnaps a wife. Authorized administrators must immediately remove such aggressors, and no sin is incurred by killing such aggressors. (Ch.1, Purport to Text 36)
 
 #### Step-by-Step Instructions
 
 1. Memorize the six categories of aggressors as defined in Vedic injunctions.
 2. Recognize that killing such aggressors incurs no sin.
 3. Understand that a responsible administrator (ksatriya) is obligated to act against aggressors.
-4. Apply this framework without cowardice but with a clear distinction between external aggressors and close family members.
+4. Apply this framework without cowardice but with specific criteria for distinguishing external aggressors from close family members in conflict situations.
 
 #### Best Practices
 
@@ -717,7 +717,7 @@ There are specific, well-defined categories of aggressors whose actions justify 
 
 ##### Example 1: Arjuna as Gudakesa — Conqueror of Sleep
 
-Through constant remembrance and association with the divine, one can conquer both material restlessness and spiritual ignorance — what is called Krishna consciousness or samadhi. Arjuna is called Gudakesa — "conqueror of sleep" — because as a devotee, he could not forget Krishna even for a moment, in waking or in sleep. As a great devotee of Krishna, he could not forget Krishna even for a moment, because that is the nature of a devotee. Either in waking or in sleep, a devotee of the Lord can never be free from thinking of Krishna's name, form, qualities and pastimes. Thus a devotee of Krishna can conquer both sleep and ignorance simply by thinking of Krishna constantly. This is called Krishna consciousness, or samadhi. (Ch.1, Purport to Text 24)
+Through constant remembrance and association with the divine, one can conquer both material restlessness and spiritual ignorance — what is called Krishna consciousness or samadhi. Arjuna is called Gudakesa — "conqueror of sleep" — because as a devotee, he could not forget Krishna even for a moment, in waking or in sleep. Because that is the nature of a devotee, a great devotee of Krishna can never be free from thinking of Krishna's name, form, qualities and pastimes. Either in waking or in sleep, a devotee of the Lord is never free from thinking of Krishna. Thus a devotee of Krishna can conquer both sleep and ignorance simply by thinking of Krishna constantly. This is called Krishna consciousness, or samadhi. (Ch.1, Purport to Text 24)
 
 #### Step-by-Step Instructions
 
@@ -725,7 +725,7 @@ Through constant remembrance and association with the divine, one can conquer bo
 2. Maintain this remembrance in both waking and sleeping states; do not allow the mind to drift away.
 3. Understand that such constant remembrance conquers sleep (nidra) — the tendency toward laziness and inattention.
 4. Understand that such remembrance also conquers ignorance (ajnana) — the illusion of material existence.
-5. Accept that this state — Krishna consciousness, or samadhi — is the platform from which all right decisions are made.
+5. Accept that this state — Krishna consciousness, or samadhi — is the platform from which all spiritually beneficial decisions are made.
 
 #### Best Practices
 
@@ -755,7 +755,7 @@ Through constant remembrance and association with the divine, one can conquer bo
 
 ##### Example 1: Lord Rama and Ravana
 
-A spiritually mature person can engage in necessary conflict without personal malice, cowardice, or desire for revenge. Fighting when required is compatible with saintliness. For example, Lord Rama was so saintly that people were anxious to live in His kingdom (rama-rajya), but Lord Rama never showed any cowardice. Ravana was an aggressor against Rama because he kidnapped Rama's wife, Sita, but Lord Rama gave him sufficient lessons, unparalleled in the history of the world. The devotee of the Lord does not retaliate against the wrongdoer, but the Lord does not tolerate any mischief done to the devotee. (Ch.1, Purport to Text 36)
+A spiritually mature person can engage in necessary conflict without personal malice, cowardice, or desire for revenge. Fighting when required is compatible with saintliness. For example, Lord Rama was so saintly that people were anxious to live in His kingdom (rama-rajya), but Lord Rama never showed any cowardice. Ravana was an aggressor against Rama because he kidnapped Rama's wife, Sita, but Lord Rama taught him lessons about dharma and Krishna consciousness, a confrontation whose spiritual significance is unique in scriptural tradition. The devotee of the Lord does not retaliate against the wrongdoer, but the Lord does not tolerate any mischief done to the devotee. (Ch.1, Purport to Text 36)
 
 #### Step-by-Step Instructions
 
@@ -793,23 +793,23 @@ A spiritually mature person can engage in necessary conflict without personal ma
 
 ##### Example 1: The Regulated Life of the Yogi
 
-One who eats too much or too little, who sleeps too much or too little, cannot attain success in yoga practice. Eat moderately — not too much, not too little. Sleep moderately — not too much, not too little (no more than six hours). Work in a regulated way. Recreate in a regulated way. The best food is remnants offered to Krishna (prasadam). Simple food — grains, vegetables, fruits, milk — is in the mode of goodness. (Ch.6)
+One who eats too much or too little, who sleeps too much or too little, cannot attain success in yoga practice. Eat moderately — eat only what is needed to sustain the body (eat until three-quarters full). Sleep moderately — not too much, not too little (no more than six hours). Work with spiritual purpose. Recreate in activities that promote spiritual consciousness. The most spiritually beneficial food is remnants offered to Krishna (prasadam). Simple food — grains, vegetables, fruits, milk — promotes clarity, health, and spiritual awareness, and is therefore in the mode of goodness. (Ch.6)
 
 #### Step-by-Step Instructions
 
-1. Eat moderately — not too much, not too little.
-2. Sleep moderately — not too much, not too little (no more than six hours).
-3. Work in a regulated way.
-4. Recreate in a regulated way.
+1. Eat moderately — eat only what is needed to sustain the body (eat until three-quarters full).
+2. Sleep moderately — not too much, not too little (at least five hours and no more than six hours).
+3. Work with spiritual purpose.
+4. Recreate in activities that promote spiritual consciousness.
 5. Eat only remnants offered to Krishna (prasadam).
-6. Choose simple food — grains, vegetables, fruits, milk — that is in the mode of goodness.
+6. Choose simple food — grains, vegetables, fruits, milk — that promotes clarity, health, and spiritual awareness, and is therefore in the mode of goodness.
 7. Avoid animal food, which is for those in the mode of ignorance.
 
 #### Best Practices
 
 - Srila Rupa Gosvami could not sleep more than two hours a day.
 - Thakura Haridasa would not accept prasadam nor sleep without finishing his daily chanting.
-- Eating more than required leads to dreaming while sleeping and needing more sleep.
+- Eating more than your body requires leads to dreaming while sleeping and needing more sleep.
 
 #### Common Pitfalls
 
@@ -828,13 +828,13 @@ One who eats too much or too little, who sleeps too much or too little, cannot a
 
 ##### Example 1: The Sparrow Dries the Ocean
 
-Practice yoga with undeviating determination and faith, abandoning without exception all material desires born of false ego. The sparrow who lost her eggs to the ocean: with determination she dried up the ocean, and Garuda came to help. Similarly, practice yoga with determination and the Lord will help. By rigid practice over many births, one attains the supreme goal. Even if you fall from the path of yoga, you will dwell for many years on the planets of the pious, or take birth in a family of righteous people. Upon such birth, revive the divine consciousness of previous life and try again. (Ch.6)
+Practice yoga with undeviating determination and faith, abandoning without exception all material desires born of false ego. The sparrow who lost her eggs to the ocean: with determination she dried up the ocean, and Garuda came to help. Similarly, practice yoga with determination and the Lord will help. By disciplined practice over lifetimes, one attains the supreme goal. Even if you fall from the path of yoga, you will dwell for extended periods on the planets of the pious, or take birth in a family of righteous people. Upon such birth, revive the divine consciousness of previous life and try again. (Ch.6)
 
 #### Step-by-Step Instructions
 
 1. Engage in sincere endeavor with rigid practice.
 2. Let yourself be washed clean of all contaminations.
-3. Continue over many, many births of practice.
+3. Continue over lifetimes of practice.
 4. Ultimately attain the supreme goal (Krishna consciousness).
 5. If you fall from the path, do not fear destruction — transcendental endeavors never go in vain.
 6. Revive the divine consciousness of previous life and make further progress.
@@ -842,12 +842,12 @@ Practice yoga with undeviating determination and faith, abandoning without excep
 #### Best Practices
 
 - Practice with perseverance and determination in association with devotees.
-- The process of bhakti-yoga succeeds with enthusiasm, perseverance, determination, following prescribed duties, and association with devotees.
-- Previous spiritual efforts never go to waste; they bear fruit in due course.
+- The process of bhakti-yoga is supported by enthusiasm, perseverance, determination, prescribed duties, and association with devotees.
+- Previous spiritual efforts never go to waste; they bear fruit at the appropriate time.
 
 #### Keep In Mind
 
-- A transcendentalist engaged in auspicious activities does not meet destruction in this world or the next.
+- A transcendentalist engaged in auspicious activities — actions performed in Krishna consciousness without attachment to results — does not meet destruction in this world or the next.
 - One who does good is never overcome by evil.
 - Even a little endeavor on the transcendental path offers great hope for deliverance.
 
@@ -855,7 +855,7 @@ Practice yoga with undeviating determination and faith, abandoning without excep
 
 - **Problem:** Giving up practice after a setback or falldown.
   **Solution:** Understand that transcendental endeavors never go in vain; resume practice with renewed determination.
-- **Problem:** Being discouraged by the length of the path.
+- **Problem:** Being discouraged by the demands of the path.
   **Solution:** Even a small beginning of activity in Krishna consciousness bears permanent results.
 - **Problem:** Thinking that one must achieve perfection in this lifetime or all effort is wasted.
   **Solution:** Previous practice of yoga attracts one automatically to yogic principles in future lives.
@@ -926,7 +926,7 @@ A person who has transcended the three modes exhibits specific symptoms of equan
 - One who surrenders unto Krishna at once surmounts the influence of the modes of material nature.
 - The living entity's spiritual position is as good as gold, as good as Krishna in quality.
 - Bhakti-yoga means that the Lord is there, the devotee is there, and the activity of exchange of love between the Lord and the devotee is there.
-- Education for developing the mode of goodness must be established in society for the people in general.
+- Establish education for developing the mode of goodness in society for the people in general.
 
 #### Keep In Mind
 
@@ -959,12 +959,12 @@ Knowledge, action, and performers are of three kinds according to the three mode
 2. Cultivate sattvic knowledge: see the one undivided spiritual nature in all existences.
 3. Perform sattvic action: act without attachment, without love or hate, as a matter of duty.
 4. Develop sattvic determination: unbreakable, sustained with steadfastness by yoga practice, controlling mind, life, and acts of the senses.
-5. Seek sattvic happiness: what may seem like poison at first but becomes nectar at the end, awakening one to self-realization.
+5. Seek sattvic happiness: what seems like poison at first but becomes nectar at the end, awakening one to self-realization.
 6. Avoid rajasic and tamasic knowledge, action, determination, and happiness.
 
 #### Best Practices
 
-- Every endeavor is covered by some fault, like fire by smoke; therefore one should not abandon work born of one's nature but offer it to Krishna.
+- Every endeavor is covered by fault, like fire by smoke; therefore one should not abandon work born of one's nature but offer it to Krishna.
 - Determination in the mode of goodness is characterized by avyabhicarinya — never deviated by any other activity.
 
 #### Keep In Mind
@@ -989,11 +989,11 @@ Knowledge, action, and performers are of three kinds according to the three mode
 
 ##### Example 1: The Warrior and the Brahmana
 
-It is better to perform one's own prescribed duty imperfectly than to accept another's duty and perform it perfectly. A ksatriya (warrior) may need to be violent in battle, while a brahmana follows nonviolence. The ksatriya should not artificially imitate the brahmana's nonviolence. Janaka and other kings attained perfection by performing their prescribed duties as kings. (Ch.3, Ch.18)
+It is better to perform one's own prescribed duty imperfectly than to accept another's duty and perform it perfectly. A ksatriya (warrior) must be resolute in battle, while a brahmana follows nonviolence. The ksatriya should not artificially imitate the brahmana's nonviolence. Janaka and other kings attained perfection by performing their prescribed duties as kings. (Ch.3, Ch.18)
 
 #### Step-by-Step Instructions
 
-1. Understand your own nature (psychophysical condition) and the duties prescribed for it.
+1. Understand your own nature — your innate tendencies, body type, and mental disposition as shaped by the three modes of material nature — and the duties prescribed for it.
 2. Perform your own duties in full Krishna consciousness.
 3. Do not abruptly imitate others' duties or spiritual roles.
 4. Work according to one's own nature and prescribed duties.
@@ -1002,13 +1002,13 @@ It is better to perform one's own prescribed duty imperfectly than to accept ano
 
 #### Best Practices
 
-- Every endeavor is covered by some fault, like fire by smoke; therefore one should not abandon work born of one's nature.
+- Every endeavor is covered by fault, like fire by smoke; therefore one should not abandon work born of one's nature.
 - When work is offered to the Supreme Lord, all defects in that work are purified.
-- In the transcendental stage, distinctions may not apply, but on the material platform one must follow one's own prescribed duties.
+- In the transcendental stage, distinctions do not apply, but on the material platform one must follow one's own prescribed duties.
 
 #### Keep In Mind
 
-- The tendency of a particular person toward work is determined by the modes of material nature one has acquired.
+- The tendency of a particular person toward work is determined by the modes of material nature one has acquired through past actions and present association.
 - Do not manufacture rules against the principles of revealed scriptures.
 
 #### Common Pitfalls
@@ -1054,7 +1054,7 @@ The most confidential knowledge is to always think of Krishna, become His devote
 
 #### Common Pitfalls
 
-- **Problem:** Thinking that Krishna consciousness is one of many valid spiritual paths.
+- **Problem:** Thinking that Krishna consciousness is merely one valid spiritual path among others.
   **Solution:** Accept that Krishna consciousness is the supreme path; all other paths are partial.
 - **Problem:** Offering whimsical duties to the Supreme Lord instead of acting according to His order.
   **Solution:** Follow the order of Krishna as received through the disciplic succession.
@@ -1111,14 +1111,14 @@ The humble sage sees with equal vision a learned brahmana, a cow, an elephant, a
 
 ##### Example 1: The Varnasrama Institution
 
-Leaders and elder members of society bear the responsibility of protecting the vulnerable (women, children, spiritual traditions) and creating conditions for the community's spiritual advancement. In the system of the varnasrama institution there are many principles of religious traditions to help members of the family grow properly and attain spiritual values. The elder members are responsible for such purifying processes in the family, beginning from birth to death. The different family traditions of religious activities should always engage women and children, and thus their chastity and devotion will give birth to a good population eligible for participating in the varnasrama system. (Ch.1, Purport to Texts 39–40)
+Leaders and elder members of society bear the responsibility of protecting the vulnerable (women, children, spiritual traditions) and creating conditions for the community's spiritual advancement. In the system of the varnasrama institution there are specific principles of religious tradition to help members of the family grow properly and attain spiritual values. The elder members are responsible for such purifying processes in the family, beginning from birth to death. The different family traditions of religious activities should always engage women and children, and thus their chastity and devotion will give birth to a good population eligible for participating in the varnasrama system. (Ch.1, Purport to Texts 39–40)
 
 #### Step-by-Step Instructions
 
 1. Recognize the elder members of the family as responsible for the purifying processes of the family from birth to death.
 2. Create structures and traditions that engage women and children in religious practices.
 3. Protect women from degradation through meaningful engagement and oversight.
-4. Ensure that community projects and family welfare activities are designed to uphold spiritual values.
+4. Design community projects and family welfare activities to uphold spiritual values.
 5. Take responsibility for the spiritual direction of the community — do not abdicate leadership to irresponsible individuals.
 
 #### Best Practices
@@ -1164,7 +1164,7 @@ The splendor of the sun, moon, and fire all come from the Supreme Personality of
 #### Best Practices
 
 - Contemplate that without the Lord's mercy, there cannot be sun, moon, or fire, and without them no one can live.
-- Use this understanding to provoke Krishna consciousness.
+- Use this understanding to awaken Krishna consciousness.
 - The Vedas confirm: "Kasmin bhagavo vijnate sarvam idam vijnatam bhavati" — by knowing the Supreme, everything is known.
 
 #### Keep In Mind
@@ -1205,7 +1205,7 @@ One who studies this sacred conversation worships the Lord by intelligence; one 
 - The Gita can only be perfectly understood by devotees.
 - Hearing from devotees is called faith (sraddha).
 - This process glorifies life beyond all penances, sacrifices, charities, and speculations.
-- Faith plus sense control leads to quick attainment of knowledge.
+- Faith plus sense control leads to swift attainment of transcendental knowledge.
 
 #### Keep In Mind
 
@@ -1231,7 +1231,7 @@ One who studies this sacred conversation worships the Lord by intelligence; one 
 |Absolute Truth|The Supreme Personality of Godhead (Krishna) realized in three phases: impersonal Brahman, localized Paramatma, and Bhagavan (Supreme Personality)|Ch.2, Ch.4, Ch.7, Ch.10, Ch.13, Ch.15, Ch.18|
 |Action (Karma)|Activity performed according to one's prescribed duty; when offered to Krishna, it becomes yoga and does not bind|Ch.2, Ch.3, Ch.4, Ch.5, Ch.18|
 |Adharma|Irreligious practice; acting contrary to scriptural injunctions and eternal principles of righteousness|Ch.1, Ch.14|
-|Aggressor (six types)|One who administers poison, sets fire to a house, attacks with deadly weapons, plunders riches, occupies another's land, or kidnaps a wife — such persons may be lawfully dealt with|Ch.1|
+|Aggressor (six types)|One who administers poison, sets fire to a house, attacks with deadly weapons, plunders riches, occupies another's land, or kidnaps a wife — such persons must be lawfully dealt with|Ch.1|
 |Ahamkara|False ego; the mistaken identification of the material body as the self|Ch.3, Ch.13, Ch.16, Ch.18|
 |Ajñana|Ignorance; the illusion that covers the soul's understanding of its true nature and relationship with the Supreme|Ch.2, Ch.6, Ch.8, Ch.13|
 |Arjuna|The great warrior and devotee who received the Bhagavad-gita directly from Krishna on the battlefield of Kuruksetra|Ch.1, Ch.2, Ch.4, Ch.10, Ch.11, Ch.18|
