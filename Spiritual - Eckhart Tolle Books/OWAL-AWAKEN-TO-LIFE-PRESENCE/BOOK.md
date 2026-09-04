@@ -18,7 +18,7 @@ This book distills Eckhart Tolle's teachings on presence, awareness, and the pre
 
 ##### Example 1: Unhappiness From Storytelling
 
-You receive a message saying a meeting is canceled. In the first moment, your mind adds an interpretive narrative: "This means the project is failing" or "They don't respect my time." The external event itself, independent of interpretation—a meeting simply did not happen—is distinct from the narrative. Recognizing the narrative as separate from the external event frees you from unnecessary negativity.
+You receive a message saying a meeting is canceled. In the first moment, your mind adds an interpretive narrative: "This means the project is failing" or "The meeting organizer doesn't respect my time." The external event itself, independent of interpretation—a meeting simply did not happen—is distinct from the narrative. Recognizing the narrative as separate from the external event frees you from unnecessary negativity.
 
 ##### Example 2: Forest Versus Park
 
@@ -149,7 +149,7 @@ Notice that you are the awareness in which thoughts, emotions, and perceptions h
 
 #### Keep In Mind
 
-- The physical body is destined to change and pass; equating yourself with it leads to suffering.
+- The physical body's biology ensures the physical form changes and passes; equating yourself with it leads to suffering.
 - Ego arises when formless consciousness gets mixed up with form—this is identification.
 - Human and Being are not separate; they interweave, and mastery of life requires both.
 
@@ -205,7 +205,7 @@ Notice when the egoic pattern is active in your thoughts, speech, or actions. Re
 
 #### Security & Safety Notes
 
-- Profound awakening experiences can temporarily destabilize familiar psychological structures. If integration is difficult, seek guidance from experienced spiritual teachers or mental health professionals.
+- Profound awakening experiences can temporarily destabilize familiar psychological structures. If you find integration difficult, seek guidance from experienced spiritual teachers or mental health professionals.
 
 #### Common Pitfalls
 
@@ -370,7 +370,7 @@ See that resentments serve only to strengthen the ego-based self-concept. Forgiv
 
 ##### Example 1: The Unmanifested Dimension
 
-Consciousness is not something the brain produces; the brain is a form through which consciousness manifests in the physical dimension. When the brain is damaged, consciousness can no longer use that form, but consciousness itself remains untouched because it is who you are.
+Consciousness is not something the brain produces; the brain is a form through which consciousness manifests in the physical dimension. When the brain sustains damage from injury or illness, consciousness can no longer use that form, but consciousness itself remains untouched because it is who you are.
 
 ##### Example 2: Satori Moments
 
@@ -400,7 +400,7 @@ Consciousness is increasingly manifesting through the universe. You are a consci
 #### Keep In Mind
 
 - Consciousness is already conscious; it is the unmanifested, the eternal.
-- Form and formlessness interweave; the unmanifested flows into the physical dimension through the human form that becomes conscious.
+- Form and formlessness interweave; the unmanifested flows into the physical dimension through the human form that awakens to consciousness.
 - The human ego represents a late stage of universal sleep; the next stage is awakening from identification with form.
 
 #### Security & Safety Notes
@@ -526,8 +526,11 @@ Shift from a focus on acquiring to a focus on contributing. In every interaction
 |Awakened Doing|The alignment of outer purpose with inner purpose; action performed from Presence rather than ego; its modalities are acceptance, enjoyment, and enthusiasm|90,91,92,93,94,95,96,97,283,284,285|
 |Awakening|The shift from thinking to awareness; the emergence of consciousness beyond egoic identification; the recognition of the aware Presence that you are|4,59,61,66,90,103,167,173,177,195,198,204,211,213,273,281,295,398,404|
 |Being|The formless dimension of consciousness prior to existence; the essence of who you are beyond form|43,48,55,86,124,135|
+|Body Awareness|The practice of sensing the inner body; awareness of the life energy inside the physical form|129,130,131,132,133,134,135|
 |Conscious Breathing|Bringing alert attention to the breath to create space and anchor yourself in the present moment|79,130|
 |Duality|The apparent separation between subject and object, self and other, that is ultimately an illusion; the world of form in which oneness is obscured|473,503|
+|Divided Attention|Maintaining awareness of both an outer activity and the inner body simultaneously; a doorway to Presence during daily tasks|427|
+|Divine Life Essence|The one indwelling consciousness or spirit in every creature and life-form; recognized as one with your own essence in the state of Presence|110,473|
 |Consciousness|The formless, aware essence of who you are; the intelligence that enters this dimension through the human form; the totality of who you are beyond thought|9,57,71,89,117,118,119,120,121,122,123,124,125,126,202,204,373,381,402,403,415|
 |Ego|Identification with form; the dysfunctional relationship with the present moment; arises when consciousness mixes with form|31,42,52,61,129|
 |Identification|The mixing of formless consciousness with form; the process by which ego arises and consciousness becomes identified with objects, thoughts, or the body|42,46,52,128,129|
@@ -536,8 +539,13 @@ Shift from a focus on acquiring to a focus on contributing. In every interaction
 |Form|Existence, content, what happens; the foreground of life as opposed to the background of Being|20,48,71,89,124|
 |Formless|Without physical form; referring to the dimension of consciousness or Being that precedes and transcends material manifestation|20,48,128,129|
 |God|The One Life in and beyond all forms of life; the traditional name for the unmanifested Source from which all manifestation flows|502|
+|Healthy Boundaries|Appropriate limits for safety and well-being; compatible with oneness because they operate at the human level while inner recognition of essence continues|508,513|
 |Inner Body|The life energy or aliveness inside the physical form; the bridge between form and formlessness|129,130,131,132,133,134,135|
+|Human-Level Structures|Practical constructs such as boundaries, roles, and limits that operate in the world of form; they coexist with inner oneness|513|
+|Inner Contraction|The egoic response to difficulty; a hardening or closing of the inner space that opposes yielding and acceptance|485|
 |Inner Space|The formless dimension within; spaciousness between thoughts; the peace of God|71,72,73,74,75,76,77,80,81,82,83,84,85,86|
+|Inner Recognition|The direct knowing of truth within yourself; the awakened consciousness recognizing itself through resonant words or experience|203|
+|Inner Spaciousness|A synonym for Inner Space; the dimension of spaciousness between thoughts that is the peace of God|74,75,103,377|
 |Now|The present moment; the only moment that ever exists; the portal to the vertical dimension of depth|25,26,27,28,34,36,37,100,101,106,144|
 |Oneness|The recognition that all life shares one consciousness; love as the recognition of oneness in duality|138,139,148|
 |Pain-Body|Not covered in this companion volume; see A New Earth for the original teaching on accumulated emotional pain patterns|Introduction|
@@ -546,9 +554,10 @@ Shift from a focus on acquiring to a focus on contributing. In every interaction
 |Purpose|Inner purpose concerns Being and is primary; outer purpose concerns doing and is secondary|36,37,58,89,90,91|
 |Prison|The egoic state of identification with form that traps consciousness in self-referential thinking; body awareness is a doorway out of this prison|454|
 |Satori|A moment of Presence; brief stepping out of thought and emotion; arising of inner spaciousness|103|
+|Shared Past|Accumulated relational history between people; the more shared past there is, the more presence is needed to avoid reliving it|353|
 |Space Consciousness|Being conscious of things while also conscious of being conscious; freedom from ego and dependency on form|72,73,81,84|
 |Stillness|The language of God; being still is to be conscious without thought; the dimension beyond thought|126|
-|Suffering|According to Tolle's teaching, created by resistance to the present moment; when accepted consciously, becomes the fire that burns ego|59,60,61,107,142,143|
+|Suffering|According to Tolle's teaching, created by resistance to the present moment; when accepted consciously, becomes the transformative process that dissolves the ego|59,60,61,107,142,143|
 |Source|The unmanifested Source; the formless dimension from which all manifestation flows; traditionally called God|48,55,71,135,141,253,439,477|
 |Thought|The voice in the head; a tiny aspect of consciousness; isolates reality and creates the illusion of time and ego|9,10,11,12,13,14,15,16,20,31,42,57,89,100,105,121|
 |Unmanifested|Pure consciousness, formless, eternal; the Source from which all manifestation flows|48,55,71,117,135|
