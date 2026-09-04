@@ -26,7 +26,7 @@ Walking through a manicured park, your mind feels comfortable because every tree
 
 #### Step 1: Notice the Voice in Your Head
 
-When you hear an internal complaint or judgment, pause and recognize it as the voice of the ego—a conditioned thought pattern. Do not argue with it. Simply notice it. In that noticing, you shift from being the thinker to being the awareness that sees the thinker.
+When you hear an internal complaint or judgment, pause and recognize each as the voice of the ego—a conditioned thought pattern. Do not argue with it. Simply notice it. In that noticing, you shift from being the thinker to being the awareness that sees the thinker.
 
 #### Step 2: Separate Fact From Story
 
@@ -48,8 +48,8 @@ Choose a nearby object. Look at it with relaxed, alert attention. Notice details
 #### Keep In Mind
 
 - Thought isolates events and labels them good or bad, but reality is an indivisible whole.
-- The universe is interconnected; causes are virtually infinite and traceable back to creation itself.
-- When you stop covering the world with words, depth, freshness, and the miraculous return to your experience.
+- The universe is interconnected; causes are infinite and traceable back to creation itself.
+- When you stop covering the world with words, depth, freshness, and the miraculous return to your experience emerge.
 
 #### Security & Safety Notes
 
@@ -124,7 +124,7 @@ You notice the voice in your head saying, "I am not good at this." That thought 
 
 ##### Example 2: Deathbed Realization
 
-Many people realize on their deathbed that nothing external ever defined who they were. They had been looking for Being in forms—possessions, roles, achievements—while their true identity was always the consciousness aware of those forms.
+People realize on their deathbed that nothing external ever defined who they were. They had been looking for Being in forms—possessions, roles, achievements—while their true identity was always the consciousness aware of those forms.
 
 #### Step 1: Cease Looking to Thought for Identity
 
@@ -174,7 +174,7 @@ For years you believed "I am not good enough." Suddenly you catch the thought in
 
 ##### Example 2: Suffering as Fire
 
-When you resist suffering, you create more ego to burn up, slowing the process. When you accept suffering consciously, it becomes the fire that burns up the ego. Conscious suffering transmutes into the light of consciousness.
+When you resist suffering, you create more ego to burn up, slowing the dissolution of ego. When you accept suffering consciously, it becomes the fire that burns up the ego. Conscious suffering transmutes into the light of consciousness.
 
 #### Step 1: Become Aware of Thoughts and Emotions
 
@@ -251,7 +251,7 @@ Bring attention to the sensation of aliveness inside your hands, feet, and body 
 
 - Space consciousness means being conscious of being conscious while normal activities continue.
 - Inner space is not emptiness but intense aliveness—the unmanifested Source.
-- The dimension of inner space is there in everyone, but most are unaware of it.
+- The dimension of inner space is present in everyone, but most people are unaware of this inner space.
 
 #### Security & Safety Notes
 
@@ -282,7 +282,7 @@ Your inner purpose is awakening—being present. Your outer purpose is whatever 
 
 #### Step 2: Practice Awakened Doing
 
-Bring Presence into every activity. The modalities of awakened doing are acceptance, enjoyment, and enthusiasm. If you are doing something and feel none of these, examine whether you are creating suffering for yourself.
+Bring Presence into every activity. The modalities of awakened doing are acceptance, enjoyment, and enthusiasm. If you are doing something and feel none of acceptance, enjoyment, or enthusiasm, examine whether you are creating suffering for yourself.
 
 #### Step 3: Transform Routine Activities
 
@@ -350,7 +350,7 @@ See that grievances serve only to strengthen the false sense of self. Forgivenes
 #### Keep In Mind
 
 - Presence flows into and transforms what you do, giving it quality and power.
-- The more shared past a relationship has, the more present you must be to avoid reliving it.
+- The more shared past a relationship has, the more present you must be to avoid reliving that shared past.
 - A genuine relationship has an outward flow of open, alert attention with no wanting.
 
 #### Security & Safety Notes
@@ -370,7 +370,7 @@ See that grievances serve only to strengthen the false sense of self. Forgivenes
 
 ##### Example 1: The Unmanifested Dimension
 
-Consciousness is not something the brain produces; the brain is a form through which consciousness enters this dimension. When the brain is damaged, consciousness can no longer use that form, but consciousness itself remains untouched because it is who you are.
+Consciousness is not something the brain produces; the brain is a form through which consciousness enters the physical dimension. When the brain is damaged, consciousness can no longer use that form, but consciousness itself remains untouched because it is who you are.
 
 ##### Example 2: Satori Moments
 
@@ -400,7 +400,7 @@ Consciousness is gradually becoming conscious through the universe. You are a co
 #### Keep In Mind
 
 - Consciousness is already conscious; it is the unmanifested, the eternal.
-- Form and formlessness interpenetrate; the unmanifested flows into this dimension through the human form that becomes conscious.
+- Form and formlessness interpenetrate; the unmanifested flows into the physical dimension through the human form that becomes conscious.
 - The human ego represents the final stage of universal sleep; the next stage is awakening from identification with form.
 
 #### Security & Safety Notes
@@ -499,7 +499,7 @@ Shift from a mindset of wanting to one of service. In every interaction, ask how
 
 #### Keep In Mind
 
-- God is the One Life in and beyond countless forms of life.
+- God is the One Life within and beyond all forms of life.
 - Love is the recognition of oneness in the world of duality.
 - The Truth is inseparable from who you are; you are the Truth.
 
@@ -540,4 +540,4 @@ Shift from a mindset of wanting to one of service. In every interaction, ask how
 |Thought|The voice in the head; a tiny aspect of consciousness; isolates reality and creates the illusion of time and ego|9,10,11,12,13,14,15,16,20,31,42,57,89,100,105,121|
 |Unmanifested|Pure consciousness, formless, eternal; the Source from which all manifestation flows|48,55,71,117,135|
 
-Where each row is 1 term, 1 definition, and list of pages will find term on actual book pages. All terms sorted alphabetically.
+Each row contains one term, one definition, and a list of page numbers on which the term appears in the original book. All terms are sorted alphabetically.
