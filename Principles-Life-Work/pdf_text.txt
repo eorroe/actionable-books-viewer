@@ -1,0 +1,780 @@
+facilities. These functions, even if they're considered "facilities" in the
+broadest sense, are very different, as are the respective skill sets. Similarly,
+at another time, we talked about combining folks who work on client
+agreements with those who do counterparty agreements under one manager.
+That would have been a mistake because the skills required to reach
+agreements with clients are very different from the ones required to reach
+agreements with counterparties. It was wrong to conflate both departments
+under the general heading of "agreements," because each kind called for
+specific knowledge and skills.
+175c) The ratio of senior managers to junior managers and to the number
+of people who work two levels below should be limited, to preserve quality
+communication and mutual understanding. Generally, the ratio should not
+be more than 1:10, and preferably closer to 1:5. Of course, the appropriate
+ratio will vary depending on how many people your direct reports have
+reporting to them, the complexity of the jobs they're doing, and the
+manager's ability to handle several people or projects at once.
+175d) The number of layers from top to bottom and the ratio of managers
+to their direct reports will limit the size of an effective organization.
+175e) The larger the organization, the more important are 1) information
+technology expertise in management and 2) cross-department
+communication (more on these later).
+175f) Do not build the organization to fit the people. Jobs are created
+based on the work that needs to be done, not what people want to do or
+what people are available. You can always search outside Bridgewater to
+find the people who "click" best for a particular role.
+176) Have the clearest possible delineation of responsibilities and
+reporting lines. It's required both within and between departments. Make
+sure reporting lines and designated responsibilities are clear. To avoid
+confusion, people should not report to two different departments. Dual
+reporting (reporting across department lines) causes confusion, complicates
+prioritization, diminishes focus on clear goals, and muddies the lines of
+supervision and accountability, especially when a person reports to two
+people in two different departments. When situations require dual reporting,
+managers need to be informed. Asking someone from another department to
+do a task without consulting with his or her manager is strictly prohibited
+(unless the request will take less than an hour or so). However, appointing
+co-heads of a department or a sub-department can work well if the
+managers are in synch and combine complementary and essential strengths
+to this area; dual reporting in that case can work fine if properly coordinated
+by the co-heads.
+176a) Create an organizational chart to look like a pyramid, with straight
+lines down that don't cross. A series of descending pyramids make up the
+whole pyramid, but the number of layers should be limited to minimize
+hierarchy.
+177) Constantly think about how to produce leverage. For example, to
+make training as easy to leverage as possible, document the most common
+questions and answers through audio, video, or written guidelines and then
+assign someone to regularly organize them into a manual. Technology can
+do most tasks, so think creatively about how to design tools that will
+provide leverage for you and the people who work for you.
+177a) You should be able to delegate the details away. If you can't, you
+either have problems with managing or training or you have the wrong
+people doing the job. The real sign of a master manager is that he doesn't
+have to "do" practically anything. Of course, a great manager has to hire
+and oversee the people who do things; but a "supreme master" manager can
+even hire a person or two to do this and has achieved such leverage that
+things are effortlessly running superbly. Of course, there is a continuum
+related to this. The main message I'm trying to convey is that managers
+should strive to hire, train, and oversee in a way in which others can
+superbly handle as much as possible on their own. Managers should view
+the need to get involved in the nitty-gritty themselves as a bad sign.
+177b) It is far better to find a few smart people and give them the best
+technology than to have a greater number of ordinary and less well-
+equipped people. First of all, great people and great technology are almost
+always a great value because their effectiveness in enhancing the
+organization's productivity can be enormous. Second, it is desirable to have
+smart people have the widest possible span of understanding and control
+because fragmented understanding and control create inefficiencies and
+undermine organizational cohesion. Usually it is the person's capacity that
+limits the scope of his understanding and control. So the mix of really smart
+people operating with really great technology in a streamlined organization
+is optimal for organizational efficiency.
+177c) Use "leveragers." Leveragers are capable of doing a lot to get your
+concepts implemented. Conceptualizing and managing are most important
+and take only about 10% of the time needed for implementing; so if you
+have good leveragers, you can accomplish a lot more with relative ease.
+178) Understand the clover-leaf design. Find two or three responsible
+parties who have overlapping believabilities and responsibilities and who
+are willing to challenge and check each other. If you do this, and those
+people are willing to fight for what they believe is best by being open-
+minded and assertive at the same time, and if they escalate their
+disagreements and failures to you, this process will have a high probability
+of sorting issues that they can probably handle well from issues that you
+should examine and resolve with them.
+179) Don't do work for people in another department or grab people
+from another department to do work for you unless you speak to the boss.
+180) Watch out for "department slip." This happens when a support
+department, such as HR or Facilities, mistakes its responsibilities to provide
+support with a responsibility to determine how the thing they are supporting
+should be done. An example of this sort of mistake is if those in the
+Recruiting department think they should determine whom we should hire or
+if people in HR think they should determine what our employment policies
+should be. Another example would be if the Facilities group determined
+what facilities we should have. While support departments should know the
+goals of the people they're supporting and provide feedback regarding
+possible choices, they are not the ones to determine the vision.
+181) Assign responsibilities based on workflow design and people's
+abilities, not job titles. What people do should primarily be a function of
+the job they have, and it should be pretty obvious who should do what (if
+they're suited for the job). For example, just because someone is
+responsible for "human resources," "recruiting," "legal," "programming,"
+etc., doesn't necessarily mean they are the appropriate person to do
+everything associated with those functions. For example, though "Human
+Resources" people help with hiring, firing, and providing benefits, it would
+be a mistake to give them the responsibility of determining who gets hired
+and fired and what benefits are provided to employees. When assigning
+responsibilities, think about both the workflow design and a person's
+abilities, not the job title.
+182) Watch out for consultant addiction. Beware of the chronic use of
+consultants to do work that should be done by employees.
+183) Tool: Maintain a procedures manual. This is the document in
+which you describe how all of the pieces of your machine work. There
+needs to be enough specificity so that operators of the different pieces of
+the machine can refer to the manual to help them do their job. The manual
+should be a living document that includes output from the issues log so that
+mistakes already identified and diagnosed aren't repeated. It prevents
+forgetting previous learning and facilitates communication.
+184) Tool: Use checklists. When people are assigned tasks, it is generally
+desirable to have these captured on checklists so they can check off each
+item as it is done. If not, there is a risk that people will gradually not do the
+agreed tasks or there will be lack of clarity. Crossing items off a checklist
+will serve as a task reminder and confirmation of what has been done.
+184a) Don't confuse checklists with personal responsibility. People should
+be expected to do their job well, not just what is on their checklists.
+184b) Remember that "systematic" doesn't necessarily mean
+computerized. It might mean having people do specified tasks and indicate
+that they have done them with checklists.
+184c) Use "double-do" rather than "double-check" to make sure mission-
+critical tasks are done correctly. When people double-check someone
+else's work, there is a much lower rate of catching errors than when two
+parties independently do the work and the results are compared. Double-
+doing is having two different people doing the same task on the same job so
+that two independent answers are derived. By comparing them you will not
+only assure better answers but you will see the differences in people's
+performances and make much more rapid improvement. I use double-dos in
+critical areas such as finance, where large amounts of money are involved.
+185) Watch out for "job slip." Job slip is when a job changes without
+being explicitly thought through and agreed to, generally because of
+changing circumstances or a temporary necessity. Job slip will generally
+cause bad job design. It often leads to the wrong people handling the wrong
+responsibilities and confusion over who is supposed to do what.
+186) Think clearly how things should go, and when they aren't going
+that way, acknowledge it and investigate. First decide which issue to
+address first: finding the reason the machine isn't working well or executing
+the tasks required to get past the problem (in which case you need to come
+back to the reasons later). Either way, don't pass the problem by without
+discussing the reasons. Otherwise, you will end up with job slip.
+187) Have good controls so that you are not exposed to the dishonesty
+of others and trust is never an issue. A higher percentage of the population
+than you might imagine will cheat if given an opportunity, and most people
+who are given the choice of being "fair" with you and taking more for
+themselves will choose taking more for themselves. Even a tiny amount of
+cheating is intolerable, so your happiness and success will depend on your
+controls. Security controls should be viewed as a necessary tool of our
+profession, not as a personal affront to an individual's integrity. Just as a
+bank teller doesn't view a check on the money in his drawer as an
+indication that the bank thinks he is dishonest, everyone here should
+understand the need for our security controls. Explain this to your people so
+they see it in the proper context. Even the best controls will never be
+foolproof, and trustworthiness is a quality that should be appreciated.
+187a) People doing auditing should report to people outside the
+department being audited, and auditing procedures should not be made
+known to those being audited.
+187b) Remember: There is no sense in having laws unless you have
+policemen (auditors).
+188) DO WHAT YOU SET OUT TO DO
+So...
+189) Push through! You can make great things happen, but you must
+MAKE great things happen. Times will come when the choice will be to
+plod along normally or to push through to achieve the goal. The choice
+should be obvious.[71]
+TO MAKE DECISIONS EFFECTIVELY...
+190) RECOGNIZE THE POWER OF KNOWING HOW TO DEAL WITH NOT KNOWING
+So...
+191) Recognize that your goal is to come up with the best answer, that
+the probability of your having it is small, and that even if you have it,
+you can't be confident that you do have it unless you have other believable
+people test you.
+192) Understand that the ability to deal with not knowing is far more
+powerful than knowing. That is because there's way more that we don't
+know than what we could possibly ever know.
+192a) Embrace the power of asking: "What don't I know, and what
+should I do about it?" Generally you should find believable people and ask
+their advice, remembering that you are looking to understand their
+reasoning rather than get their conclusions.
+192b) Finding the path to success is at least as dependent on coming up
+with right questions as coming up with answers. Successful people are
+great at asking the important questions and then finding the answers. When
+faced with a problem, they first ask themselves if they know all the
+important questions about it; they are objective in assessing the probability
+that they have the answers; and they are good at open-mindedly seeking
+believable people to ask.
+193) Remember that your goal is to find the best answer, not to give the
+best one you have. The answer doesn't have to be in your head; you can
+look outside of you. In life the goal is for you to do the right thing,
+considering the probability that you might be wrong. So it is invaluable to
+know what you don't know so that you can figure out a way to find out
+and/or to get help from others.
+194) While everyone has the right to have questions and theories, only
+believable people have the right to have opinions. If you can't successfully
+ski down a difficult slope, you shouldn't tell others how to do it, though you
+can ask questions about it and even express your views about possible ways
+if you make clear that you are unsure.
+195) Constantly worry about what you are missing. Even if you
+acknowledge you are a "dumb shit" and are following the principles and are
+designing around your weaknesses, understand that you still might be
+missing things. You will get better and be safer this way.
+195a) Successful people ask for the criticism of others and consider its
+merit.
+195b) Triangulate your view. Never make any important decisions without
+asking at least three believable people. Don't ask them for their conclusions
+or just do what they tell you to do. Understand, visualize, and assess their
+reasoning to see if it makes sense to you. Ask them to probe your own
+reasoning. That's critical to your learning as well as to your successful
+handling of your responsibilities.
+196) MAKE ALL DECISIONS LOGICALLY, AS EXPECTED VALUE CALCULATIONS
+So...
+197) Considering both the probabilities and the payoffs of the
+consequences, make sure that the probability of the unacceptable (i.e., the
+risk of ruin) is nil.
+197a) The cost of a bad decision is equal to or greater than the reward of
+a good decision, so knowing what you don't know is at least as valuable
+as knowing.
+197b) Recognize opportunities where there isn't much to lose and a lot to
+gain, even if the probability of the gain happening is low. It is a reality that
+there are always multiple possibilities and nothing is certain. All decisions
+are therefore risk/reward bets. Know how to pursue fabulous risk/reward
+ratios that have a huge upside and very little downside, albeit a small
+probability of happening. My life has been filled with these.
+197c) Understand how valuable it is to raise the probability that your
+decision will be right by accurately assessing the probability of your being
+right. I often observe people giving opinions as soon as they have them,
+which seems at about the point that they think there's more than a 50%
+chance of them being right. Often they don't pay any attention to the value
+of raising the probability of being right (e.g., from 51% to 85%) by
+reflecting harder on whether the answer is right and doing the investigations
+and double-checking with others to make sure that the answer is right.
+Remember that, in an expected value sense, raising the probability of
+being right (e.g., from 51% to 85%) can be worth more than just going from
+probably wrong (e.g., 45%) to probably being right (e.g., 51%) because we
+are all playing probabilities. Think about the effects of altering the
+probabilities of achieving must-dos: if you have a 51% probability of
+handling a "must-do" correctly, it means that only a bit more than half of
+your must-dos will be done appropriately, whereas an 85% probability of
+handling a decision well means that only 15% of the must-dos will be
+handled badly.
+197d) Don't bet too much on anything. Make 15 or more good,
+uncorrelated bets.
+198) REMEMBER THE 80/20 RULE, AND KNOW WHAT THE KEY 20% IS
+So...
+199) Distinguish the important things from the unimportant things and
+deal with the important things first.
+199a) Don't be a perfectionist, because perfectionists often spend too much
+time on little differences at the margins at the expense of other big,
+important things. Be an effective imperfectionist. Solutions that broadly
+work well (e.g., how people should contact each other in the event of crises)
+are generally better than highly specialized solutions (e.g., how each person
+should contact each other in the event of every conceivable crisis),
+especially in the early stages of a plan. There generally isn't much gained
+by lots of detail relative to a good broad solution. Complicated procedures
+are tough to remember, and it takes a lot of time to make such detailed plans
+(so they might not even be ready when needed).
+199b) Since 80% of the juice can be gotten with the first 20% of the
+squeezing, there are relatively few (typically less than five) important
+things to consider in making a decision. For each of them, the marginal
+gains of studying them past a certain point are limited.
+199c) Watch out for "detail anxiety," i.e., worrying inappropriately about
+unimportant, small things.
+199d) Don't mistake small things for unimportant things, because some
+small things can be very important (e.g., hugging a loved one).
+200) Think about the appropriate time to make a decision in light of the
+marginal gains made by acquiring additional information versus the
+marginal costs of postponing the decision. There are some decisions that are
+best made after acquiring more information, and some that are best made
+sooner rather than later. The later a decision is made, the more informed it
+can be; however, making it later can also have adverse consequences
+(e.g., postponing progress). Understanding the trade-off between the
+marginal gains of acquiring the extra information against the marginal costs
+of postponing a decision is an important factor in the timing and
+preparation of decision-making.
+201) Make sure all the "must do's" are above the bar before you do
+anything else. First, distinguish between your "must do's" and your "like to
+do's". Don't overlook any "must do's," and don't mistakenly slip the "like
+to do's" onto the list. Then, get all the "must do's" above the bar. Then get
+all the "must do's" excellent. If you have time, turn to the "like to do's" and
+try to get them above the bar. Only if you have time (though you certainly
+will not if you are thinking broadly), turn toward making things perfect.
+Chances are, you won't have to deal with the unimportant things, which is
+better than not having time to deal with the important things. I often hear
+people say, "Wouldn't it be good to do this or that," referring to nice-to-do's
+rather than must-do's that have to be above the bar. Chances are, they are
+being distracted from far more important things that need to be done well.
+202) Remember that the best choices are the ones with more pros than
+cons, not those that don't have any cons. Watch out for people who tend
+to argue against something because they can find something wrong with
+it without properly weighing all the pros against the cons. Such people
+tend to be poor decision-makers.
+203) Watch out for unproductively identifying possibilities without
+assigning them probabilities, because it screws up prioritization. You can
+recognize this with phrases like "It's possible that..." then going on to say
+something that's improbable and/or unimportant, rather than something
+like, "I think there's a good chance that..." followed by something that's
+important or probable. Almost anything is possible. All possibilities must
+be looked at in terms of their likelihoods and prioritized.
+204) Understand the concept and use the phrase "by and large." Too
+often I hear discussions fail to progress when a statement is made and the
+person to whom it is made replies, "Not always," leading to a discussion of
+the exceptions rather than the rule. For example, a statement like "The
+people in the XYZ Department are working too many hours" might lead to
+a response like "Not all of them are; Sally and Bill are working normal
+hours," which could lead to a discussion of whether Sally and Bill are
+working too long, which derails the discussion. Because nothing is 100%
+true, conversations can get off track if they turn to whether exceptions exist,
+which is especially foolish if both parties agree that the statement is by and
+large true. To avoid this problem, the person making such statements might
+use the term "by and large," like "By and large, the people in the XYZ
+Department are working too many hours." People hearing that should
+consider whether it is a "by and large" statement and treat it accordingly.
+204a) When you ask someone whether something is true and they tell you
+that "It's not totally true," it's probably true enough.
+205) SYNTHESIZE
+So...
+206) Understand and connect the dots. To do this well, you have to
+synthesize what is going on. Usually it takes diagnosing a few (e.g., five or
+so) dots of the same type to get at the true root cause so that you can see
+how the machine should be modified to produce better outcomes. For
+example, one type of outcome involves someone, let's call him Harry,
+handling a type of responsibility (entering an order). You will need at least a
+few experiences to learn about Harry doing this. It will pay for you to
+understand Harry and his handling of orders and have him understand you
+by looking objectively at the outcomes and by getting in synch, especially
+about the bad outcomes. The quality of your understanding of your machine
+and its constituent parts will depend on how well you diagnose and process
+the important outcomes. If you don't do this continuously and you don't
+synthesize well, you will fail. This isn't easy.
+See how the dots connect through time. This requires collecting, analyzing,
+and sorting lots of different types, and it ain't easy for most folks. Imagine a
+day in which eight outcomes occur. Some are good, some bad. Let's
+represent this day as follows, with each type of event represented by a
+letter and the quality of the outcome represented by its height.
+In order to see the day this way, you must categorize outcomes by type and
+quality, which will require synthesizing a "by and large" assessment of
+each. If you didn't examine the bad outcomes as they occurred, you
+couldn't understand what they are symptomatic of. Keep in mind our
+example is a relatively simple one: only eight occurrences over one day.
+Now let's look at what a month looks like.
+Confusing, eh? Some people are much better at this than others.
+In order to understand how your machine is working to achieve your goals,
+you have to perceive change over time, charting improvement vs.
+deterioration. The chart below plots just the type X dots, which you can see
+improving. As mentioned in the section on diagnosis, you must categorize,
+understand, and observe the evolution of the different parts of your machine
+through time, and synthesize this understanding into a picture of how your
+machine is working and how it should be improved. People who do this
+well are rare and essential. As with most abilities, synthesizing well is
+partially innate and partially learned through practice.
+207) Understand what an acceptable rate of improvement is, and that it
+is the level and not the rate of change that matters most. I often hear
+people say, "It's getting better," as though that is good enough when "it" is
+both below that bar and improving at an inadequate rate. That isn't good
+enough. For example, if someone who has been getting 30s and 40s on tests
+raised his grade to the 50s, you could say he's improving but the level is
+still woefully inadequate. Everything important you manage has to be on a
+trajectory to be "above the bar" and headed for "excellent" at an acceptable
+pace. For example, in the chart below, the trajectory of A might be
+acceptable, but B's trajectory is not. A gets us above the bar in an
+acceptable amount of time.
+208) If your best solution isn't good enough, think harder or escalate
+that you can't produce a solution that is good enough. A common mistake
+is accepting your own best solution when it isn't good enough.
+209) Avoid the temptation to compromise on that which is
+uncompromisable. You must have and achieve high standards. This is
+particularly difficult when two uncompromisable things are at odds. At such
+times, there is a tendency to let one of them go. However, at such times you
+have to allocate more time to figure out how to best handle this, be more
+creative, and ask for more input. But don't compromise on one of the things
+that shouldn't be compromised. For example, one of the uncompromisable
+things I regularly get pressure from people to compromise on is letting great
+people avoid exploring their mistakes and weaknesses because they find it
+painful. For reasons articulated throughout these principles, I believe we
+can't compromise on this because that process of exploration is healthy for
+Bridgewater, healthy for them, and key to our culture. I also believe that to
+allow opt-outs would legitimatize two sets of rules and put our radically
+honest way of being in jeopardy. But I want great people.[52]
+210) Don't try to please everyone. Not everyone is going to be happy
+about every decision you make, especially the decisions that say they can't
+do something.
+[1] Since I learned these principles by encountering reality and reflecting on
+my encounters, and I am still doing these things, I expect there are more
+principles to come. So I am still creating this document by throwing various
+thoughts down when they occur to me, trying to put them in some sensible
+order and trying to smooth over the bumps. Organizing these principles into
+a sensible order is a challenge since they relate to each other more like a
+matrix than as a sequence. To help guide you, I've tried to organize them
+around large themes like building a great culture, managing people well,
+and creative problem-solving. I will continue these things, so this is an
+evolving document.
+[2] While this particular document will always express just what I believe,
+others will certainly have their own principles, and possibly even their own
+principles documents, and future managers of Bridgewater will work in
+their own ways to determine what principles Bridgewater will operate by.
+At most, this will remain as one reference of principles for people to
+consider when they are deciding what's important and how to behave.
+[3] I wish everyone wrote down their principles. I wish I could read and
+compare the principles of all the people I'm interested in— Steve Jobs,
+Albert Einstein, people running for political office, people I share my
+life with, etc. I'd love to know what they value most and what principles
+they use to get what they want. Imagine how great that would be—e.g. imagine
+how much valuable fundamental thinking could be harnessed. I hope that
+my doing this will encourage others to do the same.
+[4] Rote memory is memory for things that don't have an intrinsic logic for
+being what they are, like a random series of numbers, words in a foreign
+language and people's names (all of which I have trouble with). On the
+other hand, I have a great memory for things that make sense in a context.
+For example, I can tell you what happened in every year in the economy
+and markets since the mid-1960s and how many things work.
+[5] The way I learn is to immerse myself in something, which prompts
+questions, which I answer, prompting more questions, until I reach a
+conclusion.
+[6] This included my retail stockbroker, the people I was caddying for, even
+my local barber, who was equally engrossed in the stock market. (It wasn't
+as precocious as it sounds. At the time, instead of talking about the
+Yankees, everyone was talking about stocks. That was the world I grew up
+in.)
+[7] Sometimes when I know that I don't know which way the coin is going
+to flip, I try to position myself so that it won't have an impact on me either
+way. In other words, I don't make an inadvertent bet. I try to limit my bets
+to the limited number of things I am confident in.
+[8] By the way, I still meditate and I still find it helpful.
+[9] It is unethical because a basic principle of justice is that everyone has
+the right to face his accuser. And it is unproductive because it does not lead
+to the exploration of "Is it true?" which can lead to understanding and
+improvement.
+[10] I do not mean that you should say everything you think, just that what
+you do say matches your thoughts
+[11] The word "integrity" is from the Latin root "integer," which means
+"one" i.e., that you are the same inside and out. Most people would be
+insulted if you told them that they don't have integrity—but how many
+people do you know who tell people what they really think?
+[12] I believe that our society's "mistakephobia" is crippling, a problem that
+begins in most elementary schools, where we learn to learn what we are
+taught rather than to form our own goals and to figure out how to achieve
+them. We are fed with facts and tested and those who make the fewest
+mistakes are considered to be the smart ones, so we learn that it is
+embarrassing to not know and to make mistakes. Our education system
+spends virtually no time on how to learn from mistakes, yet this is critical to
+real learning. As a result, school typically doesn't prepare young people for
+real life—unless their lives are spent following instructions and pleasing
+others. In my opinion, that's why so many students who succeed in school
+fail in life.
+[13] After all, isn't the point of learning to help you get what you want? So
+don't you have to start with what you want and figure out what you have to
+learn in order to get it?
+[14] In fact I believe that most people who are quick to come up with
+answers simply haven't thought about all the ways that they can be wrong.
+[15] I don't mean that the more pain the better. I believe that too much pain
+can break someone and that the absence of pain typically prevents growth
+so that one should accept the amount of pain that is consistent with
+achieving one's objectives.
+[16] I have been very lucky because I have had the opportunity to see what
+it's like to have little or no money and what it's like to have a lot of it. I'm
+lucky because people make such a big deal of it, and if I didn't experience
+both, I wouldn't be able to know how important it really is for me. I can't
+comment on what having a lot of money means to others, but I do know
+that for me, having a lot more money isn't a lot better than having enough
+to cover the basics. That's because, for me, the best things in life—
+meaningful work, meaningful relationships, interesting experiences, good
+food, sleep, music, ideas, sex, and other basic needs and pleasures— are
+not, past a certain point, materially improved upon by having a lot of
+money. For me, money has always been very important to the point that I
+could have these basics covered and never very important beyond that.
+That doesn't mean that I don't think that having more is good—it's just that
+I don't think it's a big deal. So, while I spend money on some very expensive
+things that cost multiples relative to the more fundamental things, these
+expensive things have never brought me much enjoyment relative to the
+much cheaper, more fundamental things. They were just like cherries on
+the cake. For my tastes, if I had to choose, I'd rather be a backpacker who is
+exploring the world with little money than a big income earner who is in a
+job I don't enjoy. (Though being in a job that provides me with what I want
+is best of all, for me). Also, from having come from having next-to-nothing
+to having a lot, I have developed a strong belief that, all things being equal,
+offering equal opportunity is fundamental to being good, while handing out
+money to capable people that weakens their need to get stronger and
+contribute to society is bad.
+[17] I recognize that sometimes a discovery is made by accident, but the
+discovery is of some basic underlying principle that creates understanding
+of a cause-effect relationship that leads to a desired result.
+[18] In fact, it appears to me that everything other than evolution eventually
+disintegrates and that we all are, and everything else is, vehicles for
+evolution.
+[19] Of course, we are often satisfied with the same things – relationships,
+careers, etc.— but when that is the case, it is typically because we are
+getting new enjoyments from the new dimensions of these things.
+[20] The marginal benefits of moving from a shortage to an abundance of
+anything decline.
+[21] When pursuing self-interest is in conflict with evolution, it is typically
+punished.
+[22] Of course, there are many people who give society what it wants but are
+paid poorly. This is explained by the law of supply and demand.
+[23] I do know some successful people who are obsessed with making
+money despite making money having little or no marginal benefit for them.
+[24] Darwin is reported to have said, "It is not the strongest of the species
+that survives, nor the most intelligent that survives. It is the one that is the
+most adaptable to change."
+[25] Your ability to see the changing landscape and adapt is more a function
+of your perceptive and reasoning abilities than your ability to learn and
+process quickly.
+[26] Of course it is true that people are born with differences in their various
+innate abilities. However, judgment is primarily learned.
+[27] As Freud put it, "Love and work are the cornerstones of our humanness."
+[28] The work doesn't necessarily have to be a job, though I believe it's
+generally better if it is a job. It can be any kind of long-term challenge that
+leads to personal improvement. As you might have guessed, I believe the
+need to have meaningful work is connected to man's innate desire to
+improve. And relationships are the natural connections to others that make
+us relevant to society.
+[29] There are literally two different parts of each person's brain that
+influence these reactions: the pre-frontal cortex and the amygdala. They
+work as though they were two different brains that fight for control of
+decision-making. The pre-frontal cortex is the logical part of the brain that
+evaluates choices logically and the amygdala is the "animal instinct" part of
+the brain that triggers emotional reactions like the instinct to fight or flee.
+When faced with an obstacle or threat, an emotional reaction (e.g. pain) can
+be triggered that can lead to a fight or flight reaction that "hijacks" decision
+making away from the pre-frontal cortex, where the rational choices are
+being made. This can result in our making decisions that produce
+consequences that we do not want. This typically causes really big
+problems.
+[30] Your very unique power of reflectiveness—i.e., your ability to look at
+yourself, the world around you, and the relationship between you and the
+world—means that you can think deeply and weigh subtle things to come
+up with learning and wise choices. Asking other believable people about the
+root causes of your pain in order to enhance your reflections is also
+typically very helpful—especially others who have opposing views and
+who share your interest in finding the truth rather than being proven right.
+[31] If you can reflect deeply about your problems, they almost always
+shrink or disappear, because you almost always find a better way of dealing
+with them than if you don't face them head on. The more difficult the
+problem, the more important it is that you think hard about it and deal
+with it. After seeing how effectively facing reality—especially your
+problems, mistakes and weaknesses— works, I believe you will become
+comfortable with it and won't want to operate any other way.
+[32] An example of this is what discussed earlier: wanting to save the
+wildebeest from the hyenas. When you don't want to face what's really
+happening, you can't make sound decisions.
+[33] For example, if you are dumb or ugly, you are unlikely to acknowledge
+it, even though doing so would help you better deal with that reality.
+Recognizing such "harsh realities" is both very painful and very productive.
+[34] I am not saying that we all have the same potential, just that to get the
+most of your potential—whatever that is—you must learn and earn.
+[35] As I mentioned in the first chapter, you don't have to know everything
+to get what you want. You just have to be honest with yourself about what
+you don't know and know who to ask for help.
+[36] Sometimes it can be difficult to anticipate the 2nd or 3rd order
+consequences of a decision, such as one that involves using complex
+technology like X-Rays or DDT, where either things are not what they seem
+to be or there are too many unknown variables to make a sound decision.
+For more on the probabilities of personal decision-making, please refer to
+the "To Make Decisions Effectively" section at the end of Part 3.
+[37] Blaming others is NOT the same thing as holding others accountable,
+which we will discuss in my Management Principles.
+[38] Luck—both good and bad—is a reality. But it is not a reason for an
+excuse. In life, we have a large number of choices, and luck can play a
+dominant role in the outcomes of our choices. But if you have a large
+enough sample size—if you have large number of decisions (if you are
+playing a lot of poker hands, for example)—over time, luck will cancel out
+and skill will have a dominant role in determining outcomes. A superior
+decision-maker will produce superior outcomes. That does not mean there
+won't be certain bad- (or good-) luck events that are life changing: a friend
+of mine dove into a swimming pool and became a quadriplegic. But he
+approached his situation well and became as happy as anybody else,
+because there are many paths to happiness. What happens to a lot of people
+is that they don't take personal responsibility for their outcomes, and as a
+result fail to make the best possible decisions.
+[39] As I mentioned earlier, I believe that nature is symbiotic—and that we
+must give to it for it to give back.
+[40] The you I am referring to here is the strategic you – the one who is
+deciding on what you want and how best to get it, previously referred to as
+you (1).
+[41] Some societies define evil to be the desires that can take you away from
+your goals, which I think is a good way of seeing the difference between
+goals and desires. That doesn't mean I think that there isn't room for a little
+"bad", but I do think that desires that fundamentally divert you from your
+goals should be avoided at all cost.
+[42] This might sound inconsistent with the previous point that you can't
+have everything. It's not. I am saying that, at this stage of goal-setting, don't
+set your goals based on what you think you can achieve. In the process of
+doing the other four steps (especially designing) you will thoroughly think
+through what is possible. Then you will circle back and enter the goal-
+setting mode again. As I mentioned, this five-step process is iterative, but
+it must be pursued one step at a time in order to do each step excellently.
+[43] The more creative I am, the less hard I have to work.
+[44] Though I've said it before, it's worth saying again: I understand that
+recognizing harsh realities can be extremely painful. But I've learned that if
+you can stare hard at your problems, they almost always shrink or
+disappear, because you almost always find a better way of dealing with
+them than if you don't face them head on. The more difficult the problem,
+the more important it is that you stare at it and deal with it. After seeing
+how effectively facing reality – especially your problems, mistakes and
+weaknesses – works, you will become comfortable with it and won't want
+to operate any other way. I also believe that one of the best ways of getting
+at truth is reflecting with others who have opposing views and who share
+your interest in finding the truth rather than being proven right.
+[45] This is typically because they let their emotions control their behavior
+and/or they haven't learned how to deal with their problems e.g., the
+amygdala is "hijacking" decision-making away from the pre-frontal cortex.
+[46] There are also other antidotes that we will delve into in the next book.
+[47] Not caring to solve problems often occurs when the expected reward is
+less than the expected cost. For example, when someone is working toward
+someone else's goals without being appropriately supervised, rewarded or
+punished.
+[48] The organization Outward Bound has a concept that is helpful in
+thinking about the optimal pace of personal evolution. They speak of a
+comfort zone, a stretch zone and a panic zone. It's best to spend most of
+your time in the stretch zone.
+[49] Thomas Edison said about failure: "I have not failed. I've just found
+10,000 ways that don't work." "I am discouraged, because every wrong
+attempt discarded is another step forward." "Results! Why, man, I have
+gotten a lot of results. I know several thousand things that won't work."
+"When I have fully decided that a result is worth getting I go ahead of it and
+make trial after trial until it comes." "Many of life's failures are men who
+did not realize how close they were to success when they gave up."
+[50] A good book about this is Einstein's Mistakes by Hans Ohanian.
+[51] If you recognize short-term failure as a step toward long-term success,
+which it really is if you learn from it, you won't be afraid of it or made
+uncomfortable by it and you will approach all of your experiences as
+learning experiences, even the most difficult ones.
+[52] Ego often stands in the way of acknowledging your weaknesses (which
+is the essential first step in overcoming them), like being afraid to ask a
+question because people might think you're stupid because you don't know
+something. Yet acknowledging those weaknesses (e.g., "I know I'm a dumb
+shit, but I'd just like to know...") helps you move beyond ego toward
+learning and improving.
+[53] Most people have a tough time disagreeing about the most trivial
+things, like whether they like the same restaurant, yet are happy to
+confidently express their opinions, however badly they are formed, if they
+get them out first. As a result, there is an overabundance of confident bad
+opinions around and very few thoughtful conclusions arising from learning
+from each other. It is common for conversations to be exchanges of
+sentences that begin "I think..." followed by their conclusions, and both
+parties believing that they had a good conversation and feeling good about
+each other, even though nothing was accomplished. If most people did the
+opposite—i.e., if they sought out and open-mindedly explored their
+disagreements—it would produce a radical increase in learning, and the
+world would be a much better place.
+[54] In fact, I once toyed with the possibility of developing a voting system
+based on a believability matrix. Though that might not be possible for
+practical reasons, it suggests the merit-based decision-making we aspire
+toward with our current process. The challenging and probing we encourage
+are not meant to second-guess every decision but to help us assess the
+quality of our work over time.
+[55] The thing that I like least (or dislike most) about my job is fighting to
+maintain standards, but it must be done. I know that the only way for me to
+succeed and to be happy is to have good people do it for me, which means
+that I have to hire, train, and sort out people. It is futile to give
+responsibilities to people who do not have the qualities required to succeed.
+It frustrates, and inevitably angers, all parties, which is subversive to the
+environment. So, hiring, training, and sorting out people so that
+responsibilities are placed in the hands of people who can be trusted to do
+an excellent job is the only viable path, and is extremely satisfying.
+[56] I have particularly valued psychologist Bob Eichinger.
+[57] I am convinced that we are just scratching the surface of understanding
+differences in how people think and how to test for it, so there is great
+potential for others to follow this path. Unfortunately, most of the world's
+experts I have met are more theoretical than practical.
+[58] A good book on this is A Whole New Mind by Daniel H. Pink, and a good
+article on the science of this is "A Wandering Mind Heads Straight
+Toward Insight" by Robert Lee Hotz from The Wall Street Journal.
+[59] "Bright" people have high IQs, are highly analytical thinkers, and can
+solve complex mental problems.
+[60] "Smart" people have common sense, are good at synthesizing, and can
+imagine what is possible.
+[61] Even the "mistakes" that nature makes have a purpose; they are
+essential for the evolutionary process.
+[62] The importance of a skill will vary according to the job. The more
+knowledge-dependent and independent in nature the job is (e.g., a
+programmer or lawyer whose job isn't to think about the direction of the
+company), the more relevant the required skills are.
+[63] Consider how few important decisions you make as a student from first
+grade through college. Other than deciding which college to attend in the
+senior year of high school and which major to pursue in the sophomore year
+of college, most people normally just do what they are told to do.
+[64] You learn principles by experiencing the rewards and punishments of
+your actions interacting with reality. The clearer the relationship is between
+cause and effect, the better it is for learning and evolving. So clearly
+designated responsibilities enhance the feedback and learning process. For
+example, if you are in the woods and have to survive on your own, the
+connection between your actions and their results is clearer and is all that
+matters. Blame doesn't enter into it as it gets you nothing. All that you
+focus on are the interactions between your actions and their results.
+[65] If you answered C and A, you understand the concept. If you didn't,
+think again.
+[66] Child psychologists, dog trainers, and other behavior modification
+specialists will tell you that constant, no-exception feedback is fundamental
+to good training.
+[67] I believe that school overrates the importance of intellectualized
+learning. People who were terrific in school and very good at this type of
+learning tend to overvalue it, or at least fail to distinguish it from the
+experiential/internalized kind of learning. This lack of differentiation can
+become a great peril later in life. Many people who have had great
+academic success need to be mindful of this challenge, especially if their
+success has been in the "sciences," such as math and engineering. I also
+believe this is why hands-on experience is particularly valuable for these
+types of people.
+[68] Which would be because the manager—the responsible party for
+making it clear who is responsible for what—is failing to do that well.
+[69] That doesn't mean that all people have to solve and prevent all repeating
+problems or they shouldn't be in their jobs. That might not be possible
+because smaller, repeating problems might be consciously accepted until
+they become high enough priorities to be fixed. However, it does mean that
+repeating problems should be recognized and, if not able to be resolved,
+they must be elevated.
+[70] Good conceptual thinkers naturally see things in this outline-like form
+and know how to navigate. They know whether they are having an above-
+the-line conversation and appropriately delving, and they know how to
+navigate between both levels. Poor conceptual thinkers tend to get confused
+because they see things as one big pile of information from which they pick
+data points almost at random.
+[71] As Lee Ann Womack's country and western song says, when you have
+a choice between sitting it out or dancing, I hope you'll dance.
+[72] Everyone is wrestling with some things, but most people don't talk
+about them—some people don't like to probe you about your weaknesses
+because they think it's unkind or awkward. And it's often difficult for us to
+see and accept our own weaknesses. So when you are really in synch with
+others about what you're wrestling with, that is a great step forward,
+because this feedback is probably true.
+Table of Contents
+Part 1: The Importance of Principles
+Part 2: My Most Fundamental Life Principles
+Part 3: My Management Principles
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
+[11]
+[12]
+[13]
+[14]
+[15]
+[16]
+[17]
+[18]
+[19]
+[20]
+[21]
+[22]
+[23]
+[24]
+[25]
+[26]
+[27]
+[28]
+[29]
+[30]
+[31]
+[32]
+[33]
+[34]
+[35]
+[36]
+[37]
+[38]
+[39]
+[40]
+[41]
+[42]
+[43]
+[44]
+[45]
+[46]
+[47]
+[48]
+[49]
+[50]
