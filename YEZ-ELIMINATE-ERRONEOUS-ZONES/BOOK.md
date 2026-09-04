@@ -50,7 +50,7 @@ When anger or upset arises, postpone the reaction for fifteen seconds. Increase 
 #### Keep In Mind
 
 - According to the author, happiness is a state of contentment that you can cultivate through your thinking rather than a passive response to circumstances.
-- According to the author, changing your thoughts is the primary way to change your feelings.
+- According to the author, changing your thoughts is the main way to change how you feel.
 
 #### Security & Safety Notes
 
@@ -68,7 +68,7 @@ When anger or upset arises, postpone the reaction for fifteen seconds. Increase 
 #### Examples
 
 - **Example 1: Noah on the Ark**: The author describes how Noah first secured his own family before caring for the animals. The author uses this story to support the view that you cannot care for others until you first care for yourself.
-- **Example 2: Body-List Exercise**: Write down everything you like and dislike about your body. Notice that dislikes are rooted in cultural messages rather than your own values, according to the author.
+ - **Example 2: Body-List Exercise**: Write down the likes and dislikes you have about your body. Notice that dislikes are rooted in cultural messages rather than your own values, according to the author.
 
 #### Step 1: Complete the Body-List Exercise
 
@@ -80,7 +80,7 @@ At a social gathering, notice the complaints you hear. According to the author, 
 
 #### Step 3: List Your Self-Veto Behaviors
 
-Write down behaviors you engage in that are self-destructive or self-limiting according to the author (e.g., procrastination, overeating, people-pleasing). These are behaviors that block your own well-being according to the author.
+Write down behaviors you engage in that are self-destructive or self-limiting according to the author (e.g., procrastination, overeating, people-pleasing). These are behaviors that block your own health according to the author.
 
 #### Step 4: Identify the Neurotic Payoffs
 
@@ -128,7 +128,7 @@ List instances you notice in which you adjust your behavior to gain approval or 
 
 #### Step 2: Understand the Neurotic Payoffs
 
-Recognize what you gain from approval-seeking according to the author: avoidance of conflict, temporary safety, and false sense of belonging according to the author. These are short-term gains that create long-term dependency according to the author.
+Recognize what you gain from approval-seeking according to the author: avoidance of conflict, short-term safety, and false feeling of belonging according to the author. These are short-term gains that create long-term dependency according to the author.
 
 #### Step 3: Break the Chain
 
@@ -144,7 +144,7 @@ Deliberately do something that might elicit disapproval. This builds tolerance t
 
 #### Step 6: Ignore Disapproval
 
-When disapproval occurs, treat it as information to evaluate rather than a final verdict, according to the author. Filter it through your own stated values and use it only if it helps you change, according to the author.
+When disapproval occurs, treat it as information to evaluate rather than a final verdict, according to the author. Filter it through your own stated values and use it only if it helps you improve according to the author.
 
 #### Step 7: Stop Apologizing
 
@@ -152,7 +152,7 @@ Eliminate unnecessary apologies. Apologizing can signal that you believe you hav
 
 #### Step 8: Monitor Conversation Patterns
 
-Notice when you change topics to please others, agree when you disagree, or avoid expressing true opinions according to the author. These are approval-seeking patterns according to the author.
+Notice when you change topics to please others, agree when you disagree, or avoid expressing your actual views according to the author. These are approval-seeking patterns according to the author.
 
 #### Best Practices
 
@@ -251,7 +251,7 @@ Guilt comes from two sources according to the author: leftover childhood conditi
 
 #### Step 4: Recognize the Psychological Payoffs of Guilt
 
-Guilt provides according to the author: excuse for poor performance, manipulation of others, avoidance of self-improvement, self-pity, and temporary absolution from responsibility according to the author.
+Guilt provides according to the author: excuse for poor performance, manipulation of others, avoidance of self-improvement, self-pity, and short-term absolution from responsibility according to the author.
 
 #### Step 5: Keep a Guilt Journal
 
@@ -324,11 +324,11 @@ Stop measuring your value by what you accomplish according to the author. Replac
 
 #### Step 6: Overcome Perfectionism
 
-Change "I must do my best" to "I will do" according to the author. Action without the demand for perfection is more productive and less stressful according to the author.
+Change "I must do my best" to "I will do" according to the author. Action without the demand for perfection is more completed and less stressful according to the author.
 
 #### Step 7: Eliminate Prejudice by Challenging Rigidity
 
-Prejudice is rigid thinking about people according to the author. Challenge your assumptions by seeking first-hand experience with those you have prejudged according to the author.
+Prejudice is inflexible thinking about people according to the author. Challenge your assumptions by seeking first-hand experience with those you have prejudged according to the author.
 
 #### Step 8: Identify Your Fear of the Unknown Behaviors
 
@@ -336,7 +336,7 @@ Use the checklist according to the author: Do you avoid new foods, new routes, n
 
 #### Step 9: Understand the Psychological Support System
 
-Identify what you avoid or obtain by being fearful according to the author (e.g., safety, excuse for inaction, identity as a cautious person). Then choose to give up the result according to the author.
+Identify what you avoid or obtain by being fearful according to the author (e.g., short-term safety, excuse for inaction, identity as a cautious person). Then choose to give up the result according to the author.
 
 #### Step 10: Implement Strategies for the Unknown
 
@@ -346,13 +346,13 @@ Identify what you avoid or obtain by being fearful according to the author (e.g.
 - Travel to new places according to the author
 - Meet new people according to the author
 
-#### Step 11: Recognize That Falling Short, as Many Define It, Does Not Reflect Your Value
+#### Step 11: Recognize That Falling Short, in Common Usage, Does Not Reflect Your Value
 
 Falling short, meaning not meeting a goal others set for you, is an external judgment according to the author. What appears as falling short is information you can use to change according to the author. According to the author, your sense of value comes from within and is not diminished by external events.
 
 #### Step 12: Remember That Change Requires the Unknown
 
-Change happens outside your comfort zone according to the author. Choose change over familiar routines when those routines prevent you from acting in alignment with your stated principles according to the author.
+Change happens outside your comfort zone according to the author. Choose personal change over familiar routines when those routines prevent you from acting in alignment with your stated principles according to the author.
 
 #### Best Practices
 
@@ -393,7 +393,7 @@ Blaming others for your feelings or circumstances gives them influence over your
 
 #### Step 3: Escape the Right vs. Wrong Trap
 
-Some situations are not matters of absolute right and wrong according to the author. Rigid thinking creates unnecessary conflict and keeps you from acting according to the author. Practice flexibility according to the author.
+Not all situations are matters of absolute right and wrong according to the author. Inflexible thinking creates unnecessary conflict and keeps you from acting according to the author. Practice flexibility according to the author.
 
 #### Step 4: Overcome Indecisiveness
 
@@ -403,9 +403,9 @@ Indecisiveness is fear of making the wrong choice according to the author. Remem
 
 Musterbation is the belief that things "must" be a certain way according to the author. Replace "must" with "I would prefer" according to the author. This reduces rigidity and anger according to the author.
 
-#### Step 6: Challenge Useless Etiquette Rules
+#### Step 6: Challenge Etiquette Rules That Do Not Serve You
 
-Examine social conventions according to the author. Do they serve real connection with others according to the author, or do they create anxiety and social performance according to the author? Drop the ones that do not serve you according to the author.
+Examine social conventions according to the author. Do they serve clear communication and closeness with others according to the author, or do they create anxiety and social performance according to the author? Drop the ones that do not serve you according to the author.
 
 #### Step 7: Evaluate Rather Than Blindly Obey Rules
 
@@ -421,7 +421,7 @@ List the "shoulds" you notice that govern your life according to the author. Whe
 
 #### Step 10: Understand the Payoffs of Musterbation
 
-Musterbation provides according to the author: sense of control, moral superiority, excuse for anger, and justification for judgment of others according to the author.
+Musterbation provides according to the author: feeling of control, feeling of being morally better, excuse for anger, and justification for judgment of others according to the author.
 
 #### Step 11: Implement Strategies for Removing Shoulds
 
@@ -452,7 +452,7 @@ Stop seeking external validation of your behavior according to the author. Trust
 #### Common Pitfalls
 
 - **Problem:** Rejecting structure and becoming chaotic
-  **Solution:** Self-discipline without rigid perfectionism about order means having internal individual structure without rigid external rules, according to the author.
+  **Solution:** Self-discipline without inflexible perfectionism about order means having internal individual structure without inflexible external rules, according to the author.
 
 ---
 
@@ -460,12 +460,12 @@ Stop seeking external validation of your behavior according to the author. Trust
 
 #### Examples
 
-- **Example 1: Judy's Marriage**: Judy demanded fairness in her marriage and became unhappy because her husband did not meet her standards of "fair."
+ - **Example 1: Judy's Marriage**: Judy demanded fairness, meaning getting what you think you deserve, in her marriage and became unhappy because her husband did not meet her standards of "fair."
 - **Example 2: Helen's Jealousy**: Helen was jealous of her husband's attention to their child. She demanded equal attention, not recognizing that the child's needs were different.
 
 #### Step 1: Recognize That Fairness Is a Personal Construct
 
-What is "fair" to you according to the author may not be fair to someone else according to the author. Demanding fairness keeps you from acting according to the author because the world does not operate by your individual rules according to the author.
+What is "fair," meaning getting what you think you deserve, to you according to the author may not be fair to someone else according to the author. Demanding fairness keeps you from acting according to the author because the world does not operate by your individual rules according to the author.
 
 #### Step 2: Identify Ineffective Relationships Caused by Fairness Demands
 
@@ -477,7 +477,7 @@ Justice belongs in courts, not in intimate relationships according to the author
 
 #### Step 4: Replace Justice Language with Choice Language
 
-Instead of "This isn't fair," say "I choose to respond differently" according to the author. Instead of "You owe me," say "I would prefer it if..." according to the author.
+Instead of "This isn't fair," say "I choose a different response" according to the author. Instead of "You owe me," say "I would prefer it if..." according to the author.
 
 #### Step 5: Make a List of Justice Demands
 
@@ -582,7 +582,7 @@ Stop keeping an external scorecard based on others' opinions. Create an individu
 
 #### Examples
 
-- **Example 1: The Bird Leaving the Nest**: The author describes how a parent bird teaches the young bird to fly and then stops supporting it. The author contrasts this with human families, where parents often continue supporting and create dependency according to the author.
+ - **Example 1: The Bird Leaving the Nest**: The author describes how a parent bird teaches the young bird to fly and then stops supporting it. The author contrasts this with human families, where parents may continue supporting and create dependency according to the author.
 - **Example 2: The Declaration of Independence**: Write your own declaration of independence from the people, habits, and beliefs that keep you dependent.
 
 #### Step 1: Distinguish Psychological Independence from Physical Independence
@@ -679,7 +679,7 @@ When angry with a loved one, hold hands despite your inclination not to accordin
 
 Find humor in the situation. Laughter reduces anger more effectively than confrontation according to the author.
 
-#### Step 9: Get Rid of Expectations
+#### Step 9: Get Rid of Anticipations
 
 Anger arises when reality does not match your anticipations according to the author. When anticipations go away, anger goes away according to the author.
 
@@ -700,7 +700,7 @@ Everyone has a right to be what they choose according to the author. Demanding t
 
 #### Security & Safety Notes
 
-- Do not ever use physical violence or verbal abuse. If you cannot control your anger, remove yourself from the situation according to the author.
+- Avoid using physical violence or verbal abuse. If you cannot control your anger, remove yourself from the situation according to the author.
 
 #### Common Pitfalls
 
@@ -714,9 +714,9 @@ Everyone has a right to be what they choose according to the author. Demanding t
 #### Examples
 
 - **Example 1: Enjoying the Rain**: A person free from erroneous zones according to the author enjoys rain, heat, traffic jams, and solitude without complaint according to the author.
-- **Example 2: The Sunset**: They do not often tire of a sunset or a bird in flight according to the author. They spontaneously appreciate the natural world repeatedly according to the author.
+ - **Example 2: The Sunset**: They do not grow weary of a sunset or a bird in flight according to the author. They spontaneously appreciate the natural world time and again according to the author.
 
-#### Step 1: Like Most Everything About Life
+#### Step 1: Appreciate Most Things About Life
 
 Practice liking situations rather than complaining about them according to the author. Rain is beautiful according to the author; slush is part of existing according to the author; heat is something to experience according to the author.
 
@@ -738,7 +738,7 @@ Value freedom over dependence according to the author. When dependency becomes c
 
 #### Step 6: Be Free from the Need for Approval
 
-Function without seeking external praise according to the author. Be internally directed. Don't couch your messages in carefully worded phrases designed to please according to the author. Say exactly what you think according to the author.
+Function without seeking external praise according to the author. Be internally directed. Don't phrase your messages in carefully worded phrases designed to please according to the author. Say exactly what you think according to the author.
 
 #### Step 7: Resist Enculturation
 
@@ -746,15 +746,15 @@ Make your own choices even when they conflict with society according to the auth
 
 #### Step 8: Know How to Laugh and Create Laughter
 
-Find humor in some situations according to the author. Laugh with people, not at them according to the author. Do not ever use ridicule to create laughter according to the author.
+Find humor in situations according to the author. Laugh with people, not at them according to the author. Avoid using ridicule to create laughter according to the author.
 
 #### Step 9: Accept Yourself Without Complaint
 
-Accept your physical appearance and humanity without apology according to the author. No hiding behind artificialities according to the author, no self-deprecation according to the author.
+Accept your physical appearance and humanity without apology according to the author. Do not hide behind false appearances according to the author, no self-deprecation according to the author.
 
 #### Step 10: Accept the World Without Complaint
 
-Accept what cannot be changed according to the author: heat waves, rainstorms, cold water. Accept yourself and the world as it is according to the author. No pretenses, no groaning according to the author.
+Accept what cannot be changed according to the author: heat waves, rainstorms, cold water. Accept yourself and the world as it is according to the author. No false appearances, no complaining according to the author.
 
 #### Step 11: Develop Insight into Others
 
@@ -764,7 +764,7 @@ See problems as minor annoyances, not barriers that stop you, according to the a
 
 Locate your sense of value within your own stated principles and self-assessment rather than external validation according to the author. View problems as difficulties to work through, not as signs of your worth according to the author.
 
-#### Step 13: Avoid Useless Fighting
+#### Step 13: Avoid Fighting That Does Not Produce Change
 
 Only engage in confrontation when it creates concrete improvement aligned with your principles according to the author. Don't sacrifice yourself unnecessarily according to the author. Don't engage in confrontation that does not produce concrete improvement aligned with your principles or support popular causes that you have not independently evaluated according to the author.
 
@@ -784,7 +784,7 @@ Refuse to lie or misrepresent facts according to the author. Lying is a form of 
 
 Speak directly to people about issues rather than discussing them with third parties according to the author. Help others assign responsibility where it belongs according to the author. Don't gossip or spread harmful information about others according to the author.
 
-#### Step 18: Self-Discipline Without Rigid Perfectionism About Order
+#### Step 18: Self-Discipline Without Inflexible Perfectionism About Order
 
 Organization is a useful means, not an end according to the author. Have self-discipline but no need for things to fit an inflexible external order according to the author.
 
@@ -794,11 +794,11 @@ Apply your own approach to tasks rather than relying exclusively on manuals or e
 
 #### Step 20: Maintain High Energy
 
-Do not ever remain in a state of lack of involvement and diminished interest without acting to address it according to the author. Use your time and attention for actions that matter to you according to the author. All life events present opportunities for doing, thinking, feeling, and living according to the author.
+Avoid remaining in a state of lack of involvement and diminished interest without acting to address it according to the author. Use your time and attention for actions that matter to you according to the author. All life events present opportunities for doing, thinking, feeling, and living according to the author.
 
 #### Step 21: Be Aggressively Curious
 
-Seek lessons from a wide range of sources: children, professionals, animals, service workers, and artists according to the author. Do not ever believe you are a finished product according to the author. Pursue information actively according to the author.
+Seek lessons from a wide range of sources: children, professionals, animals, service workers, and artists according to the author. Avoid believing you are a finished product according to the author. Pursue information actively according to the author.
 
 #### Step 22: Do Not Fear Falling Short of External Standards
 
@@ -810,7 +810,7 @@ Accept others' right to their own choices and behaviors according to the author.
 
 #### Step 24: Develop a Lack of Defensiveness
 
-Agree to disagree according to the author. Don't need to win arguments according to the author. Say "That's all right; we're just different. We don't have to agree" according to the author.
+Agree to disagree according to the author. You do not need to win arguments according to the author. Say "That's all right; we're just different. We don't have to agree" according to the author.
 
 #### Step 25: Have Universal Values
 
@@ -818,7 +818,7 @@ Identify with the shared human experience across national, cultural, and group b
 
 #### Step 26: Have No Heroes or Idols
 
-See people as individuals with their own autonomy, needs, and flaws according to the author. Do not let anyone else's needs, opinions, or demands override your own health according to the author. Don't demand justice at each turn according to the author.
+See people as individuals with their own autonomy, needs, and flaws according to the author. Do not let another person's needs, opinions, or demands override your own health according to the author. Don't demand justice at each turn according to the author.
 
 #### Step 27: Love Yourself
 
@@ -973,7 +973,7 @@ According to the author, freedom from erroneous zones is a choice you can make i
 |obedience, blind|Unquestioning following of rules and authority, according to the author|150–151|
 |obligation|The false sense of duty that creates dependency, according to the author|196|
 |On Liberty|Reference on individual freedom and self-direction, according to the author|147|
-|organization syndrome|The neurotic need for all things to be in their place, according to the author|154, 231|
+|organization syndrome|The neurotic need for every item to be in its place, according to the author|154, 231|
 |other-direction|Living according to others' anticipations rather than your own, according to the author|31, 167–168|
 |other-worth|Valuing yourself based on others' opinions, according to the author|28|
 |"oughts"|See "shoulds", according to the author|138–163|
