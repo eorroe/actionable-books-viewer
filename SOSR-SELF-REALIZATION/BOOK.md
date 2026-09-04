@@ -25,20 +25,20 @@ Science of Self-Realization teaches the systematic process of understanding one'
 
 #### Step 1: Recognize That You Are Not Your Body
 
-Observe the changes in your body throughout life (child → boy → adult → old person) while your identity remains the same. This continuity of identity proves the soul is constant while the body changes. Understand that at death, the soul leaves the body and takes another body according to karma and desires, just as a person changes clothes.
+Observe the changes in your body throughout life (child → boy → adult → old person) while your identity remains the same. This continuity of identity proves the soul is constant while the body changes. Understand that at death, the soul leaves the body and takes another body according to the soul's karma and desires, just as a person changes clothes.
 
 #### Step 2: Understand the Process of Transmigration
 
-Learn that the spirit soul is invisible and extremely small in size. At death, the subtle body (mind, intelligence, ego) carries the soul to another gross body. This process is like air carrying a fragrance—invisible to the eye but perceptible by its effect. The soul's next birth is decided by association with the three modes of material nature (goodness, passion, and ignorance) during this life.
+Learn that the spirit soul is invisible and extremely small in size. At death, the subtle body (mind, intelligence, ego) carries the soul to another gross body. This process is like air carrying a fragrance—invisible to the eye but perceptible by its effect. The soul's next birth is decided by association with the three modes of material nature (goodness, passion, and ignorance) during the soul's present life.
 
 #### Step 3: Realize That Misunderstanding the Body as the Self Is Ignorance
 
-The whole modern civilization operates on the misunderstanding that the body is the self (dehatma-buddhi). This bodily identification is the same mentality that animals have. If you think you are your body, you will identify yourself by bodily designations such as nationality, race, gender, and social status: "I am American," "I am Indian," etc. Such identification is ignorance.
+Much of modern civilization operates on the misunderstanding that the body is the self (dehatma-buddhi). This bodily identification is the same mentality that animals have. If you think you are your body, you will identify yourself by bodily designations such as nationality, race, gender, and social status: "I am American," "I am Indian," etc. Such identification is ignorance.
 
 #### Best Practices
 
 - ✅ Regularly remind yourself: "I am not this body; I am a spirit soul."
-- ✅ Observe how others identify themselves by bodily designations and recognize this as ignorance.
+ - ✅ Observe how people around you identify themselves by bodily designations and recognize this as ignorance.
  - ❌ Don't become overly concerned with bodily maintenance at the expense of spiritual growth.
  - ❌ Don't think that material progress (nice house, car, job) equals real progress.
 
@@ -95,7 +95,7 @@ The five chains that bind the human being to mundane material consciousness are:
 1. Attachment to the material body due to ignorance of spiritual facts
 2. Attachment to family members due to bodily relationships
 3. Attachment to the land of birth and material possessions
-4. Attachment to materialistic science without spiritual knowledge
+4. Attachment to materialistic science (empirical science that excludes spiritual knowledge) without spiritual knowledge
 5. Attachment to religious forms without knowing the Supreme Personality of Godhead
 
 #### Step 2: Use the Weapon of Detachment
@@ -178,7 +178,7 @@ Caitanya Mahaprabhu recommends pure devotional service. There should be no desir
 #### Keep In Mind
 
  - Pure devotion is devoid of desires for personal sense gratification—such as the desire for material comfort, fame, or bodily pleasure.
- - Even demoniac enemies of Krsna get liberation (mukti) if killed by Krsna in His pastimes; therefore advanced devotees should not desire liberation but only service.
+ - Even demoniac enemies of Krsna get liberation (mukti) if killed by Krsna during His earthly pastimes; therefore advanced devotees should not desire liberation but only service.
   - As long as one desires material benefit such as money, fame, or bodily pleasure—or even spiritual liberation (mukti) for oneself, one cannot attain pure love of Godhead.
 
 #### Security & Safety Notes
@@ -200,7 +200,7 @@ Caitanya Mahaprabhu recommends pure devotional service. There should be no desir
 
 #### Step 1: Accept That God Is Unlimited
 
-God is unlimited; we are limited. Our knowledge and perception are both very limited, so we cannot understand the unlimited by our own speculation.
+All embodied souls are limited, so we cannot understand the unlimited by our own speculation.
 
 #### Step 2: Receive Knowledge from the Perfect Source
 
@@ -208,7 +208,7 @@ Receive knowledge from Krsna, the supreme perfect being. The Vedas are like the 
 
 #### Step 3: Apply the Knowledge Practically
 
-Krsna consciousness is not mere theory. Krsna consciousness can be practiced in daily life and can be verified through personal spiritual experience.
+Krsna consciousness is not mere theory. Krsna consciousness can be practiced in daily life and can be verified through personal spiritual experience in devotional practice.
 
 #### Best Practices
 
@@ -245,7 +245,7 @@ Chant on beads daily. Chant in the association of devotees. Chanting is the most
 
 - ✅ Chant attentively on beads.
 - ✅ Chant in the association of devotees.
-- ❌ Don't think that simply thinking of Krishna is enough; engage the senses in chanting.
+ - ❌ Don't think that simply mentally thinking of Krishna without engaging the senses is enough; engage the senses in chanting.
 
 #### Keep In Mind
 
@@ -267,11 +267,11 @@ Mix with those who are cultivating Krsna conscious knowledge. Try to understand 
 
 #### Step 3: Become a Practitioner
 
-When you become one of the devotees, your misgivings go away. You become more faithful and get a real taste for Krsna consciousness.
+When you become a regular practitioner of Krsna consciousness, your misgivings go away. You become more faithful and get a real taste for Krsna consciousness.
 
 #### Step 4: Develop Firm Faith and Taste
 
-Why aren't these young devotees going to see the cinema? Why don't they eat meat or go to the nightclub? Because their spiritual preferences have changed. They hate all these things now.
+Why aren't these young practitioners going to see the cinema? Why don't they eat meat or go to the nightclub? Because their spiritual preferences have changed. They hate all these things now.
 
 #### Step 5: Achieve God Realization and Love of God
 
@@ -331,7 +331,7 @@ Some religious people are satisfied simply by attending church (a Christian plac
 
 #### Step 2: Realize That Pure Devotees Reject All of Them
 
-Pure devotees do not accept any of the five types of material liberation. Pure devotees desire only to serve Krsna in devotional service.
+Pure devotees do not accept any of the four types of spiritual liberation (salokya, sarsti, sarupya, samipya) or the impersonal merger (sayujya). Pure devotees desire only to serve Krsna in devotional service.
 
 #### Step 3: Follow Prahlada Maharaja's Example
 
@@ -410,7 +410,7 @@ The Six Gosvamis—Sri Rupa, Sanatana, Sri Jiva, Gopala, Raghunatha dasa, and Ra
 
 #### Step 2: Engage in Chanting, Dancing, and Writing
 
-They were always engaged in chanting Hare Krishna and dancing in ecstasy (intense spiritual joy). They taught that when a devotee is absorbed in krsna-kirtana (congregational chanting of the holy names), he merges into the ocean of love of Krsna.
+They were always engaged in chanting Hare Krishna and dancing in ecstasy (intense spiritual joy). They taught that when a devotee is absorbed in krsna-kirtana (congregational chanting of the holy names), he enters into the ocean of loving relationships with Krsna.
 
 #### Step 3: Follow Their Renunciation
 
@@ -479,7 +479,7 @@ By the mercy of the spiritual master, the disciple receives Krsna's benediction 
 #### Keep In Mind
 
 - Krsna is always Krsna; the spiritual master is always the spiritual master.
- - A spiritual master in the disciplic succession is addressed as prabhupada, meaning "one who has taken the position of the Lord (as the Supreme Personality of Godhead)."
+ - A spiritual master in the disciplic succession is addressed as prabhupada, meaning "one who represents the Lord as His servant."
 
 ---
 
