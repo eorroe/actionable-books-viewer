@@ -20,19 +20,19 @@ This book teaches a framework for life and management based on radical truth and
 
 ##### Example 1: Department Structure
 
-Combining client agreements and counterparty agreements under one manager is a mistake because the skills required are fundamentally different. Each kind calls for specific knowledge and skills.
+Combining client agreements and counterparty agreements under one manager is a mistake because the skills required are distinctly different. Each kind calls for specific knowledge and skills.
 
 ##### Example 2: Manager Ratios
 
-The ratio of senior managers to junior managers should not exceed 1:10, and should target 1:5, to preserve quality communication.
+The ratio of senior managers to junior managers should not exceed 1:10, and should target 1:5, to preserve effective communication.
 
 #### Step 1: Limit Manager Ratios
 
-Maintain a ratio of senior managers to direct reports that preserves communication quality. The ratio should not exceed 1:10, and should target 1:5 for teams requiring high collaboration. The appropriate ratio will vary depending on how many people your direct reports have reporting to them, the complexity of the jobs they're doing, and the manager's ability to handle several people or projects at once.
+Maintain a ratio of senior managers to direct reports that preserves effective communication. The ratio should not exceed 1:10, and should target 1:5 for teams requiring high collaboration. The appropriate ratio will vary depending on how many people your direct reports have reporting to them, the difficulty of the jobs they're doing, and the manager's ability to handle several people or projects at once.
 
 #### Step 2: Minimize Hierarchy Layers
 
-Create an organizational chart with a clear hierarchical structure with no dual reporting lines. Limit the number of layers to minimize hierarchy while maintaining a span of control of no more than 10 direct reports per manager.
+Create an organizational chart with a clear hierarchical structure with no dual reporting lines. Limit the number of layers to reduce hierarchy while maintaining a span of control of no more than 10 direct reports per manager.
 
 #### Step 3: Assign By Ability Not Title
 
@@ -49,7 +49,7 @@ Assign responsibilities based on workflow design and people's demonstrated track
 
 #### Keep In Mind
 
-- For organizations with more than 100 employees, dedicated information technology expertise in management and cross-department communication become increasingly important. Technology expertise should be sufficient to evaluate technical trade-offs and resource requirements.
+- For larger organizations (typically those with more than 100 employees), dedicated information technology expertise in management and cross-department communication become increasingly important. Technology expertise should be sufficient to evaluate technical trade-offs and resource requirements.
 - Jobs are created primarily based on the work that needs to be done, not what people want to do
 
 #### Security & Safety Notes
@@ -74,23 +74,23 @@ Document common questions and answers through written guidelines first, then sup
 
 ##### Example 2: Manager Leverage
 
-A master manager doesn't have to perform practical tasks. A highly experienced manager can hire people to hire and oversee, achieving such leverage that operations meet quality and timeliness targets without manager intervention.
+A highly experienced manager can hire people to hire and oversee, achieving such leverage that operations meet quality and timeliness targets without manager intervention.
 
 #### Step 1: Think Creatively About Tools
 
-At each planning cycle, think about how to produce leverage using technology. Design tools that provide leverage for you and your team.
+At each planning period, think about how to produce leverage using technology. Design tools that provide leverage for you and your team.
 
 #### Step 2: Delegate Details Away
 
-You should be able to delegate the details away. If you consistently cannot, diagnose the barrier: either you have insufficient training resources, ineffective management practices, or people lacking the required skills for the role.
+You must be able to delegate the details away. If you consistently cannot, diagnose the barrier: either you have inadequate training resources, poor management practices, or people lacking the necessary skills for the role.
 
 #### Step 3: Hire Smart People With Great Technology
 
-It is more effective to find a few people with demonstrated track records of independently delivering complex projects and give them the best technology than to have many people without specialized skills or adequate tools. People with demonstrated track records and great technology in a streamlined organization is optimal.
+It is more effective to find a few people with demonstrated track records of independently delivering complex projects and give them proven technology than to have numerous people without specialized skills or adequate tools. People with demonstrated track records and great technology in an efficient organization is most effective.
 
 #### Step 4: Use Leveragers
 
-Use "leveragers" who are capable of implementing concepts. Conceptualizing and managing are most important and take approximately 10% (conceptualizing and managing) of the time needed for implementing, so good leveragers allow you to accomplish much more.
+Use "leveragers" who are capable of implementing concepts. Conceptualizing and managing are most important and take 10% (conceptualizing and managing) of the time needed for implementing, so good leveragers allow you to accomplish much more.
 
 #### Best Practices
 
@@ -102,7 +102,7 @@ Use "leveragers" who are capable of implementing concepts. Conceptualizing and m
 
 #### Keep In Mind
 
-- Great people and great technology typically provide strong value
+- Great people and great technology often provide strong value
 - Fragmented understanding and control create inefficiencies
 
 #### Security & Safety Notes
@@ -122,7 +122,7 @@ Use "leveragers" who are capable of implementing concepts. Conceptualizing and m
 
 ##### Example 1: Procedures Manual
 
-Maintain a procedures manual describing how all pieces of your machine work with enough detail that a new operator can perform the task without supervisor assistance. Include output from the issues log so teams can identify and prevent repeated errors.
+Maintain a procedures manual describing how all pieces of your organization work with enough detail that a new operator can perform the task without supervisor assistance. Include output from the issues log so teams can identify and prevent repeated errors.
 
 ##### Example 2: Checklists
 
@@ -130,11 +130,11 @@ When people are assigned tasks, capture them on checklists so they can check off
 
 ##### Example 3: Double-Do
 
-Use "double-do" rather than "double-check" for mission-critical tasks. Two parties independently do the same task and a designated reviewer compares the results, catching more errors than double-checking.
+Use "double-do" rather than "double-check" for critical tasks where failure causes severe consequences. Two parties independently do the same task and a designated reviewer compares the results, catching more errors than double-checking.
 
 #### Step 1: Maintain A Procedures Manual
 
-Create a document describing how all pieces of your machine work that is updated quarterly with output from the issues log so teams can identify and prevent repeated errors.
+Create a document describing how all pieces of your organization work that is updated quarterly with output from the issues log so teams can identify and prevent repeated errors.
 
 #### Step 2: Implement Checklists
 
@@ -142,7 +142,7 @@ Capture assigned tasks on checklists so people can check off each item as done. 
 
 #### Step 3: Use Double-Do For Critical Tasks
 
-For mission-critical tasks, use "double-do" where two different people independently do the same task and a designated reviewer compares the results, rather than one person double-checking another's work.
+For critical tasks where failure causes severe consequences, use "double-do" where two different people independently do the same task and a designated reviewer compares the results, rather than one person double-checking another's work.
 
 #### Best Practices
 
@@ -159,7 +159,7 @@ For mission-critical tasks, use "double-do" where two different people independe
 
 #### Security & Safety Notes
 
-- Implement security controls proportional to the value and sensitivity of the asset being protected, as necessary safeguards, not as personal violations of individual integrity
+- Implement security controls based on the value and sensitivity of the asset being protected, as required safeguards, not as personal violations of individual integrity.
 
 #### Common Pitfalls
 
@@ -176,15 +176,15 @@ Expected value is a decision-making framework that considers both the probabilit
 
 ##### Example 1: Risk/Reward Bets
 
-All decisions are risk/reward bets. Risk/reward ratio is the relationship between potential loss and potential gain. Pursue opportunities with expected value greater than zero and maximum loss not exceeding a defined threshold, even if probability is low.
+Decisions involving uncertainty are risk/reward bets. Risk/reward ratio is the relationship between potential loss and potential gain. Pursue opportunities with expected value greater than zero and maximum loss not exceeding a defined threshold, even if probability is low.
 
 ##### Example 2: Raising Probability
 
-Raising the probability of being right from 51% to 85% can be worth more than going from probably wrong (45%) to probably being right (51%) because we are all playing probabilities.
+Raising the probability of being right from 51% to 85% can be worth more than going from likely wrong (45%) to likely being right (51%) because we are all playing probabilities.
 
 #### Step 1: Make Decisions As Expected Value Calculations
 
-Considering both probabilities and payoffs, make sure the probability of outcomes that exceed your risk tolerance is close to zero.
+Considering both probabilities and payoffs, make sure the probability of outcomes that exceed your acceptable risk is less than 1%.
 
 #### Step 2: Diversify Your Bets
 
@@ -208,8 +208,8 @@ Never make important decisions without asking at least three people with demonst
 
 #### Keep In Mind
 
-- The cost of a bad decision is equal to or greater than the reward of a good decision
-- Many outcomes are possible - you must evaluate all relevant possibilities in terms of likelihoods and prioritize
+- The cost of a bad decision often equals or exceeds the reward of a good decision
+- Multiple outcomes are possible - you must evaluate all possibilities within the decision boundary in terms of likelihoods and prioritize
 
 #### Security & Safety Notes
 
@@ -228,27 +228,27 @@ Never make important decisions without asking at least three people with demonst
 
 ##### Example 1: Important Things First
 
-Distinguish the important things from the unimportant things and deal with the important things first. Importance is determined by impact on goals and irreversibility.
+Distinguish the important things from the unimportant things and deal with the important things first. Importance is determined by effect on goals and permanence.
 
 ##### Example 2: Perfectionism Trap
 
-Perfectionists often spend too much time on little differences at the margins at the expense of other big, important things. Be an effective imperfectionist: pursue excellence on critical items while accepting good enough on non-critical items.
+Perfectionists often spend disproportionate time on minor details at the expense of other major, important things. Be an effective imperfectionist: pursue excellence on critical items while accepting sufficient quality on non-critical items.
 
 #### Step 1: Distinguish Important From Unimportant
 
-Identify what matters most. Since 80% of results come from 20% of efforts (the Pareto principle, though the exact ratio varies by domain), there are typically fewer than five important things to consider. The Pareto principle is empirically observed in many domains, though the exact ratio varies.
+Identify what is most important. Since 80% of results come from 20% of efforts (the Pareto principle, though the exact ratio varies by domain), there are typically fewer than five important things to consider. The Pareto principle is empirically observed in multiple domains, though the exact ratio varies.
 
 #### Step 2: Avoid Perfectionism
 
-Don't be a perfectionist. Solutions that meet core requirements for 80% of scenarios are generally better than highly specialized solutions, especially in early stages.
+Don't be a perfectionist. Solutions that meet core requirements for 80% of scenarios are often better than narrowly specialized solutions, especially in initial phases.
 
 #### Step 3: Prioritize Must-Dos
 
-Make sure all essential "must do's" meet minimum quality standards before anything else. Distinguish between "must do's" and "like to do's". Get all essential "must do's" excellent before turning to others.
+Make sure all essential "must do's" meet minimum quality standards before anything else. Distinguish between "must do's" and "like to do's". Get all essential "must do's" to a high standard before turning to others.
 
 #### Step 4: Time Decisions Appropriately
 
-Think about the appropriate time to make a decision in light of the incremental benefit gained from additional information versus the incremental cost of delaying the decision.
+Think about the optimal time to make a decision in light of the additional benefit gained from extra information versus the additional cost of delaying the decision.
 
 #### Best Practices
 
@@ -261,7 +261,7 @@ Think about the appropriate time to make a decision in light of the incremental 
 
 #### Keep In Mind
 
-- 80% of results come from 20% of efforts (the Pareto principle, empirically observed in many domains though the exact ratio varies)
+- 80% of results come from 20% of efforts (the Pareto principle, empirically observed in multiple domains though the exact ratio varies)
 - There are typically fewer than five important things to consider in making a decision
 
 #### Security & Safety Notes
@@ -281,27 +281,27 @@ Think about the appropriate time to make a decision in light of the incremental 
 
 ##### Example 1: Connecting Dots
 
-Diagnosing a few (e.g., five) data points of the same type gets you to the true root cause so that you can see how the machine should be modified to produce better outcomes. For example, one type of outcome involves an employee handling a type of responsibility (entering an order). You will need at least five occurrences to learn about the employee handling this responsibility. It will pay for you to understand the employee and the employee's handling of orders and have the employee understand you by looking objectively at the outcomes and by getting in synch, especially about the unfavorable outcomes.
+Diagnosing a few (e.g., five) data points of the same type gets you to the identified root cause so that you can see how the organization should be modified to produce improved outcomes. For example, one type of outcome involves an employee handling a type of responsibility (entering an order). You will need at least five occurrences to learn about the employee handling this responsibility. It will pay for you to understand the employee and the employee's handling of orders and have the employee understand you by looking objectively at the outcomes and by getting in synch, especially about the unfavorable outcomes.
 
 ##### Example 2: Seeing Through Time
 
-To understand how your organization is functioning, you must perceive change over time, charting improvement vs. deterioration. Synthesize understanding into a comprehensive model of how your organization should be improved.
+To understand how your organization is functioning, you must perceive change over time, charting improvement vs. deterioration. Synthesize understanding into a complete model of how your organization should be improved.
 
 #### Step 1: Diagnose Multiple Instances
 
-Diagnose at least five occurrences of the same type to get at the true root cause. Categorize outcomes by type and quality.
+Diagnose at least five occurrences of the same type to get at the identified root cause. Categorize outcomes by category and quality level.
 
 #### Step 2: Examine Bad Outcomes
 
-Examine unfavorable outcomes as they occur to understand what they are symptomatic of. Don't pass problems by without discussing reasons.
+Examine negative outcomes as they occur to understand what they are indicative of. Don't pass problems by without discussing reasons.
 
 #### Step 3: Perceive Change Over Time
 
-Collect, analyze, and sort performance results over time. Chart key performance indicators against baseline targets to understand your organization's trajectory.
+Collect, analyze, and sort performance results over time. Chart key performance indicators against baseline goals to understand your organization's performance trend.
 
 #### Step 4: Synthesize Understanding
 
-Synthesize your understanding into a comprehensive model of how your organization is functioning and how it should be improved. People who do this well are rare and essential.
+Synthesize your understanding into a complete model of how your organization is functioning and how it should be improved. People who do this well are rare and essential.
 
 #### Best Practices
 
@@ -314,7 +314,7 @@ Synthesize your understanding into a comprehensive model of how your organizatio
 #### Keep In Mind
 
 - In many cases, the level and not the rate of change matters most
-- Everything important must be on a trajectory to meet the minimum acceptable standard and reach high quality at an acceptable pace
+- Everything important must be on a trajectory to meet the minimum acceptable threshold and reach high standard at an acceptable speed
 - Synthesizing well appears to be partially innate and partially learned through practice
 
 #### Security & Safety Notes
@@ -334,15 +334,15 @@ Synthesize your understanding into a comprehensive model of how your organizatio
 
 ##### Example 1: Facing Harsh Realities
 
-Recognizing harsh realities requires emotional effort and leads to better outcomes. If you can stare hard at your problems, they typically shrink or disappear.
+Recognizing harsh realities requires emotional effort and leads to improved outcomes. If you can examine your problems systematically, they often shrink or disappear.
 
 ##### Example 2: Learning From Failure
 
-If you recognize short-term failure as a learning step toward long-term success, which it really is when it generates actionable feedback that improves future performance, you will typically not be afraid of it or made uncomfortable by it and you will approach all of your experiences as learning experiences, even the most difficult ones.
+If you recognize short-term failure as a learning step toward long-term success, which it really is when it generates actionable feedback that improves future performance, you will often not be afraid of it or made uncomfortable by it and you will approach all of your experiences as learning experiences, even the most challenging experiences.
 
 #### Step 1: Embrace Pain And Reality
 
-Accept that recognizing harsh realities can be very painful but is productive. Stare hard at your problems, especially your mistakes and weaknesses.
+Accept that recognizing harsh realities can be emotionally difficult but is productive. Examine your problems systematically, especially your mistakes and weaknesses.
 
 #### Step 2: Reflect Deeply
 
@@ -350,11 +350,11 @@ Use your power of reflectiveness to think deeply about your problems. Ask other 
 
 #### Step 3: Learn From Mistakes
 
-Recognize that mistakes are essential for learning. School overrates intellectualized learning; hands-on experience is especially valuable.
+Recognize that mistakes are necessary for learning. School overrates intellectualized learning; hands-on experience is especially valuable.
 
 #### Step 4: Push Through
 
-When faced with the choice between plodding along normally or pushing through to achieve the goal, choose to push through. MAKE measurable, high-impact outcomes happen.
+When faced with the choice between plodding along normally or pushing through to achieve the goal, choose to push through. Make measurable, significant outcomes happen.
 
 #### Best Practices
 
@@ -368,7 +368,7 @@ When faced with the choice between plodding along normally or pushing through to
 #### Keep In Mind
 
 - In general, the more difficult the problem, the more important it is that you think hard about it and deal with it
-- Ego often stands in the way of acknowledging weaknesses
+- Ego frequently stands in the way of acknowledging weaknesses
 - There are multiple paths to well-being - what happens to you does not necessarily determine happiness
 
 #### Security & Safety Notes
@@ -392,23 +392,23 @@ Your statements should accurately reflect your genuine beliefs and reasoning. In
 
 ##### Example 2: Merit-Based Decision Making
 
-Involve people with demonstrated expertise to challenge and probe, assessing quality of work over time, not to second-guess every decision.
+Involve people with demonstrated expertise to question and examine, assessing standard of work over time, not to second-guess every decision.
 
 #### Step 1: Practice Radical Truth
 
-Tell people your genuine assessment directly but not gratuitously harsh. Your statements should accurately reflect your genuine beliefs and reasoning. Encourage open-minded exploration of disagreements.
+Tell people your honest assessment directly but not unnecessarily harsh. Your statements should accurately reflect your genuine beliefs and reasoning. Encourage willing consideration of disagreements.
 
 #### Step 2: Create Clear Responsibilities
 
-Clearly designate responsibilities to enhance feedback and learning. The connection between actions and results should be clear.
+Clearly designate responsibilities to improve feedback and learning. The connection between actions and results should be explicit.
 
 #### Step 3: Maintain High Standards
 
-Fight to maintain standards. Hire, train, and sort out people so responsibilities are in the hands of those who have the demonstrated skills, consistent motivation, and character traits needed for the role, assessed through observable indicators.
+Work to maintain standards. Hire, train, and sort out people so responsibilities are in the hands of those who have the demonstrated skills, steady motivation, and personal qualities needed for the role, assessed through observable indicators.
 
 #### Step 4: Use Believable People
 
-Involve people with demonstrated expertise in decision-making. Challenge and probe to assess quality, not to second-guess. Those with a demonstrated track record in the relevant domain have the right to opinions, where "right to opinions" means their views carry weight in proportion to their believability.
+Involve people with demonstrated expertise in decision-making. Question and examine to assess standard, not to second-guess. Those with a demonstrated track record in the applicable domain have weighted opinions, where "weighted opinions" means their views carry weight in proportion to their believability.
 
 #### Best Practices
 
@@ -423,12 +423,12 @@ Involve people with demonstrated expertise in decision-making. Challenge and pro
 
 - The clearer the direct, evidence-based links between actions and outcomes, the better it is for learning and evolving
 - Conduct quarterly pre-mortems and seek external feedback to identify risks, blind spots, or overlooked information
-- Successful people ask for criticism of others and consider its merit
+- Many successful people ask for criticism from others and consider its merit
 
 #### Security & Safety Notes
 
-- Trustworthiness is a quality that should be appreciated
-- Even the best controls will never be foolproof
+- Trustworthiness is a quality that is generally appreciated
+- Even the best controls are rarely foolproof
 
 #### Common Pitfalls
 
