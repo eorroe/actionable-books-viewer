@@ -552,7 +552,7 @@ Comparison is the basis of self-criticism according to the author. You are not o
 
 When someone criticizes you, filter it through your own stated values and goals. Use it if it helps you improve in ways aligned with your stated values and goals according to the author; discard it if it does not according to the author.
 
-#### Step 7: Develop an Internal Scorecard
+#### Step 7: Develop Your Own Personal Standard
 
 Stop keeping an external scorecard based on others' opinions. Create an individual standard based on your own stated values and intentions according to the author.
 
