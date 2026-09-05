@@ -364,7 +364,7 @@ Repeat this statement before sleep each night. "By day and by night I am being p
 As you go to sleep at night, repeat the word "Wealth" quietly, easily, and with feeling — repeated slowly and steadily for five minutes. Let this be your last thought as you drift off.
 
 #### Step 4: Deposit Prosperity Thoughts Each Morning
-Every morning as you awaken, deposit thoughts of prosperity, success, wealth, and peace in your subconscious mind. Dwell upon these concepts. Busy your mind with them throughout the day. These constructive thoughts will bring forth abundance and prosperity.
+Every morning as you awaken, deposit thoughts of prosperity, success, wealth, and peace in your subconscious mind. Dwell upon these concepts. Busy your mind with them throughout the day. These constructive thoughts are intended to build an abundance mindset and bring forth prosperity.
 
 #### Step 5: Stop Negative Financial Thoughts Immediately
 When you are about to say something negative such as "I shall not be able to make that payment," stop the sentence before you get further than "I shall..." Immediately dwell on a constructive statement such as: "By day and by night I am prospered in all my ways."
