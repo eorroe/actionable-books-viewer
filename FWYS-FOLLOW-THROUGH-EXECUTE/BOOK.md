@@ -2,7 +2,7 @@
 
 ## Overview
 
-This book teaches readers how to develop the habit of following through on their intentions by combining focus, self-discipline, action, and persistence, while equipping readers with concrete tactics such as temptation bundling, time-blocking, and accountability partnerships, plus psychological tools such as cognitive reframing exercises, stress-reduction techniques, and projection bias awareness for reframing fear and managing stress, to overcome inhibiting tactics and internal roadblocks that prevent you from finishing what you start.
+ This book teaches readers how to develop the habit of following through on their intentions by combining focus, self-discipline, action, and persistence, while equipping readers with concrete tactics such as temptation bundling, time-blocking, and accountability partnerships, plus psychological tools such as cognitive reframing exercises (changing how you think about a situation), stress-reduction techniques (such as deep breathing or meditation), and projection bias awareness for reframing fear and managing stress, to overcome inhibiting tactics and internal roadblocks that prevent you from finishing what you start.
 
 ## When to Follow Book Teachings
 
@@ -54,7 +54,7 @@ Make a conscious decision to move from fantasy to execution by accepting that fo
 
 #### Security & Safety Notes
 
-- Fear of failure is a psychological roadblock, not a justifiable reason based on evidence rather than fear—by not trying, you have already guaranteed the outcome you fear
+ - Fear of failure is a psychological roadblock, not a justifiable reason. Making decisions based on evidence rather than fear is essential—by not trying, you often guarantee the negative outcome you fear
 
 #### Common Pitfalls
 
@@ -75,7 +75,7 @@ Sally founded a charity driven by idealism but failed to anticipate the mundane 
 
 ##### Example 2: The Elephant Statue Study
 
-Katherine Milkman's study found that 74% of participants reminded of a donation task by an elephant statue remembered to complete it, versus only 42% of participants with ordinary written reminders—proving that vivid, multi-sensory cues such as elephant statues or unusual objects improve completion rates by 20-30%.
+Katherine Milkman's study found that 74% of participants reminded of a donation task by an elephant statue remembered to complete it, versus only 42% of participants with ordinary written reminders—demonstrating that vivid, multi-sensory cues improve completion rates by 32 percentage points (from 42% to 74%).
 
 #### Step 1: Map Your External Motivators
 
@@ -112,7 +112,7 @@ Persistent motivational cues are vivid, multi-sensory reminders that you deliber
 #### Common Pitfalls
 
 - **Problem:** Relying solely on passion without building a motivation system (a combination of external accountability and internal purpose that sustains effort through periods of low passion) for when passion fades
-  **Solution:** Build both external and internal motivators 30 days before your expected motivation dip, rather than waiting until motivation naturally declines within the first 14 days
+   **Solution:** Build both external and internal motivators within the first 7 days of starting a new project, before motivation naturally declines, rather than waiting until after the initial enthusiasm fades
 - **Problem:** Using generic cues that blend into the background
    **Solution:** Use unusual, vivid, multi-sensory cues that are placed in your direct line of sight and rotated every 3 days
  - **Problem:** Ignoring opportunity costs such as social time reduced by at least 50% until you miss a scheduled work block
@@ -152,7 +152,7 @@ Before giving in to an urge, ask how you will feel in 10 minutes, 10 hours, and 
 
 #### Step 6: Apply Rule 6 — Just 10 Minutes
 
-When you want to quit something beneficial or indulge in something harmful, force yourself to wait 10 minutes. If you still want to quit or indulge after 10 minutes, then have it. In 80% of cases according to the book, the urge passes, and you build momentum by continuing just a little longer.
+ When you want to quit something beneficial or indulge in something harmful, force yourself to wait 10 minutes. If you still want to quit or indulge after 10 minutes, then have it. Frequently, the urge passes, and you build momentum by continuing just a little longer.
 
 #### Best Practices
 
@@ -193,7 +193,7 @@ Research on student perseverance identifies three transferable concepts: belief 
 
 #### Step 1: Adopt the "It's Worthwhile" Mindset
 
-Cultivate three beliefs: hard work leads to improvement based on effort rather than innate talent, you are as capable as any other person and belong in your pursuit, and your current tasks advance your most important priority for the week—the single goal that, if completed, would make this week a success—even when the connection requires at least 3 steps of reasoning.
+ Cultivate three beliefs: hard work leads to improvement based on effort rather than innate talent, you have the capacity to succeed when you prepare thoroughly, you belong in your pursuit, and your current tasks advance your most important priority for the week—the single goal that, if completed, would make this week a success—even when the connection requires at least 3 steps of reasoning.
 
 #### Step 2: Build Comfort with Discomfort
 
@@ -205,7 +205,7 @@ Reframe follow-through as a test where finishing is passing and giving up is aut
 
 #### Step 4: Practice De-Stressing
 
-Spend at least 30 minutes daily on specific stress-reducing activities such as 20 minutes of walking, 15 minutes of meditation, or 30 minutes of reading—social connection, reading, music, exercise, meditation, or nature walks. Recognize that negative affect is a major trigger of self-control failure, and projection bias causes you to falsely assume your current stressed state will persist.
+ Spend at least 30 minutes daily on specific stress-reducing activities such as 30 minutes of walking, 30 minutes of meditation, or 30 minutes of reading—social connection, reading, music, exercise, meditation, or nature walks. Recognize that negative affect is a major trigger of self-control failure, and projection bias causes you to falsely assume your current stressed state will persist.
 
 #### Best Practices
 
@@ -216,12 +216,12 @@ Spend at least 30 minutes daily on specific stress-reducing activities such as 2
 
 #### Keep In Mind
 
- - Stress, fatigue, and negative mood increase self-control failure risk by 30-40%
+ - Stress, fatigue, and negative mood increase self-control failure risk
 - Projection bias makes you believe your current emotional state is permanent—it is not
 
 #### Security & Safety Notes
 
-- Ignoring mental health in pursuit of productivity reduces task completion rates by 20% per hour of accumulated stress—stress reduces discipline and clarity, making follow-through harder
+ - Ignoring mental health in pursuit of productivity reduces task completion rates as stress accumulates—stress reduces discipline and clarity, making follow-through harder
 
 #### Common Pitfalls
 
@@ -242,15 +242,15 @@ Madeleine procrastinated on a coding project, delaying it by one day each day un
 
 ##### Example 2: Time Inconsistency
 
-Humans have two selves with conflicting desires: the present self wants immediate gratification, while the future self wants long-term rewards. Procrastination occurs because only the present self can act, and it prioritizes immediate comfort over future benefit in approximately 80% of decisions.
+ Humans have two selves with conflicting desires: the present self wants immediate gratification, while the future self wants long-term rewards. Procrastination occurs because only the present self can act, and it prioritizes immediate comfort over future benefit in most decisions.
 
 #### Step 1: Understand Time Inconsistency
 
-Recognize that your present self and future self are effectively different people with different priorities. Your present self chooses immediate rewards in approximately 80% of decisions, which is why long-term goals feel easy to plan but hard to execute.
+ Recognize that your present self and future self are effectively different people with different priorities. Your present self chooses immediate rewards over long-term benefits in most decisions, which is why long-term goals feel easy to plan but hard to execute.
 
 #### Step 2: Practice Temptation Bundling
 
-Create a two-column list: guilty pleasures/temptations on one side, necessary tasks for your future self on the other. Pair each unpleasant task with an instantaneous reward so that the long-term behavior feels good in the present moment (e.g., listen to favorite albums while working, exercise while watching TV).
+ Create a two-column list: immediate rewards you enjoy (guilty pleasures) on one side, necessary tasks for your future self on the other. Pair each unpleasant task with an instantaneous reward so that the long-term behavior feels good in the present moment (e.g., listen to favorite albums while working, exercise while watching TV).
 
 #### Step 3: Use Small, Easy Increments
 
@@ -292,7 +292,7 @@ At the start of each project, consider what could go wrong if you delay action. 
 
 ##### Example 1: The Checkout Lane Candy Effect
 
-The Checkout Lane Candy Effect describes how willpower-depleted individuals make impulsive purchases at the point of highest temptation. Supermarkets place candy at the register because distracted, willpower-depleted shoppers are most susceptible because willpower is depleted from shopping. You can make healthy decisions throughout the store but still fail at the final distraction point—illustrating how environment design determines discipline outcomes.
+The Checkout Lane Candy Effect describes how willpower-depleted individuals make impulsive purchases at the point of highest temptation. Supermarkets often place candy at the register because distracted, willpower-depleted shoppers are most susceptible there—illustrating how environment design determines discipline outcomes.
 
 ##### Example 2: The Hershey's Kisses Study
 
@@ -320,7 +320,7 @@ A don't-do list is a deliberate list of tasks you will not do, complementing you
 
 #### Step 6: Apply the 40-70 Rule
 
-When facing a decision, act when you have between 40% and 70% of the information you need. Below 40%, you are guessing; above 70%, you are overplanning and losing momentum. Use the 40-70% range to let intuition guide action while continuing to learn on the move.
+ When facing a decision, act when you have between 40% and 70% of the information you need, measured by your confidence in the decision. Below 40%, you are guessing; above 70%, you are overplanning and losing momentum. This 40-70% framework, attributed to Colin Powell, lets intuition guide action while continuing to learn on the move.
 
 #### Step 7: Schedule intentional unstructured time
 
@@ -335,9 +335,9 @@ Allow yourself thirty-minute periods of unstructured rest and mind-wandering to 
 
 #### Keep In Mind
 
-- Over 70% of your decisions are automatic responses to your environment, not conscious choices
-- Attention residue from task-switching (rapidly switching between different types of work) reduces performance for 15-20 minutes after a switch
-- Multitaskers perform worse on average 18 minutes after a task switch on filtering, memory, and focus tasks than single-taskers
+  - Many of your decisions are automatic responses to your environment, not conscious choices, according to research on environmental influence on behavior
+  - Attention residue from task-switching (rapidly switching between different types of work) reduces performance for 15-20 minutes after a switch, according to Sophie Leroy's 2009 research
+  - Multitaskers perform worse on average after a task switch on filtering, memory, and focus tasks than single-taskers
 
 #### Security & Safety Notes
 
@@ -348,10 +348,10 @@ Allow yourself thirty-minute periods of unstructured rest and mind-wandering to 
 - **Problem:** Leaving distractions visible and relying solely on willpower
   **Solution:** Remove the willpower requirement entirely by making distractions physically harder to access
 - **Problem:** Multitasking between projects and feeling productive
-  **Solution:** Track attention residue—each switch costs 15-25 minutes of reduced performance on the new task
+   **Solution:** Track attention residue—each switch costs 15-20 minutes of reduced performance on the new task
 - **Problem:** Checking email and messages continuously throughout the day
   **Solution:** Batch communication into exactly two scheduled 30-minute windows and close your email inbox outside those times
-- **Problem:** Rarely saying no to tasks contributing no more than 10% toward your top three weekly goals that crowd out high-impact work
+ - **Problem:** Rarely saying no to tasks that contribute fewer than 10% of the total measurable output toward your top three weekly goals that crowd out high-impact work
   **Solution:** Use your don't-do list to protect your time and mental energy
 
 ### Lesson 7: Deadly Pitfalls
@@ -372,11 +372,11 @@ Set expectations based on your actual history, not fantasy. Distinguish between 
 
 #### Step 2: Stop Overthinking
 
-Recognize that overthinking mimics progress but produces no results. Limit your information intake by identifying the three must-have specifications such as print speed, connectivity, and price for any decision and ignoring everything else. 80% of printer options in any category meet the same basic requirements—choose the lowest-cost option that meets the three non-negotiable requirements you listed before shopping and move forward.
+ Recognize that overthinking mimics progress but produces no results. Limit your information intake by identifying the three must-have specifications such as print speed, connectivity, and price for any decision and ignoring everything else. Most printer options in any category meet the same basic requirements—choose the lowest-cost option that meets the three non-negotiable requirements you listed before shopping and move forward.
 
 #### Step 3: Stop Worrying
 
-Shift your focus from all problems you cannot control to all actions you can take in the present moment when you have completed 60% of your preparation. Worrying causes you to experience negative outcomes twice: once from worry and once if the event occurs, or for no reason at all if it does not. Focus on the present and on specific next actions only.
+ Shift your focus from all problems you cannot control to all actions you can take in the present moment when you have gathered all essential information and resources. Worrying causes you to experience negative outcomes: once from the worry itself and potentially again if the feared event occurs, or for no reason at all if it does not. Focus on the present and on specific next actions only.
 
 #### Step 4: Get to Know Yourself
 
@@ -397,7 +397,7 @@ Discover your natural work rhythms by tracking your energy levels at three fixed
 
 #### Security & Safety Notes
 
-- Misdiagnosing the cause of your failure guarantees repeated failure—always investigate the specific root cause before applying a fix
+ - Misdiagnosing the cause of your failure often leads to repeated failure—always investigate the specific root cause before applying a fix
 
 #### Common Pitfalls
 
@@ -416,11 +416,11 @@ Discover your natural work rhythms by tracking your energy levels at three fixed
 
 ##### Example 1: The Compounding Effect of Small Systems
 
-Daily systems produce results exceeding 20% of your baseline over time because consistency compounds. A writer who writes 500 words per day produces a full book in approximately four months, writing 5 days per week, while an author who waits for inspiration and writes in sporadic bursts may never finish.
+ Daily systems produce measurable improvements over time because consistency compounds. A writer who writes regularly produces a full book faster than an author who waits for inspiration and writes in sporadic bursts.
 
 ##### Example 2: The Assembly Line Principle Applied to Focus
 
-Henry Ford's specialization principle—grouping similar tasks and specializing workers—applies directly to personal productivity. Batching email, phone calls, and creative work into dedicated blocks eliminates the mental cost of constant context-switching and increases output quality by 40%.
+ Henry Ford's specialization principle—grouping similar tasks and specializing workers—can be applied to personal productivity by batching similar tasks together.
 
 #### Step 1: Build Your Morning Preparation Routine
 
@@ -457,11 +457,11 @@ Once per week, evaluate your systems using measurable criteria: which rules incr
 
 - Willpower depletes with repeated use throughout the day; systems that reduce the need for willpower are more reliable than those that depend on it
 - The goal of daily systems is to make follow-through automatic, not heroic
-- Small, consistent actions compound into results exceeding your baseline output by at least 20% sustained over periods of 90 days to 2 years
+ - Small, consistent actions compound into measurable improvements over sustained periods
 
 #### Security & Safety Notes
 
-- Burnout from working at least 50 hours per week for three consecutive weeks undermines productivity systems without scheduled recovery time—include intentional rest and recovery as non-negotiable components of your daily system
+ - Burnout from excessive work hours without scheduled recovery time undermines productivity systems—include intentional rest and recovery as non-negotiable components of your daily system
 
 #### Common Pitfalls
 
@@ -479,10 +479,15 @@ Once per week, evaluate your systems using measurable criteria: which rules incr
 |Term|Definition|Index Pages|
 |----|----------|-----------|
 |10-10-10 Rule|A decision-making framework that asks you to evaluate how you will feel in 10 minutes, 10 hours, and 10 days after making a choice; extends to 10 weeks for major decisions such as career changes, large purchases of at least $1,000, or relationship commitments|37-38|
+|40-70 Rule|A decision-making framework stating that you should act when you have between 40% and 70% of the information needed; below 40% is guessing, above 70% is overplanning|71-72|
 |Accountability Partnerships|A system where at least two people commit to holding each other accountable to their goals through regular check-ins, creating social pressure to follow through|22-23|
+|Attention Residue|The cognitive drag that remains when switching between tasks, causing poor performance on the new task until the residue clears|62-64|
 |Batching|Grouping similar tasks together and completing them in dedicated blocks to reduce mental switching costs and capitalize on focused momentum|65-67|
+|Circadian Rhythm|Your natural 24-hour sleep-wake cycle that dictates energy peaks and troughs throughout the day|76|
+|Cognitive Reframing|The practice of changing how you think about a situation to reduce fear, anxiety, or negative emotions that block follow-through|5|
 |Daily Task Batching|The practice of grouping similar tasks such as email, phone calls, and administrative work into dedicated time blocks to reduce context-switching|65-67|
 |Default Effect|The tendency for people to choose the option that requires the least effort when making decisions; can be harnessed by designing environments where the easiest choice is the most productive one|59-61|
+|Don't-Do List|A deliberate list of tasks you will not do, complementing your to-do list by explicitly naming tasks to avoid such as low-value busywork, tasks blocked by external dependencies, and tasks with diminishing returns|67-69|
 |Environmental Design|The practice of structuring your physical and digital environment so that productive behaviors require minimal effort and unproductive behaviors require significant effort|59-61|
 |False Hope Syndrome|The mistake of setting unrealistic expectations about the speed, ease, and magnitude of change you can achieve, leading to powerful backlash and demotivation when reality falls short|76-77|
 |Focus|The head of the composite system; the ability to concentrate effort on a single goal so that no effort is wasted on tangential pursuits|8-9|
@@ -495,22 +500,27 @@ Once per week, evaluate your systems using measurable criteria: which rules incr
 |Multitasking|The practice of attempting to work on multiple tasks simultaneously or switching between them rapidly, which creates attention residue and degrades performance on all tasks|63-64|
 |Negative Affect|The psychological term for negative emotions and overall temperament; one of the most powerful triggers of self-control failure|48|
 |Opportunity Cost|The monetary and time cost of what you sacrifice when you commit time, effort, or money to one pursuit rather than another; must be outweighed by motivation or minimized through compromise|27-28|
-|Overthinking|The mistake of fixating on excessive research and choice analysis that mimics progress but prevents actual action, often leading to analysis paralysis|78|
+|Overthinking|The mistake of fixating on excessive research and choice analysis that mimics progress but prevents actual action, often leading to analysis paralysis—the inability to make a decision when faced with too many options|78|
 |Paradox of Choice|The psychological phenomenon where having too many options causes anxiety and avoidance of decision-making rather than empowerment|78|
 |Perfectionism|A psychological roadblock born from insecurity where excessive planning and standards prevent any action from being taken, leading to stagnation|16-17|
 |Persistence|The heart of follow-through; the tenacity to continue adhering to a course of action despite obstacles, distractions, and setbacks over an extended period|9-10|
 |Procrastination|The habit of delaying work until the last minute, often disguised as productive planning or research; driven by time inconsistency where the present self prioritizes immediate comfort|12-13, 50-56|
+|Present Self|The part of you that wants immediate gratification and prioritizes short-term comfort over long-term benefits; the part that can act in the present moment|51-52|
 |Productive Paranoia|A tactic where you deliberately focus on what could go wrong to spark fear-driven urgency and avoid procrastination; effective in small doses but harmful if overused|55|
 |Productive Procrastination|The illusion of progress created by continuous planning beyond 30 minutes without producing a concrete next action and research that keeps you from taking actual action|12-13|
 |Projection Bias|The tendency to falsely project your current emotional state onto your future emotional state, causing you to make poor decisions about future self-care and discipline|48-49|
+|Future Self|The part of you that wants long-term rewards and benefits, but cannot act directly—only the present self can take action|51-52|
 |Psychological Roadblocks|Internal, often unconscious barriers to follow-through including laziness, fear of judgment/rejection/failure, perfectionism, and lack of self-awareness|14-17|
 |Self-Discipline|The spine of follow-through; the ability to control your thoughts, feelings, and actions toward meaningful ends even when temptations and distractions arise|8-9|
 |Self-Bribery|An external motivator where you promise yourself an immediate reward for completing a difficult task, making long-term effort feel associated with short-term pleasure|24|
+|Self-Sabotage|Behaviors or thought patterns that undermine your own success or follow-through, such as procrastination, setting unrealistic goals, or engaging in self-defeating internal dialogue|7-8|
 |Singletasking|The practice of devoting full attention to one task at a time while consciously filtering out all distractions, the opposite of multitasking|64-65|
 |Small Easy Increments|The practice of breaking tasks into pieces requiring minimal effort to begin, typically 5 minutes or less of focused work, to overcome inertia and build momentum|50-53|
 |Stress|A state of mental and emotional strain that depletes willpower and self-control, making follow-through significantly harder; must be actively managed through restorative practices|48|
+|Stress-Reduction Techniques|Specific practices such as deep breathing, meditation, walking, reading, or socializing that reduce stress and protect willpower|48|
 |Temptation Bundling|A procrastination-reduction technique that combines an unpleasant obligatory task with an instantaneous reward, giving both your present self and future self what they want simultaneously|52-53|
 |Time Inconsistency|The core driver of procrastination where humans value immediate gratification over long-term rewards, creating a conflict between the present self and the future self|51-52|
 |Time Management|The practice of using time to maximize productivity and efficiency through planning, prioritizing, and self-disciplined execution of scheduled tasks|13-14|
+|Temptation Scale|A 1-10 self-rating scale where 1 equals no temptation and 10 equals irresistible urge; used to measure temptation intensity and apply the 8-or-higher threshold for fear tactics|55|
 |Time-blocking|The practice of assigning specific tasks to fixed time periods in your schedule to eliminate decision fatigue and ensure important work gets done|13-14|
 |Willpower|The energy that activates your body to act, while discipline is the focus that directs that energy toward your goals; both are required for follow-through|15|
