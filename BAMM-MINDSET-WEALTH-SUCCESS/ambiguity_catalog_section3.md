@@ -1,0 +1,19 @@
+222 | PRONOUN | for either | Unclear whether "either" refers to the written execution plan, the two ideas, or both. | Replace with "for each idea" or "for both ideas."
+222 | PRONOUN | those without | Unclear whether it refers to participants without written execution plans or participants without goals. | Replace with "those without written execution plans."
+230 | VAGUE QUANTIFIER | 50+ millionaire case studies | The "+" symbol makes the sample size vague; exact count unknown. | Replace with the exact number, e.g., "50 millionaire case studies."
+234 | VAGUE CLAIM WITHOUT EVIDENCE | minimum duration needed | Claims 12 months is the minimum without citing supporting evidence or study. | Add citation or rephrase as "a suggested minimum duration" instead of a definitive claim.
+234 | PASSIVE VOICE | documented cases studied | Passive construction without attribution to a specific researcher, study, or organization. | Add attribution, e.g., "documented cases studied by [researcher]."
+258 | VAGUE NOUN | measurable metrics | Tautological and vague; does not specify which metrics apply to health goals. | Replace with specific metric examples, e.g., "weight, body fat percentage, or resting heart rate."
+271 | VAGUE QUANTIFIER | 2–5 times | Broad range without context, distribution, or confidence interval. | Narrow the range or add context, e.g., "2.1–4.8 times, median 3.2 times."
+272 | VAGUE NOUN | the call | Metaphorical "call" is undefined; unclear what specific opportunity or event is meant. | Replace with "the opportunity" or define the metaphor explicitly in context.
+277 | VAGUE REFERENCE | Your plan | Could refer to the goal ladder, execution plan, or another document; unclear antecedent. | Replace with "your written execution plan" or "your goal ladder."
+284 | VAGUE QUANTIFIER | minimum of 90 minutes | "Minimum" sets a threshold but provides no rationale for why 90 minutes is the standard. | Replace with "90 minutes" or add context explaining the basis for this duration.
+296 | VAGUE QUANTIFIER | some people who love you | "Some" is unbounded and undefined; unclear proportion or frequency. | Replace with "many people" or provide a specific estimate or context.
+300 | VAGUE QUANTIFIER | more than 1,400 athletes | Exact count unknown; "more than" provides no upper bound or current verified number. | Replace with "over 1,400 athletes" and cite the exact current number from the source.
+304 | VAGUE QUANTIFIER | multimillion-dollar homes | "Multi-million" is vague; exact value threshold is undefined. | Replace with a specific range, e.g., "homes valued at $2 million or more."
+312 | VAGUE QUANTIFIER | every input | "Every" implies completeness but is impractical to verify or measure in practice. | Replace with "all inputs" or add a note about representative sampling.
+316 | VAGUE QUANTIFIER | someone | Unspecified person; no criteria for who qualifies as "someone" casting doubt. | Replace with "a person" or define who qualifies in this context.
+320 | VAGUE NOUN/UNDEFINED TERM | Your WHY | "WHY" is used as a technical concept without a glossary definition. | Define "WHY" explicitly in the glossary or use standard terminology such as "your core purpose."
+324 | VAGUE QUANTIFIER | at least five people | "At least" sets a minimum but no maximum; unclear if 5 is optimal or merely a threshold. | Clarify whether 5 is the recommended sample size or a minimum threshold, and provide rationale.
+328 | METAPHOR WITHOUT CONCRETE ACTION | like unsolicited advice on your finances | Financial analogy is vague and does not provide concrete steps for handling unsolicited opinions. | Replace with concrete steps or remove the metaphor entirely.
+330 | VAGUE QUANTIFIER | at least 3 success stories | "At least 3" is vague; no rationale is provided for this specific number. | Provide rationale for 3 or replace with a specific number, e.g., "3 success stories."
