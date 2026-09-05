@@ -25,7 +25,7 @@ Identify every self-defeating "I'm" you use as rooted in one or more of the foll
 - "I can't help it."
 - "That's my nature."
 
-Understand that each time you use one of these sentences, you are saying, "And I intend to continue being the way I've always been." Check whether you use these four sentences in contexts where you could choose different behavior.
+Understand that each time you use one of these sentences, you are saying, "And I intend to continue being the way I've always been." Check whether you use these four sentences in contexts where you could choose different behavior physically, psychologically, or socially.
 
 ### Step 3: Understand the Two Origins of Your "I'm" Labels
 
@@ -34,11 +34,11 @@ Categorize each of your "I'm" labels into one of two origins:
 - **From others:** Labels pinned on you as a child by parents, teachers, grandparents, and family friends.
 - **From self-created avoidance:** Labels you adopted to avoid specific activities.
 
-For labels from others: Recognize that they are beliefs you accepted during childhood — accepted without examination. For self-created labels: Recognize that they are adaptive but inaccurate excuses used to avoid something. Understand that in either case, you are stating, "I am a finished product in this area."
+For labels from others: Recognize that they are beliefs you accepted during childhood — accepted without examination. For self-created labels: Recognize that they are adaptive but inaccurate excuses used to avoid something. Understand that in either case, you are stating, "I am a finished product in that specific domain."
 
 ### Step 4: Have a Conversation With Those Responsible for Your "I'm" Labels
 
-Identify the people in your life directly responsible for your "I'm" labels (parents, long-time family friends, old teachers, grandparents). Have a conversation with them in which you ask: "How do you think I got to be the way I am? Have I always been that way?" Tell them you are determined to change, and ask them whether they believe you are capable of being different. Be prepared for their interpretations — they may feel you "can't be any different, since you've always been that way."
+Identify the people in your life directly responsible for your "I'm" labels (parents, family friends who have known you since childhood, teachers from your school years, grandparents). Have a conversation with them in which you ask: "How do you think I got to be the way I am? Have I always been that way?" Tell them you are determined to change, and ask them whether they believe you are capable of being different. Be prepared for their interpretations — they may feel you "can't be any different, since you've always been that way."
 
 ### Step 5: Learn the Ten Typical "I'm" Categories and Their Neurotic Dividends
 
@@ -48,9 +48,9 @@ Review the ten categories below and identify which ones apply to you. For each a
 
 1. **I'm poor at math, spelling, reading, languages** — Neurotic dividend: Reduces the perceived reason to put in the effort to change. The academic "I'm" keeps you from putting in sustained effort to master uninteresting subject matter. As long as you label yourself inept, you have a reason to avoid it.
 
-2. **I'm lousy at some skill areas such as cooking, sports, crocheting, drawing, acting** — Neurotic dividend: Provides a reason to avoid these activities in the future and justifies past performance you consider poor. Reinforces the notion that you should not do activities in which you do not perform well. Avoidance is preferable to participation unless you are among the highest performers.
+2. **I'm lousy at concrete skill areas such as cooking, sports, crocheting, drawing, and acting** — Neurotic dividend: Provides a reason to avoid these activities in the future and justifies past performance you consider poor. Reinforces the notion that you should not do activities in which you do not perform well. According to the book's framework, avoidance is preferable to participation for you unless you are among the top performers in that specific concrete skill area.
 
-3. **I'm shy, reserved, temperamental, nervous, afraid** — Neurotic dividend: Calls on genetics as an excuse. Lets you blame your parents and use them as the reason for your current "I'm." You choose this behavior to avoid being assertive in situations where you prefer not to assert yourself. It's a pattern from childhood when others had you believe you were incapable of thinking for yourself. You excuse self-forfeiting behavior as something you cannot control.
+3. **I'm shy, reserved, temperamental, nervous, afraid** — Neurotic dividend: Calls on genetics as an excuse. Lets you blame your parents and use them as the reason for your current "I'm." You choose this withdrawn behavior to avoid being assertive in situations where you prefer not to assert yourself. It's a pattern from childhood when others had you believe you were incapable of thinking for yourself. You excuse self-forfeiting behavior as something you cannot control.
 
 4. **I'm clumsy, uncoordinated** — Neurotic dividend: Enables you to avoid potential ridicule for lack of physical skill. The lack of skill may result from avoiding physical activity after accepting the label. "You tend to improve at activities you practice and tend not to improve at activities you avoid."
 
@@ -60,11 +60,11 @@ Review the ten categories below and identify which ones apply to you. For each a
 
 7. **I'm forgetful, careless, irresponsible, apathetic** — Neurotic dividend: Especially useful to vindicate yourself for ineffective behavior. The "I'm" keeps you from working on your memory or carefulness, and you excuse yourself with "That's me." As long as you use this "I'm," you avoid having to work at changing.
 
-8. **I'm Italian, German, Jewish, Irish, Black, Chinese** — Neurotic dividend: Works well when you run out of other reasons to explain behaviors that don't work for you but are too difficult to tackle. You use your ethnic "I'm" as a justification for stereotypical behavior. Example: A maître d' responds to being asked why he overreacts, "What do you expect from me? I'm Italian. I can't help it."
+8. **I'm Italian, German, Jewish, Irish, Black, Chinese** — Neurotic dividend: Works well when you run out of other reasons to explain behaviors that don't work for you but are too difficult to tackle. You use your ethnic "I'm" as a justification for stereotypical behavior. Example: A male maître d' responds to being asked why he overreacts, "What do you expect from me? I'm Italian. I can't help it."
 
 9. **I'm bossy, pushy, authoritarian** — Neurotic dividend: Allows you to continue hostile acts rather than work at developing self-discipline. You varnish the behavior with "I can't help it, I've always been that way."
 
-10. **I'm old, middle-aged, tired** — Neurotic dividend: Uses age as a reason for not participating in risky or threatening activities (sports, dating after divorce or death of a spouse, traveling). Eliminates the risks of trying something new. The implication is that you are finished in that area, and because you will always get older, you will not expand into it.
+10. **I'm old, middle-aged, tired** — Neurotic dividend: Uses age as a reason for not participating in risky or threatening activities (sports, dating after divorce or death of a spouse, traveling). Eliminates the risks of trying something new. The book's framework implies that you are finished in that area, and because you will always get older, you will not expand into it.
 
 ### Step 6: Understand the "I'm Circle" — The Vicious Cycle of Self-Labeling
 
@@ -72,7 +72,7 @@ Understand the cycle: A thought or belief about yourself (point 1) → leads to 
 
 ### Step 7: Do Not Give Others Responsibility for Your Present-Day "I'm"
 
-Recognize that blaming your parents, teachers, or other significant adults for your present-day "I'm" assigns them influence over your life today. Understand that blaming others grants them authority over you and creates a justification for staying in your ineffective condition. Recognize that this removes the need to take risks — if it is the "culture's fault," you cannot do anything about it. Accept full responsibility: Every "I'm" you have chosen to keep could be relabeled, "I've chosen to be."
+Recognize that blaming your parents, teachers, or other significant adults for your present-day "I'm" assigns them influence over your life today. Understand that blaming others grants them authority over you and creates a justification for staying in your ineffective condition. Recognize that this removes the need to take risks — if it is the "culture's fault," you cannot do anything about it. Accept full responsibility: According to the book's framework, every "I'm" you have chosen to keep could be relabeled, "I've chosen to be."
 
 ### Step 8: Eliminate the Word "I'm" and Substitute With Past-Tense Language
 
@@ -89,15 +89,15 @@ Decide which "I'm" labels you want to eliminate. Announce to those close to you 
 
 ### Step 10: Set Behavioral Goals to Act Differently Than You've Ever Done Before
 
-For each "I'm" you want to eliminate, set a behavioral goal that forces you to act in direct contradiction of the label. Make the goal specific to the situation you are in. Carry it out regardless of how you feel. For example: If you consider yourself shy, introduce yourself to one person you might otherwise have avoided.
+For each "I'm" you want to eliminate, set a behavioral goal that forces you to act in direct contradiction of the label. Make the goal specific to the situation you are in. Carry it out regardless of how you feel. For example: If you consider yourself shy, introduce yourself to one new colleague you might otherwise have avoided at the team lunch.
 
 ### Step 11: Enlist a Trusted Confidant to Signal You When You Fall Back Into Your "I'm"
 
-Identify a trusted confidant who will help you work against patterns from your past. Ask this person to signal you silently with an agreed-upon signal (e.g., a tug to his ear) when he notices you falling back into your "I'm." Use the signal as a reminder to correct yourself.
+Identify a trusted male confidant who will help you work against patterns from your past. Ask this person to signal you silently with an agreed-upon signal (e.g., a tug to his ear) when he notices you falling back into your "I'm." Use the signal as a reminder to correct yourself.
 
 ### Step 12: Keep a Journal on Your Self-Destructive "I'm" Behavior
 
-Keep a journal dedicated to tracking your self-destructive "I'm" behavior. For one week, record in a notebook the time, date, and occasion when you used any of the self-destructive "I'm" labels. Also record what action you took and how you were feeling about yourself when you used the label. Use the list of ten typical "I'm" categories provided in this chapter as a guide for your journal-keeping. Work at reducing the number of entries.
+Keep a journal dedicated to tracking your self-destructive "I'm" behavior. For one full week, record in a notebook the time, date, and occasion when you used any of the self-destructive "I'm" labels. Also record what action you took and how you were feeling about yourself when you used the label. Use the list of ten typical "I'm" categories provided in this chapter as a guide for your journal-keeping. Work at reducing the number of entries.
 
 ### Step 13: Correct the Four Neurotic Sentences Out Loud When You Catch Yourself Using Them
 
@@ -116,17 +116,17 @@ Select one "I'm" label to eliminate for just that single day. Devote the day to 
 
 ### Step 15: Interrupt Your Own "I'm Circle" Between Point 3 and Point 4
 
-Visualize your own "I'm circle" — the cycle where a thought leads to a feeling, which leads to behavior, which reinforces the original thought. Learn to catch yourself between the feeling (point 2) and the behavior (point 3) — or more precisely, between the behavior impulse (point 3) and its reinforcing completion (point 4). When you notice the impulse to act on the label, choose an action that contradicts the label instead. Resolve to not let the "I'm" complete the cycle.
+Visualize your own "I'm circle" — the cycle where a thought leads to a feeling, which leads to behavior, which reinforces the original thought. Learn to catch yourself between the feeling (point 2) and the behavior (point 3), and most precisely at point 3 before the behavior reinforces the original thought (point 4). When you notice the impulse to act on the label, choose an action that contradicts the label instead. Resolve to not let the "I'm" complete the cycle.
 
 ### Step 16: Try Something New That You Have Avoided
 
-Identify an activity you have not done before and that you have avoided in the past due to an "I'm" label. Set aside at least three consecutive hours for continuous engagement in that new activity. Engage in the activity for the full three hours. After the activity, ask yourself: Can you still use the same "I'm" label that you applied that morning? Use the experience as evidence to challenge and potentially discard that label.
+Identify an activity you have not done before and that you have avoided in the past due to an "I'm" label. Set aside exactly four consecutive hours for continuous engagement in that new activity. Engage in the activity for the full four hours. After the activity, ask yourself: Can you still use the same "I'm" label that you applied that morning? Use the experience as evidence to challenge and potentially discard that label.
 
 ### Step 17: Reframe Your Self-Description Using Present-Moment, Choice-Based Language
 
 Go back to the opening questions: "Who are you?" and "How do you describe yourself?" Think about new descriptions that reflect choices you could make now, rather than descriptions based on what others have said about you or what you have done before. Reframe old "I'm" labels using present-moment language:
 
-- Instead of "I'm [negative trait]," say "Up until now, I've behaved in a [negative] manner."
+- Instead of "I'm shy," say "Up until now, I've behaved in a shy manner."
 
 Recognize that the book states "You are what you choose today, not what you've chosen before." Treat yourself as shaped by the choices you make, not by your past.
 
@@ -136,7 +136,7 @@ If you must keep an "I'm" label, choose this one: "I'm an 'I'm' exorcist — and
 
 ### Step 19: Understand That "I'm" Labels Are Learned Avoidance Patterns — and Can Be Unlearned
 
-The book states that "I'm" labels are learned avoidance patterns, not fixed traits. Remind yourself: "You can learn to be almost anything if you make the choice to do so." Let go of the idea that your current limitations are permanent or inherent. Make the active choice to learn something new, since "learning is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting." Use learning itself as a way to move forward from periods of sadness and stagnation.
+The book states that "I'm" labels are learned avoidance patterns, not fixed traits. Remind yourself: "You can learn to be almost any new skill or behavior if you make the choice to do so." Let go of the idea that your current limitations are permanent or inherent. Make the active choice to learn something new, since "learning is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting." Use learning itself as a way to move forward from periods of sadness and stagnation.
 
 ## Examples
 
@@ -146,7 +146,7 @@ The book provides a sample list of "I'm" labels: "I'm Fat, I'm a Lousy Cook, I'm
 
 ### Example 2: Horace — Self-Created Labels as Avoidance
 
-Horace, 46, wants to attend college but uses "I'm too old, I'm not smart enough, and I'm not really interested" to skirt the doing process. A colleague avoids handyman tasks by telling his wife, "Now you know, dear, I'm just not mechanical." These are self-created labels adopted to avoid specific activities, not inherent truths about who they are.
+Horace, 46, wants to attend college but uses "I'm too old, I'm not smart enough, and I'm not really interested" to skirt the process of applying to and attending college. A colleague avoids handyman tasks by telling his female wife, "Now you know, dear, I'm just not mechanical." These are self-created labels adopted to avoid specific activities, not inherent truths about who they are.
 
 ## Best Practices
 
@@ -173,7 +173,7 @@ Horace, 46, wants to attend college but uses "I'm too old, I'm not smart enough,
 - The book describes the idea of fixed human nature as a phrase used to categorize people and create excuses. Your current behavior is shaped by the choices you have made.
 - The book states "You are what you choose today, not what you've chosen before."
 - The book states that you can learn to be almost anything if you make the choice to do so.
-- "Learning is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting."
+- The book's framework states that "Learning is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting."
 - "If you must have an I'm, try this one on for size. 'I'm an "I'm" exorcist—and I like it.'"
 - A grandmother portioning out exact plate sizes: "Oh, I've always been that way. That's just the way I am." — This is an example of accepting a label from the past as a description of the present.
 - "By giving them responsibility for your present-day I'm you've given them a measure of control over your life today, elevated them to a higher position than you and ingeniously created an alibi for staying in your ineffective condition."

@@ -2,12 +2,12 @@
 
 ## Overview
 
-This chapter describes 24 distinct characteristics of someone who has eliminated all erroneous zones, showing how such a person enjoys a broad range of life experiences, is free from guilt and worry, lives without approval-seeking, maintains consistent energy and active curiosity, and serves as a model for developing awareness of unhelpful thought patterns and behaviors.
+This chapter describes 24 distinct characteristics of a person who has eliminated all erroneous zones—someone who lives without guilt, worry, approval-seeking, dependency, or immobilizing anger, maintains consistently high energy and aggressively curious engagement, and enjoys a broad range of life experiences as the result of living in the present moment with internal standards. These 24 characteristics serve as a concrete model for readers developing awareness of unhelpful thought patterns and behaviors by identifying which characteristics they lack and consciously choosing to adopt them.
 
 ## When to Follow These Book Teachings
 
-- When you want to understand what a person who has eliminated all erroneous zones looks like
-- When you need a description of the attitudes and behaviors of someone living without fear, anger, or dependency
+- When you want to understand the outcome of eliminating all erroneous zones—what a person who has done so looks like
+- When you need a description of the attitudes and behaviors of someone living without fear, immobilizing anger, or dependency
 - When you're looking for a model to develop awareness of unhelpful thought patterns and behaviors
 
 ## Steps
@@ -25,7 +25,7 @@ This chapter describes 24 distinct characteristics of someone who has eliminated
 9. When situations such as disease, droughts, mosquitoes, or floods arise, do not spend present moments complaining about them or wishing they were different.
 10. If situations need to be changed, work to change them—and engage fully in that work.
 
-The book describes someone who chooses to remain in the rain because they see it as beautiful and thrilling. They observe slush and splash around in it rather than reacting with frustration. Try as you might, you cannot identify activities they genuinely dislike. They engage fully with all experiences, extracting maximum value from their time.
+The book describes someone who chooses to remain in the rain because they see it as beautiful and thrilling. They observe slush and splash around in it rather than reacting with frustration. Try as you might, you cannot identify activities they genuinely dislike. They engage fully with all experiences, extracting maximum value from their time by participating in each activity as if it were the most fulfilling option available and refusing to wish they were doing something else instead.
 
 ### Step 2: Be Free From Guilt
 
@@ -33,7 +33,7 @@ The book describes someone who chooses to remain in the rain because they see it
 2. Do not waste time wishing that you had not done something.
 3. Do not be upset because you dislike something you did at an earlier moment.
 4. Do not dwell on the past.
-5. Do not ask questions that serve no productive purpose, such as "Why didn't you do it differently?" or "Aren't you ashamed of yourself?"
+5. Do not ask questions that serve no productive purpose—defined as questions that cannot change the outcome of a past event or improve the present moment—such as "Why didn't one do it differently?" or "Isn't one ashamed of oneself?"
 6. Recognize that a past event is simply a past event, and no amount of feeling bad will alter it.
 7. See that feeling bad in the present moment only reinforces a poor self-image.
 8. Learn from the past rather than dwelling on the past.
@@ -41,7 +41,7 @@ The book describes someone who chooses to remain in the rain because they see it
 10. When someone tries to manipulate you with guilt tactics, do not get angry at them; simply ignore them, leave, or change the subject.
 11. When guilt arises, let it pass without elaborating on it rather than making yourself and others miserable with it.
 
-People free from erroneous zones are free from guilt and the anxiety that comes from spending present moments immobilized by past events. Strategies that work on others do not work with these people. They are free from guilt themselves without deliberate effort because it is natural; they never help others to choose guilt.
+People free from erroneous zones are free from guilt and the anxiety that comes from spending present moments immobilized by past events. Guilt-manipulation strategies—such as appeals to shame, references to past mistakes, or emotional pressure—that work on others do not work with these people. They are free from guilt themselves without deliberate effort because freedom from guilt is their default psychological state; they refuse to validate others' guilt by agreeing that a past mistake justifies ongoing self-punishment, and they never help others to choose guilt by reinforcing the idea that feeling bad is necessary or deserved.
 
 ### Step 3: Be a Nonworrier
 
@@ -50,11 +50,11 @@ People free from erroneous zones are free from guilt and the anxiety that comes 
 3. Recognize that worrying occupies present moments and is an unproductive way to spend your time.
 4. Do not spend present moments worrying about future events you cannot control.
 
-These people do not worry. It is not their natural tendency. They are not necessarily calm at all moments, but they are unwilling to spend present moments worrying about future events over which they have no control. They recognize that all worrying must take place in the present moment, and that it is an unproductive way to spend your present moments.
+These people do not worry. It is not their natural tendency—meaning worrying does not arise spontaneously for them as a default response to uncertainty or potential negative outcomes—to spend present moments worrying about future events over which they have no control. They are not necessarily tranquil—free from the agitation of worry about uncontrollable future events—at all moments, but they are unwilling to spend present moments worrying about future events over which they have no control. They recognize that all worrying must take place in the present moment—defined as the current interval of conscious experience in which the act of worrying occurs, regardless of whether the content of the worry is about the future—and that it is an unproductive way to spend their present moments.
 
 ### Step 4: Live in the Present Moment
 
-1. Live now rather than in the past or the future.
+1. Live now rather than in the past—defined as events that have already occurred and cannot be changed—or the future—defined as events that have not yet occurred and are not guaranteed to happen.
 2. Seek new experiences rather than avoiding uncertainty.
 3. Accept uncertainty without distress.
 4. Focus on present moments, recognizing that worrying about the past or future does not change either.
@@ -66,11 +66,11 @@ These people do not worry. It is not their natural tendency. They are not necess
 10. See the futility of waiting to enjoy.
 11. Engage with present-moment fulfillment rather than waiting for rewards and never being able to seize them.
 
-They do not postpone enjoyment for an uncertain future. While cultural norms may disapprove of their behavior, they are unthreatened by self-reproach. They are always enjoying because they see the futility of waiting to enjoy. It is a natural way of living, very much like that of a child or an animal. They engage with present-moment fulfillment, while people who have not eliminated erroneous zones spend their lives waiting for rewards and never being able to seize them.
+They do not postpone enjoyment for an uncertain future. While the broader community's cultural norms—such as expectations to postpone enjoyment for future rewards, to seek approval, or to follow conventional social schedules—may disapprove of their behavior, they are unthreatened by self-reproach. They are engaged in enjoyment in virtually every moment they choose to engage because they see the futility of waiting to enjoy. It is a natural way of living, very much like that of a child or an animal. They engage with present-moment fulfillment, while people who have not eliminated erroneous zones spend their lives waiting for rewards and never being able to seize them.
 
-### Step 5: Be Strikingly Independent
+### Step 5: Be Independent
 
-1. See independence as superior to dependence in all relationships.
+1. See independence as superior to dependence in all relationships—including romantic partnerships, friendships, family bonds, and professional relationships—and refuse to be dependent or depended upon in any mature relationship.
 2. Treasure your own freedom from expectations.
 3. Build relationships upon mutual respect for the right of an individual to make decisions for themselves.
 4. Do not impose your values on the other person.
@@ -83,7 +83,7 @@ They do not postpone enjoyment for an uncertain future. While cultural norms may
 11. Refuse to be dependent, or depended upon, in a mature relationship.
 12. With children, provide a model of a caring person but encourage self-reliance almost from the beginning with consistent love offered at every turn.
 
-They are independent, and while they may have strong love for and devotion to family, they see independence as superior to dependence in all relationships. If someone needs them, they reject that need as hurtful to the other person as well as to themselves. Thus, the moment someone starts leaning on these people, you will find them withdrawing, first emotionally, and then physically. They refuse to be dependent, or depended upon, in a mature relationship.
+They are independent, and while they may have strong love for and devotion to family, they see independence as superior to dependence in all relationships. If someone needs them, they reject that need as hurtful to the other person—by robbing that person of the opportunity to develop self-reliance—as well as to themselves. Thus, the moment someone starts leaning on these people, observers will find them withdrawing, first emotionally, and then physically. They refuse to be dependent, or depended upon, in a mature relationship.
 
 ### Step 6: Live Without Approval-Seeking
 
@@ -97,20 +97,20 @@ They are independent, and while they may have strong love for and devotion to fa
 8. Do not need to be loved by everyone.
 9. Do not harbor an excessive desire to be approved by all for everything that you do.
 10. Recognize that you will always incur some disapproval.
-11. Function according to your own values, rather than according to some external person's expectations.
+  11. Function according to your own values, rather than according to some external person's expectations—such as a parent, boss, peer group, or society at large.
 
-They are able to function without approval and applause from others. They are unusual in that they are able to function according to their own values, rather than according to some external person's expectations. They can be direct in their honesty because they do not phrase their messages in carefully worded phrases designed to please. If you ask what they think, they will tell you directly. They do not need to be loved by everyone, nor do they harbor an excessive desire to be approved by all for everything that they do.
+They are able to function without approval and applause from others. They are unusual in that they are able to function according to their own values, rather than according to some external person's expectations—such as a parent, boss, peer group, or society at large. They can be direct in their honesty because they do not phrase their messages in carefully worded phrases designed to please. If you ask what they think, they will tell you directly. They do not need to be loved by everyone, nor do they harbor an excessive desire to be approved by all for everything that they do.
 
 ### Step 7: Resist Enculturation
 
 1. Make your own choices even if those choices conflict with what most people do.
 2. Ignore rules that serve no clear purpose.
-3. Quietly disregard social conventions that serve no clear purpose and that are central to many people's lives.
+ 3. Quietly disregard social conventions that serve no clear purpose and that are central to the lives of many people in their communities.
 4. Do not engage in small talk because it is socially expected.
 5. Refuse to be ruled by society or to become a slave to it.
 6. Do not rebelliously attack society; know internally when to disregard and function in a clear-headed and realistic way.
 
-They are not rebels, but they do make their own choices even if those choices conflict with what most people do. They can ignore rules that serve no clear purpose, and quietly disregard social conventions that serve no clear purpose and that are central to many people's lives. They do not attend social gatherings where small talk is expected, nor do they engage in small talk because it is socially expected. They are their own people, and while they recognize that society provides structure, they refuse to be ruled by it or to become a slave to it. They do not rebelliously attack society, but they do know internally when to disregard social conventions and function in a clear-headed and realistic way.
+They are not rebels, but they do make their own choices even if those choices conflict with what most people do. They can ignore rules that serve no clear purpose, and quietly disregard social conventions that serve no clear purpose and that are central to the lives of many people in their communities. They do not attend social gatherings where small talk is expected, nor do they engage in small talk because it is socially expected. They are their own people, and while they recognize that society provides structure, they refuse to be ruled by it or to become a slave to it. They do not rebelliously attack society, but they do know internally when to disregard social conventions and function in a clear-headed and realistic way.
 
 ### Step 8: Know How to Laugh and Create Laughter
 
@@ -141,7 +141,7 @@ They find humor in a wide range of situations, and they can laugh at the most ab
 12. Accept yourself and the world as it is.
 13. Do not engage in self-criticism or wishing.
 
-They know that they look a certain way, and they accept it. If they are tall, that is acceptable, and so is being short. Bald is fine, and so is lots of hair. They can live with sweat! They are not insincere about their physical humanity. They have accepted themselves, and therefore they are natural people. No hiding behind artificialities, no apologizing for what they are. They do not know how to be offended by anything that is human. They like themselves and accept what they are. Similarly, they accept all of nature for what it is, rather than wishing it were otherwise. They never complain about things that will not change, such as heat waves, rainstorms, or cold water. They accept themselves and the world as it is. No pretenses, no complaining, simply acceptance. Follow them around for years, and you will never hear self-criticism or wishing. You will see people doing. You will see them observing the world the way it is, like a child who accepts the natural world and engages with it fully.
+They know that they look a certain way, and they accept it. If they are tall, that is acceptable, and so is being short. Bald is fine, and so is lots of hair. They can live with sweat! They are not insincere about their physical humanity. They have accepted themselves, and therefore they are natural people. No hiding behind artificialities, no apologizing for what they are. They do not know how to be offended by anything that is human. They like themselves and accept what they are. Similarly, they accept all of nature for what it is, rather than wishing it were otherwise. They never complain about things that will not change, such as heat waves, rainstorms, or cold water. They accept themselves and the world as it is. No pretenses, no complaining, simply acceptance. Follow them around for an extended period, as the book describes, and you will never hear self-criticism or wishing. You will see people doing ordinary activities without complaint or pretense. You will see them observing the world the way it is—appreciating rain, heat, cold, animals, and natural phenomena without wishing they were different—like a child who accepts the natural world and engages with it fully.
 
 ### Step 10: Appreciate the Natural World
 
@@ -169,9 +169,9 @@ They enjoy being outdoors in nature, and moving through unspoiled natural settin
 7. See a problem as really only an obstacle to be overcome rather than as a reflection of what you are or are not as a person.
 8. Base your self-assessment on internal standards so that external events do not feel like threats to your worth.
 
-They have insight into the behavior of others, and what may seem complex to others, they see as clear and understandable. Problems that immobilize many others are often viewed as manageable difficulties by these people. This lack of emotional overwhelm in problems makes them able to overcome barriers that seem insurmountable to others. They have insight into themselves too, and they recognize immediately what others are attempting to do to them. They can shrug and ignore while others are angered and immobilized. They are never perplexed or stumped, and what may seem confusing or insoluble to most others is often viewed by them as a simple condition with an identifiable solution.
+They have insight into the behavior of others, and what may seem complex to others, they see as clear and understandable. Problems that immobilize many people are often viewed as manageable difficulties by these people. This lack of emotional overwhelm in problems makes them able to overcome barriers that seem insurmountable to others. They have insight into themselves too, and they recognize immediately what others are attempting to do to them. They can shrug and ignore while others are angered and immobilized. They are never perplexed or stumped, and what may seem confusing or insoluble to most others is often viewed by them as a simple condition with an identifiable solution.
 
-### Step 12: Never Engage in Useless Fighting
+### Step 12: Never Engage in Fighting Without Purpose
 
 1. If fighting will help bring about change, then fight.
 2. Never find it necessary to fight without purpose.
@@ -184,20 +184,20 @@ They have insight into the behavior of others, and what may seem complex to othe
 9. Do not judge others by their looks.
 10. Spend significant time in the service of others—because you choose to.
 
-They do not follow causes blindly, taking up various causes as a way of bringing importance to themselves. If fighting will help bring about change, then they will fight, but never will they find it necessary to fight without purpose. They are not martyrs. They are doers. They are also helpers. They are almost always engaged in work that will make other people's lives more pleasant or tolerable. They are active in social change, and yet they do not take their struggles to bed with them every night, as doing so can contribute to health problems such as ulcers and heart disease. They avoid stereotyping. They often do not even notice physical differences in people, including racial, ethnic, size, and sexual characteristics.
+They do not follow causes blindly, taking up various causes as a way of bringing importance to themselves. If fighting will help bring about change, then they will fight, but never will they find it necessary to fight without purpose. They are not martyrs. They are doers. They are also helpers. They are almost always engaged in work that will make other people's lives more pleasant or tolerable. They are active in social change, and yet they do not take their struggles to bed with them every night, as doing so can contribute to health problems such as ulcers and heart disease. Per the book's framework, they avoid stereotyping. They often do not even notice physical differences in people, including racial, ethnic, size, and sexual characteristics.
 
 ### Step 13: Treat Your Body Well
 
 1. Do not allow colds and headaches to immobilize you.
 2. Believe in your ability to reduce the impact of such ailments.
-3. Do not go around telling others how bad you feel, how tired you are, or what diseases are currently affecting your body.
+ 3. Do not go around telling others how bad you feel, how tired you are, or what diseases are affecting your body in the present moment.
 4. Treat your body well.
 5. Eat well.
 6. Exercise regularly as a way of living.
 7. Take action to prevent or minimize health problems that commonly disable people.
 8. Enjoy living well, and do.
 
-These are not sickly people. They do not believe in being immobilized by colds and headaches. They believe in their ability to reduce the impact of such ailments, and they never go around telling others how bad they feel, how tired they are, or what diseases are currently affecting their bodies. They treat their bodies well. They like themselves, and consequently they eat well, exercise regularly (as a way of living), and take action to prevent or minimize health problems that commonly disable people. They enjoy living well, and they do.
+These are not sickly people. They do not believe in being immobilized by colds and headaches. They believe in their ability to reduce the impact of such ailments, and they never go around telling others how bad they feel, how tired they are, or what diseases are affecting their bodies in the present moment. They treat their bodies well. They like themselves, and consequently they eat well, exercise regularly (as a way of living), and take action to prevent or minimize health problems that commonly disable people. They enjoy living well, and they do.
 
 ### Step 14: Be Honest
 
@@ -208,7 +208,7 @@ These are not sickly people. They do not believe in being immobilized by colds a
 5. Behave in ways that allow others to make their own decisions rather than protecting them from reality.
 6. Deal effectively with what is rather than what you would like it to be.
 
-They are not evasive in their responses, nor do they pretend or lie about anything. They see lying as a distortion of their own reality, and they will not participate in self-deceptive behavior. While they are private people, they will also avoid having to distort information to protect others. They know that they are in charge of their own world, and that others are as well. Thus, they will behave in ways that may be perceived as harsh, but in fact they are simply allowing others to make their own decisions. They deal effectively with what is, rather than what they would like it to be.
+They are not evasive in their responses, nor do they pretend or lie about anything. They see lying as a distortion of their own reality, and they will not participate in self-deceptive behavior. While they are private people, they will also avoid having to distort information to protect others. They know that they are in charge of their own world, and that others are as well. Thus, they will behave in ways that some people may perceive as harsh, but in fact they are simply allowing others to make their own decisions. They deal effectively with what is, rather than what they would like it to be.
 
 ### Step 15: Do Not Blame
 
@@ -222,7 +222,7 @@ They are not evasive in their responses, nor do they pretend or lie about anythi
 
 These people do not blame. They are internal in their personality orientation, and they refuse to ascribe responsibility to others for what they are. Similarly, they will not spend a great deal of time talking about others and focusing on what someone else has done or failed to do. They do not talk about people, they talk with them. They do not blame others; they help others and themselves to assign responsibility where it belongs. They do not gossip or spread negative information about others. They are so busy being effective in their own lives that they have no time for the petty schemes that occupy many people's lives. Doers do. Critics blame and complain.
 
-### Step 16: Have Little Concern With Order, Organization, or Systems
+### Step 16: Transcend Rigid Organizational Thinking
 
 1. Have self-discipline but no need to have things and people fit into your own perceptions of how everything should be.
 2. Have no shoulds for others.
@@ -236,9 +236,9 @@ These people do not blame. They are internal in their personality orientation, a
 10. Do not have to do it a specific way.
 11. Do not consult manuals or ask experts; simply address the problem as you see fit.
 
-These individuals have little concern with order, organization, or systems in their lives. They have self-discipline but no need to have things and people fit into their own perceptions of how everything should be. They have no shoulds for others. They see everyone as having choices, and those petty things that drive others to frustration are simply the results of someone else's decision. They do not see the world as having to be any specific way. They have no preoccupation with cleanliness or orderliness. They exist in a functional way, and if everything is not fitting in as they would prefer, they find that acceptable too. Organization, for these people, is simply a useful means rather than an end in itself. Because of this lack of rigid organizational thinking, they are creative. They address any concern in their own unique way, whether making a bowl of soup, writing a report, or mowing the grass. They apply their own imagination to the act, and the result is a creative approach to everything. They do not have to do it a specific way. They do not consult manuals or ask experts; they simply address the problem as they see fit. This is creativity, and without exception, they have it.
+These individuals have little concern with order, organization, or systems in their lives. They have self-discipline but no need to have things and people fit into their own perceptions of how everything should be. They have no shoulds for others. They see everyone as having choices, and those petty things that drive others to frustration are simply the results of someone else's decision. They do not see the world as having to be any specific way. They have no preoccupation with cleanliness or orderliness. They exist in a functional way, and if everything is not fitting in as they would prefer, they find that acceptable too. Organization, for these people, is simply a useful means rather than an end in itself. Because of this lack of rigid organizational thinking, they are creative. They address any concern in their own unique way, whether making a bowl of soup, writing a report, or mowing the grass. They apply their own imagination to the act, and the result is a creative approach to all problems and activities they encounter. They do not have to do it a specific way. They do not consult manuals or ask experts; they simply address the problem as they see fit. This is creativity, and without exception, they have it—meaning every person who has eliminated all erroneous zones displays this creative approach to problems and activities.
 
-### Step 17: Maintain High Energy Levels
+### Step 17: Maintain Consistently High Energy Levels
 
 1. Do not know how to be bored.
 2. See each life event as an opportunity for action, thought, feeling, and engagement.
@@ -246,9 +246,9 @@ These individuals have little concern with order, organization, or systems in th
 4. If circumstances restrict your options, use your mind in constructive ways to maintain engagement.
 5. Channel energy in ways that are productive for yourself.
 
-These are people with exceptionally high energy levels. They seem to require less sleep, and yet they are engaged with living. They act, and they are healthy. They can summon significant energy for completing a task because they choose to be involved in it as a fulfilling present-moment activity. Their energy is not supernatural; it is simply the result of engaging with life and all the activities in it. They do not know how to be bored. All life events present opportunities for action, thought, feeling, and engagement, and they know how to apply their energy across a wide range of life circumstances. If circumstances restrict their options, they use their minds in constructive ways to avoid losing interest. Boredom is not in their lives because they are channeling energy in ways that are productive for themselves.
+Per the book's framework, these are people with exceptionally high energy levels. They seem to require less sleep than most people—often sleeping only 4 to 6 hours per night—and yet they are engaged with living. They act, and they are healthy. They can summon significant energy for completing a task because they choose to be involved in it as a fulfilling present-moment activity. Their energy is not supernatural; it is simply the result of engaging with life and all the activities in it—including work, play, conversation, exercise, and creative pursuits—with full presence and enthusiasm. They do not know how to be bored. All life events present opportunities for action, thought, feeling, and engagement, and they know how to apply their energy across a wide range of life circumstances. If circumstances restrict their options, they use their minds in constructive ways to avoid losing interest. Boredom is not in their lives because they are channeling energy in ways that are productive for themselves.
 
-### Step 18: Be Aggressively Curious
+### Step 18: Be Aggressively Curious (defined in the book as actively pursuing learning in each present moment without assuming one knows enough)
 
 1. Remain curious and want to learn in each present moment of your life.
 2. Do not worry about having done something incorrectly in the past.
@@ -258,24 +258,24 @@ These are people with exceptionally high energy levels. They seem to require les
 6. Learn from children, stock brokers, and animals.
 7. Want to know more about what it means to be a welder, a cook, or a corporate vice-president.
 8. Be a learner, not a teacher.
-9. Never know how to act snobbish or superior, since you never feel that way.
+  9. Never know how to act snobbish or superior, since one never feels that way.
 10. See every person, every object, every event as an opportunity to learn.
 11. Pursue your interests actively rather than waiting for information to come to you.
 12. Do not be afraid to talk to a waitress, ask a dentist what it feels like to have your hands in someone's mouth all day, or inquire of the poet what is meant by a particular line.
 
-They are aggressively curious. They never know enough. They search for more and want to learn in each present moment of their lives. They do not worry about having done something incorrectly in the past. If something does not work, or does not produce benefit, then it is discarded, rather than regretted. They are truth seekers in the learning sense, always excited about learning more and never assuming they have nothing left to learn. If they are around a barber, they want to learn about barbering. They never feel or act superior, showing off their credentials for others to applaud. They learn from children and stock brokers and animals. They want to know more about what it means to be a welder, a cook, or a corporate vice-president. They are learners, not teachers. They never know enough, and they do not know how to act snobbish or superior, since they never feel that way. Every person, every object, every event represents an opportunity to learn. And they pursue their interests actively, not waiting for information to come along, but going after it.
+They are aggressively curious. They never know enough. They search for more and want to learn in each present moment of their lives. They do not worry about having done something incorrectly in the past. If something does not work, or does not produce benefit, then it is discarded, rather than regretted. They are truth seekers in the learning sense, always excited about learning more and never assuming they have nothing left to learn. If they are around a barber—or any other person engaged in any activity—they want to learn about what that person does, how they do it, and what it feels like to be in that role. They never feel or act superior, showing off their credentials for others to applaud. They learn from children and stock brokers and animals. They want to know more about what it means to be a welder, a cook, or a corporate vice-president. They are learners, not teachers. They never know enough, and they do not know how to act snobbish or superior, since they never feel that way. Every person, every object, every event represents an opportunity to learn. And they pursue their interests actively, not waiting for information to come along, but going after it.
 
 ### Step 19: Do Not Fear Failure
 
 1. Welcome failure.
 2. Do not equate being successful in any enterprise with being successful as a human being.
-3. Maintain your self-assessment based on internal standards so that any external event can be evaluated as effective or ineffective.
+ 3. Maintain your self-assessment based on internal standards that one has consciously chosen so that any external event can be evaluated as effective or ineffective.
 4. Recognize that failing reflects others' judgments, not your inherent worth, and therefore need not be feared.
 5. Try anything.
 6. Participate just because it is fun.
 7. Never fear having to explain yourself.
 
-They are not afraid to fail. In fact, they often welcome it. They do not equate being successful in any enterprise with being successful as a human being. Since their self-worth is based on internal standards, any external event can be evaluated as effective or ineffective. They recognize that failing reflects others' judgments, not their inherent worth, and therefore need not be feared. Thus, they will try anything, participate just because it is fun, and never fear having to explain themselves.
+Per the book's framework, they are not afraid to fail. In fact, they often welcome it. They do not equate being successful in any enterprise with being successful as a human being. Since their self-worth is based on internal standards, any external event can be evaluated as effective or ineffective. They recognize that failing reflects others' judgments, not their inherent worth, and therefore need not be feared. Thus, they will try anything, participate just because it is fun, and never fear having to explain themselves.
 
 ### Step 20: Do Not Choose Anger in Any Immobilizing Way
 
@@ -284,7 +284,7 @@ They are not afraid to fail. In fact, they often welcome it. They do not equate 
 3. Work to change events you can influence.
 4. Reduce responses that harm you and increase responses that benefit you.
 
-Similarly, they never choose anger in any immobilizing way. Using consistent reasoning (without needing to reconsider each time, since it has become a habit), they do not insist that others must behave differently and that events must be otherwise. They accept others as they are, and they work to change events they can influence. Thus, anger is unlikely because the expectations are not there. These are people who are capable of reducing responses that harm them and increasing responses that benefit them.
+Similarly, they never choose anger in any immobilizing way. Using consistent reasoning that has become a habit through months or years of consistent practice—meaning they no longer need to consciously reconsider each situation because the response is automatic—they do not insist that others must behave differently and that events must be otherwise. They accept others as they are, and they work to change events they can influence. Thus, anger is unlikely because the expectations are not there. These are people who are capable of reducing responses that harm them and increasing responses that benefit them.
 
 ### Step 21: Be Without Defensiveness
 
@@ -299,35 +299,35 @@ Similarly, they never choose anger in any immobilizing way. Using consistent rea
 9. Let it go at that without any need to win an argument or persuade the other person of the wrongness of their position.
 10. Be unafraid of giving a bad impression but do not strive to do so.
 
-These content people display an admirable lack of defensiveness. They will not play games and try to impress others. They do not dress for others' approval, nor do they go through the motions of explaining themselves. They have simplicity and naturalness, and they will not get drawn into making issues of small or large things. They are not arguers or hot-headed debaters; they simply state their views, listen to others, and recognize the futility of trying to convince someone else to change their nature. They will simply say, "That is all right; we are just different. We do not have to agree." They let it go at that without any need to win an argument or persuade the other person of the wrongness of their position. They are unafraid of giving a bad impression, but they do not strive to do so.
+Per the book's framework, these content people display an admirable lack of defensiveness. They will not play games and try to impress others. They do not dress for others' approval, nor do they go through the motions of explaining themselves. They have simplicity and naturalness, and they will not get drawn into making issues of small or large things. They are not arguers or hot-headed debaters; they simply state their views, listen to others, and recognize the futility of trying to convince someone else to change their nature. They will simply say, "That is all right; we are just different. We do not have to agree." They let it go at that without any need to win an argument or persuade the other person of the wrongness of their position. They are unafraid of giving a bad impression, but they do not strive to do so.
 
 ### Step 22: Have Universal, Not Local, Values
 
-1. Do not identify with the family, neighborhood, community, city, state, or country.
+1. Do not identify with the family, neighborhood, community, city, state, or country in ways that create arbitrary boundaries between yourself and other human beings.
 2. See yourself as belonging to the human race.
 3. Do not be patriotic to a specific boundary; see yourself as a part of the whole of humanity.
 4. Take no pleasure in having more enemy casualties, since the enemy is as human as the ally.
 5. Do not accept arbitrary affiliations drawn by others to describe how one should identify.
-6. Transcend traditional boundaries.
+6. Transcend traditional boundaries—such as family, neighborhood, community, city, state, and country—that arbitrarily separate one human being from another.
 
-Their values are not local. They do not identify with the family, neighborhood, community, city, state, or country. They see themselves as belonging to the human race, and an unemployed Austrian is no better or worse than an unemployed Californian. They are not patriotic to a specific boundary; rather they see themselves as a part of the whole of humanity. They take no pleasure in having more enemy casualties, since the enemy is as human as the ally. Arbitrary affiliations drawn by others to describe how one should identify are not accepted. They transcend traditional boundaries, which often causes others to label them as rebels or even traitors.
+Their values are not local. They do not identify with the family, neighborhood, community, city, state, or country. They see themselves as belonging to the human race, and an unemployed Austrian is no better or worse than an unemployed Californian. They are not patriotic to a specific boundary; rather they see themselves as a part of the whole of humanity. They take no pleasure in having more enemy casualties, since the enemy is as human as the ally. Arbitrary affiliations drawn by others to describe how one should identify are not accepted. They transcend traditional boundaries—such as family, neighborhood, community, city, state, and country—that arbitrarily separate one human being from another, which often causes others to label them as rebels or even traitors.
 
 ### Step 23: Have No Heroes or Idols
 
 1. View all people as human beings and place no one above yourself in importance.
 2. Do not demand perfect fairness in every situation.
-3. When someone else has more privileges, see that as a benefit to that person rather than as a reason for being unhappy.
+3. When someone else has more privileges—such as greater wealth, status, opportunity, or social approval—see that as a benefit to that person rather than as a reason for being unhappy.
 4. When competing against an opponent, want them to perform well rather than wishing for poor performance in order to win by default.
 5. Want to be victorious and effective on your own rather than gaining through the shortcomings of others.
 6. Do not insist that everyone be equally endowed, but look inward for your happiness.
 7. Do not criticize others, nor take pleasure in other people's misfortunes.
 8. Be so engaged in your own life that you pay little attention to what your neighbors are doing.
 
-They have no heroes or idols. They view all people as human beings, and they place no one above themselves in importance. They do not demand perfect fairness in every situation. When someone else has more privileges, they see that as a benefit to that person, rather than as a reason for being unhappy. When competing against an opponent, they want them to perform well, rather than wishing for poor performance in order to win by default. They want to be victorious and effective on their own, rather than gaining through the shortcomings of others. They do not insist that everyone be equally endowed, but look inward for their happiness. They do not criticize others, nor do they take pleasure in other people's misfortunes. They are so engaged in their own lives that they pay little attention to what their neighbors are doing.
+They have no heroes or idols. They view all people as human beings, and they place no one above themselves in importance. They do not demand perfect fairness in every situation. When someone else has more privileges—such as greater wealth, status, opportunity, or social approval—they see that as a benefit to that person, rather than as a reason for being unhappy. When competing against an opponent, they want them to perform well, rather than wishing for poor performance in order to win by default. They want to be victorious and effective on their own, rather than gaining through the shortcomings of others. They do not insist that everyone be equally endowed, but look inward for their happiness. They do not criticize others, nor do they take pleasure in other people's misfortunes. They are so engaged in their own lives—pursuing their own interests, goals, and present-moment activities—that they pay little attention to what their neighbors are doing, saying, or achieving.
 
 ### Step 24: Love Yourself
 
-1. Be motivated by a desire to develop.
+1. Be motivated by a desire to develop over an extended timeframe.
 2. Treat yourself well when given the option.
 3. Have no room for self-pity, self-rejection, or self-hatred.
 4. When asked "Do you like yourself?" be able to give a direct "Of course I do!"
@@ -338,7 +338,7 @@ They have no heroes or idols. They view all people as human beings, and they pla
 9. When you stumble, do not lie there and complain about having fallen; get up, brush yourself off, and continue with your activities.
 10. Do not pursue happiness directly; live fully and let happiness result from that engagement.
 
-Most significantly, these are individuals who like themselves. They are motivated by a desire to develop, and they always treat themselves well when given the option. They have no room for self-pity, self-rejection, or self-hatred. If you ask them, "Do you like yourself?" you will get a direct, "Of course I do!" They are uncommon individuals. Each day is a deliberate choice to engage. They have it together and they live all of their present moments. They are not free from problems, but they are free from emotional immobility as a result of the problems. The measure of their mental health is not in whether they experience setbacks but in what they do when they experience them. Do they lie there and complain about having fallen? No, they get up, brush themselves off, and continue with their activities. People who are free from erroneous zones do not pursue happiness directly; they live fully, and happiness is the result of that engagement.
+Per the book's framework, most significantly, these are individuals who like themselves. They are motivated by a desire to develop, and they always treat themselves well when given the option. They have no room for self-pity, self-rejection, or self-hatred. If you ask them, "Do you like yourself?" you will get a direct, "Of course I do!" They are uncommon individuals. Each day is a deliberate choice to engage over an extended timeframe. They have it together—meaning they possess a stable sense of self-worth, clear internal standards, and freedom from self-pity, self-rejection, or self-hatred—and they live all of their present moments. They are not free from problems, but they are free from emotional immobility as a result of the problems. The measure of their mental health is not in whether they experience setbacks but in what they do when they experience them. Do they lie there and complain about having fallen? No, they get up, brush themselves off, and continue with their activities. People who are free from erroneous zones do not pursue happiness directly; they live fully, and happiness is the result of that engagement.
 
 ## Examples
 
@@ -348,15 +348,15 @@ The book describes someone who chooses to remain in the rain because they see it
 
 ### Example 2: Freedom from Guilt
 
-People free from erroneous zones are free from guilt and the anxiety that comes from spending present moments immobilized by past events. Strategies that work on others do not work with these people. They are free from guilt themselves without deliberate effort because it is natural; they never help others to choose guilt.
+People free from erroneous zones are free from guilt and the anxiety that comes from spending present moments immobilized by past events. Guilt-manipulation strategies—such as appeals to shame, references to past mistakes, or emotional pressure—that work on others do not work with these people. They are free from guilt themselves without deliberate effort because freedom from guilt is their default psychological state; they refuse to validate others' guilt by agreeing that a past mistake justifies ongoing self-punishment, and they never help others to choose guilt by reinforcing the idea that feeling bad is necessary or deserved.
 
 ### Example 3: Living Without Approval-Seeking
 
-They are able to function without approval and applause from others. They are unusual in that they are able to function according to their own values, rather than according to some external person's expectations. They can be direct in their honesty because they do not phrase their messages in carefully worded phrases designed to please. If you ask what they think, they will tell you directly. They do not need to be loved by everyone, nor do they harbor an excessive desire to be approved by all for everything that they do.
+They are able to function without approval and applause from others. They are unusual in that they are able to function according to their own values, rather than according to some other individual's expectations. They can be direct in their honesty because they do not phrase their messages in carefully worded phrases designed to please—such as hedging, softening, or adding qualifiers to avoid disapproval or conflict—but instead say exactly what they think. If you ask what they think, they will tell you directly. They do not need to be loved by everyone, nor do they harbor an excessive desire to be approved by all for everything that they do.
 
 ### Example 4: Aggressive Curiosity
 
-If they are around a barber, they want to learn about barbering. They never feel or act superior, showing off their credentials for others to applaud. They learn from children and stock brokers and animals. They want to know more about what it means to be a welder, a cook, or a corporate vice-president. They are learners, not teachers. Every person, every object, every event represents an opportunity to learn. And they pursue their interests actively, not waiting for information to come along, but going after it.
+If they are around a barber—or any other person engaged in any activity—they want to learn about what that person does, how they do it, and what it feels like to be in that role. They never feel or act superior, showing off their credentials for others to applaud. They learn from children and stock brokers and animals. They want to know more about what it means to be a welder, a cook, or a corporate vice-president. They are learners, not teachers. Every person, every object, every event represents an opportunity to learn. And they pursue their interests actively, not waiting for information to come along, but going after it.
 
 ## Best Practices
 
@@ -383,20 +383,20 @@ If they are around a barber, they want to learn about barbering. They never feel
 - Enjoy a wide range of life experiences—develop a realistic acceptance of situations and a strong capacity to find enjoyment in them
 - Be free from guilt; feeling bad in the present moment only reinforces a poor self-image
 - Live in the present rather than in the past or future; do not postpone enjoyment for an uncertain future
-- You are not responsible for others' happiness; each person creates their own happiness
-- Dependency is the enemy of all happiness and fulfillment
+- As the book's framework teaches, you are not responsible for others' happiness; each person creates their own happiness through their own choices and engagement with life
+- As the book's framework teaches, dependency is the enemy of all happiness and fulfillment because it places control over your well-being in someone else's hands
 - Assess your mental health by what you do after setbacks, not by whether you experience them
 - Do not pursue happiness directly; live fully and let happiness result from that engagement
 
 ## Security & Safety Notes
 
-- These people refuse to be immobilized by physical ailments but also do not ignore genuine health concerns; balance self-reliance with appropriate medical care
+- These people refuse to be immobilized by physical ailments but also do not ignore genuine health concerns; balance self-reliance with appropriate medical care—defined as seeking diagnosis from licensed medical professionals when symptoms persist or worsen, following evidence-based treatment plans, and taking prescribed medications as directed—by evaluating symptoms objectively, seeking professional diagnosis when warranted, and maintaining personal agency over lifestyle choices such as diet, exercise, and stress management
 - When helping others, avoid martyrdom; be a doer and a helper rather than taking struggles to bed, as doing so can contribute to health problems
 
 ## Common Pitfalls
 
 - **Problem:** You spend present moments worrying about future events you cannot control or feeling immobilized by past events.
-  **Solution:** Live now rather than in the past or the future. Worrying occupies present moments and is an unproductive way to spend your time. Focus on present moments, recognizing that worrying about the past or future does not change either.
+  **Solution:** Live now rather than in the past or the future. Worrying occupies present moments—defined as the current interval of conscious experience—and is an unproductive way to spend your time. Focus on present moments, recognizing that worrying about the past or future does not change either.
 
 - **Problem:** You seek approval and applause from others, feeling destroyed or immobilized by disapproval.
   **Solution:** Function without approval and applause from others. Be guided by internal standards and not overly concerned with others' evaluations of your behavior. When someone says something about you, take the information they provide, filter it through your own values, and use it for growth.
@@ -407,5 +407,5 @@ If they are around a barber, they want to learn about barbering. They never feel
 - **Problem:** You are immobilized by guilt over past actions, feeling bad in the present moment and making others feel guilty as well.
   **Solution:** Admit to making mistakes and commit to avoiding counterproductive behavior, but do not waste time wishing that you had not done something. Learn from the past rather than dwelling on it. When guilt arises, let it pass without elaborating on it.
 
-- **Problem:** You fear failure and avoid trying new things, equating failure in an enterprise with failure as a human being.
+- **Problem:** You fear failure and avoid trying new things, equating failure in any enterprise—defined as any organized undertaking, business venture, project, or pursuit with a specific goal—with failure as a human being.
   **Solution:** Welcome failure. Maintain your self-assessment based on internal standards so that any external event can be evaluated as effective or ineffective. Failing reflects others' judgments and does not determine your worth. Try anything, participate just because it is fun.
