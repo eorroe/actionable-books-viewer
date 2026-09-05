@@ -18,7 +18,7 @@ This book is a daily commentary on all 18 chapters of the Bhagavad Gita, offerin
 
 ## Lessons From Book
 
-### Lesson 1: January 1, 2024 (1 Day)
+### Lesson 1: Recognize and Navigate Genuine Moral Dilemmas (January 1, 2024 | 1 Day)
 
 #### Examples
 
@@ -74,7 +74,7 @@ Commit to the right action regardless of whether it aligns with your preferences
 
 ---
 
-### Lesson 2: January 1–31, 2024 (31 Days)
+### Lesson 2: Recognize the Eternal Nature of the Soul and Accept Death as Transition (January 1–31, 2024 | 31 Days)
 
 #### Examples
 
@@ -127,7 +127,7 @@ Meditate on analogies like the ocean and waves, or space containing all objects,
 
 ---
 
-### Lesson 3: February 12–March 10, 2024 (28 Days)
+### Lesson 3: Perform Your Duty Without Attachment to Results (Karma Yoga) (February 12–March 10, 2024 | 28 Days)
 
 #### Examples
 
@@ -183,7 +183,7 @@ Practice the understanding that you are not the sole doer; you are an instrument
 
 ---
 
-### Lesson 4: March 14–April 13, 2024 (31 Days)
+### Lesson 4: Control the Mind and Withdraw the Senses from Sensory Temptations (March 14–April 13, 2024 | 31 Days)
 
 #### Examples
 
@@ -239,7 +239,7 @@ Build the habit of daily meditation, mindfulness, and periods of intentional sil
 
 ---
 
-### Lesson 5: April 2–25, 2024 (24 Days)
+### Lesson 5: Understand and Govern the Three Modes of Material Nature (Gunas) (April 2–25, 2024 | 24 Days)
 
 #### Examples
 
@@ -296,7 +296,7 @@ When sattva (calm clarity) arises, use it to make important decisions. Gradually
 
 ---
 
-### Lesson 6: April 26–May 25, 2024 (30 Days)
+### Lesson 6: Cultivate Equanimity in All Circumstances (April 26–May 25, 2024 | 30 Days)
 
 #### Examples
 
@@ -351,7 +351,7 @@ When anxiety about outcomes arises, mentally detach by asking: "Can I control th
 
 ---
 
-### Lesson 7: May 27–June 12, 2024 (17 Days)
+### Lesson 7: Cultivate Divine Qualities and Transform Demonic Tendencies (May 27–June 12, 2024 | 17 Days)
 
 #### Examples
 
@@ -407,7 +407,7 @@ Use scriptures as the authoritative guide for determining right action, rather t
 
 ---
 
-### Lesson 8: June 13–July 1, 2024 (19 Days)
+### Lesson 8: Practice Devotion, Surrender, and the Five Ingredients of Right Living (June 13–July 1, 2024 | 19 Days)
 
 #### Examples
 
@@ -463,7 +463,7 @@ Dedicate all daily actions as an offering or form of worship. Before each action
 
 ---
 
-### Lesson 9: July 2–26, 2024 (25 Days)
+### Lesson 9: Practice Selfless Service and Generosity (Seva / Yagya) (July 2–26, 2024 | 25 Days)
 
 #### Examples
 
@@ -520,7 +520,7 @@ Substitute the pursuit of personal pleasure with the joy of giving. Notice how h
 
 ---
 
-### Lesson 10: July 27–August 3, 2024 (8 Days)
+### Lesson 10: Seek Knowledge from a Realized Teacher and Apply It Practically (July 27–August 3, 2024 | 8 Days)
 
 #### Examples
 
@@ -576,7 +576,7 @@ Understand that education provides information, but intellect teaches you how to
 
 ---
 
-### Lesson 11: August 4–10, 2024 (7 Days)
+### Lesson 11: Cultivate Faith, Devotion, and the Seven Divine Qualities (August 4–10, 2024 | 7 Days)
 
 #### Examples
 
@@ -632,7 +632,7 @@ Strengthen your personal faith by regularly engaging in practices that resonate 
 
 ---
 
-### Lesson 12: August 11–25, 2024 (15 Days)
+### Lesson 12: See the Divine in All Beings and Practice Universal Compassion (August 11–25, 2024 | 15 Days)
 
 #### Examples
 
@@ -688,7 +688,7 @@ When about to speak harshly or act selfishly toward someone, pause and ask: "Wou
 
 ---
 
-### Lesson 13: August 26–September 16, 2024 (22 Days)
+### Lesson 13: Follow Svadharma — Your Inherent Duty Aligned With Your Nature (August 26–September 16, 2024 | 22 Days)
 
 #### Examples
 
@@ -744,7 +744,7 @@ Do not compare your spiritual or personal progress with others. Everyone matures
 
 ---
 
-### Lesson 14: September 17–30, 2024 (14 Days)
+### Lesson 14: Transcend the Three Modes of Material Nature and Attain Liberation (September 17–30, 2024 | 14 Days)
 
 #### Examples
 
@@ -800,7 +800,7 @@ Strive to remain unattached to all three modes, remembering that the Supreme Bei
 
 ---
 
-### Lesson 15: October 1–11, 2024 (11 Days)
+### Lesson 15: Break the Chain of Suffering and Practice Self-Knowledge (October 1–11, 2024 | 11 Days)
 
 #### Examples
 
@@ -856,7 +856,7 @@ Use self-knowledge as a sword to cut through ignorance-born confusion, then enga
 
 ---
 
-### Lesson 16: October 12–18, 2024 (7 Days)
+### Lesson 16: Maintain Steady Faith, Devotion, and the Willingness to Begin Anew (October 12–18, 2024 | 7 Days)
 
 #### Examples
 
@@ -912,7 +912,7 @@ When tempted, shift your attention to the divine rather than struggling alone. C
 
 ---
 
-### Lesson 17: October 19–November 12, 2024 (25 Days)
+### Lesson 17: Practice Threefold Austerity and Purify Your Mode of Worship (October 19–November 12, 2024 | 25 Days)
 
 #### Examples
 
@@ -968,7 +968,7 @@ If your current worship involves seeking material gains or displaying wealth, sh
 
 ---
 
-### Lesson 18: November 13–December 31, 2024 (49 Days)
+### Lesson 18: Attain the Supreme Abode Through Surrender, Devotion, and Selfless Action (November 13–December 31, 2024 | 49 Days)
 
 #### Examples
 
