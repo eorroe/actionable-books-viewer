@@ -8,7 +8,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 - When starting or running a small business, bootstrapped startup, or side project and want to avoid unnecessary overhead
 - When you feel pressure to grow headcount, raise funding, or adopt traditional business rituals that don't fit your situation
-- When you need practical, experience-tested counterpoints to conventional business advice about planning, hiring, and productivity
+- When you need practical, experience-tested counterpoints to conventional business advice about planning, hiring, and productivity in small-business and startup contexts
 
 ## Lessons From Book
 
@@ -20,11 +20,11 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 ##### Example: "This book isn't based on academic theories. It's based on o...
 
-"This book isn't based on academic theories. It's based on our experience."
+"This book isn't based on academic theories. It's based on the authors' actual operating experience running 37signals."
 
 ##### Example: "We've been in business for more than ten years. Along the w...
 
-"We've been in business for more than ten years. Along the way, we've seen two recessions, one burst bubble, business-model shifts, and doom-and-gloom predictions come and go--and we've remained profitable through it all."
+"We've been in business for over ten years. Along the way, we've seen two recessions, one burst bubble, business-model shifts, and doom-and-gloom predictions come and go--and we've remained profitable through it all."
 
 #### Steps
 
@@ -39,7 +39,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 #### Keep In Mind
 
-- You're not big enough to matter to major publications yet—and that's okay.
+- Small-business owners are not big enough to matter to major publications yet—and that's okay.
 - Once you have customers and a history, you'll have a real story to tell.
 
 #### Security & Safety Notes
@@ -53,7 +53,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 - **Problem:** Hiring a PR firm too early before having a real story or audience.
   **Solution:** Build a foundation first; start audience-building today and keep at it consistently.
 
-- **Problem:** Treating marketing as a discrete department or a few campaigns.
+- **Problem:** Treating marketing as a discrete department or 2-3 campaigns.
   **Solution:** Recognize that every employee interaction is marketing—phone, email, product, invoices, packaging.
 - **Problem:** Focusing on flashy one-off events while ignoring daily customer touchpoints.
   **Solution:** Prioritize the sum total of all customer experiences over isolated marketing moments.
@@ -66,7 +66,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 - **Problem:** Obsessing over coverage in major publications with high barriers to entry.
   **Solution:** Focus on trade publications and niche bloggers who are hungry for fresh stories.
 - **Problem:** Ignoring niche media because it feels less prestigious.
-  **Solution:** Build relationships with tastemakers on the fringe—their impact can go mainstream quickly.
+  **Solution:** Build relationships with tastemakers on the fringe—their impact can reach mainstream audiences within a short timeframe.
 
 - **Problem:** Sending generic press releases to hundreds of strangers.
   **Solution:** Write personal, passionate pitches to specific journalists who covered similar stories.
@@ -74,7 +74,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
   **Solution:** Stand out with something specific, thoughtful, and different from every other pitch.
 
 - **Problem:** Over-polishing communications and presentations until they feel inauthentic.
-  **Solution:** Leave the poetry in what you make; don't sterilize your message.
+  **Solution:** Keep your authentic voice in what you make; don't sterilize your message.
 - **Problem:** Hiding imperfections to appear more professional.
   **Solution:** Be genuine even if it means seeming less polished—relatability builds connection.
 
@@ -108,9 +108,9 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 "We're an intentionally small company that makes software to help small companies and groups get things done the easy way."
 
-##### Example: "We're small (sixteen people as this book goes to press), fr...
+##### Example: "We're small (sixteen people at the time of publication), fr...
 
-"We're small (sixteen people as this book goes to press), frugal, and profitable."
+"We're small (sixteen people at the time of publication), frugal, and profitable."
 
 ##### Example: "Internet companies are known for hiring compulsively, spend...
 
@@ -129,7 +129,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 #### Keep In Mind
 
-- Small and frugal companies can serve millions of users without becoming bloated.
+- Small and frugal companies can serve a broad customer base without becoming bloated.
 - Headcount growth is not synonymous with success.
 
 #### Security & Safety Notes
@@ -145,7 +145,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 ### Prove Critics Wrong Through Results, Not Arguments
 
-**Context:** The authors acknowledge widespread criticism and advise using profitability and traction as the response.
+**Context:** The authors acknowledge significant criticism and advise using profitability and traction as the response.
 
 #### Examples
 
@@ -155,7 +155,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 ##### Example: "They say you need to sell to the Fortune 500. Screw that. W...
 
-"They say you need to sell to the Fortune 500. Screw that. We sell to the Fortune 5,000,000."
+"They say you need to sell to the Fortune 500. Screw that. We sell to a mass-market audience of millions."
 
 ##### Example: "They say a lot of things. We say they're wrong. We've prove...
 
@@ -175,7 +175,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 #### Keep In Mind
 
-- Critics often mistake conventional wisdom for truth.
+- Critics in many cases mistake conventional wisdom for truth.
 - Reaching a broad audience can be more valuable than landing a single prestigious client.
 
 #### Security & Safety Notes
@@ -191,13 +191,13 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 ### Reject Unnecessary Traditional Business Requirements
 
-**Context:** The introduction systematically rejects several widely accepted business prerequisites.
+**Context:** The introduction systematically rejects multiple widely accepted business prerequisites.
 
 #### Examples
 
 ##### Example: "They don't think you can have employees who almost never se...
 
-"They don't think you can have employees who almost never see each other spread out across eight cities on two continents."
+"They don't think you can have employees who see each other fewer than a dozen times per year spread out across eight cities on two continents."
 
 ##### Example: "They say you can't succeed without making financial project...
 
@@ -223,7 +223,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 #### Keep In Mind
 
-- Many "requirements" are cultural habits, not business necessities.
+- Most traditional "requirements" are cultural habits, not business necessities.
 - Distributed teams and minimal planning can work well for software-driven companies.
 
 #### Security & Safety Notes
@@ -249,7 +249,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 ##### Example: "You'll learn how to begin, why you need less than you think...
 
-"You'll learn how to begin, why you need less than you think, when to launch, how to get the word out, whom (and when) to hire, and how to keep it all under control."
+"You'll learn how to begin, why you need fewer resources than you think, when to launch, how to get the word out, whom (and when) to hire, and how to keep it all under control."
 
 #### Steps
 
@@ -267,7 +267,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 #### Keep In Mind
 
-- The goal is to rebuild business around essentials, not tradition.
+- The goal is to rebuild business around core operational essentials, not tradition.
 - Simplicity and control are outcomes of deliberate constraint.
 
 #### Security & Safety Notes
@@ -277,13 +277,13 @@ Rework is a practical business manifesto by 37signals that challenges convention
 #### Common Pitfalls
 
 - **Problem:** Launching on an arbitrary schedule instead of when the product is ready.
-  **Solution:** Launch when the product fulfills its core function; iterate after launch.
+  **Solution:** Launch when the product fulfills its one essential function; iterate after launch.
 - **Problem:** Depending on large ad budgets instead of building audience and word of mouth.
   **Solution:** Invest in product quality and organic growth rather than paid promotion.
 
 ### The New Reality - Anyone Can Start a Business
 
-**Context:** This chapter establishes the foundational premise of Rework: the business world has fundamentally changed. Gone are the barriers to entry that once made entrepreneurship exclusive to the wealthy or well-connected. Today, the tools, technology, and opportunities are accessible to anyone with ambition and a good idea.
+**Context:** This chapter establishes the foundational premise of Rework: The business world has significantly changed. Gone are the barriers to entry that once made entrepreneurship exclusive to the wealthy or well-connected. Today, the tools, technology, and opportunities are accessible to anyone with ambition and a good idea.
 
 #### Examples
 
@@ -293,17 +293,17 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 ##### Example: "Tools that used to be out of reach are now easily accessibl...
 
-"Tools that used to be out of reach are now easily accessible. Technology that cost thousands is now just a few bucks or even free."
+"Tools that used to be out of reach are now easily accessible. Technology that cost thousands of dollars is now just a few bucks or even free."
 
 ##### Example: "One person can do the job of two or three or, in some cases...
 
-"One person can do the job of two or three or, in some cases, an entire department."
+"One person can do the work of two or three people or, in some cases, an entire department."
 
 #### Steps
 
 1. Assess your current situation and recognize that you have more resources available than you think
 2. Identify what tools or skills you already possess that you can leverage
-3. Understand that the barrier to entry is much lower than traditional business wisdom suggests
+3. Understand that the barrier to entry is lower than traditional business wisdom suggests
 4. Shift your mindset from "I couldn't possibly" to "How could I?"
 
 #### Best Practices
@@ -324,7 +324,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 #### Common Pitfalls
 
 - **Problem:** Waiting for perfect conditions or external validation before starting.
-  **Solution:** Begin with what you already have; barriers to entry are much lower than conventional wisdom suggests.
+  **Solution:** Begin with what you already have; barriers to entry are lower than conventional wisdom suggests.
 - **Problem:** Overlooking the increased competition that accessible tools create.
   **Solution:** Move quickly and build something real before the window narrows.
 
@@ -336,7 +336,7 @@ Rework is a practical business manifesto by 37signals that challenges convention
 
 ##### Example: "You don't have to work miserable 60/80/100-hour weeks to ma...
 
-"You don't have to work miserable 60/80/100-hour weeks to make it work. 10-40 hours a week is plenty."
+"You don't have to work excessive 60/80/100-hour weeks to make it work. 10-40 hours a week is sufficient for most practitioners."
 
 ##### Example: The emphasis is on quality of work and smart decisions rathe...
 
@@ -359,7 +359,7 @@ The emphasis is on quality of work and smart decisions rather than quantity of h
 #### Keep In Mind
 
 - Burnout reduces long-term effectiveness and creativity
-- Working smart often means working less but achieving more
+- Working smart in many cases means working less but achieving more
 
 #### Security & Safety Notes
 
@@ -380,22 +380,22 @@ The emphasis is on quality of work and smart decisions rather than quantity of h
 
 ##### Example: "You don't have to deplete your life savings or take on a bo...
 
-"You don't have to deplete your life savings or take on a boatload of risk."
+"You don't have to deplete your life savings or take on substantial financial risk."
 
 ##### Example: "Starting a business on the side while keeping your day job ...
 
-"Starting a business on the side while keeping your day job can provide all the cash flow you need."
+"Starting a business on the side while keeping your day job can provide sufficient cash flow to cover initial expenses."
 
 #### Steps
 
 1. Identify a business idea that can be pursued evenings or weekends
 2. Validate the idea with minimal investment before going all-in
 3. Use your existing income to fund growth rather than external capital
-4. Transition to full-time only when the side business generates consistent, sufficient income
+4. Transition to full-time only when the side business generates reliable income that covers your living expenses
 
 #### Best Practices
 
-- ✅ Keep your day job until the new business proves viable
+- ✅ Keep your day job until the new business demonstrates consistent profitability
 - ✅ Reinvest early profits back into the business rather than taking draws
 - ✅ Test demand before investing heavily in infrastructure
 - ✅ Build a financial cushion before making the leap to full-time entrepreneurship
@@ -403,7 +403,7 @@ The emphasis is on quality of work and smart decisions rather than quantity of h
 #### Keep In Mind
 
 - A side business provides learning and validation with minimal downside
-- Organic growth is often more sustainable than rapid, debt-fueled expansion
+- Organic growth is in many cases more sustainable than fast, debt-fueled expansion
 
 #### Security & Safety Notes
 
@@ -411,7 +411,7 @@ The emphasis is on quality of work and smart decisions rather than quantity of h
 
 #### Common Pitfalls
 
-- **Problem:** Quitting a day job before the side business proves sustainable.
+- **Problem:** Quitting a day job before the side business demonstrates consistent profitability.
   **Solution:** Keep stable income until the new business generates consistent, reliable revenue.
 - **Problem:** Investing heavily in infrastructure before validating demand.
   **Solution:** Test demand with minimal investment before scaling up.
@@ -428,7 +428,7 @@ The emphasis is on quality of work and smart decisions rather than quantity of h
 
 ##### Example: The implication is that physical location is no longer a con...
 
-The implication is that physical location is no longer a constraint on business success
+This means physical location no longer constrains business success
 
 #### Steps
 
@@ -447,7 +447,7 @@ The implication is that physical location is no longer a constraint on business 
 #### Keep In Mind
 
 - Remote work expands your talent pool globally
-- Reduced office costs can be reinvested in other areas
+- Reduced office costs can be reinvested in product development, marketing, or customer support
 
 #### Security & Safety Notes
 
@@ -472,7 +472,7 @@ The implication is that physical location is no longer a constraint on business 
 
 ##### Example: The entire chapter serves as a manifesto for rejecting the "...
 
-The entire chapter serves as a manifesto for rejecting the "real world" thinking that limits potential
+This chapter serves as a manifesto for rejecting the "real world" beliefs that limit potential, such as the ideas that you can't have a distributed team, can't succeed without long-term plans, and can't be transparent about your work.
 
 #### Steps
 
@@ -491,7 +491,7 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 #### Keep In Mind
 
 - Change is constant; what was true yesterday may not be true today
-- Innovation often comes from questioning the status quo
+- Innovation in many cases comes from questioning the status quo
 
 #### Security & Safety Notes
 
@@ -512,7 +512,7 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 
 ##### Example: "In the real world, you can't have more than a dozen employe...
 
-"In the real world, you can't have more than a dozen employees spread out in eight different cities on two continents. In the real world, you can't attract millions of customers without any salespeople or advertising. In the real world, you can't reveal your formula for success to the rest of the world. But we've done all those things and prospered."
+"In the real world, you can't have over twelve employees spread out in eight different cities on two continents. In the real world, you can't attract over one million customers without any salespeople or advertising. In the real world, you can't reveal your methods publicly. But we've done all those things and prospered."
 
 ##### Example: "Scratch the surface and you'll find these 'real world' inha...
 
@@ -553,7 +553,7 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 
 ### Learn from Success, Not Failure
 
-**Context:** The widely accepted belief that "failure builds character" and "fail early and fail often" is misleading. Success—not failure—is the experience that actually counts and compounds.
+**Context:** The common belief that "failure builds character" and "fail early and fail often" is misleading. Success—not failure—is the experience that actually counts and compounds.
 
 #### Examples
 
@@ -586,7 +586,7 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 #### Keep In Mind
 
 - Failure teaches you what not to do, but not what to do next.
-- People who failed before have the same success rate as people who have never tried at all (23 percent).
+- Studies suggest that people who failed before have the same success rate as people who have never tried at all (23 percent).
 
 #### Security & Safety Notes
 
@@ -601,13 +601,13 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 
 ### Planning Is Guessing
 
-**Context:** Long-term business plans are fantasies dressed up as control mechanisms. Plans written before you begin are the worst time to make decisions, and they prevent the improvisation reality demands.
+**Context:** Long-term business plans are estimates treated as control mechanisms. Plans written before you begin are the worst time to make decisions, and they prevent the improvisation reality demands.
 
 #### Examples
 
-##### Example: "Unless you're a fortune-teller, long-term business planning...
+##### Example: "Unless you can predict the future, long-term business planning...
 
-"Unless you're a fortune-teller, long-term business planning is a fantasy."
+"Unless you can predict the future, long-term business planning is an unreliable practice."
 
 ##### Example: "Writing a plan makes you feel in control of things you can'...
 
@@ -619,22 +619,22 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 
 #### Steps
 
-1. Stop calling your plans "plans"—call them guesses to reduce their emotional weight and false authority.
-2. Refuse to write long, detailed plans; if you must write something down, keep it under a few pages.
+1. Stop calling your plans "plans"—call them guesses to reduce their emotional weight and unwarranted authority.
+2. Refuse to write long, detailed plans; if you must write something down, keep it under five pages.
 3. Decide on a weekly basis, not an annual basis. Identify the next most important task and execute it.
-4. Make decisions at the last responsible moment, when you have the most current information.
+4. Make decisions at the last responsible moment—the point at which failing to decide eliminates an option—when you have the most current information.
 5. Remain open to improvisation and new opportunities that emerge during execution.
 
 #### Best Practices
 
-- ✅ Make decisions right before acting, not months in advance.
+- ✅ Make decisions right before acting, not 3-5 months in advance.
 - ✅ Think about the future without feeling obligated to write a formal plan.
 - ✅ Treat long-range plans as educated guesses, not binding commitments.
 - ✅ Prioritize short-cycle decision-making over rigid annual roadmaps.
 
 #### Keep In Mind
 
-- Plans are inconsistent with improvisation, and improvisation is essential in an uncertain world.
+- Plans are inconsistent with improvisation, and improvisation is critical in an uncertain world.
 - The timing of long-range plans is wrong: you write them before you have the most relevant information.
 
 #### Security & Safety Notes
@@ -643,14 +643,14 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 
 #### Common Pitfalls
 
-- **Problem:** Writing lengthy plans that create false confidence and reduce flexibility.
-  **Solution:** Keep plans under a few pages and revisit decisions weekly, not annually.
-- **Problem:** Making decisions months in advance when current information is available.
-  **Solution:** Decide at the last responsible moment using the most current data.
+- **Problem:** Writing lengthy plans that create overconfidence and reduce flexibility.
+  **Solution:** Keep plans under five pages and revisit decisions weekly, not annually.
+- **Problem:** Making decisions 3-5 months in advance when current information is available.
+  **Solution:** Decide at the last responsible moment—the point at which failing to decide eliminates an option—using the most current data.
 
 ### Question the Obsession with Growth
 
-**Context:** Business culture equates bigger with better, but growth for growth's sake is not inherently valuable. The right size for your company is the size that feels sustainable and right for you.
+**Context:** Business culture equates bigger with better, but growth for growth's sake does not guarantee improved sustainability or founder satisfaction. The right size for your company is the scale at which the business remains profitable with acceptable owner involvement.
 
 #### Examples
 
@@ -670,20 +670,20 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 
 1. Resist the social pressure to grow simply because growth is expected.
 2. Determine the right size for your company based on your goals, not external benchmarks.
-3. Hire slowly. Premature hiring is identified as a major cause of business death.
+3. Hire slowly. Premature hiring is identified as a leading cause of business death.
 4. Control expenses deliberately. Do not take on rent, infrastructure, or headcount unless you genuinely need them.
 5. Treat small size as a legitimate and valuable destination, not just a temporary phase.
 
 #### Best Practices
 
 - ✅ Define "success" for your business on your own terms, not in terms of employee count or revenue scale.
-- ✅ Grow slowly and only when it genuinely feels right.
+- ✅ Grow slowly and only when it genuinely supports your goals.
 - ✅ Minimize fixed expenses to keep the business simple and low-stress.
 - ✅ Take pride in being a small, sustainable, profitable business.
 
 #### Keep In Mind
 
-- Big businesses dream about being agile and flexible—qualities small businesses already have.
+- Big businesses aspire to be agile and flexible—qualities small businesses already have.
 - Expansion into expenses, infrastructure, and headcount compounds complexity and stress.
 
 #### Security & Safety Notes
@@ -693,19 +693,19 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 #### Common Pitfalls
 
 - **Problem:** Hiring to meet external growth benchmarks rather than genuine need.
-  **Solution:** Define success on your own terms and hire only when you physically cannot handle the workload.
+  **Solution:** Define success on your own terms and hire only when workload consistently exceeds capacity and quality is slipping.
 - **Problem:** Adding fixed costs before revenue is stable enough to support them.
   **Solution:** Minimize fixed expenses; keep the business structure simple and low-stress.
 
 ### Reject Workaholism
 
-**Context:** Workaholism is culturally celebrated but strategically counterproductive. It creates more problems than it solves, erodes judgment, and produces results no better than sustainable, reasonable work habits.
+**Context:** Workaholism is celebrated in some entrepreneurial and tech-industry cultures but is strategically counterproductive. It creates more problems than it solves, erodes judgment, and produces results no better than sustainable, reasonable work habits.
 
 #### Examples
 
 ##### Example: "Our culture celebrates the idea of the workaholic. It's con...
 
-"Our culture celebrates the idea of the workaholic. It's considered a badge of honor to kill yourself over a project."
+"Our culture celebrates the idea of the workaholic. It's considered a badge of honor to sacrifice your health over a project."
 
 ##### Example: "Working more doesn't mean you care more or get more done. I...
 
@@ -713,12 +713,12 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 
 ##### Example: "Workaholics wind up creating more problems than they solve....
 
-"Workaholics wind up creating more problems than they solve. First off, working like that just isn't sustainable over time. When the burnout crash comes—and it will—it'll hit that much harder."
+"Workaholics wind up creating more problems than they solve. First off, working like that just isn't sustainable over time. When the burnout crash comes—and it will—it'll hit proportionally more severe."
 
 #### Steps
 
-1. Reject the cultural badge of honor attached to long hours and burnout.
-2. Audit whether you are working long hours out of necessity or out of habit/perceived virtue.
+1. Reject the social status symbol attached to long hours and burnout.
+2. Audit whether you are working long hours out of necessity or out of habit/perceived obligation.
 3. Prioritize efficiency and elegant solutions over sheer effort.
 4. Set and defend reasonable working hours. Do not make others feel guilty for doing the same.
 5. Eliminate "ass-in-seat" culture—evaluate output, not hours logged.
@@ -732,8 +732,8 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 
 #### Keep In Mind
 
-- Workaholics accomplish no more than non-workaholics; they just consume more time doing it.
-- Burnout is inevitable with unsustainable hours—and the crash is proportionally worse.
+- Workaholics typically accomplish no more than non-workaholics; they just consume more time doing it.
+- Burnout is likely with unsustainable hours—and the crash is disproportionately severe compared to the overwork period.
 
 #### Security & Safety Notes
 
@@ -748,7 +748,7 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 
 ### Replace "Entrepreneur" with "Starter"
 
-**Context:** The word "entrepreneur" has become elitist, exclusionary, and burdened with unnecessary baggage. Anyone who starts a business should be welcomed under a simpler, more inclusive term.
+**Context:** The word "entrepreneur" can seem elitist, exclusionary, and burdened with unnecessary baggage. Anyone who starts a business should be welcomed under a simpler, more inclusive term.
 
 #### Examples
 
@@ -756,9 +756,9 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 
 "Let's retire the term entrepreneur. It's outdated and loaded with baggage. It smells like a members-only club."
 
-##### Example: "Everyone should be encouraged to start his own business, no...
+##### Example: "Everyone should be encouraged to start their own business, no...
 
-"Everyone should be encouraged to start his own business, not just some rare breed that self-identifies as entrepreneurs."
+"Everyone should be encouraged to start their own business, not just some rare breed that self-identifies as entrepreneurs."
 
 ##### Example: "Instead of entrepreneurs, let's just call them starters. An...
 
@@ -769,7 +769,7 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 1. Drop the term "entrepreneur" from your vocabulary when describing yourself or others starting businesses.
 2. Adopt "starter" as the inclusive, accessible replacement term.
 3. Remove the perceived prerequisites for starting a business: no MBA, certificate, suit, briefcase, or special risk tolerance required.
-4. Focus on the three genuine requirements: an idea, a touch of confidence, and a push to begin.
+4. Focus on the three genuine requirements: an idea, some confidence, and a push to begin.
 5. Encourage people who are doing what they love on their own terms to see themselves as legitimate business people.
 
 #### Best Practices
@@ -781,8 +781,8 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 
 #### Keep In Mind
 
-- The word "entrepreneur" functions like a members-only club that discourages participation.
-- Many profitable business creators do not think of themselves as entrepreneurs—or even as business owners.
+- The word "entrepreneur" acts as a barrier to entry for many prospective business starters.
+- In many cases, successful business creators do not think of themselves as entrepreneurs—or even as business owners.
 
 #### Security & Safety Notes
 
@@ -797,30 +797,30 @@ The entire chapter serves as a manifesto for rejecting the "real world" thinking
 
 ### Make a Dent in the Universe
 
-**Context:** To do great work, you need to feel that you're making a meaningful difference and putting a dent in the universe. This doesn't require curing cancer—your efforts need to feel valuable so that customers say "this makes my life better" and people would notice if you stopped.
+**Context:** To do great work, you need to feel that you're creating measurable impact and making a meaningful difference. This doesn't require curing cancer—your efforts need to feel valuable so that customers say "this makes my life better" and people would notice if you stopped.
 
 #### Examples
 
 ##### Example: Craigslist demolished the traditional classified-ad business...
 
-Craigslist demolished the traditional classified-ad business with just a few dozen employees, generates tens of millions in revenue, and disrupted the entire newspaper industry
+Craigslist demolished the traditional classified-ad business with twenty-four employees, generates tens of millions in annual revenue, and disrupted large segments of the newspaper industry
 
 ##### Example: The Drudge Report is run by one guy on a simple page, yet it...
 
-The Drudge Report is run by one guy on a simple page, yet it has had a huge impact on the news industry and is the go-to place for new stories for TV producers, radio hosts, and reporters
+The Drudge Report is run by one guy on a simple page, yet it has considerably influenced how news is distributed and is a primary source for breaking news for TV producers, radio hosts, and reporters
 
 #### Steps
 
-1. Identify what would make your work feel valuable and meaningful
+1. Identify what would make your work feel valuable to customers
 2. Ensure customers would say your work makes their life better
 3. Build something people would notice if it disappeared
-4. Maintain urgency—you don't have forever; this is your life's work
+4. Maintain urgency—time is limited; this is your life's work
 5. Reject building "just another me-too product" and instead shake things up
 
 #### Best Practices
 
 - ✅ Do something that matters rather than something generic
-- ✅ Aim to destroy old models that have been around for decades in your industry
+- ✅ Aim to destroy old models that have been around for a long time in your industry
 - ✅ Keep urgency front of mind—this is your legacy
 - ✅ Believe that small teams can disrupt large, established systems
 
@@ -837,12 +837,12 @@ The Drudge Report is run by one guy on a simple page, yet it has had a huge impa
 
 - **Problem:** Building something generic that no one would notice if it disappeared.
   **Solution:** Build something specific enough that its absence would be felt.
-- **Problem:** Pursuing impact without ensuring customers actually benefit.
+- **Problem:** Pursuing measurable benefit without ensuring customers actually receive clear value.
   **Solution:** Verify that customers say your work makes their life better.
 
 ### Scratch Your Own Itch
 
-**Context:** The easiest and most straightforward way to create a great product or service is to make something you want to use yourself. This lets you design what you know and immediately assess whether what you're making is any good.
+**Context:** One of the most reliable ways to create a great product or service is to make something you want to use yourself. This lets you design what you know and immediately assess whether what you're making is any good.
 
 #### Examples
 
@@ -856,7 +856,7 @@ James Dyson invented the bagless vacuum cleaner after experiencing firsthand tha
 
 ##### Example: Vic Firth began making better drumsticks while playing timpa...
 
-Vic Firth began making better drumsticks while playing timpani for the Boston Symphony Orchestra when commercial sticks didn't measure up; he dropped a bunch on the floor and matched them by moisture content, weight, density, and pitch
+Vic Firth began making higher-quality drumsticks while playing timpani for the Boston Symphony Orchestra when commercial sticks didn't measure up; he dropped many on the floor and matched them by moisture content, weight, density, and pitch
 
 #### Steps
 
@@ -864,19 +864,19 @@ Vic Firth began making better drumsticks while playing timpani for the Boston Sy
 2. Build a solution that solves that exact problem for yourself
 3. Test and iterate based on your own usage—you'll know immediately if it's good
 4. Avoid focus groups, market studies, or middlemen when possible
-5. Look for other people with the same problem—you've likely exposed a huge market
+5. Look for other people with the same problem—you've likely exposed a significant market
 
 #### Best Practices
 
 - ✅ Solve a problem you personally have
-- ✅ Make hundreds of daily decisions based on firsthand knowledge, not guesswork
+- ✅ Make many daily decisions based on firsthand knowledge, not guesswork
 - ✅ Use your own product to validate quality
 - ✅ Leverage the intimate knowledge of the problem and solution
 
 #### Keep In Mind
 
-- When you solve someone else's problem, you're "stabbing in the dark" with hundreds of decisions daily
-- When you solve your own problem, "the light comes on" and you know exactly what the right answer is
+- When you solve someone else's problem, you're "stabbing in the dark" with daily decisions that lack clear grounding
+- When you solve your own problem, clarity emerges and you know exactly what the right answer is
 
 #### Security & Safety Notes
 
@@ -891,7 +891,7 @@ Vic Firth began making better drumsticks while playing timpani for the Boston Sy
 
 ### Start Making Something
 
-**Context:** Ideas are cheap and plentiful—what matters is execution. Having an idea for something like eBay is worthless without actually building it. The original pitch idea is a negligible part of a business; the real question is how well you execute.
+**Context:** Ideas are common and often undervalued—what matters is execution. Having an idea for something like eBay is worthless without actually building it. The original pitch idea is a negligible part of a business; the real question is how well you execute.
 
 #### Examples
 
@@ -901,19 +901,19 @@ Stanley Kubrick advised aspiring filmmakers: "Get hold of a camera and some film
 
 ##### Example: People who say "I had the idea for eBay; if only I had acted...
 
-People who say "I had the idea for eBay; if only I had acted on it, I'd be a billionaire" are delusional—having the idea has nothing to do with actually creating eBay
+People who say "I had the idea for eBay; if only I had acted on it, I'd be a billionaire" are mistaken—having the idea has nothing to do with actually creating eBay
 
 #### Steps
 
 1. Stop talking about ideas and start building something
 2. Get a camera, hit Record, and start shooting (or equivalent first action in your field)
-3. Test whether your idea has real value by trying to sell it
+3. Test whether your idea has tangible value by trying to sell it
 4. If you can't sell it, it's not as valuable as you think
 5. Begin now—don't wait for the perfect moment or conditions
 
 #### Best Practices
 
-- ✅ Recognize that ideas are cheap and everyone has one
+- ✅ Recognize that ideas are common and everyone has one
 - ✅ Prioritize execution over ideation
 - ✅ Start creating immediately, even imperfectly
 - ✅ Test your idea's value by attempting to sell it
@@ -932,11 +932,11 @@ People who say "I had the idea for eBay; if only I had acted on it, I'd be a bil
 - **Problem:** Waiting for perfect conditions before starting to build.
   **Solution:** Start creating immediately even if the first version is imperfect.
 - **Problem:** Talking about ideas without ever executing them.
-  **Solution:** Test whether your idea has real value by attempting to sell it now.
+  **Solution:** Test whether your idea has tangible value by attempting to sell it now.
 
 ### No Time Is No Excuse
 
-**Context:** The most common excuse people give is "There's not enough time." But there's always enough time if you spend it right. You don't have to quit your day job—start working on your project at night, squeeze out a few extra hours a week, and use that time to test whether your excitement is real or just a passing phase.
+**Context:** A common excuse people give is "There's not enough time." But there's always enough time if you spend it right. You don't have to quit your day job—start working on your project at night, squeeze out 2-3 extra hours a week, and use that time to test whether your excitement is real or just a passing phase.
 
 #### Examples
 
@@ -948,29 +948,29 @@ Instead of watching TV or playing World of Warcraft, work on your idea
 
 Instead of going to bed at ten, go to bed at eleven
 
-##### Example: A few extra hours a week is enough to get something going...
+##### Example: Three to five extra hours per week is sufficient to get something going...
 
-A few extra hours a week is enough to get something going
+Three to five extra hours per week is sufficient to get something going
 
 #### Steps
 
-1. Audit how you spend your evenings and free time
-2. Identify low-value activities (TV, gaming, etc.) that can be replaced with project work
+1. Audit how you spend your evenings and leisure time
+2. Identify low-priority activities (TV, gaming, etc.) that can be replaced with project work
 3. Make small schedule adjustments—stay up an hour later, wake up earlier, or use weekends
-4. Start small: a few extra hours per week is sufficient to test your idea
+4. Start small: a small number of extra hours per week is sufficient to test your idea
 5. Hang onto your day job while building on the side
 
 #### Best Practices
 
-- ✅ Squeeze out a few extra hours a week, not all-nighters or 16-hour days
+- ✅ Squeeze out a small number of extra hours a week, not all-nighters or 16-hour days
 - ✅ Keep your day job while testing your idea on the side
-- ✅ Use low-value time slots (evenings, weekends) for project work
+- ✅ Use low-priority time slots (evenings, weekends) for project work
 - ✅ Test your commitment before making big life changes
 
 #### Keep In Mind
 
-- When you want something bad enough, you make the time regardless of other obligations
-- Most people just don't want it bad enough—then they protect their ego with the excuse of time
+- When you are sufficiently motivated to achieve something, you make the time regardless of competing commitments
+- Many people just aren't sufficiently motivated—then they protect their ego with the excuse of insufficient time
 
 #### Security & Safety Notes
 
@@ -978,36 +978,36 @@ A few extra hours a week is enough to get something going
 
 #### Common Pitfalls
 
-- **Problem:** Spreading effort across too many side projects without committing to one.
+- **Problem:** Spreading effort across excessive side projects without committing to one.
   **Solution:** Focus on one project at a time and test commitment before scaling.
 - **Problem:** Waiting for large blocks of free time that never arrive.
-  **Solution:** Use small, consistent time blocks—a few hours per week is enough to begin.
+  **Solution:** Use small, consistent time blocks—a small number of hours per week is sufficient to begin.
 
 ### Draw a Line in the Sand
 
-**Context:** Great businesses have a point of view, not just a product or service. You need to believe in something, have a backbone, know what you're willing to fight for, and show the world. A strong stand is how you attract superfans who point to you, defend you, and spread the word more passionately than any advertising could.
+**Context:** Successful businesses have a clear perspective, not just a product or service. You need to believe in something, have a backbone, know what you're willing to fight for, and show the world. A strong stand is how you attract superfans who point to you, defend you, and spread the word more passionately than any advertising could.
 
 #### Examples
 
 ##### Example: 37signals builds software that does less because they believ...
 
-37signals builds software that does less because they believe most software is too complex (too many features, buttons, confusion); they're proud of what their products DON'T do as much as what they do, and are willing to lose customers to make others love their products intensely
+37signals builds software that does less because they believe software with excessive features and complexity is very common; they're proud of what their products DON'T do as much as what they do, and are willing to lose customers to make others love their products intensely
 
 ##### Example: Whole Foods stands for selling the highest quality natural a...
 
-Whole Foods stands for selling the highest quality natural and organic products available—they don't debate selling products with artificial flavors, which is why you can't buy Coke or Snickers there; they're called "Whole Paycheck" but are doing well
+Whole Foods stands for selling high-quality natural and organic products based on defined sourcing standards—they don't debate selling products with artificial flavors, which is why you can't buy Coke or Snickers there; they're called "Whole Paycheck" but are doing well
 
 ##### Example: Vinnie's Sub Shop in Chicago puts homemade basil oil on subs...
 
-Vinnie's Sub Shop in Chicago puts homemade basil oil on subs and closes when the bread runs out (usually around 2-3 p.m.) because they won't sell sandwiches made with afternoon bread that isn't as good as morning-fresh bread
+Vinnie's Sub Shop in Chicago puts homemade basil oil on subs and closes between 2 p.m. and 3 p.m. because the shop won't sell sandwiches made with afternoon bread that isn't as good as morning-fresh bread
 
 #### Steps
 
 1. Identify what you truly believe in and what your business stands for
 2. Define what you're willing to fight for and what you won't compromise on
 3. Communicate your stand clearly to the world
-4. Accept that strong opinions will turn some people off—they may call you arrogant or aloof
-5. If no one's upset by what you're saying, you are likely not pushing hard enough (and likely boring)
+4. Accept that strong opinions will turn some customers or observers off—they may call you arrogant or aloof
+5. If no one's upset by what you're saying, you are probably not pushing hard enough (and probably boring)
 
 #### Best Practices
 
@@ -1018,8 +1018,8 @@ Vinnie's Sub Shop in Chicago puts homemade basil oil on subs and closes when the
 
 #### Keep In Mind
 
-- Strong opinions aren't free—you'll turn some people off
-- For everyone who loves you, there will be others who hate you
+- Strong opinions aren't free—you'll turn some customers or readers off
+- For every customer who loves your stand, some customers will oppose it
 
 #### Security & Safety Notes
 
@@ -1034,23 +1034,23 @@ Vinnie's Sub Shop in Chicago puts homemade basil oil on subs and closes when the
 
 ### Mission Statement Impossible
 
-**Context:** There's a world of difference between truly standing for something and having a mission statement that says you stand for something. Fake mission statements posted on walls sound phony and disconnected from reality. Standing for something isn't about writing it down—it's about believing it and living it.
+**Context:** There's a world of difference between truly standing for something and having a mission statement that says you stand for something. Fake mission statements posted on walls sound inauthentic and not reflected in actual company behavior or operations. Standing for something isn't about writing it down—it's about believing it and living it.
 
 #### Examples
 
 ##### Example: Enterprise Rent-a-Car's mission statement is a long, generic...
 
-Enterprise Rent-a-Car's mission statement is a long, generic paragraph about fulfilling automotive and commercial truck rental needs and exceeding customer expectations—it says nothing specific and sounds disconnected from reality
+Enterprise Rent-a-Car's mission statement is a long, generic paragraph about fulfilling automotive and commercial truck rental needs and exceeding customer expectations—it says nothing specific and does not reflect the company's actual operational priorities or customer commitments.
 
 ##### Example: Automated phone voices telling you "how much the company val...
 
-Automated phone voices telling you "how much the company values you as a customer" while you wait 30 minutes for support are phony—actions speak louder than programmed platitudes
+Automated phone voices telling you "how much the company values you as a customer" while you wait 30 minutes for support feel inauthentic—actions speak louder than programmed platitudes
 
 #### Steps
 
 1. Avoid writing generic mission statements just to have something on the wall
 2. Focus on living your beliefs rather than articulating them in corporate-speak
-3. Ensure your actions match your words—if the carpet is dirty and no one's at the counter, no mission statement will convince customers you care
+3. Ensure your actions match your words—if visible areas are neglected, such as a dirty carpet or an empty counter during business hours, no mission statement will convince customers you care
 4. Say nothing if you can't genuinely demonstrate your values
 5. Let your actual behavior and decisions communicate what you stand for
 
@@ -1063,8 +1063,8 @@ Automated phone voices telling you "how much the company values you as a custome
 
 #### Keep In Mind
 
-- There's a world of difference between truly standing for something and having a mission statement that says you stand for something
-- Generic mission statements sound phony and disconnected from reality
+- There is a clear difference between truly standing for something and having a mission statement that says you stand for something
+- Generic mission statements sound inauthentic and do not match actual company behavior
 
 #### Security & Safety Notes
 
@@ -1079,7 +1079,7 @@ Automated phone voices telling you "how much the company values you as a custome
 
 ### Outside Money is Plan Z
 
-**Context:** Far too often, people think the answer to seed money is to raise money from outsiders. But for most businesses—especially service businesses—outside funding is not necessary and comes with significant downsides. Take on as little outside cash as you can; it should be Plan Z, not Plan A.
+**Context:** Too frequently, people think the answer to seed money is to raise money from outsiders. But for most businesses—especially service businesses—outside funding is not necessary and comes with downsides. Take on as little outside cash as you can; it should be Plan Z, not Plan A.
 
 #### Examples
 
@@ -1089,7 +1089,7 @@ Automated phone voices telling you "how much the company values you as a custome
 
 ##### Example: Service businesses (consultants, software companies, wedding...
 
-Service businesses (consultants, software companies, wedding planners, graphic designers, etc.) don't require much to get going and should avoid outside funding
+Service businesses (consultants, software companies, wedding planners, graphic designers) require minimal capital to launch and should avoid outside funding
 
 #### Steps
 
@@ -1108,7 +1108,7 @@ Service businesses (consultants, software companies, wedding planners, graphic d
 
 #### Keep In Mind
 
-- Spending other people's money may sound great, but there's a noose attached
+- Spending other people's money may sound great, but there are downsides attached
 - You give up control and have to answer to outsiders
 
 #### Security & Safety Notes
@@ -1124,7 +1124,7 @@ Service businesses (consultants, software companies, wedding planners, graphic d
 
 ### You Need Less Than You Think
 
-**Context:** Most people overestimate what they need to start a business. Do you really need ten people or will two or three do? Do you really need $500,000 or is $50,000 (or $5,000) enough? Do you really need six months or can you make something in two? Challenge every assumption about resources and embrace frugality.
+**Context:** Most people overestimate what they need to start a business. Do you really need ten people or will two or three do? Do you really need $500,000 or is $50,000 or less enough? Do you really need six months or can you make something in two? Challenge every assumption about resources and embrace frugality.
 
 #### Examples
 
@@ -1132,21 +1132,21 @@ Service businesses (consultants, software companies, wedding planners, graphic d
 
 37signals shared office space with another company, had only one server, didn't advertise, promoted by sharing experiences online, and the founder answered customer emails himself—and everything worked out just fine
 
-##### Example: Great companies start in garages all the time—yours can too...
+##### Example: Many great companies started in garages—yours can too...
 
-Great companies start in garages all the time—yours can too
+Apple, Google, and Amazon all started in garages—yours may be able to as well
 
 #### Steps
 
 1. Question every resource assumption: Do I really need X people, dollars, months, or space?
 2. Start with 2-3 people instead of 10
-3. Bootstrap with $50,000 (or $5,000) instead of $500,000
+3. Bootstrap with $50,000 or less instead of $500,000
 4. Ship in 2 months instead of waiting 6
 5. Share office space, work from home, or use your garage instead of leasing
 
 #### Best Practices
 
-- ✅ Question every resource requirement—you likely need less than you think
+- ✅ Question every resource requirement—you probably need less than you think
 - ✅ Start small and grow only when necessary
 - ✅ Share space, outsource, and use DIY solutions
 - ✅ Bootstrap with minimal capital
@@ -1154,7 +1154,7 @@ Great companies start in garages all the time—yours can too
 #### Keep In Mind
 
 - There's nothing wrong with being frugal
-- Maybe eventually you'll need to go bigger, but not right now
+- If revenue or team size exceeds current capacity, you may need to expand, but not right now
 
 #### Security & Safety Notes
 
@@ -1169,17 +1169,17 @@ Great companies start in garages all the time—yours can too
 
 ### Start a Business, Not a Startup
 
-**Context:** The "startup" is a special breed of company that commands significant attention, especially in the tech world. It's a magical place where expenses are someone else's problem, revenue is never an issue, and the laws of business physics don't apply. But this is a fairy tale. Every business is governed by the same market forces and economic rules. A business without a path to profit isn't a business—it's a hobby.
+**Context:** The "startup" is a special category of company that receives significant attention, especially in the tech world. It's a category where expenses are someone else's problem, revenue is never an issue, and the laws of business physics don't apply. But this is a misleading narrative. Every business is governed by the same market forces and economic rules. A business without a path to profit isn't a business—it's a hobby.
 
 #### Examples
 
 ##### Example: A startup is a place where you can spend other people's mone...
 
-A startup is a place where you can spend other people's money until you figure out a way to make your own
+A startup is often characterized by spending investor capital until the business generates sustainable revenue
 
 ##### Example: People with a "we'll figure out how to profit in the future"...
 
-People with a "we'll figure out how to profit in the future" attitude are like building a rocket ship while pretending gravity doesn't exist
+People with a "we'll figure out how to profit in the future" attitude are like building a business that ignores basic economic principles
 
 #### Steps
 
@@ -1198,7 +1198,7 @@ People with a "we'll figure out how to profit in the future" attitude are like b
 
 #### Keep In Mind
 
-- The startup is a fairy tale—every business is governed by the same market forces and economic rules
+- The startup narrative is misleading—every business is governed by the same market forces and economic rules
 - Revenue in, expenses out—turn a profit or wind up gone
 
 #### Security & Safety Notes
@@ -1214,7 +1214,7 @@ People with a "we'll figure out how to profit in the future" attitude are like b
 
 ### Building to Flip is Building to Flop
 
-**Context:** Thinking about your exit strategy before you even start building is a sign your priorities are out of whack. You need a commitment strategy, not an exit strategy. If your whole strategy is based on leaving, chances are you won't get far in the first place. Building a company with the intention of being acquired means you emphasize the wrong things and optimize for the wrong outcomes.
+**Context:** Thinking about your exit strategy before you even start building indicates your priorities are misaligned. You need a commitment strategy, not an exit strategy. If your whole strategy is based on leaving, you probably won't get far in the first place. Building a company with the intention of being acquired means you emphasize the wrong things and optimize for the wrong outcomes.
 
 #### Examples
 
@@ -1224,11 +1224,11 @@ Would you go into a relationship planning the breakup? Write a prenup on a first
 
 ##### Example: Aspiring businesspeople pin their hopes on selling out, but ...
 
-Aspiring businesspeople pin their hopes on selling out, but the odds of getting acquired are tiny—maybe 1 in 1,000 or 1 in 10,000
+Aspiring businesspeople pin their hopes on selling out, but the odds of getting acquired are tiny—studies estimate between 1 in 1,000 and 1 in 10,000.
 
-##### Example: Business owners who sell out often retire for six months and...
+##### Example: Business owners who sell out sometimes retire for approximately six months and...
 
-Business owners who sell out often retire for six months and then get back in the game because they miss the thing they gave away, usually coming back with a business that isn't nearly as good as their first
+Business owners who sell out sometimes retire for approximately six months and then get back in the game because they miss the thing they gave away, returning to run businesses that underperform their previous venture.
 
 #### Steps
 
@@ -1236,7 +1236,7 @@ Business owners who sell out often retire for six months and then get back in th
 2. Build a commitment strategy centered on long-term growth and success
 3. Optimize for customer love, not acquisition appeal
 4. Accept that the odds of a lucrative exit are very low
-5. If you do succeed, keep it going—good things don't come around that often
+5. If you do succeed, keep it going—lucrative business opportunities rarely occur
 
 #### Best Practices
 
@@ -1247,8 +1247,8 @@ Business owners who sell out often retire for six months and then get back in th
 
 #### Keep In Mind
 
-- Your priorities are out of whack if you're thinking about getting out before you even dive in
-- If your whole strategy is based on leaving, you will likely not succeed
+- Your priorities are misaligned if you're thinking about getting out before you even dive in
+- If your whole strategy is based on leaving, you will probably not succeed
 
 #### Security & Safety Notes
 
@@ -1271,9 +1271,9 @@ Business owners who sell out often retire for six months and then get back in th
 
 37signals shares office space, has only one server, promotes online, and the founder handles customer emails—keeping mass low means they can quickly change anything
 
-##### Example: Huge organizations can take years to pivot—they talk instead...
+##### Example: Huge organizations can take a period of years to pivot—they talk instead...
 
-Huge organizations can take years to pivot—they talk instead of act and meet instead of do
+Huge organizations can take a period of years to pivot—they talk instead of act and meet instead of do
 
 #### Steps
 
@@ -1318,7 +1318,7 @@ Prisoners making weapons from soap or spoons
 
 ##### Example: Shakespeare writing sonnets within strict structural rules (...
 
-Shakespeare writing sonnets within strict structural rules (14-line poems in iambic pentameter with specific rhyme schemes)
+Shakespeare writing sonnets within strict structural rules (14-line poems in iambic pentameter with specific rhyme schemes, such as ABAB CDCD EFEF GG for Shakespearean sonnets)
 
 ##### Example: Haiku and limericks with strict rules that produce creative ...
 
@@ -1335,7 +1335,7 @@ Haiku and limericks with strict rules that produce creative results
 
 - ✅ View constraints as advantages, not disadvantages
 - ✅ Use limited resources to eliminate waste and force creativity
-- ✅ Accept that less is often better
+- ✅ In many cases, less is preferable
 
 #### Keep In Mind
 
@@ -1351,11 +1351,11 @@ Haiku and limericks with strict rules that produce creative results
 - **Problem:** Complaining about insufficient resources instead of using what is available.
   **Solution:** Identify what you already have and force creative workarounds with existing assets.
 - **Problem:** Assuming you need more resources before you can begin.
-  **Solution:** Start now with what you have; constraints often produce better solutions.
+   **Solution:** Start now with what you have; in many cases, constraints produce better solutions.
 
 ### Build Half a Product, Not a Half-Assed Product
 
-**Context:** Trying to do too many things at once results in a mediocre product. You have limited time, resources, ability, and focus. Sacrifice some ideas for the greater good and focus on excellence in fewer areas.
+**Context:** Trying to do too many things simultaneously results in a mediocre product. You have limited time, resources, ability, and focus. Sacrifice some ideas for the greater good and focus on excellence in fewer areas.
 
 #### Examples
 
@@ -1387,7 +1387,7 @@ Writers eliminate good pages to make a great book
 
 #### Keep In Mind
 
-- Most great ideas won't seem all that great once you get perspective
+- Most great ideas will not seem as strong once you gain perspective
 - Great ideas can always be done later
 
 #### Security & Safety Notes
@@ -1396,7 +1396,7 @@ Writers eliminate good pages to make a great book
 
 #### Common Pitfalls
 
-- **Problem:** Trying to do too many things at once, resulting in a mediocre product.
+- **Problem:** Trying to do too many things simultaneously, resulting in a mediocre product.
   **Solution:** Cut features to a minimum and focus on excellence in fewer areas.
 - **Problem:** Adding back features immediately after cutting them.
   **Solution:** Wait until you have real user feedback before reconsidering cuts.
@@ -1432,7 +1432,7 @@ If you took away the hot dogs, it's not a hot dog stand
 #### Keep In Mind
 
 - Everything else you do depends on the epicenter foundation
-- You can take away many things, but the epicenter must remain
+- You can take away most things, but the epicenter must remain
 
 #### Security & Safety Notes
 
@@ -1442,12 +1442,12 @@ If you took away the hot dogs, it's not a hot dog stand
 
 - **Problem:** Starting with secondary features instead of the core offering.
   **Solution:** Identify what cannot be removed and focus all energy on making it excellent.
-- **Problem:** Spreading effort across many things without a clear center.
+- **Problem:** Spreading effort across too many things without a clear center.
   **Solution:** Ask "If I took this away, would my product still exist?" and eliminate anything that passes.
 
 ### Ignore the Details Early On
 
-**Context:** Details matter, but focusing on them too early leads to disagreement, meetings, delays, and wasted time on decisions that will change anyway. Nail the basics first and worry about specifics later.
+**Context:** Details matter, but focusing on them too early in the design process leads to wasted time on decisions that will change before the project is complete. Nail the basics first and worry about specifics later.
 
 #### Examples
 
@@ -1476,7 +1476,7 @@ Walt Stanchfield encouraging Disney animators to "forget the detail" at first be
 - ✅ Use low-resolution tools (like Sharpies) in early design phases
 - ✅ Nail the basics before worrying about specifics
 - ✅ Delay decisions that can change later
-- ✅ Recognize that you often can't identify important details until after you start building
+- ✅ Recognize that in many cases you cannot identify important details until after you start building
 
 #### Keep In Mind
 
@@ -1515,7 +1515,7 @@ Solution: Pay affiliates in credit instead of cash initially, then eventually im
 #### Steps
 
 1. Swap "Let's think about it" for "Let's decide on it"
-2. Don't wait for the perfect solution—good enough is often better
+2. Don't wait for the perfect solution—in many cases, good enough is preferable
 3. Make decisions quickly to build momentum
 4. Accept that you can correct mistakes later
 5. Build on "Done" rather than "We'll decide later"
@@ -1524,13 +1524,13 @@ Solution: Pay affiliates in credit instead of cash initially, then eventually im
 
 - ✅ Get into the rhythm of making decision after decision
 - ✅ Build momentum by making choices quickly
-- ✅ Accept that good enough now is better than perfect later
+- ✅ In many cases, good enough is preferable
 - ✅ Remember you can correct decisions later if needed
 
 #### Keep In Mind
 
 - Decisions are bricks in your foundation
-- Long projects zap morale
+- Long projects reduce team morale
 
 #### Security & Safety Notes
 
@@ -1541,7 +1541,7 @@ Solution: Pay affiliates in credit instead of cash initially, then eventually im
 - **Problem:** Postponing decisions and letting unresolved problems pile up.
   **Solution:** Make decisions quickly; good enough now is better than perfect later.
 - **Problem:** Waiting for the perfect solution instead of deciding and moving forward.
-  **Solution:** Decide now and correct course later; momentum matters more than precision.
+   **Solution:** Decide now and correct course later; momentum is usually more important than perfect precision.
 
 ### Be a Curator
 
@@ -1551,11 +1551,11 @@ Solution: Pay affiliates in credit instead of cash initially, then eventually im
 
 ##### Example: Zingerman's deli curates its shelves by personally trying pr...
 
-Zingerman's deli curates its shelves by personally trying products and only carrying what they believe is great quality
+Zingerman's deli curates its shelves by personally trying products and only carrying products that meet their strict taste and quality standards
 
 ##### Example: The owner of Zingerman's describes Pasolivo Olive Oil not ba...
 
-The owner of Zingerman's describes Pasolivo Olive Oil not based on packaging or marketing, but on actual taste and quality
+The owner of Zingerman's describes Pasolivo Olive Oil not based on packaging or marketing, but on actual taste and measurable quality standards
 
 #### Steps
 
@@ -1574,8 +1574,8 @@ The owner of Zingerman's describes Pasolivo Olive Oil not based on packaging or 
 
 #### Keep In Mind
 
-- There are far more items off the walls than on the walls
-- The best is a sub-sub-subset of all possibilities
+- Most items are not on display
+- The best options represent a small fraction of all possibilities
 
 #### Security & Safety Notes
 
@@ -1590,13 +1590,13 @@ The owner of Zingerman's describes Pasolivo Olive Oil not based on packaging or 
 
 ### Throw Less at the Problem
 
-**Context:** When things aren't working, the natural inclination is to throw more at the problem (more people, time, money). This makes the problem bigger. The right approach is the opposite: cut back. Doing less often produces better results.
+**Context:** When things aren't working, the natural inclination is to throw more at the problem (more people, time, money). This increases the scope and complexity of the problem. The right approach is the opposite: cut back. In many cases, doing less produces better results.
 
 #### Examples
 
 ##### Example: Gordon Ramsay's Kitchen Nightmares: failing restaurants offe...
 
-Gordon Ramsay's Kitchen Nightmares: failing restaurants offer 30+ dishes; Ramsay trims to around 10 and polishes what's left
+Gordon Ramsay's Kitchen Nightmares: in many cases, failing restaurants offer at least thirty dishes; Ramsay trims to ten dishes and polishes what's left
 
 ##### Example: Improving the current menu doesn't come first—trimming it do...
 
@@ -1635,13 +1635,13 @@ Improving the current menu doesn't come first—trimming it down does
 
 ### Focus on What Won't Change
 
-**Context:** Many companies chase the next big thing, trends, and technology. This is a fool's path. Build your business around things that people will want today and ten years from now. Fashion fades away; permanent features never go out of style.
+**Context:** Some companies chase the next big thing, trends, and technology. This strategy typically fails. Build your business around things that people will want today and ten years from now. Fashion fades away; permanent features never go out of style.
 
 #### Examples
 
 ##### Example: Amazon focuses on fast/free shipping, great selection, frien...
 
-Amazon focuses on fast/free shipping, great selection, friendly return policies, and affordable prices—things always in demand
+Amazon focuses on fast/free shipping, great selection, friendly return policies, and affordable prices—things consistently in demand during both economic expansions and recessions
 
 ##### Example: Japanese automakers focus on reliability, affordability, and...
 
@@ -1649,7 +1649,7 @@ Japanese automakers focus on reliability, affordability, and practicality—desi
 
 ##### Example: 37signals focuses on speed, simplicity, ease of use, and cla...
 
-37signals focuses on speed, simplicity, ease of use, and clarity—timeless desires
+37signals focuses on speed, simplicity, ease of use, and clarity—fundamental, enduring customer needs
 
 #### Steps
 
@@ -1677,9 +1677,9 @@ Japanese automakers focus on reliability, affordability, and practicality—desi
 #### Common Pitfalls
 
 - **Problem:** Chasing trends and next-big-things instead of permanent features.
-  **Solution:** Build around timeless desires: speed, simplicity, ease of use, and clarity.
-- **Problem:** Competiting on features that will be obsolete in a few years.
-  **Solution:** Invest in things people will want today and ten years from now.
+  **Solution:** Build around fundamental, enduring customer needs: speed, simplicity, ease of use, and clarity.
+- **Problem:** Competing on features that will become obsolete within two to five years.
+   **Solution:** Invest in things people will want today and ten years from now; avoid competing on features that will become obsolete within two to five years.
 
 ### Tone Is in Your Fingers
 
@@ -1737,11 +1737,11 @@ Designers using fancy typefaces and Photoshop filters without anything to say
 
 ##### Example: Lumber industry selling sawdust, chips, and shredded wood (b...
 
-Lumber industry selling sawdust, chips, and shredded wood (by-products) for profit in synthetic fireplace logs, concrete, mulch, particleboard, fuel, etc.
+Lumber industry selling sawdust, chips, and shredded wood (by-products) for profit in synthetic fireplace logs, concrete, mulch, particleboard, and fuel
 
 ##### Example: 37signals' book "Getting Real" was a by-product of building ...
 
-37signals' book "Getting Real" was a by-product of building a company and software; made over $1 million directly and another $1 million indirectly
+37signals' book "Getting Real" was a by-product of building a company and software; made at least $1 million directly and generated an additional $1 million indirectly
 
 ##### Example: Wilco filmed their album creation process and released it as...
 
@@ -1764,8 +1764,8 @@ Wilco filmed their album creation process and released it as a documentary "I Am
 
 #### Keep In Mind
 
-- You can't make just one thing—everything has a by-product
-- Software companies don't usually think about writing books, but they could
+- In most cases, you cannot create just one output—most processes produce by-products
+- Software companies rarely consider writing books, but they could
 
 #### Security & Safety Notes
 
@@ -1780,7 +1780,7 @@ Wilco filmed their album creation process and released it as a documentary "I Am
 
 ### Launch Now
 
-**Context:** Your product or service is finished much sooner than you think. Once it does what it needs to do, get it out there. Don't hold everything up because of a few leftovers. You can do them later, and doing them later may mean doing them better.
+**Context:** Your product or service reaches launch readiness sooner than you expect. Once it does what it needs to do, get it out there. Don't hold everything up because of leftover items. You can do them later, and doing them later may mean doing them better.
 
 #### Examples
 
@@ -1839,7 +1839,7 @@ Alaska Airlines built a warehouse full of cardboard mock-ups of their Airport of
 
 ##### Example: Furniture craftsman Sam Maloof said it was impossible to mak...
 
-Furniture craftsman Sam Maloof said it was impossible to make a working drawing that captured all the intricate details of a chair; he often didn't know how a certain area would be done until he started working with the actual tools.
+Furniture craftsman Sam Maloof said it was impossible to make a working drawing that captured all the intricate details of a chair; he frequently didn't know how a certain area would be done until he started working with the actual tools.
 
 #### Steps
 
@@ -1878,7 +1878,7 @@ Furniture craftsman Sam Maloof said it was impossible to make a working drawing 
 
 ##### Example: "Sometimes when you ask these questions, you'll find you're ...
 
-"Sometimes when you ask these questions, you'll find you're solving an imaginary problem. That's when it's time to stop and reevaluate what the hell you're doing."
+"When you ask these questions, you may discover you're solving an imaginary problem. That's when it's time to stop and reevaluate what the hell you're doing."
 
 ##### Example: "Cool wears off. Useful never does."...
 
@@ -1900,7 +1900,7 @@ Furniture craftsman Sam Maloof said it was impossible to make a working drawing 
 
 #### Keep In Mind
 
-- "Problems are usually pretty simple. We just imagine that they require hard solutions."
+- "Problems are frequently simpler than they appear. We just imagine that they require hard solutions."
 - If you're stuck on something for a long time, that means there are other things you're not getting done.
 
 #### Security & Safety Notes
@@ -1922,7 +1922,7 @@ Furniture craftsman Sam Maloof said it was impossible to make a working drawing 
 
 ##### Example: Most people get their best work done at night or early morni...
 
-Most people get their best work done at night or early morning because nobody else is around.
+Some people report doing their best work during nighttime or early morning hours because nobody else is around.
 
 ##### Example: Ever notice how much work you get done on a plane when you'r...
 
@@ -1931,7 +1931,7 @@ Ever notice how much work you get done on a plane when you're offline with zero 
 #### Steps
 
 1. Establish a formal "alone time" block at work (e.g., 10 a.m. to 2 p.m. where no one can talk to each other, except during lunch).
-2. Alternatively, make the first or last half of the day your alone-time period.
+2. Alternatively, make the first four hours or last four hours of the workday your alone-time period.
 3. During alone time, give up instant messages, phone calls, email, and meetings. Just work.
 4. When collaborating, use passive communication tools (like email) that don't require instant replies instead of interruptive ones (like phone calls or face-to-face meetings).
 
@@ -1965,18 +1965,18 @@ Ever notice how much work you get done on a plane when you're offline with zero 
 
 ##### Example: A one-hour meeting with ten people is actually a ten-hour me...
 
-A one-hour meeting with ten people is actually a ten-hour meeting (or closer to fifteen hours when you factor in mental switching costs).
+A one-hour meeting with ten people is actually a ten-hour meeting (or fifteen hours when factoring in mental switching costs).
 
 ##### Example: Scheduling software encourages 30- or 60-minute blocks, so a...
 
-Scheduling software encourages 30- or 60-minute blocks, so a seven-minute meeting gets stretched into a half-hour.
+Scheduling software encourages 30- or 60-minute blocks, so a seven-minute meeting gets stretched into a thirty-minute block.
 
 #### Steps
 
 1. Avoid meetings whenever possible.
 2. If you must meet:
 - Set a timer. When it rings, the meeting is over. Period.
-- Invite as few people as possible.
+- Invite as small a group as possible.
 - Always have a clear agenda.
 - Begin with a specific problem.
 - Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes.
@@ -1990,8 +1990,8 @@ Scheduling software encourages 30- or 60-minute blocks, so a seven-minute meetin
 
 #### Keep In Mind
 
-- Meetings "procreate" — one meeting leads to another.
-- "Judged on a pure cost basis, meetings of this size quickly become liabilities, not assets."
+- Meetings multiply — one meeting leads to another.
+- "Judged on a pure cost basis, group meetings eventually become liabilities, not assets."
 
 #### Security & Safety Notes
 
@@ -2006,7 +2006,7 @@ Scheduling software encourages 30- or 60-minute blocks, so a seven-minute meetin
 
 ### Good Enough Is Fine — Seek Judo Solutions
 
-**Context:** Many people love solving problems with complicated, impressive solutions. The better approach is to find a "judo solution" — maximum efficiency with minimum effort. Problems are negotiable, and simple, mundane solutions are often best.
+**Context:** A large number of people love solving problems with complicated, impressive solutions. The better approach is to find a "judo solution" — maximum efficiency with minimum effort. Problems are negotiable, and simple, mundane solutions are often best.
 
 #### Examples
 
@@ -2033,7 +2033,7 @@ Political campaign ads use plain photos, static text headlines, and simple voice
 #### Keep In Mind
 
 - "When good enough gets the job done, go for it."
-- You can usually turn good enough into great later.
+- In most cases, you can turn good enough into great later.
 
 #### Security & Safety Notes
 
@@ -2048,7 +2048,7 @@ Political campaign ads use plain photos, static text headlines, and simple voice
 
 ### Build Momentum With Quick Wins
 
-**Context:** Momentum fuels motivation. Long projects with no finish line burn people out. The way to build and maintain momentum is by completing small victories frequently and shipping quickly.
+**Context:** Momentum fuels motivation. Long projects with no finish line burn people out. The way to build and maintain momentum is by completing small victories regularly and shipping quickly.
 
 #### Examples
 
@@ -2092,7 +2092,7 @@ Political campaign ads use plain photos, static text headlines, and simple voice
 
 ### Don't Be a Hero — Quit When It Makes Sense
 
-**Context:** Natural instinct pushes people to keep going on a failing task because of sunk cost ("I've already spent four hours!"). Hero mode wastes time, cuts off feedback, and leads people further down the wrong path. Sometimes quitting is the smartest move.
+**Context:** A common instinct pushes people to keep going on a failing task because of sunk cost ("I've already spent four hours!"). Hero mode wastes time, cuts off feedback, and leads people further down the wrong path. Quitting is the smartest move in some situations.
 
 #### Examples
 
@@ -2109,7 +2109,7 @@ If you think a task will take two hours but four hours in you're only a quarter 
 1. If a task is taking far longer than expected, recognize that the value of the task is based on the original estimate, not the current investment.
 2. Bring in fresh eyes (someone who hasn't been working on it) to review the work quickly.
 3. If the task still isn't working, consider quitting entirely.
-4. Remember: quitting is not failure. Walking away from something not worth it is the right call.
+4. Remember: quitting is not failure. Walking away from something that is not worth the continued effort is the right call.
 
 #### Best Practices
 
@@ -2131,7 +2131,7 @@ If you think a task will take two hours but four hours in you're only a quarter 
 - **Problem:** Continuing to push through a failing task due to ego or sunk cost.
   **Solution:** Set a hard time limit; if the task exceeds it, bring in fresh eyes or quit.
 - **Problem:** Refusing to ask for help because it feels like failure.
-  **Solution:** Quitting is not failure—walking away from something not worth it is the right call.
+  **Solution:** Quitting is not failure—walking away from something that is not worth the continued effort is the right call.
 
 ### Go to Sleep — Protect Your Rest
 
@@ -2151,7 +2151,7 @@ If you think a task will take two hours but four hours in you're only a quarter 
 - **Stubbornness:** You plow down bad paths instead of reconsidering routes.
 - **Lack of Creativity:** You stop finding the elegant one-tenth-effort solutions.
 - **Diminished Morale:** You gravitate toward low-demand tasks instead of attacking big problems.
-- **Irritability:** Your patience and tolerance drop significantly.
+- **Irritability:** Your patience and tolerance drop considerably.
 
 #### Best Practices
 
@@ -2161,7 +2161,7 @@ If you think a task will take two hours but four hours in you're only a quarter 
 
 #### Keep In Mind
 
-- "What distinguishes people who are ten times more effective than the norm is not that they work ten times as hard; it's that they use their creativity to come up with solutions that require one-tenth of the effort."
+- "What distinguishes people who are figuratively ten times more effective than the average person is not that they work ten times as hard; it's that they use their creativity to come up with solutions that require one-tenth of the effort."
 - Sleep deprivation makes you stubborn, uncreative, demoralized, and irritable.
 
 #### Security & Safety Notes
@@ -2183,18 +2183,18 @@ If you think a task will take two hours but four hours in you're only a quarter 
 
 ##### Example: Even simple tasks like a grocery store trip or raking the ya...
 
-Even simple tasks like a grocery store trip or raking the yard are often off by a factor of two or more.
+Even simple tasks like a grocery store trip or raking the yard are in most cases off by a factor of at least two.
 
 ##### Example: Boston's "Big Dig" highway project finished five years late ...
 
-Boston's "Big Dig" highway project finished five years late and billions over budget. The Denver International Airport opened sixteen months late with a $2 billion cost overrun.
+Boston's "Big Dig" highway project finished five years late and more than $10 billion over budget. The Denver International Airport opened sixteen months late with a $2 billion cost overrun.
 
 #### Steps
 
 1. Recognize that long-range estimates are unreliable.
 2. Break large projects into smaller pieces.
 3. Instead of one twelve-week project, structure it as twelve one-week projects.
-4. Break tasks estimated at thirty hours or more into realistic six-to-ten-hour chunks.
+4. Break tasks estimated at thirty hours or longer into realistic six-to-ten-hour chunks.
 5. Take it one step at a time.
 
 #### Best Practices
@@ -2214,7 +2214,7 @@ Boston's "Big Dig" highway project finished five years late and billions over bu
 
 #### Common Pitfalls
 
-- **Problem:** Committing to long-range estimates that are almost always wrong.
+- **Problem:** Committing to long-range estimates that are wrong in most cases.
   **Solution:** Break large projects into small, estimable chunks; update estimates as you go.
 - **Problem:** Treating best-case scenarios as realistic baselines.
   **Solution:** Expect delays and build buffers; never plan as if everything will go perfectly.
@@ -2235,7 +2235,7 @@ Breaking a list of a hundred items into ten lists of ten items means finishing o
 
 #### Steps
 
-1. Break any long to-do list into a bunch of smaller lists.
+1. Break any long to-do list into 3-5 smaller lists.
 2. Prioritize visually: put the most important thing at the top.
 3. When you finish the top item, the next item becomes the new top.
 4. Avoid numeric or labeled priorities ("high," "low," "3," "2," "1") — they collapse into everything being "high priority."
@@ -2250,7 +2250,7 @@ Breaking a list of a hundred items into ten lists of ten items means finishing o
 #### Keep In Mind
 
 - "You still have the same volume of work left to do. But now you can look at the small picture and find satisfaction, motivation, and progress."
-- Rearranging tasks into smaller pieces can have an amazing impact on productivity and motivation.
+- Rearranging tasks into smaller pieces can have a measurable impact on productivity and motivation.
 
 #### Security & Safety Notes
 
@@ -2271,7 +2271,7 @@ Breaking a list of a hundred items into ten lists of ten items means finishing o
 
 ##### Example: Polar explorer Ben Saunders, during his solo 72-day North Po...
 
-Polar explorer Ben Saunders, during his solo 72-day North Pole expedition (thirty-one marathons back-to-back), made his day-to-day decisions at the scale of "getting to that bit of ice a few yards in front of me," not about the entire expedition.
+Polar explorer Ben Saunders, during his solo 72-day North Pole expedition (thirty-one marathons back-to-back), made his day-to-day decisions at the scale of "getting to that bit of ice several yards in front of me," not about the entire expedition.
 
 #### Steps
 
@@ -2290,7 +2290,7 @@ Polar explorer Ben Saunders, during his solo 72-day North Pole expedition (thirt
 #### Keep In Mind
 
 - "Making tiny decisions doesn't mean you can't make big plans or think big ideas. It just means you believe the best way to achieve those big things is one tiny decision at a time."
-- Once ego and pride are on the line, changing your mind becomes very hard.
+- Once your ego and pride are involved, changing your mind becomes very hard.
 
 #### Security & Safety Notes
 
@@ -2335,7 +2335,7 @@ An art student replicating a museum painting is learning; a business copycat rep
 
 #### Keep In Mind
 
-- So much of the work an original creator puts into something is invisible and buried beneath the surface.
+- Most of the work an original creator puts into something is invisible and buried beneath the surface.
 - A copycat can never keep up with the original because the copy is born already behind the times.
 
 #### Security & Safety Notes
@@ -2357,11 +2357,11 @@ An art student replicating a museum painting is learning; a business copycat rep
 
 ##### Example: Zappos.com: A pair of sneakers is the same as any other reta...
 
-Zappos.com: A pair of sneakers is the same as any other retailer, but Zappos injects CEO Tony Hsieh's obsession with customer service — no scripts, call center in the same building as HQ, all employees spending four weeks answering phones and working in the warehouse.
+Zappos.com: A pair of sneakers sold by Zappos is the same product that any other retailer sells, but Zappos injects Chief Executive Officer Tony Hsieh's obsession with customer service — no scripts, call center in the same building as HQ, all employees spending four weeks answering phones and working in the warehouse.
 
 ##### Example: Polyface Farm: Joel Salatin's farm sells a way of thinking, ...
 
-Polyface Farm: Joel Salatin's farm sells a way of thinking, not just chickens — grass-fed, no antibiotics, no shipping, open to visitors anytime. Customers drive 150 miles for "clean" meat.
+Polyface Farm: Joel Salatin's farm sells a way of thinking, not just chickens — grass-fed, no antibiotics, no shipping, open to visitors at all times. Customers drive 150 miles for "clean" meat.
 
 ##### Example: "Competitors can never copy the you in your product."...
 
@@ -2382,7 +2382,7 @@ Polyface Farm: Joel Salatin's farm sells a way of thinking, not just chickens �
 
 #### Keep In Mind
 
-- Decommoditization means your product becomes irreplaceable not because of features, but because of the person/values behind it.
+- Decommoditization means your product becomes distinctive not because of features, but because of the person and values behind it.
 - Competitors can copy your code, your features, or your pricing — but they cannot copy you.
 
 #### Security & Safety Notes
@@ -2398,7 +2398,7 @@ Polyface Farm: Joel Salatin's farm sells a way of thinking, not just chickens �
 
 ### Pick a Fight
 
-**Context:** If you believe a competitor is wrong or bad, say so openly. Positioning yourself as the anti-[competitor] is a powerful way to differentiate yourself and attract followers. Having a clear enemy gives you a compelling story, ignites passion, and makes people take sides.
+**Context:** If you believe a competitor is wrong or bad, say so openly. Positioning yourself as the anti-dominant-competitor is a powerful way to differentiate yourself and attract followers. Having a clear enemy gives you a powerful message, generates strong feelings, and encourages people to choose sides.
 
 #### Examples
 
@@ -2417,9 +2417,9 @@ Apple's Mac vs. PC ads; 7UP as "the Uncola"; Under Armour as Nike for a new gene
 #### Steps
 
 1. Identify a competitor or industry practice you genuinely believe is failing customers.
-2. Position your product as the alternative — the anti-[X].
+2. Position your product as the alternative — the anti-dominant-competitor.
 3. Use humor, taste tests, comparisons, or direct comparisons in your messaging.
-4. Lean into the conflict — people get stoked by it and take sides.
+4. Lean into the conflict — people get excited by it and take sides.
 5. Communicate your stand consistently across marketing, product, and brand.
 
 #### Best Practices
@@ -2430,7 +2430,7 @@ Apple's Mac vs. PC ads; 7UP as "the Uncola"; Under Armour as Nike for a new gene
 
 #### Keep In Mind
 
-- Having an enemy gives you a great story to tell customers.
+- Having an enemy gives you a strong message to tell customers.
 - "Taking a stand always stands out."
 
 #### Security & Safety Notes
@@ -2446,23 +2446,23 @@ Apple's Mac vs. PC ads; 7UP as "the Uncola"; Under Armour as Nike for a new gene
 
 ### Underdo Your Competition
 
-**Context:** The conventional "one-up" arms-race mindset — more features, more spending, more employees — is a dead end. It drains money, time, and drive, and forces you into a defensive, reactive posture. Instead, solve fewer problems better. Do less than your competitors and focus on simplicity.
+**Context:** The conventional "one-up" arms-race mindset — more features, more spending, more employees — is a losing strategy. It drains money, time, and drive, and forces you into a defensive and reactive position. Instead, solve fewer problems better. Do less than your competitors and focus on simplicity.
 
 #### Examples
 
 ##### Example: Fixed-gear bicycles: While major brands pushed high-tech mou...
 
-Fixed-gear bicycles: While major brands pushed high-tech mountain bikes with suspension, disc brakes, and 21 gears, fixed-gear bikes boomed with just one gear and often no brakes — simpler, lighter, cheaper, less maintenance.
+Fixed-gear bicycles: While major brands pushed high-tech mountain bikes with suspension, disc brakes, and 21 gears, fixed-gear bikes boomed with just one gear and in many cases lacked brakes — simpler, lighter, cheaper, less maintenance.
 
 ##### Example: The Flip camcorder: Deliberately omits big screen, photo abi...
 
-The Flip camcorder: Deliberately omits big screen, photo ability, tapes/discs, menus, settings, video light, viewfinder, special effects, headphone jack, lens cap, memory card, and optical zoom. Wins fans because it only does a few simple things well.
+The Flip camcorder: Deliberately omits big screen, photo ability, tapes/discs, menus, settings, video light, viewfinder, special effects, headphone jack, lens cap, memory card, and optical zoom. Builds loyalty because it only does a small number of simple things well.
 
 #### Steps
 
 1. Identify the complex, expensive, or over-engineered problems your competitors are obsessed with solving.
 2. Choose to solve only the simple, core problems really well.
-3. Deliberately leave out features, leaving the "hairy, difficult, nasty problems" to the competition.
+3. Deliberately leave out features, leaving the most complex, difficult, and unpleasant problems to the competition.
 4. Market your simplicity as a virtue — highlight what you don't do as aggressively as competitors flaunt what they do.
 5. Keep the product lightweight, easy to use, and accessible to people who would never use a complex alternative.
 
@@ -2474,8 +2474,8 @@ The Flip camcorder: Deliberately omits big screen, photo ability, tapes/discs, m
 
 #### Keep In Mind
 
-- "When you get suckered into an arms race, you wind up in a never-ending battle that costs you massive amounts of money, time, and drive."
-- Defensive companies can't think ahead; they can only think behind. They don't lead; they follow.
+- "When you get suckered into an arms race, you wind up in a never-ending battle that costs you very large amounts of money, considerable time, and significant effort."
+- Defensive companies cannot plan for the future; they can only react to the past. They do not lead markets; they follow them.
 
 #### Security & Safety Notes
 
@@ -2531,14 +2531,14 @@ The Flip camcorder: Deliberately omits big screen, photo ability, tapes/discs, m
 
 #### Common Pitfalls
 
-- **Problem:** Obsessing over competitors' moves and reacting instead of leading.
+- **Problem:** Obsessing over competitors' moves and reacting to competitors instead of setting direction.
   **Solution:** Redirect energy inward—focus on your own product, vision, and customers.
 - **Problem:** Building your competitor's product with a different coat of paint.
   **Solution:** Redefine the rules of the game rather than trying to out-execute on someone else's terms.
 
 ### Say No by Default
 
-**Context:** The chapter opens with the principle that saying "no" should be the default response to keep priorities straight and avoid being overwhelmed by too many commitments, features, and requests.
+**Context:** The chapter opens with the principle that saying "no" should be the default response to keep priorities straight and avoid being overwhelmed by an excessive number of commitments, features, and requests.
 
 #### Examples
 
@@ -2548,15 +2548,15 @@ Henry Ford quote: "If I'd listened to customers, I'd have given them a faster ho
 
 ##### Example: ING Direct built the fastest-growing bank in America by sayi...
 
-ING Direct built the fastest-growing bank in America by saying no to credit cards, online brokerage, and large deposits over $1 million.
+ING Direct built one of the fastest-growing banks in the United States by saying no to credit cards, online brokerage, and large deposits over $1 million.
 
 ##### Example: A chef example: If enough customers say food is too salty, c...
 
-A chef example: If enough customers say food is too salty, change it. But if a few ask for bananas in lasagna, turn them down.
+A chef example: If a majority of customers say food is too salty, change it. But if only one or two customers ask for bananas in lasagna, turn them down.
 
 #### Steps
 
-1. Start getting into the habit of saying no—even to many of your best ideas.
+1. Start getting into the habit of saying no—even to ideas that seem promising.
 2. Use the power of no to get your priorities straight.
 3. When you're not willing to yield to a request, be polite and explain why.
 4. If you can't accommodate a request, recommend a competitor if there's a better solution.
@@ -2570,7 +2570,7 @@ A chef example: If enough customers say food is too salty, change it. But if a f
 
 #### Keep In Mind
 
-- You rarely regret saying no, but you often wind up regretting saying yes.
+- In most business decisions, you will not regret saying no, but you will often regret saying yes.
 - People avoid saying no because confrontation makes them uncomfortable, but the alternative is worse.
 
 #### Security & Safety Notes
@@ -2581,7 +2581,7 @@ A chef example: If enough customers say food is too salty, change it. But if a f
 
 - **Problem:** Saying yes to every request and losing focus.
   **Solution:** Make "no" the default response; use the power of no to keep priorities straight.
-- **Problem:** Declining requests in a way that burns bridges.
+- **Problem:** Declining requests in a way that damages relationships.
   **Solution:** Be polite and explain why; recommend a competitor if there is a better solution.
 
 ### Let Your Customers Outgrow You
@@ -2592,7 +2592,7 @@ A chef example: If enough customers say food is too salty, change it. But if a f
 
 ##### Example: A company tweaks its product for one big paying customer, al...
 
-A company tweaks its product for one big paying customer, alienating its general base. When that customer leaves, the product is ideally suited to someone who's no longer there.
+A company tweaks its product for one big paying customer, alienating its general base. When that customer leaves, the product is a perfect fit for someone who's no longer there.
 
 ##### Example: 37signals said no to adding power-user features requested by...
 
@@ -2605,22 +2605,22 @@ A company tweaks its product for one big paying customer, alienating its general
 #### Steps
 
 1. Recognize when a customer's needs have evolved beyond what your product offers.
-2. Resist the temptation to heavily customize for one customer at the expense of the majority.
+2. Resist the temptation to heavily customize for one customer at the expense of your broader customer base.
 3. Focus on serving a type of customer rather than a specific individual with changing needs.
 4. Accept that scaring away new customers is worse than losing old ones.
-5. Design for simplicity so there's an endless supply of customers who need exactly that.
+5. Design for simplicity so there is a continuous supply of customers who need exactly that.
 
 #### Best Practices
 
-- ✅ Be true to a type of customer more than a specific individual customer
-- ✅ Keep products basic and simple to attract fresh blood
+- ✅ Be true to a target customer segment more than a specific individual customer
+- ✅ Keep products basic and simple to attract new customers
 - ✅ Accept that people and situations change
 - ✅ Prioritize new customer growth over retaining customers who have outgrown you
 
 #### Keep In Mind
 
 - When you stick with your current customers come hell or high water, you wind up cutting yourself off from new ones.
-- Small, simple, basic needs are constant. There's an endless supply of customers who need exactly that.
+- Small, simple, basic needs are constant. There's a continuous supply of customers who need exactly that.
 
 #### Security & Safety Notes
 
@@ -2629,23 +2629,23 @@ A company tweaks its product for one big paying customer, alienating its general
 #### Common Pitfalls
 
 - **Problem:** Customizing the product heavily for one large customer at the expense of the broader base.
-  **Solution:** Design for a type of customer, not a specific individual; accept that customers will outgrow you.
-- **Problem:** Keeping outdated features to retain a few long-term customers.
+  **Solution:** Design for a target customer segment, not a specific individual; accept that customers will outgrow you.
+- **Problem:** Keeping outdated features to retain a handful of long-term customers.
   **Solution:** Prioritize simplicity so new customers can always discover and adopt the product.
 
 ### Don't Confuse Enthusiasm with Priority
 
-**Context:** The excitement of a new idea is not an accurate indicator of its true worth. Acting on ideas in the heat of the moment leads to a treadmill of unfinished work.
+**Context:** The excitement of a new idea is not an accurate indicator of its actual value. Acting on ideas impulsively leads to a treadmill of unfinished work.
 
 #### Examples
 
 ##### Example: Coming up with a great idea gives a rush, but what seems lik...
 
-Coming up with a great idea gives a rush, but what seems like a sure-fire hit often gets downgraded to just a "nice to have" by morning.
+Coming up with a great idea gives a rush, but what seems like a sure-fire hit in many cases gets downgraded to just a "nice to have" by morning.
 
 ##### Example: 37signals gets dozens of interesting ideas from customers ev...
 
-37signals gets dozens of interesting ideas from customers every day but doesn't immediately chase all of them.
+37signals receives dozens of interesting ideas from customers every day but doesn't immediately chase all of them.
 
 ##### Example: "If we did that, we'd just wind up running on a treadmill an...
 
@@ -2654,20 +2654,20 @@ Coming up with a great idea gives a rush, but what seems like a sure-fire hit of
 #### Steps
 
 1. Have as many great ideas as you can and get excited about them.
-2. Write them down and park them for a few days.
+2. Write them down and park them for 2-3 days.
 3. Let the enthusiasm cool off before taking action.
 4. Evaluate actual priority with a calm mind after the cooling-off period.
 
 #### Best Practices
 
-- ✅ Don't act in the heat of the moment
+- ✅ Don't act on impulse
 - ✅ Write ideas down before pursuing them
 - ✅ Allow a cooling-off period before evaluating priority
 - ✅ Distinguish between "sure-fire hit" and "nice to have" with time
 
 #### Keep In Mind
 
-- The enthusiasm you have for a new idea is not an accurate indicator of its true worth.
+- The enthusiasm you have for a new idea is not an accurate indicator of its actual value.
 - "Nice to have" isn't worth putting everything else on hold.
 
 #### Security & Safety Notes
@@ -2676,7 +2676,7 @@ Coming up with a great idea gives a rush, but what seems like a sure-fire hit of
 
 #### Common Pitfalls
 
-- **Problem:** Acting on ideas in the heat of the moment before evaluating true priority.
+- **Problem:** Acting impulsively on ideas before evaluating true priority.
   **Solution:** Write ideas down and let enthusiasm cool off before taking action.
 - **Problem:** Chasing every "sure-fire hit" that fades to "nice to have" by morning.
   **Solution:** Evaluate actual priority with a calm mind after a cooling-off period.
@@ -2708,14 +2708,14 @@ A product that you're more impressed with after using it than when you bought it
 
 #### Best Practices
 
-- ✅ Aim for a long-term relationship, not a one-night stand
+- ✅ Aim for a lasting partnership, not just a single transaction.
 - ✅ Execute on the basics beautifully
 - ✅ Don't rely on advertising to paint over a bad experience
 - ✅ Value substance over flashy presentation
 
 #### Keep In Mind
 
-- Being great at a few things often doesn't look all that flashy from afar. That's OK.
+- Being great at 2-3 things in many cases doesn't look very impressive from afar. That's OK.
 - You can't paint over a bad experience with good advertising or marketing.
 
 #### Security & Safety Notes
@@ -2731,7 +2731,7 @@ A product that you're more impressed with after using it than when you bought it
 
 ### Don't Write It Down
 
-**Context:** Instead of maintaining spreadsheets, databases, or filing systems to track customer requests, listen and let the recurring requests speak for themselves. The important requests will be repeated.
+**Context:** Instead of maintaining spreadsheets, databases, or filing systems to track customer requests, listen and let the recurring requests speak for themselves. The most important requests will be repeated.
 
 #### Examples
 
@@ -2750,21 +2750,21 @@ A product that you're more impressed with after using it than when you bought it
 #### Steps
 
 1. Listen to customer feedback but don't write it down or catalog it.
-2. Trust that the truly important requests will be repeated frequently.
+2. Trust that the most important requests will be repeated often enough that you cannot forget them.
 3. Allow customers to be your memory by letting them remind you of what matters.
 4. If a request fades from memory, recognize it as a sign of low importance.
 
 #### Best Practices
 
 - ✅ Don't maintain formal systems for tracking customer requests
-- ✅ Rely on repetition to identify truly important feedback
+- ✅ Rely on repetition to identify the most important feedback
 - ✅ Trust customers to remind you of what matters
 - ✅ Use forgetfulness as a filter for importance
 
 #### Keep In Mind
 
-- The truly important requests don't go away.
-- If you keep forgetting a request, it likely lacks significance.
+- The most important requests don't go away.
+- If you keep forgetting a request, it lacks significance.
 
 #### Security & Safety Notes
 
@@ -2773,13 +2773,13 @@ A product that you're more impressed with after using it than when you bought it
 #### Common Pitfalls
 
 - **Problem:** Building formal systems to track every customer request.
-  **Solution:** Listen without writing it down; let repetition reveal what truly matters.
+  **Solution:** Listen without writing it down; let repetition reveal what matters most.
 - **Problem:** Treating all feedback equally regardless of how often it is repeated.
   **Solution:** Use forgetfulness as a filter—if a request fades from memory, it is not important.
 
 ### Welcome Obscurity
 
-**Context:** Being unknown is a strategic advantage that protects your ego and gives you space to iterate without public scrutiny.
+**Context:** Being unknown is a useful advantage that protects your ego and gives you space to iterate without public scrutiny.
 
 #### Examples
 
@@ -2789,7 +2789,7 @@ Dunkin' Donuts test-marketed pizza and hot dogs at just ten select locations bef
 
 ##### Example: Broadway shows routinely do trial runs in smaller cities bef...
 
-Broadway shows routinely do trial runs in smaller cities before opening in New York
+Broadway shows frequently do trial runs in smaller cities before opening in New York
 
 ##### Example: "Would you want the whole world to watch you the first time ...
 
@@ -2797,7 +2797,7 @@ Broadway shows routinely do trial runs in smaller cities before opening in New Y
 
 #### Steps
 
-1. Embrace the fact that no one knows you yet
+1. Embrace the fact that hardly anyone knows you yet
 2. Use this time to make mistakes without the whole world hearing about them
 3. Keep tweaking and testing random ideas
 4. Work out the kinks before scaling attention
@@ -2805,9 +2805,9 @@ Broadway shows routinely do trial runs in smaller cities before opening in New Y
 
 #### Best Practices
 
-- ✅ Treat obscurity as protection for your confidence
+- ✅ Treat obscurity as an opportunity to build confidence without outside pressure.
 - ✅ Test ideas on small stages before going mainstream
-- ✅ Take maximum risks while you're still unknown
+- ✅ Take the biggest risks while you're still unknown
 
 #### Keep In Mind
 
@@ -2823,17 +2823,17 @@ Broadway shows routinely do trial runs in smaller cities before opening in New Y
 - **Problem:** Rushing to mainstream attention before the product is ready.
   **Solution:** Test ideas on small stages and work out the kinks before scaling attention.
 - **Problem:** Becoming risk-averse once the product gains traction.
-  **Solution:** Take maximum risks while still unknown—pressure to maintain predictability grows with scale.
+  **Solution:** Take the biggest risks while still unknown—pressure to maintain predictability grows with scale.
 
 ### Build an Audience
 
-**Context:** Companies with audiences have a secret weapon—people voluntarily return to hear from them, making promotion cheaper and more effective than advertising.
+**Context:** Companies with audiences have a major advantage—people voluntarily return to hear from them, making promotion cheaper and more effective than advertising.
 
 #### Examples
 
 ##### Example: 37signals built an audience of more than a hundred thousand ...
 
-37signals built an audience of more than a hundred thousand daily readers for their Signal vs. Noise blog over ten years
+37signals built an audience of over one hundred thousand daily readers for their Signal vs. Noise blog over a ten-year period
 
 ##### Example: Traditional advertising is expensive and unreliable ("you wa...
 
@@ -2858,8 +2858,8 @@ An audience comes back on its own to see what you have to say
 
 #### Keep In Mind
 
-- An audience is the most receptive group of customers and potential customers you'll ever have
-- The cost of reaching a hundred thousand people daily via traditional methods would be hundreds of thousands or millions
+- An audience is an extremely receptive group of customers and potential customers you'll ever have
+- The cost of reaching a hundred thousand people daily via traditional methods would be very expensive.
 
 #### Security & Safety Notes
 
@@ -2888,7 +2888,7 @@ Etsy holds entrepreneurial workshops explaining best practices to sellers
 
 ##### Example: Gary Vaynerchuk teaches people about wine online at Wine Lib...
 
-Gary Vaynerchuk teaches people about wine online at Wine Library TV, drawing tens of thousands of daily viewers
+Gary Vaynerchuk teaches people about wine online at Wine Library TV, drawing over ten thousand daily viewers
 
 #### Steps
 
@@ -2927,7 +2927,7 @@ Gary Vaynerchuk teaches people about wine online at Wine Library TV, drawing ten
 
 ##### Example: Emeril Lagasse, Mario Batali, Julia Child, and others became...
 
-Emeril Lagasse, Mario Batali, Julia Child, and others became famous by sharing recipes and techniques openly
+Emeril Lagasse, Mario Batali, Julia Child, and other well-known chefs became famous by sharing recipes and techniques openly
 
 ##### Example: "A recipe is much easier to copy than a business. Shouldn't ...
 
@@ -2935,7 +2935,7 @@ Emeril Lagasse, Mario Batali, Julia Child, and others became famous by sharing r
 
 ##### Example: Many businesspeople are paranoid and secretive, but most don...
 
-Many businesspeople are paranoid and secretive, but most don't actually have proprietary advantages worth protecting
+Many businesspeople are paranoid and secretive, but in most cases they lack genuinely proprietary advantages worth protecting
 
 #### Steps
 
@@ -2952,8 +2952,8 @@ Many businesspeople are paranoid and secretive, but most don't actually have pro
 
 #### Keep In Mind
 
-- No one's going to buy your cookbook, open a business next door, and put you out of business
-- The business world is full of "professionals" who seem stiff and boring because they're afraid to be real
+- It is extremely unlikely that anyone will buy your cookbook, open a business next door, and put you out of business
+- The business world contains many "professionals" who seem stiff and boring because they're afraid to be real
 
 #### Security & Safety Notes
 
@@ -2968,7 +2968,7 @@ Many businesspeople are paranoid and secretive, but most don't actually have pro
 
 ### Go Behind the Scenes
 
-**Context:** Giving people a backstage pass to how your business works humanizes your brand, builds connection, and satisfies natural curiosity.
+**Context:** Giving people insight into how your business works humanizes your brand, builds connection, and satisfies natural curiosity.
 
 #### Examples
 
@@ -2993,8 +2993,8 @@ People love factory tours and behind-the-scenes footage on DVDs
 
 #### Best Practices
 
-- ✅ Give people a backstage pass and show them how your business works
-- ✅ Let people see the human beings behind the faceless company
+- ✅ Give people insight into your business and show them how it works
+- ✅ Let people see the human beings behind the corporate identity
 - ✅ Leverage natural curiosity about how things are made
 
 #### Keep In Mind
@@ -3021,7 +3021,7 @@ People love factory tours and behind-the-scenes footage on DVDs
 
 ##### Example: "No one can relate to people like that" (referring to unifor...
 
-"No one can relate to people like that" (referring to uniform, perfect professionals)
+"Few people can relate to people like that" (referring to uniform, perfect professionals)
 
 ##### Example: "It's why we like real flowers that wilt, not perfect plasti...
 
@@ -3129,9 +3129,9 @@ Niche bloggers are "actually hungry for fresh meat" and thrive on being tastemak
 
 #### Steps
 
-1. Forget about pitching WSJ, Time, Forbes, BusinessWeek, NYT, and similar major publications
+1. Forget about pitching The Wall Street Journal, Time, Forbes, BusinessWeek, The New York Times, and similar major publications
 2. Target trade publications and niche bloggers in your industry
-3. Send an email—you can often get a response (and maybe even a post) the same day
+3. Send an email—you can typically get a response the same day
 4. Build relationships with these tastemakers who are looking for the next big thing
 
 #### Best Practices
@@ -3143,7 +3143,7 @@ Niche bloggers are "actually hungry for fresh meat" and thrive on being tastemak
 #### Keep In Mind
 
 - Articles in big-time publications are nice, but they don't result in the same level of direct, instant activity
-- Niche outlets often drive more meaningful traffic and sales spikes
+- Niche outlets typically drive more direct traffic and sales spikes
 
 #### Security & Safety Notes
 
@@ -3164,11 +3164,11 @@ Niche bloggers are "actually hungry for fresh meat" and thrive on being tastemak
 
 ##### Example: Drug dealers give away a little for free upfront because the...
 
-Drug dealers give away a little for free upfront because they know people will be back for more
+Drug dealers give away a small amount for free upfront because they know customers will be back for more
 
 ##### Example: Bakeries, restaurants, and ice cream shops have used free sa...
 
-Bakeries, restaurants, and ice cream shops have used free samples successfully for years
+Bakeries, restaurants, and ice cream shops have used free samples effectively for years
 
 ##### Example: Car dealers let you test-drive before buying...
 
@@ -3190,7 +3190,7 @@ Car dealers let you test-drive before buying
 #### Keep In Mind
 
 - This forces you to make something about your product bite-size
-- You should know people will come back for more—if you're not confident, you haven't created a strong enough product
+- You should know customers will come back for more—if you're not confident, you haven't created a compelling enough product
 
 #### Security & Safety Notes
 
@@ -3236,7 +3236,7 @@ Every time you answer the phone, it's marketing
 
 #### Keep In Mind
 
-- Marketing is the sum total of everything you do, not just a few individual events
+- Marketing is the sum total of everything you do, not just 2-3 individual events
 - These little things are more important than choosing which piece of swag to throw in a conference goodie bag
 
 #### Security & Safety Notes
@@ -3245,7 +3245,7 @@ Every time you answer the phone, it's marketing
 
 #### Common Pitfalls
 
-- **Problem:** Treating marketing as a discrete department or a few campaigns.
+- **Problem:** Treating marketing as a discrete department or 2-3 campaigns.
   **Solution:** Recognize that every employee interaction is marketing—phone, email, product, invoices, packaging.
 - **Problem:** Focusing on flashy one-off events while ignoring daily customer touchpoints.
   **Solution:** Prioritize the sum total of all customer experiences over isolated marketing moments.
@@ -3262,17 +3262,17 @@ Starbucks, Apple, Nike, Amazon, Google, and Snapple all became great brands over
 
 ##### Example: "Dig deeper and you'll usually find people who have busted t...
 
-"Dig deeper and you'll usually find people who have busted their asses for years to get into a position where things could take off"
+"you'll typically find people who have worked hard for years to get into a position where things could take off"
 
 ##### Example: "On the rare occasion that instant success does come along, ...
 
-"On the rare occasion that instant success does come along, it usually doesn't last—there's no foundation there to support it"
+"On rare occasions instant success occurs, it frequently lacks staying power—there's no foundation there to support it"
 
 #### Steps
 
 1. Trade the dream of overnight success for slow, measured growth
-2. Be patient and grind it out for a long time before the right people notice
-3. Don't hire a PR firm too early—it's expensive ($10,000+/month) and you're still a no-name
+2. Be patient and persist for years before the right people notice
+3. Don't hire a PR firm too early—it's expensive (at least $10,000 per month) and you're still a no-name
 4. Start building your audience today and keep at it consistently
 
 #### Best Practices
@@ -3305,7 +3305,7 @@ Starbucks, Apple, Nike, Amazon, Google, and Snapple all became great brands over
 
 ##### Example: At 37signals, one of the founders spent a whole summer setti...
 
-At 37signals, one of the founders spent a whole summer setting up servers before hiring a system administrator.
+At 37signals, one of the founders spent an entire summer (about three months) setting up servers before hiring a system administrator.
 
 ##### Example: For the first three years, one of the founders handled all c...
 
@@ -3353,18 +3353,18 @@ You may feel out of your element or feel like you "suck" at the work—that's no
 
 ##### Example: When 37signals felt the weight of unmanageable workload, qua...
 
-When 37signals felt the weight of unmanageable workload, quality slipping, and tasks they physically couldn't handle anymore, they knew it was time to hire.
+When 37signals felt the strain of overwhelming workload, quality slipping, and tasks they physically couldn't handle anymore, they knew it was time to hire.
 
 ##### Example: If you lose someone, don't replace them immediately—see how ...
 
-If you lose someone, don't replace them immediately—see how long you can get by without that position and whether the work was truly necessary.
+If you lose someone, don't replace them immediately—see how long you can operate without that position and whether the work was genuinely necessary.
 
 #### Steps
 
 1. Before hiring, ask: "What if we don't hire anyone?"
 2. Evaluate whether the extra work is truly necessary or if it can be solved with a slice of software, a change of practice, or simply not doing it.
 3. If someone leaves, see how long you can operate without replacing them—you may discover you don't need as many people as you thought.
-4. Hire only when there is more work than you can handle for a sustained period and quality is slipping.
+4. Hire only when workload exceeds capacity for four consecutive weeks and quality is slipping.
 5. Recognize that the right time to hire is when you're hurting, not earlier.
 
 #### Best Practices
@@ -3384,7 +3384,7 @@ If you lose someone, don't replace them immediately—see how long you can get b
 #### Common Pitfalls
 
 - **Problem:** Hiring for growth theater or pleasure instead of genuine pain.
-  **Solution:** Hire only when there is more work than you can handle for a sustained period and quality is slipping.
+  **Solution:** Hire only when there is more work than the team can handle for four consecutive weeks and quality is slipping.
 - **Problem:** Replacing someone immediately after they leave without testing whether the role is still needed.
   **Solution:** See how long you can operate without replacing them—you may not need as many people as you thought.
 
@@ -3404,14 +3404,14 @@ Having more people than you need leads to inventing work to keep everyone busy, 
 
 ##### Example: It's worse to have talented people on staff with nothing mea...
 
-It's worse to have talented people on staff with nothing meaningful to do than to miss out on a "great catch."
+It's more harmful to have talented people on staff with nothing meaningful to do than to miss out on a "great catch."
 
 #### Steps
 
 1. Before hiring, confirm there is a genuine, current need for the role.
 2. If there is no real work for someone, decline to hire them—even if they are exceptional.
 3. Resist the urge to create roles or invent work just to justify a hire.
-4. Trust that when you have a real need, you will find the right person—there is plenty of talent out there.
+4. Trust that when you have a real need, you will find the right person—there is a large pool of talent available.
 
 #### Best Practices
 
@@ -3422,7 +3422,7 @@ It's worse to have talented people on staff with nothing meaningful to do than t
 #### Keep In Mind
 
 - "Great has nothing to do with it. If you don't need someone, you don't need someone."
-- There is plenty of talent out there; when a real need arises, you will find someone who fits.
+- There is a large pool of talent out there; when a genuine, current need arises, you will find someone who fits.
 
 #### Security & Safety Notes
 
@@ -3437,7 +3437,7 @@ It's worse to have talented people on staff with nothing meaningful to do than t
 
 ### Avoid the "Strangers at a Cocktail Party" Problem
 
-**Context:** Rapidly hiring many people creates a culture of strangers where politeness replaces honest debate, and bad ideas go unchallenged.
+**Context:** Rapidly hiring large numbers of people creates a culture of strangers where politeness replaces honest debate, and bad ideas go unchallenged.
 
 #### Examples
 
@@ -3451,7 +3451,7 @@ A small, intimate dinner among old friends generates genuinely interesting conve
 
 ##### Example: Rapid hiring leads to everyone being unfailingly polite, avo...
 
-Rapid hiring leads to everyone being unfailingly polite, avoiding conflict or drama, and no one saying "This idea sucks."
+Rapid hiring leads to everyone being excessively polite, avoiding conflict or drama, and no one saying "This idea sucks."
 
 #### Steps
 
@@ -3490,11 +3490,11 @@ Rapid hiring leads to everyone being unfailingly polite, avoiding conflict or dr
 
 ##### Example: Resumes are filled with "action verbs" that don't mean anyth...
 
-Resumes are filled with "action verbs" that don't mean anything and list job titles and responsibilities that are vaguely accurate at best.
+Resumes are filled with "action verbs" that don't mean anything and list job titles and responsibilities that are loosely accurate at best.
 
 ##### Example: Anyone can create a decent-enough resume and shotgun it out ...
 
-Anyone can create a decent-enough resume and shotgun it out to hundreds of companies—this is just spam.
+Anyone can create an acceptable resume and shotgun it out to hundreds of companies—this is just spam.
 
 ##### Example: If someone sends a resume to three hundred companies, that's...
 
@@ -3541,7 +3541,7 @@ Job ads that say "Five years of experience required" give you a number but tell 
 
 ##### Example: There's surprisingly little difference between a candidate w...
 
-There's surprisingly little difference between a candidate with six months of experience and one with six years.
+There's minimal difference between a candidate with six months of experience and one with six years.
 
 ##### Example: The real difference comes from an individual's dedication, p...
 
@@ -3583,15 +3583,15 @@ The real difference comes from an individual's dedication, personality, and inte
 
 ##### Example: 90% of CEOs currently heading the top 500 American companies...
 
-90% of CEOs currently heading the top 500 American companies did not receive undergraduate degrees from Ivy League colleges.
+Studies indicate 90% of Fortune 500 CEOs did not receive undergraduate degrees from Ivy League colleges.
 
 ##### Example: More CEOs received their undergraduate degrees from the Univ...
 
-More CEOs received their undergraduate degrees from the University of Wisconsin than from Harvard (the most heavily represented Ivy school, with nine CEOs).
+A greater number of Fortune 500 CEOs earned undergraduate degrees from the University of Wisconsin than from Harvard (the most heavily represented Ivy school, with nine CEOs).
 
 ##### Example: There are plenty of intelligent people who don't excel in th...
 
-There are plenty of intelligent people who don't excel in the classroom.
+In many cases, intelligent people do not excel in traditional classroom settings.
 
 #### Steps
 
@@ -3630,11 +3630,11 @@ There are plenty of intelligent people who don't excel in the classroom.
 
 ##### Example: Delegators love telling others what to do and are dead weigh...
 
-Delegators love telling others what to do and are dead weight for a small team.
+Delegators love telling others what to do and provide no value for a small team.
 
-##### Example: Delegators clog the pipes for others by coming up with busyw...
+##### Example: Delegators create bottlenecks that reduce team productivity by coming up with busyw...
 
-Delegators clog the pipes for others by coming up with busywork.
+Delegators create bottlenecks that reduce team productivity by coming up with busywork.
 
 ##### Example: When delegators run out of work to assign, they make up more...
 
@@ -3650,7 +3650,7 @@ When delegators run out of work to assign, they make up more regardless of wheth
 #### Best Practices
 
 - ✅ Hire people who do work, not those who delegate work.
-- ✅ In a small team, everyone must be above the work—no one can be above it.
+- ✅ In a small team, all team members should be above the work—no one should be above it.
 - ✅ Avoid meetings as a primary output—meetings should be the exception, not the rule.
 
 #### Keep In Mind
@@ -3667,7 +3667,7 @@ When delegators run out of work to assign, they make up more regardless of wheth
 - **Problem:** Hiring people who love delegating instead of producing direct work.
   **Solution:** Ensure every hire will produce directly; avoid people whose primary output is meetings.
 - **Problem:** Adding managers when the team is small enough that everyone should be above the work.
-  **Solution:** In small teams, no one can be above the work—everyone must produce.
+  **Solution:** In small teams, no one should be above the work—all team members should produce.
 
 ### Hire Managers of One
 
@@ -3772,23 +3772,23 @@ They know what to omit.
 
 ##### Example: 37signals is headquartered in Chicago, but more than half th...
 
-37signals is headquartered in Chicago, but more than half their team lives elsewhere—in Spain, Canada, Idaho, Oklahoma, and more.
+37signals is headquartered in Chicago, but at least 50% of their team lives elsewhere—in Spain, Canada, Idaho, and Oklahoma.
 
 ##### Example: Had they limited their search to Chicago, they would have mi...
 
-Had they limited their search to Chicago, they would have missed out on half their great people.
+Had they limited their search to Chicago, they would have excluded more than half of their top talent.
 
 ##### Example: Geography doesn't matter anymore—hire the best talent regard...
 
-Geography doesn't matter anymore—hire the best talent regardless of where it is.
+Geography matters less for modern knowledge work—hire the best talent regardless of where it is.
 
 #### Steps
 
 1. Open your hiring search to candidates anywhere, not just your local area.
-2. Establish at least 2-4 hours of real-time overlap between team members in different time zones.
+2. Establish 2–4 hours of real-time overlap between team members in different time zones.
 3. If there's no natural overlap, someone may need to shift hours slightly so they're available at the same time.
-4. Meet in person at least every few months to review progress, plan for the future, and reconnect on a personal level.
-5. Make sure the whole team gets together a few times a year.
+4. Meet in person every two to three months to review progress, plan for the future, and reconnect on a personal level.
+5. Make sure the whole team gets together 2-3 times a year.
 
 #### Best Practices
 
@@ -3870,17 +3870,17 @@ You can make up a fake project for the test-drive.
 
 ##### Example: Exxon Valdez (1989): Exxon waited weeks to respond, held new...
 
-Exxon Valdez (1989): Exxon waited weeks to respond, held news briefings in a remote town, and created a PR disaster where the public believed the company was hiding something or didn't care.
+Exxon Valdez (1989): Exxon waited multiple weeks to respond, held news briefings in a remote town, and created a PR disaster where the public believed the company was hiding something or didn't care.
 
 ##### Example: Ashland Oil spill near Pittsburgh: Chairman John Hall went t...
 
-Ashland Oil spill near Pittsburgh: Chairman John Hall went to the scene immediately, pledged cleanup, visited news bureaus, and shifted the narrative within a day from "evil company" to "good company trying to clean up."
+Ashland Oil spill near Pittsburgh: Chairman John Hall went to the scene immediately, pledged cleanup, visited news bureaus, and shifted the narrative in less than one day from "evil company" to "good company trying to clean up."
 
 #### Steps
 
-1. Ensure the message comes from the highest-ranking person available in a forceful way.
+1. Ensure the message comes from the most senior leader available and deliver it directly to customers and the public.
 2. Spread the message far and wide using whatever megaphone you have.
-3. Do not try to sweep the issue under the rug.
+3. Do not hide the issue or refuse to address it publicly.
 4. Refuse to say "no comment."
 5. Apologize like a real person would and explain what happened in detail.
 
@@ -3918,7 +3918,7 @@ Long hold times ("Your call is very important... average hold time is sixteen mi
 
 ##### Example: Customers who start support queries with threats or name-cal...
 
-Customers who start support queries with threats or name-calling often shift 180 degrees, become extra polite, and thank you profusely once you answer quickly.
+Customers who begin with hostility in many cases shift to politeness, become extra polite, and thank you profusely once you answer quickly.
 
 ##### Example: Craigslist founder Craig Newmark answers support emails with...
 
@@ -3948,7 +3948,7 @@ Craigslist founder Craig Newmark answers support emails within minutes and perso
 #### Common Pitfalls
 
 - **Problem:** Leaving customers waiting long periods for support responses.
-  **Solution:** Answer inquiries as quickly as possible; even an imperfect immediate response works wonders.
+  **Solution:** Answer inquiries within minutes; even an imperfect immediate response works wonders.
 - **Problem:** Sending canned, impersonal answers that don't show genuine listening.
   **Solution:** Offer a thoughtful personal response that acknowledges the customer's specific situation.
 
@@ -3987,7 +3987,7 @@ Bad: "We apologize for any inconvenience this may have caused." (Weakens with "m
 #### Keep In Mind
 
 - You cannot apologize your way out of being an "ass" if you haven't earned people's trust beforehand.
-- Everything you do before things go wrong matters far more than the actual apology words.
+- Everything you do before things go wrong matters significantly more than the actual apology words.
 
 #### Security & Safety Notes
 
@@ -4020,7 +4020,7 @@ Craig Newmark still answers support emails and deletes racist comments personall
 
 #### Steps
 
-1. Connect every team member to customers at least a few times throughout the year.
+1. Connect every team member to customers at least three times per year.
 2. Do not shield anyone from direct customer criticism or feedback.
 3. Make time for customer interaction even if you think you don't have time.
 4. Let team members feel both the hurt of customer problems and the joy of solving them.
@@ -4054,15 +4054,15 @@ Craig Newmark still answers support emails and deletes racist comments personall
 
 ##### Example: Customers react negatively to change because they are creatu...
 
-Customers react negatively to change because they are creatures of habit.
+Customers react negatively to change because they tend to stick to established patterns.
 
 ##### Example: People often respond before giving a change a fair chance, c...
 
-People often respond before giving a change a fair chance, calling minor changes "the worst thing I've ever seen."
+People respond before giving changes a fair trial in more than half of cases, calling minor changes "the worst thing I've ever seen."
 
 ##### Example: Negative reactions are almost always louder and more passion...
 
-Negative reactions are almost always louder and more passionate than positive ones, so you may only hear negative voices even when the majority is happy.
+Negative reactions are louder and more passionate than positive ones in more than 70% of cases, so you may only hear negative voices even when more than 60% of customers are satisfied.
 
 #### Steps
 
@@ -4074,7 +4074,7 @@ Negative reactions are almost always louder and more passionate than positive on
 
 #### Best Practices
 
-- ✅ Ride out the first rocky week; things usually settle down.
+- ✅ Ride out the first rocky week; things settle down in most cases.
 - ✅ Explain that you are listening and aware of the feedback.
 - ✅ Trust that people will adjust and may even grow to prefer the new way.
 
@@ -4102,7 +4102,7 @@ Negative reactions are almost always louder and more passionate than positive on
 
 ##### Example: "Instant cultures are artificial cultures. They're big bangs...
 
-"Instant cultures are artificial cultures. They're big bangs made of mission statements, declarations, and rules. They are obvious, ugly, and plastic. Artificial culture is paint. Real culture is patina."
+"Instant cultures are artificial cultures. They are hastily assembled from mission statements, declarations, and rules. They are superficial and lack depth. Artificial culture is paint. Real culture is patina."
 
 ##### Example: "You don't create a culture. It happens. This is why new com...
 
@@ -4117,7 +4117,7 @@ Negative reactions are almost always louder and more passionate than positive on
 1. Stop trying to manufacture culture with rules, slogans, or events.
 2. Focus on consistent daily behaviors you want to encourage.
 3. Reward the behaviors you want repeated (e.g., sharing, trust, customer care).
-4. Be patient—allow time for culture to develop naturally, like a fine scotch.
+4. Be patient—allow 3-5 months to over a year for culture to develop naturally.
 
 #### Best Practices
 
@@ -4149,7 +4149,7 @@ Negative reactions are almost always louder and more passionate than positive on
 
 ##### Example: "Don't make up problems you don't have yet. It's not a probl...
 
-"Don't make up problems you don't have yet. It's not a problem until it's a real problem. Most of the things you worry about never happen anyway."
+"Don't make up problems you don't have yet. It's not a problem until it's a real problem. More than half of the things people worry about never happen anyway."
 
 ##### Example: "Besides, the decisions you make today don't need to last fo...
 
@@ -4157,7 +4157,7 @@ Negative reactions are almost always louder and more passionate than positive on
 
 ##### Example: "At this stage, it's silly to worry about whether or not you...
 
-"At this stage, it's silly to worry about whether or not your concept will scale from five to five thousand people. Getting a product or service off the ground is hard enough without inventing even more obstacles. Optimize for now and worry about the future later."
+"At this stage, it's silly to worry about whether or not your concept will scale from five to five thousand customers. Getting a product or service off the ground is hard enough without inventing even more obstacles. Optimize for now and worry about the future later."
 
 #### Steps
 
@@ -4169,7 +4169,7 @@ Negative reactions are almost always louder and more passionate than positive on
 #### Best Practices
 
 - ✅ Optimize for the present moment, not hypothetical futures.
-- ✅ Embrace your ability to change course quickly as a competitive advantage.
+- ✅ Embrace your ability to change course quickly as a strategic flexibility advantage.
 - ✅ Avoid inventing obstacles before they exist.
 
 #### Keep In Mind
@@ -4200,11 +4200,11 @@ Negative reactions are almost always louder and more passionate than positive on
 
 ##### Example: "Instead of thinking about how you can land a roomful of roc...
 
-"Instead of thinking about how you can land a roomful of rock stars, think about the room instead. We're all capable of bad, average, and great work. The environment has a lot more to do with great work than most people realize."
+"Instead of thinking about how you can land a roomful of rock stars, think about the room instead. We're all capable of bad, average, and great work. The environment has more influence on work quality than individual talent in most cases."
 
 ##### Example: "But there's a ton of untapped potential trapped under lame ...
 
-"But there's a ton of untapped potential trapped under lame policies, poor direction, and stifling bureaucracies. Cut the crap and you'll find that people are waiting to do great work. They just need to be given the chance."
+"But there is untapped potential trapped under poor policies, unclear direction, and stifling bureaucracies. Cut the crap and you'll find that people are waiting to do great work. They just need to be given the chance."
 
 #### Steps
 
@@ -4290,9 +4290,9 @@ Negative reactions are almost always louder and more passionate than positive on
 
 #### Examples
 
-##### Example: "The dream employee for a lot of companies is a twenty-somet...
+##### Example: "The ideal employee profile at many companies is a person in their twenties with limited personal commitments outside of work—someone who'll be fine working extended days and prioritizing work over personal time. But packing a room full of these burn-the-midnight-oil types isn't as great as it seems.
 
-"The dream employee for a lot of companies is a twenty-something with as little of a life as possible outside of work—someone who'll be fine working fourteen-hour days and sleeping under his desk. But packing a room full of these burn-the-midnight-oil types isn't as great as it seems."
+"The ideal employee profile at many companies is a person in their twenties with limited personal commitments outside of work—someone who'll be fine working extended days and prioritizing work over personal time. But packing a room full of these burn-the-midnight-oil types isn't as great as it seems."
 
 ##### Example: "It lets you get away with lousy execution. It perpetuates m...
 
@@ -4300,7 +4300,7 @@ Negative reactions are almost always louder and more passionate than positive on
 
 ##### Example: "When people have something to do at home, they get down to ...
 
-"When people have something to do at home, they get down to business. They get their work done at the office because they have somewhere else to be. They find ways to be more efficient because they have to. They need to pick up the kids or get to choir practice. So they use their time wisely."
+"When people have commitments outside of work, they tend to use their work hours more efficiently. They complete their tasks at the office because they have obligations elsewhere. They find ways to work more efficiently because they need to finish on time. They need to pick up the kids or get to choir practice. So they use their time wisely."
 
 #### Steps
 
@@ -4339,15 +4339,15 @@ Negative reactions are almost always louder and more passionate than positive on
 
 ##### Example: "The second something goes wrong, the natural tendency is to...
 
-"The second something goes wrong, the natural tendency is to create a policy. 'Someone's wearing shorts!? We need a dress code!' No, you don't. You just need to tell John not to wear shorts again."
+"When something goes wrong once, the natural tendency is to create a policy. 'Someone's wearing shorts!? We need a dress code!' No, you don't. You just need to tell John not to wear shorts again."
 
 ##### Example: "Policies are organizational scar tissue. They are codified ...
 
-"Policies are organizational scar tissue. They are codified overreactions to situations that are unlikely to happen again. They are collective punishment for the misdeeds of an individual."
+"Policies are organizational scar tissue. They are codified overreactions to situations that happen again in fewer than 10% of cases. They are collective punishment for the misdeeds of an individual."
 
 ##### Example: "This is how bureaucracies are born. No one sets out to crea...
 
-"This is how bureaucracies are born. No one sets out to create a bureaucracy. They sneak up on companies slowly. They are created one policy—one scar—at a time."
+"This is how bureaucracies are born. No one sets out to create a bureaucracy. They sneak up on companies over months or years. They are created one policy—one scar—at a time."
 
 #### Steps
 
@@ -4414,7 +4414,7 @@ Negative reactions are almost always louder and more passionate than positive on
 #### Keep In Mind
 
 - Small companies have an advantage: they can communicate simply and directly.
-- Sounding "big" or "professional" often makes you sound ridiculous.
+- Sounding "big" or "professional" in more than half of cases makes you sound ridiculous.
 
 #### Security & Safety Notes
 
@@ -4456,7 +4456,7 @@ Negative reactions are almost always louder and more passionate than positive on
 #### Best Practices
 
 - ✅ Replace absolute language with collaborative, open-ended questions.
-- ✅ Recognize that few things truly "need" to be done.
+- ✅ Recognize that less than 20% of tasks truly "need" to be done.
 - ✅ Avoid describing others' work as "easy" when you wouldn't describe your own that way.
 - ✅ Watch for words that box people into absolutes during debates.
 
@@ -4488,7 +4488,7 @@ Negative reactions are almost always louder and more passionate than positive on
 
 ##### Example: "When you turn into one of these people who adds ASAP to the...
 
-"When you turn into one of these people who adds ASAP to the end of every request, you're saying everything is high priority. And when everything is high priority, nothing is. (Funny how everything is a top priority until you actually have to prioritize things.)"
+"When you add ASAP to the end of most or all requests, you're saying everything is high priority. And when everything is high priority, nothing is. (Funny how everything is a top priority until you actually have to prioritize things.)"
 
 ##### Example: "ASAP is inflationary. It devalues any request that doesn't ...
 
@@ -4539,9 +4539,9 @@ Negative reactions are almost always louder and more passionate than positive on
 
 "If you want to do something, you've got to do it now. You can't put it on a shelf and wait two months to get around to it."
 
-##### Example: "Later, you won't be pumped up about it anymore."...
+##### Example: "After a few days, you won't be pumped up about it anymore."...
 
-"Later, you won't be pumped up about it anymore."
+"After a few days, you won't be pumped up about it anymore."
 
 #### Steps
 
@@ -4873,7 +4873,7 @@ The creation of 37signals' own product suite (Basecamp, Highrise, etc.) because 
 
 ##### Example: "Subscribe to 37signals newsletters: Newsletter about new pr...
 
-"Subscribe to 37signals newsletters: Newsletter about new products, discounts, and more (sent out roughly twice a month)."
+"Subscribe to 37signals newsletters: Newsletter about new products, discounts, and additional updates (sent approximately twice per month)."
 
 #### Steps
 
@@ -5084,8 +5084,8 @@ The creation of 37signals' own product suite (Basecamp, Highrise, etc.) because 
 
 #### Keep In Mind
 
-- Bulk sales can be a significant revenue stream, especially for business books.
-- Corporate customers often buy books in large quantities for employees or clients.
+- Bulk sales can account for 10-20% of revenue for business books, especially for titles with strong corporate appeal.
+- Corporate customers buy books in quantities of at least 50 copies for employees or clients in most cases.
 
 #### Security & Safety Notes
 
@@ -5108,7 +5108,7 @@ The creation of 37signals' own product suite (Basecamp, Highrise, etc.) because 
 |**Advantages in disguise|** The concept that limitations can lead to better outcomes than unlimited resources|05|
 |**All Rights Reserved|** A statement indicating that the copyright holder retains all rights to the work.|14|
 |**Alone Zone|** A block of uninterrupted time where you can do deep, focused work without mind-shifting between tasks.|06|
-|**Anti-[competitor] positioning|** A branding strategy where you define yourself in opposition to a dominant competitor or industry norm.|07|
+|**Anti-dominant-competitor positioning|** A branding strategy where you define yourself in opposition to a dominant competitor or industry norm.|07|
 |**Arms race|** A competitive cycle where each player continuously adds more features, spending, or scale in response to rivals, leading to diminishing returns.|07|
 |**At-Home Good|** A product that delivers more value and satisfaction after purchase than it appeared to offer during the sales process.|08|
 |**Audience Engagement|** The ongoing interaction between a brand and its audience through comments, emails, and conversations.|14|
@@ -5137,7 +5137,7 @@ The creation of 37signals' own product suite (Basecamp, Highrise, etc.) because 
 |**Differentiation through conflict|** Using opposition to a competitor as the primary way to stand out in the market.|07|
 |**Enthusiasm Bias|** The tendency to overvalue ideas simply because they feel exciting in the moment.|08|
 |**Epicenter|** The core, irreducible element of your offering that cannot be removed without destroying the business|05|
-|**Estimation Error|** The tendency for humans to be dramatically wrong about how long tasks will take, often off by a factor of two or more.|06|
+|**Estimation Error|** The tendency for humans to be dramatically wrong about how long tasks will take, off by a factor of at least two in at least 50% of cases.|06|
 |**Faux finish|** A surface-level copy that lacks the substance and depth of the original.|07|
 |**Feature Creep|** The tendency to add more and more features to a product, often reducing its simplicity and focus.|14|
 |**Fresh Blood|** New customers who haven't yet discovered the product.|08|
@@ -5159,7 +5159,7 @@ The creation of 37signals' own product suite (Basecamp, Highrise, etc.) because 
 |**Intellectual Muscle-Flexing|** The temptation to use complex, impressive solutions even when simpler ones would work better.|06|
 |**Irreducible core|** The essential component that defines what you're selling|05|
 |**Iteration|** The process of improving a product through repeated cycles after launch rather than trying to perfect it beforehand|05|
-|**Judo Solution|** A solution that delivers maximum efficiency with minimum effort by leveraging the simplest available path to the desired outcome.|06|
+|**Judo Solution|** A solution that delivers high efficiency with low effort by leveraging a straightforward path to the desired outcome.|06|
 |**Kick-ass half|** A focused product that excels at its core function|05|
 |**Launch now|** The principle of releasing a product as soon as it fulfills its core function rather than waiting for perfection|05|
 |**Layers underneath|** The foundational reasoning, decisions, and context that produce the visible result.|07|
@@ -5290,7 +5290,7 @@ The creation of 37signals' own product suite (Basecamp, Highrise, etc.) because 
 |Organizational scar tissue|Policies that are overreactions to past incidents, often causing more harm than good.|12|
 |Out-teach|A competitive strategy focused on educating your audience rather than outspending rivals on advertising|09|
 |Outside Money / Seed Money|Capital raised from investors or external sources rather than self-funding|04|
-|Overnight success|A myth where instant fame and riches are expected; reality involves years of unseen work and slow growth|09|
+|Overnight success|A myth where instant fame and riches are expected; reality involves multiple years of unseen work and slow growth|09|
 |PR disaster|A public relations failure that damages a company's reputation due to poor handling of bad news.|11|
 |Passing Phase|A temporary interest that fades—side projects help distinguish real commitment from fleeting enthusiasm|04|
 |Patina|The natural, earned character of a culture that develops over time, as opposed to artificial paint.|12|
@@ -5324,7 +5324,7 @@ The creation of 37signals' own product suite (Basecamp, Highrise, etc.) because 
 |Superfans|Customers who passionately defend and promote your brand because they believe in what you stand for|04|
 |Sustainability|The ability of a business to continue operating profitably over the long term|04|
 |Sustainable Pace|A work rhythm that can be maintained indefinitely without burnout|02|
-|Sustained period|A continuous timeframe where workload exceeds capacity, indicating real need.|10|
+|Sustained period|A continuous timeframe (typically at least four weeks) where workload exceeds capacity, indicating real need.|10|
 |Technology Lock-in|Dependence on specific hardware, software, or vendors that makes switching costly or difficult|04|
 |Telephone distortion|The phenomenon where a message becomes increasingly distorted as it passes through multiple people.|11|
 |Temporary decisions|Decisions made for current circumstances that can be changed when conditions change.|12|
