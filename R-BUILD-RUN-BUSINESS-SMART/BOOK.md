@@ -2,7 +2,7 @@
 
 ## Overview
 
-Rework is a practical business manifesto by 37signals that challenges conventional wisdom about what it takes to build and run a successful company. Drawing from over a decade of real operating experience through multiple economic cycles, the authors argue that most business "requirements"—massive funding, large teams, five-year plans, and workaholic culture—are optional. Instead, they advocate for staying small, bootstrapping, launching quickly, and building products that solve real problems with less overhead than most people think is possible.
+Rework is a practical business manifesto by 37signals that challenges conventional wisdom about what it takes to build and run a successful company. Drawing from over a decade of real operating experience through 3-5 economic cycles, the authors argue that most business "requirements"—massive funding, large teams, five-year plans, and workaholic culture—are optional. Instead, they advocate for staying small, bootstrapping, launching quickly, and building products that solve real problems with less overhead than most people think is possible.
 
 ## When to Follow Book Teachings
 
@@ -856,7 +856,7 @@ James Dyson invented the bagless vacuum cleaner after experiencing firsthand tha
 
 ##### Example: Vic Firth began making better drumsticks while playing timpa...
 
-Vic Firth began making higher-quality drumsticks while playing timpani for the Boston Symphony Orchestra when commercial sticks didn't measure up; he dropped many on the floor and matched them by moisture content, weight, density, and pitch
+Vic Firth began making higher-quality drumsticks while playing timpani for the Boston Symphony Orchestra when commercial sticks didn't measure up; he dropped dozens on the floor and matched them by moisture content, weight, density, and pitch
 
 #### Steps
 
@@ -1175,7 +1175,7 @@ Apple, Google, and Amazon all started in garages—yours may be able to as well
 
 ##### Example: A startup is a place where you can spend other people's mone...
 
-A startup is often characterized by spending investor capital until the business generates sustainable revenue
+A startup is in many cases characterized by spending investor capital until the business generates sustainable revenue
 
 ##### Example: People with a "we'll figure out how to profit in the future"...
 
@@ -1228,7 +1228,7 @@ Aspiring businesspeople pin their hopes on selling out, but the odds of getting 
 
 ##### Example: Business owners who sell out sometimes retire for approximately six months and...
 
-Business owners who sell out sometimes retire for approximately six months and then get back in the game because they miss the thing they gave away, returning to run businesses that underperform their previous venture.
+Business owners who sell out in some cases retire for approximately six months and then get back in the game because they miss the thing they gave away, returning to run businesses that underperform their previous venture.
 
 #### Steps
 
@@ -1839,7 +1839,7 @@ Alaska Airlines built a warehouse full of cardboard mock-ups of their Airport of
 
 ##### Example: Furniture craftsman Sam Maloof said it was impossible to mak...
 
-Furniture craftsman Sam Maloof said it was impossible to make a working drawing that captured all the intricate details of a chair; he frequently didn't know how a certain area would be done until he started working with the actual tools.
+Furniture craftsman Sam Maloof said it was impossible to make a working drawing that captured all the intricate details of a chair; in many cases he didn't know how a certain area would be done until he started working with the actual tools.
 
 #### Steps
 
@@ -2789,7 +2789,7 @@ Dunkin' Donuts test-marketed pizza and hot dogs at just ten select locations bef
 
 ##### Example: Broadway shows routinely do trial runs in smaller cities bef...
 
-Broadway shows frequently do trial runs in smaller cities before opening in New York
+Broadway shows in most cases do trial runs in smaller cities before opening in New York
 
 ##### Example: "Would you want the whole world to watch you the first time ...
 
@@ -2935,7 +2935,7 @@ Emeril Lagasse, Mario Batali, Julia Child, and other well-known chefs became fam
 
 ##### Example: Many businesspeople are paranoid and secretive, but most don...
 
-Many businesspeople are paranoid and secretive, but in most cases they lack genuinely proprietary advantages worth protecting
+Most businesspeople are paranoid and secretive, but in most cases they lack genuinely proprietary advantages worth protecting
 
 #### Steps
 
@@ -3305,7 +3305,7 @@ Starbucks, Apple, Nike, Amazon, Google, and Snapple all became great brands over
 
 ##### Example: At 37signals, one of the founders spent a whole summer setti...
 
-At 37signals, one of the founders spent an entire summer (about three months) setting up servers before hiring a system administrator.
+At 37signals, one of the founders spent an entire summer (approximately three months) setting up servers before hiring a system administrator.
 
 ##### Example: For the first three years, one of the founders handled all c...
 
@@ -3870,7 +3870,7 @@ You can make up a fake project for the test-drive.
 
 ##### Example: Exxon Valdez (1989): Exxon waited weeks to respond, held new...
 
-Exxon Valdez (1989): Exxon waited multiple weeks to respond, held news briefings in a remote town, and created a PR disaster where the public believed the company was hiding something or didn't care.
+Exxon Valdez (1989): Exxon waited 2-3 weeks to respond, held news briefings in a remote town, and created a PR disaster where the public believed the company was hiding something or didn't care.
 
 ##### Example: Ashland Oil spill near Pittsburgh: Chairman John Hall went t...
 
