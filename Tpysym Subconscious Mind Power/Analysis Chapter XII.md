@@ -1,10 +1,8 @@
 Chapter XII: Scientists Use the Subconscious Mind
 
-ACTIONABLE LESSONS WITH STEP-BY-STEP INSTRUCTIONS
-=================================================
+## ACTIONABLE LESSONS WITH STEP-BY-STEP INSTRUCTIONS
 
-1. How to Receive Guidance from Your Subconscious Mind
-------------------------------------------------------
+## 1. How to Receive Guidance from Your Subconscious Mind
 When facing a difficult decision or an unsolved problem:
 
 Step 1: Quiet the mind and still the body.
@@ -19,16 +17,14 @@ Step 9: If you awaken without the answer, get busy with something else.
 Step 10: The answer will likely come into your mind when you are preoccupied with something else.
 
 
-2. How to Use Your Subconscious Mind to Find a Lost Object
-----------------------------------------------------------
+## 2. How to Use Your Subconscious Mind to Find a Lost Object
 Step 1: Prior to sleep, talk to your subconscious mind as you would talk to anyone.
 Step 2: Say: "You know all things; you know where [object] is, and you now reveal to me where it is."
 Step 3: Trust and believe in the subconscious mind's ability to answer.
 Step 4: Follow the inner voice or hunch when it comes, even if it seems strange.
 
 
-3. How to Turn a Request Over to Your Subconscious Mind
--------------------------------------------------------
+## 3. How to Turn a Request Over to Your Subconscious Mind
 Step 1: Prior to sleep, talk to your deeper mind.
 Step 2: State the request: "I now turn this request over to the subconscious mind. It knows just where [the answer/solution] is and reveals it to me."
 Step 3: Condense your request down to one word (e.g., "Answer").
@@ -37,8 +33,7 @@ Step 5: Lull yourself to sleep with the word.
 Step 6: When you awaken, follow the first overpowering hunch or inner awareness.
 
 
-4. How to Seek Guidance for Major Decisions
--------------------------------------------
+## 4. How to Seek Guidance for Major Decisions
 Step 1: Sit quietly in your armchair or at your desk.
 Step 2: Remember the universal law of action and reaction: your thought is the action; the response from your subconscious mind is the reaction.
 Step 3: Contemplate right action. The subconscious mind is reactive and reflexive; it responds by corresponding (law of correspondence).
@@ -46,8 +41,7 @@ Step 4: You will automatically experience a reaction or response within yourself
 Step 5: From that point onward, allow the subjective wisdom within you to direct and control your course of action.
 
 
-5. How to Develop and Perfect an Invention Using Your Subconscious
--------------------------------------------------------------------
+## 5. How to Develop and Perfect an Invention Using Your Subconscious
 Step 1: When an idea for a new invention comes into your mind, build it up in your imagination.
 Step 2: Know that your subconscious mind will reconstruct and reveal to your conscious mind all the parts needed for its manufacture in concrete form.
 Step 3: Quietly contemplate every possible improvement.
@@ -55,8 +49,7 @@ Step 4: Spend no time correcting defects.
 Step 5: Trust the subconscious to provide the perfect product of your mind.
 
 
-6. How to Avoid Delaying Answers from the Subconscious
-------------------------------------------------------
+## 6. How to Avoid Delaying Answers from the Subconscious
 Step 1: Do not expect to always get the answer overnight; answers may take time.
 Step 2: Every night, prior to sleep, turn the problem over to your subconscious mind as if you had never done it before.
 Step 3: Do not believe the problem is major or that it will take a long time to solve.
@@ -66,16 +59,14 @@ Step 6: Have an abiding faith in the outcome.
 Step 7: Become convinced now that there is an answer and a perfect solution.
 
 
-7. How to Use Disciplined Imagination to Access the Subconscious (Archaeological Method)
------------------------------------------------------------------------------------------
+## 7. How to Use Disciplined Imagination to Access the Subconscious (Archaeological Method)
 Step 1: Study the materials before you (ancient ruins, fossils, scrolls, etc.).
 Step 2: Engage in keen concentration and disciplined imagination.
 Step 3: Awaken the latent powers of your subconscious mind.
 Step 4: Through imaginative perception, allow your subconscious mind to aid you in reconstructing ancient scenes or hidden realities.
 
 
-KEY PRINCIPLES AND CONCEPTS
-============================
+## KEY PRINCIPLES AND CONCEPTS
 
 1. The subconscious mind has determined the success and achievements of all great scientific workers (Edison, Marconi, Kettering, Poincaré, Einstein, Tesla, Banting, Agassiz, von Blenk-Schmidt).
 
@@ -102,8 +93,7 @@ KEY PRINCIPLES AND CONCEPTS
 12. The subconscious mind has a memory of everything that has ever transpired and can reconstruct ancient scenes or hidden realities through disciplined imagination.
 
 
-BEST PRACTICES
-==============
+## BEST PRACTICES
 
 1. Gather all available information consciously through research and consultation before turning a problem over to the subconscious.
 
@@ -129,7 +119,6 @@ BEST PRACTICES
 
 
 COMMON PITFALLS
-===============
 
 1. Being fearful and worried — these are not true thinking and block the subconscious.
 
@@ -147,7 +136,6 @@ COMMON PITFALLS
 
 
 TECHNIQUES AND METHODS DESCRIBED
-=================================
 
 1. The One-Word Lullaby Technique
    - Condense your request to a single word.

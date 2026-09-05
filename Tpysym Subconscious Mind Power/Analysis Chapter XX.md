@@ -1,9 +1,7 @@
 Chapter XX: How To Stay Young In Spirit Forever
 From: The Power of Your Subconscious Mind by Dr. Joseph Murphy
 
-========================================
-ACTIONABLE LESSONS WITH STEP-BY-STEP INSTRUCTIONS
-========================================
+## ACTIONABLE LESSONS WITH STEP-BY-STEP INSTRUCTIONS
 
 1. Recognize that your subconscious mind is timeless, ageless, and endless. Accept that fatigue and old age cannot be predicated on any spiritual quality or power.
 
@@ -55,9 +53,7 @@ ACTIONABLE LESSONS WITH STEP-BY-STEP INSTRUCTIONS
 
 25. Realize that you are on an endless journey, a series of important steps in the ceaseless, tireless, endless ocean of life.
 
-========================================
-KEY PRINCIPLES AND CONCEPTS
-========================================
+## KEY PRINCIPLES AND CONCEPTS
 
 1. The subconscious mind is part of the universal mind of God - never born, never dying, timeless, ageless, and endless.
 
@@ -89,9 +85,7 @@ KEY PRINCIPLES AND CONCEPTS
 
 15. The fruits of the spirit are: love, joy, peace, patience, gentleness, goodness, faith, meekness, and temperance. Against such there is no law. (Galatians 5:22-23)
 
-========================================
-BEST PRACTICES MENTIONED
-========================================
+## BEST PRACTICES MENTIONED
 
 1. Welcome the change of aging joyfully and gladly.
 
@@ -123,9 +117,7 @@ BEST PRACTICES MENTIONED
 
 15. Ground yourself in the knowledge that life is eternal and your true nature is spiritual.
 
-========================================
-COMMON PITFALLS MENTIONED
-========================================
+## COMMON PITFALLS MENTIONED
 
 1. Falling into the mental attitude of futility and worthlessness - believing "We are born, grow up, become old, good for nothing, and that's the end."
 
@@ -159,9 +151,7 @@ COMMON PITFALLS MENTIONED
 
 16. Believing that 65, 75, or 85 years of age is synonymous with the end.
 
-========================================
-TECHNIQUES AND METHODS DESCRIBED
-========================================
+## TECHNIQUES AND METHODS DESCRIBED
 
 1. Affirmation Practice:
    - Replace negative age-related statements with positive affirmations.
@@ -218,9 +208,7 @@ TECHNIQUES AND METHODS DESCRIBED
     - Take up new creative pursuits and interests.
     - Shift focus from making a living to living life.
 
-========================================
-EXAMPLES AND EVIDENCE CITED
-========================================
+## EXAMPLES AND EVIDENCE CITED
 
 1. Medical research from De Courcy Clinic, Cincinnati, Ohio: Years alone are not responsible for degenerative disorders; fear of time is the harmful aging factor.
 
@@ -258,5 +246,4 @@ EXAMPLES AND EVIDENCE CITED
 
 18. An executive who viewed forced retirement at 65 as "promotion from kindergarten to the first grade" and went on to travel, lecture, and pursue photography.
 
-========================================
-END OF ANALYSIS
+## END OF ANALYSIS
