@@ -912,7 +912,7 @@ As you remain faithful in your mental attitude, your prayer will be answered. Do
 
 #### Keep In Mind
 
-- Prayer therapy involves directing both your conscious and subconscious mind toward a specific goal directed toward a specific goal
+- Prayer therapy involves directing both your conscious and subconscious mind toward a specific goal
 - Belief is a common principle across many religions and spiritual paths, and the law of life is belief — it is not the specific belief, but the strength of your belief that brings about the result
 - "It is done unto you as you believe" — Within this framework, your experiences are seen as reflections of your dominant thoughts
 - This framework interprets the Bible as emphasizing belief itself
