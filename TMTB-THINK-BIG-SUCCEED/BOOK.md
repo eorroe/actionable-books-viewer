@@ -6,7 +6,7 @@
 
 ## When to Follow Book Teachings
 
-- ✅ When you feel stuck in a rut, limited by your current circumstances, or convinced your goals are out of reach
+- ✅ When you feel stagnant and unable to make progress, limited by your current circumstances, or convinced your goals are out of reach
 - ✅ When you are leading or managing people and need to build confidence, eliminate fear, and inspire big thinking in others
 - ✅ When you are setting goals, making career decisions, or planning the next phase of your life and need a framework for thinking beyond perceived limits
 - ✅ When you catch yourself making excuses, blaming others, or retreating after setbacks
@@ -222,7 +222,7 @@ Schwartz introduces the concept of small-scope thinking and expansive thinking. 
 
 #### Step 1: Train Your Mind to See the Big Picture
 
-Each time you face a situation, force yourself to look beyond the immediate limitation. Ask: "What is the opportunity here? What could this become?" Practice big-picture thinking by writing down three possible "big" outcomes for every challenge you face.
+Each time you face a situation, force yourself to look beyond the immediate limitation. Ask: "What is the opportunity here? What could this become?" Practice big-picture thinking by writing down three possible "big" outcomes for most challenges you face.
 
 #### Step 2: Add Value to Everything You Do
 
@@ -238,7 +238,7 @@ Big thinking means consistently doing more than the minimum. Return borrowed ite
 
 #### Best Practices
 
-- ✅ Ask "How can I add value?" before beginning every task
+- ✅ Ask "How can I add value?" before beginning most tasks
 - ✅ Look at problems as opportunities in disguise
 - ✅ Think about how your work benefits the larger organization or community
 - ✅ Practice seeing possibilities rather than limitations
@@ -285,11 +285,11 @@ Schwartz points out that creative thinkers often appear to be "lazy" because the
 
 #### Step 1: Develop the "What If" Habit
 
-Train yourself to ask "What if?" in every situation. "What if I approached this differently? What if I combined two ideas? What if I removed this constraint?" Creative ideas begin with curiosity and the refusal to accept the status quo. Write down at least three "What if" questions for every challenge you face this week.
+Train yourself to ask "What if?" in every situation. "What if I approached this differently? What if I combined two ideas? What if I removed this constraint?" Creative ideas begin with curiosity and the refusal to accept the status quo. Write down at least three "What if" questions for most challenges you face this week.
 
 #### Step 2: Believe That Creative Solutions Exist
 
-Creative thinking requires the belief that better ways exist. If you believe a problem has no solution, you will stop looking. If you believe a solution exists, your unconscious pattern-recognition processes will work to find it. Approach every problem with the assumption that a better way is waiting to be discovered.
+Creative thinking requires the belief that better ways exist. If you believe a problem has no solution, you will stop looking. If you believe a solution exists, your mind will actively search for solutions, connecting ideas and noticing patterns you might otherwise miss. Approach every problem with the assumption that a better way is waiting to be discovered.
 
 #### Step 3: Combine Ideas Creatively
 
@@ -301,7 +301,7 @@ Keep an idea journal. Write down ideas as they occur to you, including those tha
 
 #### Best Practices
 
-- ✅ Ask "What if?" in every situation
+- ✅ Ask "What if?" in most situations
 - ✅ Believe that creative solutions often exist
 - ✅ Study successful ideas from other fields and look for connections
 - ✅ Keep an idea journal and review it regularly
@@ -348,11 +348,11 @@ The words you use to describe yourself shape your reality. People who habitually
 
 #### Step 1: Audit Your Self-Image
 
-Spend a day observing your self-talk. Every time you say something negative about yourself, write it down. Common patterns include "I am not good at...", "I always mess up...", "I am too old/young/inexperienced." Awareness is the first step to change.
+Spend a day observing your self-talk. When you notice yourself saying something negative about yourself, write it down. Common patterns include "I am not good at...", "I always mess up...", "I am too old/young/inexperienced." Awareness is the first step to change.
 
 #### Step 2: Replace Negative Self-Descriptions
 
-For every negative self-description, write a positive replacement. Instead of "I am not good at sales," write "I am developing my sales skills and improving every day." Instead of "I am too old to change careers," write "I have valuable experience that makes me an asset in any role." Repeat these new statements daily.
+For each negative self-description you notice, write a positive replacement. Instead of "I am not good at sales," write "I am developing my sales skills and improving every day." Instead of "I am too old to change careers," write "I have valuable experience that makes me an asset in any role." Repeat these new statements daily.
 
 #### Step 3: Act the Way You Want to Be
 
@@ -439,7 +439,7 @@ Be selective about the books you read, the media you consume, and the conversati
 
 #### Keep In Mind
 
-Environment is not just the physical space around you—it is also the people, information, and ideas that surround you. All of these forces shape your thinking, your attitudes, and your results. You likely have more control over your immediate environment—your physical space, social circles, and information inputs—than you realize. Manage it deliberately, and you will manage your results.
+Environment is not just the physical space around you—it is also the people, information, and ideas that surround you. These forces shape your thinking, your attitudes, and your results. You likely have more control over your immediate environment—your physical space, social circles, and information inputs—than you realize. Manage it deliberately, and you will manage your results.
 
 #### Security & Safety Notes
 
@@ -492,7 +492,7 @@ Before every interaction, ask yourself: "How can I help this person succeed?" Sh
 
 - ✅ Start each day with gratitude and positive affirmations
 - ✅ Replace "I can't" with "How can I?" in your vocabulary
-- ✅ Ask "How can I help?" in every professional interaction
+- ✅ Ask "How can I help?" in most professional interactions
 - ✅ Celebrate small wins to reinforce positive attitudes
 - ✅ Review your attitudes weekly and adjust where needed
 - ❌ Do not allow negative attitudes to become your default setting
@@ -529,7 +529,7 @@ Schwartz explains that a fundamental human need is to be appreciated and accepte
 
 ##### Example 2: Let Others Feel Important
 
-When you make others feel important, you create goodwill that multiplies. A simple genuine compliment, an expression of gratitude, or an act of recognition costs little but returns significant value in relationships. People who feel important around you will become your greatest allies.
+When you make others feel important, you create goodwill that compounds through repeated positive interactions. A simple genuine compliment, an expression of gratitude, or an act of recognition costs little but returns significant value in relationships. People who feel important around you will become your greatest allies.
 
 ##### Example 3: Think "You" Instead of "I"
 
@@ -679,9 +679,9 @@ Once you have analyzed the defeat and extracted the insight, recommit to your go
 
 #### Best Practices
 
-- ✅ Reframe every defeat as temporary rather than permanent
+- ✅ Reframe most defeats as temporary rather than permanent
 - ✅ Conduct objective analysis of what went wrong
-- ✅ Extract explicit lessons from every defeat
+- ✅ Extract explicit lessons from most defeats
 - ✅ Recommit promptly and take action on the next attempt
 - ✅ Keep a learning log to record insights from setbacks and the actions you will take next time
 - ❌ Do not allow a single setback to define your future
@@ -742,7 +742,7 @@ Review your goals weekly and your major goals monthly. Track your progress, cele
 
 #### Best Practices
 
-- ✅ Write all goals in the present tense as if you have already achieved them
+- ✅ Write your major goals in the present tense as if you have already achieved them
 - ✅ Review goals each morning before starting your day to keep them top of mind
 - ✅ Break major goals into action steps that require 30 minutes or less of focused effort each week
 - ✅ Track progress and celebrate completion of each major phase
@@ -763,7 +763,7 @@ Goal-setting should be balanced with flexibility. Rigid adherence to goals in th
 #### Common Pitfalls
 
 - **Problem:** Setting goals without action plans and then being surprised when nothing changes.
-  **Solution:** Every goal must have corresponding action steps. If you cannot name the first action, the goal is not ready.
+  **Solution:** Most effective goals have corresponding action steps. If you cannot name the first action, the goal is not ready.
 - **Problem:** Setting too many goals and spreading yourself too thin.
   **Solution:** Focus on 3-5 major goals at any given time. Quality of focus beats quantity of goals.
 - **Problem:** Abandoning goals when progress is slower than expected.
@@ -809,9 +809,9 @@ Develop the ability to articulate a vision with measurable outcomes and emotiona
 - ✅ See and communicate growth capacity in team members who show willingness to learn and improve
 - ✅ Develop and communicate a clear, compelling vision
 - ✅ Lead by example—your actions teach more than your words
-- ✅ Listen actively and value input from all levels
+- ✅ Listen actively and value input from multiple levels
 - ❌ Do not blame others when things go wrong
-- ❌ Do not control every detail without delegating authority, and do not second-guess completed work—trust your team and give them autonomy
+- ❌ Do not control most details without delegating authority, and do not second-guess completed work—trust your team and give them autonomy
 - ❌ Do not communicate only when there is a problem
 - ❌ Do not treat leadership as a status symbol—treat it as a responsibility to serve, develop others, and uphold integrity
 
