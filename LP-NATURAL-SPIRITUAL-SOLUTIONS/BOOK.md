@@ -2,11 +2,11 @@
 
 ## Overview
 
-The authors posit that beneath pain lies a healthy body, which readers may reveal through spiritual healing wisdom and natural remedies. Doreen Virtue and Robert Reeves, N.D. combine spiritual healing wisdom and natural remedies to guide readers from chronic and acute discomfort into lasting comfort. From the book's perspective, pain functions as a signal urging you to address physical, emotional, and energetic imbalances. Through herbal medicines, nutrition, exercise, detoxification, and angelic support, you can release pain and live a pain-free life. The authors use 'energetic' to refer to spiritual, emotional, and psychological factors within their healing framework.
+The authors posit that beneath pain lies a healthy body, which readers may reveal through spiritual healing wisdom and natural remedies. Doreen Virtue and Robert Reeves, N.D. (Doctor of Naturopathy) combine spiritual healing wisdom and natural remedies to guide readers from chronic and acute discomfort into lasting comfort. From the book's perspective, pain functions as a signal urging you to address physical, emotional, and energetic imbalances. Through herbal medicines, nutrition, exercise, detoxification, and angelic support, you can release pain and live a pain-free life. The authors use 'energetic' to refer to spiritual, emotional, and psychological factors within their healing framework.
 
 ## When to Follow Book Teachings
 
-- When you suffer from chronic or acute physical pain that prevents you from walking more than 100 meters (one standard city block), working, or sleeping
+- When you suffer from chronic or acute physical pain that may prevent you from walking more than 100 meters (one standard city block), working, or sleeping, according to the book's framework
 - When conventional pain medications mask symptoms without addressing root causes
 - When you want to reduce inflammation through diet, herbs, and supplements
 - When stress, emotional wounds, or energetic blocks present as physical discomfort
@@ -58,7 +58,7 @@ Before treating symptoms, investigate origins. Ask: When did the pain begin? Wha
 
 #### Keep In Mind
 
-- The angels only need a minimal willingness—even a level of 1 on a scale of 0 to 10, where 1 means openness to considering help (for example, reading this book or asking a question) and 10 means full commitment to all recommended practices—to begin creating positive changes in your life.
+- The angels only need a minimal willingness—even a level of 1 on a scale of 0 to 10, where 1 means openness to considering help (for example, reading this book or asking a question) and 10 means full commitment to all recommended practices—to begin creating positive changes in your life. 'Positive changes' are defined as any improvement in physical, emotional, or spiritual well-being, according to the book's framework.
 - From the book's spiritual-framework perspective, pain arises from the ego rather than functioning as a spiritual test.
 - Dis-ease (a state of imbalance) is different from disease (a medical label). You can correct dis-ease by restoring balance to body, mind, and spirit.
 
@@ -134,9 +134,9 @@ Repeat daily: "My back is flexible and strong," "My body is comfortable," "I fee
 
 #### Common Pitfalls
 
-- **Problem:** Believing that pain is inevitable with aging. **Solution:** Reframe this self-fulfilling prophecy. According to the book's framework, if your mind created the belief, your mind can change it. Focus on maintaining a youthful attitude of curiosity, openness, and willingness to learn and grow. In the book's framework, 'youthful spirit' means staying mentally and emotionally flexible regardless of physical age.
-- **Problem:** Using excess weight as an excuse for permanent pain. **Solution:** Carrying excess weight increases the load on your body and can contribute to pain. Address diet, stress, and hormonal balance to lose weight safely.
-- **Problem:** Sedentary lifestyle causing pelvic tilt and back strain. **Solution:** According to the book's framework, gentle yoga, Pilates, and regular walking may help correct misalignment. Even five minutes of movement every two hours may help reduce compression from prolonged sitting.
+- **Problem:** Believing that pain is inevitable with aging. **Solution:** Reframe this self-fulfilling prophecy. According to the book's framework, if your mind created the belief, your mind can change it. This is a spiritual-framework position, not a guaranteed outcome. Focus on maintaining a youthful attitude of curiosity, openness, and willingness to learn and grow. In the book's framework, 'youthful spirit' means staying mentally and emotionally flexible regardless of physical age.
+- **Problem:** Using excess weight as an excuse for permanent pain. **Solution:** Carrying excess weight (BMI over 25, or as defined by your healthcare provider) increases the load on your body and can contribute to pain. Address diet, stress, and hormonal balance to lose weight safely.
+- **Problem:** Sedentary lifestyle causing pelvic tilt and back strain. **Solution:** According to the book's framework, gentle yoga, Pilates, and regular walking may help correct misalignment over time with consistent practice. Even five minutes of movement every two hours may help reduce compression from prolonged sitting.
 
 ---
 
@@ -150,7 +150,7 @@ Robert Reeves reports that he loses all signs of bravery when shown a needle; he
 
 ##### Example 2: The Distracted Athlete
 
-In some reported cases, athletes do not realize they are injured until after the game; this illustrates the gate control theory of pain: the brain can be open or closed to receiving pain signals. Their brains are too preoccupied with other activities to acknowledge discomfort. This is based on the authors' observation, not a specific study. No specific athletes or studies are cited. 'Some reported cases' is an unbounded quantifier.
+In some reported cases, athletes do not realize they are injured until after the game; this illustrates the gate control theory of pain: the brain can be open or closed to receiving pain signals. Their brains are too preoccupied with other activities to acknowledge discomfort. This is based on the authors' observation, not a specific study. No specific athletes or studies are cited. 'Some reported cases' is an unbounded quantifier with no sample size.
 
 #### Step 1: Shift Your Focus from Pain to Joy
 
@@ -173,7 +173,7 @@ Practice therapeutic visualizations:
 
 #### Step 5: Take Time to Shine
 
-Schedule time for hobbies and play. Without passion, you may feel depleted and pain may arrive, according to the book's framework. 'Passion' means engaging in activities that bring you joy and purpose. Use affirmations: "My life fulfills me in all ways," "Each present moment brings me greater joy when I stay grounded in gratitude and awareness." "My career is deeply fulfilling and rewarding."
+Schedule time for hobbies and play. Without passion, you may feel depleted and pain may arrive, according to the book's framework. 'Passion' means engaging in activities that bring you joy and purpose. 'Joy' means activities you look forward to and feel energized after completing; 'purpose' means a stated personal mission or sense of meaning. Use affirmations: "My life fulfills me in all ways," "Each present moment brings me greater joy when I stay grounded in gratitude and awareness." "My career is deeply fulfilling and rewarding."
 
 #### Best Practices
 
@@ -198,7 +198,7 @@ Schedule time for hobbies and play. Without passion, you may feel depleted and p
 
 #### Common Pitfalls
 
-- **Problem:** According to the book's framework, focusing on pain as soon as you wake up attracts more pain. **Solution:** Begin each morning by expressing gratitude for blessings. Shift your mind toward love and happiness.
+- **Problem:** According to the book's framework, focusing on pain as soon as you wake up may attract more pain by reinforcing neural pathways associated with discomfort. **Solution:** Begin each morning by expressing gratitude for blessings. Shift your mind toward love and happiness.
 - **Problem:** Believing that because something caused pain in the past, it must do so again. **Solution:** Delete old associations. Remember the joy that the same event brought you.
 
 ---
@@ -225,11 +225,11 @@ Choose from meditation, tai chi, prayer, exercise, sunshine, and writing letters
 
 #### Step 3: Understand Inflammation's Dual Role
 
-Inflammation is both a helper (sending repair cells to damaged areas) and a hindrance (when chronic, it promotes disease and pain). According to the book's framework, reduce chronic inflammation by managing stress, exercising for 30 minutes per session, five days per week, and consuming omega-3 oils.
+Inflammation is both a helper (sending repair cells to damaged areas) and a hindrance (when chronic, it promotes disease and pain). According to the book's framework, reduce chronic inflammation by managing stress, exercising for 30 minutes per session, five days per week, and consuming omega-3 oils. Individual responses vary.
 
 #### Step 4: Start with Gentle Exercise
 
-Begin with gentle walking, then gradually incorporate more strenuous workouts. Regular exercise clears inflammation that would otherwise sit in your body. Refer to Chapter 7 for building an exercise regimen.
+Begin with gentle walking (10 minutes at a conversational pace), then gradually incorporate more strenuous workouts (20-30 minutes at moderate intensity). Regular exercise clears inflammation that would otherwise sit in your body. Refer to Chapter 7 for building an exercise regimen.
 
 #### Step 5: Supplement with Omega-3s
 
@@ -248,7 +248,7 @@ Consume flaxseed oil or fish oil to properly lubricate joints and release muscle
 #### Keep In Mind
 
 - When stress occupies your mental and emotional capacity, it can block space for love and healing. Regular stress-release practices create room for improved mood and reduced physical tension, according to the book's framework.
-- Sunshine provides serotonin (pain regulator) and vitamin D; according to the book's framework, avoid sunscreens containing oxybenzone, avobenzone, or other chemical filters; choose mineral-based options with zinc oxide or titanium dioxide instead.
+- Sunshine provides serotonin (pain regulator) and vitamin D; according to the book's framework, avoid sunscreens containing oxybenzone, avobenzone, or other chemical filters; choose mineral-based options with zinc oxide or titanium dioxide instead. This is the book's recommendation, not a universally accepted medical consensus. See the Glossary entry for 'Chemical Sunscreen Filters' for the basis of this claim.
 - The Law of Free Will means angels cannot interfere until you grant permission.
 
 #### Security & Safety Notes
@@ -285,7 +285,7 @@ Before taking herbs, hold them in your hands and breathe deeply. Call upon Archa
 
 #### Step 3: Use Ginger for Inflammation and Pain
 
-- Acute pain: Take 10 drops of ginger tincture in 60 ml of water; in their clinical experience, the authors have observed some users report relief within 15 minutes. This is anecdotal observation from a small number of users with no sample size provided, not a controlled trial result. Individual responses vary. 'Some users' is an unbounded quantifier with no sample size.
+- Acute pain: Take 10 drops of ginger tincture in 60 ml of water; in their clinical experience, the authors have observed some users report relief within 15 minutes. This is anecdotal observation from a small number of users with no sample size provided, not a controlled trial result. Individual responses vary. 'Some users' is an unbounded quantifier with no sample size or demographic.
 - Chronic pain: Take 25 drops of ginger tincture three times daily, or 1,000 mg capsules divided into two or three doses.
 - Avoid before surgery and if you have peptic ulcers due to its antiplatelet effects, which may increase bleeding risk during surgery.
 
@@ -299,7 +299,7 @@ Take 4,000 mg of boswellia daily, divided into two or three doses. According to 
 
 #### Step 6: Take Devil's Claw for Joint Pain
 
-Take 2.5 ml (½ teaspoon) of devil's claw liquid extract three times daily for 8 to 12 weeks. According to the book, a four-month clinical study found devil's claw provided pain relief comparable to a pharmaceutical arthritis drug, with fewer reported side effects. For the specific study details including the drug name, study authors, effect size, and confidence interval, see the Bibliography.
+Take 2.5 ml (½ teaspoon) of devil's claw liquid extract three times daily for 8 to 12 weeks. According to the book, a four-month clinical study found devil's claw provided pain relief comparable to a pharmaceutical arthritis drug, with fewer reported side effects. For the specific study details including the drug name, study authors, and effect size, see the Bibliography. The specific drug name is not provided in the main text.
 
 #### Step 7: Use Saint-John's-wort for Nerve Pain and Mood
 
@@ -315,8 +315,8 @@ Take 800 to 1,200 mcg daily in divided doses (400 mcg two or three times daily).
 
 #### Step 10: Supplement with Omega-3s, MSM, Magnesium, and Vitamin D
 
-- Omega-3s: 2,000 mg EPA (eicosapentaenoic acid) daily or two teaspoons flaxseed oil per day.
-- MSM (Methylsulfonylmethane): Start with 1.5 to 3 g daily, build to 3 g twice daily if pain remains at 4 or higher on a 0-10 scale after seven days at the starting dose.
+- Omega-3s: 2,000 mg EPA (eicosapentaenoic acid) daily of cold-pressed, organic flaxseed oil third-party tested for purity, or two teaspoons flaxseed oil per day.
+- MSM (Methylsulfonylmethane): Start with 1.5 to 3 g daily, build to 3 g twice daily if pain remains at 4 or higher on a 0-10 scale after seven days at the starting dose. This is based on the authors' clinical observation, not a standardized protocol.
 - Magnesium: 400 mg elemental magnesium daily, taken in the evening for optimal absorption.
 - Vitamin D: Start with 1,000 IU daily; get levels checked after three months of supplementation, then every six months thereafter.
 
@@ -333,15 +333,15 @@ Take 800 to 1,200 mcg daily in divided doses (400 mcg two or three times daily).
 
 #### Keep In Mind
 
-- Herbal medicines work with your body's multiple systems simultaneously rather than masking symptoms; they support the body's natural healing processes rather than suppressing them. According to the book's framework, this approach supports the digestive, immune, and nervous systems simultaneously, which is what the authors mean by 'holistic' action. The specific systems affected may vary by herb; see individual herb entries for details. 'Holistic' means addressing multiple body systems rather than targeting a single symptom.
+- According to the book's framework, herbal medicines work with your body's multiple systems simultaneously rather than masking symptoms; they support the body's natural healing processes rather than suppressing them. According to the book's framework, this approach supports the digestive, immune, and nervous systems simultaneously, which is what the authors mean by 'holistic' action. The specific systems affected may vary by herb; see individual herb entries for details. 'Holistic' means addressing multiple body systems rather than targeting a single symptom.
 - According to the book's spiritual framework, the more diluted a homeopathic remedy is, the more potent its energy becomes.
-- Plants have been used medicinally for over 2,000 years across diverse cultural traditions including Traditional Chinese Medicine, Ayurveda, and indigenous healing systems worldwide. When the authors refer to 'God's medicine,' they are expressing a spiritual perspective within their framework: herbal remedies they believe were created by God for healing. This is a spiritual designation, not a regulatory or clinical category.
+- Plants have been used medicinally for over 2,000 years across diverse cultural traditions including Traditional Chinese Medicine, Ayurveda, and indigenous healing systems worldwide. When the authors refer to 'God's medicine,' they are expressing a spiritual perspective within their framework: herbal remedies they believe were created by God for healing. This is a spiritual designation within the book's framework, not a regulatory or clinical category or a factual pharmacological claim.
 
 #### Security & Safety Notes
 
-- According to CDC data, pharmaceutical overdose caused 14,800 deaths in the U.S. in 2008, exceeding deaths from heroin and cocaine combined. For the specific CDC report, exact figures for all substances, and comparison methodology, see the Bibliography. The authors suggest that natural alternatives may carry lower risk of overdose and severe side effects compared to pharmaceutical pain medications, provided they are used as directed and under professional guidance. This is a comparative claim without quantified evidence or specific adverse-event rates for the named herbs.
+- According to CDC data, pharmaceutical overdose caused 14,800 deaths in the U.S. in 2008, exceeding deaths from heroin and cocaine combined. For the specific CDC report, exact figures for all substances, and comparison methodology, see the Bibliography. The authors suggest that natural alternatives may carry lower risk of overdose and severe side effects compared to pharmaceutical pain medications, provided they are used as directed and under professional guidance. This is a comparative claim without quantified evidence or specific adverse-event rates for the named herbs. No head-to-head study is cited.
 - Always check with a qualified healthcare professional before adding herbs or supplements to your regimen, especially if you have pre-existing conditions or take other medications.
-- Saint-John's-wort has clinically significant interactions with antidepressants (risk of serotonin syndrome), statins, oral contraceptives (reduced effectiveness), and other medications. 'Clinically significant' means the interaction may cause harm or reduce treatment effectiveness. Consult a qualified healthcare provider before use.
+- Saint-John's-wort has clinically significant interactions with antidepressants (risk of serotonin syndrome), statins, oral contraceptives (reduced effectiveness), and other medications. 'Clinically significant' means the interaction may cause harm or reduce treatment effectiveness at typical doses. Consult a qualified healthcare provider before use.
 
 #### Common Pitfalls
 
@@ -356,11 +356,11 @@ Take 800 to 1,200 mcg daily in divided doses (400 mcg two or three times daily).
 
 ##### Example 1: The Alkaline Diet and Rheumatoid Arthritis
 
-Clinical observations and patient reports indicate that some people with rheumatoid arthritis find symptom improvements after adopting an alkaline diet; individual results vary and no specific success rate is provided. No specific study is cited; results are anecdotal. 'Some people' refers to an unspecified subset of patients with no sample size, demographic, proportion, or success rate provided. No controlled trial data is provided. Nightshade family foods (potatoes, tomatoes, chilis, eggplant) contain inflammation-inducing alkaloids and may need to be avoided.
+Clinical observations and patient reports indicate that some people with rheumatoid arthritis find symptom improvements after adopting an alkaline diet; individual results vary and no specific success rate is provided. No specific study is cited; results are anecdotal. 'Some people' refers to an unspecified subset of patients with no sample size, demographic, proportion, or success rate provided. No controlled trial data is provided. See the Bibliography for any cited studies. Nightshade family foods (potatoes, tomatoes, chilis, eggplant) contain inflammation-inducing alkaloids and may need to be avoided.
 
 ##### Example 2: Lemon Water for Alkalinity
 
-Although lemons taste acidic, their organic acids are metabolized in the body to produce alkaline ash, which promotes an alkaline state. According to the book's framework, drinking half a fresh organic lemon squeezed into warm water first thing in the morning kick-starts digestion and helps the body rid itself of acids.
+Although lemons taste acidic, their organic acids are metabolized in the body to produce alkaline ash, which promotes an alkaline state. According to the book's framework, drinking half a fresh organic lemon squeezed into warm water first thing in the morning may kick-start digestion and help the body rid itself of acids.
 
 #### Step 1: Shift to an Alkaline Diet
 
@@ -368,11 +368,11 @@ Base your diet on organic fruits, vegetables, leafy greens, root vegetables, and
 
 #### Step 2: Drink Adequate Water
 
-Aim for half an ounce of water per pound of body weight (30 ml per kilogram). Use a stainless-steel or glass water bottle. Add freshly squeezed organic juice, lemon, lime, or mint to make it more appealing. Measure intake to ensure regular hydration.
+Aim for half an ounce of water per pound of body weight (30 ml per kilogram). Use a stainless-steel or glass water bottle. Add freshly squeezed organic juice, lemon, lime, or mint to make it more appealing. Measure intake to ensure regular hydration. Individuals with kidney, heart, or electrolyte conditions should consult a healthcare provider before applying this formula.
 
 #### Step 3: Choose High-Quality Water
 
-According to the book's framework, avoid tap water with fluoride and chemicals. Opt for natural spring water from underground sources. Filtered water is acceptable if you add back minerals with 1/4 teaspoon of Celtic, Atlantic, Himalayan, or Dead Sea salt. Avoid purified and distilled waters that lack minerals.
+According to the book's framework, avoid tap water with fluoride and chemicals. Opt for natural spring water from underground sources. This is the book's recommendation, not a universally accepted public-health guideline. Filtered water is acceptable if you add back minerals with 1/4 teaspoon of Celtic, Atlantic, Himalayan, or Dead Sea salt. Avoid purified and distilled waters that lack minerals.
 
 #### Step 4: Increase Endorphins Through Protein
 
@@ -393,7 +393,7 @@ Implement a rotational diet: after eating something, avoid it for 3 to 5 days. T
 - ✅ Measure and track your water intake
 - ✅ Consume protein at every meal
 - ✅ Call upon Archangel Raphael to help release food addictions
-- ❌ Do not consume "diet" or sugar-free products with additives such as aspartame, sucralose, or acesulfame potassium, which have been studied for potential health effects. Consult current research for specific findings. The book does not cite specific studies for these additives in the main text.
+- ❌ Do not consume "diet" or sugar-free products with additives such as aspartame, sucralose, or acesulfame potassium, which have been studied for potential health effects. Consult current research for specific findings. The book does not cite specific studies for these additives in the main text. No specific additives or studies are named.
 - ❌ Do not eat the same foods every day—rotate to avoid intolerances
 - ❌ Do not misinterpret thirst as hunger
 
@@ -422,15 +422,15 @@ Implement a rotational diet: after eating something, avoid it for 3 to 5 days. T
 
 ##### Example 1: Liver Cleanse for Persistent Pain
 
-If pain persists for more than 90 days despite other interventions, consider a liver cleanse. The 90-day threshold is the author's convention, not a medical standard; consult a healthcare provider for personalized guidance. The liver stores old toxins and energies that may be preventing healing. When too much toxicity accumulates, it becomes an obstacle to curing pain.
+If pain persists for more than 90 days despite other interventions, consider a liver cleanse. The 90-day threshold is the author's convention, not a medical standard; consult a healthcare provider for personalized guidance. The rationale for the 90-day threshold is not provided in the text. The liver stores old toxins and energies that may be preventing healing. When too much toxicity accumulates, it becomes an obstacle to curing pain.
 
 ##### Example 2: Detoxing from Unhealthy Relationships
 
-A patient of Robert Reeves had severe back pain that disappeared when she was with friends but returned as she approached home. She realized her pain was connected to resentment toward her husband's frequent golf trips (several times per week, according to the account). The exact frequency is not specified in the account. By releasing those thoughts and feelings, her pain diminished and her relationship strengthened.
+A patient of Robert Reeves had severe back pain that disappeared when she was with friends but returned as she approached home. She realized her pain was connected to resentment toward her husband's frequent golf trips (several times per week, according to the account). The exact frequency is not specified in the account. 'Several times per week' is an unbounded quantifier. No specific frequency is provided in the source account. By releasing those thoughts and feelings, her pain diminished and her relationship strengthened.
 
 #### Step 1: Understand the Purpose of Detoxification
 
-Detoxification removes substances that negatively impact your vitality. Toxins in the body can trigger inflammatory responses, which may contribute to pain and disease. This is a general claim; specific toxins and their effects vary widely. The book suggests that clearing away toxins may help clear away pain, according to its framework.
+Detoxification removes substances that negatively impact your vitality. Toxins in the body can trigger inflammatory responses, which may contribute to pain and disease. This is a general claim; specific toxins and their effects vary widely. The book suggests that clearing away toxins may help clear away pain, according to its framework. 'Toxins' refers to substances the book considers harmful; no specific chemical names or thresholds are provided.
 
 #### Step 2: Use Specific Herbs for Detoxification
 
@@ -474,7 +474,7 @@ According to the book's framework, parasites can cause undiagnosed pain, especia
 
 #### Step 7: Prescribe a Vacation and Schedule Fun
 
-Take time to relax—whether a weekend or a full vacation. Many people find their pain disappears on vacation and returns when they slip into old habits; this is a commonly reported patient experience with no specific study cited, not a guaranteed outcome. 'Many people' is an unbounded quantifier with no sample size or source. Schedule at least two 30-minute joy activities per week. Individual experiences vary; no controlled trial confirms this effect. This is anecdotal observation. Call upon angels: "Angels, please give me the time, money, transportation, and anything else I need to spend time doing the things I love."
+Take time to relax—whether a weekend or a full vacation. Many people find their pain disappears on vacation and returns when they slip into old habits; this is a commonly reported patient experience with no specific study cited, not a guaranteed outcome. 'Many people' is an unbounded quantifier with no sample size or source. Schedule at least two 30-minute joy activities per week. Individual experiences vary; no controlled trial confirms this effect. This is anecdotal observation. No specific study is cited. Replace 'Many people' with a specific sample size if citing a study. The claim is based on anecdotal observation, not a controlled trial. Call upon angels: "Angels, please give me the time, money, transportation, and anything else I need to spend time doing the things I love."
 
 #### Best Practices
 
@@ -501,7 +501,7 @@ Take time to relax—whether a weekend or a full vacation. Many people find thei
 
 #### Common Pitfalls
 
-- **Problem:** Continuing to ingest toxins while trying to detox. **Solution:** Remove fluoride, BPA, processed foods, and toxic relationships during your cleanse; the timing of each removal is flexible.
+- **Problem:** Continuing to ingest toxins while trying to detox. **Solution:** Remove fluoride, BPA, processed foods, and toxic relationships during your cleanse; the timing of each removal is flexible. 'Flexible' means there is no specified order or deadline; the book does not provide a recommended sequence. The book does not specify whether removals should be simultaneous or staggered.
 - **Problem:** Experiencing detox side effects and thinking the process is harmful. **Solution:** A minority of individuals report mild headaches, fatigue, or muscle aches during the first 3 to 5 days of detoxification; exact percentages vary by study and population. No specific percentage or study is cited in the text. The term 'minority' means less than 50% but the exact proportion is unknown. Work with a practitioner to manage these symptoms.
 - **Problem:** Believing you cannot afford a vacation or fun activities. **Solution:** Pray for provision. Simple activities like baths, reading, and nature walks are free and can support recovery.
 
@@ -517,7 +517,7 @@ Kevin Hunter felt a sharp pain near his ankle while jogging home from the gym. I
 
 ##### Example 2: Rachel's Spine Recovery
 
-Rachel Racklyeft fractured C7 through T5 vertebrae in a horse-riding accident. Despite severe pain and pharmaceutical medication, she focused on gratitude, communicated with angels, and committed to gentle movement. She was fitted with a back brace called "Bertha" for four months. After the brace was removed, she cleared self-limiting beliefs, let her true self shine, and gradually returned to full activity. Today she reports being pain-free, rides horses, and teaches at the gym.
+Rachel Racklyeft fractured C7 through T5 vertebrae in a horse-riding accident. Despite severe pain and pharmaceutical medication, she focused on gratitude, communicated with angels, and committed to gentle movement. She was fitted with a back brace called "Bertha" for four months. After the brace was removed, she cleared self-limiting beliefs, let her true self shine, and gradually returned to full activity. Today she reports being pain-free, rides horses, and teaches at the gym. The duration of follow-up is not specified in the account.
 
 #### Step 1: Set Movement Reminders
 
@@ -533,7 +533,7 @@ Chronic back pain can be linked to poor core strength, among other factors. Weak
 
 #### Step 4: Choose Activities You Enjoy
 
-Make workouts an activity you love (defined as an activity you look forward to and feel energized after completing, rather than dreading). Consider:
+Make workouts an activity you love (defined as an activity you look forward to and feel energized after completing, rather than dreading). 'Feel energized' is a subjective self-report; no objective criterion is provided. Consider:
 - **Tai chi:** Gentle Chinese movements that stretch muscles, increase flexibility, and improve balance while circulating chi (life force)—the vital energy flow described in traditional Chinese medicine.
 - **Yoga:** Connects breath with body positions (asanas). Beginner classes ensure safe, correct stretching.
 - **Pilates:** Uses stretches and repetition to increase flexibility, strength, and endurance through core control.
@@ -544,7 +544,7 @@ Start slowly. Do not feel you need to begin with intense, high-impact workouts. 
 
 #### Step 6: Incorporate Flexibility Training
 
-Stretching loosens muscle fibers and gives your body a wider range of motion. Tight, inflexible muscles are more likely to strain and tear. If you cannot touch your toes, your hamstrings may benefit from regular stretching; flexibility varies among individuals based on age, activity level, and genetics. No normative data is provided. Gentle stretches or a beginner yoga class can help immediately.
+Stretching loosens muscle fibers and gives your body a wider range of motion. Tight, inflexible muscles are more likely to strain and tear. If you cannot touch your toes, your hamstrings may benefit from regular stretching; flexibility varies among individuals based on age, activity level, and genetics. No normative data is provided. Touching one's toes is not a standardized flexibility test. Gentle stretches or a beginner yoga class can help immediately.
 
 #### Best Practices
 
@@ -616,7 +616,7 @@ Mix 2 drops peppermint, 10 drops chamomile, and 3 drops lavender into 1 cup orga
 #### Step 5: Explore Manual Therapies
 
 - **Massage:** Swedish massage for relaxation; remedial/deep-tissue for specific pain. According to the book's framework, best combined: remedial until muscle releases, then Swedish strokes.
-- **Bowen therapy:** Gentle, noninvasive Australian technique. Pauses between movements allow the body to absorb healing. Four or five treatments typically resolve complaints within 2-4 weeks; this is based on clinical observation, not a guaranteed outcome. Success rates vary depending on the condition being treated. No specific success-rate percentages are provided. 'Four or five' is an approximate range; 'typically' means in the majority of cases observed by the author.
+- **Bowen therapy:** Gentle, noninvasive Australian technique. Pauses between movements allow the body to absorb healing. Four or five treatments typically resolve complaints within 2-4 weeks; this is based on clinical observation, not a guaranteed outcome. Success rates vary depending on the condition being treated. No specific success-rate percentages are provided. 'Four or five' is an approximate range; 'typically' means in the majority of cases observed by the author. No empirical trial data is provided.
 - **Physiotherapy:** Isolates muscles, restores range of motion, uses assisted stretching and ultrasound.
 - **Chiropractic:** Addresses spinal structural imbalances. Find a chiropractor who tailors adjustments to your specific condition and holds a current, active license from your state or provincial licensing board.
 - **Acupuncture:** Thousands of years old; inserts tiny needles at specific meridian points to open energy flow. Ensure sanitary needle practices.
@@ -638,8 +638,8 @@ Pray: "Dear God and angels, please show me clear signs that I can easily underst
 
 #### Keep In Mind
 
-- Some natural therapies have demonstrated effectiveness in clinical practice according to the book's authors, even when the precise biological mechanisms are not yet fully elucidated by research. No specific therapies or studies are cited in the main text.
-- Healers vary in their training and dedication; verify credentials through recognized professional associations regardless of how many practitioners you consult.
+- Some natural therapies have demonstrated effectiveness in clinical practice according to the book's authors, even when the precise biological mechanisms are not yet fully elucidated by research. No specific therapies or studies are cited in the main text. Name at least one specific therapy and corresponding study, or remove the general claim. The claim is based on the authors' clinical observation, not a systematic review.
+- Healers vary in their training and dedication; verify credentials through recognized professional associations regardless of how many practitioners you consult. The book does not specify a maximum number of practitioners to consult.
 - Some intuitive therapists may be highly spiritual while maintaining professional boundaries and privacy.
 
 #### Security & Safety Notes
@@ -650,7 +650,7 @@ Pray: "Dear God and angels, please show me clear signs that I can easily underst
 
 #### Common Pitfalls
 
-- **Problem:** Using hot packs that mask pain temporarily but increase inflammation. **Solution:** Use cool packs chilled in the refrigerator for at least four hours (or overnight) to ensure consistent cooling. According to the book's spiritual-framework perspective on thermal therapy, ice packs may cause tissue damage due to rebound vasodilation.
+- **Problem:** Using hot packs that mask pain temporarily but increase inflammation. **Solution:** Use cool packs chilled in the refrigerator for at least four hours (or 8–12 hours overnight) to ensure consistent cooling. According to the book's spiritual-framework perspective on thermal therapy, ice packs may cause tissue damage due to rebound vasodilation.
 - **Problem:** Choosing a therapist based only on price or convenience. **Solution:** Ask angels for guidance and research credentials, current professional certifications, and ethical standards.
 - **Problem:** Expecting instant results from a single session. **Solution:** Bowen therapy effects may continue for 24–48 hours after a session; allow 3 to 5 days between sessions to let the body integrate the changes. The exact interval depends on your body's response; start with 3-4 days and adjust based on how you feel after each session.
 
@@ -662,7 +662,7 @@ Pray: "Dear God and angels, please show me clear signs that I can easily underst
 
 ##### Example 1: The Full-Moon Release Ceremony
 
-Write down specific pains, emotions, or patterns you wish to release; include enough detail to recognize when they are gone. Wrap the paper around the amethyst crystal or place the amethyst on top of the paper. In approximately one month (per the book's framework), read the list and check off what is no longer present in your awareness for at least 7 consecutive days. Throw away the paper. The one-month timeframe is the book's convention, not a clinically validated interval. 'Approximately' means 28 to 35 days.
+Write down specific pains, emotions, or patterns you wish to release; include enough detail to recognize when they are gone. Wrap the paper around the amethyst crystal or place the amethyst on top of the paper. In approximately one month (per the book's framework), read the list and check off what is no longer present in your awareness for at least 7 consecutive days. Throw away the paper. The one-month timeframe is the book's convention, not a clinically validated interval. 'Approximately' means 28 to 35 days. The rationale for the 28–35 day window is not provided in the text. The interval is based on the book's convention, not clinical research.
 
 ##### Example 2: Crystal Elixir for Healing Water
 
@@ -706,12 +706,12 @@ Supplies: white candle, pen, sheet of paper, amethyst crystal.
 4. Light the candle and gaze at the flame.
 5. Write at the top: "I am willing to let go and release." List all you no longer need.
 6. Lift the amethyst to the moon and say: "Amethyst, please transform all these negative thoughts and feelings into high energy, happiness, and health."
-7. Either wrap the paper around the amethyst crystal or place the amethyst on top of the paper; both are acceptable. Set it on a desk or shelf where you will see it a few times per day.
+7. Either wrap the paper around the amethyst crystal or place the amethyst on top of the paper; both are acceptable. Set it on a desk or shelf where you will see it at least three times per day.
 8. In one month, read the list, check off what is gone, and throw away the paper.
 
 #### Step 6: Create Moon-Blessed Water
 
-Place drinking water under the light of the full moon overnight, covered to prevent contamination. Some practitioners subjectively report that moon-blessed water tastes slightly sweeter and feels energetically distinct; this is a subjective experience from unnamed practitioners with no study cited. Drink it as a symbolic and intentional practice. 'Some practitioners' is an unbounded quantifier with no names or sample size.
+Place drinking water under the light of the full moon overnight, covered to prevent contamination. Some practitioners subjectively report that moon-blessed water tastes slightly sweeter and feels energetically distinct; this is a subjective experience from unnamed practitioners with no study cited. Drink it as a symbolic and intentional practice. 'Some practitioners' is an unbounded quantifier with no names or sample size. No specific practitioners are named.
 
 #### Best Practices
 
@@ -808,7 +808,7 @@ Spiritual healers channel Divine energy from the universe into you; this is a sp
 #### Common Pitfalls
 
 - **Problem:** Resisting healing because it does not arrive in the form you expected. **Solution:** Release control and allow the angels to do their work. Surrender to the process.
-- **Problem:** Believing you are unworthy of angelic help. **Solution:** Angels love everyone equally, were with you before you were born, and know your soul purpose perfectly; these are theological claims, not empirically verified facts.
+- **Problem:** Believing you are unworthy of angelic help. **Solution:** Angels love everyone equally, were with you before you were born, and know your soul purpose perfectly; these are theological claims, not empirically verified facts. The book teaches these as doctrinal positions.
 - **Problem:** Ignoring intuitive guidance to see a specific practitioner or try a specific remedy. **Solution:** Trust the inner nudge; it may be angelic direction.
 
 ---
@@ -865,8 +865,8 @@ Ask Archangel Michael to cut cords of fear daily. View people you were attached 
 
 #### Keep In Mind
 
-- Shielding is like locking your front door—it does not mean you anticipate attack; it means you choose what enters your space.
-- Shields typically last about 12 hours; reinvoke every 4 hours if you are in a high-stimulation environment (such as crowded events or conflict situations), or every 6 hours in normal conditions. These are subjective guidelines from the book's framework, not measured properties. 'Typically' means in the majority of cases observed by the authors. 'About' means approximately. No empirical data supports these timeframes.
+- Shielding is like locking your front door—it does not mean you anticipate attack; it means you choose what enters your space. The concrete action is to visualize a protective light around your aura and affirm your boundary.
+- Shields typically last about 12 hours; reinvoke every 4 hours if you are in a high-stimulation environment (such as crowded events, conflict situations, or negative environments that leave you feeling drained), or every 6 hours in normal conditions. These are subjective guidelines from the book's framework, not measured properties. 'Typically' means in the majority of cases observed by the authors. 'About' means approximately. No empirical data supports these timeframes. 'High-stimulation environment' means any environment that leaves you feeling energetically depleted or emotionally triggered. These are subjective estimates, not validated measurements.
 - Within cognitive-behavioral and New Thought frameworks, focused thoughts are believed to influence experience, with each thought functioning as an affirmation that contributes to what one manifests.
 
 #### Security & Safety Notes
@@ -888,11 +888,11 @@ Ask Archangel Michael to cut cords of fear daily. View people you were attached 
 
 ##### Example 1: The Aftermath of Pain
 
-When pain leaves your life, you may feel lost because it was your companion for so long (months or years), according to the book's framework. The book teaches that the angels guide you to move forward with changes that align you with greater peace; the word 'only' in the original text is retained as part of the book's doctrinal framing. If you make choices to "keep up with the Joneses" or because you feel unlovable, you are listening to the ego, not your angels. 'So long' means months or years, according to the book's framework.
+When pain leaves your life, you may feel lost because it was your companion for so long (typically 3–24 months for chronic pain, though it varies), according to the book's framework. The duration of pain companionship varies widely among individuals. The book teaches that the angels guide you to move forward with changes that align you with greater peace; the word 'only' in the original text is retained as part of the book's doctrinal framing. If you make choices to "keep up with the Joneses" or because you feel unlovable, you are listening to the ego, not your angels. 'So long' means months or years, according to the book's framework.
 
 ##### Example 2: Making Angels Part of Your Daily Routine
 
-Invite angels into your life daily: "Angels, I welcome you into my life today. Please walk with me each step I take and guide me along my path. Please help me in any way you can. I am willing to receive all the guidance and healing you have for me. Thank you." When you do this, some practitioners anecdotally report that physical comfort, promotions, and new friendships arise more easily; these are anecdotal outcomes from unnamed practitioners with no study cited, not guaranteed results. No specific practitioner names or studies are provided.
+Invite angels into your life daily: "Angels, I welcome you into my life today. Please walk with me each step I take and guide me along my path. Please help me in any way you can. I am willing to receive all the guidance and healing you have for me. Thank you." When you do this, some practitioners anecdotally report that physical comfort, promotions, and new friendships arise more easily; these are anecdotal outcomes from unnamed practitioners with no study cited, not guaranteed results. No specific practitioner names or studies are provided. No empirical data supports these claims. 'More easily' has no baseline or comparator defined.
 
 #### Step 1: Let Go of the Old Companion
 
@@ -922,9 +922,9 @@ Within the book's spiritual framework, all things about you are created perfectl
 
 #### Keep In Mind
 
-- Many people report that chronic pain becomes integrated into their identity, making it difficult to imagine life without it; this is a commonly reported experience in clinical psychology literature on pain identity (see references in the Bibliography). 'Many people' is an unbounded quantifier; see the Bibliography for specific studies.
+- Many people report that chronic pain becomes integrated into their identity, making it difficult to imagine life without it; this is a commonly reported experience in clinical psychology literature on pain identity (see references in the Bibliography). 'Many people' is an unbounded quantifier; see the Bibliography for specific studies. The Bibliography entry for 'Pain (Types of)' does not contain the cited studies on pain identity integration. Ensure the Bibliography contains the specific cited studies, or remove the claim if they cannot be located. The claim is based on clinical psychology literature; specific studies should be cited.
 - Within the book's spiritual framework, your soul is powerful and will help you through the next stage of healing. This is a doctrinal claim of the book's spiritual framework, not an empirically verified fact.
-- The book teaches that the more people you feel called to help, the more your ego may resist by telling you that you are not qualified, according to the book's framework. 'Feel called' means having an inner sense of purpose to serve others. 'The more...the more' is a correlational claim, not a proven causal relationship.
+- The book teaches that the more people you feel called to help, the more your ego may resist by telling you that you are not qualified, according to the book's framework. 'Feel called' means having an inner sense of purpose to serve others. 'The more...the more' is a correlational claim, not a proven causal relationship. No empirical study is cited for this claim.
 
 #### Security & Safety Notes
 
@@ -933,18 +933,18 @@ Within the book's spiritual framework, all things about you are created perfectl
 
 #### Common Pitfalls
 
-- **Problem:** Feeling empty or purposeless after pain leaves. **Solution:** Recognize that your experiences with pain may have made you compassionate and given you insight that can help others who suffer; compassion and qualification are subjective and context-dependent. Professional training and certification are separate from personal experience. This is a general observation, not a clinical guideline for provider qualification. 'Compassion' means empathy for others' suffering; 'qualification' means having the skills and knowledge to help.
+- **Problem:** Feeling empty or purposeless after pain leaves. **Solution:** Recognize that your experiences with pain may have made you compassionate and given you insight that can help others who suffer; compassion and qualification are subjective and context-dependent. Professional training and certification are separate from personal experience. This is a general observation, not a clinical guideline for provider qualification. 'Compassion' means empathy for others' suffering; 'qualification' means having the skills and knowledge to help. Professional certification or supervised training is required to provide care to others, regardless of personal experience.
 - **Problem:** Making ego-driven choices after healing. **Solution:** Before major decisions, ask: "Does this align me with greater peace, or am I trying to keep up with others?"
 
 ---
 
 ### Lesson 14: Appendix — Specific Areas of Pain and Their Healing Methods
 
-The appendix provides actionable prescriptions for specific body areas. Follow your intuition when assessing methods (pay attention to which methods you feel drawn to try); try one method at a time for 7 to 14 days before adding a second method, to isolate each intervention's effect, and track your pain levels in a journal using a 0-10 scale to determine which approaches provide measurable relief (defined as a reduction of at least 2 points). 'Intuition' means your inner sense of what is right for your body, distinct from preference or bias. Repeat affirmations 3-5 times per day and set phone reminders if helpful.
+The appendix provides actionable prescriptions for specific body areas. Follow your intuition when assessing methods (pay attention to which methods you feel drawn to try); try one method at a time for 7 to 14 days before adding a second method, to isolate each intervention's effect. Track your pain levels in a journal using a 0-10 scale to determine which approaches provide measurable relief (defined as a reduction of at least 2 points). 'Intuition' means your inner sense of what is right for your body, distinct from preference or bias. Repeat affirmations 3-5 times per day and set phone reminders if helpful.
 
 #### Allover Pain
 
-**Energetic Cause:** You need to release pressure. When emotional or energetic tension builds, release it through healthy outlets such as exercise, breathing, or emotional expression. 'Pressure' in this context means emotional or energetic tension, not physical pressure.
+**Energetic Cause:** You need to release pressure. When emotional or energetic tension builds, release it through healthy outlets such as exercise, breathing, or emotional expression. 'Pressure' in this context means emotional or energetic tension, not physical pressure. No specific threshold for tension is provided.
 
 **Natural Prescriptions:**
 - Take 25 drops of ginger tincture or 1,000 mg ginger supplement three times daily.
@@ -952,7 +952,7 @@ The appendix provides actionable prescriptions for specific body areas. Follow y
 - Take 4,000 mg boswellia in two or three doses throughout the day.
 - Consume turmeric in food and consider supplementation.
 - Take 400 mg magnesium daily.
-- Have a vitamin D screening; according to research cited in the book, vitamin D deficiency is associated with increased pain medication requirements. Verify the specific study details in the Bibliography. No specific study is cited in the main text; the claim is attributed circularly to 'research cited in the book.' See the Bibliography for the actual citation.
+- Have a vitamin D screening; according to research cited in the book, vitamin D deficiency is associated with increased pain medication requirements. Verify the specific study details in the Bibliography. No specific study is cited in the main text; the claim is attributed circularly to 'research cited in the book.' See the Bibliography for the actual citation. If the Bibliography does not contain the study, the claim is unverifiable from this document.
 - Take 10 drops of cramp bark three times daily.
 - Take 2 teaspoons corydalis for acute pain; reduce to ½ teaspoon in three divided doses throughout the following day (for example, morning, afternoon, and evening).
 
@@ -1001,7 +1001,7 @@ The appendix provides actionable prescriptions for specific body areas. Follow y
 
 #### Back, Lower
 
-**Energetic Cause:** Fears and worries about money (such as anxiety about paying bills, feeling unsafe about financial security, or belief that money is scarce). Difficulty moving forward after a traumatic experience (such as an accident, loss, or injury, defined as an event that causes significant emotional or physical distress). These are spiritual-framework interpretations, not medical diagnoses. If you experience these patterns, they may apply; if not, they may not. The book teaches this as a general energetic pattern, not a medical diagnosis.
+**Energetic Cause:** Fears and worries about money (such as anxiety about paying bills, feeling unsafe about financial security, or belief that money is scarce). Difficulty moving forward after a traumatic experience (such as an accident, loss, or injury, defined as an event that causes significant emotional or physical distress). These are spiritual-framework interpretations, not medical diagnoses. If you experience these patterns, they may apply; if not, they may not. 'Significant' is not defined by a clinical threshold in the text. The book teaches this as a general energetic pattern, not a medical diagnosis.
 
 **Natural Prescriptions:**
 - Take 4,000 mg boswellia in two or three doses daily.
@@ -1023,13 +1023,13 @@ The appendix provides actionable prescriptions for specific body areas. Follow y
 
 #### Back, Upper
 
-**Energetic Cause:** The book suggests that you may be the target of jealousy, with psychic-attack energy in your upper back and anxiety about speaking up and saying the truth; this is a spiritual interpretation, not a medical diagnosis.
+**Energetic Cause:** The book suggests that you may be the target of jealousy, with psychic-attack energy in your upper back and anxiety about speaking up and saying the truth (such as avoiding difficult conversations, fearing judgment, or physically tensing when you need to voice an opinion); this is a spiritual interpretation, not a medical diagnosis.
 
 **Natural Prescriptions:**
 - Relieve pain with 300-500 mg willow bark tablets or 20-30 drops of liquid extract.
 - Take 400 mg magnesium to lift the weight of the world from your shoulders.
 - Mix 1 teaspoon turmeric powder with yogurt or another fatty food daily.
-- Take 2 teaspoons corydalis for acute pain; reduce to ½ teaspoon in three divided doses throughout the following day (for example, morning, afternoon, and evening). Individual responses vary; based on the authors' clinical observation from an unspecified sample, not a controlled trial.
+- Take 2 teaspoons corydalis for acute pain; reduce to ½ teaspoon in three divided doses throughout the following day (for example, morning, afternoon, and evening). Individual responses vary; based on the authors' clinical observation from an unspecified sample, not a controlled trial. No specific study is cited for this dosing protocol. See the Bibliography for any cited studies.
 - Soften tension with one 30-minute Bowen therapy session, 60-minute remedial massage, or acupuncture treatment per week.
 
 **Spiritual and Energetic Solutions:**
@@ -1083,7 +1083,7 @@ The appendix provides actionable prescriptions for specific body areas. Follow y
 **Energetic Cause:** The book suggests that feeling your foundations are unstable—in relationships, career, or friendships (for example, relationship instability, job insecurity, or friendship conflict)—may contribute to hip pain; this is a spiritual energetic pattern, not a medical diagnosis.
 
 **Natural Prescriptions:**
-- Take 10,000 mg good-quality flaxseed oil daily (5,000 mg twice daily).
+- Take 10,000 mg cold-pressed, organic, third-party tested flaxseed oil daily. 'Cold-pressed, organic, third-party tested' are the quality criteria specified in the text. (5,000 mg twice daily).
 - Take 2 teaspoons corydalis for acute pain; reduce to ½ teaspoon in three divided doses throughout the following day (for example, morning, afternoon, and evening).
 - Add turmeric to foods; consider supplementation.
 
@@ -1118,7 +1118,7 @@ The appendix provides actionable prescriptions for specific body areas. Follow y
 **Energetic Cause:** The book suggests that feeling rushed, struggling to complete tasks, and having a sense of urgency (such as multitasking, deadline anxiety, or inability to slow down) may contribute to knee pain; this is a spiritual interpretation, not a medical diagnosis.
 
 **Natural Prescriptions:**
-- Start taking flaxseed oil: 3,000 mg daily in three divided doses (for example, with each meal); increase to 6,000 mg daily if pain persists after two weeks at the starting dose.
+- Start taking flaxseed oil: 3,000 mg daily in three divided doses (for example, with each meal); increase to 6,000 mg daily if pain remains at 4 or higher on a 0-10 scale after two weeks at the starting dose. This is based on the authors' clinical observation, not a standardized protocol.
 - Place a cool pack on your knee for 15-20 minutes each evening.
 - Prepare a salt pack for your knee 2-3 times per week, leaving it on for up to one hour each time.
 
@@ -1136,7 +1136,7 @@ The appendix provides actionable prescriptions for specific body areas. Follow y
 **Energetic Cause:** The book suggests that an unexpected change of life direction (such as job loss, relocation, relationship changes, or health diagnoses) may contribute to leg pain; this is a spiritual interpretation, not a medical diagnosis. Going with the flow of the new path is encouraged.
 
 **Natural Prescriptions:**
-- Massage a combination of lavender and chamomile essential oils (15 drops each in 1 ounce carrier oil) into your leg.
+- Massage a combination of 15 drops lavender and 15 drops chamomile essential oils diluted in 1 ounce of carrier oil. This ratio is the book's recommendation; no study is cited for this specific dilution. (15 drops each in 1 ounce carrier oil) into your leg.
 - Take 20 drops of ginger tincture three times daily in 60 ml (2 oz) of water or juice.
 
 **Spiritual and Energetic Solutions:**
@@ -1197,7 +1197,7 @@ The appendix provides actionable prescriptions for specific body areas. Follow y
 - Rub 5 drops chamomile essential oil onto your stomach.
 
 **Spiritual and Energetic Solutions:**
-- Inhale 2-3 drops of lavender essential oil from your palms for 3-5 deep breaths to promote calm within 2 to 5 minutes, according to the authors' observation.
+- Inhale 2-3 drops of lavender essential oil from your palms for 3-5 deep breaths to promote calm within 2 to 5 minutes, according to the authors' observation. The 2-5 minute timeframe is based on the authors' observation from an unspecified sample, not a controlled trial.
 - Listen to singing bowls to help regulate emotions and reduce fear; the sound vibrations are believed to shift you into a relaxed state.
 - Use Archangel Metatron's Sacred Beam of Light to clear chakras and release anxiety. This is a visualization exercise; 'clearing chakras' means visualizing dense or stagnant energy being removed and replaced with light.
 
@@ -1237,11 +1237,11 @@ The appendix provides actionable prescriptions for specific body areas. Follow y
 |Alternative Treatment|Non-conventional approaches to pain relief including herbs, supplements, nutrition, exercise, and spiritual healing.|v|
 |Amethyst|A purple crystal that transforms fear into love, transmutes low energy into joy, and protects against psychic attack.|186-190|
 |Angels|Beings of pure love and light created by God to help humans through earthly existence; bound by the Law of Free Will to intervene only with permission.|1-5, 165-170|
-|Archangel Michael|An archangel whose name means "He who is like God." 'Large' and 'powerful' are subjective descriptors from the book's spiritual framework, not measurable properties. He heals by releasing fear and negativity, protects through spiritual vacuuming, and severs etheric cords.|10, 168-170, 176-180|
+|Archangel Michael|An archangel whose name means "He who is like God." 'Large' and 'powerful' are subjective descriptors from the book's spiritual framework, not measurable properties. In reported visions, 'large' means appearing taller than a human; 'powerful' means associated with significant spiritual protection effects. He heals by releasing fear and negativity, protects through spiritual vacuuming, and severs etheric cords.|10, 168-170, 176-180|
 |Archangel Metatron|The prophet Enoch who ascended into the archangel realm; guides new spiritual learners and brings balance to chakras through the Sacred Beam of Light.|160-165|
 |Archangel Raphael|The archangel of healing whose name means "God heals." He works with emerald-green light to address physical, emotional, and spiritual pain.|10, 168-170, 175-178|
 |Back Pain (Lower)|Pain may be associated with fears and worries about money, according to the book's spiritual framework. This is not a medical diagnosis; treated with boswellia, turmeric, willow bark, magnesium, corydalis, cramp bark, garnet crystals, and yellow lilies.|244-247|
-|Back Pain (Upper)|Pain may be associated with jealousy, psychic-attack energy, or anxiety about speaking truth, according to the book's spiritual framework. This is not a medical diagnosis. The book uses 'often' to describe this association, but no specific frequency is cited; treated with willow bark, magnesium, turmeric, spiritual vacuuming, amethyst, and white-rose clearing.|247-249|
+|Back Pain (Upper)|Pain may be associated with jealousy, psychic-attack energy, or anxiety about speaking truth, according to the book's spiritual framework. This is not a medical diagnosis. The book uses 'often' to describe this association, but no specific frequency is cited. Remove the meta-commentary from the Glossary; the frequency should be addressed in the main text or with a specific citation; treated with willow bark, magnesium, turmeric, spiritual vacuuming, amethyst, and white-rose clearing.|247-249|
 |Bentonite Clay|A type of clay formed from weathered volcanic ash; used in some detoxification protocols for its purported ability to absorb toxins through the skin or digestive tract. Not specifically covered in this book; see "Detoxification" for general methods.|171|
 |BIBLIOGRAPHY|A list of scientific references and research studies supporting the book's claims about herbs, supplements, and pain management.|251-253|
 |Bioflavonoids|Plant compounds that support cardiovascular health and may reduce inflammation; found in citrus fruits, berries, and dark chocolate. Not specifically covered in this book; see "Nutrition" for general dietary guidelines.|125|
@@ -1273,7 +1273,7 @@ The appendix provides actionable prescriptions for specific body areas. Follow y
 |Ego|The fear-based voice within that says "You're not good enough," "You'll never be well," and "Nobody loves you." It is the opposite of God's pure love and the underlying cause of pain.|3-5, 28-30|
 |Electrolytes|Minerals needed for nerve and muscle function, hydration, blood pH regulation, and tissue repair; lost through sweat and replenished naturally with lemon, lime, and Himalayan salt.|128-130|
 |Essential Oils|Potent plant concentrates with physical and energetic healing properties (as defined in the book's spiritual framework); used in diffusers, carrier oils, and baths for pain relief.|98-105|
-|Etheric Cords|Negative, fear-based attachments that look like tubes connecting you to people, places, or objects (metaphorical description); this is a spiritual framework concept, not a physical phenomenon. they drain vitality and cause unexplained pain; severed by Archangel Michael.|180-183|
+|Etheric Cords|Negative, fear-based attachments that look like tubes connecting you to people, places, or objects (metaphorical description); this is a spiritual framework concept, not a physical phenomenon. They drain vitality and cause unexplained pain; severed by Archangel Michael. 'They' refers to etheric cords; the antecedent is now clear.|180-183|
 |Exercise|Gentle movement that loosens tight muscles, lubricates joints, regulates metabolism, and releases endorphins; essential for pain recovery and prevention.|151-166|
 |Fear|The energy of the ego; lowers vibration, attracts negative energy, and manifests as physical pain; released through prayer, angelic assistance, and love-based thinking.|28-31, 207-210|
 |Flaxseed Oil|An omega-3-rich oil containing approximately 55–60% alpha-linolenic acid that lubricates joints, reduces inflammation, and nourishes the body; ideal dose is two teaspoons (approximately 2,000 mg) daily in divided doses. See individual body-area prescriptions for conditions requiring higher doses.|97-98|
@@ -1314,7 +1314,7 @@ The appendix provides actionable prescriptions for specific body areas. Follow y
 |Red Clover|An herb that clears toxins and regulates female hormones; excellent during and after menopause when hormonal fluctuations cause pain and fatigue.|176|
 |Rose Quartz|A crystal that opens your heart and lets peace settle in; love-based thoughts and actions accelerate physical healing.|186|
 |Saint-John's-wort|An herb used by the authors for nerve pain and mood support; take 7 drops liquid extract three times daily for 8 to 12 weeks. Caution: interacts with antidepressants (risk of serotonin syndrome), statins, and oral contraceptives (reduced effectiveness).|90-91|
-|SAMe (S-Adenosyl Methionine)|A compound that reduces inflammation, boosts feel-good hormones, and lifts depression; take 800-1,200 mcg daily in divided doses; the book reports it may offer comparable effects to some NSAIDs with fewer side effects. For the specific study details, see the Bibliography.|94-95|
+|SAMe (S-Adenosyl Methionine)|A compound that reduces inflammation, boosts feel-good hormones, and lifts depression; take 800-1,200 mcg daily in divided doses; the book reports it may offer comparable effects to some NSAIDs with fewer side effects. For the specific study details, see the Bibliography. If the Bibliography does not contain the study, the claim is unverifiable from this document.|94-95|
 |Sea-Salt Pack|A warm pack made by mixing 1 cup fine-grain Celtic/Atlantic/Himalayan/Dead Sea salt with 1 tablespoon boiling water; applied to painful areas for up to one hour to relax muscles and reduce inflammation.|98-99|
 |Selenite|A crystal wand excellent for clearing psychic attacks; draw it through your aura to pull out projections of fear and strengthen your sense of Divine power.|213-214|
 |Sensitivity|The trait of being easily affected by others' emotional energy; lightworkers and healers must honor their sensitivity through shielding, cord-cutting, and surrounding themselves with high-energy people.|207-210|
