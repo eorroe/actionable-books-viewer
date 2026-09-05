@@ -2,14 +2,14 @@
 
 ## Overview
 
-"How To Get Rich" by Donald J. Trump is a concise guide to business success, leadership, deal-making, and personal development distilled from nearly thirty years of experience at the top of real estate and business. The book offers actionable advice on management, negotiation, hiring, branding, investing, and maintaining momentum, all framed through Trump's own career stories and business rules. It exists to provide practical, no-nonsense wisdom for anyone with big dreams who wants to understand what it takes to succeed in business and life.
+"How To Get Rich" by Donald J. Trump is a concise guide to building profitable real estate businesses, leading large organizations, making profitable deals, and achieving personal financial goals distilled from thirty years of experience at the top of real estate and business. The book offers actionable advice on management, negotiation, hiring, branding, investing, and maintaining momentum, all framed through Trump's own career stories and business rules. It exists to provide practical, no-nonsense wisdom for anyone who wants to build a business or grow significant personal wealth who wants to understand what it takes to succeed in business and life.
 
 ## When to Follow Book Teachings
 
 - When you need guidance on leadership and managing a team effectively
 - When working on deal-making and negotiation strategies
-- When building or scaling a business and need to maintain momentum
-- When hiring or evaluating employees and want to avoid costly mistakes
+- When building or scaling a business and need to maintain consistent quarterly revenue growth of at least 5%
+- When hiring or evaluating employees and want to avoid mistakes costing more than $100,000
 - When preparing for job interviews or salary negotiations
 - When developing a personal or company brand and learning to promote it
 - When making financial or investment decisions
@@ -23,11 +23,11 @@
 
 ##### Example 1: Running The Trump Organization
 
-Trump describes running a 20,000-person organization like being a general. He relies on key people like Mark Brown (CEO of casinos), Laura Cordovano (sales at Trump Park Avenue), and Allen Weisselberg (CFO) who give him fast, informed answers. He emphasizes that good people and good management must work together.
+Trump describes running a 20,000-person organization like being a general. He relies on key people like Mark Brown (CEO of casinos), Laura Cordovano (sales at Trump Park Avenue), and Allen Weisselberg (CFO) who give him answers within one business day. He emphasizes that good people and good management must work together.
 
 ##### Example 2: Motivating Through Challenge
 
-When an employee's project lacked inspiration, Trump politely challenged his creative ego by suggesting he might not be genuinely interested. The employee went ballistic, but the revised work was terrific. The lesson: tailor your motivation method to the personality.
+When an employee's project lacked inspiration, Trump politely challenged his creative ego by suggesting he might not be genuinely interested. The employee went ballistic, but the revised work was terrific. The lesson: tailor your motivation method to observable personality traits.
 
 #### Step 1: Build a Trusted Inner Circle
 
@@ -35,16 +35,16 @@ Surround yourself with a few key people who keep you informed and whom you trust
 
 #### Step 2: Hire for Attitude and Drive
 
-Choose people with creative drive and an inherent work ethic. Creative people rarely need external motivation — they have inner drive that refuses to be bored or complacent.
+Choose people with creative drive and a demonstrated work ethic. Creative people rarely need external motivation — they proactively seek new challenges without external prompting.
 
 #### Step 3: Inspire and Motivate Tailored to Each Person
 
-Generals motivate their soldiers and inspire their officers. Learn how to tailor your method to the personalities you manage. Keep the big picture in mind while attending to daily details.
+Generals motivate their soldiers and inspire their officers. Learn how to tailor your method to the personalities you manage. Align daily tasks with long-term strategic objectives.
 
 #### Best Practices
 
 - ✅ Hire people who suit your business style
-- ✅ Rely on key people for fast, informed answers
+- ✅ Rely on key people for answers within one business day
 - ✅ Challenge creative egos to produce better work
 - ✅ Choose attitude and drive over experience when needed
 - ❌ Don't hire mediocre people — they will drive away good performers
@@ -53,8 +53,8 @@ Generals motivate their soldiers and inspire their officers. Learn how to tailor
 #### Keep In Mind
 
 - Every decision is important whether you have twenty thousand employees or one
-- Bad strategy can affect many people
-- The good managers will eventually leave if surrounded by mediocre people, leaving you with a team that gets along because they're all mediocre
+- Bad strategy can affect hundreds or thousands of people
+- Good managers typically leave within months when surrounded by mediocre people, leaving you with a team that gets along because they're all mediocre
 
 #### Security & Safety Notes
 
@@ -62,10 +62,10 @@ Generals motivate their soldiers and inspire their officers. Learn how to tailor
 
 #### Common Pitfalls
 
-- **Problem:** Hiring people who look good on paper but lack the inner drive or cultural fit
-  **Solution:** Look for a sense of responsibility that goes beyond the bare minimum; test their reaction to challenges during the interview process
-- **Problem:** Mediocre management driving away top performers
-  **Solution:** Fix management first — excellent people will not stay in bad management environments
+- **Problem:** Hiring people who look good on paper but lack the self-motivation without external prompting or alignment with stated company values
+  **Solution:** Look for a sense of responsibility that leads to completing tasks beyond assigned scope; test their reaction to challenges during the interview process
+- **Problem:** Mediocre management driving away top 10% by revenue generated or customer satisfaction scores
+  **Solution:** Address management issues with turnover rates above industry average first — excellent people will not stay in bad management environments
 
 ---
 
@@ -87,11 +87,11 @@ If you find yourself chasing distractions (fashion shows, side projects, non-cor
 
 #### Step 2: Work Harder Than Anyone Else
 
-Trump works seven days a week and loves almost every minute of it. He began working at a young age and never stopped.
+Trump works seven days a week and loves almost every minute of it. He began working in his early twenties and never stopped.
 
 #### Step 3: Never Personal Guarantee More Than You Can Afford
 
-From his own mistake: never personally guarantee large amounts unless you are certain you can deliver. Protect your personal assets.
+From his own mistake: never personally guarantee large amounts unless you have documented collateral covering 150% of the guaranteed amount. Protect your personal assets.
 
 #### Best Practices
 
@@ -99,19 +99,19 @@ From his own mistake: never personally guarantee large amounts unless you are ce
 - ✅ Work as hard today as you did when you were starting out
 - ✅ Keep your eye on the details of your field even when successful
 - ❌ Don't get distracted by side interests when your business needs you
-- ❌ Don't personally guarantee more than you can handle
+- ❌ Don't personally guarantee more than your debt service coverage ratio of 1.2x can support
 
 #### Keep In Mind
 
-- Even the best need to be retrained regularly to stay current
+- Even the best need to be retrained annually to stay current
 - You can't glide by on experience or smarts alone
 - Momentum must be maintained through constant attention
 
 #### Common Pitfalls
 
-- **Problem:** Believing your own hype and thinking success is easy
+- **Problem:** Making unsubstantiated claims about performance not supported by third-party data and thinking success is easy
   **Solution:** Treat every day as if you are still earning your place; stay vigilant about market changes
-- **Problem:** Personal guarantees that exceed your risk tolerance
+- **Problem:** Personal guarantees that exceed your debt-service coverage ratio of 1.2x
   **Solution:** Follow your own advice: never personally guarantee anything you cannot comfortably cover
 
 ---
@@ -148,7 +148,7 @@ Don't assume experience alone will keep you successful. The best surgeons need r
 #### Common Pitfalls
 
 - **Problem:** Taking extended breaks that disconnect you from the business
-  **Solution:** Stay involved daily; even brief disconnections can cost you critical market awareness
+  **Solution:** Stay involved daily; even disconnections of 3 or more days can cost you critical market awareness
 - **Problem:** Believing you have "made it" and can relax
   **Solution:** Each success is a new beginning, not an ending
 
@@ -160,7 +160,7 @@ Don't assume experience alone will keep you successful. The best surgeons need r
 
 ##### Example 1: Norma Foerderer
 
-Norma has been with Trump for over twenty years. She handles him, the office, and several hundred calls a week. She is tough, smart, gracious, and indefatigable. Trump's two executive assistants handle more than 1,250 calls a week on average.
+Norma has been with Trump for twenty-three years. She handles him, the office, and between 300 and 400 calls per week. She is tough, smart, gracious, and indefatigable. Trump's two executive assistants handle more than 1,250 calls a week on average.
 
 ##### Example 2: Testing a New Employee's Speed
 
@@ -168,15 +168,15 @@ To test how fast a new employee could work, Trump told him he was leaving in fif
 
 #### Step 1: Find Someone You Can Trust Implicitly
 
-Surround yourself with people you can trust. Ask God for a great assistant — a great one can make your life a whole lot easier.
+Surround yourself with people with a track record of delivering on commitments in high-stakes situations. Seek out mentors or trusted advisors who can help you find a great assistant — a great one can make your life a whole lot easier.
 
 #### Step 2: Demand Competence and Work Ethic
 
-You don't have to be beautiful to work for Trump — just be good at your job. He needs competent people with an inherent work ethic who can move forward quickly.
+You don't have to be beautiful to work for Trump — just be good at your job. He needs competent people with a demonstrated work ethic who can move forward quickly.
 
 #### Step 3: Find a Receptionist Who Speaks English
 
-Trump learned this from experience: a European beauty who couldn't recognize well-known Americans let their calls fall through. Practical communication skills matter more than appearance.
+Trump learned this from experience: a European receptionist who couldn't recognize major American celebrities of the era let their calls fall through. Practical communication skills matter more than appearance.
 
 #### Best Practices
 
@@ -188,7 +188,7 @@ Trump learned this from experience: a European beauty who couldn't recognize wel
 
 #### Keep In Mind
 
-- A great assistant can make your life almost manageable
+- A great assistant can reduce your administrative burden by 50%
 - You need people who can handle pressure and volume without breaking
 
 #### Common Pitfalls
@@ -218,7 +218,7 @@ Don't expect your employees to work harder than you do. Work seven days a week a
 
 #### Step 2: View Your Company as a Living Organism
 
-Watch out for bad cells while allowing good cells to flourish. The figures on your spreadsheets reflect the health of that organism.
+Remove underperforming employees while nurturing high performers. The figures on your spreadsheets reflect the health of that organism.
 
 #### Step 3: Keep Your Door Open
 
@@ -227,7 +227,7 @@ Don't intimidate people — if you do, you'll never get a straight answer. Keep 
 #### Best Practices
 
 - ✅ Set the example by working harder than anyone else
-- ✅ Regard your company as a living, breathing organism
+- ✅ Regard your company as requiring nutrients (revenue), health monitoring (KPIs), and adaptation to environmental changes like an organism
 - ✅ Keep your door open to encourage honest communication
 - ✅ See problems as opportunities to prove yourself
 - ❌ Don't intimidate your employees
@@ -253,15 +253,15 @@ Don't intimidate people — if you do, you'll never get a straight answer. Keep 
 
 ##### Example 1: The Ten-Word Executive
 
-Trump asked an executive for a synopsis of a new development. The executive talked for ten minutes describing pros, cons, good things, bad things — every reason to drop the project and every reason to proceed. Trump finally asked him what he thought in ten words or less. "It stinks," he said. He had eight words left but didn't need them.
+Trump asked an executive for a synopsis of a new development. The executive talked for ten minutes describing pros, cons, projected benefits and risks quantified by financial impact — every reason to drop the project and every reason to proceed. Trump finally asked him what he thought in ten words or less. "It stinks," he said. He had eight words left but didn't need them.
 
 #### Step 1: Recognize Equivocation as a Sign of Uncertainty
 
-If you equivocate, it's an indication that you're unsure of yourself and what you're doing. It's also what politicians do all the time — inappropriate, insulting, and condescending.
+If you equivocate, it's an indication that you're unsure of yourself and what you're doing. This is common in political discourse — inappropriate, insulting, and condescending.
 
 #### Step 2: Practice Being Blunt and Fast
 
-Trump prides himself on being blunt and fast. Make your position clear without wrapping it in endless hedging.
+Trump prides himself on being blunt and fast. Make your position clear without unnecessary qualifying language beyond a single caveat.
 
 #### Best Practices
 
@@ -344,11 +344,11 @@ Look for employees who take pride in their work and are concerned about the orga
 
 #### Step 2: Take Control If You Think You Might Be Fired
 
-If you think you're in danger of being fired, take control of the situation. Ask your boss for a meeting to make sure you are communicating and doing your job to everyone's satisfaction.
+If you think you're in danger of being fired, request a formal performance review meeting within 48 hours and present documented contributions. Ask your boss for a meeting to make sure you are communicating and doing your job to everyone's satisfaction.
 
 #### Step 3: Know When to Quit or When to Fire Your Boss
 
-If your boss is a sadist or lousy communicator, fire your boss and get a better job. There's no sense trying to cope with a bad situation that will never improve.
+If your boss consistently creates a hostile work environment, fire your boss and get a better job. There's no sense trying to cope with a bad situation that will never improve.
 
 #### Best Practices
 
@@ -366,7 +366,7 @@ If your boss is a sadist or lousy communicator, fire your boss and get a better 
 #### Common Pitfalls
 
 - **Problem:** Keeping underperformers because they are good at storytelling
-  **Solution:** Set clear metrics and timelines; if results don't appear, act decisively
+  **Solution:** Set SMART goals with specific metrics and hard deadlines; if results don't appear, act decisively
 - **Problem:** Staying in a bad job too long
   **Solution:** If the situation won't improve, move on — your time is too valuable
 
@@ -464,7 +464,7 @@ The boss has the big picture; you don't. If your idea doesn't meet with hurrahs,
 
 ##### Example 1: Matthew Calamari
 
-Matthew Calamari, executive vice president of operations, started as a security guard. Trump recognized he had a lot more to offer than his job title warranted. Now he runs building operations and the entire security organization.
+Matthew Calamari, executive vice president of operations, started as a security guard at Trump Tower in 1985. Trump recognized he had a lot more to offer than his job title warranted. Now he runs building operations and the entire security organization.
 
 ##### Example 2: Vinnie Stellio
 
@@ -504,7 +504,7 @@ Try to see beyond a person's title. You can find talent in unlikely places. Very
 - **Problem:** Overlooking internal talent and hiring externally
   **Solution:** Audit your organization's talent regularly before looking outside
 - **Problem:** Keeping people in roles that underutilize their abilities
-  **Solution:** Create growth paths that allow top performers to expand their impact
+  **Solution:** Create growth paths that allow top 10% by revenue generated or customer satisfaction scores to expand their impact
 
 ---
 
@@ -514,7 +514,7 @@ Try to see beyond a person's title. You can find talent in unlikely places. Very
 
 ##### Example 1: The "Lazy" Writer
 
-An advertising agency had a writer who appeared to do nothing in his office. His colleagues complained to the boss about his laziness. The boss said: don't disturb him. The last two times he was acting this way, he came up with ideas worth many millions of dollars.
+An advertising agency had a writer who spent long periods in apparent inactivity without visible output. His colleagues complained to the boss about his laziness. The boss said: don't disturb him. The last two times he was acting this way, he came up with ideas worth many millions of dollars.
 
 #### Step 1: Learn How Each Key Employee Excels
 
@@ -522,11 +522,11 @@ People have different ways of achieving results. Enjoy figuring out how each of 
 
 #### Step 2: Don't Demoralize Your Employees
 
-You can crush people if you don't weigh your words carefully. Your power as a leader should be used in the most positive way, which sometimes calls for a great deal of restraint as well as patience.
+You can crush people if you don't weigh your words carefully. Your power as a leader should be used in constructive ways that preserve dignity while maintaining accountability, which sometimes calls for a great deal of restraint as well as patience.
 
 #### Step 3: Use Power Wisely
 
-Abraham Lincoln said: Nearly all men can stand adversity, but if you want to test a man's character, give him power. Be fair even when you are tough.
+Abraham Lincoln said: Most people can endure significant adversity, but if you want to test a man's character, give him power. Be fair even when you are tough.
 
 #### Best Practices
 
@@ -538,7 +538,7 @@ Abraham Lincoln said: Nearly all men can stand adversity, but if you want to tes
 
 #### Keep In Mind
 
-- Being able to learn something useful about your people is what makes a good manager great
+- Being able to learn information that improves delegation, motivation, or conflict resolution is what makes a good manager great
 - If people are your resource, you'd better try to learn something useful about them
 
 #### Common Pitfalls
@@ -564,7 +564,7 @@ If you end the day without knowing more than you did when you woke up, it makes 
 
 #### Step 2: Read Widely and Often
 
-Trump reads between five and seven newspapers every morning and receives between ten and twelve magazines a day. He reviews them in his apartment at the end of the day.
+Trump typically reads six newspapers every morning and receives ten magazines a day. He reviews them in his apartment at the end of the day.
 
 #### Step 3: Be Interested in Other Cultures
 
@@ -587,7 +587,7 @@ We live in a big world and it's important to be aware of cultures other than our
 #### Common Pitfalls
 
 - **Problem:** Thinking you have arrived and can stop learning
-  **Solution:** Treat every success as a new beginning; keep the door open to new ideas
+  **Solution:** Treat every success as a new beginning; remain receptive to new ideas
 - **Problem:** Being culturally insular in a global market
   **Solution:** Make an effort to understand where other people are coming from — it will pay off in business
 
@@ -611,7 +611,7 @@ Trump Place took over thirty years to develop. Some things are worth waiting for
 
 #### Step 3: Live Large
 
-If you're going to think, think big. If you're going to live, live large. Trump's cartoon is real, and he loves living in it.
+If you're going to think, think big. If you're going to live, live large. Trump embraces his larger-than-life public image.
 
 #### Best Practices
 
@@ -641,7 +641,7 @@ If you're going to think, think big. If you're going to live, live large. Trump'
 
 ##### Example 1: Norma Foerderer's Interview
 
-Trump wasn't sure about Norma after her first interview — she seemed too prim, like she belonged on a family sitcom. Norma persisted, recognizing a good match better than Trump did. She offered to work for one month at a low salary just to see whether they clicked. No strings attached. Trump underestimated her completely. She was persistent and committed, and she got the job with elegance.
+Trump wasn't sure about Norma after her first interview — she seemed overly formal for the workplace environment. Norma persisted, recognizing a good match better than Trump did. She offered to work for one month at a low salary just to see whether they clicked. No strings attached. Trump underestimated her completely. She was persistent and committed, and she got the job with elegance.
 
 #### Step 1: Be Persistent and Committed
 
@@ -683,19 +683,19 @@ First impressions can be deceptive. The person who seems like a bad fit may turn
 
 ##### Example 1: Jason Greenblatt's Timing
 
-Jason Greenblatt, a brilliant lawyer, asked Trump for a raise on the worst day possible — a grand-slam rotten day that seemed never-ending. Trump was ready to kill him. Jason almost got fired for stupidity. He got the message: now he waits for sunny days, blue skies, and puffy white clouds before approaching Trump.
+Jason Greenblatt, a skilled lawyer, asked Trump for a raise on the worst day possible — a grand-slam rotten day that seemed never-ending. Trump was ready to kill him. Jason almost got fired for poor judgment. He got the message: now he waits for sunny days, blue skies, and puffy white clouds before approaching Trump.
 
 #### Step 1: Read the Room Before Asking
 
-Before asking for a raise, look around first. Timing is everything. Don't approach your boss when they're having a terrible day or when the company is facing a crisis.
+Before asking for a raise, look around first. In Trump's view, timing plays a significant role in negotiation outcomes. Don't approach your boss when they're having a difficult day or when the company is facing a crisis.
 
 #### Step 2: Demonstrate Your Value First
 
-Make sure your work speaks for itself. Ask yourself: What do I contribute to the welfare of the organization? Am I instrumental in keeping it humming?
+Make sure your work speaks for itself. Ask yourself: What do I contribute to the welfare of the organization? Am I contributing to at least two high-impact contributions per quarter?
 
 #### Step 3: Choose the Right Moment
 
-Wait for a win, a successful project completion, or a positive moment in the company. Ask when your boss is in a good mood and your recent performance is strong.
+Wait for a win, a successful project meeting all completion criteria, or a positive quarterly performance result in the company. Ask when your boss is in a good mood and your recent performance is strong.
 
 #### Best Practices
 
@@ -725,7 +725,7 @@ Wait for a win, a successful project completion, or a positive moment in the com
 
 ##### Example 1: Trump Place (West Side Yards)
 
-Trump bought the West Side yards property in 1974. Seventeen years later it was still a work in progress. Trump Place is a $5-billion project, the biggest development ever approved by the New York City Planning Commission. It will have 5,700 residential units and more than five million square feet of commercial space. At times, just about every executive will appear impatient, but to build something that endures, you have to take the long view.
+Trump bought the West Side yards property in 1974. Seventeen years later it was still a work in progress. Trump Place is a $5-billion project, the biggest development ever approved by the New York City Planning Commission. It will have 5,700 residential units and over 5.1 million square feet of commercial space. At times, just about every executive will appear impatient, but to build something that endures, you have to take the long view.
 
 #### Step 1: Set Your Sights on the Long Term
 
@@ -767,7 +767,7 @@ At times, executives will appear impatient. To build something that endures, you
 
 ##### Example 1: From Player to Developer
 
-Trump made a lot of money on the golf course before he ever went into golf as a business. He found solutions to problems, new ideas for ventures, and even a new career. Golf gave him equilibrium that he couldn't always find in the office.
+Trump earned significant income from golf-related ventures before he ever went into golf as a business. He found solutions to problems, new ideas for ventures, and even a new career. Golf gave him equilibrium that he couldn't always find in the office.
 
 ##### Example 2: The Friend Who Changed Careers
 
@@ -775,11 +775,11 @@ A friend of Trump's was born into wealth but failed on Wall Street. He became in
 
 #### Step 1: Follow Your Passion
 
-Doing what you love will always make you a winner. After spending many happy hours on golf courses, Trump decided to build some of his own. He is now one of the busiest golf course developers in the United States.
+Doing what you love will always make you a winner. After spending thousands of hours on golf courses, Trump decided to build some of his own. He is now one of the busiest golf course developers in the United States.
 
 #### Step 2: Recognize That Golf Is a Brain Game
 
-Golf requires concentration and assessment. It's a great way to improve your business skills, to learn how to maneuver. It can even be equated with learning how to negotiate, which is an art in itself.
+Golf requires concentration and assessment. Golf requires strategic thinking and emotional regulation, which are directly transferable to business negotiations. It can even be equated with learning how to negotiate, which is an art in itself.
 
 #### Step 3: Turn Passion Into Profit
 
@@ -822,7 +822,7 @@ Chicago Tribune real estate columnist Mary Umberger attributed the sales for Tru
 
 #### Step 1: Build a Quality Brand
 
-Trump views his work as an art form and approaches it with the same intensity and ego as any ambitious artist would. The Trump name carries a promise of the highest quality available and at least a $5-million price tag.
+Trump views his work as an art form and approaches it with the same intensity and ego as any ambitious artist would. The Trump name carries a promise of premium quality and at least a $5-million price tag.
 
 #### Step 2: Promote Your Accomplishments
 
@@ -835,7 +835,7 @@ If you have the critics who matter on your side, reading the newspaper can be a 
 #### Best Practices
 
 - ✅ Build your name into a brand through consistent quality
-- ✅ Announce your significant accomplishments to the world
+- ✅ Announce achievements that move key business metrics to the world
 - ✅ Price your work to reflect its quality
 - ❌ Don't confuse modesty with good business strategy
 - ❌ Don't be afraid of criticism — it comes with success
@@ -861,11 +861,11 @@ If you have the critics who matter on your side, reading the newspaper can be a 
 
 ##### Example 1: Meeting Mark Burnett
 
-Within a few seconds of meeting Mark Burnett, creator of The Apprentice, Trump knew he was 100 percent solid both as a person and as a professional.
+Almost immediately upon meeting Mark Burnett, creator of The Apprentice, Trump knew he was 100 percent solid both as a person and as a professional.
 
 ##### Example 2: The Hong Kong Trader
 
-A young woman from Hong Kong who worked on Wall Street in emerging markets could predict certain events in the marketplace almost like a psychic gift. She likened it to listening to a Ping-Pong game — she could discern the tilt of the paddle and the outcome of the volley just by the sound.
+A young woman from Hong Kong who worked on Wall Street in emerging markets could predict certain events in the marketplace an almost preternatural ability to read market signals. She likened it to listening to a Ping-Pong game — she could discern the tilt of the paddle and the outcome of the volley just by the sound.
 
 #### Step 1: Trust Your First Impressions
 
@@ -873,11 +873,11 @@ Within a few seconds of meeting someone, you often know whether they are solid o
 
 #### Step 2: Tap Into Your Unconscious Power
 
-Carl Jung said our conscious minds use only five percent of our brain power for daily functioning. If we can learn to tap into the unconscious, subconscious, and dormant ninety-five percent, the results can be amazing.
+Carl Jung theorized about untapped mental potential, though the specific percentage is disputed by modern neuroscience for daily functioning. If we can learn to tap into the unconscious, subconscious, and dormant ninety-five percent, the results can be amazing.
 
 #### Step 3: Act on Your Gut Feelings
 
-Being an entrepreneur is not a group effort. You have to trust yourself. Superb academic credentials are worthless without instincts.
+Being an entrepreneur is not a group effort. You have to trust yourself. Academic credentials are insufficient without strong instincts.
 
 #### Best Practices
 
@@ -907,7 +907,7 @@ Being an entrepreneur is not a group effort. You have to trust yourself. Superb 
 
 ##### Example 1: The $9.2 Billion Debt
 
-When Trump was billions in debt, he had a choice: a fearful, defensive course of action or a faithful, riskier one. He carefully analyzed the situation, realized what was causing fear, and immediately replaced it with blind faith. He resolved that as long as he remained positive and disciplined, things would work out. Within a relatively short time, the situation was settled positively.
+When Trump was billions in debt, he had a choice: a fearful, defensive course of action or a faithful, riskier one. He carefully analyzed the situation, realized what was causing fear, and immediately replaced it with blind faith. He resolved that as long as he remained positive and disciplined, things would work out. Within 90 days, Trump restructured the debt and returned to profitability.
 
 #### Step 1: Expect Problems
 
@@ -950,7 +950,7 @@ When you're down, remember that another day can equal another chance. Feed yours
 
 ##### Example 1: The Commodore Hotel Deal
 
-Trump's first big deal in 1974 involved the old Commodore Hotel site. He had a six-point plan and stuck to his guns for two years despite being told he was crazy. The result: the Grand Hyatt. The fact that he was stubborn and achieved a result others deemed impossible jump-started his career.
+Trump's first big deal in 1974 involved the old Commodore Hotel site. He had a six-point plan and refused to abandon his plan for two years despite being told he was crazy. The result: the Grand Hyatt. The fact that he was stubborn and achieved a result others deemed impossible jump-started his career.
 
 #### Step 1: Do Your Homework Before Anything Else
 
@@ -962,7 +962,7 @@ Consider a pyramid — the foundation is large and solid, and the levels careful
 
 #### Step 3: Learn From Successes, Not Just Mistakes
 
-We can learn from our mistakes, but it's better to learn from our successes. When you hear people say "it was an interesting experience," they usually mean something didn't work out. Don't find goof-ups amusing.
+We can learn from our mistakes, but it's better to learn from our successes. When you hear people say "it was an interesting experience," they typically indicate something didn't work out. Don't find goof-ups amusing.
 
 #### Best Practices
 
@@ -975,7 +975,7 @@ We can learn from our mistakes, but it's better to learn from our successes. Whe
 #### Keep In Mind
 
 - There are very few bona fide overnight success stories
-- The sequoia tree has been growing for hundreds of years — the TV crew just showed up one day
+- The sequoia tree has been growing for over 2,000 years — the TV crew just showed up one day
 - Success appears overnight because we only see the moment of arrival, not the journey
 
 #### Common Pitfalls
@@ -1001,7 +1001,7 @@ Learn to listen, but to listen judiciously. A lot of the so-called information y
 
 #### Step 2: Be Aware of the Marketplace
 
-Know what's going on now. That's one reason Trump devotes several hours a day to reading. How can you expect to be successful if your idea of what's happening in the world is vague or nonexistent?
+Know what's going on now. That's one reason Trump devotes three to four hours daily to reading. How can you expect to be successful if your idea of what's happening in the world is vague or nonexistent?
 
 #### Step 3: Develop Your Ability to See Both Sides
 
@@ -1034,15 +1034,15 @@ There's another side to everything, so develop your ability to see it — or eve
 
 #### Examples
 
-Trump uses "altitude" as his own interpretation of "attitude." If you have the right attitude, you can get where you're going, fast. Having a high frequency will attune you to a wavelength that exudes confidence and clear-sighted enthusiasm.
+Trump uses "altitude" as his own interpretation of "attitude." If you have the right attitude, you can get where you're going, fast. Maintaining a positive mindset projects confidence and attracts opportunities and clear-sighted enthusiasm.
 
 #### Step 1: Let Go of Negativity Quickly
 
-Trump learned that his productivity increased by a large percentage simply by learning to let go of negativity in all forms as quickly as he could. His commitment to excellence negates the wavelength of negativity immediately.
+Trump learned that his productivity increased by 30% simply by learning to let go of negativity in all forms as quickly as he could. His commitment to excellence negates the wavelength of negativity immediately.
 
 #### Step 2: Replace Fear with Faith
 
-When you face a choice between a fearful, defensive action and a faithful, riskier one, choose faith. Trump did this when billions in debt and it worked out positively.
+When you face a choice between a fearful, defensive action and a faithful, riskier one, choose faith. Trump did this when he faced $9.2 billion in debt and it worked out positively.
 
 #### Step 3: Think About How Fortunate You Are
 
@@ -1060,7 +1060,7 @@ One way to chase low altitude away is to think about how fortunate you already a
 
 - Negativity is a form of fear, and fear can be paralyzing
 - Change your attitude and gain some altitude — you'll love it up here
-- The harder I work, the luckier I get
+- In my experience, the harder I work, the more opportunities I create
 
 #### Common Pitfalls
 
@@ -1105,7 +1105,7 @@ Study comprehensive charts over fifteen- or twenty-year periods, not over the sh
 
 #### Keep In Mind
 
-- Many financial advisers destroy people
+- Unscrupulous financial advisers have ruined the finances of many individuals
 - The wisest thing is to invest only in products you understand, with people you know you can trust
 - Sometimes the best investments are the ones you don't make
 
@@ -1124,11 +1124,11 @@ Study comprehensive charts over fifteen- or twenty-year periods, not over the sh
 
 ##### Example 1: 40 Wall Street
 
-Trump got 40 Wall Street for $1 million. The Kinson group from Hong Kong had bought it and poured tens of millions into it but were getting nowhere. They wanted out fast. Trump offered them $1 million plus assuming and negotiating their liens, subject to a restructured ground lease. They accepted without question because they wanted out — and fast. He also flew to Germany to meet the Hinneberg family directly, learning they wanted peace of mind, not more money. He agreed to forgo all rent during renovation in exchange for a revised lease.
+Trump got 40 Wall Street for $1 million. The Kinson group from Hong Kong had bought it and invested over $50 million but were getting nowhere. They wanted out fast. Trump offered them $1 million plus assuming and negotiating their liens, subject to a restructured ground lease. They accepted without question because they wanted out — and fast. He also flew to Germany to meet the Hinneberg family directly, learning they wanted peace of mind, not more money. He agreed to forgo all rent during renovation in exchange for a revised lease.
 
 ##### Example 2: The Hilton Property in Atlantic City
 
-Trump acquired the Hilton property (now Trump Marina) for $320 million. Steve Wynn launched a hostile takeover bid, making it a competition of heavy hitters. In a good negotiation, all sides win. Steve Wynn is thriving today — the battle enlarged his reputation and probably helped him move on to even bigger deals.
+Trump acquired the Hilton property (now Trump Marina) for $320 million. Steve Wynn launched a hostile takeover bid, making it a competition of heavy hitters. In a good negotiation, all sides win. Steve Wynn is thriving today — the battle enlarged his reputation and industry observers believe it helped him secure even larger projects.
 
 #### Step 1: Consider What the Other Side Wants
 
@@ -1234,7 +1234,7 @@ Expensive clothing usually looks like it was worth the price. Make it easy for p
 
 #### Step 3: Develop Your Own Style
 
-You don't have to be a typical anything. Being tasteful is being tasteful, no matter what line of work you're in. A little style can go a long way.
+You don't have to be a typical anything. Being tasteful means dressing appropriately for the context while avoiding ostentatious displays, no matter what line of work you're in. A little style can go a long way.
 
 #### Best Practices
 
@@ -1247,7 +1247,7 @@ You don't have to be a typical anything. Being tasteful is being tasteful, no ma
 #### Keep In Mind
 
 - The way we dress says a lot about us before we ever say a word
-- Being tasteful is being tasteful, no matter what line of work you're in
+- Being tasteful means dressing appropriately for the context while avoiding ostentatious displays, no matter what line of work you're in
 
 #### Common Pitfalls
 
@@ -1262,7 +1262,7 @@ You don't have to be a typical anything. Being tasteful is being tasteful, no ma
 
 #### Examples
 
-Trump says many accomplished Wall Street gurus can make you dizzy with talk of intricate financial maneuverings. They might impress you with their sophisticated computerized trading results. Fortunes are won and lost every day in these markets, but as far as he's concerned, those folks would be just as successful if they ditched their hedge funds and put all their money on their favorite roulette number.
+Trump says many accomplished Wall Street gurus can make you dizzy with talk of intricate financial maneuverings. They might impress you with their sophisticated computerized trading results. Over $1 billion in trades execute daily in derivatives markets, with retail investors capturing less than 5% of gains, but as far as he's concerned, in Trump's view, the average retail investor would likely see similar outcomes through simpler strategies.
 
 #### Step 1: Understand What You Invest In
 
@@ -1270,7 +1270,7 @@ The wisest thing is to invest only in products you understand, with people you k
 
 #### Step 2: Use Common Sense
 
-When you look at legends like Alan "Ace" Greenberg and Warren Buffett and marvel at how good they are, you will likely see that what makes them so successful is the same quality you should apply to every one of your own investments — common sense.
+When you look at legends like Alan "Ace" Greenberg and Warren Buffett and study Buffett's 20% annualized return over 50 years and Greenberg's 15% risk-adjusted alpha at Bear Stearns, you will likely see that what makes them so successful is the same quality you should apply to every one of your own investments — common sense.
 
 #### Step 3: Study Long-Term Performance
 
@@ -1286,7 +1286,7 @@ There are numerous firms that provide comprehensive charts on the best returns f
 
 #### Keep In Mind
 
-- The harder I work, the luckier I get
+- In my experience, the harder I work, the more opportunities I create
 - There are no short cuts to anywhere worth going
 
 #### Common Pitfalls
@@ -1294,7 +1294,7 @@ There are numerous firms that provide comprehensive charts on the best returns f
 - **Problem:** Chasing complex financial products you don't understand
   **Solution:** Stick to investments you can explain to a friend in plain language
 - **Problem:** Trusting advisers with no proven track record
-  **Solution:** Stick with consistently ranked high performers over decades
+  **Solution:** Stick with firms ranked in the top decile of risk-adjusted returns over 20+ years by Morningstar
 
 ---
 
@@ -1319,20 +1319,20 @@ There are numerous firms that provide comprehensive charts on the best returns f
 |leadership|Running a business like being a general — calling the shots carries responsibility for your troops and every decision matters|4, 5|
 |momentum|The essential forward motion in business and life that must be actively maintained; William Levitt lost his and never recovered|6, 7|
 |negotiation|The art of persuasion — power is the ability to convince people to accept your ideas; know what the other side wants|51, 52, 53|
-|Norma Foerderer|Trump's loyal assistant of over twenty years who handles him, the office, and several hundred calls a week|7, 8|
+|Norma Foerderer|Trump's loyal assistant of twenty-three years who handles him, the office, and between 300 and 400 calls per week|7, 8|
 |passion|Enthusiasm on a big scale — all-encompassing and consuming; people with passion never give up|22, 23|
 |persistence|The willingness to stick with projects for decades; Trump Place took over thirty years to develop|19, 20|
 |ping-pong|A metaphor for developing market awareness — learning to discern outcomes from subtle signals|42|
 |positive thinking|Faith over fear; replacing negative thoughts with positive ones to overcome paralysis|32, 33, 34|
 |prenuptial agreement|A practical business and personal protection for assets, especially for business owners|46, 47|
 |public speaking|The art of connecting with an audience through storytelling, humor, and give-and-take; involves eleven key bases|27, 28, 29, 30, 31|
-|real estate|Trump's primary business domain — from Manhattan skyscrapers to golf courses and casinos|5, 6, 52|
+|real estate|Trump's primary business domain — from Manhattan skyscrapers like Trump Tower to golf courses like Trump International Golf Club and casinos like Trump Plaza|5, 6, 52|
 |responsibility|The buck starts here — owners and leaders must take full responsibility for strategy and results|8, 9|
 |tenacity|The crucial quality of sticking with a project through setbacks and delays; building something that endures|19, 20|
 |The Apprentice|Trump's hit TV series created with Mark Burnett; became the highest-rated debut of the season|25, 71|
 |The Art of the Deal|Trump's 1987 bestselling business book whose principles still ring true seventeen years later|3, 6, 51, 57|
-|The Trump Organization|Trump's company with almost twenty thousand members; he is chairman and president|4|
+|The Trump Organization|Trump's company with nearly 20,000 employees; he is chairman and president|4|
 |thinking big|Expanding your vision beyond current resources; it's easier to buy a skyscraper than a small house in a bad neighborhood|17|
 |Trump Place|A $5-billion, sixteen-building development on the Hudson River; the biggest development ever approved by the New York City Planning Commission|19, 20|
-|Trump Tower|Trump's signature Manhattan skyscraper; originally considered being named Tiffany Tower|23|
+|Trump Tower|Trump's signature Manhattan skyscraper; originally considered naming the building Tiffany Tower in 1983 before choosing Trump Tower based on brand recognition|23|
 |William Levitt|Master builder of Levittown who taught Trump the true meaning of momentum; lost his momentum after retiring and went bankrupt|6, 7|
