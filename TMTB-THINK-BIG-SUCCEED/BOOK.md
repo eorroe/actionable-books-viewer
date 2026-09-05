@@ -175,7 +175,7 @@ Keep a record of your past successes, compliments you have received, and challen
 
 #### Best Practices
 
-- ✅ Use the memory-picture method every morning before starting your day
+- ✅ Use the memory-picture method each morning before starting your day
 - ✅ Reframe fear as excitement—your body responds similarly to both, and you can choose which label to apply
 - ✅ Focus on what you want to give to others rather than what you fear receiving
 - ✅ Take small, brave actions daily to build your confidence muscle
@@ -226,7 +226,7 @@ Each time you face a situation, force yourself to look beyond the immediate limi
 
 #### Step 2: Add Value to Everything You Do
 
-Big thinkers do not just complete tasks—they add value. Ask yourself with every task: "How can I add extra value, extra quality, extra benefit?" When you add value beyond expectations, you create opportunities for growth, recognition, and advancement. Big thinking means consistently doing more than the minimum.
+Big thinkers do not just complete tasks—they add value. Ask yourself with most tasks: "How can I add extra value, extra quality, extra benefit?" When you add value beyond expectations, you create opportunities for growth, recognition, and advancement. Big thinking means consistently doing more than the minimum.
 
 #### Step 3: Think in Terms of "We," Not Just "Me"
 
@@ -289,7 +289,7 @@ Train yourself to ask "What if?" in every situation. "What if I approached this 
 
 #### Step 2: Believe That Creative Solutions Exist
 
-Creative thinking requires the belief that better ways exist. If you believe a problem has no solution, you will stop looking. If you believe a solution exists, your mind will actively search for solutions, connecting ideas and noticing patterns you might otherwise miss. Approach every problem with the assumption that a better way is waiting to be discovered.
+Creative thinking requires the belief that better ways exist. If you believe a problem has no solution, you will stop looking. If you believe a solution exists, your mind will actively search for solutions, connecting ideas and noticing patterns you might otherwise miss. Approach most problems with the assumption that a better way is waiting to be discovered.
 
 #### Step 3: Combine Ideas Creatively
 
@@ -533,7 +533,7 @@ When you make others feel important, you create goodwill that compounds through 
 
 ##### Example 3: Think "You" Instead of "I"
 
-In every conversation, focus on the other person rather than on yourself. Ask questions, listen actively, and show genuine interest in their lives and concerns. When you make the conversation about them rather than about you, you build trust and rapport within a single conversation.
+In most conversations, focus on the other person rather than on yourself. Ask questions, listen actively, and show genuine interest in their lives and concerns. When you make the conversation about them rather than about you, you build trust and rapport within a single conversation.
 
 #### Step 1: Develop a Genuine Interest in Others
 
@@ -612,7 +612,7 @@ When a task or opportunity presents itself, if the task can be completed in unde
 
 #### Step 4: Build Momentum Through Small Daily Actions
 
-Consistent small actions build momentum that leads to measurable results. Identify one daily action that, if completed each day, would move you toward your most important goal. Do it every day without exception. Momentum is more important than intensity—small daily actions outperform occasional heroic efforts.
+Consistent small actions build momentum that leads to measurable results. Identify one daily action that, if completed each day, would move you toward your most important goal. Do it consistently each day. Momentum is more important than intensity—small daily actions outperform occasional heroic efforts.
 
 #### Best Practices
 
