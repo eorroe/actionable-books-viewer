@@ -163,7 +163,7 @@ Know specifically what you want to impress upon your subconscious. Be clear and 
 Relax your body and mind completely. Enter a sleepy, drowsy, or passive state — this reduces mental effort to a minimum and allows the subconscious to receive impressions most effectively. Subconscious receptivity is highest just before sleep and just after waking.
 
 #### Step 3: Repeat Your Desired Idea with Feeling
-Repeat your desired idea three to five times per session with feeling. Combine repetition with faith and expectancy. Convey the idea lovingly and feelingly to your subconscious mind. Repeat slowly, quietly, and with feeling — soft and steady repetition. Each repetition increases the emotional value of the suggestion.
+Repeat your desired idea three times per session with feeling. Combine repetition with faith and expectancy. Convey the idea lovingly and feelingly to your subconscious mind. Repeat slowly, quietly, and with feeling — soft and steady repetition. Each repetition increases the emotional value of the suggestion.
 
 #### Step 4: Release the Idea to Your Deeper Mind
 Release the whole thing to your deeper mind, which has the innate problem-solving capacity of your deeper mind. Do not strive, coerce, force, or wrestle mentally — simply decree and release. The power that moves the world is already backing your word.
@@ -725,7 +725,7 @@ A woman who hated a prettier, happier, wealthier coworker used the forgiveness t
 A person conditioned by a strict, guilt-based religion learned the workings of the conscious and subconscious mind, broke away from the source of negative conditioning and revised beliefs that were not serving them, and adopted the truths of life — resulting in freedom, health, and happiness.
 
 ##### Example 3: Overcoming Alcoholism Through Mental Reconditioning
-A person admitted the problem, faced it directly, and recognized the hidden cause lodged in the subconscious mind. Used the Three Magic Steps: stillness and drowsy relaxation, repetition of "Sobriety and peace of mind are mine now, and I give thanks," and pre-sleep visualization of a loved one offering congratulations. The 51% rule — a tipping point where the desire to give up the habit becomes stronger than the desire to continue — resulted in freedom.
+A person admitted the problem, faced it directly, and recognized the hidden cause lodged in the subconscious mind. Used the Three Magic Steps: stillness and drowsy relaxation, repetition of "Sobriety and peace of mind are mine now, and I give thanks," and pre-sleep visualization of a loved one offering congratulations. A tipping point — where the desire to give up the habit becomes stronger than the desire to continue — resulted in freedom.
 
 #### Step 1: Practice the Primary Forgiveness Technique
 Quiet your mind and relax; let go. Think of God and His love for you. Affirm: "I fully and freely forgive Insert the name of the person you wish to forgive; I release him mentally and spiritually." State: "I completely forgive everything connected with the matter in question. I am free, and he/she is free." Declare it your "day of general amnesty" and release anyone and everyone who has ever hurt you.
@@ -992,7 +992,7 @@ Do not permit people to manipulate you through emotional outbursts or threats. B
 
 #### Keep In Mind
 
-- The subconscious mind faithfully reproduces whatever you impress upon it — it is impersonal and unchanging
+- The subconscious mind tends to manifest the patterns you consistently impress upon it — it operates according to consistent principles and is not influenced by personal preferences.
 - You are the only person responsible for your own thoughts and reactions — the other person is not responsible for the way you think about them.
 - Whatever you consistently give out mentally, you receive back
 - Love includes understanding, goodwill, and respect for the other person
@@ -1143,7 +1143,7 @@ Recognize that you have much to give regardless of age. You can support, guide, 
 |Scientific Imagination|Using vivid, disciplined imagination to impress the idea of health or desired outcome on the subconscious mind; living the role as though already achieved|Ch. III, VI|
 |Seed Analogy|Your thoughts are seeds planted in the garden of your subconscious mind; as you sow, so shall you reap — plant thoughts of peace, happiness, right action, goodwill, and prosperity|Ch. I, IV, VI, X|
 |Solar Plexus|A center of the body associated with the subconscious mind; thoughts accepted as true are believed to be expressed in your experience|Ch. VII|
-|Subconscious Mind|The creative, irrational mind within you; the engine room that automatically obeys your mental orders; the builder of your body; the center of memory, emotion, and habit|Ch. I, II, III|
+|Subconscious Mind|The creative mind within you that responds to your thoughts and beliefs; the center of memory, emotion, and habit|Ch. I, II, III|
 |Thank You Technique|Practicing gratitude as though the desire is already fulfilled; the thankful mind is always aligned with creative energy|Ch. VI|
 |Three Magic Steps|1) Get still and enter a drowsy state, 2) Repeat a brief phrase with feeling, 3) Visualize a loved one congratulating you — a method for breaking destructive habits|Ch. XVIII|
 |Visualization Technique|Quieting the mind, presenting a vivid mental image of the desired outcome, sustaining it steadily while imagining hearing affirmations, then releasing with confidence|Ch. VI|
