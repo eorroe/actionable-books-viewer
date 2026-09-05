@@ -273,7 +273,7 @@ Acknowledge that if you are not already rich and happy, there are still things y
 #### Best Practices
 
 - Use declarations with physical gestures (hand on heart, then touching head) to reinforce new mental programming through bodily sensation and focused attention.
-- Focus on contribution and value creation for many people—such as thousands or more; measure success by how many lives you positively impact.
+- Focus on contribution and value creation for large-scale impact—such as thousands of people or more; measure success by the number of lives you positively impact.
 - Treat every dollar as a seed; the universe rewards demonstrated financial discipline with more money.
 - When you feel uncomfortable, pat yourself on the back and say "I must be growing."
 - Learn from people richer than you are; treat coaches and mentors like a guide to Mount Everest who has actually reached the summit.
