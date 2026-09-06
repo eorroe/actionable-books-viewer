@@ -1,4 +1,4 @@
-# TTBT-LIBERATION-HEARING-BARDO
+# The Tibetan Book of the Dead
 
 ## Overview
 
