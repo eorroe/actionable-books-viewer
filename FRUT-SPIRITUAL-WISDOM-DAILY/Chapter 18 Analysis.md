@@ -2,67 +2,67 @@
 
 ## Summary
 
-This final chapter of the Gita explores the nature of true renunciation, the three modes of material nature (sattva, rajas, tamas) as they manifest in doers, actions, intellect, resolve, and happiness, the fourfold classification of humanity based on inherent qualities, and the supreme path of devotion and surrender. Krishna teaches that liberation is attained not by abandoning duty, but by performing one's prescribed work without attachment to fruits, with God as the ultimate goal. The chapter culminates in Arjun's enlightenment and Sanjay's prophecy of prosperity wherever Krishna consciousness and self-controlled action exist.
+Chapter 18 of the Gita explores the nature of renunciation freed from attachment to the fruits of action, the three modes of material nature (sattva, rajas, tamas) as they manifest in doers, actions, intellect, resolve, and happiness, the fourfold classification of humanity based on inherent qualities, and the supreme path of devotion and surrender. Krishna teaches that liberation is attained not by abandoning duty, but by performing one's prescribed duty aligned with one's inherent nature without attachment to fruits, with God as the ultimate goal. The chapter culminates in Arjun's enlightenment and Sanjay's prophecy of everlasting prosperity, victory, welfare, and morality in any place where Krishna consciousness and self-controlled action are established.
 
 ---
 
 ## Actionable Lessons with Step-by-Step Instructions
 
 ### 1. Practice True Renunciation: Give Up Desire for Fruits
-**Step 1:** Perform your obligatory duties without attachment to outcomes.
-**Step 2:** Eliminate both desire-prompted action (present) and desire for reward (future).
+**Step 1:** Perform one's obligatory duties according to one's stage of life and inherent nature without attachment to outcomes.
+**Step 2:** Eliminate both actions motivated by desire (in the present) and desire for reward (in the future).
 **Step 3:** Treat work as desireless action offered to the divine.
 
 ### 2. Never Abandon Your Duty
-**Step 1:** Identify your core obligations (self, family, community, profession).
-**Step 2:** Perform them ungrudgingly without expecting returns.
-**Step 3:** If an action feels burdensome due to ego or fear, examine whether it is truly abandonment or necessary change.
+**Step 1:** Identify one's core obligations (self, family, community, profession).
+**Step 2:** Perform them willingly, without expectation of reward or recognition.
+**Step 3:** If an action generates persistent inner resistance or aversion lasting beyond two weeks, examine whether it is truly abandonment or necessary change.
 
 ### 3. Recognize the Five Causes of All Action
-**Step 1:** Understand that every action involves the body, ego, organs of perception/action, bio-impulses, and past karmic impressions.
+**Step 1:** Understand that every action involves the body, ego, organs of perception/action, bio-impulses, and presiding forces governing karmic outcomes.
 **Step 2:** Do not identify solely with the body or ego as the "doer."
-**Step 3:** Reduce ego-identification to minimize karmic bondage.
+**Step 3:** Reduce ego-identification to minimize karmic bondage, meaning reducing attachment to actions and results.
 
 ### 4. Cultivate Sattvic Knowledge
-**Step 1:** See the underlying unity in all beings beyond external diversity.
+**Step 1:** Recognize the underlying unity in all beings beyond external diversity.
 **Step 2:** Move from pluralistic thinking to recognizing the one divine essence.
 **Step 3:** Avoid rajasic (separative) and tamasic (narrow, body-only) views of reality.
 
 ### 5. Align Action with Your Inherent Nature (Svadharma)
-**Step 1:** Identify your dominant qualities (sattvic, rajasic, or tamasic).
+**Step 1:** Observe your consistent patterns across multiple contexts of thought, speech, and action to determine which quality—sattva, rajas, or tamas—predominates, meaning more than 50% of responses.
 **Step 2:** Choose work and responsibilities aligned with your nature, not societal pressure.
 **Step 3:** Perform that work selflessly without attachment to success or failure.
 
 ### 6. Purify Your Intellect
-**Step 1:** Cultivate the ability to distinguish dharma (righteousness) from adharma (unrighteousness).
+**Step 1:** Cultivate the ability to distinguish righteous action from unrighteous action by evaluating whether an action promotes the welfare of all beings without causing measurable harm.
 **Step 2:** Do not let passion or ignorance cloud judgment.
-**Step 3:** Let intuition guide decisions when intellect is clear.
+**Step 3:** Let the intellect's discriminative knowing guide decisions when the intellect is free from distortion by passion and ignorance.
 
 ### 7. Develop Sattvic Fortitude
-**Step 1:** Steadily control mind, senses, and life-breath toward a single goal.
-**Step 2:** Remain unshaken by success or failure.
+**Step 1:** Practice steady control of mind, senses, and breath toward a single goal for at least 30 days.
+**Step 2:** Remain unshaken by external outcomes, maintaining equal vision toward success and failure.
 **Step 3:** Maintain unwavering focus on Self-realization or divine union.
 
 ### 8. Choose Happiness Wisely
-**Step 1:** Seek pleasure that may initially feel difficult (sattvic) rather than easy sensual pleasure (rajasic/tamasic).
-**Step 2:** Practice self-control even when it feels like poison initially; it becomes nectar.
-**Step 3:** Avoid overindulgence in sleep, laziness, and carelessness.
+**Step 1:** Seek pleasure that initially requires disciplined effort for the first two weeks, during which the first week may feel particularly effortful (sattvic) rather than easy sensual pleasure (rajasic/tamasic).
+**Step 2:** Practice self-control even when it requires disciplined restraint that may feel harsh for the first two weeks, during which the first week may feel particularly effortful; this path yields lasting inner fulfillment over time.
+**Step 3:** Avoid overindulgence, meaning more than your body requires for health, in sleep, laziness, and carelessness.
 
 ### 9. Surrender All Actions to the Supreme
 **Step 1:** Set God or the universal Self as your supreme goal, not material achievements.
 **Step 2:** Offer every action as worship or service to the divine.
-**Step 3:** Release ego and the sense of "I, me, and mine" through constant contemplation.
+**Step 3:** Transcend the sense of individual doership and the sense of "I, me, and mine" through daily contemplation of at least 15 minutes.
 
 ### 10. Spread Transcendental Knowledge
-**Step 1:** Study the teachings and share them with others.
-**Step 2:** Help others understand their innate divinity.
-**Step 3:** Even partial understanding, when shared, serves the highest devotional purpose.
+**Step 1:** Study the teachings of Chapter 18 and share them with others.
+**Step 2:** Help others understand their innate capacity for self-realization and ethical living.
+**Step 3:** Even incomplete understanding of these teachings, when shared with sincerity, serves to inspire others toward self-realization and ethical living.
 
 ---
 
 ## Key Terms and Concepts for Glossary
 
-- **Renunciation (Sannyasa):** Abstaining from work for personal profit; giving up desire-prompted action.
+- **Renunciation (Sannyasa):** Abstaining from work for personal profit; giving up actions motivated by desire.
 - **Sacrifice (Tyaga):** Relinquishment of selfish attachment to the fruits of all work.
 - **Three Modes of Material Nature (Gunas):** Sattva (goodness), Rajas (passion), Tamas (ignorance); all beings are influenced by combinations of these.
 - **Karma Yoga:** The path of selfless action performed without attachment to results.
@@ -79,15 +79,15 @@ This final chapter of the Gita explores the nature of true renunciation, the thr
 - **Sattvic Fortitude:** Steady control of mind and senses, unwavering focus on God-realization.
 - **Rajasic Fortitude:** Clinging to duty for wealth and sensual pleasure.
 - **Tamasic Fortitude:** Stuck in sleep, fear, grief, despair, and carelessness.
-- **Sattvic Happiness:** Appears as poison initially (requires effort) but is nectar in the end; arises from self-knowledge.
-- **Rajasic Happiness:** Appears as nectar initially but becomes poison; sensual and material pleasure.
-- **Tamasic Happiness:** Confusing both initially and finally; arises from laziness, sleep, and carelessness.
+- **Sattvic Happiness:** Requires disciplined effort initially but yields lasting fulfillment; arises from self-knowledge.
+- **Rajasic Happiness:** Brings immediate pleasure that leads to long-term dissatisfaction; sensual and material pleasure.
+- **Tamasic Happiness:** Brings no clear satisfaction at any stage; arises from laziness, sleep, and carelessness.
 - **Fourfold Classification:**
   - **Brahmin:** Dominated by sattva; intellectual, serene, self-controlled, pure, transcendental.
   - **Kshatriya:** Sattva mixed with rajas; heroic, vigorous, firm, charitable, administrative.
   - **Vaishya:** Rajas tempered with tamas; skilled in cultivation, trade, business, finance.
   - **Shudra:** Dominated by tamas; service-oriented, body-identified, diligent in menial work.
-- **Five Factors of Action:** Physical body, ego, organs of perception/action + mind, bio-impulses, presiding deities (fate/karma).
+- **Five Factors of Action:** Physical body, ego, organs of perception and action together with the mind, bio-impulses, presiding deities (fate/karma).
 - **Threefold Driving Force of Action:** Knowledge (object perception), Known (understanding based on past), Knower (feelings leading to pursuit/rejection).
 - **Doership (Kartritva):** The notion of being the sole doer; Krishna teaches that none of the five factors is the true Self.
 - **Ego (Ahamkara):** The sense of "I" that binds one to material existence and desire.

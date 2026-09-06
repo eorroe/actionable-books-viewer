@@ -2,53 +2,53 @@
 
 ## Summary
 
-Chapter 11 recounts Arjun's request to witness Krishna's universal form (Vishvarupa) and the profound teachings that emerge from this revelation. Krishna temporarily manifests his infinite cosmic form, revealing all of creation—animate and inanimate, celestial beings, suns, moons, and the entirety of existence—within his being. Through this vision, Krishna imparts key spiritual truths: physical eyes cannot perceive the divine; spiritual vision is required. He reveals himself as Time, the inevitable destroyer, demonstrating that death is governed by cosmic law and karma, not individual will. Krishna instructs Arjun to act as an instrument of the divine, performing duty without attachment to results. The chapter culminates in the path of single-minded devotion as the sole means to realizing the Supreme, and outlines the five essential ingredients of right living: dedicating all action to God, making Self-realization the supreme goal, serving humanity as an expression of divine service, cultivating detachment from material existence, and maintaining freedom from hatred or enmity toward all beings.
+Chapter 11 recounts Arjuna's request to witness Krishna's universal form (Vishvarupa) and the chapter's specific teachings on spiritual perception, cosmic order, and selfless action. Krishna manifests his cosmic form for the duration of the vision, revealing all material creation—including celestial beings, celestial bodies, and all existence—within that single form. Through this vision, Krishna teaches that physical eyes alone cannot perceive the cosmic form and that spiritual vision is required. Krishna speaks of himself as Time (the destroyer) and the cosmic order of destruction, illustrating that death follows universal karmic law rather than individual choice. Krishna instructs Arjuna to act as an instrument of the divine order, performing duty without attachment to results. The chapter presents single-minded devotion as the supreme path to realizing the Supreme, and it outlines five essential ingredients of right living: dedicating actions to the divine, making Self-realization the supreme goal, serving humanity as divine service, cultivating detachment from material existence, and maintaining freedom from hatred toward all beings.
 
 ## Actionable Lessons with Step-by-Step Instructions
 
 ### 1. Cultivate Spiritual Vision Beyond Physical Perception
-- **Step 1:** Acknowledge that physical perception alone cannot reveal deeper truths about existence and the divine.
-- **Step 2:** Practice regular meditation or contemplative reflection to develop inner vision.
-- **Step 3:** Seek guidance from spiritual teachings or mentors to help awaken spiritual discernment.
-- **Step 4:** Apply this expanded awareness by looking for the divine essence in situations beyond surface appearances.
+- **Step 1:** Acknowledge that physical perception alone cannot reveal the chapter's teachings on existence and the divine.
+- **Step 2:** Practice daily meditation or contemplative reflection to develop spiritual discernment.
+- **Step 3:** Seek guidance from spiritual teachings or mentors to help awaken spiritual discernment (see Glossary).
+- **Step 4:** Apply the inner vision developed through meditation by looking for the divine presence described in this chapter in situations beyond surface appearances.
 
 ### 2. Accept the Inevitability of Change and Death
-- **Step 1:** Reflect on the transient nature of all things and beings.
-- **Step 2:** Recognize that death and destruction are governed by cosmic laws beyond individual control.
-- **Step 3:** Release fear of loss by understanding that what is destined will happen regardless of personal intervention.
+- **Step 1:** Reflect on the transient nature of worldly things and beings.
+- **Step 2:** Recognize that death and change follow universal karmic law rather than individual control over one's own actions.
+- **Step 3:** Release fear of loss by understanding that cosmic order unfolds regardless of personal intervention through spiritual practice.
 - **Step 4:** Focus on present action rather than resisting inevitable outcomes.
 
 ### 3. Perform Your Duty Without Attachment to Results
 - **Step 1:** Identify your current duties and responsibilities clearly.
-- **Step 2:** Dedicate all actions to a higher purpose or divine will, rather than to personal gain.
+- **Step 2:** Dedicate all actions to the divine order, rather than to personal gain.
 - **Step 3:** Act with full commitment and effort, but mentally renounce attachment to specific outcomes.
-- **Step 4:** Regularly remind yourself that you are an instrument, not the ultimate cause of results.
-- **Step 5:** Evaluate success by the quality of your action, not by external rewards or validation.
+- **Step 4:** At the start of each action, remind yourself that you are an instrument of the divine will, not the ultimate cause of results.
+- **Step 5:** Evaluate success by your sincere effort and right action, not by external rewards or validation.
 
 ### 4. Recognize Karmic Continuity Across Lifetimes
-- **Step 1:** Understand that present circumstances are shaped by past actions and choices.
+- **Step 1:** Understand that present circumstances follow from your own previous actions and choices.
 - **Step 2:** Accept current situations with equanimity, seeing them as the result of prior karmic patterns.
 - **Step 3:** Act consciously in the present to create positive karmic patterns for the future.
-- **Step 4:** Avoid excessive self-blame or blame of others; instead, focus on present-moment responsibility.
+- **Step 4:** Avoid disproportionate self-blame or blame of others; instead, focus on present-moment responsibility.
 
 ### 5. Pursue Single-Minded Devotion as the Path to the Supreme
-- **Step 1:** Choose a focal point for devotion—whether a form of the divine, a principle, or a teacher.
+- **Step 1:** Choose a focal point for devotion—such as the divine form described in this chapter, a spiritual principle, or a teacher.
 - **Step 2:** Direct all sensory and mental attention toward this object of devotion.
-- **Step 3:** Minimize distractions by reducing engagement with worldly temptations that pull attention away.
-- **Step 4:** Allow devotion to become a cleanser of the senses, gradually purifying perception.
+- **Step 3:** Reduce engagement with activities that pull attention away from your chosen focal point.
+- **Step 4:** Allow devotion to purify your perception by redirecting attention from sensory objects toward the divine.
 - **Step 5:** Prioritize direct personal experience over theoretical study alone.
 
 ### 6. Practice the Five Ingredients of Right Living
 - **Step 1:** Begin each day by consciously dedicating your work and actions to the divine or highest good.
 - **Step 2:** Keep Self-realization or spiritual growth as your primary life goal, above material achievements.
 - **Step 3:** Serve others intentionally, seeing each person as an expression of the divine.
-- **Step 4:** Cultivate detachment from material possessions, status, and sensory pleasures through periodic fasting, simplification, or reflection.
-- **Step 5:** Monitor your inner attitudes; when hatred or enmity arises, consciously work to release it through forgiveness practices or reframing.
+- **Step 4:** Cultivate detachment from material possessions, status, and sensory pleasures through occasional fasting, simplification, or reflection.
+- **Step 5:** Monitor your inner attitudes; when hatred or enmity arises, consciously release it through forgiveness or reframing your perspective.
 
 ### 7. Seek Divine Grace for Spiritual Knowledge
 - **Step 1:** Recognize that certain forms of knowledge—especially spiritual knowledge—cannot be attained by intellect or senses alone.
 - **Step 2:** Approach learning with humility, acknowledging the limits of individual effort.
-- **Step 3:** Engage in practices that invoke divine grace: prayer, surrender, selfless service, and devotion.
+- **Step 3:** Engage in devotional practices that cultivate openness to spiritual knowledge: prayer, surrender, selfless service, and devotion.
 - **Step 4:** Remain open to insights and revelations that come unexpectedly, beyond intellectual preparation.
 
 ## Key Terms and Concepts for Glossary

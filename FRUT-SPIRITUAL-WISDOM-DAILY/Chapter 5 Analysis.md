@@ -2,84 +2,84 @@
 
 ## Summary
 
-This chapter explores the philosophy of renunciation (sanyas) and distinguishes true spiritual renunciation from mere physical escape. The text emphasizes that abandoning family, job, and city to live in isolation does not lead to peace if the mind remains attached. True renunciation is an internal state of being free from attachment and aversion, achieved through selfless service (karma yoga) and the purification of the mind. The chapter teaches that the path of Self-knowledge and the path of selfless action are not separate; both lead to the same supreme goal. Through daily guidance, it explains how to remain unaffected by sensory temptations, how to work without selfish attachment to results, how to see the same divine energy in all beings, and how to attain unshakable peace through mental discipline, humility, and meditation.
+This chapter explores the philosophy of renunciation (sanyas) and distinguishes true spiritual renunciation from mere physical escape. The text emphasizes that abandoning family, job, and city to live apart from worldly distractions does not lead to peace if the mind remains attached. True renunciation is an internal state marked by freedom from attachment to pleasant experiences and aversion to unpleasant ones, achieved through selfless service (karma yoga) and the purification of the mind. The chapter teaches that the path of Self-knowledge (Atma Gyan) and the path of selfless action are not separate; both lead to the same supreme goal. Through daily guidance, it explains how not to be disturbed by sensory temptations, how to work without attachment to personal outcomes, how to recognize the same universal consciousness in all beings, and how to attain lasting peace through mental discipline, humility, and meditation.
 
 ---
 
 ## Actionable Lessons with Step-by-Step Instructions
 
 ### Lesson 1: Choose Selfless Service Over Physical Isolation
-**Principle**: The path of selfless service (karma yoga) is superior to mere physical renunciation because it is easier to practice and can be done while living in the world.
+**Principle**: The path of selfless service (karma yoga) is more effective than mere physical renunciation for most practitioners because it is easier to practice and can be done while living in the world.
 
-1. Recognize that quitting your job, leaving your family, or moving to a remote place to escape pressure is not true renunciation—it is escaping reality.
-2. Instead of seeking physical isolation, commit to staying in your current circumstances and practicing selfless service.
+1. Recognize that quitting your job, leaving your family, or moving to a distant location to escape pressure is not true renunciation—it is avoiding reality.
+2. Instead of seeking physical isolation, commit to staying in your current circumstances where essential needs are reasonably satisfied and no urgent danger exists, and practicing selfless service.
 3. Perform your daily work not for personal gain, promotion, or recognition, but as an offering to the welfare of others.
-4. Evaluate whether your work benefits others; if it does not, seek to align your actions with selfless purpose.
+4. Evaluate whether your work provides tangible value, support, or service to others; if it does not, seek to direct your actions toward helping others without expectation of reward.
 5. Continue working while mentally detaching from the fruits of your labor.
 
 ### Lesson 2: Practice True Renunciation From the Heart
-**Principle**: Physical abstinence is never as effective as renunciation from the heart. True freedom is neither attachment nor aversion.
+**Principle**: Physical abstinence is generally less effective than renunciation from the heart. True freedom is neither attachment nor aversion.
 
 1. Identify a habit, object, or desire you are attached to (e.g., social media validation, a certain food, material possessions).
-2. Practice physical abstinence from it for a set period to build initial discipline.
+2. Practice physical abstinence from it for a period of 7 to 30 days to build initial discipline.
 3. Progress to mental renunciation: when you encounter the object or trigger, observe your reaction without generating desire or aversion.
-4. Test your detachment: if seeing others engage with the object does not create longing or hatred in you, you are making true progress.
+4. Test your detachment: if seeing others engage with the object does not increase your craving or create aversion toward them, you are making observable progress in reducing attachment.
 5. When attachment or aversion arises, use your intellect to analyze it, recognize its impermanence, and let it pass without emotional reaction.
 6. Repeat until the thought of the renounced object no longer crosses your mind or affects your emotions.
 
 ### Lesson 3: Unify Self-Knowledge and Selfless Action
 **Principle**: The path of renunciation and the path of selfless work are the same. Mastering one gives the benefits of both.
 
-1. Understand that self-knowledge (knowing the Self) and selfless action (karma yoga) are not separate paths but two expressions of the same truth.
-2. In your daily work, cultivate the awareness that you are not the doer; you are an instrument through which universal energy acts.
+1. Understand that self-knowledge (knowing the Self) and selfless action (karma yoga) are not separate paths but two expressions of the teaching's central truth.
+2. In your daily work, cultivate the awareness that you are not the doer; you are an instrument through which the universal Spirit as defined in the glossary operates.
 3. Perform every action with full sincerity and dedication, but without the thought "I am doing this" or "This is mine."
 4. Do not worry about outcomes, promotions, competition, or recognition. Focus entirely on the quality and selflessness of the action itself.
-5. Notice how your detached, sincere work positively influences others around you (colleagues, students, family).
+5. Notice how your detached, sincere work helps others without causing harm (colleagues, students, family).
 
 ### Lesson 4: Use Intellect to Isolate From Material Temptations Mentally
 **Principle**: Mental isolation from the material world is what is required, not physical isolation.
 
 1. When you feel drawn toward a material temptation (luxury purchase, unhealthy food, excessive entertainment), pause.
-2. Use your intellect to ask: "Is this a genuine need or a want created by the senses?"
-3. Visualize yourself mentally stepping back from the temptation, observing it without engaging, just as you would watch a cloud pass in the sky.
+2. Use your intellect to ask: "Is this a requirement for survival or basic health, or a desire created by the senses?"
+3. Visualize yourself mentally withdrawing from the temptation, observing it without engaging, just as you would watch a cloud pass in the sky.
 4. Remind yourself that material objects are temporary; they will decay, become obsolete, or be left behind.
 5. Continue with your usual activities, but this time with the inner attitude of a witness rather than a participant.
 6. Over time, this mental isolation will make it easier to work selflessly and without material motivation.
 
 ### Lesson 5: See the Same Spirit in All Beings
-**Principle**: An enlightened person sees the same universal energy in all beings, regardless of background, status, or species.
+**Principle**: An enlightened person sees the same universal energy in all beings, according to the Gita's teaching, regardless of background, status, or species.
 
 1. When interacting with anyone—a colleague, subordinate, stranger, or animal—pause and silently affirm that the same life energy flows through both of you.
-2. Observe people without judgment based on their caste, color, gender, class, or profession.
-3. Practice equal-eyed observation: look at a learned person, a worker, or an animal with the same inner respect and recognition of shared essence.
+2. Observe people without letting social categories distort your perception of their inherent worth.
+3. Observe people with equal attention and respect regardless of their social status, role, or appearance: look at a learned person, a worker, or an animal with the same inner respect and recognition of shared essence.
 4. In workplace meetings or social gatherings, remind yourself that every person has the same core aspirations, fears, and emotions as you do.
 5. Let this awareness guide how you treat others—help them not because it benefits you, but because they need help.
-6. Release the sense of hierarchy and specialness; see all beings as expressions of the same whole, like eddies in a river.
+6. Release the sense of hierarchy and specialness; see all beings as expressions of the same whole, each being interconnected with all others through the same universal consciousness.
 
 ### Lesson 6: Cultivate Unshakable Peace by Abandoning Attachment to Fruits of Action
 **Principle**: A karma yogi attains unshakable peace by abandoning attachment to the fruits of work.
 
-1. Before beginning any task, set the intention to perform it as an offering, without clinging to a specific result.
-2. During the task, if anxiety about the outcome arises, mentally detach by asking: "Can I control the result, or only my effort?"
-3. Focus entirely on the quality of your effort and surrender the result to the larger flow of life.
-4. At the end of the day, review what you did without labeling it as success or failure. Simply note the action and move on.
-5. When praise or criticism comes, receive it without elation or depression. Treat both as passing weather.
-6. Gradually expand this practice to every area of life: relationships, health, finances, and creative pursuits.
+1. Before beginning any task that does not cause harm, set the intention to perform it as an offering, without clinging to a specific result.
+2. During the task, when you notice anxiety about the outcome arising, mentally detach by asking: "Can I control the result, or only my effort?"
+3. Mentally release attachment to the outcome and redirect your focus to the quality of your effort.
+4. At the end of each day, review what you did without labeling it as success or failure. Simply note the action and move on.
+5. When praise or criticism comes, receive it without elation or depression. Regard both as temporary events that do not affect your inner state.
+6. Gradually expand this practice to your relationships, work, health, and spiritual practice.
 
-### Lesson 7: Recognize That the World Only Offers Temptations; You Choose Your Response
-**Principle**: The material world throws temptations at you; remaining unaffected is your choice.
+### Lesson 7: Recognize That the World Presents Sensory Stimuli That Can Become Temptations; You Choose Your Response
+**Principle**: Sensory stimuli arising from the material world attract your attention; remaining unaffected is your choice.
 
-1. When you feel a strong pull toward a sensory pleasure or material desire, pause and recognize: "This is a temptation arising from my senses."
+1. When you feel a strong craving or pull toward a sensory pleasure or material desire, pause and recognize: "This is a temptation arising from my senses."
 2. Acknowledge that the choice to engage or not engage is entirely yours.
 3. Do not blame external circumstances, people, or even divine forces for your actions. Take full ownership of your choices.
 4. If you have reacted poorly in the past, stop blaming others or God. Instead, look inward and identify the attachment or ignorance that caused the reaction.
 5. Make a new choice in the present moment to respond from a place of inner stillness rather than impulse.
-6. Repeat this practice until responding mindlessly to temptations becomes rare.
+6. Repeat this practice until you consistently respond to temptations mindfully rather than mindlessly.
 
 ### Lesson 8: Stop Blaming Others and Wake Up to Reality
 **Principle**: Ignorance covers Self-knowledge and causes delusion; blaming others perpetuates this delusion.
 
-1. The next time something goes wrong, resist the urge to immediately find a scapegoat (family member, colleague, government, or God).
+1. The next time you notice yourself blaming someone, resist the urge to immediately find a scapegoat (family member, colleague, government, or God).
 2. Instead, turn inward and honestly ask: "What role did my own ignorance, attachment, or action play in this outcome?"
 3. Accept responsibility for your choices, even when others are also at fault.
 4. Use this inward reflection as an opportunity to learn and correct your course, rather than to punish yourself or others.
@@ -87,21 +87,21 @@ This chapter explores the philosophy of renunciation (sanyas) and distinguishes 
 6. Enlightenment begins the moment you stop blaming and start looking inward with honesty.
 
 ### Lesson 9: Understand That Education and Success Are Not the Same as Intelligence
-**Principle**: True intelligence is the ability to use native wisdom, not just accumulated information. Ego attached to success is ignorance.
+**Principle**: True intelligence is the innate ability to discern right action, not just accumulated information. Ego attached to success is ignorance.
 
-1. Recognize that education provides information, but intellect teaches you how to use your innate intelligence.
+1. Recognize that education provides information, but your discriminative faculty reveals how to use your innate intelligence.
 2. Do not equate degrees, titles, or wealth with true intelligence or wisdom.
-3. Study the lives of successful people; notice that many were self-taught or dropped out of formal education, yet succeeded through focus, selfless service, and humility.
-4. If you achieve success, remember it is temporary. Do not become egoistic or believe you are infallible.
-5. Acknowledge the many people and circumstances that supported your success; express gratitude regularly.
+3. Study the lives of successful people; you can observe examples in the world around you of individuals who were self-taught or dropped out of formal education yet succeeded through focus, selfless service, and humility.
+4. If you achieve outer achievement, remember it is temporary. Do not become egoistic or believe you are infallible.
+5. Acknowledge the people and circumstances that supported your success; express gratitude regularly.
 6. Treat every success and failure as equally passing, like days and nights. Remain undisturbed by either.
 
 ### Lesson 10: Be Detached, Not Cold or Emotionless
 **Principle**: A detached person experiences emotions but does not cling to them; feeling an emotion is different from retaining it in memory.
 
-1. When an emotion arises (joy, anger, sadness), allow yourself to feel it fully in the present moment without judgment.
+1. When an emotion arises (joy, anger, sadness), allow yourself to feel the emotion fully in the present moment, neither suppressing nor amplifying it, and without self-criticism.
 2. Do not replay the emotion in your mind afterward, nor ruminate on the associated story.
-3. If someone wrongs you, address the issue in the moment if needed, but do not store it in memory as a grudge.
+3. If someone wrongs you, address the issue in the moment if it requires clarification, boundary-setting, or repair of harm, but do not store it in memory as a grudge.
 4. Practice the art of moving on: once the moment passes, return to inner peace without carrying its residue.
 5. Notice the difference between reacting emotionally in the moment and being controlled by stored emotional memories.
 6. Cultivate the understanding that all good and bad times end; this awareness itself brings peace.
@@ -109,25 +109,25 @@ This chapter explores the philosophy of renunciation (sanyas) and distinguishes 
 ### Lesson 11: Find Happiness Within Through Contemplation and Meditation
 **Principle**: Outer sensual pleasures are temporary and ultimately sources of misery; inner joy comes from Self-knowledge.
 
-1. Reduce your dependence on external sources of pleasure: movies, shopping, food, social media, etc.
+1. Reduce your dependence on external sources of pleasure such as movies, shopping, food, and social media.
 2. Observe how quickly each pleasure fades and how it creates a cycle of wanting more.
-3. Set aside time each day for solitude, contemplation, or meditation.
+3. Start with 10 minutes and gradually increase to 20 minutes each day for solitude, contemplation, or meditation.
 4. Begin with simple preparation: fix your gaze gently between the eyebrows, practice conscious breathing, and consciously relax your body.
-5. When your mind becomes calm, you will begin to experience a subtle, abiding joy that does not depend on external conditions.
+5. When your mind becomes calm, you will begin to experience a quiet, persistent happiness independent of external events.
 6. Gradually increase the duration and depth of your meditation practice. Let this inner joy become your primary source of happiness.
 
 ### Lesson 12: Prepare the Body and Mind for Meditation Through Yogic Techniques
 **Principle**: Mental strength requires exercise, just like physical strength. Preparation makes meditation accessible.
 
-1. Practice physical steadiness first: sit in a comfortable, upright posture with your spine straight.
+1. Practice physical steadiness first: sit in a posture that is comfortable and keeps your spine straight, whether seated on a chair or cushion.
 2. Gently fix your gaze between the eyebrows (without straining) to steady the eyeballs.
-3. Practice conscious, equalized breathing through both nostrils; this steadies the breath.
-4. Gradually bring your awareness to the movement of breath and the space between the eyebrows.
-5. When your mind wanders, gently bring it back to the breath or the focal point without frustration.
-6. With regular practice, your mind will become calm enough to perceive the difference between genuine need and lust-driven desire.
+3. Practice breathing in and out through the nose for equal counts, such as 4 counts in and 4 counts out; this steadies the breath.
+4. Gradually bring your awareness to the movement of breath and the point between your eyebrows, a traditional focal point for meditation.
+5. When your mind wanders, gently bring it back to the breath or the focal point without self-criticism or anger at the wandering mind.
+6. With consistent daily practice over four to six weeks, your mind will become sufficiently calm to maintain focused attention on the breath for 5 minutes without distraction, allowing you to perceive the difference between genuine need and lust-driven desire.
 
 ### Lesson 13: Treat Everyone as the Same Divine Expression
-**Principle**: The wise see God in all beings and therefore treat everyone with equal respect and compassion.
+**Principle**: Those who have realized Self-knowledge see the Supreme Being in all beings and therefore treat everyone with the same basic courtesy and consideration regardless of role, status, or behavior and compassion.
 
 1. In every interaction, silently remind yourself: "The same divine energy flows through this person as flows through me."
 2. Do not let differences in skill, status, or behavior create inner division or hierarchy.
@@ -137,23 +137,23 @@ This chapter explores the philosophy of renunciation (sanyas) and distinguishes 
 6. Let this vision guide your leadership, relationships, and daily choices.
 
 ### Lesson 14: Understand the Cycle of Need → Lust → Anger and Break It
-**Principle**: Needs are necessary, but lust is the perversion of need, and anger is the inevitable result of unfulfilled lust.
+**Principle**: Needs are necessary, but lust is the perversion of need, and unfulfilled lust commonly produces anger.
 
-1. When you desire something, honestly ask: "Is this a genuine need for survival, or is it a want cultivated by the senses?"
-2. Recognize the pattern: a need is fulfilled and passes; lust keeps wanting more, bigger, better.
+1. When you desire something, honestly ask: "Is this required for survival, health, or basic functioning, or is it a want cultivated by the senses?"
+2. Recognize the pattern: a need is fulfilled and passes; lust keeps wanting greater quantity, larger size, or improved quality.
 3. When lust is not fulfilled, notice the anger that arises. Trace it back to the original attachment.
-4. Practice contentment with what is sufficient. Do not upgrade your house, possessions, or status beyond genuine need.
-5. When advertising or social pressure tempts you toward "luxury," remind yourself that luxuries become new necessities in the mind.
-6. A person who controls their senses is free from both lust and anger, and therefore free from much of life's suffering.
+4. Practice contentment with what meets your actual needs for survival and basic functioning. Do not upgrade your house, possessions, or status beyond what you require for survival, health, and safety.
+5. When advertising or social pressure tempts you toward "luxury," remind yourself that luxuries frequently seem like necessities.
+6. A person who controls their senses is free from both lust and anger, and therefore free from the suffering caused by attachment and aversion.
 
 ### Lesson 15: Take Responsibility for Your Actions and Choices
-**Principle**: The Lord does not create the urge for action, the feeling of doer-ship, or attachment to results. These come from the delusive material world and your own choices.
+**Principle**: the Divine does not create the urge for action, the feeling of doer-ship, or attachment to results. These come from the delusive material world and your own choices.
 
 1. Recognize that every choice—big or small—is yours, even the choice to let someone else decide for you.
 2. Stop attributing your actions or their consequences to external forces, fate, or divine will.
 3. When you feel discomfort (heat, hunger, boredom), notice that you have a choice in how you respond.
-4. Practice small acts of self-control: tolerate minor discomfort without immediately reaching for a solution.
-5. Build the awareness that succumbing to temptation is a choice, and so is rising above it.
+4. Practice brief acts of self-control, such as tolerating one missed meal or 10 minutes of boredom without checking your phone: tolerate mild hunger that does not cause lightheadedness; boredom lasting under 15 minutes; and minor inconvenience that does not conflict with scheduled obligations, without immediately seeking relief.
+5. Build the awareness that temptation is a choice, and so is rising above it.
 6. Accept full responsibility for your actions and their karmic consequences; this empowerment is the beginning of wisdom.
 
 ---

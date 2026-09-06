@@ -2,7 +2,7 @@
 
 ## Overview
 
-This book is a daily commentary on all 18 chapters of the Bhagavad Gita, offering a comprehensive spiritual guide that synthesizes timeless wisdom for modern life. It teaches the paths of selfless action (Karma Yoga), knowledge (Gyana Yoga), devotion (Bhakti Yoga), and meditation (Dhyana Yoga) to help readers overcome moral dilemmas, transcend the three modes of material nature, and attain lasting peace and Self-realization.
+This book is a daily commentary on all 18 chapters of the Bhagavad Gita, offering a daily spiritual guide covering all 18 chapters that synthesizes timeless wisdom from the Gita for people living in the present era. It teaches the paths of selfless action (Karma Yoga), knowledge (Gyana Yoga), devotion (Bhakti Yoga), and meditation (Dhyana Yoga) to help readers overcome moral dilemmas, transcend the three modes of material nature, and attain lasting inner peace and Self-realization.
 
 ## When to Follow Book Teachings
 
@@ -12,7 +12,7 @@ This book is a daily commentary on all 18 chapters of the Bhagavad Gita, offerin
 - When seeking to understand the eternal nature of the soul and transcend fear of death and loss
 - When you need to control a restless mind, withdraw from sensory temptations, or cultivate equanimity
 - When you want to discern your true calling (svadharma) and align your work with your innate nature
-- When struggling with lust, anger, or greed — the three gates that bind the soul to material existence
+- When struggling with lust, anger, or greed — the three gates that bind the soul to material existence, according to the Bhagavad Gita
 - When seeking to cultivate divine qualities and transform demonic tendencies through self-discipline
 - When you desire to deepen devotion, practice single-minded worship, and realize the divine presence in all beings
 
@@ -23,10 +23,10 @@ This book is a daily commentary on all 18 chapters of the Bhagavad Gita, offerin
 #### Examples
 
 ##### Example 1: Arjun's Battlefield Crisis
-Arjun faces the impossible choice of killing his revered teachers and family or abandoning his duty as a warrior. Krishna teaches that moral dilemmas require clarity, not paralysis — acknowledge both sides, seek wisdom, and choose based on principle rather than attachment.
+Arjun faces the choice between killing his revered teachers and family or abandoning his duty as a warrior. Krishna teaches that moral dilemmas require clear thinking, not paralysis — acknowledge both sides of the dilemma, seek wisdom, and choose based on the principle of minimizing harm to others while fulfilling your duty rather than attachment.
 
 ##### Example 2: Choosing Between Inaction and Difficult Action
-Passivity in the face of injustice is itself a form of violence. The highest moral choice may require difficult, even painful action to uphold righteousness.
+Passivity in the face of injustice is itself harmful. The highest moral choice may require difficult, even painful action to uphold what is right.
 
 #### Step 1: [Acknowledge the Dilemma]
 Recognize when a situation presents conflicting moral imperatives. Name both sides of the dilemma clearly without dismissing either. Accept that feeling torn is natural and does not indicate weakness.
@@ -35,33 +35,33 @@ Recognize when a situation presents conflicting moral imperatives. Name both sid
 Identify the concrete consequences of each available path. Separate what is within your control from what is not. Accept that inaction is itself a choice with its own consequences.
 
 #### Step 3: [Seek Wisdom]
-Turn to trusted sources of wisdom when your own reasoning is clouded. Listen fully before defending your preferred position. Be open to perspectives that challenge your initial assumptions.
+Turn to established sources of wisdom — such as spiritual texts, teachers, or counselors — when your own reasoning is clouded. Listen fully before defending your preferred position. Be open to perspectives that challenge your initial assumptions.
 
 #### Step 4: [Clarify Duty vs Attachment]
 Clarify what your role or duty requires of you in the given situation. Examine whether emotional attachments are distorting your judgment. Separate the action required from your personal investment in the outcome.
 
 #### Step 5: [Choose Based on Principle]
-Commit to the right action regardless of whether it aligns with your preferences. Evaluate the broader consequences of both action and inaction. Choose based on principle rather than the fear of negative outcomes.
+Commit to the action that best serves your duty regardless of whether it aligns with your preferences. Evaluate the full range of consequences of both action and inaction. Choose based on an ethical principle rather than the fear of negative outcomes.
 
 #### Best Practices
 
 - ✅ Name both sides of the dilemma clearly without dismissing either
 - ✅ Accept that feeling torn is natural and does not indicate weakness
 - ✅ Seek wisdom from trusted sources before making a definitive choice
-- ✅ Commit to the right action regardless of personal preferences
+- ✅ Commit to the action that best serves your duty regardless of personal preferences
 - ❌ Don't oversimplify the choice to avoid discomfort
-- ❌ Don't let fear of consequences override principle
+- ❌ Don't let fear of consequences override your ethical principle
 - ❌ Don't confuse passivity with non-violence
 
 #### Keep In Mind
 
-- Inaction is itself a choice with its own karmic consequences
+- Inaction is itself a choice with its own consequences
 - The highest moral choice may require difficult, even painful action
-- Attachment to outcomes clouds judgment; duty requires clarity
+- Attachment to outcomes clouds sound judgment; fulfilling your duty requires careful discernment
 
 #### Security & Safety Notes
 
-- Before making life-altering decisions based on moral dilemmas, consult both spiritual wisdom and practical counsel to ensure balanced judgment
+- Before making major life decisions based on moral dilemmas, consult both spiritual wisdom and practical counsel to ensure balanced judgment
 
 #### Common Pitfalls
 
@@ -79,38 +79,38 @@ Commit to the right action regardless of whether it aligns with your preferences
 #### Examples
 
 ##### Example 1: Arjun's Grief Over Teachers and Family
-Krishna reveals that while the body dies, the soul (Atman) is eternal, indestructible, and unborn. Death is not annihilation but a transition—like changing clothes or an actor changing costumes.
+Krishna reveals that while the body dies, the soul (Atman) is eternal, indestructible, and unborn. Death is not annihilation but a transition — the soul moves from one body to another, like a person moving to a new home.
 
 ##### Example 2: The Ocean and Waves Analogy
-The waves (bodies) change, but the ocean (soul/Spirit) remains one and indivisible. Contemplating this helps foster respect for all beings and reduces superficial attachment.
+The waves (bodies) change, but the ocean (soul/Spirit) remains one and indivisible. Contemplating this helps foster respect for all beings and reduces attachment to the body alone. Treat this analogy as a conceptual illustration, not a literal physical description.
 
 #### Step 1: [Reflect on the Eternal Soul]
-Reflect daily on the fact that while the body ages, gets sick, and dies, the soul remains unchanged and eternal. Practice seeing all people as eternal souls temporarily embodied.
+Reflect daily on the fact that while the body ages, gets sick, and dies, the soul remains the same eternal essence. Practice seeing all people as eternal souls temporarily embodied.
 
 #### Step 2: [Reframe Death as Transition]
-Understand that birth and death are inevitable laws of nature; the soul never ceases to exist. Reframe death from "an end" to "a transition" — like discarding old clothes for new ones.
+Understand that birth and death are inevitable processes of nature; the soul never ceases to exist. Reframe death from "an end" to "a transition" — the soul moves to a new body, like a person moving to a new home. Treat this analogy as a conceptual illustration, not a literal description of physical processes.
 
 #### Step 3: [Honor the Soul's Journey]
-When facing the death of a loved one, remind yourself that only the body has departed; the soul continues its journey in a new form. Honor their soul's continued journey rather than clinging to physical loss.
+When facing the death of a loved one, remind yourself that only the body has departed; the soul continues in a new form. Honor their life and legacy rather than clinging to physical loss.
 
 #### Step 4: [Live in the Present]
-Live fully in the present, knowing that the past is gone and the future uncertain, but the soul is eternally present. Avoid excessive grief that distracts from your current duties.
+Live with complete attention in the present moment, knowing that the past is gone and the future uncertain, but the soul exists beyond time-bound change, according to the Bhagavad Gita. Avoid grief that distracts from your current duties.
 
 #### Step 5: [Contemplate Cosmic Analogy]
-Meditate on analogies like the ocean and waves, or space containing all objects, to internalize that the soul is the unchanging witness of changing experiences.
+Meditate on analogies like the ocean and waves, or space containing all objects, to internalize that the soul is the constant witness of changing experiences.
 
 #### Best Practices
 
 - ✅ Practice daily meditation on the distinction between body and soul
-- ✅ Honor the continued journey of departed souls without excessive grief
+- ✅ Honor the continued existence of departed souls without overwhelming grief
 - ✅ See all people as eternal souls, reducing superficial judgments and attachments
-- ❌ Don't grieve excessively to the point of neglecting your current duties
+- ❌ Don't grieve to the point of neglecting your current duties
 - ❌ Don't treat non-violence as absolute if it allows injustice to persist
 
 #### Keep In Mind
 
-- The soul is never born and never dies; it is eternally present
-- Attachment to the body causes suffering; identification with the soul brings peace
+- The soul exists beyond birth and death; it is a constant presence
+- Attachment to the body is a source of suffering; identifying with the soul brings inner peace
 
 #### Security & Safety Notes
 
@@ -118,12 +118,12 @@ Meditate on analogies like the ocean and waves, or space containing all objects,
 
 #### Common Pitfalls
 
-- **Problem:** Excessive grief paralyzing daily life after loss
-  **Solution:** Contemplate the eternal nature of the soul; channel love for the departed into honoring their memory through right action
+- **Problem:** Grief paralyzing daily life after loss
+  **Solution:** Contemplate the eternal nature of the soul; channel love for the departed into ethical action that honors their memory
 - **Problem:** Using "soul is eternal" to dismiss genuine emotional pain
   **Solution:** Allow yourself to feel emotions fully in the present; spiritual truth and emotional processing are not mutually exclusive
-- **Problem:** Becoming nihilistic about life because the body is temporary
-  **Solution:** The body's temporality is precisely why you must act now; the eternal soul uses this precious human birth for spiritual growth
+- **Problem:** Becoming dismissive of life because the body is temporary
+  **Solution:** The body's temporary nature makes ethical action in the present essential; the eternal soul uses this precious human life for spiritual growth
 
 ---
 
@@ -132,25 +132,25 @@ Meditate on analogies like the ocean and waves, or space containing all objects,
 #### Examples
 
 ##### Example 1: Arjun's Duty as a Warrior
-Krishna teaches Arjun to fight not for personal gain, but because it is his duty as a warrior. The action itself is the offering; attachment to victory or defeat is the source of suffering.
+Krishna teaches Arjun to fight not for personal gain, but because it is his duty as a warrior. The action itself is the offering; attachment to victory or defeat is a cause of suffering.
 
 ##### Example 2: Nature as the True Doer
-When you succeed, remind yourself: "This is the result of many conditions, forces, and people coming together — not solely my doing." When you fail, observe the feeling without self-condemnation.
+When you succeed, remind yourself: "This is the result of all contributing conditions, forces, and people coming together — not solely my doing." When you fail, observe the feeling without self-condemnation.
 
 #### Step 1: [Identify Obligatory Duties]
 Identify your obligatory duties — personal, professional, familial, and spiritual. Perform each duty with full dedication, competence, and honesty, giving it your absolute best.
 
 #### Step 2: [Detach from Praise and Criticism]
-Before and after each action, consciously set aside attachment to praise, criticism, success, or failure. The outcome is influenced by many factors beyond your control.
+Before and after each action, consciously set aside attachment to praise, criticism, success, or failure. The outcome is influenced by all contributing factors beyond your control.
 
 #### Step 3: [Offer Results to the Greater Good]
-Offer the fruits of your actions to the greater good or the Divine, rather than claiming them as personally yours. Practice the "middle path": avoid over-excitement in success and depression in failure.
+Offer the fruits of your actions to the welfare of all or the Divine, rather than claiming them as personally yours. Practice the "middle path": avoid over-excitement in success and depression in failure.
 
 #### Step 4: [Perform Selfless Service Daily]
-Engage in at least one act of selfless service daily, without announcing it or seeking recognition. When helping others, focus on those who genuinely need help. Make generosity a habit, not an occasional act.
+Engage in one daily act of selfless service, without announcing it or seeking recognition. When helping others, focus on those who clearly need assistance. Make generosity a habit, not an occasional act.
 
 #### Step 5: [Understand Nature Does the Work]
-Practice the understanding that you are not the sole doer; you are an instrument through which nature acts. This perspective dramatically reduces ego-driven stress and fosters humility.
+Practice the understanding that you are not the sole doer; you act as part of a larger whole in which nature operates through all beings. This perspective reduces ego-driven stress and fosters humility.
 
 #### Best Practices
 
@@ -160,13 +160,13 @@ Practice the understanding that you are not the sole doer; you are an instrument
 - ✅ Engage in daily selfless service without seeking recognition
 - ❌ Don't abandon duties out of fear of results
 - ❌ Don't equate busyness with productivity
-- ❌ Don't seek credit for outcomes that depend on many factors
+- ❌ Don't seek credit for outcomes that depend on multiple contributing factors
 
 #### Keep In Mind
 
-- Inaction itself carries karmic consequences
+- According to the Bhagavad Gita, inaction itself carries karmic consequences
 - Selfless action protects one from the fear of birth and death
-- The highest leadership is quiet, consistent, selfless action that ripples outward
+- The most effective leadership consists of quiet, consistent, selfless action that benefits others over time
 
 #### Security & Safety Notes
 
@@ -175,11 +175,11 @@ Practice the understanding that you are not the sole doer; you are an instrument
 #### Common Pitfalls
 
 - **Problem:** Taking personal credit for success or blaming yourself for failure
-  **Solution:** Acknowledge contributing factors; treat both success and failure as passing weather
+  **Solution:** Acknowledge contributing factors; treat both success and failure as temporary states that do not define your identity
 - **Problem:** Using Karma Yoga as an excuse for mediocrity or lack of effort
-  **Solution:** Perform duties with full dedication and competence; detachment is about the fruits, not the quality of action
+  **Solution:** Perform duties with thorough effort and skill; detachment concerns the fruits of action, not the quality of the action itself
 - **Problem:** Abandoning duty because attachment to results feels overwhelming
-  **Solution:** Start small; practice detachment in minor tasks before applying it to major responsibilities
+  **Solution:** Begin with simpler tasks; practice detachment in everyday activities before applying it to major responsibilities
 
 ---
 
@@ -187,23 +187,23 @@ Practice the understanding that you are not the sole doer; you are an instrument
 
 #### Examples
 
-##### Example 1: The Tortoise Method
-When faced with a sensory temptation, consciously redirect your attention elsewhere immediately — do not dwell on it. Build this as a habit through daily meditation, mindfulness, and periods of intentional silence.
+##### Example 1: The Tortoise Method (withdrawing attention at the first impulse, like a turtle retracting its limbs), according to the Bhagavad Gita. Treat this analogy as a conceptual illustration, not a literal physical description.
+When faced with a sensory temptation, consciously redirect your attention elsewhere without delay — do not dwell on it. Build this as a habit through daily meditation, mindfulness, and periods of intentional silence.
 
 ##### Example 2: Inspecting Subconscious Desires
 Periodically introspect to determine whether your desires are truly gone or merely suppressed. Physical abstinence without mental abstinence is incomplete and unsustainable.
 
 #### Step 1: [Observe Sensory Reactions]
-Observe your reactions to heat, cold, pain, and pleasure without automatically labeling them as good or bad. Practice endurance of minor discomforts to build mental resilience.
+Observe your reactions to heat, cold, pain, and pleasure without automatically labeling them as good or bad. Practice endurance of discomforts that do not cause injury or lasting harm to build mental resilience.
 
 #### Step 2: [Apply the Tortoise Method]
-When faced with a sensory temptation, consciously redirect your attention elsewhere immediately — do not dwell on it. At the very first impulse of craving, withdraw your mind and energy.
+When faced with a sensory temptation, consciously redirect your attention elsewhere without delay — do not dwell on it. At the first impulse of craving, withdraw your mind and energy.
 
 #### Step 3: [Inspect Subconscious Desires]
-Periodically introspect to determine whether your desires are truly gone or merely suppressed. Test yourself by exposing yourself to temptation in a controlled setting to see if you remain unaffected.
+Periodically introspect — at least once per week — to determine whether your desires are truly gone or merely suppressed. Test yourself by exposing yourself to temptation in a safe, low-stakes environment where you can test your responses without negative consequences to see if you remain unaffected.
 
 #### Step 4: [Condition the Mind Through Practice]
-Build "mental immunity" through regular spiritual study, self-reflection, and association with wise people. Understand that true control is mental, not physical; removing yourself from temptation is insufficient if the mind still dwells on it.
+Build resilience against mental distractions through regular spiritual study, self-reflection, and association with wise people. Understand that true control is mental, not physical; removing yourself from temptation is insufficient if the mind still dwells on it.
 
 #### Step 5: [Practice Daily Meditation]
 Build the habit of daily meditation, mindfulness, and periods of intentional silence. When a sensation arises, pause and observe it without immediate reaction; create a space between stimulus and response.
@@ -211,9 +211,9 @@ Build the habit of daily meditation, mindfulness, and periods of intentional sil
 #### Best Practices
 
 - ✅ Practice daily meditation, mindfulness, and periods of silence
-- ✅ At the first impulse of craving, withdraw your mind and energy immediately
+- ✅ At the first impulse of craving, withdraw your mind and energy without delay
 - ✅ Test your detachment in controlled settings to verify genuine progress
-- ✅ Strengthen mental immunity through spiritual study and wise association
+- ✅ Strengthen resilience against mental distractions through spiritual study and wise association
 - ❌ Don't rely solely on physical avoidance; mental renunciation is essential
 - ❌ Don't suppress desires without examining their root causes
 - ❌ Don't assume that physical abstinence equals mental freedom
@@ -226,7 +226,7 @@ Build the habit of daily meditation, mindfulness, and periods of intentional sil
 
 #### Security & Safety Notes
 
-- Extreme physical asceticism without mental preparation can lead to rebound cravings and emotional instability; progress gradually
+- Physical asceticism that exceeds your current capacity to maintain equanimity and sound judgment can lead to rebound cravings and emotional instability; advance your practice incrementally with specific, time-bound goals such as meditating 10 minutes daily for one week
 
 #### Common Pitfalls
 
@@ -235,7 +235,7 @@ Build the habit of daily meditation, mindfulness, and periods of intentional sil
 - **Problem:** Assuming suppressed desires are gone
   **Solution:** Test yourself in controlled settings; true freedom is demonstrated when temptation no longer affects you
 - **Problem:** Using willpower alone without spiritual practices
-  **Solution:** Combine intellectual restraint with meditation, self-study, and association with wise people
+  **Solution:** Combine intellectual restraint with meditation, self-study, and association with experienced teachers
 
 ---
 
@@ -244,32 +244,32 @@ Build the habit of daily meditation, mindfulness, and periods of intentional sil
 #### Examples
 
 ##### Example 1: The King Analogy
-Just as a king is not subject to his own laws, you can remain unaffected by the modes (sattva, rajas, tamas) that govern the material world. You are the witness of these modes, not their prisoner.
+Just as a king is not subject to his own laws, you can remain unaffected by the modes (sattva, rajas, tamas) that govern the material world. You are the witness of these modes, not their prisoner. Treat this analogy as a conceptual illustration, not a literal physical description.
 
 ##### Example 2: Rajas Leading to Attachment and Anger
-When rajas (restlessness) dominates, it creates insatiable desire and anxiety over results. Understanding this allows you to pause and restore balance through conscious breathing and self-reflection.
+When rajas (restlessness) dominates, it creates unquenchable desire and anxiety over results. Understanding this allows you to pause and restore balance through conscious breathing and self-reflection.
 
 #### Step 1: [Learn to Recognize the Three Gunas]
 Learn to identify sattva (harmony, clarity, peace), rajas (activity, agitation, desire), and tamas (inertia, confusion, darkness) in yourself and others.
 
 #### Step 2: [Observe Your Current Dominant Mode]
-Observe your current mental state: Is it calm and clear (sattva), agitated and active (rajas), or dull and heavy (tamas)? Identify which guna dominates your daily activities and choices.
+Observe your current mental state: Is it peaceful and clear (sattva), restless and active (rajas), or dull and heavy (tamas)? Identify which guna dominates your daily activities and choices.
 
 #### Step 3: [Restore Balance When Rajas Dominates]
 When you notice rajas (restlessness) dominating, pause and practice conscious breathing to restore balance. Channel surplus energy into selfless service rather than endless acquisition.
 
 #### Step 4: [Overcome Inertia from Tamas]
-When tamas (lethargy or avoidance) dominates, take one small physical action to break inertia. Remove distractions and seek guidance from someone wiser when feeling confused or stuck.
+When tamas (lethargy or avoidance) dominates, take one physical action to break inertia. Remove distractions and seek guidance from someone wiser when feeling confused or stuck.
 
 #### Step 5: [Cultivate Sattva and Transcend All Modes]
-When sattva (calm clarity) arises, use it to make important decisions. Gradually cultivate sattvic qualities: pure food, positive associations, spiritual practices. Ultimately, strive to remain unattached to all three modes, remembering that the Supreme Being transcends them all.
+When sattva (calm clarity) arises, use it to make decisions with long-term consequences. Gradually cultivate sattvic qualities: whole foods with no more than one processing step from their natural state, positive associations, spiritual practices. Ultimately, strive to remain unattached to all three modes, remembering that the Supreme Being transcends them all.
 
 #### Best Practices
 
 - ✅ Learn to identify sattva, rajas, and tamas in your daily life
 - ✅ When rajas dominates, pause and practice conscious breathing
-- ✅ When tamas dominates, take one small physical action to break inertia
-- ✅ Cultivate sattva through pure food, positive associations, and spiritual practices
+- ✅ When tamas dominates, take one physical action to break inertia
+- ✅ Cultivate sattva through fresh, minimally processed foods, positive associations, and spiritual practices
 - ✅ Strive to remain unattached to all three modes as the witness
 - ❌ Don't mistake rajas (restless activity) for productivity or spiritual progress
 - ❌ Don't let tamas (avoidance) become chronic inertia
@@ -283,16 +283,16 @@ When sattva (calm clarity) arises, use it to make important decisions. Gradually
 
 #### Security & Safety Notes
 
-- Understanding the gunas helps prevent burnout from rajas-driven overwork and addresses tamasic self-neglect
+- Understanding the gunas helps prevent exhaustion from rajas-driven overwork and addresses tamasic self-neglect
 
 #### Common Pitfalls
 
 - **Problem:** Mistaking rajas-driven ambition for purposeful action
-  **Solution:** Examine whether actions are driven by genuine duty or by restless craving for results
+  **Solution:** Examine whether actions are driven by your actual duty or by restless craving for results
 - **Problem:** Using spiritual practices to reinforce ego (sattvic pride)
   **Solution:** Remember that sattva is still a mode; the goal is to witness all three modes without identification
 - **Problem:** Feeling overwhelmed by tamasic inertia
-  **Solution:** Start with one small physical action; momentum builds from tiny beginnings
+  **Solution:** Start with one physical action; momentum builds from beginnings
 
 ---
 
@@ -301,34 +301,34 @@ When sattva (calm clarity) arises, use it to make important decisions. Gradually
 #### Examples
 
 ##### Example 1: Treating Pleasure and Pain Equally
-Treat pleasure and pain, gain and loss, victory and defeat with the same balanced mindset. Practice the "middle path": avoid over-excitement in success and depression in failure.
+Treat pleasure and pain, gain and loss, victory and defeat with the same steady observation, avoiding elation in success and despondency in failure. Practice the "middle path": avoid elation in success and despondency in failure.
 
 ##### Example 2: Observing the Five Causes of Action
-Every action involves the body, ego, organs of perception/action, bio-impulses, and past karmic impressions. Do not identify solely with the body or ego as the "doer."
+Every action involves the body, ego, organs of perception and action, innate biological drives, and past karmic impressions. Do not identify solely with the body or ego as the "doer."
 
 #### Step 1: [Observe Without Immediate Reaction]
-When a pleasant event occurs, acknowledge it, thank the source, and avoid clinging. When a difficult event occurs, remain neutral in your response for at least 10 seconds before reacting. Breathe.
+When a pleasant event occurs, acknowledge it, thank the source of the pleasant experience, and avoid clinging. When a difficult event occurs, remain neutral in your response for a short pause before reacting. Breathe.
 
 #### Step 2: [Practice the Middle Path]
 Practice the "middle path": avoid over-excitement in success and depression in failure. When praised, remain humble; when criticized, remain undisturbed. Cultivate the understanding that external circumstances are temporary.
 
 #### Step 3: [Treat All People Equally]
-Treat companions, friends, enemies, neutrals, and strangers with equal respect and attention. Recognize that they are also acting under the influence of their own modes of nature.
+Treat loved ones, acquaintances, adversaries, and strangers with equal respect and attention. Recognize that they are also acting under the influence of their own modes of nature.
 
 #### Step 4: [Accept the Five Causes of Action]
-Understand that every action involves the body, ego, organs, bio-impulses, and past karma. Do not identify solely with the body or ego as the "doer." Reduce ego-identification to minimize karmic bondage.
+Understand that every deliberate action involves the body, ego, organs, innate biological drives, and past karma. Do not identify solely with the body or ego as the "doer." Reduce ego-identification to minimize karmic bondage.
 
 #### Step 5: [Reflect on Control vs. Lack of Control]
-When anxiety about outcomes arises, mentally detach by asking: "Can I control the result, or only my effort?" Focus entirely on the quality of your effort and surrender the result to the larger flow of life.
+When worry about outcomes arises, mentally detach by asking: "Can I control the result, or only my effort?" Focus entirely on the quality of your effort and surrender the result to the natural order of causes beyond your control.
 
 #### Best Practices
 
-- ✅ Treat pleasure and pain, gain and loss, victory and defeat with the same balanced mindset
+- ✅ Treat pleasure and pain, gain and loss, victory and defeat with the same steady observation, avoiding elation in success and despondency in failure
 - ✅ When praised, remain humble; when criticized, remain undisturbed
 - ✅ Treat all people equally—dear ones and difficult ones
 - ✅ Reduce ego-identification to minimize karmic bondage
 - ❌ Don't cling to pleasant experiences or resist unpleasant ones
-- ❌ Don't take credit or blame solely for outcomes influenced by many factors
+- ❌ Don't take credit or blame solely for outcomes influenced by multiple contributing factors
 - ❌ Don't let external circumstances define your inner worth
 
 #### Keep In Mind
@@ -342,12 +342,12 @@ When anxiety about outcomes arises, mentally detach by asking: "Can I control th
 
 #### Common Pitfalls
 
-- **Problem:** Over-excitement in success or depression in failure
-  **Solution:** Practice the "middle path"; treat both as passing weather that does not define your identity
+- **Problem:** Over-excitement in success or despondency in failure
+  **Solution:** Practice the "middle path"; treat both as temporary states that do not define your identity
 - **Problem:** Taking all credit or blame for outcomes
   **Solution:** Remember the five causes of action; you are one factor among many
 - **Problem:** Mistaking numbness for equanimity
-  **Solution:** True equanimity is active balance, not emotional suppression; feel deeply without clinging
+  **Solution:** True equanimity involves engaged balance, not emotional suppression; feel deeply without clinging
 
 ---
 
@@ -356,29 +356,29 @@ When anxiety about outcomes arises, mentally detach by asking: "Can I control th
 #### Examples
 
 ##### Example 1: The Three Gates of Hell
-Lust, anger, and greed are identified as the three primary emotions that bind the soul to the material world and cause spiritual downfall. Controlling these gates is essential for attaining the Supreme Abode.
+Lust, anger, and greed are identified as three emotions that bind the soul to material existence, according to the Bhagavad Gita. Controlling these tendencies is essential for attaining the Supreme Abode.
 
 ##### Example 2: Divine vs. Demonic Nature
-Divine qualities (fearlessness, purity, perseverance, charity, sense-restraint, equanimity, compassion) lead to liberation. Demonic qualities (hypocrisy, arrogance, anger, harshness, ignorance) lead to bondage and sorrow.
+Divine qualities (fearlessness, purity, perseverance, charity, sense-restraint, equanimity, compassion) support liberation. Demonic qualities (hypocrisy, arrogance, anger, harshness, ignorance) lead to bondage and sorrow.
 
 #### Step 1: [Practice Fearlessness and Inner Purity]
-Practice fearlessness by strengthening undaunted faith in God, love, wisdom, justice, and protection. Turn the mind inward through yoga and devotion to renounce worldly desires and attain inner purity.
+Practice fearlessness by cultivating trust through repeated experience of divine presence in God, love, wisdom, justice, and protection. Turn the mind inward through yoga and devotion to renounce worldly desires and attain inner purity.
 
 #### Step 2: [Engage in Charity of Knowledge]
 Share whatever knowledge and resources you have with fellow beings. Cultivate sense-restraint by consciously limiting indulgences and directing energy toward spiritual growth.
 
 #### Step 3: [Identify and Transform Demonic Tendencies]
-Identify demonic tendencies: hypocrisy, arrogance, pride, anger, harshness, ignorance, self-importance. Recognize self-importance as delusion — money, status, or bookish knowledge are not true measures of greatness.
+Identify harmful tendencies: hypocrisy, arrogance, pride, anger, harshness, ignorance, self-importance. Recognize self-importance as distorted thinking — money, status, or bookish knowledge are not true measures of a person's worth.
 
 #### Step 4: [Control the Three Gates of Hell]
-Understand the downward spiral: lust → unfulfilled lust → anger → violence; fulfilled lust → greed → endless desire. Practice contentment, limit exposure to stimuli that fuel excessive desire, and redirect energy toward spiritual practices.
+Understand the pattern: lust leads to unfulfilled desire, which leads to anger; fulfilled lust leads to greed and endless desire. Practice contentment, reduce exposure by at least 50% that fuel excessive desire, and redirect energy toward spiritual practices.
 
 #### Step 5: [Follow Scriptural Injunctions as Your Life Manual]
-Use scriptures as the authoritative guide for determining right action, rather than acting on personal whims or desires. Distinguish theoretical from practical knowledge; mere reading gives information, but application gives wisdom.
+Use established scriptures as a time-tested guide for determining right action, rather than acting on impulsive personal desires. Distinguish theoretical from practical knowledge; mere reading gives information, but application gives wisdom.
 
 #### Best Practices
 
-- ✅ Practice fearlessness through undaunted faith in wisdom and protection
+- ✅ Practice fearlessness through steady faith in wisdom and protection
 - ✅ Engage in charity of knowledge — share what you have learned
 - ✅ Cultivate sense-restraint and consciously redirect energy toward spiritual growth
 - ✅ Identify and transform demonic tendencies through self-awareness and feedback
@@ -388,9 +388,9 @@ Use scriptures as the authoritative guide for determining right action, rather t
 
 #### Keep In Mind
 
-- Divine qualities are your inherent nature; demonic tendencies are acquired habits that can be unlearned
+- Positive qualities reflect your true nature; harmful tendencies are learned patterns that can be changed through consistent practice
 - The three gates of hell (lust, anger, greed) are the primary obstacles to liberation
-- Scriptures serve as the life manual for righteous living
+- Established scriptures provide time-tested guidance for righteous living
 
 #### Security & Safety Notes
 
@@ -398,12 +398,12 @@ Use scriptures as the authoritative guide for determining right action, rather t
 
 #### Common Pitfalls
 
-- **Problem:** Believing demonic tendencies are unchangeable
-  **Solution:** Trust your inherent goodness; demonic tendencies are acquired habits that can be unlearned through consistent practice
+- **Problem:** Believing harmful tendencies are unchangeable
+  **Solution:** Trust your capacity for positive change; harmful tendencies are learned patterns that can be unlearned through consistent practice
 - **Problem:** Using spiritual knowledge to feel superior to others
   **Solution:** Practice humility; give credit to others and recognize that knowledge without application is incomplete
 - **Problem:** Allowing anger to justify harmful actions
-  **Solution:** Pause before reacting; observe anger and let it dissipate before it leads to violence
+  **Solution:** Pause before reacting; observe anger and let it subside before it leads to harmful behavior
 
 ---
 
@@ -412,7 +412,7 @@ Use scriptures as the authoritative guide for determining right action, rather t
 #### Examples
 
 ##### Example 1: Single-Minded Devotion to a Personal Deity
-Choose a personal deity or form of God and make them your spiritual ideal. Renounce attachment to the fruits of all actions — offer every action to God. Direct your energy toward self-perfection in the image of that ideal.
+Choose a personal deity or form of the divine whose qualities you find most inspiring and wish to cultivate, and use their qualities as a model for your own spiritual development. Renounce attachment to the fruits of all actions — offer every action to the divine. Direct your energy toward self-perfection in the image of that ideal.
 
 ##### Example 2: The Five Ingredients of Right Living
 Dedicating all actions to God, making Self-realization the supreme goal, serving humanity as divine service, cultivating detachment from material existence, and maintaining freedom from hatred toward all beings.
@@ -424,13 +424,13 @@ Begin each day by consciously dedicating all actions to the Supreme. Whatever yo
 Set God or the universal Self as your highest and primary life goal, not material achievements. Understand that both the perishable body and imperishable soul originate from the same universal source.
 
 #### Step 3: [Serve Humanity as Divine Service]
-Serve others intentionally, seeing each person as an expression of the divine. Help because they need help, not because it benefits you. Release the need to be recognized or appreciated for your service.
+Serve others intentionally, recognizing the divine presence in each person. Help because they need help, not because it benefits you. Release the need to be recognized or appreciated for your service.
 
 #### Step 4: [Cultivate Detachment from Material Existence]
-Practice detachment from material possessions, status, and sensory pleasures through periodic simplification and reflection. When hatred or enmity arises, consciously work to release it through forgiveness practices.
+Practice detachment from material possessions, status, and sensory pleasures through one period per week of reducing non-essential possessions and commitments and reflection. When hatred or enmity arises, consciously work to release it through forgiveness practices.
 
 #### Step 5: [Practice Constant Remembrance Through Service]
-Dedicate all daily actions as an offering or form of worship. Before each action, pause briefly and mentally offer it to the Supreme. Gradually, this constant remembrance will calm the mind and prepare it for deeper realization.
+Dedicate your daily actions — work, meals, service — as offerings or forms of worship. Before each action, pause briefly and mentally offer it to the Supreme. Gradually, this constant remembrance will calm the mind and prepare it for deeper realization.
 
 #### Best Practices
 
@@ -439,14 +439,14 @@ Dedicate all daily actions as an offering or form of worship. Before each action
 - ✅ Make Self-realization or spiritual growth your primary life goal
 - ✅ Cultivate detachment from material possessions and sensory pleasures
 - ❌ Don't worship with hidden agendas or for material gain
-- ❌ Don't cling to places, relationships, or identities as sources of identity
+- ❌ Don't cling to places, relationships, or identities as foundations of your self-concept
 - ❌ Don't confuse self-torture or extreme hardship with genuine devotion
 
 #### Keep In Mind
 
-- The highest form of devotion is unconditional prayer and selfless action without attachment to results
-- All sincere worship elevates the devotee; all deities are manifestations of the one Supreme Being
-- It is never too late to begin a spiritual life; past mistakes are washed away by sincere repentance
+- The most effective devotion is unconditional prayer and selfless action without attachment to results
+- Sincere worship, meaning worship offered without selfish desire, supports spiritual progress; all forms of worship are expressions of the one Supreme Being
+- It is never too late to begin a spiritual life; past mistakes can be transformed through sincere repentance
 
 #### Security & Safety Notes
 
@@ -455,11 +455,11 @@ Dedicate all daily actions as an offering or form of worship. Before each action
 #### Common Pitfalls
 
 - **Problem:** Praying with hidden agendas or attachment to specific outcomes
-  **Solution:** Practice selfless devotion: "If this is for my highest good, may it be fulfilled"
+  **Solution:** Practice selfless devotion: "If this serves my highest well-being, may it be fulfilled"
 - **Problem:** Mistaking ritualistic worship for genuine surrender
-  **Solution:** Focus on the sincerity of your heart rather than the magnitude of ritual
+  **Solution:** Focus on the sincerity of your intention rather than the magnitude of ritual
 - **Problem:** Using devotion to escape from worldly responsibilities
-  **Solution:** True devotion is expressed through selfless action in the world, not withdrawal from it
+  **Solution:** Authentic devotion is expressed through selfless action in the world, not withdrawal from it
 
 ---
 
@@ -468,30 +468,30 @@ Dedicate all daily actions as an offering or form of worship. Before each action
 #### Examples
 
 ##### Example 1: Daily Acts of Selfless Service
-Engage in at least one act of selfless service daily, without announcing it or seeking recognition. When helping others, focus on those who genuinely need help — they will remember your kindness forever.
+Engage in one daily act of selfless service, without announcing it or seeking recognition. When helping others, focus on those who clearly need assistance — they benefit from receiving this help.
 
 ##### Example 2: Sattvic Charity
-Give to deserving candidates who cannot reciprocate your gift. Give at the right place and time, with respect and dignity for the recipient. Prioritize empowering charity (education, job training) over mere material giving.
+Give to those who need assistance and cannot reciprocate your gift. Give at a time and in a manner that honors the recipient's dignity and avoids public embarrassment. Give without reluctance, expectation of return, or desire for recognition.
 
 #### Step 1: [Engage in Daily Selfless Service]
-Engage in at least one act of selfless service daily, without announcing it or seeking recognition. When helping others, focus on those who genuinely need help.
+Engage in one daily act of selfless service, without announcing it or seeking recognition. When helping others, focus on those who clearly need assistance.
 
 #### Step 2: [Practice the Hierarchy of Giving]
-Choose deserving candidates who cannot reciprocate your gift. Give at the right place and time, with respect and dignity. Give without reluctance, expectation of return, or desire for recognition.
+Choose recipients who need assistance and cannot reciprocate your gift. Give at a time and in a manner that honors the recipient's dignity and avoids public embarrassment. Give without reluctance, expectation of return, or desire for recognition.
 
 #### Step 3: [Perform Service Without Hypocrisy]
 Ensure your service follows scriptural guidelines and is free from hypocrisy and ego. Offer the results of all service to the Divine, renouncing attachment to outcomes.
 
 #### Step 4: [Prioritize Empowering Charity]
-Prioritize empowering charity (education, job training) over mere material giving. Avoid giving to unworthy persons or in ways that humiliate the receiver.
+Prioritize empowering charity (education, job training) over mere material giving. Avoid giving in ways that humiliate the receiver.
 
 #### Step 5: [Substitute Pleasure with Giving]
 Substitute the pursuit of personal pleasure with the joy of giving. Notice how helping others brings deeper satisfaction than acquiring material goods. Make generosity a habit, not an occasional act.
 
 #### Best Practices
 
-- ✅ Engage in at least one act of selfless service daily without seeking recognition
-- ✅ Give to deserving candidates who cannot reciprocate
+- ✅ Engage in one daily act of selfless service without seeking recognition
+- ✅ Give to those who need assistance and cannot reciprocate
 - ✅ Give at the right place and time, with respect and dignity
 - ✅ Prioritize empowering charity over mere material giving
 - ✅ Perform service as duty, without selfish motive, expecting nothing in return
@@ -501,8 +501,8 @@ Substitute the pursuit of personal pleasure with the joy of giving. Notice how h
 
 #### Keep In Mind
 
-- Selfless service purifies the mind and leads to wisdom
-- Even small, consistent giving dissolves karmic bondage
+- Selfless service clears selfish patterns from the mind and leads to wisdom
+- Even small, consistent giving reduces selfish attachment
 - Service to others is service to the divine present in all beings
 
 #### Security & Safety Notes
@@ -511,7 +511,7 @@ Substitute the pursuit of personal pleasure with the joy of giving. Notice how h
 
 #### Common Pitfalls
 
-- **Problem:** Giving for recognition or to feel good about oneself
+- **Problem:** Giving for recognition or to feel better about oneself
   **Solution:** Give anonymously when possible; focus on the recipient's need, not your self-image
 - **Problem:** Helping in ways that create dependency rather than empowerment
   **Solution:** Prioritize education, skill-building, and opportunities over repeated handouts
@@ -525,30 +525,30 @@ Substitute the pursuit of personal pleasure with the joy of giving. Notice how h
 #### Examples
 
 ##### Example 1: Approaching a Realized Master
-Identify a mentor, teacher, or guide who has walked the path you want to follow. Approach them with humble reverence, sincere inquiry, and service — without expectation of reward. Complement external teaching with inward meditation.
+Identify a mentor, teacher, or guide who has experience in the path you want to follow. Approach them with humble reverence, sincere inquiry, and service — without expectation of reward. Complement external teaching with inward meditation.
 
 ##### Example 2: Applying Knowledge Within 24 Hours
-Study spiritual or philosophical teachings regularly. After each study session, identify one specific action you can apply from what you learned. Implement that action within the next 24 hours. Reflect at the end of the day on how the application affected your state of mind.
+Study spiritual or philosophical teachings regularly. After each study session, identify one concrete action you can apply from what you learned. Implement that action within the next 24 hours. Reflect at the end of the day on how the application affected your state of mind.
 
 #### Step 1: [Identify a Mentor or Teacher]
-Identify a mentor, teacher, or guide in your field or spiritual life who has walked the path you want to follow. Approach them with humble reverence — acknowledge their experience without ego.
+Identify a mentor, teacher, or guide in your field or spiritual life who has experience in the path you want to follow. Approach them with humble reverence — acknowledge their experience without ego.
 
 #### Step 2: [Offer Sincere Inquiry and Service]
-Offer sincere inquiry — ask clear, honest questions. Offer help or support without expectation of reward. Complement external teaching with inward meditation to connect with your own inner wisdom.
+Offer sincere inquiry — ask direct, honest questions. Offer help or support without expectation of reward. Complement external teaching with inward meditation to connect with your own inner wisdom.
 
 #### Step 3: [Apply Knowledge Immediately]
 After each study session, identify one specific action you can apply from what you learned. Implement that action within the next 24 hours. Reflect at the end of the day on how the application affected your state of mind.
 
 #### Step 4: [Continue the Cycle of Learn-Apply-Reflect]
-Continue this cycle — learn, apply, reflect — until knowledge transforms into lived wisdom. Study the lives of successful people; notice that many succeeded through focus, selfless service, and humility rather than formal credentials alone.
+Continue this cycle — learn, apply, reflect — until knowledge becomes practical wisdom you can use. Study the lives of people who have achieved results you admire; notice that individuals who were self-taught or dropped out of formal education succeeded through focus, selfless service, and humility rather than formal credentials alone.
 
 #### Step 5: [Distinguish Theoretical from Practical Wisdom]
-Understand that education provides information, but intellect teaches you how to use your innate intelligence. Do not equate degrees, titles, or wealth with true intelligence or wisdom.
+Understand that education provides information, but intellect teaches you how to apply your innate discernment. Do not equate degrees, titles, or wealth with true intelligence or wisdom.
 
 #### Best Practices
 
 - ✅ Approach teachers with humble reverence, sincere inquiry, and selfless service
-- ✅ Apply at least one lesson from study within 24 hours
+- ✅ Apply one concrete lesson from study within 24 hours
 - ✅ Reflect daily on how teachings affect your state of mind
 - ✅ Complement external teaching with inward meditation
 - ❌ Don't accumulate knowledge without applying it
@@ -557,18 +557,18 @@ Understand that education provides information, but intellect teaches you how to
 
 #### Keep In Mind
 
-- True intelligence is the ability to use native wisdom, not just accumulated information
+- Practical intelligence is the ability to apply discernment to real-world situations, not just accumulate information
 - Knowledge without application is theoretical; wisdom is lived experience
 - A realized teacher can guide you, but the inner journey is ultimately yours
 
 #### Security & Safety Notes
 
-- Discernment is essential when choosing teachers; verify that their life exemplifies the teachings they share
+- Discernment is essential when choosing teachers; observe whether their consistent actions over time align with the principles they teach
 
 #### Common Pitfalls
 
 - **Problem:** Accumulating spiritual knowledge without applying it
-  **Solution:** Commit to one actionable step from each study session within 24 hours
+  **Solution:** Commit to one concrete action from each study session within 24 hours
 - **Problem:** Becoming dependent on a teacher without developing inner discernment
   **Solution:** Complement external guidance with inward meditation and self-reflection
 - **Problem:** Judging teachers by credentials rather than character
@@ -580,32 +580,32 @@ Understand that education provides information, but intellect teaches you how to
 
 #### Examples
 
-##### Example 1: Faith as Invisible Connection
-Develop faith in the divine presence within all beings. Let faith become your "Wi-Fi" — an invisible but powerful connection to the divine source. Move beyond conditional faith — faith only in what your senses can perceive.
+##### Example 1: Faith as Inner Connection
+Develop faith in the divine presence within all beings. Let faith become an inner connection to the divine. Move beyond conditional faith — faith only in what your senses can perceive.
 
-##### Example 2: The Seven Goddesses/Guardian Qualities
-The seven divine attributes that can be consciously cultivated through deep meditation: fame or glory, prosperity, speech, memory, intellect, resolve, and forgiveness. Meditate on each quality as a luminous presence within your heart.
+##### Example 2: The Seven Divine Qualities (see Glossary)
+The seven divine attributes that can be consciously cultivated through deep meditation: fame or glory, prosperity, speech, memory, intellect, resolve, and forgiveness. Meditate on each quality as a positive force within your character.
 
 #### Step 1: [Develop Unwavering Faith]
 Acknowledge that faith is the foundation of all relationships and daily life. Move beyond conditional faith. Develop faith in the divine presence within all beings. Practice trusting the universal consciousness even when outcomes are uncertain.
 
 #### Step 2: [Cultivate the Seven Divine Qualities]
-Make a list of the divine qualities: discrimination, self-knowledge, forgiveness, truthfulness, control over mind and senses, tranquillity, fearlessness, non-violence, equanimity, contentment, austerity, and charity. Each morning, choose one quality to focus on for that day.
+Make a list of the divine qualities: fame or glory, prosperity, speech, memory, intellect, resolve, and forgiveness. Each morning, choose one quality to focus on for that day.
 
 #### Step 3: [Meditate on Divine Qualities]
-After settling into a quiet meditation posture, focus your mind on each quality one at a time. Visualize the quality as a luminous presence within your heart, emanating from the universal energy. Silently affirm: "This quality is already within me, and I consciously draw it forth."
+After settling into a comfortable seated posture that allows you to remain still and alert, focus your mind on each quality one at a time. Visualize the quality as a positive force within your character, emanating from your core values. Silently affirm: "This quality is already within me, and I consciously draw it forth."
 
 #### Step 4: [Offer Simple, Sincere Offerings]
-Understand that the value of an offering lies in the devotion behind it, not its material worth. Offer whatever you can — a leaf, flower, fruit, or water — with genuine love. Avoid comparing your offering to others'.
+Understand that the value of an offering lies in the devotion behind it, not its material worth. Offer whatever you have — a leaf, flower, fruit, or water — with genuine love. Avoid comparing your offering to others'.
 
 #### Step 5: [Strengthen Personal Faith Through Practice]
-Strengthen your personal faith by regularly engaging in practices that resonate with you. Respect all forms of worship and faith, recognizing that sincere reverence toward any deity ultimately connects to the one universal consciousness.
+Strengthen your personal faith by regularly engaging in practices that resonate with you. Respect diverse forms of worship and faith, recognizing that sincere reverence toward any spiritual ideal ultimately connects to the one universal consciousness.
 
 #### Best Practices
 
 - ✅ Develop faith beyond what your senses can perceive
 - ✅ Each morning, choose one divine quality to cultivate throughout the day
-- ✅ Meditate on divine qualities as luminous presences within your heart
+- ✅ Meditate on divine qualities as positive forces within your character
 - ✅ Offer simple, sincere offerings with genuine love
 - ❌ Don't limit your understanding of the divine to a single finite form
 - ❌ Don't judge others' spiritual practices as inferior
@@ -613,8 +613,8 @@ Strengthen your personal faith by regularly engaging in practices that resonate 
 
 #### Keep In Mind
 
-- Faith is an invisible but powerful connection to the divine source
-- All sincere worship elevates the devotee; all forms are manifestations of the one Supreme Being
+- Faith is an inner but powerful connection to the divine source
+- Sincere worship, meaning worship offered without selfish desire, supports spiritual progress; diverse spiritual forms are expressions of the one Supreme Being
 - The value of worship lies in the devotion behind it, not its material magnitude
 
 #### Security & Safety Notes
@@ -624,7 +624,7 @@ Strengthen your personal faith by regularly engaging in practices that resonate 
 #### Common Pitfalls
 
 - **Problem:** Faith limited to what can be physically proven
-  **Solution:** Expand your perspective; the divine exists in both manifested and unmanifested forms
+  **Solution:** Expand your perspective; the divine exists in both experienced and unexperienced forms
 - **Problem:** Comparing your spiritual practice to others'
   **Solution:** Respect all sincere paths; focus on your own journey without judgment
 - **Problem:** Offering with the expectation of specific returns
@@ -637,22 +637,22 @@ Strengthen your personal faith by regularly engaging in practices that resonate 
 #### Examples
 
 ##### Example 1: The Electricity and Bulb Analogy
-The Spirit-factor is like electricity that enlivens a bulb. Material bodies are inert without the animating consciousness. Seeing this in all beings eliminates hierarchy and fosters equal respect.
+The conscious presence (Atman) animates all beings, just as electricity powers a light bulb. Treat this analogy as a conceptual illustration, not a literal physical description. Metaphorically, material bodies are inert without this animating consciousness. Seeing this in all beings eliminates hierarchy and fosters equal respect.
 
 ##### Example 2: The Gold and Gold Ornaments Analogy
-Gold and gold ornaments are different in form but identical in essence. Similarly, all beings are different in form but share the same divine essence. This understanding eliminates violence, selfishness, and conflict.
+Gold and gold ornaments differ in form but share the same essence. Similarly, all beings differ in form but share the same divine essence. This understanding eliminates violence, selfishness, and conflict.
 
 #### Step 1: [Recognize the Same Spirit in All Beings]
-When interacting with anyone — a colleague, subordinate, stranger, or animal — silently affirm that the same life energy flows through both of you. See all beings as expressions of the same whole, like eddies in a river.
+When interacting with anyone — a colleague, subordinate, stranger, or animal — silently affirm that the same consciousness flows through both of you. See all beings as expressions of the same whole, each interconnected with all others.
 
 #### Step 2: [Practice Equal-Eyed Observation]
 Observe people without judgment based on their caste, color, gender, class, or profession. Look at a learned person, a worker, or an animal with the same inner respect and recognition of shared essence.
 
 #### Step 3: [See Divine Essence in Daily Life]
-Throughout the day, acknowledge the presence of the divine in ordinary phenomena — the taste of water, the warmth of the sun, the sound of silence. Before eating, reflect on the sacred essence present in your food.
+Throughout the day, acknowledge the presence of the sacred in ordinary phenomena — the taste of water, the warmth of the sun, the sound of silence. Before eating, reflect on the life force present in your food.
 
 #### Step 4: [Serve Without Expectation]
-Help others not because it benefits you, but because they need help. Release the sense of hierarchy and specialness. Let this awareness guide how you treat others — in leadership, relationships, and daily choices.
+Help others not because it benefits you, but because they need help. Release the sense of hierarchy and specialness. Let this understanding guide how you treat others — in leadership, relationships, and daily choices.
 
 #### Step 5: [Practice the "One Self" Reflection]
 When about to speak harshly or act selfishly toward someone, pause and ask: "Would I say/do this to myself?" Since the same Self exists in all beings, hurting them is, in essence, hurting yourself.
@@ -670,7 +670,7 @@ When about to speak harshly or act selfishly toward someone, pause and ask: "Wou
 #### Keep In Mind
 
 - The wise see God in all beings and therefore treat everyone with equal respect and compassion
-- At the level of the soul, there is no difference between any two beings
+- Metaphorically, at the level of the soul, there is no difference between any two beings
 - Seeing others as different from you is the root of violence and conflict
 
 #### Security & Safety Notes
@@ -693,31 +693,31 @@ When about to speak harshly or act selfishly toward someone, pause and ask: "Wou
 #### Examples
 
 ##### Example 1: Aligning Work With Natural Calling
-Reflect on what activities energize you and come naturally. Avoid forcing yourself into careers or roles chosen by others if they feel unnatural. Natural work, even if difficult, sustains inner peace.
+Reflect on what activities engage you and come naturally. Avoid forcing yourself into careers or roles chosen by others if they conflict with your demonstrated strengths and values. Work aligned with your nature, even if difficult, sustains inner peace.
 
 ##### Example 2: The Fourfold Classification
-Humanity is classified by inherent qualities: Brahmin (sattva-dominated, intellectual), Kshatriya (sattva-rajas, heroic), Vaishya (rajas-tamas, skilled in trade), and Shudra (tamas-dominated, service-oriented). Each has its own svadharma.
+Humanity is classified by inherent qualities in traditional texts: Brahmin (intellectual, knowledge-oriented), Kshatriya (heroic, leadership-oriented), Vaishya (skilled in trade and commerce), and Shudra (service-oriented). Each has its own svadharma.
 
 #### Step 1: [Identify Your Dominant Qualities]
-Reflect on your daily motivations and natural inclinations. Do you act for selfless reasons (sattva), personal gain (rajas), or out of ignorance/stubbornness (tamas)? Identify your predominant mode.
+Reflect on your regular motivations and natural inclinations. Do you act for selfless reasons (sattva), personal gain (rajas), or out of ignorance or stubbornness (tamas)? Identify your predominant mode.
 
 #### Step 2: [Align Work With Your Nature]
-Reflect on what activities energize you and come naturally. Identify the work or profession that aligns with your innate talents and inner calling. Avoid forcing yourself into careers chosen by others if they feel unnatural.
+Reflect on what activities engage you and come naturally. Identify the work or profession that aligns with your innate talents and inner calling. Avoid forcing yourself into careers chosen by others if they conflict with your demonstrated strengths and values, as observed in your own experience.
 
 #### Step 3: [Perform Your Svadharma Selflessly]
-Choose work and responsibilities aligned with your nature, not societal pressure. Perform that work selflessly without attachment to success or failure. Natural work, even if difficult, sustains inner peace.
+Choose work and responsibilities that suit your nature, not societal pressure. Perform that work selflessly without attachment to success or failure. Work aligned with your nature, even if difficult, sustains inner peace.
 
 #### Step 4: [Evaluate Current Work Honestly]
-If currently in unnatural work, create a gradual plan to transition toward work that fits your nature. Recognize that doing unnatural work produces chronic stress.
+If currently in work that does not suit you, create a step-by-step plan to transition toward work that fits your nature. Recognize that doing unsuitable work often produces chronic stress.
 
 #### Step 5: [Accept Your Unique Timeline for Growth]
-Do not compare your spiritual or personal progress with others. Everyone matures at their own pace. Trust that realizations will come when your mind is ready. Be patient with yourself and others.
+Do not compare your spiritual or personal progress with others. People mature at different rates. Trust that realizations will come when your mind is ready. Be patient with yourself and others.
 
 #### Best Practices
 
-- ✅ Reflect on activities that energize you and come naturally
+- ✅ Reflect on activities that engage you and come naturally
 - ✅ Align work with innate talents and inner calling
-- ✅ Avoid forcing yourself into roles chosen by others if they feel unnatural
+- ✅ Avoid forcing yourself into roles chosen by others if they conflict with your demonstrated strengths and values, as observed in your own experience
 - ✅ Perform your svadharma selflessly without attachment to results
 - ❌ Don't equate degrees, titles, or wealth with true intelligence
 - ❌ Don't compare your progress with others' timelines
@@ -727,7 +727,7 @@ Do not compare your spiritual or personal progress with others. Everyone matures
 
 - Work aligned with one's innate nature produces peace; work forced against one's nature creates suffering
 - No single path (meditation, knowledge, or selfless service) is superior; the right path fits your temperament
-- Education provides information, but intellect teaches you how to use your innate intelligence
+- Education provides information, but intellect teaches you how to use your native intelligence
 
 #### Security & Safety Notes
 
@@ -735,10 +735,10 @@ Do not compare your spiritual or personal progress with others. Everyone matures
 
 #### Common Pitfalls
 
-- **Problem:** Staying in unnatural work because of external expectations
-  **Solution:** Create a gradual transition plan; chronic stress from misalignment is a signal to change
+- **Problem:** Staying in unsuitable work because of external expectations
+  **Solution:** Create a step-by-step transition plan; chronic stress from misalignment is a signal to change
 - **Problem:** Mistaking social status or salary for alignment with nature
-  **Solution:** Ask yourself: "Does this work energize me or drain me? Does it come naturally?"
+  **Solution:** Ask yourself: "Does this work engage me or exhaust me? Does it suit my nature?"
 - **Problem:** Abandoning duty because it feels difficult
   **Solution:** Difficult work aligned with your nature sustains peace; easy work against your nature creates suffering
 
@@ -749,25 +749,25 @@ Do not compare your spiritual or personal progress with others. Everyone matures
 #### Examples
 
 ##### Example 1: The Film Projection Analogy
-The Supreme Being pervades all existence while remaining beyond the material world, just as a film projector creates images on a screen without being affected by them. Recognizing this removes identification with the modes.
+The Supreme Being pervades all existence while remaining beyond the material world, just as a filmmaker creates images on a screen without being affected by them. Treat this analogy as a conceptual illustration, not a literal description of creation. Recognizing this removes identification with the modes.
 
 ##### Example 2: Rising Above Sattva, Rajas, and Tamas
-A person who has risen above the three modes is free from attachment to pleasure, free from aversion to pain, and free from ego. They see the divine equally in all beings and attain unshakable peace.
+A person who has transcended the three modes is free from attachment to pleasure, free from aversion to pain, and free from ego. They see the divine equally in all beings and attain steady peace.
 
 #### Step 1: [Recognize Which Mode Dominates]
-Pause and observe your current mental state. Ask yourself: Am I seeking knowledge and inner peace (goodness), chasing desires and restless activity (passion), or feeling confused, lazy, and unmotivated (ignorance)? Note which mode is strongest.
+Pause and observe your current mental state. Ask yourself: Am I seeking knowledge and inner peace (sattva/goodness), chasing desires and restless activity (rajas/passion), or feeling confused, lazy, and unmotivated (tamas/ignorance)? Note which mode is strongest.
 
 #### Step 2: [Strengthen the Mode of Goodness]
-Choose environments, conversations, and media that promote clarity, learning, and peace. Engage in one daily intellectual or spiritual practice — reading, study, or contemplation. Set aside time for meditation to cultivate inner tranquility.
+Choose environments, conversations, and media that promote clarity, learning, and peace. Engage in one daily practice — reading, study, or contemplation — to cultivate inner tranquility. Set aside time for meditation.
 
 #### Step 3: [Reduce Restlessness from Passion]
 List your current desires and attachments. For each item, ask: Do I truly need this, or is this driven by craving? Practice performing actions without clinging to the outcome. Channel surplus energy into selfless service.
 
 #### Step 4: [Overcome Inertia and Delusion]
-Identify one small task you have been avoiding. Start with just 5 minutes of effort — overcoming inertia is the hardest part. Remove distractions from your workspace. Seek guidance from someone wiser when confused.
+Identify one task you have been avoiding. Start with just 5 minutes of effort — overcoming inertia is the hardest part. Remove distractions from your workspace. Seek guidance from someone wiser when confused.
 
 #### Step 5: [Transcend All Three Modes]
-Strive to remain unattached to all three modes, remembering that the Supreme Being transcends them all. Use the analogy of the king: just as a king is not subject to his own laws, you can remain unaffected by the modes.
+Strive to remain unattached to all three modes, remembering that the Supreme Being transcends them all. Use the analogy of the king: just as a king is not subject to his own laws, you can remain unaffected by the modes. Treat this analogy as a conceptual illustration, not a literal description of legal or political systems.
 
 #### Best Practices
 
@@ -783,7 +783,7 @@ Strive to remain unattached to all three modes, remembering that the Supreme Bei
 
 - Attachment to the modes binds the soul to the cycle of rebirth
 - Liberation requires seeing through the illusion that these modes define who you are
-- The Supreme Being transcends all three modes; you can too through detachment
+- The Supreme transcends all three modes; you can too through detachment
 
 #### Security & Safety Notes
 
@@ -796,7 +796,7 @@ Strive to remain unattached to all three modes, remembering that the Supreme Bei
 - **Problem:** Using gunas theory to judge others as "better" or "worse"
   **Solution:** Everyone is influenced by the modes; use this knowledge for self-improvement, not judgment of others
 - **Problem:** Feeling stuck in tamas and unable to change
-  **Solution:** Start with one small physical action; momentum builds from tiny beginnings
+  **Solution:** Start with one physical action; momentum builds from beginnings
 
 ---
 
@@ -805,13 +805,13 @@ Strive to remain unattached to all three modes, remembering that the Supreme Bei
 #### Examples
 
 ##### Example 1: The Chain of Attachment → Desire → Anger
-Attachment to sense objects → desire → unfulfilled desire → anger → delusion → loss of reason → destruction. At the very first moment of attraction, examine it mentally before it solidifies into craving.
+Attachment to sense objects leads to desire; unfulfilled desire leads to anger; anger leads to delusion; delusion leads to loss of reason; and loss of reason leads to destruction. At the very first moment of attraction, examine it mentally before it solidifies into craving.
 
 ##### Example 2: Self-Knowledge Burns Karmic Bonds
-Self-knowledge is like fire that burns old karmic bonds. Study your own patterns: what thoughts trigger cravings? What knowledge could replace ignorance? Spend time learning truths about impermanence and the unity of all beings.
+Self-knowledge is like fire that reduces old karmic bonds. Study your own patterns: what thoughts trigger cravings? What knowledge could replace ignorance? Spend time learning truths about impermanence and the unity of all beings.
 
 #### Step 1: [Recognize the Chain of Suffering]
-Recognize the sequence: attachment to sense objects → desire → unfulfilled desire → anger → delusion → loss of reason → destruction. At the very first moment of attraction to a sense object, examine it mentally before it solidifies into craving.
+Recognize the sequence: attachment to sense objects leads to desire; unfulfilled desire leads to anger; anger leads to delusion; delusion leads to loss of reason; and loss of reason leads to destruction. At the very first moment of attraction to a sense object, examine it mentally before it solidifies into craving.
 
 #### Step 2: [Prevent Desire from Becoming Anger]
 If desire arises and is unfulfilled, consciously prevent it from transforming into anger by practicing acceptance and equanimity. If anger arises, withdraw and calm the mind immediately through breathing or meditation before it leads to delusion.
@@ -820,10 +820,10 @@ If desire arises and is unfulfilled, consciously prevent it from transforming in
 Study spiritual teachings and reflect deeply on the nature of your true self as distinct from the body and mind. Meditate daily on the presence of the universal Spirit within you and all beings.
 
 #### Step 4: [Work Toward Freedom from "I" and "my"]
-Work toward freedom from the feeling of "I" and "my" — mentally offer your actions and their fruits to something greater than yourself. Realize that without self-knowledge, there can be no true peace; and without peace, there can be no lasting happiness.
+Work toward freedom from the feeling of "I" and "my" — mentally offer your actions and their fruits to something greater than yourself. Realize that without self-knowledge, lasting inner peace is difficult; and without inner peace, lasting happiness is difficult.
 
 #### Step 5: [Use Self-Knowledge as a Sword]
-Use self-knowledge as a sword to cut through ignorance-born confusion, then engage in the world with clarity and peace. Treat self-knowledge like a fire that burns old habits.
+Use self-knowledge to directly dispel confusion caused by ignorance, then engage in the world with clarity and peace. Treat self-knowledge like a fire that reduces old habits. Treat this as a conceptual illustration, not a literal description of combustion.
 
 #### Best Practices
 
@@ -838,12 +838,12 @@ Use self-knowledge as a sword to cut through ignorance-born confusion, then enga
 #### Keep In Mind
 
 - The chain of suffering begins with attachment; breaking it requires vigilance at the first link
-- Self-knowledge is the lamp that destroys the darkness of ignorance
-- Without self-knowledge, there can be no true peace; without peace, no lasting happiness
+- Self-knowledge directly dispels the ignorance that causes suffering
+- Without self-knowledge, lasting inner peace is difficult; without inner peace, lasting happiness is difficult
 
 #### Security & Safety Notes
 
-- Self-knowledge is not an intellectual exercise alone; it requires lived experience, ethical living, and often guidance from a qualified teacher
+- Self-knowledge is not an intellectual exercise alone; it requires lived experience, ethical living, and frequent guidance from a qualified teacher
 
 #### Common Pitfalls
 
@@ -852,7 +852,7 @@ Use self-knowledge as a sword to cut through ignorance-born confusion, then enga
 - **Problem:** Believing self-knowledge is purely intellectual
   **Solution:** Self-knowledge is direct experiential understanding; it requires meditation, reflection, and lived practice
 - **Problem:** Using spiritual practice to escape from rather than engage with the world
-  **Solution:** Self-knowledge empowers right action; use it as a sword to cut through confusion and act with clarity
+  **Solution:** Self-knowledge empowers ethical action; use it to dispel confusion and act with clarity
 
 ---
 
@@ -861,40 +861,40 @@ Use self-knowledge as a sword to cut through ignorance-born confusion, then enga
 #### Examples
 
 ##### Example 1: Turning to the Divine at Any Stage of Life
-Accept that it is never too late to begin a spiritual life. If you have sinned or strayed, acknowledge your mistakes without self-condemnation. Make a genuine resolution to turn toward the divine with single-minded devotion.
+Accept that it is never too late to begin a spiritual life. If you have erred or strayed, acknowledge your mistakes without self-condemnation. Make a genuine resolution to turn toward the divine with single-minded devotion.
 
 ##### Example 2: The Sacred Sound Aum (Om)
-The sacred monosyllable Aum is the primordial sound and essence of all the Vedas, representing the Supreme Being. Chanting Aum during meditation connects the practitioner to the universal consciousness.
+The sacred monosyllable Aum is the primordial sound described in the Vedas, representing the Supreme Being. Chanting Aum during meditation connects the practitioner to the universal consciousness.
 
 #### Step 1: [Accept That It Is Never Too Late]
-Accept that it is never too late to begin a spiritual life. If you have sinned or strayed, acknowledge your mistakes without self-condemnation. Make a genuine resolution to turn toward the divine with single-minded devotion.
+Accept that it is never too late to begin a spiritual life. If you have erred or strayed, acknowledge your mistakes without self-condemnation. Make a genuine resolution to turn toward the divine with single-minded devotion.
 
 #### Step 2: [Practice Unconditional Surrender]
-Cultivate simple, unconditional faith in God. Perform actions without focusing on their outcomes. Accept all results — success or failure, pleasure or pain — as divine grace with complete equanimity.
+Cultivate simple, unconditional faith in God. Perform actions without focusing on their outcomes. Accept all results — success or failure, pleasure or pain — with steady equanimity.
 
 #### Step 3: [Use Aum (Om) in Meditation]
 Chant the sacred sound "AUM" during meditation to connect with the universal consciousness. Begin all acts of sacrifice, charity, and austerity by chanting "Aum" to cleanse ritual impurities.
 
 #### Step 4: [Progress from Righteousness to Lasting Peace]
-Begin by awakening your sense of discrimination — understand what is temporary vs. eternal. Review your life honestly to identify where you have made mistakes. Resolve firmly not to repeat those mistakes.
+Begin by awakening your power of discernment — understand what is temporary versus eternal. Review your life honestly to identify where you have made mistakes. Resolve firmly not to repeat those mistakes.
 
 #### Step 5: [Cultivate Absolute Focus on the Divine]
-When tempted, shift your attention to the divine rather than struggling alone. Cultivate absolute focus on the universal energy through meditation and devotion. Allow this focus to help you realize the divine energy within your own soul.
+When tempted, shift your attention to the divine rather than struggling alone. Cultivate steady focus on the universal energy through meditation and devotion. Allow this focus to help you realize the divine presence within your own soul.
 
 #### Best Practices
 
 - ✅ Accept that it is never too late to begin a spiritual life
 - ✅ Acknowledge past mistakes without self-condemnation
-- ✅ Practice unconditional surrender and accept all results as divine grace
+- ✅ Practice unconditional surrender and accept all results with equanimity
 - ✅ Use Aum (Om) in meditation to connect with universal consciousness
 - ❌ Don't let past mistakes prevent you from starting anew today
-- ❌ Don't pray with hidden agendas or attachment to specific outcomes
+- ❌ Don't pray with undisclosed motives or attachment to specific outcomes
 - ❌ Don't confuse surrender with passivity or inaction
 
 #### Keep In Mind
 
-- Past sins are washed away by sincere repentance and surrender
-- Enlightenment begins the moment you stop blaming and start looking inward with honesty
+- Past mistakes can be transformed through sincere repentance and surrender
+- The process of enlightenment often begins when you stop blaming and start looking inward
 - Focus on the present moment and your current resolve rather than past failures
 
 #### Security & Safety Notes
@@ -904,7 +904,7 @@ When tempted, shift your attention to the divine rather than struggling alone. C
 #### Common Pitfalls
 
 - **Problem:** Feeling unworthy due to past mistakes or "sins"
-  **Solution:** Accept that sincere repentance and surrender wash away past actions; focus on present resolve
+  **Solution:** Accept that sincere repentance and surrender can transform past actions; focus on present resolve
 - **Problem:** Praying with hidden agendas while claiming to be devotional
   **Solution:** Regularly check your motives; redirect from "give me" to "may Your will be done"
 - **Problem:** Mistaking surrender for passivity or giving up effort
@@ -920,22 +920,22 @@ When tempted, shift your attention to the divine rather than struggling alone. C
 Austerity of deed (respect to teachers, physical purity, non-violence), austerity of word (truthful, pleasant, beneficial speech), and austerity of thought (serenity, gentle thoughts, self-control).
 
 ##### Example 2: The Sattvic Diet
-Choose fresh, wholesome foods cooked to enhance nutrients, pleasing to the eye, tasteful, and easy to digest. Minimize rajasic foods (bitter, sour, spicy, overly stimulating). Avoid tamasic foods (stale, tasteless, putrid).
+Choose fresh, minimally processed plant-based foods cooked to preserve nutrients, pleasing to the eye, tasteful, and easy to digest. Minimize rajasic foods (excessively spicy, sour, or bitter foods that agitate the mind). Avoid tamasic foods (stale, tasteless, putrid).
 
 #### Step 1: [Practice Austerity of Deed]
-Show respect to celestial beings, teachers, gurus, and wise persons. Maintain physical purity through proper hygiene and cleanliness. Practice non-violence and sense-control.
+Show respect to teachers, mentors, and wise persons. Maintain physical cleanliness through proper hygiene. Practice non-violence and sense-control.
 
 #### Step 2: [Practice Austerity of Word]
-Speak only words that are truthful, pleasant, beneficial, and non-offensive. Avoid hurtful speech, even if truthful; practice prudent silence when necessary. Reduce unnecessary talking; aim for measured, meaningful communication.
+Speak only words that are truthful, constructive, and considerate. Avoid hurtful speech, even if truthful; practice prudent silence when necessary. Reduce unnecessary talking; aim for measured, meaningful communication.
 
 #### Step 3: [Practice Austerity of Thought]
 Cultivate serenity of mind by maintaining stress-free relationships. Allow only gentle, good thoughts to flow through your mind. Practice inward silence — calmness without passion or desire.
 
 #### Step 4: [Adopt a Sattvic Diet]
-Favor sattvic foods: fresh fruits, vegetables, whole grains, legumes, fresh dairy, nuts, natural sweets. Minimize rajasic foods. Strictly avoid tamasic foods: stale, tasteless, putrid, or impure items.
+Favor sattvic foods — fresh fruits, vegetables, whole grains, legumes, fresh dairy, nuts, and natural sweets — that promote clarity and health. Minimize rajasic foods. Strictly avoid tamasic foods: stale, tasteless, putrid, or impure items.
 
 #### Step 5: [Purify Your Mode of Worship]
-If your current worship involves seeking material gains or displaying wealth, shift toward selfless worship for the sake of divine blessings alone. Avoid worship based on superstition. Perform worship with humility, free from hypocrisy, egotism, and desire for admiration.
+If your current worship involves seeking material rewards or displaying wealth, shift toward selfless worship for spiritual growth alone. Avoid worship based on superstition. Perform worship with humility, free from hypocrisy, egotism, and desire for admiration.
 
 #### Best Practices
 
@@ -949,8 +949,8 @@ If your current worship involves seeking material gains or displaying wealth, sh
 
 #### Keep In Mind
 
-- Austerity must be practiced selflessly without desire for fruit
-- Actions without faith are useless and produce no results
+- Austerity must be practiced without desire for personal reward
+- Actions without sincere intention are ineffective and produce no meaningful results
 - The mode of your worship reflects the mode of your nature
 
 #### Security & Safety Notes
@@ -959,12 +959,12 @@ If your current worship involves seeking material gains or displaying wealth, sh
 
 #### Common Pitfalls
 
-- **Problem:** Practicing austerity to show spiritual superiority
-  **Solution:** Practice austerity privately and selflessly; the goal is inner purification, not external display
+- **Problem:** Practicing austerity to feel spiritually superior to others
+  **Solution:** Practice austerity privately and without self-promotion; the goal is inner purification, not external display
 - **Problem:** Eating without awareness or gratitude
   **Solution:** Eat with awareness, recognizing food as sustenance for both body and mind
-- **Problem:** Confusing dietary restrictions with spiritual superiority
-  **Solution:** Sattvic diet supports clarity; it is a tool, not a measure of spiritual advancement
+- **Problem:** Confusing dietary restrictions with spiritual advancement
+  **Solution:** Sattvic diet supports mental clarity; it is a practical tool, not a measure of spiritual advancement
 
 ---
 
@@ -973,25 +973,25 @@ If your current worship involves seeking material gains or displaying wealth, sh
 #### Examples
 
 ##### Example 1: The Cosmic Tree with Roots in the Divine
-Visualize your body and mind as an eternal tree rooted in the Supreme Being, with your desires as branches spreading outward. Cut the roots of desire with the axe of detachment to attain liberation.
+Visualize your body and mind as a tree rooted in the Supreme Being, with your desires as branches spreading outward. Use the practice of detachment to cut the roots of desire and attain liberation.
 
 ##### Example 2: The Final Surrender
-Set God or the universal Self as your supreme goal, not material achievements. Offer every action as worship or service to the divine. Release ego and the sense of "I, me, and mine" through constant contemplation.
+Set God or the universal Self as your highest goal, not material achievements. Offer every action as worship or service to the divine. Release ego and the sense of "I, me, and mine" through regular contemplation.
 
 #### Step 1: [Practice True Renunciation of Fruits]
-Perform your obligatory duties without attachment to outcomes. Eliminate both desire-prompted action (present) and desire for reward (future). Treat work as desireless action offered to the divine.
+Perform your core duties without attachment to outcomes. Eliminate both desire-prompted action in the present and desire for reward in the future. Treat work as desireless action offered to the divine.
 
 #### Step 2: [Never Abandon Your Duty]
-Identify your core obligations (self, family, community, profession). Perform them ungrudgingly without expecting returns. If an action feels burdensome, examine whether it is true abandonment or necessary change.
+Identify your core responsibilities (self, family, community, profession). Perform them willingly without expecting returns. If an action feels burdensome, examine whether it is true abandonment or necessary change.
 
 #### Step 3: [Transcend Beyond the Temporal and Eternal]
-Recognize that both material achievements (temporal) and spiritual identity (eternal) are not the ultimate reality. When attached to either success or spiritual attainment, ask: "What remains when both are set aside?"
+Recognize that both material achievements (temporal) and spiritual identity (eternal) are not the unchanging reality beyond them. When attached to either success or spiritual attainment, ask: "What remains when both are set aside?"
 
 #### Step 4: [Spread Transcendental Knowledge]
-Study the teachings and share them with others. Help others understand their innate divinity. Even partial understanding, when shared, serves the highest devotional purpose.
+Study the teachings of the Gita and share them with others. Help others understand their innate divinity. Even partial understanding, when shared, serves the highest devotional purpose.
 
 #### Step 5: [Cultivate the Qualities of the Knower of the Field]
-Pick one quality each day from the list: humility, modesty, non-violence, forgiveness, honesty, service to guru, purity, steadfastness, self-control, detachment from sense objects, absence of ego. Practice it deliberately in every interaction.
+Pick one quality each day from the list: humility, modesty, non-violence, forgiveness, honesty, service to others, purity, steadfastness, self-control, detachment from sense objects, absence of ego. Practice it deliberately in your regular interactions.
 
 #### Best Practices
 
@@ -1006,9 +1006,9 @@ Pick one quality each day from the list: humility, modesty, non-violence, forgiv
 
 #### Keep In Mind
 
-- Liberation is attained not by abandoning duty, but by performing prescribed work without attachment to fruits
-- The goal of human birth is to realize the Supreme Being and merge the soul with its source
-- Where Krishna consciousness and self-controlled action exist, there is everlasting prosperity, victory, welfare, and morality
+- Freedom from the karmic cycle is attained not by abandoning duty, but by performing prescribed work without attachment to fruits
+- A primary goal of human life, according to the Gita, is to realize the Supreme and merge the soul with its source
+- Where devotion and self-controlled action exist, there is lasting well-being, victory, welfare, and moral character
 
 #### Security & Safety Notes
 
@@ -1056,8 +1056,8 @@ Pick one quality each day from the list: humility, modesty, non-violence, forgiv
 |Enlightenment / Self-realization|The state of being free from all desires, attachment, fear, and anger; knowing the true nature of the soul|2, 3, 5, 6, 12, 13|
 |Equanimity (Samatva)|Steadiness of mind in pleasure and pain, gain and loss, victory and defeat; the natural state of the soul|2, 3, 4, 5, 6, 10, 12, 13, 14, 16, 18|
 |Faith (Shraddha)|Belief system shaped by one's mode of nature; essential for spiritual evolution and all relationships|9, 17|
-|Five Factors of Action|Physical body, ego, organs of perception/action + mind, bio-impulses, and presiding deities (fate/karma)|18|
-|Fourfold Classification|Classification of humanity: Brahmin (sattva), Kshatriya (sattva-rajas), Vaishya (rajas-tamas), Shudra (tamas)|18|
+|Five Factors of Action|Physical body, ego, organs of perception and action, innate biological drives, and presiding deities (fate/karma)|18|
+|Fourfold Classification|Classification of humanity in traditional texts: Brahmin (intellectual), Kshatriya (heroic), Vaishya (skilled in trade), Shudra (service-oriented)|18|
 |Gunas (Sattva, Rajas, Tamas)|The three fundamental qualities of material nature: sattva (goodness), rajas (passion), tamas (ignorance)|3, 4, 7, 9, 13, 14, 17, 18|
 |Gyana Yoga|The path of Self-knowledge and discrimination; the contemplative spiritual path for those inclined toward wisdom|3, 4|
 |Indriyas (Senses)|The five sense organs and the mind, which create attachments to sense objects|2|
@@ -1081,7 +1081,7 @@ Pick one quality each day from the list: humility, modesty, non-violence, forgiv
 |Sanjay|Dhritarashtra's charioteer and narrator; granted divine vision to recount the war's events|1, 18|
 |Sattva|The mode of goodness, harmony, and serenity; the highest of the three gunas for spiritual progress|3, 7, 9, 13, 14, 17, 18|
 |Self-Knowledge (Atma-jnana / Atma Gyan)|Direct experiential understanding of the eternal Self; the highest wisdom that liberates from the cycle of rebirth|4, 7, 9, 10, 13, 14, 15, 18|
-|Senses / Sense Objects (Indriyas)|The five organs of perception and the external objects that attract the mind, often leading to attachment|2, 3, 6, 14, 15|
+|Senses / Sense Objects (Indriyas)|The five organs of perception and the external objects that attract the mind, frequently leading to attachment|2, 3, 6, 14, 15|
 |Steady Intellect / Steady Wisdom|The intellect of a person who is completely unattached, unaffected by desired or undesired results|2|
 |Surrender (Prapatti)|Complete submission to God's will, releasing all personal attachment and anxiety about outcomes|7, 9, 12, 18|
 |Svadharma|One's own inherent duty or calling based on personal nature and karmic past|18|
