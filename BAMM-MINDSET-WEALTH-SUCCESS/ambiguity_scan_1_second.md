@@ -1,0 +1,8 @@
+# Ambiguity Scan: Lines 1-187
+
+| Line | Type | Exact Text | Why Ambiguous | Suggested Fix |
+|------|------|------------|---------------|---------------|
+| 99 | QUANTIFIER | "Partial effort typically produces partial results" | "typically" is a vague quantifier without bounded context or specific frequency data | Replace with specific percentage or frequency (e.g., "in X% of observed cases" or "based on data from Y studies") |
+| 99 | VAGUE QUALIFIER | "you are unlikely to achieve the full intended outcome" | "unlikely" is a vague probability qualifier without a specific likelihood or threshold | Replace with specific probability (e.g., "you have a less than 20% chance of achieving") or remove if not data-backed |
+| 111 | AMBIGUITY/ERROR | "test yourself over one week by tracking your task completion rate in 4-hour blocks from 6 a.m. to 10 p.m. to identify your personal peak by tracking your task completion rate in 4-hour blocks from 6 a.m. to 10 p.m. to identify your personal peak" | The phrase "by tracking your task completion rate in 4-hour blocks from 6 a.m. to 10 p.m. to identify your personal peak" is duplicated, making the sentence grammatically incorrect and confusing | Remove the duplicate phrase so the instruction reads only once |
+| 182 | VAGUE REFERENCE | "referencing research from the Harvard Business Review (2016) as cited in the book (the specific article title, authors, and methodology are not provided in the source material)" | The reference to Harvard Business Review (2016) lacks specific article title, authors, and methodology, making it impossible to verify the research claim | Provide full citation details (article title, authors, publication date, and methodology) or remove the specific reference if details are unavailable |
