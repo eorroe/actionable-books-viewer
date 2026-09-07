@@ -2,7 +2,7 @@
 
 ## Summary
 
-This chapter presents Krishna's teachings on the eternal cosmic tree, the nature of the individual soul, and the path to realizing the Supreme Being. Using the metaphor of an upside-down tree with roots in the Supreme Being and branches of desire, Krishna explains how material existence (the physical world) binds the soul through karma (action and its consequences) and sensory attachment (attachment to sense objects). The chapter progresses through eleven days of reflection, covering the distinction between perishable matter and imperishable Spirit, the transmigration of the soul, the need for detachment and Self-knowledge, and the ultimate transcendence beyond both the temporal and eternal into the Absolute Reality (the Supreme Being).
+This chapter presents Krishna's teachings on the eternal cosmic tree, the nature of the individual soul, and the path to realizing the Supreme Being. Using the metaphor of an upside-down tree with roots in the Supreme Being and branches of desire, Krishna explains how material existence (the physical world) binds the soul through karma (action and its consequences) and sensory attachment (attachment to sense objects). The chapter progresses through a structured 11-day reflection period with daily exercises, covering the distinction between perishable matter and imperishable Spirit, the transmigration of the soul, the need for detachment and Self-knowledge, and the ultimate transcendence beyond both the temporal and eternal into the Absolute Reality (the Supreme Being).
 
 ---
 
@@ -11,28 +11,28 @@ This chapter presents Krishna's teachings on the eternal cosmic tree, the nature
 ### 1. Understand the Cosmic Tree Within You
 **Step-by-step:**
 - Visualize your body and mind as an eternal tree (a metaphor from this chapter representing the cosmos and the individual) rooted in the Supreme Being, with your desires as branches
-- Contemplate how your nervous system mirrors this cosmic structure (the brain as source, nerves as branches)
-- Identify which "branches" of desire are strongest, meaning the desire that most often interrupts (for example, more than 3 times per day) your focused activity, in your life.
+- Contemplate your nervous system as a symbolic reflection of this cosmic structure
+- Identify which "branches" of desire are strongest, meaning the desire that interrupts your focused activity more than three times per day
 
 ### 2. Cut the Roots of Desire with the Axe of Detachment
 **Step-by-step:**
 - Acknowledge that desires create a repeating cycle: acquiring one possession leads to desiring additional possessions to maintain or complement it.
 - When a new desire arises, pause and ask whether it is necessary, meaning required for survival or health, or merely an extension of a previous desire.
-- Practice detachment by consciously choosing not to pursue non-essential, meaning not required for survival or health, wants for one day, then extend this practice gradually, adding one day each week.
-- Replace attachment to material objects with attachment to spiritual growth, meaning progress in self-knowledge and detachment and the Supreme Being.
+- Practice detachment by consciously choosing not to pursue non-essential wants, meaning those not required for survival or health, for one day, then extend this practice gradually, adding one day each week.
+- Replace attachment to material objects with attachment to spiritual growth—progress in self-knowledge and detachment, evidenced by reduced reactivity or increased clarity, and devotion to the Supreme Being.
 
 ### 3. Free Yourself from Pride and Delusion
 **Step-by-step:**
-- At the start of each day, write down one area where pride may have clouded your judgment in the past week.
-- Before making a major decision, ask yourself whether ego is influencing the choice.
+- At the start of each day, write down one recent decision where you prioritized your own importance over accuracy or others' welfare in the past week.
+- Before making a major decision, ask yourself whether the impulse to protect your self-image is motivating you rather than choosing what is best for the situation.
 - Practice humility by giving credit to others for successes, acknowledging your part in failures, and focusing on learning rather than self-criticism.
 - Meditate on the idea that your true identity is beyond your social role, job title, or possessions.
 
 ### 4. Cultivate Equanimity in Pleasure and Pain
 **Step-by-step:**
 - When experiencing pleasure or pain, observe the sensation without immediately labeling it as good or bad.
-- Remind yourself that both pleasure and pain are temporary experiences of the material world and are not expressions of your true nature.
-- Practice staying present during uncomfortable situations (such as sitting in silence or fasting) to build tolerance for discomfort.
+- Remind yourself that both pleasure and pain are temporary experiences within the material world and are not expressions of your true nature.
+- Practice staying present during situations that trigger your desire to escape or avoid (such as sitting in silence or fasting) to build tolerance for discomfort.
 - At the end of each day, note one instance where you remained equanimous despite external circumstances.
 
 ### 5. Recognize Your Soul as Part of the Universal Spirit
@@ -60,7 +60,7 @@ This chapter presents Krishna's teachings on the eternal cosmic tree, the nature
 **Step-by-step:**
 - Recognize that both your material achievements (temporal) and your spiritual identity (eternal) are not the ultimate reality.
 - When attached to either success or spiritual attainment, ask: "What remains when both are set aside?"
-- Practice surrendering the need to label experiences as material or spiritual; instead, rest in the state of pure awareness that observes both material and spiritual dimensions without identification.
+- Practice surrendering the need to label experiences as material or spiritual; instead, rest in the state of pure awareness.
 - At the close of meditation, sit in awareness of awareness itself, without focusing on an object, without discursive thought, and without the sense of a separate self.
 
 ---
@@ -81,5 +81,5 @@ This chapter presents Krishna's teachings on the eternal cosmic tree, the nature
 | Supreme Abode | The state of liberation where the soul merges with or abides in the Supreme Being, free from returning to the mortal world. |
 | Modes of Nature | The three fundamental qualities (sattva, rajas, tamas) that determine the character of the soul's experiences in different forms of existence. |
 | Ego | The sense of individual identity that binds the soul to the material world and creates karmic attachments. |
-| Equanimity | The state of mental balance and neutrality in the face of pleasure and pain, success and failure. |
+| Equanimity | state of mental balance and neutrality in the face of pleasure and pain, success and failure. |
 | Transmigration | The process by which the soul, at death, carries its sensory faculties and karmic impressions to a new body in the next life. |

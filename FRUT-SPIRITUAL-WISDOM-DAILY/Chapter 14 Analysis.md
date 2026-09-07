@@ -2,7 +2,7 @@
 
 ## Summary
 
-This chapter (Days 17–30) explores the three modes of material nature—goodness (sattva), passion (rajas), and ignorance (tamas)—and how they influence the eternal conscious self (Purusha/spirit) to identify with the temporary physical body. It explains how these modes operate in human behavior patterns, their measurable effects on decision-making and emotional responses, and the step-by-step path to reducing their influence through self-knowledge, equanimity, and devotion. The chapter culminates in describing the observable behaviors and internal states of a person who has consistently practiced rising above these modes and attained direct self-awareness (Atma Jnana).
+This chapter (Days 17–30) explores the three modes of material nature—goodness (sattva), passion (rajas), and ignorance (tamas)—and how they influence the eternal conscious self (Purusha/spirit) to identify with the temporary physical body. It explains how these modes operate in human behavior patterns, their observable effects on decision-making and emotional responses, and the step-by-step path to reducing their influence through self-knowledge, equanimity, and devotion. The chapter culminates in describing the observable behaviors and internal states of a person who has consistently practiced rising above these modes and attained direct self-awareness (Atma Jnana).
 
 ---
 
@@ -10,11 +10,11 @@ This chapter (Days 17–30) explores the three modes of material nature—goodne
 
 ### 1. Recognize Which Mode Is Dominant in Your Mind
 
-**Problem:** You may feel pulled between competing motivations or emotional states without understanding which mode of nature is driving them.
+**Problem:** You may feel pulled between competing motivations.
 
 **Steps:**
 1. Pause your current activity and observe your current mental, emotional, and physical state for at least 30 seconds.
-2. Ask yourself: *Am I seeking knowledge and inner peace (goodness), chasing specific desires and restlessly pursuing activities (passion), or feeling confused, lazy, and unmotivated (ignorance)?*
+2. Ask yourself: *Am I seeking knowledge and inner peace (goodness), pursuing specific external goals or acquisitions and restlessly pursuing activities (passion), or feeling confused, lazy, and unmotivated (ignorance)?*
 3. Note which single mode appears most frequently in your current thoughts and behaviors
 4. Use this specific observation to adjust your actions rather than being driven by the mode.
 
@@ -22,20 +22,20 @@ This chapter (Days 17–30) explores the three modes of material nature—goodne
 
 ### 2. Strengthen the Mode of Goodness (Sattva)
 
-**Problem:** Dominant passion or ignorance leads to measurable anxiety, restlessness, or inaction that interferes with your daily responsibilities and goals.
+**Problem:** Dominant passion or ignorance leads to observable symptoms of anxiety, such as racing thoughts or restlessness, or inaction that interferes with your daily responsibilities and goals.
 
 **Steps:**
-1. Choose environments, conversations, and media that promote clear understanding of facts, skill development, and peaceful conditions (low conflict, adequate rest).
+1. Choose environments, conversations, and media that provide accurate information and skill-building opportunities, and peaceful conditions (low conflict, adequate rest).
 2. Engage in one specific 15-30 minute daily intellectual or spiritual practice—reading, study, or contemplation—at a consistent time.
 3. Set aside a specific 10-20 minute time block for meditation or quiet reflection to cultivate measurable inner tranquility (reduced heart rate, emotional responses with lower intensity (such as reduced anger or anxiety)).
-4. Practice concrete self-discipline in speech: avoid specific improper talk (lies, exaggerations), gossip (talking about others without their presence), or harsh words (insults, sarcasm, yelling).
-5. Let the factual insights from Self-knowledge guide your decisions before acting by pausing to consider long-term consequences rather than short-term impulses.
+4. Practice concrete self-discipline in speech: avoid lies, exaggerations, gossip, harsh words.
+5. Let the evidence-based insights from study guide your decisions before acting by pausing to consider long-term consequences rather than short-term impulses.
 
 ---
 
 ### 3. Reduce Restlessness from Passion (Rajas)
 
-**Problem:** Passion creates insatiable desire, attachment, and anxiety over results that you can measure as interrupted sleep, distracted attention, or compulsive checking of outcomes.
+**Problem:** Passion creates desires that persist despite repeated satisfaction, attachment, and observable anxiety such as interrupted sleep or distracted attention.
 
 **Steps:**
 1. List your current three strongest desires and attachments. Write them down with the specific outcomes you expect from each.
@@ -74,14 +74,14 @@ This chapter (Days 17–30) explores the three modes of material nature—goodne
 
 ### 6. Renounce the Sense of Doership
 
-**Problem:** Taking personal credit or blame for outcomes creates ego (the false sense of being the sole cause of events) and measurable suffering (stress, resentment, anxiety).
+**Problem:** Taking personal credit or blame for outcomes creates ego (the false sense of being the sole cause of events) and suffering you can observe as stress, resentment, or anxiety.
 
 **Steps:**
-1. Before beginning any important task, mentally dedicate the specific expected result to a stated higher purpose, such as serving others, spiritual growth, or contributing to your community.
+1. Before beginning any important task, mentally dedicate the specific expected result to serving others, spiritual growth, contributing to community.
 2. After completing a task, release attachment to the outcome by writing down what you learned from the effort regardless of whether the result matched your expectation.
-3. When praised, acknowledge it by saying "thank you" or "I had help" without inflating your sense of personal importance.
-4. When criticized, evaluate the specific factual feedback objectively without taking it personally by separating useful data from emotional tone.
-5. Practice specific selfless service each week—help someone with a concrete need without expecting recognition or reward, and observe your internal reaction afterward.
+3. When praised, acknowledge it by saying "thank you" or "I had help" without exaggerating your role in the outcome.
+4. When criticized, evaluate the feedback objectively, focusing on observable actions rather than personal judgments, and avoid taking it personally.
+5. Practice specific selfless service each week—help someone with food, shelter, medical care, emotional support without expecting recognition or reward, and observe your internal reaction afterward.
 
 ---
 
@@ -91,30 +91,30 @@ This chapter (Days 17–30) explores the three modes of material nature—goodne
 
 **Steps:**
 1. Dedicate all your daily actions as an offering or form of service by verbally or mentally stating the purpose before beginning each activity.
-2. Before each specific action (eating, working, speaking, resting), pause for 3-5 seconds and mentally offer it to a cause greater than yourself, such as your family, community, or spiritual practice.
+2. Before each specific action (eating, working, speaking, resting), pause for 3-5 seconds and mentally offer it to your family, community, spiritual practice, or the Divine.
 3. Replace anxious thoughts about specific results with thoughts of service by reframing "I must succeed" to "I will do my best and serve through this action."
 4. Combine action with remembrance: while working, gently return your focus to the stated intention behind the action whenever you notice your mind wandering.
-5. Gradually, this constant remembrance will calm the measurable symptoms of a restless mind (reduced heart rate, longer attention spans) and prepare it for deeper meditation.
+5. Gradually, this constant remembrance will reduce symptoms of a restless mind — such as rapid heart rate and scattered attention — and prepare the mind for deeper meditation. Observable signs of progress include reduced heart rate and longer attention spans
 
 ---
 
 ### 8. Use Meditation to Transcend the Three Modes
 
-**Problem:** Identification with the body and mind keeps you trapped in the measurable cycles of joy and sorrow (emotional highs and lows that repeat throughout the day).
+**Problem:** Identification with the body and mind keeps you trapped in the repeated patterns of emotional highs and lows (emotional highs and lows that repeat throughout the day).
 
 **Steps:**
 1. Commit to a regular meditation practice—start with 10–15 minutes daily at a consistent time and location.
 2. During meditation, observe your specific thoughts and bodily sensations without attachment by noting them mentally ("thinking," "feeling," "sensation") and returning to your focus point.
 3. Remind yourself: *"I am observing my body, observing my mind, and observing my senses; these are objects of my awareness, not my identity."*
-4. Deepen your practice over time to move beyond physical consciousness by gradually increasing meditation duration to 30-45 minutes and reducing identification with bodily discomfort.
-5. Seek the observable state of inner peace and self-awareness that persists beyond the temporary influence of the three modes of nature.
+4. Deepen your practice over time to move beyond consciousness identified with the body and its sensations by gradually increasing meditation duration to 30-45 minutes and reducing identification with bodily discomfort.
+5. Seek a state of sustained calm lasting more than 30 minutes despite minor disruptions
 
 ---
 
 ## Key Terms and Concepts for Glossary
 
-- **Material Nature (Prakriti):** The cosmic energy — the universal life force described in the chapter that manifests as the physical world and serves as the womb of creation, the source from which all life emerges; also called Mother Nature.
-- **Spirit (Purusha):** The divine conscious self — your true spiritual identity or soul placed into material nature; the eternal consciousness, or the unchanging awareness within you that animates all beings and is distinct from the temporary body and mind.
+- **Material Nature (Prakriti):** The fundamental energy that manifests as the physical world, as described in Sankhya philosophy.
+- **Spirit (Purusha):** The observing consciousness that remains present during all experiences, distinct from the body and mind — your true spiritual identity or soul experiencing existence within material nature; the eternal consciousness, or the unchanging awareness within you that animates all beings and is distinct from the temporary body and mind.
 - **Soul:** The eternal conscious self — your true spiritual identity beyond the body (Purusha) — that is distinct from the temporary physical body and the three modes of material nature.
 - **Three Modes of Material Nature (Gunas):** The three measurable, observable qualities—sattva (goodness), rajas (passion), and tamas (ignorance)—that influence how the conscious self identifies with the temporary body and behaves.
 - **Sattva (Goodness):** The mode characterized by specific observable behaviors: harmony in relationships, pursuit of knowledge, mental clarity, and stable happiness; leads to progress in self-knowledge and detachment (such as increased compassion or reduced reactivity).

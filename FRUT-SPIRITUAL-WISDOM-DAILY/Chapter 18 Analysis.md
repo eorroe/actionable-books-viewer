@@ -2,26 +2,26 @@
 
 ## Summary
 
-Chapter 18 of the Gita explores the nature of renunciation freed from attachment to the fruits of action, the three modes of material nature (sattva, rajas, tamas) as they manifest in doers, actions, intellect, resolve, and happiness, the fourfold classification of humanity based on inherent qualities, and the supreme path of devotion and surrender. Krishna teaches that, according to the Gita, liberation is attained not by abandoning duty, but by performing one's prescribed duty aligned with one's inherent nature without attachment to fruits, with God as the ultimate goal. The chapter culminates in Arjun's enlightenment and Sanjay's prophecy of everlasting prosperity, victory, welfare, and morality in any place where Krishna consciousness and self-controlled action are established.
+Chapter 18 of the Gita explores the nature of renunciation freed from attachment to the fruits of action, the three modes of material nature (sattva, rajas, tamas) as they manifest in doers, actions, intellect, resolve, and happiness, the fourfold classification of humanity based on inherent qualities, and the supreme path of devotion and surrender. Krishna teaches that, according to the Gita, liberation is attained not by abandoning duty, but by performing one's prescribed duty aligned with one's inherent nature without attachment to fruits, with God as the ultimate goal. The chapter culminates in Arjun's enlightenment and Sanjay's prophecy of sustained prosperity, victory, welfare, and morality in any place where Krishna consciousness and self-controlled action are established.
 
 ---
 
 ## Actionable Lessons with Step-by-Step Instructions
 
 ### 1. Practice True Renunciation: Give Up Desire for Fruits
-**Step 1:** Perform one's obligatory duties according to one's stage of life and inherent nature without attachment to outcomes.
+**Step 1:** Perform your svadharma (prescribed duty based on your nature) without attachment to outcomes.
 **Step 2:** Eliminate both actions motivated by desire (in the present) and attachment to specific outcomes or personal gain (in the future).
-**Step 3:** Treat work as desireless action offered to the divine.
+**Step 3:** Treat work as desireless action.
 
 ### 2. Never Abandon Your Duty
-**Step 1:** Identify one's primary obligations (to yourself, your family, your community, and your profession).
+**Step 1:** Identify one's primary obligations.
 **Step 2:** Perform them willingly, without expectation of reward or recognition.
-**Step 3:** If an action generates persistent inner resistance or aversion lasting beyond two weeks, examine whether it is truly abandonment or necessary change.
+**Step 3:** If an action generates persistent inner resistance or aversion, examine whether it is truly abandonment or necessary change.
 
 ### 3. Recognize the Five Causes of All Action
 **Step 1:** Understand that every action involves the body, ego, organs of perception/action, bio-impulses, and presiding deities or karmic forces governing karmic outcomes.
 **Step 2:** Do not identify solely with the body or ego as the "doer."
-**Step 3:** Reduce ego-identification to minimize karmic bondage, meaning reducing attachment to actions and results.
+**Step 3:** Practice reducing ego-identification by not identifying solely with the body or ego as the doer
 
 ### 4. Cultivate Sattvic Knowledge
 **Step 1:** Recognize the underlying unity in all beings beyond external diversity.
@@ -34,28 +34,28 @@ Chapter 18 of the Gita explores the nature of renunciation freed from attachment
 **Step 3:** Perform that work selflessly without attachment to success or failure.
 
 ### 6. Purify Your Intellect
-**Step 1:** Cultivate the ability to distinguish righteous action from unrighteous action by evaluating whether an action promotes the welfare of all beings without causing harm that can be observed in its effects on others, such as suffering or loss.
+**Step 1:** Cultivate the ability to distinguish righteous action from unrighteous action by evaluating whether an action promotes the welfare of those affected by the action without causing observable harm.
 **Step 2:** Do not let passion or ignorance cloud judgment.
 **Step 3:** Let the intellect's ability to distinguish right from wrong guide decisions when the intellect is free from distortion by passion and ignorance.
 
 ### 7. Develop Sattvic Fortitude
 **Step 1:** Practice steady control of mind, senses, and breath toward a single goal for at least 30 days.
-**Step 2:** Remain unshaken by external outcomes, maintaining equal vision toward success and failure.
+**Step 2:** Remain unshaken by external outcomes, with equal vision toward success and failure.
 **Step 3:** Maintain unwavering focus on Self-realization or divine union.
 
 ### 8. Choose Happiness Wisely
-**Step 1:** Seek pleasure that initially requires disciplined effort for the first two weeks, during which the first week may feel especially demanding of willpower (sattvic) rather than easy sensual pleasure (rajasic/tamasic).
+**Step 1:** Seek pleasure that requires disciplined effort for the initial period, which may require significant willpower (sattvic) rather than easy sensual pleasure (rajasic/tamasic).
 **Step 2:** Practice self-control even when it requires disciplined restraint that may feel harsh for the first two weeks, during which the first week may feel especially demanding of willpower; this path yields lasting inner fulfillment over time.
 **Step 3:** Avoid overindulgence, meaning more than your body requires for health, in sleep, laziness, and carelessness.
 
 ### 9. Surrender All Actions to the Supreme
 **Step 1:** Set God or the universal Self as your supreme goal, not material achievements.
 **Step 2:** Offer every action as worship or service to the divine.
-**Step 3:** Transcend the sense of individual doership and the sense of "I, me, and mine" through daily contemplation of at least 15 minutes.
+**Step 3:** Transcend the sense of individual doership, and the sense of "I, me, and mine" through daily contemplation of at least 15 minutes.
 
 ### 10. Spread Transcendental Knowledge
 **Step 1:** Study the teachings of Chapter 18 and share them with others.
-**Step 2:** Help others understand their innate capacity for self-realization and ethical living.
+**Step 2:** Help others understand the inherent capacity for self-realization and ethical living.
 **Step 3:** According to this text, even incomplete understanding of these teachings, when shared with sincerity, serves to inspire others toward self-realization and ethical living.
 
 ---
@@ -70,10 +70,10 @@ Chapter 18 of the Gita explores the nature of renunciation freed from attachment
 - **Adharma:** Unrighteousness or action against cosmic law.
 - **Svadharma:** One's own inherent duty or calling based on personal nature and karmic past.
 - **Sankhya Philosophy:** The enumeration of five factors of action: body, ego, senses/mind, bio-impulses, and divine presiding forces.
-- **Sattvic Doer/Action:** Free from attachment, non-egotistic, resolute, unperturbed by success or failure.
+- **Sattvic Doer/Action:** Free from attachment, non-egotistic, resolute, unperturbed by success or failure
 - **Rajasic Doer/Action:** Greedy, violent, attached to fruits, ego-driven, restless.
 - **Tamasic Doer/Action:** Undisciplined, lazy, procrastinating, malicious, deluded.
-- **Sattvic Intellect:** Clear understanding of right/wrong, bondage/liberation, path of work and renunciation.
+- **Sattvic Intellect:** Clear understanding of correct/incorrect.
 - **Rajasic Intellect:** Clouded by passion; cannot distinguish dharma from adharma.
 - **Tamasic Intellect:** Covered by ignorance; accepts unrighteousness as righteousness.
 - **Sattvic Fortitude:** Steady control of mind and senses, unwavering focus on God-realization.
@@ -90,12 +90,12 @@ Chapter 18 of the Gita explores the nature of renunciation freed from attachment
 - **Five Factors of Action:** Physical body, ego, organs of perception and action together with the mind, bio-impulses, presiding deities (fate/karma).
 - **Threefold Driving Force of Action:** Knowledge (object perception), Known (understanding based on past), Knower (feelings leading to pursuit/rejection).
 - **Doership (Kartritva):** The notion of being the sole doer; Krishna teaches that none of the five factors is the true Self.
-- **Ego (Ahamkara):** The sense of "I" that binds one to material existence and desire.
+- **Ego (Ahamkara):** sense of 'I' that binds one to material existence
 - **Karmic Baggage:** Stored tendencies from past actions that influence present and future births.
 - **Reincarnation:** The cycle of birth and death driven by accumulated karma.
-- **Super-soul (Paramatma):** The Supreme Lord abiding in the inner psyche of all beings, governing karma.
-- **Surrender (Prapatti):** Complete dedication of all actions and will to the Supreme with loving devotion.
-- **Devotion (Bhakti):** Single-pointed attention to God that leads to true understanding and merging with the divine.
-- **Yoga:** Union with the Supreme; in context, meditation and detachment practiced while performing worldly duties.
-- **Arjun:** The archetypal seeker overwhelmed by doubt and delusion, who attains enlightenment through Krishna's teachings.
-- **Sanjay:** The divine narrator who prophesies that where Krishna consciousness and self-controlled action exist, there is everlasting prosperity, victory, welfare, and morality.
+- **Super-soul (Paramatma):** The Supreme Being abiding in the inner psyche.
+- **Surrender (Prapatti):** Complete dedication of one's will and actions to the Supreme.
+- **Devotion (Bhakti):** Single-pointed attention directed toward the Supreme Being.
+- **Yoga:** Union with the Supreme
+- **Arjun:** archetypal seeker overwhelmed by doubt and delusion
+- **Sanjay:** The divine narrator who prophesies that where Krishna consciousness and self-controlled action exist, there is sustained prosperity, victory, welfare, and morality.

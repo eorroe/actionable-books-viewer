@@ -29,10 +29,10 @@ This chapter explores the journey of the soul toward liberation (moksha) from th
 
 **Steps:**
 1. List your recurring material desires (food, clothing, travel, gadgets, relationships).
-2. Recognize that these desires are habits formed through repeated action over time, as described in the chapter.
+2. Recognize that these desires are habits formed through repeated action over time.
 3. Practice saying "no" to one desire that conflicts with your stated spiritual priorities each day (e.g., skipping a non-essential purchase, avoiding entertainment that does not serve your spiritual growth).
 4. Replace the habit of craving with the habit of gratitude.
-5. Reflect on the fact that the Bhagavad Gita teaches that material happiness fades quickly, often within days or weeks, whereas happiness rooted in meditation and selfless service can persist for months or longer. Happiness that persists beyond the completion of a sensory or material pleasure arises from practices such as meditation, selfless service, and scriptural study.
+5. Reflect on the fact that the Bhagavad Gita teaches that material happiness fades quickly, whereas happiness rooted in meditation and selfless service can persist longer. Happiness that persists beyond the completion of a sensory or material pleasure arises from practices such as meditation, selfless service, and scriptural study.
 
 ---
 
@@ -60,7 +60,7 @@ This chapter explores the journey of the soul toward liberation (moksha) from th
 3. Throughout each day, redirect thoughts that drift away from your spiritual focus back to this central intention without self-criticism.
 4. Before sleeping each night, review the day and reinforce thoughts of the Divine or expanded awareness.
 5. Avoid ruminating on regrets, fears, or material goals before bed.
-6. After four to six months of consistent practice, this persistent thought pattern may become automatic and influence your consciousness.
+6. After four to six months of daily practice (minimum 10 minutes per session, with no more than two missed days per week), this persistent thought pattern may become automatic and influence your consciousness.
 
 ---
 
@@ -72,7 +72,7 @@ This chapter explores the journey of the soul toward liberation (moksha) from th
 1. Identify your specific duties (work, family, and community responsibilities).
 2. Perform each task to the best of your ability without obsessing over the result.
 3. Remind yourself that outcomes are influenced by external circumstances beyond your control.
-4. While performing work tasks, bring awareness at regular intervals (e.g., every 30 minutes) or at natural transition points (e.g., starting a new task) to the presence of the super-soul or divine will as described in the chapter.
+4. While performing work tasks, bring awareness at regular intervals (e.g., every 30 minutes) or at natural transition points (e.g., starting a new task) to the presence of the super-soul or divine will.
 5. Respond to success and failure with a similar level of emotional stability.
 6. Before sleeping each night, dedicate the results of your actions to the Supreme Being.
 
@@ -80,14 +80,14 @@ This chapter explores the journey of the soul toward liberation (moksha) from th
 
 ### Lesson 6: Meditate on the Qualities of the Supreme Being at the Time of Transition
 
-**Objective:** Prepare the mind to continue devotional practice without skipping sessions for at least 30 consecutive days prior to the end of life. Maintain devotional practice without interruption.
+**Objective:** Prepare the mind to maintain at least 30 consecutive days of uninterrupted devotional practice before the end of life. Maintain devotional practice without interruption.
 
 **Steps:**
 1. Study and reflect on the attributes of the Supreme Being: omniscient, oldest, controller of all, described metaphorically as pervading all levels of existence, sustainer of everything, beyond ordinary mental comprehension, self-luminous, and transcendental.
-2. During meditation, visualize these qualities one by one.
+2. During meditation, visualize these qualities in sequence.
 3. Contemplate how the Supreme Being is the essence underlying all creation, as clay is the substance of a clay pot, so the Divine is the substance underlying all forms.
 4. Each day, practice letting go of one specific desire that you identify as causing you distress when unfulfilled so that fear of death does not disturb your equanimity.
-5. During difficult moments or life transitions, recall these attributes to maintain mental calmness, verified by steady, natural breathing.
+5. During difficult moments or life transitions, recall these attributes to maintain mental calmness, observed as steady, natural breathing.
 
 ---
 
@@ -96,31 +96,31 @@ This chapter explores the journey of the soul toward liberation (moksha) from th
 **Objective:** In each daily choice, choose spiritual knowledge and selfless action over materialism and ignorance.
 
 **Steps:**
-1. Recognize that according to the text, all human beings are presented with two paths: the path of light (spiritual knowledge, yoga, and devotion) and the path of darkness (materialism, ignorance, and sensory indulgence).
-2. Evaluate your daily choices: are they choices that prioritize service over sensory pleasure and are categorized by the text as leading toward liberation?
+1. Recognize that the text presents all human beings with two paths: the path of light (spiritual knowledge, yoga, and devotion) and the path of darkness (materialism, ignorance, and sensory indulgence).
+2. Evaluate your daily choices: do they prioritize service over sensory pleasure, and does the text categorize them as leading toward liberation?
 3. Choose spiritual practices (meditation, self-study, and service) over material pursuits.
-4. Spend time with people whose actions consistently align with non-attachment and compassion over at least one year of observation.
-5. Study spiritual texts not for intellectual knowledge alone but for experiential insight verified by reduced attachment and increased peace.
+4. Spend time with people whose actions demonstrate non-attachment and compassion in at least three observable situations per month.
+5. Study spiritual texts not for intellectual knowledge alone but for experiential insight confirmed by reduced attachment and increased peace.
 6. When you face a moral dilemma, choose the option that minimizes harm to others and aligns with your core responsibilities and detachment.
 
 ---
 
 ### Lesson 8: Progress Through Life's Stages with Awareness
 
-**Objective:** Follow the Vedic four-stage life plan or integrate intensive daily practice to advance through the traditional four-stage plan more quickly than the usual timeline through yoga and meditation.
+**Objective:** Follow the Vedic four-stage life plan or integrate intensive daily practice to advance more quickly than the usual timeline through yoga and meditation.
 
 **Steps:**
 1. If following the traditional stages:
    - **Student stage (0–25 years):** Study earnestly, develop skills, and build character by avoiding temptations that would derail your studies.
    - **Householder stage (25–50 years):** Use your skills to earn a living, support a family, and contribute to society.
    - **Retired stage (50–75 years):** Systematically reduce your involvement in household responsibilities and spend time in self-reflection and spiritual disciplines.
-   - **Renunciate stage (75+ years):** Let go of remaining material attachments and focus entirely on attaining enlightenment.
-These traditional age ranges are illustrative; adapt them to your own circumstances.
+   - **Renunciate stage (at least 75 years):** Let go of remaining material attachments and focus entirely on attaining enlightenment.
+The teaching describes these traditional age ranges as illustrative; adapt them to your individual circumstances.
 2. If seeking accelerated progress:
-   - begin as early as age 10, during the student stage, or at any subsequent stage.
+   - Begin as early as age 10, during the student stage, or at any subsequent stage.
    - Practice sense restraint and release attachments regardless of age.
    - Continue performing your responsibilities without attachment to results while pursuing inner growth.
-   - when you can maintain meditation for one hour without mental distraction as defined in the glossary, unite your consciousness with the Supreme Being as described in the chapter.
+   - When you can maintain meditation for one hour without mental distraction, unite your consciousness with the Supreme Being.
 
 ---
 
@@ -129,7 +129,7 @@ These traditional age ranges are illustrative; adapt them to your own circumstan
 | Term | Definition |
 |------|------------|
 | **Adhibhoota** | The perishable physical existence; that which is born, grows, produces by-products, dwindles, and dies. |
-| **Adhidaiva** | The beings described in the tradition as residing in higher realms described as presiding over the senses, mind, intellect, planets, and demigods. |
+| **Adhidaiva** | The beings described in the tradition as residing in higher realms and presiding over the senses, mind, intellect, planets, and demigods. |
 | **Adhiyajna** | The Divine Controller or super-soul (*paramatma*) described as residing within the physical body. |
 | **Atma** | The individual soul; the essence of a living being. |
 | **AUM** | The monosyllable sound regarded as sacred, chanted during meditation for spiritual connection. |
@@ -139,7 +139,8 @@ These traditional age ranges are illustrative; adapt them to your own circumstan
 | **Dharma** | Righteous conduct; the principle of moral and spiritual duty. |
 | **Divine Eye** | The spiritual center between the eyebrows described as activated through yoga and meditation to enlighten the seeker. |
 | **Eternal Being / Spirit** | The Supreme Being or the universal consciousness as defined in the Key Terms and Concepts section, described as the infinite, imperishable essence underlying all creation. |
-| **Karma** | The creative power of the Spirit that causes manifestation of the living entity; also, actions and their consequences (karma). |
+| **Karma (creative power)** | The power of the Spirit that causes manifestation of the living entity. |
+| **Karma (law of action)** | Actions and their consequences that govern rebirth. |
 | **Moksha / Salvation** | Liberation from the cycle of birth and death; merging of the individual soul with the Supreme Being. |
 | **Night of Brahma** | The destructive cycle or dissolution of the universe lasting billions of years according to Vedic cosmology. |
 | **Paramatma** | The super-soul; the universal consciousness, the witness consciousness within all beings. |
@@ -147,10 +148,10 @@ These traditional age ranges are illustrative; adapt them to your own circumstan
 | **Path of Light** | The way of spiritual disciplines, self-inquiry, and devotion to the Supreme Being leading to salvation and liberation. |
 | **Prakriti** | The primary material nature, described as the source from which all manifestations arise and into which they merge. |
 | **Purusha** | The Supreme Spirit or cosmic consciousness, described as uniting with prakriti to create the universe. |
-| **Super Consciousness** | the conscious principle that pervades all existence as described in the chapter. |
-| **Supreme Abode** | existence beyond the laws of time, space, and material causation, as described for the Supreme Being in the chapter, beyond the perishable material nature; the final destination of liberated souls. |
+| **Super Consciousness** | the universal witness consciousness (Paramatma) present within all beings. |
+| **Supreme Abode** | a state of being beyond the laws of time, space, and material causation; the final destination of liberated souls. |
 | **Vedas** | Ancient scriptures composed between 1500 and 500 BCE and considered sacred by Hindu traditions, that outline the four stages of human life and spiritual principles. |
 
 ---
 
-*This analysis is based on Chapter 8: Attainment of Salvation (lines 3648–4052) from the Bhagavad Gita, Chapter 8.*
+*This analysis is based on Chapter 8: Attainment of Salvation from the Bhagavad Gita, Chapter 8.*

@@ -6,7 +6,7 @@
 **Dates:** 19 October–12 November  
 **Source:** Chapter 17 of the Bhagavad Gita
 
-Chapter 17 explores the concept of threefold faith, categorized according to the three modes of material nature: sattva (goodness), rajas (passion), and tamas (ignorance). Krishna explains that a person's faith, worship, austerity, charity, and even food preferences are determined by his or her predominant mode of nature, which is shaped by karmic impressions from past lives. The chapter details how each mode manifests in different aspects of life—from the types of deities worshipped to the nature of one's service, speech, thoughts, and dietary choices. It culminates in the teaching of Aum Tat Sat as the threefold symbol of the all-pervading Spirit and states that the spiritual practices described in this text are effective only when performed with faith.
+Chapter 17 explores the concept of threefold faith, categorized according to the three modes of material nature: sattva (goodness), rajas (passion), and tamas (ignorance). Krishna explains that a person's faith, worship, austerity, charity, and even food preferences are determined by his or her predominant mode of nature, which is shaped by karmic impressions from past lives. The chapter details how each mode manifests in different aspects of life—from the types of deities worshipped to the nature of one's service, speech, thoughts, and dietary choices. It culminates in the teaching of Aum Tat Sat as the threefold symbol of the all-pervading Spirit and states that the spiritual practices described in this text bear fruit only when performed with faith.
 
 ---
 
@@ -15,7 +15,7 @@ Chapter 17 explores the concept of threefold faith, categorized according to the
 ### Lesson 1: Assess Your Predominant Mode of Nature
 **Objective:** Identify whether your dominant tendencies are sattvic, rajasic, or tamasic.
 
-1. Reflect on your daily motivations: Do you act for selfless reasons (sattva), personal gain (rajas), or out of ignorance/stubbornness (tamas)?
+1. Reflect on your daily motivations: Do you act for selfless reasons (sattva), personal gain (rajas), or out of ignorance/delusion (tamas)?
 2. Examine your dietary choices: Do you prefer fresh, wholesome foods (sattva), stimulating flavors (rajas), or stale, unhealthy options (tamas)?
 3. Observe your worship or spiritual practices: Are they performed as selfless duty (sattva), for personal gain (rajas), or based on deluded practice (tamas)?
 4. Based on your self-reflection, identify your predominant mode and commit to cultivating sattvic qualities.
@@ -24,23 +24,23 @@ Chapter 17 explores the concept of threefold faith, categorized according to the
 **Objective:** Integrate austerity of deed, word, and thought into daily life.
 
 **Step 1: Austerity of Deed**
-- Show respect to celestial beings, teachers, gurus, and wise persons.
+- Show respect to deities and divine beings, teachers, gurus, and wise persons.
 - Maintain physical purity through proper hygiene and cleanliness of surroundings.
 - Practice non-violence and sense-control.
 - Keep your spine straight during meditation or yoga to discipline the body.
 
 **Step 2: Austerity of Word**
-- Speak only words that are truthful, pleasant, beneficial, and non-offensive.
+- Speak only truthful, pleasant, beneficial, and non-offensive.
 - Reference scriptural wisdom in conversations when the conversation turns to spiritual or ethical matters.
-- Avoid hurtful speech, even if truthful; practice prudent silence when your words would cause harm, mislead, or fail to serve a beneficial purpose.
-- Reduce talking that does not convey truth, benefit, or spiritual insight — limit speech to words that serve a clear beneficial purpose; aim for measured, meaningful communication.
+- Avoid speech that causes harm, even if truthful; practice wise silence.
+- Reduce talking that does not convey truth, benefit, or spiritual insight — limit speech to words that serve a purpose that benefits others; aim for measured, meaningful communication.
 
 **Step 3: Austerity of Thought**
-- Cultivate serenity of mind by maintaining relationships free from anger, envy, and excessive attachment.
+- Cultivate serenity of mind by maintaining relationships free from anger, envy, and strong attachment.
 - Allow only thoughts that promote peace, compassion, and spiritual clarity to persist; redirect thoughts that generate anger, envy, or desire.
 - Practice inward silence—calmness without passion or desire.
 - Develop self-control to prevent the mind from jumping between thoughts.
-- Ensure your motive is selfless service to the Divine or benefit to others, rather than personal gain, status, or sensory pleasure.
+- Ensure your motive is selfless service or benefit to others, rather than personal gain, status, or sensory pleasure.
 
 ### Lesson 3: Transform Your Service and Charity
 **Objective:** Shift from rajasic and tamasic service to sattvic, selfless action.
@@ -52,8 +52,8 @@ Chapter 17 explores the concept of threefold faith, categorized according to the
 4. Offer the results of all service to the Divine, renouncing attachment to outcomes.
 
 **For Charity:**
-1. Choose recipients who are in genuine need and cannot reciprocate your gift.
-2. Give in a manner that honors the recipient and the occasion, with respect and dignity.
+1. Choose recipients in actual need who cannot reciprocate.
+2. Give in a manner that honors the recipient and the occasion.
 3. Give without reluctance, expectation of return, or desire for recognition.
 4. Avoid giving in ways that humiliate the receiver.
 5. Prioritize empowering charity (education, job training) over mere material giving.
@@ -70,11 +70,11 @@ Chapter 17 explores the concept of threefold faith, categorized according to the
 ### Lesson 5: Integrate Aum Tat Sat into Spiritual Practice
 **Objective:** Use the threefold symbol to deepen spiritual connection.
 
-1. Begin acts of sacrifice, charity, and austerity described in the Bhagavad Gita by chanting "Aum" (or other sounds considered equivalent in some traditions: Amen, Amin, Hum) to cleanse ritual impurities.
+1. Begin acts of sacrifice, charity, and austerity described in the Bhagavad Gita by chanting "Aum" (or equivalent sacred sounds in certain traditions, such as Amen in some Christian, Amin in some Islamic, and Hum in some Buddhist contexts) to cleanse ritual impurities.
 2. Meditate on "Tat" (universal oneness) while performing selfless actions, understanding it represents cosmic intelligence and the individual soul.
 3. Contemplate "Sat" (Supreme Truth/God) as the source of all creation and divine activities.
 4. Perform spiritual actions with the understanding that the Supreme pervades everything.
-5. Cultivate faith (Sat) in your spiritual practices; the Gita states that actions performed without faith produce no results.
+5. Cultivate faith (Sat) in your spiritual practices; the Gita states that actions performed without faith bear no fruit.
 
 ### Lesson 6: Purify Your Mode of Worship
 **Objective:** Ensure your worship aligns with sattvic principles.
@@ -88,13 +88,13 @@ Chapter 17 explores the concept of threefold faith, categorized according to the
 
 ## Key Terms and Concepts for Glossary
 
-- **Aum Tat Sat:** The threefold symbol of the all-pervading Spirit. "Aum" is the creative vibration (prakriti), "Tat" is the intelligence/individual soul (purush), and "Sat" is the super-soul or Ishwar (cosmic consciousness).
+- **Aum Tat Sat:** The threefold symbol of the all-pervading Spirit. "Aum" is the fundamental sound (prakriti), "Tat" is the intelligence/individual soul (purush), and "Sat" is the super-soul or Ishwar (universal consciousness).
 
 - **Austerity (of Deed, Word, Thought):** Threefold discipline involving right action, right speech, and right thought, practiced selflessly without desire for fruit.
 
-- **Charity (Dana):** Selfless giving. Sattvic charity is given as duty to a person in need at an appropriate time and place without expectation of return. Rajasic charity is given reluctantly or for gain. Tamasic charity is given inappropriately or with contempt.
+- **Charity (Dana):** Selfless giving. Sattvic charity is given as duty to a person in need at the right time and place without expectation of return. Rajasic charity is given reluctantly or for gain. Tamasic charity is given at the wrong time or place or with contempt.
 
-- **Faith (Shraddha):** Belief system shaped by one's mode of nature. Determines one's view of life, desires, thoughts, and actions. Essential for spiritual evolution.
+- **Faith (Shraddha):** System of belief shaped by one's mode of nature. Determines one's view of life, desires, thoughts, and actions. Necessary for spiritual growth.
 
 - **Karmic Impressions (Samskaras):** Past life impressions that shape one's innate tendencies and mode of nature.
 
