@@ -21,14 +21,14 @@ Chapter 12 explores Bhakti Yoga, the path of devotion, as presented across 15 da
 **How to practice:**
 1. Develop the ability to direct your attention inward by deliberately reducing the attraction of sensory objects on your conscious attention.
 2. Cultivate intellectual equanimity by practicing impartial judgment that does not favor gain over loss or pleasure over pain, and by remaining undisturbed in circumstances of gain and loss, pleasure and pain, honor and disgrace.
-3. Be ever ready to help others to the maximum extent your physical health, mental clarity, and available time permit.
+3. Be ever ready to help others to the fullest extent your current circumstances and resources allow.
 4. Practice meditation directed toward the formless, omnipresent, and unchanging aspect of the divine described in Chapter 12.
 
 ---
 
 ### 3. Understand That Self-Realization Is Harder Through the Unmanifest (Day 13)
 **How to practice:**
-1. According to the text, acknowledge that the human mind in approximately 70% of meditation sessions seeks forms and objects as meditation anchors.
+1. According to the text, acknowledge that the human mind in the majority of meditation sessions seeks forms and objects as meditation anchors.
 2. If you find formless meditation produces distraction that continues across at least 3 consecutive practice sessions, do not force it — choose a manifest form of worship instead.
 3. Train your mind over a 6 to 8 week period of consistent practice by observing the vastness of the sky, stars, or cosmic scale to build familiarity with the formless aspect of the divine.
 
@@ -55,7 +55,7 @@ Chapter 12 explores Bhakti Yoga, the path of devotion, as presented across 15 da
 ### 6. Use Any Spiritual Discipline That Stills the Mind (Day 16)
 **How to practice:**
 1. If you cannot focus steadily on God directly, adopt a spiritual discipline that matches your present physical health, available time, mental concentration ability, and genuine devotional preferences.
-2. Options include: yoga with breath awareness, chanting at fixed daily times, visiting established holy shrines, fasting, or any daily ritual performed at the same times every day that produces mental calm lasting throughout the entire practice session and for a period afterward.
+2. Options include: yoga with breath awareness, chanting at fixed daily times, visiting established holy shrines, fasting, or any daily ritual performed at the same times every day that produces mental calm lasting throughout the entire practice session and for 15–30 minutes afterward.
 3. The goal is to quiet the restless mind so it can sustain uninterrupted focus on God during meditation sessions lasting at least twenty minutes.
 
 ---
@@ -73,15 +73,15 @@ Chapter 12 explores Bhakti Yoga, the path of devotion, as presented across 15 da
 **How to practice:**
 1. Cultivate faith that remains constant across all favorable and unfavorable circumstances without diminishing.
 2. Perform actions while deliberately setting aside concern for whether the outcomes bring you personal pleasure or pain, gain or loss.
-3. Accept all results — success or failure, pleasure or pain — as part of the divine order, responding with a state of mental calm that remains constant across all favorable and unfavorable circumstances rather than joy or grief that exceeds the normal emotional response appropriate to the specific event.
+3. Accept all results — success or failure, pleasure or pain — as part of the divine order, responding with a state of mental calm that remains constant across all favorable and unfavorable circumstances rather than joy or grief that is disproportionate to the specific event.
 4. Release attachment to the results of your work and the anxiety that anticipation of those results produces.
 
 ---
 
 ### 9. Follow the Hierarchy of Spiritual Practices (Day 19)
 **How to practice:**
-1. Prioritize gaining knowledge of spiritual teachings that has been verified through study, logical examination, and direct spiritual experience over performing religious rituals without understanding their meaning.
-2. Prioritize internalizing and meditating on that knowledge verified through study, logical examination, and direct spiritual experience over merely accumulating information about it.
+1. Prioritize gaining knowledge of spiritual teachings that has been confirmed through repeated study, logical consistency, and direct personal spiritual experience over performing religious rituals without understanding their meaning.
+2. Prioritize internalizing and meditating on that knowledge confirmed through repeated study, logical consistency, and direct personal spiritual experience over merely accumulating information about it.
 3. Prioritize renouncing selfish attachment to the results of your actions over performing meditation rituals that have been prescribed in the verified spiritual teachings.
 4. Recognize that peace follows directly from renunciation of selfish motives as a consistent causal result, not as an occasional byproduct.
 
@@ -91,10 +91,10 @@ Chapter 12 explores Bhakti Yoga, the path of devotion, as presented across 15 da
 **How to practice:**
 1. **No hatred:** Recognize the same divine presence in all beings and in all of creation; practice friendliness and compassion toward every being.
 2. **No ego-identification:** Release the psychological sense that actions and possessions belong exclusively to you as an independent entity separate from the divine; stop identifying actions and possessions as "mine" and detach from claiming exclusive personal authorship of outcomes.
-3. **Equanimity:** Remain mentally balanced during pain and pleasure, honor and disgrace, heat and cold — responding with equal response regardless of whether the experience is pleasant or unpleasant.
+3. **Equanimity:** Remain mentally balanced during pain and pleasure, honor and disgrace, heat and cold — responding equally regardless of whether the experience is pleasant or unpleasant.
 4. **Contentment:** Be content with your current material possessions and life situation without desiring more than a 10% increase in either, regardless of whether external circumstances improve or decline.
 5. **Desirelessness:** Release desires that cause anxiety, sleeplessness, or compulsive behavior when they remain unfulfilled — specifically desires for sensory pleasures, material wealth accumulation, or specific predetermined outcomes.
-6. **Freedom from agitation:** Practice systematic sense control until you notice a measurable decrease in envy, fear, anxiety, and joy that depends entirely on favorable external conditions.
+6. **Freedom from agitation:** Practice systematic sense control without desiring a meaningful increase in either.
 7. **Renounce doership:** Perform actions without claiming you are the sole source of all actions and the only cause of all outcomes — understand yourself as an instrument through which action occurs.
 8. **Impartiality:** Treat friends and foes, praise and censure, with equal mental balance — responding similarly to both favorable and unfavorable treatment regardless of your personal relationship to the people involved.
 9. **Detachment from place:** Do not cling to a specific house, country, or location — serve the well-being of all people regardless of their location, nationality, or relationship to you.
@@ -135,7 +135,7 @@ Chapter 12 explores Bhakti Yoga, the path of devotion, as presented across 15 da
 | **Moral Values (Nectar of Moral Values)** | The specific set of virtues — including compassion, moral purity, wisdom, desirelessness, and equanimity — that a devotee cultivates through the practices of Bhakti Yoga. |
 | **Surrender (Prapatti)** | Complete mental submission to the divine order, releasing all personal attachment to specific outcomes and the anxiety that anticipation of those outcomes produces. |
 | **Spiritual Discipline (Sadhana)** | Any daily practice performed at fixed times — such as chanting, meditation, yoga, fasting, or shrine visits — that produces mental calm persisting throughout the entire practice session and for a period afterward, and that strengthens devotional focus on the divine. |
-| **Contentment** | The state of being satisfied with one's current material possessions and life situation without desiring a meaningful increase in either, maintained regardless of whether external circumstances improve or decline. |
+| **Contentment** | The state of being satisfied with one's current material possessions and life situation without desiring more than a 10% increase in either, maintained regardless of whether external circumstances improve or decline. |
 | **Freedom from Agitation** | The state in which envy, fear, anxiety, and joy that depends entirely on favorable external conditions no longer arise in the mind, achieved through systematic sense control. |
 | **Impartiality** | Mental balance that treats friends and foes, praise and censure, with equal detachment — responding similarly to both favorable and unfavorable treatment regardless of personal relationship to the people involved. |
 | **Detachment from Place** | The quality of not clinging to a specific house, country, or location, and of serving the well-being of all people regardless of their location, nationality, or relationship to you. |

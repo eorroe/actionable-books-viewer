@@ -5,7 +5,7 @@
 **Title:** Transcendental Knowledge
 
 **Summary:**  
-Chapter 2 of the Bhagavad Gita, titled "Transcendental Knowledge," is Krishna's foundational discourse to Arjuna on the eternal nature of the soul, the inevitability of change, and the path of selfless action. Addressing Arjuna's grief over facing his own teachers and relatives in battle, Krishna reveals that the physical body is temporary while the soul (Atman) is eternal, indestructible, and unborn. Death is not physical annihilation but a transition of the conscious entity from one body to another. the Bhagavad Gita describes the material world as transient. Attachment to material forms causes suffering, while equanimity, self-control, and selfless action (karma yoga) lead to a state of equanimity (samatva) in which the mind remains undisturbed by dualities. Krishna teaches that one must perform one's duty (dharma) without attachment to results, control the senses through mental discipline, and treat pleasure and pain, success and failure with the same balanced mindset. The chapter culminates in the description of the enlightened person: one who is free from desire, fear, and anger, whose intellect remains steady, and who attains supreme peace through union with the universal Spirit (Brahman).
+Chapter 2 of the Bhagavad Gita, titled "Transcendental Knowledge," is Krishna's foundational discourse to Arjuna on the eternal nature of the soul, the inevitability of change, and the path of selfless action. Addressing Arjuna's grief over facing his own teachers and relatives in battle, Krishna reveals that the physical body is temporary while the conscious entity (Atman) is eternal, indestructible, and unborn. Death is not physical annihilation but a transition of the conscious entity (Atman) from one body to another. The text describes the material world as transient. Attachment to material forms causes suffering, while equanimity, self-control, and selfless action (karma yoga) lead to a state of equanimity (samatva) in which the mind remains undisturbed by dualities. Krishna teaches that one must perform one's duty (dharma) without attachment to results, control the senses through mental discipline, and treat pleasure and pain, success and failure with the same balanced mindset. The chapter culminates in the description of the enlightened person: one who is free from desire, fear, and anger, whose intellect remains steady, and who attains supreme peace through union with the universal Spirit (Brahman).
 
 ---
 
@@ -14,15 +14,15 @@ Chapter 2 of the Bhagavad Gita, titled "Transcendental Knowledge," is Krishna's 
 ### Lesson 1: Recognize the Eternal Nature of the Soul
 **Scripture Reference:** 2.12, 2.13, 2.16, 2.20
 1. Set aside 10 minutes each day to reflect on the teaching that, according to Chapter 2, while the body ages, gets sick, and dies, the conscious essence (Atman) remains unchanged and eternal.
-2. When facing the death of a loved one, remind yourself that only the body has departed; honor that the soul continues its journey in a new physical embodiment.
-3. Practice seeing all people you encounter as eternal souls temporarily embodied, which fosters respect and reduces superficial attachment.
+2. When facing the death of a loved one, remind yourself that only the body has departed; accept that the soul continues its journey in a new physical embodiment.
+3. Practice seeing every person you encounter as an eternal soul temporarily embodied, which fosters respect and reduces superficial attachment.
 4. Meditate on the idea that individual embodied forms (bodies) appear and disappear, while the underlying reality (the soul or Spirit) is a single, indivisible whole. Treat this as a conceptual illustration, not a literal physical description.
 
 ### Lesson 2: Accept Death as a Natural Transition
 **Scripture Reference:** 2.11, 2.26–2.27, 2.28, 2.30
-1. Understand that the teaching describes birth and death as laws of nature; the conscious essence (Atman) described in the teaching does not come into being or cease to exist.
-2. Do not allow grief to prevent you from fulfilling your daily responsibilities; instead, honor that the soul continues its journey according to Chapter 2 of the Bhagavad Gita.
-3. Reframe death from "an end" to "a transition"——using the teaching's analogy of discarding worn garments for new ones, or an actor changing costumes between roles. Treat these analogies as conceptual illustrations, not literal descriptions of physical processes.
+1. Understand that the teaching describes birth and death as the laws of biological aging and death; the conscious essence (Atman) described in the teaching does not come into being or cease to exist.
+2. Do not allow grief to prevent you from fulfilling your daily responsibilities; instead, accept that the soul continues its journey according to Chapter 2 of the Bhagavad Gita.
+3. Reframe death from "an end" to "a transition"—using the teaching's analogy of discarding worn garments for new ones, or an actor changing costumes between roles. Treat these analogies as conceptual illustrations, not literal descriptions of physical processes.
 4. Focus on the present moment without clinging to past events or anxious anticipation of future events, knowing that the past is gone and the specific events of the future are not guaranteed, while holding the teaching that the conscious essence (Atman) described in Chapter 2 does not come into being or cease to exist.
 
 ### Lesson 3: Practice Non-Attachment to Material Possessions
@@ -36,7 +36,7 @@ Chapter 2 of the Bhagavad Gita, titled "Transcendental Knowledge," is Krishna's 
 **Scripture Reference:** 2.14, 2.15, 2.58, 2.60
 1. Observe your reactions to heat, cold, pain, and pleasure without automatically labeling them as good or bad.
 2. Practice endurance of discomfort that does not risk injury—such as temperature variation, hunger lasting less than 30 minutes, or common daily inconveniences such as waiting in line or mild weather discomfort that pose no risk of harm—to build the ability to remain calm despite sensory discomfort.
-3. Remind yourself that sensory reactions are conditioned by past associations and can be reconditioned through practice.
+3. Remind yourself that sensory reactions are conditioned by past conditioning and can be reconditioned through practice.
 4. When a craving sensation arises, pause and observe it without immediate reaction; create a space between stimulus and response.
 
 ### Lesson 5: Withdraw Your Attention from Sensory Temptations
@@ -56,7 +56,7 @@ Chapter 2 of the Bhagavad Gita, titled "Transcendental Knowledge," is Krishna's 
 ### Lesson 7: Perform Your Duty Without Attachment to Results (Karma Yoga)
 **Scripture Reference:** 2.31, 2.33, 2.37, 2.47, 2.48, 2.50–2.51
 1. Identify your duties tied to your role, stage of life, and moral responsibility as described in the teaching—personal, professional, familial, and spiritual.
-2. Perform each duty with focused attention and effort appropriate to the task's importance and urgency, competence, and honesty, giving it the best of your current ability given your circumstances.
+2. Perform each duty with focused attention and effort proportional to the task's stakes and performed with competence and honesty, giving it the best of your current ability given your circumstances.
 3. Before and after each action, consciously set aside attachment to praise, criticism, success, or failure.
 4. Offer the fruits of your actions to the greater good or the Divine, rather than claiming them as personally yours.
 5. The teaching warns against abandoning duties out of fear.
@@ -64,7 +64,7 @@ Chapter 2 of the Bhagavad Gita, titled "Transcendental Knowledge," is Krishna's 
 ### Lesson 8: Maintain Equanimity Across Pleasure and Pain, Gain and Loss, Victory and Defeat
 **Scripture Reference:** 2.38, 2.48, 2.56, 2.57
 1. Treat pleasure and pain, gain and loss, victory and defeat with the same balanced mindset.
-2. Practice the middle path, avoiding both over-identification with success and despair in failure: avoid excitement that disrupts mental equilibrium in success and despondency in failure.
+2. Practice the middle path, avoiding both excessive elation after success or inability to function after failure: avoid excitement that prevents you from maintaining a balanced mindset in success and despondency in failure.
 3. When praised, remain humble; when criticized, remain undisturbed.
 4. Cultivate the understanding that events, outcomes, and others' opinions outside your control are temporary and do not define the inherent value of the eternal soul (Atman), independent of external validation or peace.
 
@@ -80,18 +80,18 @@ Chapter 2 of the Bhagavad Gita, titled "Transcendental Knowledge," is Krishna's 
 1. Recognize the sequence: attachment to sense objects → desire → unfulfilled desire → anger → delusion → loss of reason → destruction.
 2. At the first impulse of attraction to a sense object, before mental elaboration begins, examine it mentally before it solidifies into craving
 3. If desire arises and is unfulfilled, consciously prevent it from transforming into anger by practicing acceptance and equanimity.
-4. If anger arises, withdraw and calm the mind before rationalization begins through breathing or meditation before it leads to delusion and action arising from delusion, anger, or craving rather than from clarity and duty.
+4. If anger arises, withdraw and calm the mind before the mind rationalizes the desire; use breathing or meditation to steady the mind before it leads to delusion and action arising from delusion, anger, or craving rather than from clarity and duty.
 
 ### Lesson 11: Practice Selfless Service and Generosity
 **Scripture Reference:** 2.40, 2.49, 2.70
 1. Engage in at least 15 minutes of selfless service daily, without posting about it on social media or expecting thanks.
 2. When helping others, focus on people who cannot meet their basic needs for food, shelter, or safety.
-3. Substitute the pursuit of personal pleasure with the practice of giving—studies have shown greater well-being from helping others than from acquiring material goods.
+3. Substitute the pursuit of personal pleasure with the practice of giving.
 4. Make generosity a habit, not an occasional act; the teaching states that regular giving rather than occasional spontaneous acts reduces the bondage caused by attachment.
 
 ### Lesson 12: Seek Self-Knowledge and Inner Peace
 **Scripture Reference:** 2.66, 2.69, 2.71
-1. Study the teachings of this chapter and related texts and contemplate repeatedly until the understanding becomes part of your daily perception on the nature of your true self as distinct from the body and mind.
+1. Study the teachings of this chapter and related spiritual texts and contemplate repeatedly until the understanding becomes part of your daily perception on the nature of your true self as distinct from the body and mind.
 2. Meditate 10 to 20 minutes daily on the presence of the universal Spirit within you and all beings.
 3. Work toward reducing identification with the body, mind, and personal possessions—the teaching describes this identification as the source of attachment—by mentally offering your actions and their fruits to the universal Spirit or the welfare of all beings.
 4. According to Chapter 2 of the Bhagavad Gita, without self-knowledge there can be no mind unshaken by pleasure or pain, gain or loss. Without such a mind, there can be no state of contentment independent of external circumstances.
@@ -108,12 +108,12 @@ Chapter 2 of the Bhagavad Gita, titled "Transcendental Knowledge," is Krishna's 
 | **Nishkama Karma / Selfless Service** | Action performed without desire for personal gain; work offered to the welfare of all beings, which protects one from the fear of birth and death. |
 | **Maya (Delusion / Illusion)** | The condition described in the teaching in which temporary material forms are mistaken for permanent reality, causing attachment and suffering. This is not a claim that the material world does not exist, but that its permanence is misperceived. |
 | **Reincarnation / Rebirth / Samsara** | The cycle of birth, death, and rebirth of the soul, as taught in Chapter 2. The teaching describes the soul as taking on new bodies; the specific mechanism by which karma determines each rebirth is not detailed in Chapter 2 and is a matter of related traditions. |
-| **Dharma (Duty)** | One's righteous duty as described in the teaching; action aligned with cosmic order (rita) and duty (dharma) performed for righteous action and in alignment with the teaching's concept of cosmic order (rita). The teaching does not provide a universal formula for determining one's specific dharma in every situation. |
+| **Dharma (Duty)** | One's righteous duty as described in the teaching; action aligned with cosmic order (rita) and duty (dharma) performed for the sake of righteous action and in alignment with the teaching's concept of cosmic order (rita). The teaching does not provide a universal formula for determining one's specific dharma in every situation. |
 | **Rita / Cosmic Order** | The universal order or cosmic law that sustains the universe and governs moral and social duties; acting in harmony with rita is essential to righteous action (dharma). |
 | **Equanimity / Samata (Mental Evenness)** | The state of a mind unaffected by pleasure or pain, unaffected by dualities such as pleasure and pain, gain and loss, victory and defeat; the natural state of the soul. |
 | **Indriyas (Senses)** | The five sense organs (sight, hearing, touch, taste, smell) and the mind. When uncontrolled, the senses and mind together draw attention toward sense objects, creating attachment and pulling the intellect away from a settled, peaceful state. |
 | **Steady Intellect / Steady Wisdom** | The intellect of a person whose mind is settled in the teaching's described state of detachment, unaffected by desired or undesired results, and united with the universal Spirit (Brahman). "Completely unattached" in this context means free from craving and aversion toward outcomes. |
-| **Enlightenment / Self-realization** | The state described in the teaching as freedom from selfish desires, attachment, fear, and anger; knowing the true nature of the soul (Atman) and abiding in a settled state free from craving and aversion the teaching describes as the soul's natural condition. |
+| **Enlightenment / Self-realization** | The state described in the teaching as freedom from selfish desires, attachment, fear, and anger; knowing the true nature of the soul (Atman) and abiding in a settled state free from craving and aversion, which the teaching describes as the soul's natural condition. |
 | **Attachment (Sangha / Abhimana)** | The mental bond to people, objects, or outcomes; the root cause of desire, anger, and the entire chain of suffering. |
 | **Desire (Kama / Trishna)** | The craving for sense objects or material outcomes; the teaching identifies this as the starting point of the chain that leads to anger, delusion, and suffering, and as a force that perpetuates the karmic cycle. |
 | **Anger (Krodha)** | The emotional response to unfulfilled desire; it leads to delusion, loss of reason, and ultimately destruction. |

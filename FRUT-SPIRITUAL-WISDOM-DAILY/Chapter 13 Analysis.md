@@ -21,7 +21,7 @@ This chapter presents a systematic exposition of the **Field–Knower–Super-so
 1. Pick one quality each day for the 22-day study period from the list above and commit to practicing it deliberately in every social interaction throughout the day.
 2. At the end of each day, journal for 5 minutes: Did you demonstrate this quality? Where did you fail? What will you do differently tomorrow?
 3. Each morning during the 22-day study period, spend 2 minutes meditating on the reality of aging, illness, and mortality. Remind yourself that every moment is limited — this naturally reduces attachment to trivial pleasures and distractions.
-4. Serve your teacher, mentor, or spiritual guide in a concrete action each week — this could be reading a passage of scripture they recommended, helping them with a task, or offering them a gift given with genuine love.
+4. Serve your teacher, mentor, or spiritual guide in a specific action each week — this could be reading a passage of scripture they recommended, helping them with a task, or offering them a gift given with genuine love.
 
 ---
 
@@ -85,7 +85,7 @@ No single path is superior — according to this teaching, the right path is the
     - If you have intellectual curiosity and capacity for study → read one spiritual or philosophical text daily and reflect on its meaning; write one insight in a journal.
     - If your life is busy, practical, and active → practice karma yoga: before each intentional action, silently offer it to the Supreme Being, without attachment to the result.
 2. Commit to your chosen path for 21 days consistently. After 21 days, evaluate whether you notice tangible benefits, such as reduced reactivity or increased calm, in your daily life.
-3. If you have a spiritual teacher (guru) or follow a tradition, practice listening to their teachings with full faith and attention — even if you don't fully understand immediately, the teaching describes sincere faith as a transformative practice.
+3. If you have a spiritual teacher (guru) or follow a tradition, practice listening to their teachings with full faith and attention — even if the meaning is not immediately clear to you, the teaching describes sincere faith as a transformative practice.
 4. Regardless of which path you choose, maintain the intention: "All my actions, thoughts, and words are surrendered to the Supreme. I am the instrument, not the doer."
 
 ---

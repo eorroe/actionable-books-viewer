@@ -70,7 +70,7 @@ Chapter 17 explores the concept of threefold faith, categorized according to the
 ### Lesson 5: Integrate Aum Tat Sat into Spiritual Practice
 **Objective:** Use the threefold symbol to deepen spiritual connection.
 
-1. Begin acts of sacrifice, charity, and austerity described in the Bhagavad Gita by chanting "Aum" (or other sounds considered equivalent in certain Hindu traditions: Amen, Amin, Hum) to cleanse ritual impurities.
+1. Begin acts of sacrifice, charity, and austerity described in the Bhagavad Gita by chanting "Aum" (or other sounds considered equivalent in some traditions: Amen, Amin, Hum) to cleanse ritual impurities.
 2. Meditate on "Tat" (universal oneness) while performing selfless actions, understanding it represents cosmic intelligence and the individual soul.
 3. Contemplate "Sat" (Supreme Truth/God) as the source of all creation and divine activities.
 4. Perform spiritual actions with the understanding that the Supreme pervades everything.

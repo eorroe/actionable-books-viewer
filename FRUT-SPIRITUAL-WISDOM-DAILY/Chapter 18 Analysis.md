@@ -2,7 +2,7 @@
 
 ## Summary
 
-Chapter 18 of the Gita explores the nature of renunciation freed from attachment to the fruits of action, the three modes of material nature (sattva, rajas, tamas) as they manifest in doers, actions, intellect, resolve, and happiness, the fourfold classification of humanity based on inherent qualities, and the supreme path of devotion and surrender. Krishna teaches that liberation is attained not by abandoning duty, but by performing one's prescribed duty aligned with one's inherent nature without attachment to fruits, with God as the ultimate goal. The chapter culminates in Arjun's enlightenment and Sanjay's prophecy of everlasting prosperity, victory, welfare, and morality in any place where Krishna consciousness and self-controlled action are established.
+Chapter 18 of the Gita explores the nature of renunciation freed from attachment to the fruits of action, the three modes of material nature (sattva, rajas, tamas) as they manifest in doers, actions, intellect, resolve, and happiness, the fourfold classification of humanity based on inherent qualities, and the supreme path of devotion and surrender. Krishna teaches that, according to the Gita, liberation is attained not by abandoning duty, but by performing one's prescribed duty aligned with one's inherent nature without attachment to fruits, with God as the ultimate goal. The chapter culminates in Arjun's enlightenment and Sanjay's prophecy of everlasting prosperity, victory, welfare, and morality in any place where Krishna consciousness and self-controlled action are established.
 
 ---
 
@@ -10,22 +10,22 @@ Chapter 18 of the Gita explores the nature of renunciation freed from attachment
 
 ### 1. Practice True Renunciation: Give Up Desire for Fruits
 **Step 1:** Perform one's obligatory duties according to one's stage of life and inherent nature without attachment to outcomes.
-**Step 2:** Eliminate both actions motivated by desire (in the present) and desire for reward (in the future).
+**Step 2:** Eliminate both actions motivated by desire (in the present) and attachment to specific outcomes or personal gain (in the future).
 **Step 3:** Treat work as desireless action offered to the divine.
 
 ### 2. Never Abandon Your Duty
-**Step 1:** Identify one's core obligations (self, family, community, profession).
+**Step 1:** Identify one's primary obligations (to yourself, your family, your community, and your profession).
 **Step 2:** Perform them willingly, without expectation of reward or recognition.
 **Step 3:** If an action generates persistent inner resistance or aversion lasting beyond two weeks, examine whether it is truly abandonment or necessary change.
 
 ### 3. Recognize the Five Causes of All Action
-**Step 1:** Understand that every action involves the body, ego, organs of perception/action, bio-impulses, and presiding forces governing karmic outcomes.
+**Step 1:** Understand that every action involves the body, ego, organs of perception/action, bio-impulses, and presiding deities or karmic forces governing karmic outcomes.
 **Step 2:** Do not identify solely with the body or ego as the "doer."
 **Step 3:** Reduce ego-identification to minimize karmic bondage, meaning reducing attachment to actions and results.
 
 ### 4. Cultivate Sattvic Knowledge
 **Step 1:** Recognize the underlying unity in all beings beyond external diversity.
-**Step 2:** Move from pluralistic thinking to recognizing the one divine essence.
+**Step 2:** Move from thinking that sees reality as fundamentally separate and disconnected to recognizing the one divine essence.
 **Step 3:** Avoid rajasic (separative) and tamasic (narrow, body-only) views of reality.
 
 ### 5. Align Action with Your Inherent Nature (Svadharma)
@@ -34,9 +34,9 @@ Chapter 18 of the Gita explores the nature of renunciation freed from attachment
 **Step 3:** Perform that work selflessly without attachment to success or failure.
 
 ### 6. Purify Your Intellect
-**Step 1:** Cultivate the ability to distinguish righteous action from unrighteous action by evaluating whether an action promotes the welfare of all beings without causing measurable harm.
+**Step 1:** Cultivate the ability to distinguish righteous action from unrighteous action by evaluating whether an action promotes the welfare of all beings without causing harm that can be observed in its effects on others, such as suffering or loss.
 **Step 2:** Do not let passion or ignorance cloud judgment.
-**Step 3:** Let the intellect's discriminative knowing guide decisions when the intellect is free from distortion by passion and ignorance.
+**Step 3:** Let the intellect's ability to distinguish right from wrong guide decisions when the intellect is free from distortion by passion and ignorance.
 
 ### 7. Develop Sattvic Fortitude
 **Step 1:** Practice steady control of mind, senses, and breath toward a single goal for at least 30 days.
@@ -44,8 +44,8 @@ Chapter 18 of the Gita explores the nature of renunciation freed from attachment
 **Step 3:** Maintain unwavering focus on Self-realization or divine union.
 
 ### 8. Choose Happiness Wisely
-**Step 1:** Seek pleasure that initially requires disciplined effort for the first two weeks, during which the first week may feel particularly effortful (sattvic) rather than easy sensual pleasure (rajasic/tamasic).
-**Step 2:** Practice self-control even when it requires disciplined restraint that may feel harsh for the first two weeks, during which the first week may feel particularly effortful; this path yields lasting inner fulfillment over time.
+**Step 1:** Seek pleasure that initially requires disciplined effort for the first two weeks, during which the first week may feel especially demanding of willpower (sattvic) rather than easy sensual pleasure (rajasic/tamasic).
+**Step 2:** Practice self-control even when it requires disciplined restraint that may feel harsh for the first two weeks, during which the first week may feel especially demanding of willpower; this path yields lasting inner fulfillment over time.
 **Step 3:** Avoid overindulgence, meaning more than your body requires for health, in sleep, laziness, and carelessness.
 
 ### 9. Surrender All Actions to the Supreme
@@ -56,7 +56,7 @@ Chapter 18 of the Gita explores the nature of renunciation freed from attachment
 ### 10. Spread Transcendental Knowledge
 **Step 1:** Study the teachings of Chapter 18 and share them with others.
 **Step 2:** Help others understand their innate capacity for self-realization and ethical living.
-**Step 3:** Even incomplete understanding of these teachings, when shared with sincerity, serves to inspire others toward self-realization and ethical living.
+**Step 3:** According to this text, even incomplete understanding of these teachings, when shared with sincerity, serves to inspire others toward self-realization and ethical living.
 
 ---
 

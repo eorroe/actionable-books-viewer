@@ -14,7 +14,7 @@ This chapter establishes karma yoga (selfless action) as the foundation for medi
 
 ### 1. Practice Karma Yoga: Perform Duty Without Attachment to Fruit
 **Step 1:** Identify your svadharma (duties prescribed by your role and circumstances) in daily life (work, family, and social responsibilities).  
-**Step 2:** Perform these duties to the fullest effort consistent with your current capacity and circumstances, but consciously detach from the outcome.  
+**Step 2:** Perform these duties to the fullest effort consistent with your present ability and circumstances, but consciously detach from the outcome.  
 **Step 3:** Do not seek personal enjoyment, praise, or reward as the purpose of the action.  
 **Step 4:** Reflect at the end of each day on whether you acted out of selfish motive or selfless duty.
 
@@ -40,11 +40,11 @@ This chapter establishes karma yoga (selfless action) as the foundation for medi
 **Step 1:** Notice when you categorize people as attractive, unattractive, or neutral.  
 **Step 2:** The chapter teaches that labeling creates inner disturbance — agitation, resentment, or distraction that prevents equanimity.  
 **Step 3:** Make a conscious decision to stop judging others based on surface-level attributes such as appearance, status, or social role.  
-**Step 4:** Treat companions, friends, enemies, neutrals, and strangers with the same basic courtesy and recognition of shared essence, honesty, and dignity you afford anyone by default.
+**Step 4:** Treat companions, friends, enemies, neutrals, and strangers with equal respect and attention you afford anyone by default.
 
 ### 6. Create a Dedicated Space and Routine for Meditation
 **Step 1:** Designate a consistent place free from interruptions for meditation and spiritual practice.  
-**Step 2:** Establish a fixed timetable for meditation, at a time you can commit to daily.  
+**Step 2:** Establish a fixed timetable for meditation, at a consistent time each day.  
 **Step 3:** Remove phones, notifications, and clutter from your meditation space.  
 **Step 4:** Begin with five- to ten-minute sessions and gradually increase the duration to thirty minutes, training your mind to focus on one point, such as the breath or a mantra.
 
@@ -67,9 +67,9 @@ This chapter establishes karma yoga (selfless action) as the foundation for medi
 **Step 4:** Reflect for five minutes each morning on the impermanent nature of material things, such as possessions, relationships, and physical comfort to weaken their hold on you.
 
 ### 10. Practice Non-Attachment to Memories and Achievements
-**Step 1:** When you recall past accomplishments, notice whether you mention past accomplishments unprompted in conversations or decisions.  
+**Step 1:** When you recall past accomplishments, notice whether you mention past accomplishments without being asked in conversations or decisions.  
 **Step 2:** Acknowledge the achievement, then write it down and set the note aside, returning to it only if needed for practical planning—do not let it become a source of ego or attachment.  
-**Step 3:** Apply the noticing principle, which means observing your thoughts without judgment to painful memories; observe the memory without judgment, and shift your attention to your breath for one minute without ruminating.  
+**Step 3:** Apply the noticing principle: observe thoughts of painful memories without judgment and shift your attention to your breath for one minute without ruminating.  
 **Step 4:** Keep your attention on the immediate physical action you are performing rather than reliving past successes or failures.
 
 ---
@@ -77,17 +77,17 @@ This chapter establishes karma yoga (selfless action) as the foundation for medi
 ## Key Terms and Concepts for Glossary
 
 - **Karma Yoga:** The path of selfless action; performing one's svadharma (prescribed duties) without desire for personal gain or attachment to the fruits of action.
-- **Svadharma:** One's own prescribed duty or righteous role-based responsibility as defined by one's current stage of life and personal inclinations, per the chapter's framework, meaning duties aligned with your role and stage of life.
+- **Svadharma:** One's own prescribed duty or righteous role-based responsibility as defined by one's current stage of life and personal inclinations, per the chapter's framework.
 - **Renunciation:** Not physical withdrawal from the world, but acting without seeking praise, reward, or personal gain.
 - **Detachment:** The state of being unaffected by objects of desire even when they are present; inner freedom from craving and aversion.
 - **Equanimity:** A mind that does not react with elation to gain or despair to loss, steadiness and impartiality in the face of pleasure and pain, gain and loss, honor and dishonor.
 - **Yogi:** The chapter describes a yogi as one who has attained union with the Spirit; a person who can sustain single-pointed attention for extended periods and is free from selfish desires.
-- **Supreme Being / Spirit:** The ultimate, omnipresent reality or the ultimate reality described in the glossary that pervades all existence as described in the chapter.
+- **Supreme Being / Spirit:** The ultimate, omnipresent reality or the ultimate reality that pervades all existence.
 - **Intellect:** The discriminating faculty of the mind used to focus the mind continuously on a single spiritual object or thought and make wise choices.
-- **Ego:** The sense of individual self-importance; the sense of individual self-importance that leads to judging others as separate from oneself.
+- **Ego:** The sense of individual self-importance that leads to judging others as separate from oneself.
 - **Senses / Sense Objects:** The five organs of perception and the external objects that attract the mind, frequently leading to attachment.
 - **Meditation:** The disciplined practice of quieting the mind and focusing it on a single point, ultimately on the Spirit or divine consciousness.
 - **Middle Path:** The principle of moderation, avoiding extremes of overindulgence and severe deprivation in all aspects of life.
 - **Compassion:** Consideration and thoughtful care for others, distinct from emotional charity or sentimentality; seeing others' needs as one's own.
-- **Self-Realization:** The chapter describes self-realization as the direct knowledge of one's true nature as the eternal Spirit as defined in the glossary, free from material identification.
+- **Self-Realization:** The chapter describes self-realization as the direct knowledge of one's true nature as the eternal Spirit, free from material identification.
 - **Transcendentalist:** One who seeks or has attained knowledge of the spiritual reality; a person free from sorrow.

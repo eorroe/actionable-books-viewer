@@ -5,7 +5,7 @@
 **Title:** Path of Karma Yoga
 
 **Summary:**  
-Chapter 3 presents Karma Yoga (selfless action) — the path of selfless action — as one of the two primary spiritual disciplines of Karma Yoga (selfless action) and Gyana Yoga (the path of knowledge) described in the Bhagavad Gita, the other being the path of Self-knowledge (Gyana Yoga) for those inclined toward introspection and study. According to the chapter, action cannot be abandoned, because all human beings are driven by the three gunas (sattva, rajas, tamas) and conditioned mental habits. The text teaches that freedom from karmic bondage comes not from renunciation of work, but from performing one's duty without selfish attachment to the fruits of action. The chapter describes true action as selfless service (yagya) dedicated to the welfare of society and alignment with the cosmic order (rita). It introduces the three gunas (sattva, rajas, tamas) as qualities that influence inherent human tendencies, explains that the intellect can govern the mind and senses, and warns that the text teaches that desire, ego, and attachment create suffering. The chapter describes self-realized persons as acting with focused effort and without attachment, inspiring others through example rather than force.
+Chapter 3 presents Karma Yoga (selfless action) — the path of selfless action — as one of the primary spiritual disciplines of Karma Yoga and Gyana Yoga (the path of knowledge) described in the Bhagavad Gita, the other being the path of Self-knowledge (Gyana Yoga) for those inclined toward introspection and study. According to the chapter, action cannot be abandoned, because human beings are driven by the three gunas (sattva, rajas, tamas) and conditioned habits of the mind. The text teaches that freedom from karmic bondage comes not from renunciation of work, but from performing one's duty without selfish attachment to the fruits of action. The chapter describes true action as selfless service (yagya) dedicated to the welfare of society and alignment with the cosmic order (rita). It introduces the three gunas (sattva, rajas, tamas) as qualities that influence inherent human tendencies, explains that the intellect can govern the mind and senses, and warns that desire, ego, and attachment create suffering. The chapter describes self-realized persons as acting with focused effort and without attachment, inspiring others through example rather than force.
 
 ---
 
@@ -13,23 +13,23 @@ Chapter 3 presents Karma Yoga (selfless action) — the path of selfless action 
 
 ### Lesson 1: Practice Selfless Action (Karma Yoga)
 **Scripture Reference:** 3.03, 3.09, 3.19
-1. Identify your duties prescribed by your role and circumstances as defined by your personal, professional, and familial responsibilities.
+1. Identify your duties prescribed by your role and circumstances as prescribed by your personal, professional, and familial responsibilities.
 2. Before performing each duty, deliberately redirect your attention away from thoughts of personal gain, recognition, or reward.
-3. Perform the action with full attention and efficiency, as an offering to benefit other people and the community.
+3. Perform the action with full attention and efficiency, as an offering for the welfare of others and the community.
 4. After completing the action, do not dwell on the outcome; release attachment to whether others praised or criticized it.
-5. Repeat daily until you consistently act without attachment to outcomes across situations.
+5. Repeat daily until acting without attachment to outcomes becomes your default response across situations.
 
 ### Lesson 2: Control the Mind Before Controlling the Senses
 **Scripture Reference:** 3.06, 3.07
 1. When you feel a compelling sensory attraction (e.g., craving food, scrolling, shopping), pause instead of immediately acting.
 2. Ask yourself: "Why am I drawn to this? What need is it trying to satisfy?"
-3. Ask your mind to list the short-term pleasure and long-term cost of acting on this desire, then note the benefit of restraint.
-4. Only after the mind is convinced should you exercise restraint in action.
+3. Ask your mind to identify the short-term pleasure and its long-term cost of acting on this desire, then note the benefit of restraint.
+4. Only after you have fully reasoned through the choice should you exercise restraint in action.
 5. Practice this reasoning habit daily to strengthen the consistency between your intentions and your actions.
 
 ### Lesson 3: Apply Knowledge Practically, Not Just Theoretically
 **Scripture Reference:** 3.03
-1. Study spiritual or philosophical teachings daily.
+1. Study spiritual or philosophical teachings daily, even briefly.
 2. After each study session, identify one specific action you can apply from what you learned.
 3. Implement that action within the next 24 hours.
 4. Reflect at the end of the day on how the application affected your state of mind.
@@ -38,9 +38,9 @@ Chapter 3 presents Karma Yoga (selfless action) — the path of selfless action 
 ### Lesson 4: Align Your Work With Your Natural Calling
 **Scripture Reference:** 3.35
 1. Reflect on which activities leave you feeling mentally alert and physically capable, even without external reward.
-2. Identify the work that aligns with strengths you have demonstrated through past performance and your personal sense of purpose.
+2. Identify the work that aligns with strengths you have demonstrated in past roles or projects and your personal sense of purpose.
 3. Avoid forcing yourself into careers or roles chosen by others, including family members, when the role conflicts with your demonstrated strengths and values.
-4. Recognize that work that conflicts with your nature tends to produce stress; work aligned with your nature tends to sustain a settled state free from craving and aversion.
+4. Recognize that work that conflicts with your nature typically produces stress; work aligned with your nature tends to sustain a settled state free from craving and aversion.
 5. If currently in unnatural work, create a step-by-step transition plan with specific milestones to move toward work that fits your nature.
 
 ### Lesson 5: Understand and Govern the Three Gunas
@@ -56,8 +56,8 @@ Chapter 3 presents Karma Yoga (selfless action) — the path of selfless action 
 1. When a specific, identifiable desire arises, do not act immediately. Breathe slowly and invoke your intellect.
 2. Ask your intellect: "Is this desire aligned with my stated long-term goals and core values?"
 3. If the intellect decides against the desire, redirect the mind within 30 seconds when the desire arises.
-4. Practice daily acts of intellectual restraint (e.g., skipping a snack, pausing before reacting in anger) to build intellectual strength.
-5. With consistent practice, the intellect becomes the natural governor of mind and senses, reducing the frequency of decisions made without sufficient reflection to understand the desire's origin.
+4. Practice regular acts of intellectual restraint (e.g., skipping a snack, pausing before reacting in anger) to build intellectual strength.
+5. With consistent practice, the intellect becomes the natural governor of mind and senses, reducing the frequency of decisions made without adequate reflection to understand the desire's origin.
 
 ### Lesson 7: Dedicate All Actions to the Divine (Yagya Consciousness)
 **Scripture Reference:** 3.10, 3.11, 3.13, 3.30
@@ -80,21 +80,21 @@ Chapter 3 presents Karma Yoga (selfless action) — the path of selfless action 
 1. When you feel a strong craving (attachment), do not suppress it forcefully. Instead, write down your observations in a journal about what you believe is triggering the craving, then identify the underlying emotional need such as stress, boredom, or loneliness.
 2. Ask: "What am I really seeking? Is this object of desire necessary for my health, safety, or long-term goals, or is it a temporary want?"
 3. The text teaches that unfulfilled desire frequently produces anger, frustration, or resentment.
-4. Practice conscious limitation by deciding in advance on a predefined amount, rather than total abstinence.
-5. When aversion arises toward a person or task, investigate what you are rejecting and whether accepting it builds skills, character, or relationships that matter to you.
+4. Practice conscious limitation by deciding in advance on a specific, limited amount, rather than total abstinence.
+5. When aversion arises toward a person or task, investigate what you are rejecting and whether accepting it builds skills, character, or relationships that contribute to your long-term well-being.
 
 ### Lesson 10: Be a Role Model Through Consistent Selfless Action
 **Scripture Reference:** 3.20, 3.21
 1. Decide on one specific selfless action you will perform consistently (e.g., helping a colleague, volunteering, sharing knowledge).
 2. Perform it without announcing it or seeking praise — let the action speak.
-3. Observe over the next month whether people you interact with begin to adopt similar behaviors without prompting.
+3. Observe over the next month for any observable change in others' behavior without prompting.
 4. Do not become attached to others following you; continue regardless of recognition.
 5. According to the text, effective leadership combines quiet consistency with selfless action that influences others over time.
 
 ### Lesson 11: Avoid Idleness; Work Is a Spiritual Duty
 **Scripture Reference:** 3.08
 1. Identify areas of idleness or procrastination in your daily routine.
-2. Replace idle time with purposeful action that has a defined intended outcome.
+2. Replace idle time with purposeful action that has a clear intended outcome.
 3. The chapter frames work as a spiritual offering rather than merely a burden.
 4. Remember: even maintaining the body requires ongoing effort; idleness runs counter to the principle that all beings contribute to the wheel of creation.
 5. When you feel overwhelmed, consciously reframe the work as service to others rather than an obligation imposed on you.

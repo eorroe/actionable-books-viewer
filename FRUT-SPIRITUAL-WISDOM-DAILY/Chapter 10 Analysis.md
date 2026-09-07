@@ -2,7 +2,7 @@
 
 ## Chapter Summary
 
-Gita Chapter 10, spanning from 27 July to 3 August, explores the nature and manifestations of the universal energy (the Absolute/Supreme Spirit/God) as revealed in verses 10.02 through 10.34. The chapter explains that the universal energy is the origin of all existence—including celestial beings, sages, and all living beings—while itself remaining unborn, eternal, and infinite. Through daily reflection, the chapter covers themes of self-knowledge, liberation from karmic bondage, the origin of human qualities, the genealogical descent from primordial sages, the presence of the divine within inner consciousness, and the seven divine qualities that can be cultivated through meditation. The central message is that the Absolute pervades all creation as both its source and its inner witness, and that realizing this understanding leads to wisdom, freedom from ignorance, and unwavering devotion.
+Gita Chapter 10, spanning from 27 July to 3 August 2024, explores the nature and manifestations of the universal energy (the Absolute/Supreme Spirit/God) as revealed in verses 10.02 through 10.34. The chapter explains that the universal energy is the origin of all existence—including celestial beings, sages, and all living beings—while itself remaining unborn, eternal, and infinite. Through daily reflection, the chapter covers themes of self-knowledge, liberation from karmic bondage, the origin of qualities such as fame, prosperity, speech, memory, intellect, resolve, and forgiveness, the genealogical descent from primordial sages, the presence of the divine within inner awareness, and the seven divine qualities that can be cultivated through meditation. The central message is that the Absolute pervades all creation as both its source and its inner witness, and that realizing this understanding leads to wisdom, freedom from ignorance, and unwavering devotion.
 
 ---
 
@@ -11,11 +11,11 @@ Gita Chapter 10, spanning from 27 July to 3 August, explores the nature and mani
 ### 1. Seek Self-Knowledge Through Direct Experience
 **Step-by-step instructions:**
 1. Set aside 10–15 minutes daily for inward reflection or meditation.
-  2. Focus your attention on the sense of 'I am' or the Super-Soul (Paramatma), the inner witness of all beings within you, rather than on external objects or thoughts.
+2. Focus your attention on the sense of 'I am' or the Super-Soul (Paramatma), the inner witness of all beings within you, rather than on external objects or thoughts.
 3. When the mind wanders, gently return to this inner awareness.
   4. Ask yourself: "What is the conscious witness behind my thoughts and sensations?"
 5. Cultivate the understanding that you are not merely the body or mind, but the eternal conscious Self that observes them.
-  6. With consistent practice, the distinction between spiritual reality and material existence becomes clearer, and doubts dissolve.
+  6. With consistent practice, the distinction between the nature of the eternal conscious Self and material nature (prakriti) becomes clearer, and your doubts dissolve.
 
 ### 2. Cultivate Divine Qualities Intentionally
 **Step-by-step instructions:**
@@ -63,9 +63,9 @@ Gita Chapter 10, spanning from 27 July to 3 August, explores the nature and mani
 
 - **Karmic Bondage:** The cycle of action and reaction that binds the soul to cycles of rebirth. Liberation from karmic bondage as defined in the glossary is achieved through self-knowledge and realization of the Self within.
 
-- **Self-Knowledge (Atma-Gyan):** The direct experiential understanding of the eternal conscious Self within. It is not merely intellectual knowledge but a lived realization that distinguishes spiritual reality from material existence and frees one from delusion.
+- **Self-Knowledge (Atma-Gyan):** The direct experiential understanding of the eternal conscious Self within. It is not merely intellectual knowledge but a lived realization that distinguishes the nature of the eternal conscious Self from material nature (prakriti) and frees one from delusion.
 
-- **Discrimination (Viveka):** The power to analyze things with impartial judgment that recognizes both the temporary nature of material events and the permanent nature of spiritual reality, and to distinguish between spiritual and material dimensions of existence. It arises from the universal energy and leads to freedom from doubt and delusion.
+- **Discrimination (Viveka):** The power to analyze experiences, thoughts, and objects with clear and unbiased judgment that recognizes both the temporary nature of material events and the permanent nature of the eternal conscious Self, and to distinguish between spiritual and material dimensions of existence. It arises from the universal energy and leads to freedom from doubt and delusion.
 
 - **Equanimity (Samatva):** Freedom from attachment and aversion. Maintaining a mind free from extreme attachment or aversion in the face of pleasure and pain, success and failure, praise and criticism.
 
@@ -75,13 +75,13 @@ Gita Chapter 10, spanning from 27 July to 3 August, explores the nature and mani
 
 - **Seven Great Sages (Saptarishi):** The earliest beings described in the Vedas, emanated from the cosmic mind of Brahma. They received the Vedas and became the first spiritual teachers of the world.
 
-- **Manus:** The four original rulers (Manus) described in the tradition, emanated from the cosmic mind. They, along with the seven sages, are the earliest human ancestors from whom all human life on earth descends from these original ancestors, according to the text.
+- **Manus:** The four original rulers (Manus) described in the Vedic tradition, emanated from the cosmic mind. They, along with the seven sages, are the earliest human ancestors from whom all human life on earth descends from these original ancestors, according to the text.
 
 - **The Seven Goddesses/Guardian Qualities:** The seven divine qualities manifest as qualities when cultivated through meditation, as described in verses 10.04–10.05: fame or glory, prosperity, speech, memory, intellect, resolve, and forgiveness.
 
-- **Ignorance (Avidya):** The state of ignorance as defined in the glossary that prevents the individual soul (Atman) as defined in the glossary from seeing its own true nature as the eternal Self. It is dispelled by the light of transcendental knowledge that arises through devotion and right questioning.
+- **Ignorance (Avidya):** The state of ignorance that prevents the individual soul (Atman) from seeing its own true nature as the eternal Self. It is dispelled by the light of transcendental knowledge that arises through devotion and right questioning.
 
-- **Transcendental Knowledge:** The inner realization that illuminates the focal point of awareness in the chest region and destroys the state of ignorance as defined in the glossary. It is not mere intellectual learning but a direct realization of the universal energy within.
+- **Transcendental Knowledge:** The inner realization that illuminates the focal point of awareness in the heart region and destroys the state of ignorance as defined in the glossary. It is not mere intellectual learning but a direct realization of the universal energy within.
 
 - **Devotion (Bhakti):** Steady, loving, and heartfelt dedication toward the universal energy or the Divine. It is the basis upon which wisdom is built and the means by which any practitioner following the practices described in this chapter becomes unshaken by other doctrines or theories.
 

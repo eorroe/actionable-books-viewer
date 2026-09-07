@@ -2,7 +2,7 @@
 
 ## Summary
 
-This chapter explores the philosophy of renunciation (sanyas) and distinguishes true spiritual renunciation from mere physical escape. The text emphasizes that abandoning family, job, and city to live apart from worldly distractions does not lead to peace if the mind remains attached. True renunciation is an internal state marked by freedom from attachment to pleasant experiences and aversion to unpleasant ones, achieved through selfless service (karma yoga) and the purification of the mind. The chapter teaches that the path of Self-knowledge (Atma Gyan) and the path of selfless action are not separate; both lead to the same supreme goal. Through daily guidance, it explains how not to be disturbed by sensory temptations, how to work without attachment to personal outcomes, how to recognize the same universal consciousness in all beings, and how to attain lasting peace through mental discipline, humility, and meditation.
+This chapter explores the philosophy of renunciation (sanyas) and distinguishes true spiritual renunciation from mere physical escape. The text emphasizes that abandoning family, job, and city to live apart from worldly distractions does not lead to peace if the mind remains attached. True renunciation is an internal state marked by freedom from attachment to pleasant experiences and aversion to unpleasant ones, achieved through selfless service (karma yoga) and the purification of the mind. The chapter teaches that the path of Self-knowledge (Atma Gyan) and the path of selfless action are not separate; both lead to the same supreme goal. Through its teachings, it explains how not to be disturbed by sensory temptations, how to work without attachment to personal outcomes, how to recognize the same universal consciousness in all beings, and how to attain lasting peace through mental discipline, humility, and meditation.
 
 ---
 
@@ -12,7 +12,7 @@ This chapter explores the philosophy of renunciation (sanyas) and distinguishes 
 **Principle**: The path of selfless service (karma yoga) is more effective than mere physical renunciation for most practitioners because it is easier to practice and can be done while living in the world.
 
 1. Recognize that quitting your job, leaving your family, or moving to a distant location to escape pressure is not true renunciation—it is avoiding reality.
-2. Instead of seeking physical isolation, commit to staying in your current circumstances where essential needs are reasonably satisfied and no urgent danger exists, and practicing selfless service.
+2. Instead of seeking physical isolation, commit to staying in your current circumstances where essential needs are reasonably satisfied and no urgent danger is present, and practicing selfless service.
 3. Perform your daily work not for personal gain, promotion, or recognition, but as an offering to the welfare of others.
 4. Evaluate whether your work provides tangible value, support, or service to others; if it does not, seek to direct your actions toward helping others without expectation of reward.
 5. Continue working while mentally detaching from the fruits of your labor.
@@ -39,7 +39,7 @@ This chapter explores the philosophy of renunciation (sanyas) and distinguishes 
 ### Lesson 4: Use Intellect to Isolate From Material Temptations Mentally
 **Principle**: Mental isolation from the material world is what is required, not physical isolation.
 
-1. When you feel drawn toward a material temptation (luxury purchase, unhealthy food, excessive entertainment), pause.
+1. When you feel drawn toward a desire for a non-essential physical object or sensory pleasure (luxury purchase, unhealthy food, excessive entertainment), pause.
 2. Use your intellect to ask: "Is this a requirement for survival or basic health, or a desire created by the senses?"
 3. Visualize yourself mentally withdrawing from the temptation, observing it without engaging, just as you would watch a cloud pass in the sky.
 4. Remind yourself that material objects are temporary; they will decay, become obsolete, or be left behind.
@@ -59,7 +59,7 @@ This chapter explores the philosophy of renunciation (sanyas) and distinguishes 
 ### Lesson 6: Cultivate Unshakable Peace by Abandoning Attachment to Fruits of Action
 **Principle**: A karma yogi attains unshakable peace by abandoning attachment to the fruits of work.
 
-1. Before beginning any task that does not cause harm, set the intention to perform it as an offering, without clinging to a specific result.
+1. Before beginning any task that does not cause physical, psychological, or material harm to others, set the intention to perform it as an offering, without clinging to a specific result.
 2. During the task, when you notice anxiety about the outcome arising, mentally detach by asking: "Can I control the result, or only my effort?"
 3. Mentally release attachment to the outcome and redirect your focus to the quality of your effort.
 4. At the end of each day, review what you did without labeling it as success or failure. Simply note the action and move on.
@@ -91,7 +91,7 @@ This chapter explores the philosophy of renunciation (sanyas) and distinguishes 
 
 1. Recognize that education provides information, but your discriminative faculty reveals how to use your innate intelligence.
 2. Do not equate degrees, titles, or wealth with true intelligence or wisdom.
-3. Study the lives of successful people; you can observe examples in the world around you of individuals who were self-taught or dropped out of formal education yet succeeded through focus, selfless service, and humility.
+3. Study the lives of accomplished individuals; you can observe examples from diverse fields of individuals who were self-taught or dropped out of formal education yet succeeded through focus, selfless service, and humility.
 4. If you achieve outer achievement, remember it is temporary. Do not become egoistic or believe you are infallible.
 5. Acknowledge the people and circumstances that supported your success; express gratitude regularly.
 6. Treat every success and failure as equally passing, like days and nights. Remain undisturbed by either.
@@ -127,7 +127,7 @@ This chapter explores the philosophy of renunciation (sanyas) and distinguishes 
 6. With consistent daily practice over four to six weeks, your mind will become sufficiently calm to maintain focused attention on the breath for 5 minutes without distraction, allowing you to perceive the difference between genuine need and lust-driven desire.
 
 ### Lesson 13: Treat Everyone as the Same Divine Expression
-**Principle**: Those who have realized Self-knowledge see the Supreme Being in all beings and therefore treat everyone with the same basic courtesy and consideration regardless of role, status, or behavior and compassion.
+**Principle**: Those who have realized Self-knowledge see the Supreme Being in all beings and therefore treat everyone with the same basic courtesy and consideration regardless of role, status, or behavior, with compassion.
 
 1. In every interaction, silently remind yourself: "The same divine energy flows through this person as flows through me."
 2. Do not let differences in skill, status, or behavior create inner division or hierarchy.
@@ -137,7 +137,7 @@ This chapter explores the philosophy of renunciation (sanyas) and distinguishes 
 6. Let this vision guide your leadership, relationships, and daily choices.
 
 ### Lesson 14: Understand the Cycle of Need → Lust → Anger and Break It
-**Principle**: Needs are necessary, but lust is the perversion of need, and unfulfilled lust commonly produces anger.
+**Principle**: Needs are necessary, but lust is the perversion of need, and unfulfilled lust often produces anger.
 
 1. When you desire something, honestly ask: "Is this required for survival, health, or basic functioning, or is it a want cultivated by the senses?"
 2. Recognize the pattern: a need is fulfilled and passes; lust keeps wanting greater quantity, larger size, or improved quality.

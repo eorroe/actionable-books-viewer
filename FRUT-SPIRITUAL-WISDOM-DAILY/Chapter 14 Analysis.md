@@ -15,7 +15,7 @@ This chapter (Days 17–30) explores the three modes of material nature—goodne
 **Steps:**
 1. Pause your current activity and observe your current mental, emotional, and physical state for at least 30 seconds.
 2. Ask yourself: *Am I seeking knowledge and inner peace (goodness), chasing specific desires and restlessly pursuing activities (passion), or feeling confused, lazy, and unmotivated (ignorance)?*
-3. Note which single mode is most prominent in your current thoughts and behaviors.
+3. Note which single mode appears most frequently in your current thoughts and behaviors
 4. Use this specific observation to adjust your actions rather than being driven by the mode.
 
 ---
@@ -25,9 +25,9 @@ This chapter (Days 17–30) explores the three modes of material nature—goodne
 **Problem:** Dominant passion or ignorance leads to measurable anxiety, restlessness, or inaction that interferes with your daily responsibilities and goals.
 
 **Steps:**
-1. Choose environments, conversations, and media that promote clear understanding of facts and structured learning of skills, structured learning (skill development), and peaceful conditions (low conflict, adequate rest).
+1. Choose environments, conversations, and media that promote clear understanding of facts, skill development, and peaceful conditions (low conflict, adequate rest).
 2. Engage in one specific 15-30 minute daily intellectual or spiritual practice—reading, study, or contemplation—at a consistent time.
-3. Set aside a specific 10-20 minute time block for meditation or quiet reflection to cultivate measurable inner tranquility (reduced heart rate, calmer emotional responses).
+3. Set aside a specific 10-20 minute time block for meditation or quiet reflection to cultivate measurable inner tranquility (reduced heart rate, emotional responses with lower intensity (such as reduced anger or anxiety)).
 4. Practice concrete self-discipline in speech: avoid specific improper talk (lies, exaggerations), gossip (talking about others without their presence), or harsh words (insults, sarcasm, yelling).
 5. Let the factual insights from Self-knowledge guide your decisions before acting by pausing to consider long-term consequences rather than short-term impulses.
 
@@ -64,9 +64,9 @@ This chapter (Days 17–30) explores the three modes of material nature—goodne
 **Problem:** Intense emotional reactions (anger, elation, defensiveness) to specific successes or failures disturb measurable inner peace (sleep quality, focus, physical tension).
 
 **Steps:**
-1. When you experience specific pleasure or praise, remind yourself: *"This is temporary and will change within a short period."*
+1. When you experience specific pleasure or praise, remind yourself: *"This is temporary and will change temporarily."*
 2. When you experience specific pain or criticism, practice the same detached observation by noting the factual content of the event without adding emotional interpretation for 60 seconds before responding.
-3. Treat all people equally—dear ones and difficult ones—by recognizing they are also acting under the influence of their own dominant modes of nature, as observed in their behavior.
+3. Treat all people equally—those close to you and those difficult to be around—by recognizing they are also acting under the influence of their own dominant modes of nature, as observed in their behavior.
 4. Practice the "witness mindset": observe specific situations without immediately identifying with them by mentally labeling thoughts as "thinking" and emotions as "feeling" rather than "I am angry" or "I am sad."
 5. Reflect daily at a set time on what you can directly control (your reactions, your effort) versus what you cannot (others' behavior, external events).
 
@@ -117,7 +117,7 @@ This chapter (Days 17–30) explores the three modes of material nature—goodne
 - **Spirit (Purusha):** The divine conscious self — your true spiritual identity or soul placed into material nature; the eternal consciousness, or the unchanging awareness within you that animates all beings and is distinct from the temporary body and mind.
 - **Soul:** The eternal conscious self — your true spiritual identity beyond the body (Purusha) — that is distinct from the temporary physical body and the three modes of material nature.
 - **Three Modes of Material Nature (Gunas):** The three measurable, observable qualities—sattva (goodness), rajas (passion), and tamas (ignorance)—that influence how the conscious self identifies with the temporary body and behaves.
-- **Sattva (Goodness):** The mode characterized by specific observable behaviors: harmony in relationships, pursuit of knowledge, mental clarity, and stable happiness; leads to measurable higher spiritual evolution, meaning progress in self-knowledge and detachment (increased compassion, reduced reactivity).
+- **Sattva (Goodness):** The mode characterized by specific observable behaviors: harmony in relationships, pursuit of knowledge, mental clarity, and stable happiness; leads to progress in self-knowledge and detachment (such as increased compassion or reduced reactivity).
 - **Rajas (Passion):** The mode characterized by specific observable behaviors: excessive activity, craving for specific outcomes, attachment to possessions or people, and restlessness; binds one to worldly actions and their measurable fruits (stress, disappointment, repetitive behavior patterns).
 - **Tamas (Ignorance):** The mode characterized by specific observable behaviors: inertia (avoiding necessary tasks), delusion (misunderstanding cause and effect), carelessness (neglecting responsibilities), and darkness meaning lack of awareness; the lowest of the three modes of nature when measured by its tendency to cause harm to self and others.
 - **Delusion (Maya/Avidya):** The measurable state in which the conscious self identifies with the body and forgets its true spiritual nature, evidenced by anxiety about physical appearance, fear of death, and excessive concern for material possessions.

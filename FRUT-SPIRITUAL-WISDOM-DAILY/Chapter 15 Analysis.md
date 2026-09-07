@@ -10,16 +10,16 @@ This chapter presents Krishna's teachings on the eternal cosmic tree, the nature
 
 ### 1. Understand the Cosmic Tree Within You
 **Step-by-step:**
-- Visualize your body and mind as an eternal tree rooted in the Supreme Being, with your desires as branches
-- Contemplate your nervous system as a reflection of this cosmic structure, with the brain as the source and nerves as branches.
-- Identify which "branches" of desire are strongest, meaning the desire that most frequently interrupts your focused activity, in your life.
+- Visualize your body and mind as an eternal tree (a metaphor from this chapter representing the cosmos and the individual) rooted in the Supreme Being, with your desires as branches
+- Contemplate how your nervous system mirrors this cosmic structure (the brain as source, nerves as branches)
+- Identify which "branches" of desire are strongest, meaning the desire that most often interrupts (for example, more than 3 times per day) your focused activity, in your life.
 
 ### 2. Cut the Roots of Desire with the Axe of Detachment
 **Step-by-step:**
-- Acknowledge that desires create a repeating cycle: acquiring one possession frequently leads to desiring additional possessions to maintain or complement it.
+- Acknowledge that desires create a repeating cycle: acquiring one possession leads to desiring additional possessions to maintain or complement it.
 - When a new desire arises, pause and ask whether it is necessary, meaning required for survival or health, or merely an extension of a previous desire.
 - Practice detachment by consciously choosing not to pursue non-essential, meaning not required for survival or health, wants for one day, then extend this practice gradually, adding one day each week.
-- Replace attachment to material objects with attachment to spiritual growth, meaning progress in self-knowledge and detachment or the Supreme Being.
+- Replace attachment to material objects with attachment to spiritual growth, meaning progress in self-knowledge and detachment and the Supreme Being.
 
 ### 3. Free Yourself from Pride and Delusion
 **Step-by-step:**
@@ -37,9 +37,9 @@ This chapter presents Krishna's teachings on the eternal cosmic tree, the nature
 
 ### 5. Recognize Your Soul as Part of the Universal Spirit
 **Step-by-step:**
-- Contemplate the analogy: if the Supreme Being is the ocean, you are a wave—never truly separate from the source.
+- Contemplate the analogy: if the Supreme Being is the ocean, you are a wave (a metaphor for the individual soul's inseparability from the universal Spirit)—never truly separate from the source.
 - When feeling isolated or alone, remind yourself that your essence is the same infinite Spirit reflected in all beings.
-- Spend five minutes daily in silence, visualizing your individual soul merging with the universal consciousness that pervades all beings.
+- Spend five minutes daily in silence, visualizing your individual soul merging with the universal consciousness (a conceptual description, not a literal physical merging) that pervades all beings.
 - Treat others with the understanding that the same infinite Spirit resides within them.
 
 ### 6. Still the Mind and Control the Senses
@@ -52,9 +52,9 @@ This chapter presents Krishna's teachings on the eternal cosmic tree, the nature
 ### 7. Understand the Distinction Between Perishable and Imperishable
 **Step-by-step:**
 - Reflect on the fact that your body, possessions, and social status are subject to constant change and eventual dissolution.
-- Identify what in your life feels permanent and unchanging—your core values, your capacity for love, or your fundamental awareness of being.
+- Identify what in your life feels permanent and unchanging—your core values (such as honesty or compassion), your capacity for love, or your fundamental awareness of your own existence.
 - When facing loss or change, remind yourself that while the perishable is fading, the eternal conscious self remains distinct from the changing body and mind.
-- Meditate on the analogy of the anvil: matter is the iron being shaped, but the Spirit is the unchanging anvil beneath it, illustrating unchangeability.
+- Meditate on the analogy of the anvil (a metaphor: matter is the iron being shaped, but the Spirit is the unchanging anvil beneath it), illustrating unchangeability.
 
 ### 8. Transcend Beyond the Temporal and Eternal
 **Step-by-step:**

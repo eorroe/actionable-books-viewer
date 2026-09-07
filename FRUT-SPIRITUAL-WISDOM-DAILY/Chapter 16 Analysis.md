@@ -3,7 +3,7 @@
 ## Chapter Title and Summary
 
 **Title:** Divine and the Demonic Natures
-**Date Range:** 12–18 October (year unspecified)
+**Date Range:** 12–18 October (year as specified in the source text)
 **Source:** Bhagavad Gita, Chapter 16
 
 This chapter explores the fundamental distinction between divine and demonic qualities in human nature. Krishna, in the text, delineates the characteristics of each path, explaining how divine qualities lead toward liberation (salvation) while demonic qualities result in bondage and suffering. The chapter identifies three primary "gates of hell" — lust, anger, and greed — that bind individuals to material existence (the physical realm of sensory attachment) and cause spiritual regression. It emphasizes that scriptures serve as a guiding framework for righteous living, and practical application of scriptural teachings is essential for attaining the Supreme Abode (Self-realization). The chapter reassures the spiritual seeker that readers are endowed with divine qualities and provides actionable guidance for transcending negative tendencies through self-awareness, discipline, and adherence to scriptural principles.
@@ -16,7 +16,7 @@ This chapter explores the fundamental distinction between divine and demonic qua
 **Objective:** Develop fearlessness, purity, perseverance, and related divine virtues to progress toward Self-realization.
 
 **Step-by-Step Instructions:**
-1. Practice **fearlessness** by strengthening undaunted faith in the Divine and by cultivating trust in divine love, wisdom, justice, mercy, and protection as qualities to embody. Recognize that fear ties the individual to material existence (the physical realm of sensory attachment).
+1. Practice **fearlessness** by strengthening steady faith in the Divine that does not diminish in difficulty and by cultivating trust in divine love, wisdom, justice, mercy, and protection as qualities to embody. Recognize that fear ties the individual to material existence (the physical realm of sensory attachment).
 2. Direct attention inward through **yoga and devotion** to renounce worldly desires (attachments to sensory pleasures) and attain inner purity.
 3. Engage in **charity of knowledge** — share the knowledge and resources you currently possess with fellow spiritual seekers and people in need.
 4. Cultivate **sense-restraint** by consciously limiting sensory indulgences and directing energy toward spiritual understanding.
@@ -58,18 +58,18 @@ This chapter explores the fundamental distinction between divine and demonic qua
 2. **Control lust:**
    - Recognize lust as desire for material pleasures including sexual gratification, food, money, and property
    - Practice contentment (satisfaction with what you possess)
-   - Limit exposure to external stimuli that fuel unhealthy craving that exceeds genuine need
+   - Limit exposure to external stimuli that fuel craving for things beyond what is necessary for health and basic well-being
    - Redirect energy toward spiritual disciplines such as meditation, devotional service, and selfless service to others
 3. **Control anger:**
-   - Develop alertness to the early physical and emotional signs of anger
+   - Develop alertness to the early physical signs (such as clenched fists or rapid breathing) and emotional signs (such as frustration or irritation) of anger
    - When you experience anger, **pause** — do not react without delay
    - Ask yourself: "What is the underlying cause of my anger?"
    - Do not allow anger to control your actions; observe it and let it reduce in intensity
    - Repeat this exercise until the intensity of your anger decreases
 4. **Control greed:**
-   - Be alert about when you are acquiring more than your genuine needs require
+   - Be alert about when you are acquiring more than what is required for health, safety, and basic well-being
    - Before making a purchase or taking more, ask: "Do I genuinely need this?"
-   - Since greed originates from lust, controlling greed will reduce lustful cravings as well
+   - According to the text, since greed originates from lust, controlling greed will reduce lustful cravings as well
    - Practice generous giving to others and sharing to counterbalance excessive acquisitiveness (grasping for more than needed)
 5. **Monitor progress:** Reflect daily: "Have I been trapped by lust, anger, or greed today? What triggered it, and how did I respond?"
 
@@ -80,9 +80,9 @@ This chapter explores the fundamental distinction between divine and demonic qua
 
 **Step-by-Step Instructions:**
 1. **Study the scriptures:** Read and understand the Vedic wisdom texts that provide guidance for righteous living, specifically the Bhagavad Gita, the Upanishads, and related sacred literature of this tradition.
-2. **Accept scriptures as authority:** Determine what should be done and what should not be done based on scriptural teachings, not personal preferences or social conditioning.
+2. **Accept scriptures as authority:** Determine what should be done and what should not be done based on scriptural teachings of the Bhagavad Gita and related Vedic texts, not personal preferences or social conditioning.
 3. **Distinguish theoretical from practical knowledge:** Mere reading gives theoretical knowledge; practical wisdom comes from practical application.
-4. **Apply scriptural principles consistently:** Before making decisions, ask: "Does this align with scriptural guidance? Am I following the scriptural guide or acting on whim?"
+4. **Apply scriptural principles consistently:** Before making decisions, ask: "Does this align with scriptural guidance from the Bhagavad Gita and related texts? Am I following the scriptural guide or acting on whim?"
 5. **Avoid selective obedience:** Do not selectively choose teachings that suit your desires while ignoring those that challenge you. Follow scriptural injunctions with consistent sincerity.
 6. **Use analogies for motivation:** Remember that making decisions without understanding the principles behind them frequently leads to harmful outcomes, based on the text's teaching. This is analogous to taking medicine without following the dosage instructions — negative consequences are likely.
 
