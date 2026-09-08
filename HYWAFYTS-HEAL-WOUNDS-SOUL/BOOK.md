@@ -2,15 +2,15 @@
 
 ## Overview
 
-This book teaches readers how to recognize, accept, and heal the five wounds of the soul—rejection, abandonment, humiliation, betrayal, and injustice—through a systematic practice of self-observation, ego dialogue, and acceptance. It provides a structured path to reduce suffering, live from the heart rather than the ego, and return to one's authentic, centered self.
+This book teaches readers how to recognize, accept, and heal the five wounds of the soul—rejection, abandonment, humiliation, betrayal, and injustice—through a systematic practice of self-observation, ego dialogue, and acceptance. It provides a structured path to reduce suffering, live from inner awareness rather than the ego, and return to one's genuine, centered self.
 
 ## When to Follow Book Teachings
 
 - When you notice recurring relationship patterns that cause suffering
 - When you feel stuck in cycles of self-blame, victimhood, or defensiveness
-- When physical symptoms such as chronic headaches, digestive issues, or back pain (with no clear medical cause) seem disproportionate to situations
+- When physical symptoms such as chronic headaches, digestive issues, or back pain (with no diagnosed medical cause) seem disproportionate to situations
 - When you want to distinguish your ego voice from your intuition
-- When you seek to understand why certain situations trigger strong emotional responses
+- When you seek to understand why specific situations trigger strong emotional responses
 - When you are ready to take responsibility for your healing rather than seeking external fixes
 - When you want to help others discover their own needs without controlling them
 
@@ -30,15 +30,15 @@ You decline invitations repeatedly, not because you are busy, but because you fe
 
 ##### Example 3: Physical Symptoms Without Medical Cause
 
-You experience chronic headaches, digestive issues, or back pain that doctors cannot explain. These chronic physical symptoms often mirror ego-generated suffering from an activated wound.
+You experience chronic headaches, digestive issues, or back pain that doctors cannot explain. These chronic physical symptoms reflect suffering from an activated wound.
 
 #### Step 1: Notice the Disproportionate Reaction
 
-When you feel a strong emotion or physical sensation, pause and ask whether the reaction matches the actual event. If it feels outsized, a wound is likely activated.
+When you feel a strong emotion or physical sensation, pause and ask whether the reaction matches the actual event. If it feels outsized, a wound is activated.
 
 #### Step 2: Ask Which Wound Was Activated
 
-Recall the five wounds: rejection, abandonment, humiliation, betrayal, and injustice. Identify which one best matches your reaction pattern.
+Recall the five wounds: rejection, abandonment, humiliation, betrayal, and injustice. Identify which one matches your reaction pattern.
 
 #### Step 3: Name the Mask You Are Wearing
 
@@ -46,34 +46,34 @@ Each wound comes with a protective mask. Ask yourself: Am I withdrawing (rejecti
 
 #### Step 4: Track the Activation
 
-Write down the situation, your reaction, and the wound you identified. Tracking builds awareness of your patterns over time.
+Write down the situation, your reaction, and the wound you identified. Tracking builds awareness of your patterns.
 
 #### Best Practices
 
 - ✅ Pause before reacting to observe the emotion rather than being consumed by it
 - ✅ Name the wound and the mask to create distance from the reaction
-- ✅ Track activations in writing to see patterns over weeks and months
+- ✅ Track activations in writing to see patterns
 - ✅ Treat physical symptoms as potential signals rather than dismissing them
 - ❌ Do not suppress the emotion or judge yourself for having a wound
 - ❌ Do not immediately act on the ego's first impulse
 
 #### Keep In Mind
 
-- Wounds fade and intensify over time. Track your own evolution to see progress.
+- Wounds fade and intensify. Track your own evolution to see progress.
 - Your interpretation of events causes suffering, not the events themselves. Shifting your perception reduces suffering.
-- The wound of rejection is the prime wound of the ego.
+- The wound of rejection is the primary wound of the ego.
 
 #### Security & Safety Notes
 
 - This practice is for self-awareness, not for diagnosing others. Avoid labeling other people's wounds without their consent.
-- If you experience severe emotional distress or trauma, seek support from a qualified mental health professional alongside this practice.
+- If you experience intense emotional distress, seek support from a licensed therapist alongside this practice.
 
 #### Common Pitfalls
 
 - **Problem:** You blame yourself for having wounds and feel shame about them.
   **Solution:** Accept your ego and wounds with compassion. They developed as protection. Be glad you are aware rather than self-critical.
 - **Problem:** You escape suffering through substances, distractions, or constant activity.
-  **Solution:** Face the wound directly. Substances and distractions only postpone healing and often intensify the wound over time.
+  **Solution:** Face the wound directly. Substances and distractions only postpone healing and intensify the wound.
 - **Problem:** You cannot identify which wound is activated.
   **Solution:** Use the three-step wound identification process from Lesson 17: Step 1 — recognize that your ego is in charge (notice urgency, defensiveness, or exaggeration); Step 2 — discover the core emotion beneath the reaction (fear, hurt, shame, anger, or sadness); Step 3 — identify the judgments, accusations, and reactions you are directing at the situation or person. The pattern revealed points to the wound.
 
@@ -83,15 +83,15 @@ Write down the situation, your reaction, and the wound you identified. Tracking 
 
 ##### Example 1: The Withdrawer
 
-When someone criticizes you, you go silent and isolate yourself rather than engaging. This is the mask of the rejection wound. It protects you from further rejection but prevents authentic connection.
+When someone criticizes you, you go silent and isolate yourself rather than engaging. This is the mask of the rejection wound. It protects you from further rejection but prevents genuine connection.
 
 ##### Example 2: The People Pleaser
 
-You agree to every request, even when it drains you, because you fear being abandoned. This is the mask of the abandonment wound. It keeps people close but prevents them from knowing the real you.
+You agree to every request, even when it drains you, because you fear being abandoned. This is the mask of the abandonment wound. It keeps people close but prevents them from knowing your genuine self.
 
 ##### Example 3: The Perfectionist
 
-You serve others constantly and take on excessive responsibility to avoid feeling humiliated. This is the mask of the humiliation wound. It earns you approval but keeps you from enjoying your own needs and desires.
+You serve others constantly and take on more responsibility than is yours to carry to avoid feeling humiliated. This is the mask of the humiliation wound. It earns you approval but keeps you from honoring your own needs and desires.
 
 #### Step 1: Learn the Five Wounds and Their Masks
 
@@ -107,13 +107,13 @@ Each mask protects you from a specific fear: rejection, abandonment, humiliation
 
 #### Step 4: Recognize the Mask's Limitations
 
-Masks may have worked in childhood, but in adulthood they prevent authentic living. Acknowledge that the mask no longer serves you.
+Masks may have worked in childhood, but in adulthood they prevent genuine living. Acknowledge that the mask no longer serves you.
 
 #### Best Practices
 
 - ✅ Study the characteristics of each wound until you can recognize them intuitively
 - ✅ Observe masks in others to better understand your own
-- ✅ Thank your mask for its protection before gently setting it aside
+- ✅ Acknowledge your mask's protective purpose before gently setting it aside
 - ❌ Do not identify completely with the mask. It is a protective strategy, not who you are.
 - ❌ Do not try to eliminate the mask immediately. Acceptance comes before transformation.
 
@@ -131,7 +131,7 @@ Masks may have worked in childhood, but in adulthood they prevent authentic livi
 - **Problem:** You feel shame about your mask and try to hide it.
   **Solution:** Accept your mask as a necessary adaptation. Shame about the mask only creates more suffering.
 - **Problem:** You judge others for their masks.
-  **Solution:** Recognize that everyone wears masks. Judgment is often a sign that your own wound is activated.
+  **Solution:** Recognize that everyone wears masks. Judgment is a sign that your own wound is activated.
 
 ### Lesson 3: Apply the Triangle of Life to Your Relationships
 
@@ -139,11 +139,11 @@ Masks may have worked in childhood, but in adulthood they prevent authentic livi
 
 ##### Example 1: Your Relationship With Others Mirrors Your Relationship With Yourself
 
-You criticize your partner for not listening, but you also do not listen to your own needs. The external conflict mirrors the internal one.
+You criticize your partner for not listening, but you also do not listen to your own needs. The external conflict reflects the internal one.
 
 ##### Example 2: Hurting Yourself Through Others
 
-You allow a friend to take advantage of you because you do not stand up for yourself. You are hurting yourself by permitting the behavior.
+You allow a friend to harm you because you do not stand up for yourself. You are hurting yourself by permitting the behavior.
 
 ##### Example 3: Shifting Internal Perspective Changes External Reality
 
@@ -151,11 +151,11 @@ You stop interpreting your colleague's silence as rejection and instead see it a
 
 #### Step 1: Notice Your Reactions to Others
 
-When you feel hurt, angry, or judged by someone, pause and ask: How do I treat myself in similar situations?
+When you feel hurt, angry, or judged by someone, pause and ask: How do I treat myself in comparable situations?
 
 #### Step 2: Identify the Internal Parallel
 
-Ask what part of yourself you are rejecting, abandoning, humiliating, betraying, or being unjust toward. The external situation is a mirror.
+Ask what part of yourself you are rejecting, abandoning, humiliating, betraying, or being unjust toward. The external situation reflects your inner state.
 
 #### Step 3: Refuse to Accuse Yourself or Others
 
@@ -163,23 +163,23 @@ When a wound is active, do not accuse yourself or others. Instead, observe the a
 
 #### Step 4: Use the "I Realize" Statement
 
-Say to yourself: "I realize my [wound name] wound has been activated." This acknowledges the activation without feeding it.
+Say to yourself: "I realize which wound has been activated. I acknowledge that I am human and still have wounds to heal. For now, I feel this activation, and one day it will hurt less." This acknowledges the activation without feeding it.
 
 #### Best Practices
 
-- ✅ Look inward before blaming outward
+- ✅ Look inward before blaming external circumstances
 - ✅ Use the "I realize" statement to create distance from the reaction
-- ✅ Treat others as mirrors of your inner state
+- ✅ Treat others as reflections of your inner state
 - ❌ Do not use the triangle of life to blame yourself for others' behavior
 - ❌ Do not assume every conflict is entirely your fault
 
 #### Keep In Mind
 
-- You also hurt yourself. Recognize when you allow others to "take advantage" of you because you do not honor your own boundaries.
+- You also hurt yourself. Recognize when you allow others to harm you because you do not honor your own boundaries.
 
 #### Security & Safety Notes
 
-- The triangle of life is a tool for self-reflection, not for accepting abuse. If someone is harming you, set boundaries regardless of your inner work.
+- The triangle of life is a tool for self-reflection, not for accepting abuse. If someone is harming you, set boundaries regardless of your practice.
 
 #### Common Pitfalls
 
@@ -218,11 +218,11 @@ When you recognize activation, use breath and water to interrupt the ego's contr
 
 #### Step 4: Refuse Help Only After Checking the Motivation
 
-Before refusing help, ask whether you are refusing out of need or out of fear. The wound of rejection often drives refusal out of fear rather than genuine independence.
+Before refusing help, ask whether you are refusing out of need or out of fear. The wound of rejection can drive refusal out of fear rather than genuine independence.
 
 #### Best Practices
 
-- ✅ Identify all three activation pathways to get the full picture
+- ✅ Identify all three activation pathways to get the complete picture
 - ✅ Interrupt activation early using breath and water
 - ✅ Check your motivations before refusing help or offering it
 - ❌ Do not assume activation comes only from external sources
@@ -230,8 +230,8 @@ Before refusing help, ask whether you are refusing out of need or out of fear. T
 
 #### Keep In Mind
 
-- Offering help is usually an act of generosity and pleasure, not a burden. Recognize when you resist receiving help because of your wound.
-- The wound of injustice is linked to diet and weight struggles. Recognize when control over food is a wound response.
+- Offering help is an act of generosity, not a burden. Recognize when you resist receiving help because of your wound.
+- The wound of injustice can manifest as struggles with diet and weight, because control over food reflects the need for control in life. Recognize when controlling food intake is a wound response.
 
 #### Security & Safety Notes
 
@@ -286,8 +286,8 @@ Notice when you crave external praise. True self-worth comes from within, not fr
 
 #### Keep In Mind
 
-- The path forward is from awareness to change. You cannot change what you do not first see.
-- When you discover a disorder's cause, be glad you are aware. Do not add self-blame to the wound.
+- Progress is from awareness to change. You cannot change what you do not first see.
+- When you discover a wound's cause, be glad you are aware. Do not add self-blame to the wound.
 
 #### Security & Safety Notes
 
@@ -330,23 +330,23 @@ When someone speaks, listen without planning your response. Do not interrupt, fi
 
 #### Step 4: Stop Justifying, Defending, and Lying
 
-Notice when you feel compelled to explain yourself unnecessarily. Ego-driven justification often accompanies wounds of rejection and injustice.
+Notice when you feel compelled to explain yourself unnecessarily. Ego-driven justification accompanies wounds of rejection and injustice.
 
 #### Step 5: Stay Centered in the Present Moment
 
-Bring your attention back to the present when your mind wanders to past regrets or future anxieties. The ego lives in time; your heart lives in the present.
+Bring your attention back to the present when your mind wanders to past regrets or future anxieties. The ego focuses on past and future; your awareness lives in the present.
 
 #### Step 6: Release Judgment of Good and Bad
 
-Stop categorizing experiences, people, and yourself as good or bad. Judgment separates you from reality and keeps the ego in charge.
+Stop categorizing experiences, people, and yourself as good or bad. Judgment distorts your perception of reality and keeps the ego in charge.
 
 #### Step 7: Stop Making Comparisons
 
-When you compare yourself to others, your ego is seeking validation or superiority. Comparisons always create suffering.
+When you compare yourself to others, your ego is seeking validation or superiority. Comparisons create suffering.
 
 #### Step 8: Stop Trying to Make Others Happy Without Being Asked
 
-Offering unasked help or advice is often the ego trying to control or gain approval. Help only when asked.
+Offering unasked help or advice is the ego trying to control or gain approval. Help only when asked.
 
 #### Best Practices
 
@@ -358,8 +358,8 @@ Offering unasked help or advice is often the ego trying to control or gain appro
 
 #### Keep In Mind
 
-- The ego's language is a signal, not a crime. Notice it without shame.
-- Ego-driven criticism of others often reflects your own wound activation.
+- The ego's language is a signal, not a fault. Notice it without shame.
+- Ego-driven criticism of others reflects your own wound activation.
 
 #### Security & Safety Notes
 
@@ -368,9 +368,9 @@ Offering unasked help or advice is often the ego trying to control or gain appro
 #### Common Pitfalls
 
 - **Problem:** You police your own language so harshly that you become anxious about speaking.
-  **Solution:** Awareness comes before change. Notice the pattern gently, and over time your speech will shift naturally.
+  **Solution:** Awareness comes before change. Notice the pattern gently, and your speech will shift naturally.
 - **Problem:** You notice others' ego language and feel superior.
-  **Solution:** Noticing others' patterns is often your ego comparing itself. Return your attention to your own speech.
+  **Solution:** Noticing others' patterns is your ego comparing itself. Return your attention to your own speech.
 
 ### Lesson 7: Identify and Neutralize Ego-Driven Criticism
 
@@ -382,7 +382,7 @@ You find fault with a coworker's work, not because it is actually deficient, but
 
 ##### Example 2: Self-Criticism
 
-After making a mistake, you berate yourself with harsh language. This self-criticism is the ego attacking itself, often rooted in the humiliation wound.
+After making a mistake, you berate yourself with harsh language. This self-criticism is the ego attacking itself, rooted in the humiliation wound.
 
 ##### Example 3: Recognizing and Transforming Arrogance
 
@@ -390,11 +390,11 @@ You take credit for successes and blame others for failures. This arrogance is t
 
 #### Step 1: Notice When Criticism Arises
 
-When you feel the urge to criticize someone or yourself, pause. Ask whether the criticism is based on objective fact or on your wound's reaction.
+When you feel the urge to criticize someone or yourself, pause. Ask whether the criticism is based on observable facts or on your wound's reaction.
 
 #### Step 2: Ask Others for Honest Feedback
 
-Ask a trusted person to point out when you use ego-driven phrases or criticism. External feedback reveals blind spots.
+Ask a person you trust to point out when you use ego-driven phrases or criticism. External feedback reveals blind spots.
 
 #### Step 3: Notice When Resistance to Feedback Is Your Ego Speaking
 
@@ -402,7 +402,7 @@ If you feel defensive when someone gives you feedback, your ego is protecting it
 
 #### Step 4: Recognize Arrogance in Yourself
 
-Arrogance is the ego inflating itself to cover vulnerability. When you feel superior to others, your wound is likely activated.
+Arrogance is the ego inflating itself to cover vulnerability. When you feel superior to others, your wound is activated.
 
 #### Step 5: Transform Criticism Into Curiosity
 
@@ -418,8 +418,8 @@ Replace criticism with curiosity. Instead of "This is wrong," ask "What is this 
 
 #### Keep In Mind
 
-- Resistance to feedback is your ego speaking, not your heart.
-- Noticing ego-driven criticism in others is often a sign your own wound is activated.
+- Resistance to feedback is your ego speaking, not your inner awareness.
+- Noticing ego-driven criticism in others is a sign your own wound is activated.
 
 #### Security & Safety Notes
 
@@ -429,7 +429,7 @@ Replace criticism with curiosity. Instead of "This is wrong," ask "What is this 
 
 - **Problem:** You feel crushed by negative feedback.
   **Solution:** Separate your worth from your behavior. Feedback is about actions, not your identity.
-- **Problem:** You reject all feedback because some of it feels wrong.
+- **Problem:** You reject all feedback because some feedback feels wrong.
   **Solution:** You do not need to agree with all feedback. Simply notice your resistance. The resistance itself is useful data.
 
 ### Lesson 8: Practice Acceptance as Observation Without Judgment
@@ -458,7 +458,7 @@ Stop waiting until you are "better" to accept yourself. Acceptance is for the pr
 
 #### Step 3: Talk to Your Ego With Acceptance
 
-Speak to your ego as you would to a frightened child. Recognize its good intentions and reassure it.
+Speak to your ego as you would to a protective part of yourself. Recognize its good intentions and reassure it.
 
 #### Step 4: Give Your Ego a Name
 
@@ -466,7 +466,7 @@ Naming your ego (for example, "Canta") creates distance and makes dialogue easie
 
 #### Step 5: Reassure Your Ego About Consequences
 
-When you make a decision that goes against your ego's fears, reassure it. Explain that you are safe and that the decision serves your higher good.
+When you make a decision that goes against your ego's fears, reassure it. Explain that you are safe and that the decision serves your greater good.
 
 #### Step 6: When Ego Resists Acceptance, Dialogue With It Directly
 
@@ -482,7 +482,7 @@ If you feel resistance to accepting a situation, ask your ego: "What are you afr
 
 #### Keep In Mind
 
-- Acceptance does not mean resignation. It means seeing reality clearly so you can act from the heart rather than reacting from fear.
+- Acceptance does not mean resignation. It means seeing situations clearly so you can act from inner awareness rather than reacting from fear.
 - Use "agree to disagree" when confronted with ego-driven arguments. You do not need to win to be at peace.
 
 #### Security & Safety Notes
@@ -502,7 +502,7 @@ If you feel resistance to accepting a situation, ask your ego: "What are you afr
 
 ##### Example 1: Heart-Centered Pride
 
-You feel a quiet satisfaction after completing a difficult project. This pride comes from the heart and honors your effort without needing external validation.
+You feel satisfaction after completing a difficult project. This pride comes from your values and honors your effort without needing external validation.
 
 ##### Example 2: Ego-Driven Pride
 
@@ -514,11 +514,11 @@ Someone praises your work. Instead of deflecting or fishing for more praise, you
 
 #### Step 1: Notice the Sensation of Pride
 
-When you feel proud, check your body. Heart-centered pride feels warm and expansive. Ego-driven pride feels tight, anxious, or comparative.
+When you feel proud, check your body. Heart-centered pride feels open and expansive. Ego-driven pride feels contracted, anxious, or comparative.
 
 #### Step 2: Check Whether Comparison Is Involved
 
-If your pride requires feeling better than someone else, it is ego-driven. Heart-centered pride does not need comparison.
+If your pride requires feeling better than someone else, it is ego-driven. Pride without comparison is healthy.
 
 #### Step 3: Respond to Compliments With Humility
 
@@ -543,7 +543,7 @@ You can feel proud of your work without needing public acknowledgment. If you fe
 #### Keep In Mind
 
 - The need for public recognition is ego-driven. True pride needs no audience.
-- Pride in your authentic self is healthy. Pride in your image is ego.
+- Pride in your genuine self is healthy. Pride in your public image is ego.
 
 #### Security & Safety Notes
 
@@ -552,9 +552,9 @@ You can feel proud of your work without needing public acknowledgment. If you fe
 #### Common Pitfalls
 
 - **Problem:** You feel guilty for feeling proud.
-  **Solution:** Heart-centered pride is healthy. Guilt about pride often comes from the humiliation wound.
+  **Solution:** Heart-centered pride is healthy. Guilt about pride comes from the humiliation wound.
 - **Problem:** You dismiss compliments to appear humble.
-  **Solution:** Dismissing compliments is often a covert way to seek more praise. Simply say "thank you."
+  **Solution:** Dismissing compliments is a covert way to seek more praise. Simply say "thank you."
 
 ### Lesson 10: Accept Others' Prideful Behavior Without Reacting
 
@@ -574,7 +574,7 @@ Someone at a party talks about their wealth or status. Instead of feeling inferi
 
 #### Step 1: Recognize the Wound Behind the Pride
 
-Prideful behavior often masks a wound of rejection or humiliation. Recognize that the person is seeking validation they did not receive in childhood.
+Prideful behavior masks a wound of rejection or humiliation. Recognize that the person is seeking validation.
 
 #### Step 2: Check Your Own Reaction
 
@@ -598,7 +598,7 @@ Others' pride does not diminish you. Your worth is not relative to anyone else's
 
 #### Keep In Mind
 
-- Your annoyance at others' pride is often your ego feeling threatened. Return to your center.
+- Your annoyance at others' pride is your ego feeling threatened. Return to your center.
 - Pride is not your problem unless you make it yours.
 
 #### Security & Safety Notes
@@ -642,7 +642,7 @@ When you make a decision that triggers fear in your ego, explain the outcome. "I
 
 #### Step 4: Develop the Reflex to Dialogue
 
-Practice this dialogue daily, even for small decisions. Over time, it becomes automatic.
+Practice this dialogue daily, even for small decisions. It becomes automatic.
 
 #### Best Practices
 
@@ -655,7 +655,7 @@ Practice this dialogue daily, even for small decisions. Over time, it becomes au
 #### Keep In Mind
 
 - Your ego is not your enemy. It is a protective mechanism with good intentions.
-- Dialogue is more effective than suppression or battle.
+- Dialogue is more effective than suppression or struggle.
 
 #### Security & Safety Notes
 
@@ -664,7 +664,7 @@ Practice this dialogue daily, even for small decisions. Over time, it becomes au
 #### Common Pitfalls
 
 - **Problem:** You forget to use the name in the moment of activation.
-  **Solution:** Practice with small, low-stakes decisions first. Build the reflex over time.
+  **Solution:** Practice with small, low-stakes decisions first. Build the reflex.
 - **Problem:** You feel silly talking to yourself.
   **Solution:** The name creates a helpful psychological distance. If it feels awkward, choose a name that feels natural.
 
@@ -682,7 +682,7 @@ You want to accept a situation, but your ego resists. Instead of fighting the re
 
 ##### Example 3: Illuminating Wounds Through Acceptance
 
-You stop trying to eliminate your wound of humiliation and instead observe it with curiosity. Over time, the wound loses its power because you are no longer feeding it with resistance.
+You stop trying to eliminate your wound of humiliation and instead observe it with curiosity. The wound loses its power because you are no longer feeding it with resistance.
 
 #### Step 1: Observe the Sensation or Emotion
 
@@ -690,15 +690,15 @@ When a wound is activated, notice the physical sensation and emotion without lab
 
 #### Step 2: Name What You Are Observing
 
-Say to yourself: "I am observing [emotion/sensation]." Naming creates distance.
+Say to yourself: "I am observing the emotion or sensation." Naming creates distance.
 
 #### Step 3: Refrain from Judgment
 
-Do not judge the emotion or yourself for having it. Simply observe it as if you were watching a cloud pass by.
+Do not judge the emotion or yourself for having it. Simply observe it as if watching a passing cloud.
 
 #### Step 4: Illuminate the Wound
 
-Acceptance illuminates the wound so you can see it clearly. Resistance keeps it in the dark where it grows stronger.
+Acceptance clarifies the wound so you can see it clearly. Resistance keeps it unexamined where it grows stronger.
 
 #### Best Practices
 
@@ -710,7 +710,7 @@ Acceptance illuminates the wound so you can see it clearly. Resistance keeps it 
 
 #### Keep In Mind
 
-- Acceptance does not mean liking the situation. It means seeing it clearly so you can respond from the heart rather than react from fear.
+- Acceptance does not mean liking the situation. It means seeing situations clearly so you can respond from inner awareness rather than react from fear.
 - When you accept your ego, you can see your masks. Acceptance is the prerequisite for transformation.
 
 #### Security & Safety Notes
@@ -722,7 +722,7 @@ Acceptance illuminates the wound so you can see it clearly. Resistance keeps it 
 - **Problem:** You think acceptance means you have to like the wound or the situation.
   **Solution:** Acceptance is neutral observation. You do not have to approve of the wound to accept its presence.
 - **Problem:** You resist acceptance because you fear it means giving up.
-  **Solution:** Acceptance gives you power. When you stop fighting reality, you can act from clarity rather than fear.
+  **Solution:** Acceptance gives you control. When you stop fighting reality, you can act from clarity rather than fear.
 
 ### Lesson 13: Regain Power by Acting From the Heart and Withdrawing Energy From Ego
 
@@ -730,19 +730,19 @@ Acceptance illuminates the wound so you can see it clearly. Resistance keeps it 
 
 ##### Example 1: Choosing Honesty Over Protection
 
-You feel the urge to lie to avoid conflict (rejection wound). Instead, you choose honesty because it aligns with your heart. You withdraw energy from the ego's fear.
+You feel the urge to lie to avoid conflict (rejection wound). Instead, you choose honesty because it aligns with your values. You reduce attention to the ego's fear.
 
 ##### Example 2: Speaking Your Truth
 
-You have been silent in a meeting to avoid standing out (humiliation wound). You speak your truth even though your ego trembles. This is acting from the heart.
+You have been silent in a meeting to avoid standing out (humiliation wound). You speak your honest perspective even though your ego resists. This is acting from inner awareness.
 
 ##### Example 3: Following Intuition Over Fear
 
-You feel called to change careers, but your ego fears the unknown. You follow the quiet inner knowing rather than the loud fear.
+You feel drawn to change careers, but your ego fears the unknown. You follow your inner knowing rather than the loud fear.
 
 #### Step 1: Check Your Internal Sensations
 
-When you need to make a decision, notice your body. Intuition feels calm, warm, and certain. Ego feels anxious, tight, or urgent.
+When you need to make a decision, notice your body. Intuition feels calm, warm, and clear. Ego feels anxious, tight, or pressing.
 
 #### Step 2: Talk to Your Ego When It Thwarts Intuition
 
@@ -754,24 +754,24 @@ Notice when the ego takes over—in speech, action, or thought. Each time you ca
 
 #### Step 4: Act From the Heart
 
-Choose the action that aligns with your authentic self, not the one that protects your ego. This is where true power resides.
+Choose the action that aligns with your genuine self, not the one that protects your ego. This is where true control resides.
 
 #### Step 5: Limit Yourself to Beneficial Beliefs
 
-Discard beliefs that no longer serve you. Replace them with beliefs that support your heart-centered life. Follow your intuition as your guide.
+Discard beliefs that no longer serve you. Replace them with beliefs that support your life guided by inner awareness. Follow your intuition as your guide.
 
 #### Best Practices
 
 - ✅ Check physical sensations to distinguish intuition from ego
 - ✅ Dialogue with your ego when it interferes with intuition
-- ✅ Act from the heart even when the ego resists
+- ✅ Act from inner awareness even when the ego resists
 - ❌ Do not confuse ego urgency with intuition
 - ❌ Do not abandon your values to keep the peace
 
 #### Keep In Mind
 
-- Intuition is calm and certain. Ego is anxious and urgent. Learn to tell the difference through your body.
-- Every time you act from the heart, you withdraw energy from the ego.
+- Intuition is calm and clear. Ego is anxious and pressing. Learn to tell the difference through your body.
+- Every time you act from inner awareness, you reduce attention to the ego.
 
 #### Security & Safety Notes
 
@@ -780,7 +780,7 @@ Discard beliefs that no longer serve you. Replace them with beliefs that support
 #### Common Pitfalls
 
 - **Problem:** You cannot tell the difference between intuition and ego.
-  **Solution:** Check your body. Intuition feels expansive and calm. Ego feels contracted and anxious. Practice with small decisions first.
+  **Solution:** Check your body. Intuition feels open and calm. Ego feels closed and anxious. Practice with small decisions first.
 - **Problem:** You act from ego and then blame yourself.
   **Solution:** Every instance of noticing is progress. Catch the ego taking charge, re-center, and try again.
 
@@ -802,7 +802,7 @@ You present yourself as perfectly rational and fair, but underneath you fear bei
 
 #### Step 1: Identify Which Wound Is Dominant
 
-Notice whether your primary pattern is withdrawing (rejection) or rigid control (injustice). Both wounds may be present, but one is usually dominant.
+Notice whether your primary pattern is withdrawing (rejection) or rigid control (injustice). Both wounds may be present, but one is dominant.
 
 #### Step 2: Recognize the Denial Pattern of the Withdrawer
 
@@ -823,16 +823,16 @@ Write down each time your rejection or injustice wound is activated. Note the tr
 #### Best Practices
 
 - ✅ Learn the difference between the two wounds to identify your dominant pattern
-- ✅ Track activations to see your evolution over time
+- ✅ Track activations to see your progress
 - ✅ Recognize when one wound covers another
 - ❌ Do not assume you have only one wound
 - ❌ Do not confuse the rigid person's anger with the withdrawer's silence
 
 #### Keep In Mind
 
-- The wound of rejection is the prime wound of the ego.
-- The wound of injustice is linked to diet and weight struggles. Control over food often mirrors the need for control in life.
-- Hate is a consequence of the inability to feel true love. Healing the wound restores the capacity for love.
+- The wound of rejection is the primary wound of the ego.
+- The wound of injustice can manifest as struggles with diet and weight, because control over food reflects the need for control in life.
+- Hate can result from difficulty feeling true love. Healing the wound restores the ability for love.
 
 #### Security & Safety Notes
 
@@ -843,7 +843,7 @@ Write down each time your rejection or injustice wound is activated. Note the tr
 - **Problem:** You cannot tell which wound is dominant.
   **Solution:** Track your reactions over two weeks. The pattern will become clear.
 - **Problem:** You think you have only the rejection wound because you identify with withdrawing.
-  **Solution:** Injustice often covers rejection. Look deeper. Are you rigid about fairness even when you present as a people pleaser?
+  **Solution:** Injustice covers rejection. Look deeper. Are you rigid about fairness even when you present as a people pleaser?
 
 ### Lesson 15: Understand the Wounds of Abandonment and Betrayal
 
@@ -855,11 +855,11 @@ You micromanage your partner's schedule because you fear they will leave you. Th
 
 ##### Example 2: The Dependent Person (Abandonment)
 
-You cling to relationships and fear being alone. You may stay in unhealthy situations because solitude feels worse than mistreatment. This is the mask of the abandonment wound.
+You cling to relationships and fear being alone. You stay in harmful situations because solitude feels worse than mistreatment does. This is the mask of the abandonment wound.
 
 ##### Example 3: Complaining vs. Making a True Request
 
-You complain about your partner not helping, but you never make a clear, direct request. Complaining keeps you in the victim role; a true request opens the door to change.
+You complain about your partner not helping, but you never make a clear, direct request. Complaining keeps you in a victim mindset; a true request opens the door to change.
 
 #### Step 1: Recognize When Your Wounds Are Activated
 
@@ -871,15 +871,15 @@ Complaining focuses on what is wrong without asking for change. Ordering demands
 
 #### Step 3: Practice "Being True"
 
-Align your thought, feeling, speech, and action. When they are in conflict, your wound is likely masking your authenticity.
+Align your thought, feeling, speech, and action. When they are in conflict, your wound is masking your genuine expression.
 
 #### Step 4: Use the Mirror Technique
 
-Look at what you criticize in others. What you cannot accept in others is often what you cannot accept in yourself.
+Look at what you criticize in others. What you cannot accept in others is what you cannot accept in yourself.
 
 #### Step 5: Break the "Pleasing = Loving" Equation
 
-You may believe that if you please others, they will love you and stay. This equation keeps you trapped. Love does not require sacrificing your authenticity.
+You may believe that if you please others, they will love you and stay. This equation keeps you trapped. Love does not require sacrificing your genuine expression.
 
 #### Step 6: Take Full Responsibility for Your Own Decisions
 
@@ -893,14 +893,14 @@ When your wound is activated, use your breath to return to the present. Breathe 
 
 - ✅ Speak true requests rather than complaints or orders
 - ✅ Align your inner and outer expressions
-- ✅ Use the mirror technique to see yourself in others
+- ✅ Use the reflection technique to see yourself in others
 - ❌ Do not equate pleasing with loving
 - ❌ Do not stay in situations that harm you to avoid solitude
 
 #### Keep In Mind
 
-- Cultivating compassion for others heals your own wound. When you understand others' fears, you soften your own.
-- Letting go of control and finding hope in surrender is the path for both wounds.
+- Cultivating compassion for others heals your own wound. When you understand others' fears, you reduce your own suffering.
+- Letting go of control and surrendering control is the approach for both wounds.
 
 #### Security & Safety Notes
 
@@ -919,7 +919,7 @@ When your wound is activated, use your breath to return to the present. Breathe 
 
 ##### Example 1: Distinguishing Feeling From Wound
 
-You feel embarrassed after tripping in public. That is a normal feeling. The wound of humiliation is when you feel unworthy of love because of the embarrassment and carry it for days.
+You feel embarrassed after tripping in public. That is a normal feeling. The wound of humiliation is when you feel unworthy of love because of the embarrassment and carry it.
 
 ##### Example 2: Spiritual Humiliation
 
@@ -927,7 +927,7 @@ You carry the wound of humiliation and believe that being spiritual means denyin
 
 ##### Example 3: Nutritional Neglect
 
-You neglect your nutritional needs and cycle through weight gain because you believe you do not deserve to care for yourself. This is the wound of humiliation manifesting in the body.
+You experience weight gain cycles because you believe you do not deserve to care for yourself. This is the wound of humiliation manifesting in the body.
 
 #### Step 1: Distinguish Between the Feeling and the Wound
 
@@ -935,11 +935,11 @@ A feeling of humiliation passes quickly. The wound lingers and colors your self-
 
 #### Step 2: Accept Yourself Totally
 
-Healing the wound of humiliation requires total self-acceptance, including your desires, slowness, and sensory needs.
+Healing the wound of humiliation requires complete self-acceptance, including your desires, slowness, and sensory needs.
 
 #### Step 3: Redefine What It Means to Be Spiritual
 
-If you carry the humiliation wound, you may believe spirituality means denial and service. True spirituality includes honoring your own needs and enjoying your senses.
+If you carry the humiliation wound, you may believe spirituality means denial and service. This approach to spirituality includes honoring your own needs and enjoying your senses.
 
 #### Step 4: Help Others Only When Asked and From Self-Love
 
@@ -947,7 +947,7 @@ Service that comes from ego seeking approval reinforces the wound. Service that 
 
 #### Step 5: Address the Fear of Being Free
 
-You may use constant service or busyness to avoid freedom because freedom feels like selfishness. Recognize this pattern and give yourself permission to be free.
+You may use continuous service or busyness to avoid freedom because freedom feels like selfishness. Recognize this pattern and allow yourself freedom.
 
 #### Step 6: Address Nutritional Neglect and Weight Cycles
 
@@ -955,7 +955,7 @@ Notice when you neglect your body or use food to punish yourself. This is the wo
 
 #### Step 7: Use the Dialogue With Canta When Guilt Arises
 
-After sensory excess or indulgence, guilt may arise. Dialogue with your ego: "Canta, I hear your guilt, but I am allowed to enjoy my senses."
+After sensory indulgence, guilt may arise. Dialogue with your ego: "Canta, I hear your guilt, but I am allowed to enjoy my senses."
 
 #### Step 8: Accept Your Slowness as Enjoying Your Senses
 
@@ -984,14 +984,14 @@ When activated, use breath to recenter. Observe the sensation without judgment.
 
 #### Security & Safety Notes
 
-- This wound often manifests as self-neglect. If you are neglecting your health or safety, seek professional support.
+- This wound manifests as self-neglect. If you are neglecting your health or safety, seek professional support.
 
 #### Common Pitfalls
 
 - **Problem:** You feel guilty after enjoying pleasure or sensory experiences.
   **Solution:** Pleasure is not sinful. Dialogue with your ego to understand the guilt, and give yourself permission to enjoy life.
 - **Problem:** You define spirituality as self-denial.
-  **Solution:** True spirituality honors the whole self, including your body, desires, and joy.
+  **Solution:** This approach to spirituality honors the whole self, including your body, desires, and joy.
 
 ### Lesson 17: Use the Three-Step Technique to Identify Activated Wounds
 
@@ -999,7 +999,7 @@ When activated, use breath to recenter. Observe the sensation without judgment.
 
 ##### Example 1: Step One — Recognizing Your Ego
 
-You feel a surge of anger after a comment. You recognize that this is not a calm, heart-centered response. Your ego has taken charge.
+You feel a surge of anger after a comment. You recognize that this is not a calm, inner-aware response. Your ego has taken charge.
 
 ##### Example 2: Step Two — Discovering the Emotions Felt
 
@@ -1027,11 +1027,11 @@ The same person may trigger different wounds in different contexts. Your boss ma
 
 #### Step 5: Recognize When Wounds Are Worsening
 
-If your reactions are stronger or more frequent than before, your wound may be intensifying. This is useful information for tracking your evolution.
+If your reactions are stronger or more frequent than before, your wound is intensifying. This is useful information for tracking your progress.
 
 #### Step 6: Recognize a Significant or Deep Wound
 
-Some activations feel disproportionately intense. These point to deeper wounds that may require more time and attention.
+Activations feel disproportionately intense. These point to wounds that require more attention.
 
 #### Best Practices
 
@@ -1044,7 +1044,7 @@ Some activations feel disproportionately intense. These point to deeper wounds t
 #### Keep In Mind
 
 - A minor trigger can reveal a deep wound. The size of the trigger does not indicate the depth of the wound.
-- Recognizing a significant wound is not a failure. It is an opportunity for deeper healing.
+- Recognizing a deep wound is not a failure. It is an opportunity for deeper healing.
 
 #### Security & Safety Notes
 
@@ -1055,7 +1055,7 @@ Some activations feel disproportionately intense. These point to deeper wounds t
 - **Problem:** You skip directly to naming the wound without working through the steps.
   **Solution:** The three steps build on each other. Work through them sequentially.
 - **Problem:** You minimize a strong reaction because the trigger seemed small.
-  **Solution:** A disproportionate reaction always signals a wound, regardless of the trigger size.
+  **Solution:** A disproportionate reaction signals a wound, regardless of the trigger size.
 
 ### Lesson 18: Heal Wounds Through the Seven Steps of Forgiveness
 
@@ -1079,7 +1079,7 @@ Do not rush to forgiveness before you have felt the full weight of the wound. Ac
 
 #### Step 2: See the Other Person's Wound
 
-Recognize that people who hurt others are often acting from their own wounds. This does not excuse the behavior, but it explains it.
+Recognize that people who hurt others are acting from their own wounds. This does not excuse the behavior, but it explains it.
 
 #### Step 3: Take Responsibility for Your Own Healing
 
@@ -1112,7 +1112,7 @@ Ask what the wound taught you. How has it made you stronger, more compassionate,
 #### Keep In Mind
 
 - Healed wounds still exist but no longer dominate you. You may still feel a twinge, but it no longer controls your behavior.
-- Do not have expectations regarding physical changes from healing. Healing is internal and unfolds in its own time.
+- Do not have expectations regarding physical changes from healing. Healing unfolds gradually.
 
 #### Security & Safety Notes
 
@@ -1151,11 +1151,11 @@ When someone acts unfairly, you feel a surge of cold anger and a desire to cut t
 
 #### Step 1: Recognize the Fear When It Arises
 
-Each wound has a signature fear. Learn to recognize yours when it appears.
+Each wound has a characteristic fear. Learn to recognize yours when it appears.
 
 #### Step 2: Name the Wound and the Fear
 
-Say to yourself: "I recognize the fear of panic, solitude, freedom, dissociation, or coldness. My [wound name] wound is activated."
+Say to yourself: "I recognize the fear of panic, solitude, freedom, dissociation, or coldness. Panic signals rejection; solitude signals abandonment; freedom signals humiliation; dissociation signals betrayal; coldness signals injustice. My wound is activated."
 
 #### Step 3: Breathe and Recenter
 
@@ -1163,15 +1163,15 @@ Use breath to interrupt the ego's reaction. Feel your feet on the ground and ret
 
 #### Step 4: Dialogue With Your Ego
 
-Address your ego by name. "Canta, I know you are afraid of [solitude/betrayal/etc.], but I am safe right now."
+Address your ego by name. "Canta, I know you are afraid, but I am safe right now." Name the specific fear silently before speaking.
 
 #### Step 5: Choose a Heart-Centered Response
 
-Instead of reacting from fear, choose a response that honors your authentic self. This may mean staying present, setting a boundary, or asking for what you need.
+Instead of reacting from fear, choose a response that honors your genuine self. This may mean staying present, setting a boundary, or asking for what you need.
 
 #### Best Practices
 
-- ✅ Learn the signature fear of your dominant wound
+- ✅ Learn the characteristic fear of your dominant wound
 - ✅ Interrupt the fear response with breath and water
 - ✅ Dialogue with your ego to understand the fear
 - ❌ Do not let the fear dictate your actions
@@ -1184,7 +1184,7 @@ Instead of reacting from fear, choose a response that honors your authentic self
 
 #### Security & Safety Notes
 
-- Fear responses can be intense. If you feel overwhelmed, use water and breath, and consider seeking support from a trusted person or professional.
+- Fear responses may be intense. If you feel overwhelmed, use water and breath, and consider seeking support from a person you trust or a professional.
 
 #### Common Pitfalls
 
@@ -1215,7 +1215,7 @@ Do not limit forgiveness to one wound. Apply the full process to rejection, aban
 
 #### Step 2: Take Immediate Action When Fear Arises
 
-When you feel the signature fear of your wound, act immediately. Do not wait until the fear overwhelms you.
+When you feel the characteristic fear of your wound, act immediately. Do not wait until the fear overwhelms you.
 
 #### Step 3: Recognize That Healed Wounds Still Exist but No Longer Dominate
 
@@ -1243,7 +1243,7 @@ Write what you commit to practicing. Be specific. "I commit to noticing my ego l
 
 #### Keep In Mind
 
-- Recognize that wounds are interrelated. Healing one wound often softens others.
+- Recognize that wounds are interrelated. Healing one wound softens others.
 - Use your intuition to help others discover their own needs, not to control them.
 - Allow all facets of your humanity—your needs, desires, emotions, and vulnerabilities—to express themselves freely without being overridden by the ego's protective patterns.
 
@@ -1264,7 +1264,7 @@ Write what you commit to practicing. Be specific. "I commit to noticing my ego l
 
 ##### Example 1: Noticing Wounds Fade and Intensify
 
-You track your activations over six months and notice that some wounds trigger less frequently while others intensify before fading. This is normal evolution.
+You track your activations over six months and notice that wounds trigger with less frequency while others intensify before fading. This is normal evolution.
 
 ##### Example 2: Writing Down Your Decision
 
@@ -1276,7 +1276,7 @@ You experiment with speaking your truth instead of pleasing, and you notice that
 
 #### Step 1: Track Every Activation
 
-Keep a journal of wound activations. Note the date, trigger, wound, mask, and your response. Patterns will emerge over time.
+Keep a journal of wound activations. Note the date, trigger, wound, mask, and your response. Patterns will emerge.
 
 #### Step 2: Notice the Evolution
 
@@ -1292,7 +1292,7 @@ Try small experiments: speak a true request instead of complaining, set a bounda
 
 #### Step 5: Write Down Your Commitments
 
-At key milestones, write down what you commit to practicing. Be specific and revisit your commitments regularly.
+At milestones, write down what you commit to practicing. Be specific and revisit your commitments periodically.
 
 #### Best Practices
 
@@ -1304,7 +1304,7 @@ At key milestones, write down what you commit to practicing. Be specific and rev
 
 #### Keep In Mind
 
-- Wounds fade and intensify over time. This is normal. Tracking helps you see the overall trend rather than getting discouraged by temporary intensification.
+- Wounds fade and intensify. This is normal. Tracking helps you see the trend rather than getting discouraged by brief intensification.
 - Experimentation is how you turn knowledge into wisdom.
 
 #### Security & Safety Notes
@@ -1323,17 +1323,17 @@ At key milestones, write down what you commit to practicing. Be specific and rev
 |Term|Definition|Index Pages|
 |----|----------|-----------|
 |Abandonment wound|The wound caused by physical or emotional absence of caregivers, characterized by fear of solitude and a tendency to cling or please to avoid being alone|Ch. 1, 5, 6|
-|Acceptance|The practice of observing wounds, ego, and emotions without judgment, which illuminates rather than eliminates them and creates the space for transformation|Ch. 1, 4, 9|
+|Acceptance|The practice of observing wounds, ego, and emotions without judgment, which clarifies rather than eliminates them and creates the space for transformation|Ch. 1, 4, 9|
 |Betrayal wound|The wound caused by broken trust or secrecy, characterized by fear of dissociation and a controlling mask that seeks to prevent future betrayal|Ch. 1, 5, 6|
 |Canta|The name suggested for one's ego, used to facilitate dialogue and create psychological distance from ego-driven patterns|Ch. 4, 5, 6, 7, 9|
 |Ego|The protective mechanism that develops in childhood to shield against pain, driven by fear and operating through masks, superlatives, and reactive patterns|Ch. 3, 4, 9|
 |Humiliation wound|The wound caused by being shamed or made to feel defective, characterized by fear of freedom and a serving mask that seeks approval through self-denial|Ch. 1, 5, 7|
 |Injustice wound|The wound caused by unfair treatment or excessive demands, characterized by fear of coldness and a rigid mask that seeks control and perfection|Ch. 1, 5, 6|
-|Intuition|The calm, certain inner knowing that comes from the heart, distinguished from the anxious, urgent voice of the ego by checking internal bodily sensations|Ch. 4, 9|
+|Intuition|The calm, certain inner knowing that comes from inner awareness, distinguished from the anxious, urgent voice of the ego by checking internal bodily sensations|Ch. 4, 9|
 |Mask|The protective persona or behavior pattern adopted by the ego to shield a specific wound from further pain, including the withdrawer, pleaser, server, controller, and rigid person|Ch. 1, 3, 4, 5|
-|Rejection wound|The prime wound of the ego, caused by feeling unwanted or unloved, characterized by fear of panic and a withdrawing mask that avoids connection to prevent further rejection|Ch. 1, 5, 6|
+|Rejection wound|The primary wound of the ego, caused by feeling unwanted or unloved, characterized by fear of panic and a withdrawing mask that avoids connection to prevent further rejection|Ch. 1, 5, 6|
 |Seven Steps of Forgiveness|A structured process for healing deep wounds that includes acknowledging pain, seeing the other's wound, taking responsibility, releasing expectations, choosing forgiveness, setting boundaries, and integrating the lesson|Ch. 9|
-|Triangle of Life|The principle that your relationship with others mirrors your relationship with yourself, and that you also hurt yourself through how you allow others to treat you|Ch. 1, 3, 5|
+|Triangle of Life|The principle that your relationship with others reflects your relationship with yourself, and that you also hurt yourself through how you allow others to treat you|Ch. 1, 3, 5|
 |Wound activation|The process by which a person, situation, or self triggers a wound, causing the ego to adopt its mask and generate suffering through disproportionate emotional or physical reactions|Ch. 1, 4, 5, 8, 9|
 |Wound of abandonment|See abandonment wound|Ch. 1, 6|
 |Wound of betrayal|See betrayal wound|Ch. 1, 6|
