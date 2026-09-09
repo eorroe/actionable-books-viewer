@@ -2,15 +2,15 @@
 
 ## Overview
 
-Intuitive Awareness by Ajahn Sumedho teaches a direct, simple practice of inclusive awareness that transcends conceptual thinking and attachment to form. The book guides readers toward recognizing the awakened awareness already present within, rather than seeking special states or external authorities. Through Buddho practice, contemplation of the four elements, and an attitude of opening to all experience without preference, the teachings point toward original purity — the unconditioned awareness that is free from suffering.
+Intuitive Awareness by Ajahn Sumedho teaches a direct, simple practice of inclusive awareness that transcends conceptual thinking and attachment to form. The book guides readers toward recognizing the capacity for aware knowing that is already present in every moment, rather than seeking special states or external authorities. Through Buddho practice, contemplation of the four elements, and an attitude of opening to all experience without preference, the teachings point toward original purity — the unconditioned awareness that is free from suffering.
 
 ## When to Follow Book Teachings
 
-- When you find yourself overcomplicating meditation or spiritual practice with goals, techniques, and striving
-- When painful mental states arise and you notice the habit of distracting yourself rather than facing discomfort
+- When meditation or spiritual practice becomes complicated by goals, techniques, and striving
+- When painful feelings arise and you notice the tendency to turn away from them rather than staying present
 - When emotions, personality views, or self-identification trap you in reactive patterns
 - When you feel confused and are tempted to seek external answers, validation, or authority figures to resolve uncertainty
-- When you are expecting people, situations, or institutions to rescue you from your own experience
+- When you are expecting other people, specific situations, or institutions to rescue you from your own direct experience
 - When you want to rest in awareness regardless of whether you are in a temple, a noisy city, or a difficult relationship
 - When you are ready to trust your own capacity for awareness rather than depending on teachers, texts, or traditions as ultimate authorities
 - When you wish to cultivate an attitude of openness and ease with life — welcoming all conditions without grasping or aversion
@@ -23,7 +23,7 @@ Intuitive Awareness by Ajahn Sumedho teaches a direct, simple practice of inclus
 
 ##### Example 1: Resting in Awareness of Restlessness
 
-When the mind is restless and busy, rather than trying to force stillness, rest in the simple act of being aware of the restlessness itself. The awareness of restlessness is not restless — it is the open, knowing space in which restlessness arises.
+When the mind is restless and busy, rather than trying to force stillness, rest in the simple act of being aware of the restlessness itself. The awareness of restlessness is not restless — it is the open knowing quality that is aware of restlessness as it arises.
 
 ##### Example 2: Using "Buddho" as a Gentle Anchor
 
@@ -31,11 +31,11 @@ When the mind wanders into thought, the word or feeling "Buddho" (awake/aware) s
 
 ##### Example 3: Confusion Is Also Held in Awareness
 
-Even when you feel completely confused, there is an awareness of that very confusion. Rather than trying to figure it out or escape it, rest in the awareness of confusion. That awareness is already free of confusion.
+Even when you feel completely confused, there is an awareness of that very confusion. Rather than trying to figure it out or escape it, rest in the knowing that confusion is present. That knowing quality is not itself confused.
 
 #### Step 1: Sit in a comfortable but alert posture.
 
-Choose a posture that allows you to be present without straining. The body should be relaxed but not slouched.
+Choose a posture where the spine is upright but not rigid, the shoulders are soft, and you can remain for the full session without shifting or discomfort.
 
 #### Step 2: Let go of the need to analyze, think about, or conceptualize the practice.
 
@@ -43,11 +43,11 @@ Do not turn awareness into an object of thought. Simply be aware — no commenta
 
 #### Step 3: Rest attention in a simple, direct act of awareness — no object required.
 
-This is inclusive awareness, like a floodlight. You do not need to focus on anything specific. Just be awake and present.
+This is inclusive awareness, like a floodlight that shines in all directions without focusing on any single object. You do not need to focus on anything specific. Just be awake and present.
 
 #### Step 4: When confusion or distraction arises, trust that there is an awareness of that very confusion.
 
-Even if you feel scattered, the awareness of the scattering is itself the practice. Trust it.
+Even if you feel scattered, the awareness of the scattering is itself the practice. Trust that awareness.
 
 #### Step 5: Sustain this open, receptive awareness as your refuge.
 
@@ -55,23 +55,23 @@ Return again and again to simple awareness. It is always available, no matter wh
 
 #### Best Practices
 
-- ✅ Trust the simple act of being aware, even when it feels like "nothing is happening."
+- ✅ Trust the simple act of being aware, even when the mind seems busy or the practice seems empty of notable experience.
 - ✅ Treat awareness as the foundation rather than a stepping stone to deeper states.
 - ✅ Use the word or feeling "Buddho" (awake/aware) as a gentle anchor when the mind wanders.
 - ✅ Avoid analyzing or commenting on what arises during awareness practice.
 - ❌ Don't turn awareness into a concept or object of thought.
-- ❌ Don't judge yourself for having a busy mind — the awareness of busyness is the practice.
+- ❌ Don't judge yourself for having a mind that wanders, thinks, or plans — the awareness of these movements is the practice.
 
 #### Keep In Mind
 
-- This practice is not about concentration on one object; it is inclusive awareness, like a floodlight.
+- This practice is not about concentration on one object; it is inclusive awareness, like a floodlight that illuminates all experience equally.
 - Even if you feel completely confused, there is an awareness of the confusion — rest there.
 - The more you try to think about awareness, the more complicated it becomes.
-- Simplicity is not ignorance — it is clarity unburdened by unnecessary conceptual overlay.
+- In this practice, simplicity means resting in direct awareness without added commentary, not lacking knowledge or understanding.
 
 #### Security & Safety Notes
 
-- This practice is psychological and contemplative. No physical risks are involved.
+- This practice is psychological and contemplative. This practice involves no physical risks.
 - If intense emotions or trauma surfaces, approach gently and consider guidance from a qualified teacher.
 
 #### Common Pitfalls
@@ -80,7 +80,7 @@ Return again and again to simple awareness. It is always available, no matter wh
   **Solution:** The awareness of restlessness is itself the practice. Trust that awareness.
 - **Problem:** Trying to "get" a still point or attain a special state.
   **Solution:** Let go of attainment. Rest in the simple act of being aware of whatever is present.
-- **Problem:** Thinking you must be happy or peaceful to practice inclusive awareness.
+- **Problem:** Thinking you need to feel calm, settled, or positive before you can practice inclusive awareness.
   **Solution:** Open to exactly what is arising — tension, despair, pain — without needing to change it.
 
 ### Lesson 2: Notice and Release Distraction from Painful Experience
@@ -89,7 +89,7 @@ Return again and again to simple awareness. It is always available, no matter wh
 
 ##### Example 1: The Habit of Numbing
 
-When despair or fear arises, the first impulse may be to reach for the phone, scroll social media, plan future tasks, or find any way to numb the feeling. Notice this impulse — it is the habit of distraction operating automatically.
+When despair or fear arises, the immediate impulse is commonly to reach out to an authority figure, teacher, or trusted person to label the situation as right/wrong or good/bad.
 
 ##### Example 2: Turning Awareness to the Act of Distraction
 
@@ -97,7 +97,7 @@ Instead of being carried away by distraction, gently bring awareness to the act 
 
 ##### Example 3: Opening Rather Than Pulling Away
 
-Rather than pulling away from a painful feeling, open to it and allow it to be as it is. Rest in awareness of the experience rather than being consumed by the experience itself.
+Rather than pulling away from a painful feeling, open to the feeling and allow it to be exactly as it is. Rest in awareness of the feeling rather than becoming completely identified with its content.
 
 #### Step 1: When a painful mental state arises (despair, fear, depression), notice your first reaction.
 
@@ -105,7 +105,7 @@ Pause and become aware of what you are experiencing in the moment the pain surfa
 
 #### Step 2: Recognize if you are automatically distracting yourself (scrolling, planning, numbing).
 
-Do not judge the distraction — simply notice it as a conditioned habit.
+Notice the distraction without self-criticism, seeing it as a learned pattern rather than a personal failure.
 
 #### Step 3: Gently bring awareness to the act of distraction itself.
 
@@ -130,13 +130,13 @@ Shift your identification from the content of the pain to the awareness that hol
 
 #### Keep In Mind
 
-- Distraction from pain is often deeply habitual and operates unconsciously.
+- Distraction from pain is commonly deeply habitual and operates unconsciously.
 - Opening to pain does not mean amplifying it; it means not fleeing from it.
 - The goal is not to feel worse — it is to stop the automatic escape.
 
 #### Security & Safety Notes
 
-- Intense emotional pain may require professional support. Use discernment when exploring deep distress.
+- If you experience intense emotional pain, consider seeking professional support. Use discernment when exploring deep distress.
 
 #### Common Pitfalls
 
@@ -155,7 +155,7 @@ When anger arises, notice that there is an awareness holding the anger. That awa
 
 ##### Example 2: Sadness Held in Awareness
 
-When sadness arises, you can be aware of sadness without becoming sad. The awareness embraces the emotion without being colored by it. This is not detachment or coldness — it is spacious presence.
+When sadness arises, you can be aware of sadness without becoming sad. The awareness embraces the emotion without being colored by it. This practice is not about shutting down feeling — it is about allowing emotion to be present within a wider field of awareness.
 
 ##### Example 3: Applying Awareness to All Emotional States
 
@@ -171,7 +171,7 @@ There is a knowing quality that is aware of the emotion. That awareness is not t
 
 #### Step 3: Recognize that awareness is not itself happy, angry, or afraid — it merely holds the experience.
 
-See the distinction between the awareness and its content. Awareness is the mirror; emotions are the reflections.
+See the distinction between the awareness and its content. Awareness is the knowing quality that recognizes emotions; emotions are the passing content that arises within awareness.
 
 #### Step 4: Rest in the awareness rather than identifying with the emotional content.
 
@@ -193,7 +193,7 @@ Practice equally with pleasant and unpleasant emotions. Awareness is impartial.
 #### Keep In Mind
 
 - Sadness held in awareness is not itself sad. Awareness embraces emotion without becoming it.
-- This is not detachment or coldness — it is spacious presence.
+- This practice is not about shutting down feeling — it is about allowing emotion to be present within a wider field of awareness.
 - Emotions are impermanent; awareness is the constant that recognizes them.
 - Suppressing emotions is not the goal. Awareness allows emotions to flow rather than be bottled up.
 
@@ -258,11 +258,11 @@ Come back to the simple act of being aware, free from identification with any ro
 - Personality views limit you to being someone defined by lack or deficiency.
 - The witness is not another self — it is the natural awareness that recognizes all selves.
 - This practice is about shifting identification from content to awareness.
-- Witnessing is not dissociation. Stay present with your experience, not lost in it, not shut down from it.
+- Witnessing is not shutting down from experience — it is staying present with your experience, not lost in it and not shut down from it.
 
 #### Security & Safety Notes
 
-- Witnessing is not dissociation. Stay present with your experience, not lost in it, not shut down from it.
+- Witnessing is not shutting down from experience — it is staying present with your experience, not lost in it and not shut down from it.
 
 #### Common Pitfalls
 
@@ -277,7 +277,7 @@ Come back to the simple act of being aware, free from identification with any ro
 
 ##### Example 1: Being in the "Pits of Hell" and Still Practicing
 
-You can be in the most difficult circumstances — grief, illness, loss — and still practice inclusive awareness. Awareness does not require a pleasant state of mind. You can be "in the pits of hell" and still open to the experience without being destroyed by it.
+You can be in the most difficult circumstances — grief, illness, loss — and still practice inclusive awareness. Awareness does not require a pleasant state of mind. You can be in extremely difficult circumstances and still open to the experience without being overwhelmed by it.
 
 ##### Example 2: The Floodlight of Awareness
 
@@ -285,11 +285,11 @@ Awareness is like a floodlight — wide, open, and inclusive. It shines equally 
 
 ##### Example 3: Welcoming What Arises
 
-When anxiety arises, instead of contracting around it, open to it as a visitor. When joy arises, welcome it without clinging. Each experience is allowed to be present within the spaciousness of awareness.
+When anxiety arises, instead of contracting around it, welcome it as a temporary condition arising in awareness. When joy arises, welcome it without clinging. Each experience is allowed to be present within the spaciousness of awareness.
 
 ##### Example 4: Ease Without Effort
 
-Conviviality is an attitude of being at ease with life — not forced positivity, not a goal to achieve. It arises naturally when you rest in awareness and let go of the need to perfect everything.
+Conviviality is the practice orientation of welcoming all experience without resistance — not forced positivity, not a goal to achieve. It arises naturally when you rest in awareness and let go of the need to perfect everything.
 
 #### Step 1: When an experience arises, do not label it as good or bad, wanted or unwanted.
 
@@ -305,7 +305,7 @@ See attraction and aversion as habits of mind, not commands to obey.
 
 #### Step 4: Rest in awareness that holds both attraction and aversion without choosing either.
 
-Awareness is neutral ground — it holds everything without preference.
+Awareness is impartial — it includes all experience without favoring one over another.
 
 #### Step 5: Repeat with every experience that arises.
 
@@ -336,13 +336,13 @@ Let ease arise from resting in awareness, not from effort.
 
 #### Keep In Mind
 
-- Awareness is like a floodlight — wide, open, and inclusive.
+- Awareness is like a floodlight — wide, open, and inclusive — illuminating all experience equally.
 - Openness is not dependent on being in a pleasant state of mind.
 - You can be in the "pits of hell" and still practice inclusive awareness.
 - Conviviality is an encouragement toward trusting, relaxing, and letting go.
 - When you grasp the idea of being convivial, you have missed the point.
 - It is okay to not feel convivial — open to that too.
-- Simplicity is not ignorance — it is clarity unburdened by unnecessary conceptual overlay.
+- In this practice, simplicity means resting in direct awareness without added commentary, not lacking knowledge or understanding.
 
 #### Security & Safety Notes
 
@@ -366,7 +366,7 @@ Let ease arise from resting in awareness, not from effort.
 
 ##### Example 1: Precepts as a Training Tool
 
-Precepts are not moral absolutes that you must obey to be a "good" person. They are a training tool — a vehicle for simplification and reflection. Following a precept with awareness is very different from following it blindly to reinforce a self-image.
+Precepts are guidelines for reflection, not rigid rules you must obey to prove you are a good person. They are a training tool — a vehicle for simplification and reflection. Following a precept with awareness is very different from following it blindly to reinforce a self-image.
 
 ##### Example 2: Using Precepts to Observe Your Own Resistance
 
@@ -374,7 +374,7 @@ When you feel resistance to a precept — the urge to lie, to take what is not g
 
 ##### Example 3: Not Becoming "The Good Monk/Nun"
 
-Be careful not to use precepts to build an identity of moral superiority. The awareness of your attachments is the practice, not the fact that you are following rules. The spirit matters more than the letter.
+Be careful not to use precepts to build an identity of moral superiority. The awareness of your attachments is the practice, not the fact that you are following rules. The intention behind a guideline matters more than rigid adherence to its form.
 
 #### Step 1: Reflect on the purpose of precepts: to simplify life and create boundaries for behavior.
 
@@ -407,8 +407,8 @@ Let awareness be your guide. Rules are aids, not the destination.
 
 #### Keep In Mind
 
-- Without boundaries, behavior tends toward impulsivity and confusion.
-- Holding precepts rigidly without awareness is just another form of bondage.
+- Without clear boundaries, behavior commonly tends toward impulsivity and confusion.
+- Holding precepts rigidly without awareness is just another form of rigid self-identification that limits freedom.
 - The middle way avoids both hedonism and rigid institutionalization.
 - Precepts exist to prevent harm to self and others. They are not arbitrary restrictions.
 
@@ -429,15 +429,15 @@ Let awareness be your guide. Rules are aids, not the destination.
 
 ##### Example 1: No One Can Make You Aware
 
-A teacher, text, or tradition can point the way, but no one can do the practice for you. Awareness is an understanding you must arrive at through your own direct experience — it cannot be transferred. Trusting your own awareness is an act of faith aligned with wisdom.
+A teacher, text, or tradition can point the direction, but no one can do the practice for you. Awareness is an understanding you must arrive at through your own direct experience — no one else can transfer it to you. Trusting your own awareness is an act of faith aligned with wisdom.
 
 ##### Example 2: Teachings as Pointers, Not Truth Claims
 
-Treat all teachings — including this one — as pointers toward direct experience, not doctrines to believe in. Verify everything in your own experience. Cultivate healthy skepticism toward views, including this one.
+Treat all teachings — including this one — as pointers toward direct experience, not doctrines to believe in. Verify everything in your own experience. Cultivate healthy skepticism toward views, including this one. Teachings are like a finger pointing at the moon — they indicate the direction but are not the thing itself. Do not confuse the teaching for the direct experience it points toward.
 
 ##### Example 3: Stillness Is Available Anywhere
 
-The stillness you may feel in a temple or on retreat is also available in London, Bangkok, or any acrimonious situation. Stillness is a quality of awareness, not of a physical place. It travels with you.
+The stillness you may feel in a temple or on retreat is also available in London, Bangkok, or any difficult situation — conflict, illness, loss, or uncertainty. Stillness is a quality of awareness, not of a physical place. It travels with you.
 
 #### Step 1: Notice when you are relying on a teacher, text, or tradition to tell you what is true.
 
@@ -445,7 +445,7 @@ See if you are outsourcing your own knowing to external authority.
 
 #### Step 2: Recognize that no one can make you aware or do the practice for you.
 
-Awareness is your own nature. It cannot be given to you by another.
+Awareness is your own nature. No one else can give you the direct experience of awareness — you must recognize it yourself.
 
 #### Step 3: Experiment with awareness directly — test it in your own experience.
 
@@ -453,11 +453,11 @@ Do not believe in awareness — know it through direct experience.
 
 #### Step 4: Use teachings as encouragement, not as doctrines to believe in.
 
-Teachings are like a finger pointing at the moon. Do not confuse the finger for the moon.
+Teachings are like a finger pointing at the moon — they indicate the direction but are not the thing itself. Do not confuse the teaching for the direct experience it points toward.
 
-#### Step 5: Trust the simple ability to be aware that you already possess.
+#### Step 5: Trust the capacity for awareness that is present in every moment.
 
-You do not need to become more aware — you need to recognize the awareness that is already here.
+You do not need to manufacture or force awareness — you need to recognize the awareness that is already present.
 
 #### Step 6: When confused, pause before seeking external answers.
 
@@ -469,15 +469,15 @@ Notice if you are expecting teachers, retreats, relationships, wealth, or instit
 
 #### Step 8: Release the demand that life reward you for being good, spiritual, or hardworking.
 
-Reframe: "I created this situation, and I am responsible for my response to it."
+Reframe: "I am responsible for my response to this situation, even if I did not create the conditions themselves."
 
 #### Step 9: When external conditions are unstable, redirect attention to the awareness that knows the instability.
 
-Ask: "What is aware of this uncertainty right now?" Awareness itself is not unstable even when its contents are.
+Ask: "What is aware of this uncertainty right now?" In your direct experience, awareness is not inherently unstable even when the content of mind is changing.
 
 #### Step 10: Rather than seeking reassurance from outside, turn to the quality of attention itself.
 
-Trust your own ability to be awake and present, regardless of conditions.
+Trust your own ability to be awake and present, even when external conditions are difficult.
 
 #### Best Practices
 
@@ -493,16 +493,16 @@ Trust your own ability to be awake and present, regardless of conditions.
 
 #### Keep In Mind
 
-- Doubt is often about not trusting yourself, not about the teaching itself.
-- Awareness is an understanding you must arrive at through your own direct experience — it cannot be transferred.
+- Doubt is commonly about not trusting yourself, not about the teaching itself.
+- Awareness is an understanding you must arrive at through your own direct experience — no one else can transfer it to you.
 - Trusting awareness is an act of faith aligned with wisdom.
 - Even the worst states — described metaphorically as "serial killer" or "worst demon" — do not destroy original purity.
-- The Buddha experienced severe physical illness and betrayal without creating inner suffering from those experiences.
+- According to tradition, the Buddha experienced severe physical illness and betrayal without creating inner suffering from those experiences.
 - Clarity achieved through another person's authority is not your own knowing.
 - Seeking external answers can become a pattern that undermines inner trust.
 - No teacher, system, or deity is obligated to fix the conditions you created.
 - The stillness is about being present, not about a location.
-- You can recognize stillness even in London, Bangkok, or any acrimonious situation.
+- You can recognize stillness even in London, Bangkok, or any difficult situation — conflict, illness, loss, or uncertainty.
 
 #### Security & Safety Notes
 
@@ -522,7 +522,7 @@ Trust your own ability to be awake and present, regardless of conditions.
 - **Problem:** Feeling abandoned or disillusioned when an external source fails to deliver.
   **Solution:** Recognize the expectation as the source of disappointment, not the external thing.
 - **Problem:** Resenting spiritual teachers for not being perfect rescuers.
-  **Solution:** Teachers are human conditions, not refuge objects in themselves.
+  **Solution:** Teachers are human beings with their own limitations, not ultimate refuge objects.
 
 ### Lesson 8: Contemplate the Four Elements to Reduce Self-Identification
 
@@ -534,13 +534,13 @@ Rather than experiencing the body as "my body" or "me," feel it directly as eart
 
 ##### Example 2: Space and Consciousness Are Infinite
 
-When you include space and consciousness in the contemplation, notice that they have no boundaries. They are not "mine" — they are vast and impersonal. This loosens the grip of self-identification.
+When you include space and consciousness in the contemplation, notice that they are not bounded by the limits of your body or identity — they are shared, open, and not personally owned. This loosens the grip of self-identification.
 
 ##### Example 3: Impermanence Revealed Through Sensation
 
-Feel the breath — it changes with every inhale and exhale. Feel the body heat — it shifts continuously. The elements are always in flux. There is no fixed self to be found in them.
+Feel the breath — it changes with every inhale and exhale. Feel the body heat — it shifts continuously. The elements are continuously in flux. There is no fixed self to be found in them.
 
-#### Step 1: Sit in a comfortable, quiet posture with eyes closed or softly focused downward.
+#### Step 1: Sit in a posture where the spine is upright but not tense, the body is stable, and distractions are minimized.
 
 Allow the body to settle before beginning the contemplation.
 
@@ -566,7 +566,7 @@ Notice the gaps, the hollows, the openness that is not solid.
 
 #### Step 7: Include consciousness: recognize that awareness itself is present and boundless.
 
-Consciousness is not a thing — it is the knowing quality that is aware of all the elements.
+Consciousness is not a thing — it is the knowing quality that is aware of whatever elements you are currently sensing.
 
 #### Step 8: Use this contemplation to see the body not as "my" identity but as a collection of elements.
 
@@ -612,7 +612,7 @@ Let the elements reveal their impersonal nature. The body is a process, not a po
 
 ##### Example 1: The Sound of Silence
 
-Close your eyes and listen for the "sound of silence" — the subtle vibration or resonance that underlies all sounds. This is not a literal noise but a pointer to the pure consciousness that is aware of all sensory experience. Rest attention on this sound of silence as a neutral background.
+Close your eyes and listen for the "sound of silence" — the subtle background awareness that underlies all sensory experience. This is not a literal noise but a pointer to the pure consciousness that is aware of all sensory experience. Rest attention on this background awareness as a neutral presence.
 
 ##### Example 2: All Conditions Arise Within Consciousness
 
@@ -620,31 +620,31 @@ When you rest in pure, unattached awareness, you see that all thoughts, emotions
 
 ##### Example 3: Mettà Is Not Sentimental Love
 
-Mettà is not the warm, fuzzy feeling of ordinary affection. It is the practical, non-reactive acceptance of everything that arises in consciousness — your own kamma and that of others — without preference or judgment. It is love without attachment.
+Mettà is not the preferential affection you feel toward friends or loved ones. It is the practical, non-reactive acceptance of everything that arises in consciousness — your own kamma and that of others — without preference or judgment. It is a quality of acceptance that is free from clinging or preference.
 
 ##### Example 4: Resting Into Awareness
 
-Rather than striving for concentration or any particular state, simply rest into awareness. Let the body relax, release agenda and goal, and open to whatever is present. Resting is an active skill — it is alert, open presence.
+Rather than striving for concentration or any particular state, simply rest into awareness. Let the body relax, release agenda and goal, and open to whatever is present. Resting is not passive giving up — it is the active quality of staying present and receptive.
 
 #### Step 1: Find a quiet place and sit comfortably. Close the eyes and turn attention inward.
 
 Begin by settling the body and turning attention away from external sensory input.
 
-#### Step 2: Listen for the "sound of silence" — the subtle vibration or resonance that underlies all sounds.
+#### Step 2: Listen for the "sound of silence" — the subtle background awareness that underlies all sounds.
 
-This is not a state to manufacture; it is a presence to notice. It may feel like a faint vibration.
+This is not a state to manufacture; it is a presence to notice. It may be sensed as a subtle background presence, faint hum, or quality of stillness.
 
 #### Step 3: When you notice thoughts, emotions, or sensory activity, do not push them away.
 
 Allow everything to arise within the field of awareness. Do not fight or chase anything.
 
-#### Step 4: Rest your attention on the sound of silence as a neutral background.
+#### Step 4: Rest attention on the background awareness that underlies all sounds as a neutral presence.
 
 Let thoughts and feelings come and go within this awareness. You are not the thoughts — you are the awareness that knows them.
 
 #### Step 5: Regularly practice resting in the sound of silence or open awareness.
 
-Sustain attention in this state for a count of five breaths or longer as ability grows.
+Sustain attention in this quality of open awareness for a count of five breaths or longer as ability grows.
 
 #### Step 6: Allow thoughts, emotions, and sensory experiences to arise and pass without identifying with them.
 
@@ -652,7 +652,7 @@ See all conditions — pleasant and unpleasant — as arising and ceasing within
 
 #### Step 7: Appreciate the state of consciousness that is not attached to any particular condition.
 
-Recognize the pure awareness that underlies all experience. This is your true nature.
+Recognize the awareness that underlies all experience. This is the fundamental capacity of mind that is already present.
 
 #### Step 8: Establish yourself in a state of unattached, open awareness.
 
@@ -708,7 +708,7 @@ Carry the quality of open, receptive awareness into daily life.
 - Pure consciousness is described as already present; cultivation is about recognizing and trusting it.
 - This state gives perspective on all arising conditions.
 - When cultivated, it naturally gives rise to unconditioned love (mettà).
-- Love in the ordinary sense is often attachment and desire for possession.
+- Love in the ordinary sense is frequently attachment and desire for possession.
 - True mettà has no preferences, no divisions, and no judgment.
 - Pure consciousness itself is the experience of love because it accepts everything as it is.
 - Resting is not the same as sleeping or zoning out; it is alert, open presence.
@@ -761,11 +761,11 @@ Suffering arises not from conditions themselves, but from resisting or clinging 
 
 ##### Example 3: The Difference Between Pain and Suffering
 
-There is raw pain — unavoidable in life — and there is suffering — the self-created amplification of pain through resistance, story, and reactivity. The choice is available in every moment: "I will not add more suffering to this pain."
+There is raw pain — unavoidable in life — and there is suffering — the self-created amplification of pain through resistance, story, and reactivity. Frequently, suffering is compounded by resistance or clinging to conditions, even though the conditions themselves are painful. You do not need to purify the conditions; you only need to stop identifying with them. Acceptance allows conditions to burn themselves out naturally.
 
 ##### Example 4: Original Purity Is Always Present
 
-Even the worst states — confusion, despair, rage — do not destroy original purity. The problem is not impurity; it is attachment to the illusion of impurity or a fixed self. The awakened state is original purity — always present, never lost.
+Even intense states — confusion, despair, or rage — do not destroy the awareness that recognizes them. The problem is not impurity; it is attachment to the illusion of impurity or a fixed self. The awakened state is original purity — always present, never lost.
 
 ##### Example 5: Accepting Conditions Without Judgment
 
@@ -785,11 +785,11 @@ Observe their nature: they appear, they linger, they fade. You are not the conte
 
 #### Step 4: Allow the views to drop away naturally through sustained awareness.
 
-Do not force the dropping away. Simply rest in awareness and the views lose their grip.
+Do not force the dropping away. Simply rest in awareness and the views lose their hold on your attention.
 
 #### Step 5: Rest in the recognition that you are not the content of consciousness, but the awareness in which content arises.
 
-This is the fundamental shift — from being the experience to being the awareness of the experience.
+This is the shift in identification — from taking yourself to be the content of mind to resting as the knowing quality that is aware of that content.
 
 #### Step 6: Let this understanding apply to all self-referential thoughts — personality, roles, history, and identity.
 
@@ -829,9 +829,9 @@ Name the ways you compound pain with your reaction.
 
 #### Step 15: Make the deliberate choice: "I will not add more suffering to this pain."
 
-This is a conscious choice, available in every moment.
+This is a conscious choice, available in most moments of ordinary awareness.
 
-#### Step 16: Acknowledge the raw pain or unfairness without building a case around it.
+#### Step 16: Acknowledge the raw pain and any sense of unfairness without building a case around them.
 
 Feel the pain directly, without the story.
 
@@ -843,15 +843,15 @@ Meet pain with understanding, not with additional conflict.
 
 Build the capacity incrementally.
 
-#### Step 19: Recognize that consciousness itself is pure — it is not a state to be created or purified.
+#### Step 19: Recognize that awareness itself is not a conditioned state that needs to be created or purified — it is the unconditioned ground in which all experience arises.
 
-Purity is not an attainment. It is the ground of being that is already present.
+Purity is not an attainment. It is the awareness that underlies all experience and is already present.
 
 #### Step 20: Notice the tendency to think "I should be better" or "I should be free from this."
 
 See this striving as another form of attachment to a conditioned idea.
 
-#### Step 21: Rest in the recognition that you have always been pure, even when experiencing confusion or difficulty.
+#### Step 21: Rest in the recognition that your awareness is always clear, even when experiencing confusion or difficulty.
 
 Allow this understanding to replace striving and self-improvement efforts.
 
@@ -884,15 +884,15 @@ This understanding is meant to be known through awareness, not through intellect
 - You cannot purify the conditioned self; the self is a conditioned illusion.
 - Purity is not found in becoming a "better person"; it is found in recognizing original purity.
 - This is described as the awakened state — the original purity that cannot be destroyed.
-- Suffering arises not from conditions themselves, but from resisting or clinging to them.
+- In many cases, suffering is compounded by resistance or clinging to conditions, even though the conditions themselves are painful.
 - You do not need to purify the conditions; you only need to stop identifying with them.
 - Acceptance allows conditions to burn themselves out naturally.
 - Freedom from suffering is not freedom from pain; it is freedom from the mind's compounding of pain.
-- The Buddha experienced severe physical illness and betrayal without creating inner suffering from those experiences.
+- According to tradition, the Buddha experienced severe physical illness and betrayal without creating inner suffering from those experiences.
 - Even the worst states — described metaphorically as "serial killer" or "worst demon" — do not destroy original purity.
 - The problem is not impurity; it is attachment to the illusion of impurity or a fixed self.
 - The awakened state is described as original purity — always present, never lost.
-- Comparison is another form of added suffering; your experience is valid as a practice field.
+- Comparison is another form of added suffering; your experience — whatever is arising — is the material you can work with in practice.
 
 #### Security & Safety Notes
 
@@ -918,9 +918,9 @@ This understanding is meant to be known through awareness, not through intellect
 - **Problem:** Feeling guilty for experiencing added suffering: "I shouldn't be suffering this way."
   **Solution:** Notice the guilt as more added suffering; simply return to acknowledgment.
 - **Problem:** Believing that choosing not to add suffering means you don't care.
-  **Solution:** You can care deeply and still refuse to compound pain with reactivity.
+  **Solution:** You can value someone or something deeply and still choose not to add suffering through reactive responses.
 - **Problem:** Comparing your suffering to others': "Others have it worse, so I shouldn't struggle."
-  **Solution:** Comparison is another form of added suffering; your experience is valid as a practice field.
+  **Solution:** Comparison is another form of added suffering; your experience — whatever is arising — is the material you can work with in practice.
 - **Problem:** Using "original purity" as a rationalization for harmful behavior or avoidance of growth.
   **Solution:** This is about recognizing inherent awareness, not about moral nihilism.
 - **Problem:** Intellectualizing the concept without direct experiential recognition.
@@ -932,7 +932,7 @@ This understanding is meant to be known through awareness, not through intellect
 
 ##### Example 1: The Impulse to Ask for Validation
 
-When confusion arises, the first impulse may be to reach out to an authority figure, teacher, or trusted person to label the situation as right/wrong or good/bad. Notice this impulse. Pause before acting on it. Clarity achieved through another person's authority is not your own knowing.
+When confusion arises, the immediate impulse is commonly to reach out to an authority figure, teacher, or trusted person to label the situation as right/wrong or good/bad. Notice this impulse. Pause before acting on it. Clarity achieved through another person's authority is not your own knowing.
 
 ##### Example 2: The Childlike Expectation of Rescue
 
@@ -940,11 +940,11 @@ Make a list of external sources you hope will bring you happiness or solve your 
 
 ##### Example 3: Resistance Empowers What You Dislike
 
-Identify something you resist — a thought, emotion, person, or sensation. Notice how much mental energy you spend pushing it away. Observe whether the thing you resist occupies more or less space in your mind after resistance. The energy of resistance is the same energy that could be used for understanding.
+Identify something you resist — a thought, emotion, person, or sensation. Notice how much mental energy you spend pushing it away. Observe whether the thing you resist occupies more or less space in your mind after resistance. The mental effort spent resisting an experience is the same effort that could be directed toward understanding it.
 
 ##### Example 4: Not Living at the Peak of Inhalation
 
-You cannot live at the peak point of inhalation; exhale is equally necessary. The compulsion to fix, solve, or justify every uncomfortable situation is itself a source of suffering. Allow people, situations, and yourself to be imperfect.
+Just as you cannot remain at the peak of inhalation without exhaling, you cannot remain in a peak state without releasing; effort and release are equally necessary. The compulsion to fix, solve, or justify every uncomfortable situation is itself a source of suffering. Allow people, situations, and yourself to be human — limited, changing, and not fully under your control.
 
 ##### Example 5: Using "You Are Welcome Here" as a Contemplative Exercise
 
@@ -958,7 +958,7 @@ Pause before reaching out to an authority figure, teacher, or trusted person for
 
 Ask yourself: "What am I actually feeling right now?" Name the emotional state.
 
-#### Step 3: Refrain from asking someone to label the situation as right/wrong or good/bad.
+#### Step 3: Notice the urge to categorize the situation and pause before acting on that urge.
 
 Observe the confusion as a passing mental state rather than a problem to solve.
 
@@ -970,7 +970,7 @@ Examine each source and name exactly what you expect it to deliver.
 
 Catch the expectation that a person, institution, or circumstance will rescue you.
 
-#### Step 6: Reframe the expectation: "I created this situation, and I am responsible for my response to it."
+#### Step 6: Reframe the expectation: "I am responsible for my response to this situation, even if I did not create the conditions themselves."
 
 Release the demand that life reward you for being good, spiritual, or hardworking.
 
@@ -980,7 +980,7 @@ For each source, honestly assess: "If this changed or disappeared, what would I 
 
 #### Step 8: Recognize that each source is in the process of changing.
 
-Shift your orientation from "If I have X, I will be safe" to "I can be awake regardless of conditions."
+Shift your orientation from "If I have X, I will be safe" to "I can choose to rest in awareness even when external conditions are difficult."
 
 #### Step 9: Each time you feel secure, silently note: "This is a changing condition."
 
@@ -988,19 +988,19 @@ Each time you feel insecure, silently note: "This too is a changing condition."
 
 #### Step 10: Direct attention to the quality of awareness itself rather than its content.
 
-Make awareness itself the primary refuge.
+Use the capacity for awareness as your primary reference point, rather than depending on external conditions.
 
 #### Step 11: Notice the impulse to fix, solve, or justify every uncomfortable situation.
 
-Ask: "Is this actually within my control right now?"
+Ask: "Is this something I can directly influence through my own actions in this situation?"
 
 #### Step 12: If not fully controllable, say internally: "This is a changing condition."
 
-Refuse to make a problem out of what is simply the nature of conditioned existence.
+Refuse to make a problem out of what is simply experience shaped by causes and conditions.
 
-#### Step 13: Refuse to make a problem out of what is simply the nature of conditioned existence.
+#### Step 13: Refuse to make a problem out of what is simply experience shaped by causes and conditions.
 
-Allow people, situations, and yourself to be imperfect.
+Allow people, situations, and yourself to be human — limited, changing, and not fully under your control.
 
 #### Step 14: When confusion arises, do not distract yourself or push it away.
 
@@ -1016,17 +1016,17 @@ Stay present with the confusion until it shifts or dissolves on its own.
 
 #### Step 17: Identify a specific condition you resist: a thought, emotion, person, or sensation.
 
-Notice how much mental energy you spend pushing it away.
+Notice the degree of mental effort you are spending on resisting this experience.
 
-#### Step 18: Observe whether the thing you resist occupies more or less space in your mind after resistance.
+#### Step 18: Observe whether the unwanted thought or feeling becomes more or less prominent in your awareness after you resist it.
 
 For one sitting, stop resisting and simply allow the presence of the unwanted thing.
 
-#### Step 19: In meditation or daily life, notice a strong experience — fear, anger, grief, or even joy.
+#### Step 19: In meditation or daily life, notice a prominent experience — fear, anger, grief, or even joy — that is asking for your attention.
 
-Open to it mentally as if opening a door: "This is allowed."
+Mentally allow the experience to be present, as one might open a door to let something enter: "This is allowed."
 
-#### Step 20: Do not judge whether the experience is morally right or wrong.
+#### Step 20: Do not categorize the experience as acceptable or unacceptable based on moral judgment.
 
 Do not try to make the experience go away.
 
@@ -1040,7 +1040,7 @@ Identify the suffering you are adding: resistance, resentment, self-pity, fixati
 
 #### Step 23: Make the deliberate choice: "I will not add more suffering to this pain."
 
-Acknowledge the raw pain or unfairness without building a case around it.
+Acknowledge the raw pain and any sense of unfairness without building a case around them.
 
 #### Step 24: Respond with acknowledgment rather than anger, blame, or hatred.
 
@@ -1056,25 +1056,25 @@ Say internally: "I will trust and relax into this moment."
 
 #### Step 27: Open to whatever experience arises — fear, uncertainty, or peace.
 
-Allow trust and confidence to grow from repeated practice, not from intellectual assurance.
+Allow trust and confidence to grow from repeated practice, not from thinking about it, but from repeated direct experience.
 
 #### Best Practices
 
-- ✅ Treat confusion as a valid experience rather than an emergency.
-- ✅ Build tolerance for not-knowing before defaulting to external validation.
+- ✅ Treat confusion as a normal condition of mind rather than a problem that requires immediate solving.
+- ✅ Build comfort with uncertainty before defaulting to external answers.
 - ✅ Notice the impulse to ask for validation and choose to delay the action.
 - ✅ Regularly audit your expectations of external sources of happiness.
 - ✅ Distinguish between appreciation of support and dependency on it.
 - ✅ Use setbacks as reminders of your own responsibility rather than proof of betrayal.
 - ✅ Practice gratitude for good conditions without clinging to them.
 - ✅ Regularly examine what you are using as a refuge in moments of stress.
-- ✅ When you catch yourself trying to "fix" an unfixable condition, redirect energy to what is actionable.
+- ✅ When you catch yourself trying to "fix" an unfixable condition, redirect energy to what you can actually influence through your own actions.
 - ✅ Use the phrase "You are welcome here" toward unwanted experiences as a contemplative exercise.
 - ✅ Track resistance patterns: what categories of experience do you habitually push away?
 - ✅ Separate the act of welcoming from endorsement.
 - ✅ Distinguish pain (unavoidable in life) from suffering (optional, self-created).
 - ✅ Practice with minor irritations to build the muscle for major challenges.
-- ✅ Notice when you are making a "case" around the experience — this is added suffering.
+- ✅ Notice when you are making a mental argument or story around the experience — this is added suffering.
 - ✅ Build fearlessness incrementally: begin with low-stakes uncertainty before high-stakes situations.
 - ✅ Reflect on past moments when control failed yet you survived and possibly grew.
 - ❌ Don't interpret "don't seek answers" as "never ask anyone anything."
@@ -1092,35 +1092,35 @@ Allow trust and confidence to grow from repeated practice, not from intellectual
 
 #### Keep In Mind
 
-- The desire for certainty is often stronger than the desire for truth.
+- The desire for certainty commonly overrides the willingness to see things as they are.
 - Seeking external answers can become a pattern that undermines inner trust.
 - Clarity achieved through another person's authority is not your own knowing.
 - Even enlightened beings like the Buddha faced severe external harm without creating inner suffering from it.
 - Expecting rescue is a form of spiritual materialism — treating awakening as a transaction.
 - No teacher, system, or deity is obligated to fix the conditions you created.
-- Wealth, people, countries, relationships, and beautiful places are not inherently bad — they just cannot provide lasting refuge.
+- Wealth, relationships, and pleasant circumstances are not the problem — they simply cannot provide lasting stability.
 - Taking refuge in changing conditions guarantees eventual suffering when they change.
-- True refuge is the capacity to pay attention to life no matter what conditions are present.
-- You cannot live at the peak point of inhalation; exhale is equally necessary.
-- Conditions are always changing — permanent perfection is impossible in the conditioned realm.
+- In this practice, true refuge is understood as the capacity to remain present with whatever arises, rather than depending on changing external conditions for stability.
+- Just as you cannot remain at the peak of inhalation without exhaling, you cannot remain in a peak state without releasing; effort and release are equally necessary.
+- Conditions are continuously changing — permanent perfection is impossible in the conditioned realm.
 - The compulsion to fix everything is itself a source of suffering.
-- Resistance to confusion often takes more energy than the confusion itself.
+- Resistance to confusion commonly takes more energy than the confusion itself.
 - Confusion is frequently a threshold state before clarity naturally arises.
-- The moment you embrace confusion, its power over you diminishes.
+- The moment you embrace confusion, its grip on your attention weakens.
 - Resisting a thought does not remove it; it makes it more persistent.
-- The energy of resistance is the same energy that could be used for understanding.
-- Obsession with a person or problem is often fueled by resistance, not by the thing itself.
-- Welcoming is not the same as liking or wanting the experience to continue.
-- Identification ("I am angry") solidifies the experience; acknowledgment ("Anger is present") keeps it fluid.
+- The mental effort spent resisting an experience is the same effort that could be directed toward understanding it.
+- Obsession with a person or problem is commonly fueled by resistance, not by the thing itself.
+- Welcoming is not the same as enjoying the experience or wishing it would last.
+- Identification solidifies the experience; acknowledgment allows it to remain in motion rather than solidifying.
 - Total acceptance of the present moment allows you to see its natural cessation.
 - Freedom from suffering is not freedom from pain; it is freedom from the mind's compounding of pain.
-- The Buddha experienced severe physical illness and betrayal without creating inner suffering around those experiences.
+- According to tradition, the Buddha experienced severe physical illness and betrayal without creating inner suffering around those experiences.
 - This choice is available in every moment, regardless of external conditions.
 - Fearlessness does not mean the absence of fear; it means not being governed by it.
 - Trust is cultivated through repeated experience of opening, not through wishful thinking.
-- The unshakability of mind comes from willingness to learn from suffering, not from avoiding it.
+- The stability of mind comes from opening to difficult experience with awareness, rather than resisting or fleeing from it.
 - Taking refuge in awareness means trusting what is already present, not cultivating a new state.
-- The Buddha's encouragement is toward listening, paying attention, and being awake — these are already your nature.
+- The Buddha's encouragement is toward listening, paying attention, and being awake — these capacities are already present in ordinary awareness.
 - Trust grows from direct experience, not from belief or instruction alone.
 
 #### Security & Safety Notes
@@ -1157,9 +1157,9 @@ Allow trust and confidence to grow from repeated practice, not from intellectual
 - **Problem:** Using "I shouldn't ask for favors" to justify isolation or pride.
   **Solution:** Interdependence is real; the lesson is about emotional dependency, not human connection.
 - **Problem:** Resenting spiritual teachers for not being perfect rescuers.
-  **Solution:** Teachers are human conditions, not refuge objects in themselves.
+  **Solution:** Teachers are human beings with their own limitations, not ultimate refuge objects.
 - **Problem:** Mistaking "don't take refuge" for "don't enjoy" or "don't value."
-  **Solution:** Enjoyment without clinging is the middle way.
+  **Solution:** Enjoyment without clinging — taking pleasure in experience without needing it to continue or be protected — is the middle way.
 - **Problem:** Using this teaching to judge others who do rely on external conditions.
   **Solution:** The teaching is for your own liberation, not for criticizing others' paths.
 - **Problem:** Spiritual bypassing of real-world needs: "I don't need money because I'm spiritual."
@@ -1167,19 +1167,19 @@ Allow trust and confidence to grow from repeated practice, not from intellectual
 - **Problem:** Using "don't fix everything" to justify neglect of real, solvable problems.
   **Solution:** Engage with what is changeable; accept what is not.
 - **Problem:** Resenting others for being imperfect and therefore "causing" your discomfort.
-  **Solution:** Their imperfection is not the problem; your expectation of perfection is.
+  **Solution:** Their imperfection is not the problem; your expectation that others should be without fault is.
 - **Problem:** Using impermanence as a reason to avoid commitment or care.
-  **Solution:** Impermanence makes every moment precious, not meaningless.
+  **Solution:** Impermanence means every moment is unique and cannot be repeated or held onto.
 - **Problem:** Pretending to embrace confusion while internally still fighting it.
   **Solution:** Check the body for tension and the mind for subtle narratives of urgency.
 - **Problem:** Misunderstanding "acceptance" as agreeing that confusion is permanent.
-  **Solution:** Acceptance is about the present moment; it does not predict the future.
+  **Solution:** Acceptance is about the present moment; it does not mean the experience will not change.
 - **Problem:** Using confusion as an identity: "I am a confused person."
   **Solution:** See confusion as a passing condition, not a defining trait.
 - **Problem:** Conflating acceptance with passive endurance of harm.
   **Solution:** Acceptance is internal; boundaries and action are still appropriate.
 - **Problem:** Thinking that if you just stop resisting, the problem will disappear.
-  **Solution:** Some problems require action; the lesson is that resistance to the present moment is always optional and costly.
+  **Solution:** Many problems require action; the lesson is that resistance to the present moment is always optional and costly.
 - **Problem:** Using "resistance gives it power" to invalidate your own emotional response.
   **Solution:** Your emotional response is real; the question is what you do with it.
 - **Problem:** Overwhelming flooding: opening too wide to trauma-related content without support.
@@ -1197,21 +1197,21 @@ Allow trust and confidence to grow from repeated practice, not from intellectual
 - **Problem:** Feeling guilty for experiencing added suffering: "I shouldn't be suffering this way."
   **Solution:** Notice the guilt as more added suffering; simply return to acknowledgment.
 - **Problem:** Believing that choosing not to add suffering means you don't care.
-  **Solution:** You can care deeply and still refuse to compound pain with reactivity.
+  **Solution:** You can value someone or something deeply and still choose not to add suffering through reactive responses.
 - **Problem:** Comparing your suffering to others': "Others have it worse, so I shouldn't struggle."
-  **Solution:** Comparison is another form of added suffering; your experience is valid as a practice field.
+  **Solution:** Comparison is another form of added suffering; your experience — whatever is arising — is the material you can work with in practice.
 - **Problem:** Toxic positivity: forcing yourself to feel fearless while denying genuine fear.
   **Solution:** Welcome the fear first; fearlessness arises in its presence, not by its absence.
 - **Problem:** Using "trust" to avoid necessary planning or action.
-  **Solution:** Trust concerns your internal response; planning and acting are still appropriate.
+  **Solution:** Trust concerns your internal response; planning and acting are still necessary and skillful in many situations.
 - **Problem:** Feeling like a failure when fear arises despite practice.
   **Solution:** Fear arising is not failure; your relationship to it is where freedom lives.
 - **Problem:** Intellectualizing awareness: "I am aware" becomes a concept rather than a lived experience.
   **Solution:** Drop the concept and return to direct sensation and knowing.
 - **Problem:** Spiritual pride: "I am so aware compared to others."
-  **Solution:** Awareness is not an achievement; it is the nature of mind. Pride is another condition to acknowledge.
+  **Solution:** Awareness is not an achievement — it is the fundamental capacity of mind that is already present before any effort. Pride is another condition to acknowledge.
 - **Problem:** Using "trust in awareness" to dismiss necessary practical concerns.
-  **Solution:** Awareness is the ground from which you act wisely, not an excuse for inaction.
+  **Solution:** Awareness is the ground from which you act wisely, not an excuse for avoiding necessary or skillful action.
 
 ## Glossary / Index
 
