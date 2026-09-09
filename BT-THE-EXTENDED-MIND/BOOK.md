@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Extended Mind challenges the deeply ingrained assumption that thinking happens only inside the brain, presenting a radical alternative: human cognition is fundamentally shaped by the body, the physical spaces we inhabit, and the other minds we interact with. Drawing on research in embodied, situated, and distributed cognition, Annie Murphy Paul shows how we can dramatically improve our attention, memory, creativity, and decision-making by intentionally reaching beyond our skulls. The book operationalizes the "extended mind" framework into practical techniques for thinking with sensations, movement, gestures, natural spaces, built spaces, and social relationships.
+The Extended Mind challenges the deeply ingrained assumption that thinking happens only inside the brain, presenting a radical alternative: human cognition is fundamentally shaped by the body, the physical spaces we inhabit, and the other minds we interact with. Drawing on research in embodied, situated, and distributed cognition, Annie Murphy Paul shows how we can improve our attention, memory, creativity, and decision-making by reaching beyond our skulls. The book operationalizes the "extended mind" framework into techniques for thinking with sensations, movement, gestures, natural spaces, built spaces, and social relationships.
 
 ## When to Follow Book Teachings
 
@@ -22,7 +22,7 @@ The Extended Mind challenges the deeply ingrained assumption that thinking happe
 
 ##### Example 1: The Successful Financial Trader
 
-While working as a trader at Goldman Sachs, Merrill Lynch, and Deutsche Bank, John Coates noticed that his most profitable trades came not from his best analytical reasoning but from a "gut feeling" — a subtle internal signal that nudged him toward a particular choice. After leaving Wall Street to study this phenomenon scientifically, he found that professional traders were significantly better at detecting their own heartbeats than age- and gender-matched controls, and that the traders with the keener interoceptive awareness earned more money and lasted longer in the volatile industry.
+While working as a trader at Goldman Sachs, Merrill Lynch, and Deutsche Bank, John Coates noticed that his most profitable trades came not from his best analytical reasoning but from a "gut feeling" — a bodily sensation that nudged him toward a particular choice. After leaving Wall Street to study this phenomenon scientifically, he found that professional traders were better at detecting their own heartbeats than age- and gender-matched controls. Among the traders, those with the most accurate heartbeat detection earned more money and lasted longer in the financial trading industry.
 
 ##### Example 2: The Body Knows Before the Brain Does
 
@@ -30,23 +30,23 @@ In Antonio Damasio's famous gambling experiment, participants played a card game
 
 #### Step 1: Practice the Body Scan
 
-Sit or lie down comfortably and close your eyes. Begin a "sweep" of your attention, starting at the toes of your left foot and moving gradually up through the sole, heel, ankle, left leg, torso, abdomen, chest, back, shoulders, arms, hands, neck, and face. As you focus on each area for a few breaths, notice any sensations present without judgment. If your attention wanders, gently guide it back. Practice this for 10-20 minutes at least once a day to reconnect your conscious mind to your body's feeling states.
+Sit or lie down comfortably and close your eyes. Begin a "sweep" of your attention, starting at the toes of your left foot and moving gradually up through the sole, heel, ankle, left leg, left hip, torso, abdomen, chest, back, shoulders, arms, hands, neck, and face. As you focus on each area for a few breaths, notice any sensations present without judgment. If your attention wanders, gently guide it back. Practice this body scan for 10-20 minutes at least once per day. Regular practice is associated with improved interoceptive awareness for many people.
 
 #### Step 2: Name What You Feel (Affect Labeling)
 
-When you notice an internal sensation, give it a specific name. Research from UCLA shows that simply labeling emotions — using as many and as granular terms as possible — immediately reduces physiological arousal (heart rate and skin conductance) and decreases activity in the amygdala, the brain's fear center. Instead of saying "I feel bad," try "I feel a flutter in my chest and a tightness in my throat." The more precise your language, the more effectively you can regulate the sensation.
+When you notice an internal sensation, give it a specific name. Research from UCLA shows that labeling emotions reduces physiological arousal (heart rate and skin conductance) and decreases activity in the amygdala, the brain's fear center. Instead of saying "I feel bad," try "I feel a flutter in my chest and a tightness in my throat." The more precise your language, the more effectively you can regulate the sensation.
 
 #### Step 3: Keep an Interoceptive Journal
 
-Record the choices you face, the bodily sensations you experience as you contemplate each option, and the outcome of the decision you ultimately make. Over time, look for patterns: perhaps you feel a lifting in your chest when considering a course of action that leads to success, or a constriction when contemplating options that lead to disappointment. This practice helps you clarify the body's messages so you can use them as a reliable guide.
+Record the choices you face, the bodily sensations you experience as you contemplate each option, and the outcome of the decision you ultimately make. Over time, look for patterns: perhaps you feel a lifting in your chest when considering a course of action that leads to success, or a constriction when contemplating options that lead to disappointment. This practice helps you clarify the body's messages so you can use bodily signals as a reliable guide.
 
 #### Best Practices
 
 - ✅ Practice the body scan daily to build interoceptive awareness
 - ✅ Use granular, specific language when naming emotions
 - ✅ Notice your body's signals before, during, and after decisions
-- ✅ Use interoception to detect cognitive biases before they lead you astray
-- ❌ Don't dismiss gut feelings as irrational — they often encode complex non-conscious knowledge
+- ✅ Use interoception to detect cognitive biases before bodily signals lead you astray
+- ❌ Don't dismiss gut feelings as irrational — gut feelings often encode complex non-conscious knowledge
 - ❌ Don't try to overpower or ignore bodily signals with sheer willpower
 
 #### Keep In Mind
@@ -59,8 +59,8 @@ There is no direct security concern with interoception practices. However, be aw
 
 #### Common Pitfalls
 
-- **Problem:** You feel overwhelmed by bodily sensations and interpret them as anxiety rather than useful information. **Solution:** Use the body scan and affect labeling to observe sensations with equanimity. Over time, you'll learn to distinguish between overwhelming emotion and the subtle signals that guide good decisions.
-- **Problem:** You ignore your body's signals because they conflict with your logical analysis. **Solution:** Remember that the body often picks up on patterns the conscious mind cannot yet articulate. Use your interoceptive journal to track outcomes and build trust in your body's guidance.
+- **Problem:** You feel overwhelmed by bodily sensations and interpret bodily sensations as anxiety rather than useful information. **Solution:** Use the body scan and affect labeling to observe sensations with equanimity. Over time, you'll learn to distinguish between overwhelming emotion and the subtle signals that guide good decisions.
+- **Problem:** You ignore your body's signals because bodily signals conflict with your logical analysis. **Solution:** Remember that the body often picks up on patterns the conscious mind cannot yet articulate. Use your interoceptive journal to track outcomes and build trust in your body's guidance.
 
 ### Lesson 2: Move Your Body to Enhance Memory, Attention, and Creativity
 
@@ -68,7 +68,7 @@ There is no direct security concern with interoception practices. However, be aw
 
 ##### Example 1: Radiologists Who Walk See More
 
-Dr. Jeff Fidler, a radiologist at the Mayo Clinic, set up a treadmill in front of his reading station and began walking while reviewing X-ray images. In a study he designed with colleagues, radiologists who walked at one mile per hour detected 99% of abnormalities in the slides, while those who remained seated spotted only 85%. Other studies confirm that walking — rather than sitting — improves detection rates for lung nodules and speeds up reading time without sacrificing accuracy.
+Dr. Jeff Fidler, a radiologist at the Mayo Clinic, set up a treadmill in front of his reading station and began walking while reviewing X-ray images. In a study he designed with colleagues, radiologists who walked at one mile per hour detected 99% of abnormalities in the slides, while those who remained seated spotted only 85%. Other studies confirm that walking improves lung nodule detection rates compared to sitting.
 
 ##### Example 2: Actors Remember Lines Through Movement
 
@@ -76,7 +76,7 @@ Researchers Helga and Tony Noice studied professional actors and found that they
 
 #### Step 1: Replace Sitting Time with Standing and Movement
 
-Use a standing desk or activity-permissive setup that allows you to shift your weight, pace, or fidget while working. Research shows that simply standing rather than sitting increases energy expenditure by 13% and is associated with enhanced executive function, better on-task engagement, and higher productivity. Children with ADHD benefit particularly from movement, as their brains are chronically under-aroused; allowing them to fidget, tap, or bounce actually helps them focus.
+Use a standing desk or activity-permissive setup that allows you to shift your weight, pace, or fidget while working. Research shows that simply standing rather than sitting increases energy expenditure by 13% and is associated with enhanced executive function, better on-task engagement, and higher productivity. Children with ADHD benefit particularly from movement. Research suggests that ADHD brains tend toward lower baseline arousal; allowing fidgeting, tapping, or bouncing during cognitive tasks can help children with ADHD maintain focus.
 
 #### Step 2: Take Movement Breaks Instead of Screen Breaks
 
@@ -110,15 +110,11 @@ No security concerns. Be mindful of your surroundings when walking while working
 
 ### Lesson 3: Use Gesture to Boost Memory, Understanding, and Persuasion
 
-#### Examples
-
-##### Example 1: Entrepreneurs Who Gesture Raise More Funding
-
-Professor Jean Clarke observed startup founders pitching at demo days and found that those who used skilled gesture — including symbolic gestures that captured their message's meaning and beat gestures that punctuated key points — were 12% more likely to attract investment. Gesture brings an uncertain future into the observable present, making abstract visions feel tangible and real.
+Professor Jean Clarke observed startup founders pitching at demo days and found that those who used varied hand gestures — including symbolic gestures that captured their message's meaning and beat gestures that punctuated key points — were 12% more likely to attract investment.
 
 ##### Example 2: Geology Students Learn Through Hand Movements
 
-Professor Michele Cooke, who is hearing-impaired, uses gestures inspired by American Sign Language to teach geological concepts. Students who imitate her hand motions as they learn about subduction, angular unconformity, and other spatial ideas show significantly greater improvement in "penetrative thinking" (visualizing the interior of 3D objects) than students who learn through words alone. The hands provide a channel of understanding that language cannot fully capture.
+Professor Michele Cooke, who is hearing-impaired, uses gestures inspired by American Sign Language to teach geological concepts. Students who imitate her hand motions as they learn about subduction, angular unconformity, and other spatial ideas show greater improvement in "penetrative thinking" (visualizing the interior of 3D objects) than students who learn through words alone. The hands provide a channel of understanding that language cannot fully capture.
 
 #### Step 1: Gesture While Explaining Concepts
 
@@ -126,7 +122,7 @@ When you are explaining an idea to someone (or even to yourself), allow your han
 
 #### Step 2: Encourage Others to Gesture
 
-When teaching or collaborating, ask people to "move your hands as you explain that." Children who gesture while solving math problems discover new strategies expressed first in their hands, leading to deeper learning. College students encouraged to gesture while solving spatial problems solve more correctly than those prohibited from gesturing, and the benefit persists even when they later solve problems without gesturing. For girls, who tend to gesture less than boys, explicit encouragement to gesture is especially effective at closing spatial-thinking achievement gaps.
+When teaching or collaborating, ask people to "move your hands as you explain that." Children who gesture while solving math problems discover new strategies expressed first in their hands, leading to deeper learning. College students encouraged to gesture while solving spatial problems solve more correctly than those prohibited from gesturing, and the benefit persists even when they later solve problems without gesturing. For girls, who tend to gesture less than boys, explicit encouragement to gesture improves spatial-thinking performance.
 
 #### Step 3: Use Designed Gestures for Key Vocabulary
 
@@ -143,7 +139,7 @@ Create simple, consistent hand motions for important terms or concepts you need 
 
 #### Keep In Mind
 
-Gesture often leads speech by a few hundred milliseconds — your hands may "know" what you are about to say before your conscious mind does. When speech and gesture diverge, the gesture often reveals a transitional, emerging understanding. Paying attention to others' gestures can give you early warning that they are ready to learn something new.
+Gesture often leads speech by a few hundred milliseconds — your hands may "know" what you are about to say before your conscious mind does. When speech and gesture diverge, the gesture often reveals a transitional, emerging understanding. Paying attention to others' gestures can give you early warning that others are ready to learn something new.
 
 #### Security & Safety Notes
 
@@ -160,19 +156,19 @@ No security concerns. Gesture is a low-risk, always-available cognitive tool.
 
 ##### Example 1: A Walk in the Park Improves ADHD Symptoms
 
-Researchers Andrea Faber Taylor and Ming Kuo had children with ADHD take supervised walks in a park, a residential neighborhood, or a busy downtown area. After the park walk, children's concentration and impulse control improved so much that they scored like typical children without ADHD on cognitive tests. A twenty-minute walk in nature was as effective as a dose of Ritalin for managing symptoms.
+Researchers Andrea Faber Taylor and Ming Kuo had children with ADHD take supervised walks in a park, a residential neighborhood, or a busy downtown area. After the park walk, children's concentration and impulse control improved so much that children with ADHD scored like neurotypical children on cognitive tests. A twenty-minute walk in nature was as effective as a dose of Ritalin for managing ADHD symptoms.
 
 ##### Example 2: Jackson Pollock's Creative Breakthrough
 
-After years of struggling with drinking and depression in frenetic New York City, Jackson Pollock moved to a farmhouse on Long Island's verdant South Fork. Surrounded by trees, marshland, and open sky, his thinking gentled and deepened. The move inaugurated his most celebrated period, during which he developed the drip-painting technique that defined his career. Art critic Audrey Flack called Springs "a healing place." Analysis by physicist Richard Taylor later revealed that Pollock's drip paintings exhibit fractal patterns identical to those found in natural landscapes.
+After years of struggling with drinking and depression in frenetic New York City, Jackson Pollock moved to a farmhouse on Long Island's verdant South Fork. Surrounded by trees, marshland, and open sky, Pollock's thinking gentled and deepened. The move to Springs inaugurated Pollock's most celebrated period, during which Pollock developed the drip-painting technique that defined Pollock's career. Art critic Audrey Flack called Springs "a healing place." Analysis by physicist Richard Taylor later revealed that Pollock's drip paintings exhibit fractal patterns identical to those found in natural landscapes.
 
 #### Step 1: Take a Daily "Dose of Nature"
 
-Aim to spend at least some time outdoors every day, even if it is just a few minutes looking at trees from a window. Research shows that even a forty-second "micro-break" spent gazing at a green roof improves cognitive performance compared to looking at bare concrete. For greater benefit, take a 90-minute walk in a natural setting; this reduces rumination, lowers activity in the subgenual prefrontal cortex, and improves working memory by 20%.
+Aim to spend time outdoors every day; even a few minutes looking at trees from a window provides cognitive benefit. Research shows that a forty-second "micro-break" spent gazing at a green roof improves cognitive performance compared to looking at bare concrete. For greater benefit, take a 90-minute walk in a natural setting; a 90-minute walk in a natural setting reduces rumination, lowers activity in the subgenual prefrontal cortex, and improves working memory by 20%.
 
 #### Step 2: Practice "Open Monitoring" in Natural Settings
 
-When in nature, adopt an attitude of curious, nonjudgmental awareness — what researchers call "open monitoring" or "soft gazing." Rather than analyzing or evaluating what you see, receive images diffusely, allowing your attention to drift from object to object as in William James's concept of "passive attention." Leave devices behind; using a smartphone while outside substantially counteracts the attention-enhancing effects of nature.
+When in nature, adopt an attitude of curious, nonjudgmental awareness — what researchers call "open monitoring." Rather than analyzing or evaluating what you see, receive environmental stimuli diffusely, allowing your attention to drift from object to object as in William James's concept of "passive attention." Leave devices behind; smartphone use while outside counteracts the attention-enhancing effects of nature.
 
 #### Step 3: Incorporate Natural Elements Into Indoor Spaces
 
@@ -206,7 +202,7 @@ No security concerns with nature exposure. For outdoor activities, standard safe
 
 ##### Example 1: Vallecito Elementary's Activity-Permmissive Classrooms
 
-When Vallecito Elementary in San Rafael, California replaced traditional desks and chairs with standing desks in 2013, teachers noticed immediate changes: students were more alert, attentive, and engaged. Principal Tracy Smith reported that students were "more focused, confident, and productive." Fourth-grade teacher Maureen Zink, who had taught at sitting desks for 30 years, said she would never go back. The school's "activity-permissive" ethos allows pupils to stand, perch, sit on the floor, and move as they wish.
+When Vallecito Elementary in San Rafael, California replaced traditional desks and chairs with standing desks in 2013, teachers noticed immediate changes: student alertness, attention, and engagement increased. Principal Tracy Smith reported that students were "more focused, confident, and productive." Fourth-grade teacher Maureen Zink, who had taught at sitting desks for 30 years, said she would never go back. The school's "activity-permissive" ethos allows pupils to stand, perch, sit on the floor, and move as they wish.
 
 ##### Example 2: The Bank of America Tower's Biophilic Design
 
@@ -214,11 +210,11 @@ Completed in 2009, the 55-story Bank of America Tower in Manhattan was designed 
 
 #### Step 1: Incorporate Natural Light and Views
 
-Position workspaces and study areas near windows. Natural light regulates circadian rhythms, improves sleep, and boosts creativity. Google found that employees with desks near windows report being more creative and productive. In offices without windows, use full-spectrum lighting and add images of natural scenes. At minimum, take regular "micro-breaks" to glance out a window — forty seconds of green-viewing is enough to improve subsequent cognitive performance.
+Position workspaces and study areas near windows. Natural light regulates circadian rhythms, improves sleep, and is associated with higher creative output. Google found that employees with desks near windows report being more creative and productive. In offices without windows, use full-spectrum lighting and add images of natural scenes. At minimum, take regular "micro-breaks" to glance out a window — forty seconds of green-viewing is enough to improve subsequent cognitive performance.
 
 #### Step 2: Add Biophilic Elements to Indoor Environments
 
-Introduce live plants, natural materials (wood, stone, wool), fractal patterns, and water features into built spaces. The Second Home co-working space in London houses more than 1,000 plants; its Lisbon location has over 2,000 plants representing 100 varieties. A Harvard study found that just five minutes in a biophilic room (with plants, bamboo floors, and a green view) improved short-term memory by 14% compared to a windowless, fluorescent-lit space.
+Introduce live plants, natural materials (wood, stone, wool), fractal patterns, and water features into built spaces. The Second Home co-working space in London houses 1,000 plants; its Lisbon location houses 2,000 plants representing 100 varieties. A Harvard study found that five minutes in a biophilic room (with plants, bamboo floors, and a green view) improved short-term memory by 14% compared to a windowless, fluorescent-lit space in the study's participants.
 
 #### Step 3: Design for Choice and Movement
 
@@ -243,7 +239,7 @@ No security concerns. Biophilic design elements (plants, natural materials) may 
 #### Common Pitfalls
 
 - **Problem:** You believe natural light causes glare and reduces productivity. **Solution:** Modern design can balance daylight with glare control (e.g., louvers, light shelves). Subtle shifts in illumination help regulate biological clocks and maintain alertness.
-- **Problem:** Budget constraints prevent major biophilic renovations. **Solution:** Small changes help. A few potted plants, a green wall, or images of nature can produce measurable cognitive benefits without major construction.
+- **Problem:** Budget constraints prevent major biophilic renovations. **Solution:** Small changes help. A few potted plants, a green wall, or images of nature can support cognitive performance without major construction.
 
 ### Lesson 6: Externalize Thoughts Into "The Space of Ideas"
 
@@ -263,11 +259,11 @@ When grappling with complex systems, relationships, or chronologies, create phys
 
 #### Step 2: Move Thoughts Out of Your Head and Into Space
 
-Write down ideas, draw diagrams, build prototypes, or act out scenarios. When information is externalized, you can manipulate it, rearrange it, and see it from new angles. This is why whiteboards are so effective in meetings and why brainstorming on paper outperforms purely verbal ideation. External representations act as "shared memory" that can be examined by you and others, making thinking visible and collaborative.
+Write down ideas, draw diagrams, build prototypes, or act out scenarios. When information is externalized, you can manipulate it, rearrange it, and see it from new angles. Whiteboards and brainstorming on paper both support collaborative thinking by making ideas visible to all participants. External representations act as "shared memory" that can be examined by you and others, making thinking visible and collaborative.
 
 #### Step 3: Use the Enactment Effect for Learning
 
-When learning new material, link physical actions to the content. Students who enact math problems with movement, act out science concepts, or use their bodies to model abstract ideas learn more deeply and remember more accurately. The enactment effect works because movement engages procedural memory (how to do something) in addition to declarative memory (facts and information), creating a richer and more durable memory trace.
+When learning new material, link physical actions to the content. Students who enact math problems with movement, act out science concepts, or use their bodies to model abstract ideas learn more deeply and remember more accurately. The enactment effect works because movement engages procedural memory (how to do something) in addition to declarative memory (facts and information), creating a stronger memory trace.
 
 #### Best Practices
 
@@ -280,7 +276,7 @@ When learning new material, link physical actions to the content. Students who e
 
 #### Keep In Mind
 
-The brain has severe limits in working memory (typically holding 4-7 items at once). Externalizing thoughts into the space of ideas bypasses these limits, allowing you to work with far more information than your biological memory can accommodate. This is not a sign of weakness but a fundamental principle of intelligent tool use.
+The brain has severe limits in working memory (typically holding 4-7 items at once). Externalizing thoughts into the space of ideas bypasses the brain's limits, allowing you to work with far more information than biological memory can accommodate. This is not a sign of weakness but a fundamental principle of intelligent tool use.
 
 #### Security & Safety Notes
 
@@ -301,7 +297,7 @@ Research on how experts think challenges the common belief that mastery comes fr
 
 ##### Example 2: Vicarious Learning Through Observation
 
-Carol Dweck's growth mindset research, originally developed to help students, has been adopted in corporations worldwide. The key message — that learning changes the brain by forming new connections and that students are in charge of this process — draws on the power of social cognitive extension. We think better by thinking with the minds of those who have gone before us: reading their books, watching their demonstrations, listening to their stories, and adopting their mental habits.
+Carol Dweck's growth mindset research, originally developed to help students, has been adopted in corporate and organizational training. The key message — that learning changes the brain by forming new connections and that students are in charge of this process — draws on the power of social cognitive extension, in which thinking is enhanced by engaging with the knowledge of others.
 
 #### Step 1: Seek Out Experts and Study Their Processes
 
@@ -313,7 +309,7 @@ When you observe an expert's cognitive strategy, try it yourself. If a teacher u
 
 #### Step 3: Build Relationships That Extend Your Thinking
 
-Cultivate relationships with people whose thinking extends beyond your own. Join communities of practice, find mentors, participate in study groups, and engage in regular dialogue with knowledgeable peers. Thinking with others through conversation, debate, and collaboration is one of the most reliable ways to improve your own cognition. As Carl Wieman (Nobel laureate in physics) discovered, inducing students to talk with one another was the key to getting them to think like scientists.
+Cultivate relationships with people whose thinking extends beyond your own. Join communities of practice, find mentors, participate in study groups, and engage in regular dialogue with knowledgeable peers. Thinking with others through conversation, debate, and collaboration is one of the most reliable ways to improve your own cognition. As Carl Wieman (Nobel laureate in physics) found in his research on physics education, inducing students to talk with one another was key to getting students to think like scientists.
 
 #### Best Practices
 
@@ -326,7 +322,7 @@ Cultivate relationships with people whose thinking extends beyond your own. Join
 
 #### Keep In Mind
 
-The conventional view of expertise focuses on hours of deliberate practice (the "10,000 hours" idea) and internal cognitive capacity. The extended mind perspective reveals that experts are distinguished above all by their skillful use of extra-neural resources. They experiment more, test more, backtrack more, and use their bodies, spaces, and relationships more adeptly than novices do.
+The conventional view of expertise focuses on hours of deliberate practice (the "10,000 hours" idea) and internal cognitive capacity. The extended mind perspective reveals that experts distinguish themselves through their skillful use of extra-neural resources. Compared to novices, experts make greater use of their bodies, physical spaces, and social relationships in their thinking processes.
 
 #### Security & Safety Notes
 
@@ -347,7 +343,7 @@ Psychologists Amos Tversky and Daniel Kahneman carried out much of their groundb
 
 ##### Example 2: Teaching Someone Else to Deepen Your Own Understanding
 
-The act of teaching — explaining a concept to someone else — is one of the most powerful ways to clarify and deepen your own knowledge. When you teach, you are forced to organize your thoughts, fill gaps in your understanding, and translate abstract ideas into communicable form. Research by cognitive scientist Carl Wieman found that inducing students to talk with and teach one another was far more effective at developing scientific thinking than traditional lecture formats.
+The act of teaching — explaining a concept to someone else — clarifies and deepens your own knowledge. When you teach, you are forced to organize your thoughts, fill gaps in your understanding, and translate abstract ideas into communicable form. Research by cognitive scientist Carl Wieman found that inducing students to talk with and teach one another was far more effective at developing scientific thinking than traditional lecture formats.
 
 #### Step 1: Use Social Interaction to Regulate and Extend Thought
 
@@ -355,11 +351,11 @@ Engage in conversation, debate, and collaboration when tackling difficult proble
 
 #### Step 2: Practice Explaining and Teaching
 
-When you learn something new, explain it to someone else — a friend, family member, or study partner. The process of teaching forces you to make your thinking explicit, revealing hidden assumptions and shaky logic. It also engages the "protégé effect": people who expect to teach others learn more deeply and retain information longer than those who study only for their own benefit.
+When you learn something new, explain it to someone else — a friend, family member, or study partner. The process of teaching forces you to make your thinking explicit, revealing hidden assumptions and shaky logic. It also engages what researchers call the "protégé effect": the finding that people who expect to teach others learn more deeply and retain information longer than those who study only for their own benefit.
 
 #### Step 3: Create Structured Formats for Peer Thinking
 
-Designate specific formats for peer cognition: pair programming, peer instruction, think-pair-share, or collaborative problem-solving sessions. Physics professor Eric Mazur's "peer instruction" method, in which students discuss conceptual questions with one another before the professor explains the answer, has been shown to triple learning gains in some courses. The social dynamics of peer conversation — the give-and-take, the negotiation of meaning, the building on one another's ideas — create a distributed cognitive system that outperforms individual study.
+Designate specific formats for peer cognition: pair programming, peer instruction, think-pair-share, or collaborative problem-solving sessions. Physics professor Eric Mazur's "peer instruction" method, in which students discuss conceptual questions with one another before the professor explains the answer, has improved learning outcomes in courses where it has been implemented. The social dynamics of peer conversation — the give-and-take, the negotiation of meaning, the building on one another's ideas — create a distributed cognitive system that outperforms individual study.
 
 #### Best Practices
 
@@ -367,8 +363,8 @@ Designate specific formats for peer cognition: pair programming, peer instructio
 - ✅ Teach what you are learning to solidify your own understanding
 - ✅ Use structured collaborative formats (peer instruction, pair programming)
 - ✅ Encourage disagreement and diverse perspectives in group settings
-- ❌ Don't assume thinking is best done in isolation — social interaction is a cognitive resource
-- ❌ Don't let groupthink override critical thinking — seek constructive dissent
+- ❌ Don't assume that solitary thinking is always superior — social interaction is a cognitive resource; combine both approaches
+- ❌ Don't let groupthink override critical thinking — seek constructive dissent in group settings
 
 #### Keep In Mind
 
@@ -389,7 +385,7 @@ No security concerns. In professional or academic settings, follow confidentiali
 
 ##### Example 1: The Power of Transactive Memory
 
-In successful teams, members develop a "transactive memory system": each person specializes in a particular domain and knows who to turn to for specific knowledge. This distributed storage means the group's collective memory far exceeds what any individual could hold. Research shows that groups with well-developed transactive memory make better decisions, solve problems faster, and innovate more effectively than groups where everyone tries to know everything.
+In successful teams, members develop a "transactive memory system": each person specializes in a particular domain and knows who to turn to for specific knowledge. This distributed storage means the group's collective memory exceeds the knowledge any individual member could hold alone. Research shows that groups with well-developed transactive memory make better decisions, solve problems faster, and innovate more effectively than groups where everyone tries to know everything.
 
 ##### Example 2: Simple Rules That Increase Collective Intelligence
 
@@ -413,12 +409,12 @@ Adopt structured techniques for group ideation and problem-solving: brainwriting
 - ✅ Establish norms of equal participation and respectful listening
 - ✅ Document shared knowledge in external repositories
 - ✅ Use structured ideation methods to prevent dominance by early speakers
-- ❌ Don't assume that adding more people to a group automatically improves its thinking
+- ❌ Don't assume that adding more people to a group automatically improves its thinking — group size alone does not guarantee better outcomes
 - ❌ Don't let hierarchy or status silence valuable contributions from some members
 
 #### Keep In Mind
 
-Collective intelligence is not just the sum of individual intelligences — it is an emergent property of how group members interact, share information, and build on one another's ideas. Groups can be smarter than their smartest members when the right social and structural conditions are in place. Conversely, groups can be dumber than their dumbest members when those conditions are absent.
+Collective intelligence is not just the sum of individual intelligences — it is an emergent property of how group members interact, share information, and build on one another's ideas. Groups produce results that exceed the contributions of individual members when the right social and structural conditions are in place. Conversely, when those conditions are absent, groups perform below the level of their most capable members.
 
 #### Security & Safety Notes
 
@@ -434,29 +430,29 @@ No security concerns. In organizational settings, be mindful of information shar
 | Term | Definition | Index Pages |
 |------|------------|-------------|
 | Action-permissive settings | Learning and working environments that allow physical movement (standing, pacing, fidgeting) rather than requiring stillness | 52-53 |
-| Affect labeling | The practice of naming and specifying emotions, which reduces physiological arousal and amygdala activity | 36-38, 1396 |
+| Affect labeling | The practice of naming and specifying emotions, which reduces physiological arousal and amygdala activity | 36-38 |
 | Anchoring effect | A cognitive bias in which we rely too heavily on the first piece of information we encounter as a reference point | 1475 |
-| Biophilic design | The practice of incorporating natural elements (plants, natural light, organic materials) into built environments to enhance cognition and well-being | 100-101, 4555 |
+| Biophilic design | The practice of incorporating natural elements (plants, natural light, organic materials) into built environments to enhance cognition and well-being | 100-101 |
 | Brainbound thinking | The assumption that thinking happens only inside the brain, sealed within the skull | 11, 283-287, 442-443 |
 | Body scan | A mindfulness meditation practice involving a systematic sweep of attention through the body to cultivate interoceptive awareness | 34-35, 1334 |
-| Cognitive reappraisal | The practice of reinterpreting an interoceptive sensation in an adaptive way (e.g., reframing nervousness as excitement) | 44-45, 1837 |
+| Cognitive reappraisal | The practice of reinterpreting an interoceptive sensation in an adaptive way (e.g., reframing nervousness as excitement) | 44-45 |
 | Collective intelligence | The phenomenon in which groups working together produce results that exceed the sum of their members' individual contributions | 10, 233-234, 999-1000 |
 | Congruent movements | Physical actions that mirror or express the content of a thought, reinforcing understanding and memory | 62-63, 2714 |
 | Distributed cognition | The study of how thinking is extended through interactions with other people and external artifacts | 10, 228-234 |
 | Embodied cognition | The study of how the body and its movements shape thinking processes | 9-10, 217-220, 2510 |
-| Enactment effect | The phenomenon in which linking movement to information being learned creates a richer, more durable memory trace | 58-59, 2548 |
+| Enactment effect | The phenomenon in which linking movement to information being learned creates a richer, more durable memory trace | 58-59 |
 | Extended mind | The theory, proposed by Andy Clark and David Chalmers, that the mind is an extended system coupling biological organisms with external resources | 10-11, 250-257, 942-960 |
 | Extended technology | Digital or physical tools designed to incorporate extra-neural resources (body, space, social interaction) rather than treating users as disembodied brains | 25-26, 1017-1022 |
 | Externalization | The practice of offloading thoughts into physical or visual representations (maps, diagrams, lists) to free working memory | 994-995 |
-| Fractals | Self-similar visual patterns found in nature (ferns, clouds, coastlines) that have a mid-range complexity (1.3-1.5 on a scale of 0-3) optimal for human cognition | 97-98, 4428 |
+| Fractals | Self-similar visual patterns found in nature (ferns, clouds, coastlines) that have a mid-range complexity (1.3-1.5 on a scale of 0-3) optimal for human cognition | 97-98 |
 | Fidgeting | Small, rhythmic bodily movements that modulate arousal, maintain focus, or provide sensory input when cognitive demands are high | 53-54, 2302 |
 | Gesture gap | Socioeconomic disparities in how often parents gesture with young children, leading to differences in vocabulary and later academic achievement | 75-76, 3373 |
 | Gestural foreshadowing | The phenomenon in which hand movements anticipate what a person is about to say, often by a few hundred milliseconds | 73, 3289 |
 | Growth mindset | Carol Dweck's theory that intelligence can be developed through effort, analogous to strengthening a muscle; contrasts with the fixed view that intelligence is innate | 19-20, 660 |
 | Gut feelings | Bodily sensations (often interoceptive) that encode non-conscious knowledge and guide decision-making | 29-30, 1092-1093 |
 | Heartbeat detection test | A measure of interoceptive awareness in which individuals must identify when their heart beats without touching their body | 31, 1150 |
-| Imitation / Vicarious learning | Learning by observing and copying the cognitive and physical strategies of others, especially experts | 491-492, 1027-1028 |
-| Interoception | Awareness of the internal state of the body; the process by which internal signals (heartbeat, breath, gut feelings) inform cognition and emotion | 30-31, 1134-1136, 188 |
+| Imitation / Vicarious learning | Learning by observing and copying the cognitive and physical strategies of others, especially experts | 491-492 |
+| Interoception | Awareness of the internal state of the body; the process by which internal signals (heartbeat, breath, gut feelings) inform cognition and emotion | 30-31, 1134-1136 |
 | Interoceptive journal | A record of decisions, the bodily sensations experienced while making them, and their outcomes, used to clarify the body's guidance over time | 38-39, 1548 |
 | Inverted U-shaped curve | The relationship between exercise intensity and cognitive function, in which moderate intensity produces the greatest cognitive benefits | 56, 2445 |
 | Mindful movement breaks | Short periods of physical activity (walking, stretching) taken during the work or school day to restore mental resources | 55-56, 2404-2441 |
@@ -467,8 +463,8 @@ No security concerns. In organizational settings, be mindful of information shar
 | Prospect and refuge | Evolutionary preferences for landscapes that offer wide visibility (prospect) and protected hiding places (refuge), shared by humans across all cultures | 92, 4148 |
 | ReTUNE app | A GPS-like app that routes users along the path with the most trees, flowers, and birdsong rather than the fastest route, designed to restore attention | 95-96, 4318 |
 | Soft fascination | The effortless, diffuse attention evoked by natural settings, which restores depleted mental resources without draining them | 94, 4278 |
-| Somatic rudder | The body's capacity to guide decision-making through subtle internal signals that operate faster and more holistically than conscious reasoning | 33, 1264 |
-| Space of ideas | External physical or conceptual spaces (maps, diagrams, whiteboards, models) where thoughts can be arranged, manipulated, and shared | 995-996, 4013 |
+| Somatic rudder | The body's capacity to guide decision-making through internal bodily signals that operate faster and more holistically than conscious reasoning | 33, 1264 |
+| Space of ideas | External physical or conceptual spaces (maps, diagrams, whiteboards, models) where thoughts can be arranged, manipulated, and shared | 994 |
 | Speech-gesture mismatch | The phenomenon in which a person's gestures reveal a more advanced or different understanding than their words, signaling a transitional learning state | 77, 3450-3453 |
 | Symbolic gestures | Hand movements that capture the overall meaning of a speaker's message, translating abstract ideas into embodied form | 72, 3206 |
 | Transactive memory | The process by which group members store information in one another's memories and cue one another's recall, creating a distributed cognitive system | 10, 231-232 |
