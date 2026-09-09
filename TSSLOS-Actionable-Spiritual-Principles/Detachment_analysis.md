@@ -17,7 +17,7 @@
 - Factor uncertainty into your experience as a necessary component
 - Accept that uncertainty is your path to freedom
 - Trust that solutions will spontaneously emerge from problem, confusion, disorder, and chaos
-- Allow the more uncertain things seem to be, the more secure you will feel
+- The more uncertain things seem to be, the more secure you will feel
 - Seek security through the wisdom of uncertainty
 
 **c) Step into the field of all possibilities**

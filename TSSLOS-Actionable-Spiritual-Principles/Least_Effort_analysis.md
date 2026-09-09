@@ -7,7 +7,7 @@
 
 1. **Witness your choices in each moment.**
    - Observe the decisions you make throughout the day without judgment.
-   - Recognize that full consciousness in the present is the best preparation for the future.
+    - Recognize that full consciousness in the present prepares you well for the future.
 
 2. **Ask two self-check questions before every choice:**
    - "What are the consequences of this choice that I'm making?"
@@ -15,7 +15,7 @@
 
 3. **Consult your heart for guidance.**
    - Tune into the feeling of comfort or discomfort that arises with each choice.
-   - If the choice feels comfortable, proceed with abandon.
+    - If the choice feels comfortable, proceed freely.
    - If the choice feels uncomfortable, pause and visualize the consequences with inner vision before acting.
 
 4. **Align your actions with nature's principle of least effort.**
@@ -60,15 +60,15 @@
 | **Transcending Karma** | Becoming independent of karmic cycles by repeatedly entering the gap through meditation. |
 | **Internal Reference Point** | The center from which one operates—either the ego or the spirit. |
 | **Miracle** | An expression of the Law of Least Effort; a manifestation of nature's intelligence operating without resistance. |
-| **Carlos Castaneda / Don Juan** | Reference to the teaching that most human energy is spent upholding personal importance. |
+| **Carlos Castaneda / Don Juan** | Reference to the teaching that human energy is spent upholding personal importance. |
 
 ---
 
 ## 3. Best Practices
 
-- **Practice present-moment awareness.** The best way to prepare for the future is to be fully conscious in the present moment.
+- **Practice present-moment awareness.** A foundational way to prepare for the future is to be fully conscious in the present moment.
 - **Pause before acting.** Use the two-question framework and heart guidance to ensure choices are aligned with fulfillment and the greater good.
-- **Let nature be your teacher.** Observe how grass, fish, flowers, birds, and the earth accomplish their purposes effortlessly, and emulate that natural flow.
+- **Let nature be your teacher.** Observe how grass grows, fish swim, and flowers bloom effortlessly, and emulate that natural flow.
 - **Motivate every action with love.** This prevents energy waste and allows energy to accumulate and multiply.
 - **Make spirit your internal reference point.** This fosters immunity to criticism, fearlessness in the face of challenge, and creative use of energy.
 - **Release attachment to personal importance.** Freeing yourself from the illusion of grandeur liberates energy for actual creative contribution.

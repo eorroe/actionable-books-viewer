@@ -9,14 +9,14 @@
 
 1. **Commit to detachment today.** Allow yourself and those around you the freedom to be as they are.
 2. **Do not rigidly impose** your idea of how things should be.
-3. **Do not force solutions** on problems, thereby creating new problems.
-4. **Participate in everything** with detached involvement.
+3. **Do not force your solutions** on problems, thereby creating new problems.
+4. **Participate in all activities and situations** with detached involvement.
 5. **Factor in uncertainty** as an essential ingredient of your experience.
-6. **Accept uncertainty willingly.** Solutions will spontaneously emerge out of chaos, disorder, and confusion.
-7. **Step into the field of all possibilities** and anticipate the excitement that can occur when you remain open to an infinity of choices.
-8. **View every problem** in your life as a seed of an opportunity for some greater benefit.
+6. **Accept uncertainty willingly.** Solutions to your problems will naturally emerge out of chaos, disorder, and confusion.
+7. **Step into the field of all possibilities** and anticipate the meaningful opportunities that can occur when you remain open to a vast range of choices.
+8. **View each problem you face** in your life as a seed of an opportunity for greater benefit.
 9. **Stay alert to opportunities** by being grounded in the wisdom of uncertainty.
-10. **Witness uncertainty while expectantly waiting** for the solution to emerge out of chaos and confusion.
+10. **Witness uncertainty while expectantly waiting** for a solution to your challenges to emerge out of chaos and confusion.
 
 ### Applying the Law of Dharma (Purpose in Life)
 
@@ -24,7 +24,7 @@
 2. **Discover your unique talents** and enjoy expressing them (this puts you into timeless awareness and bliss).
 3. **Ask yourself daily:** "How can I serve?" and "How can I help?"
 4. **Make a list of your unique talents.**
-5. **List all the things you love to do** while expressing your unique talents.
+5. **List each thing you love to do** while expressing your unique talents.
 6. **Nurture the god or goddess in embryo** that lies deep within your soul.
 7. **Pay attention to the spirit within** you that animates both body and mind.
 8. **Awaken to the deep stillness** within your heart.
@@ -37,16 +37,16 @@
 ### Daily Practice Sequence (Summary and Conclusion)
 
 1. **Activate the Law of Pure Potentiality** by learning to give that which you seek (give affluence if you seek affluence, give money if you seek money, give love if you seek love).
-2. **Activate the Law of Karma** through your actions in the Law of Giving (create good karma so everything in life becomes easy).
-3. **Understand the Law of Least Effort** automatically when desires keep getting fulfilled without much effort.
-4. **Understand the Law of Intention and Desire** spontaneously when you experience fulfilling desires with effortless ease.
-5. **Practice the Law of Detachment** easily when you understand the previous laws.
+2. **Activate the Law of Karma** through your actions in the Law of Giving (create good karma so many areas of life become easier).
+3. **Understand the Law of Least Effort** naturally when your desires keep getting fulfilled without much effort.
+4. **Understand the Law of Intention and Desire** naturally when you experience fulfilling your desires with effortless ease.
+5. **Practice the Law of Detachment** more skillfully when you understand the previous laws.
 6. **Focus on the Law of Dharma** (true purpose in life) as you begin to understand all the above laws.
 
 ### Group / Community Practice
 
 1. **Concentrate on one law each day** of the week, beginning Sunday with Pure Potentiality and concluding Saturday with Dharma.
-2. **Start a study group** with family, friends, or co-workers; meet once a week to discuss experiences with the spiritual laws.
+2. **Start a study group** with family, friends, or co-workers; meet once a week to discuss your experiences applying the spiritual laws.
 3. **Visit chopra.com** for inspirational and informational resources to encourage, support, and deepen personal growth.
 
 ---
@@ -59,7 +59,7 @@
 - **Uncertainty** — The essential ingredient of experience; the path to freedom.
 - **Good Luck** — Nothing but preparedness and opportunity coming together.
 - **Dharma** — Sanskrit word meaning "purpose in life"; the unique gift or special talent each person has to give to others.
-- **Unique Talent** — Something you can do better than anyone else in the world; when expressed, you lose track of time.
+- **Unique Talent** — Something you can do better than most others; when expressed, you lose track of time.
 - **Timeless Awareness / Bliss** — The state experienced when expressing your unique talent.
 - **Service to Humanity** — The third component of Dharma; asking "How can I help?"
 - **Internal Dialogue of the Ego** — "What's in it for me?"
@@ -78,20 +78,20 @@
 
 ## 3. Best Practices
 
-- **Practice daily meditation** as the most useful way of entering the domain of spirit.
+- **Practice daily meditation** as a powerful way of entering the domain of spirit.
 - **Practice non-judgment** to experience the Law of Pure Potentiality.
-- **Spend time in communion with nature** to connect with pure potentiality.
+- **Spend regular time in communion with nature** to connect with pure potentiality.
 - **Give that which you seek** to activate the Law of Pure Potentiality.
-- **Factor uncertainty into every plan** and remain flexible.
+- **Factor uncertainty into your plans** and remain flexible.
 - **View problems as opportunities** for greater benefit.
 - **Remain alert and prepared** in the present moment.
 - **Ask "How can I help?"** instead of "What's in it for me?" to access the domain of spirit.
 - **Discover your unique talent** and express it in service to humanity.
 - **Maintain a list** of your unique talents and how they serve others.
-- **Concentrate on one spiritual law per day** to build mastery.
-- **Join or start a study group** to discuss experiences with the spiritual laws.
-- **Trust that solutions emerge from chaos** when you practice detachment.
-- **Align your desires with service** to create unlimited abundance.
+- **Concentrate on one spiritual law per day** to build understanding.
+- **Join or start a study group** to discuss your experiences applying the spiritual laws.
+- **Trust that solutions to your challenges emerge from chaos** when you practice detachment.
+- **Align your desires with service** to create abundance.
 - **Carry timeless awareness** into daily, time-bound activities.
 
 ---
@@ -100,13 +100,13 @@
 
 - **Rigid attachment to specific outcomes** — Shuts out a whole range of possibilities.
 - **Having a complete and rigid idea of what will happen** — Interferes with the creative process.
-- **Forcing solutions on problems** — Creates new problems instead of resolving them.
+- **Forcing your solutions on problems** — Creates new problems instead of resolving them.
 - **Locking intention into a rigid mindset** — Causes you to lose fluidity, creativity, and spontaneity.
 - **Freezing desire from infinite fluidity into a rigid framework** — Interferes with the whole process of creation.
 - **Asking "What's in it for me?"** — Keeps you trapped in ego rather than accessing spirit.
 - **Focusing on making a living, grades, or prestigious schools** — Distracts from discovering your true purpose and unique talents.
 - **Worrying about the future** — Prevents you from being present and open to opportunities.
-- **Stumbling or faltering due to attachment** — Causes you to miss spontaneous solutions emerging from chaos.
+- **Stumbling or faltering due to attachment** — Causes you to miss natural solutions emerging from chaos.
 - **Treating life as temporary or materialistic** — Causes you to miss the eternal, spiritual nature of existence.
 
 ---
@@ -120,10 +120,10 @@
 ## 6. Keep in Mind
 
 - **You do not need a complete and rigid idea** of what you will be doing next week or next year.
-- **When you experience uncertainty, you are on the right path** — don't give it up.
-- **The field of all possibilities** can orchestrate an infinity of space-time events to bring about intended outcomes.
-- **Every problem in your life is the seed of an opportunity** for some greater benefit.
-- **Good luck = preparedness + opportunity.** When mixed with alert witnessing of chaos, a solution emerges.
+- **When you experience uncertainty, you are on a path of growth** — don't give it up.
+- **The field of all possibilities** can orchestrate many events to bring about your intended outcomes.
+- **Each problem you face is the seed of an opportunity** for greater benefit.
+- **Good luck = preparedness + opportunity.** When mixed with alert witnessing of chaos, a solution to your challenges emerges.
 - **Every cell in the human body** expresses all Seven Spiritual Laws:
   - Birth in the Law of Pure Potentiality
   - Maintained by the Law of Giving (dynamic flow)
@@ -133,9 +133,9 @@
   - Expresses the Law of Detachment (detached from outcomes)
   - Expresses the Law of Dharma (serves every other cell)
 - **The internal dialogue of every cell** is "How can I help?"
-- **The universal mind choreographs everything** in billions of galaxies with elegant precision and unfaltering intelligence.
-- **Everything that is alive is an expression** of this divine intelligence.
-- **These laws operate through nature** — if you put your attention on them and practice the steps, you can manifest anything you desire.
+- **The universal mind choreographs all phenomena** in billions of galaxies with elegant precision and unfaltering intelligence.
+- **All living things are expressions** of this divine intelligence.
+- **These laws operate through nature** — if you put your attention on them and practice the steps, you can manifest what you desire.
 - **There is a natural sequence** for applying the laws in daily life:
   1. Pure Potentiality (silence, meditation, non-judgment, nature)
   2. Giving (activated by giving what you seek)
@@ -146,10 +146,10 @@
   7. Dharma (focus on true purpose)
 - **Life is eternal, but its expressions are ephemeral.** This existence is as transient as autumn clouds.
 - **We are travelers on a cosmic journey** — star-dust, swirling and dancing in infinity.
-- **When your creative expressions match the needs of others,** wealth spontaneously flows from the unmanifest into the manifest.
+- **When your creative expressions match the needs of others,** wealth naturally flows from the unmanifest into the manifest.
 - **Success is the ecstasy and exultation of your own spirit** — not temporary abundance, but permanent fulfillment.
-- **Meditation is the most useful way** of entering the domain of spirit, but simply shifting internal dialogue also works.
-- **Shifting from "What's in it for me?" to "How can I help?"** automatically moves you beyond ego into the domain of spirit.
+- **Meditation is a powerful way** of entering the domain of spirit, but simply shifting internal dialogue also works.
+- **Shifting from "What's in it for me?" to "How can I help?"** moves you beyond ego into the domain of spirit.
 
 ---
 

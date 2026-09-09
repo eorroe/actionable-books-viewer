@@ -7,7 +7,7 @@
 ## When to Follow Book Teachings
 
 - When seeking a spiritual framework for creating abundance, success, and fulfillment in career, relationships, health, finances, and personal growth
-- When feeling caught in cycles of stress, struggle, or fear-based patterns such as the need for approval, control, or external power
+- When feeling caught in cycles of stress, struggle, or fear-based patterns such as the need for approval, control, or ego-based power
 - When you want to shift from equating success solely with material wealth to embracing a broader definition of success including health, energy, enthusiasm, relationships, creative freedom, emotional stability, and peace of mind
 - When making important life decisions and need guidance rooted in inner wisdom rather than external validation
 - When facing adversity, setbacks, or karmic situations and want to transform them into opportunities for growth and service
@@ -19,7 +19,7 @@
 
 ### Lesson 1 (The Law of Pure Potentiality)
 
-The Law of Pure Potentiality is the first and foundational spiritual law — it states that your essential nature is pure consciousness, the field of all possibilities, infinite creativity, pure joy, pure knowledge, infinite silence, perfect balance, invincibility, simplicity, and bliss. This field, called the field of pure potentiality, is the unmanifest source of all creation, and it is your own Self — there is no separation between you and this field. By shifting from object-referral (basing your identity on external objects, approval, or control) to self-referral (using your own spirit as your internal reference point), you cultivate real power — a permanent power based on knowledge of the Self that magnetizes people, situations, and circumstances to support your desires, characterized by an absence of fear, no compulsion to control, and no struggle for approval or external power.
+The Law of Pure Potentiality is the first and foundational spiritual law — it states that your essential nature is pure consciousness, the field of all possibilities, infinite creativity, pure joy, pure knowledge, infinite silence, perfect balance, invincibility, simplicity, and bliss. This field, called the field of pure potentiality, is the unmanifest source of all creation, and it is your own Self — there is no separation between you and this field. By shifting from object-referral (basing your identity on external objects, approval, or control) to self-referral (using your own spirit as your internal reference point), you cultivate real power — a permanent power based on knowledge of the Self that magnetizes people, situations, and circumstances to support your desires, characterized by an absence of fear, no compulsion to control, and no struggle for approval or ego-based power.
 
 #### Examples
 
@@ -41,7 +41,7 @@ Understand that your true Self is pure potentiality — the field of all possibi
 
 #### Step 2: Shift from Object-Referral to Self-Referral
 
-Make your internal reference point your own spirit, not external objects, situations, or people. Stop seeking approval from others and anticipating responses. Release the need to control outcomes, other people's behavior, and external circumstances, and the need for external power. When you operate from self-referral, you become immune to criticism and free from fear-based patterns.
+Make your internal reference point your own spirit, not external objects, situations, or people. Stop seeking approval from others and anticipating responses. Release the need to control outcomes, other people's behavior, and external circumstances, and the need for ego-based power. When you operate from self-referral, you become immune to criticism and free from fear-based patterns.
 
 #### Step 3: Cultivate Self-Power Instead of Ego-Based Power
 
@@ -49,7 +49,7 @@ Self-power is permanent and based on knowledge of the Self. Ego-based power is t
 
 #### Step 4: Practice Silence Daily
 
-Set aside time each day to simply Be. Commit to silence for at least one hour each day, gradually extending to two hours or longer as comfortable. Withdraw from speech, television, radio, and reading during your daily practice periods. Experience extended silence (a full day, two consecutive days, or one full week) at least once per month. In silence, you access the field of pure potentiality.
+Set aside time each day to simply Be. Commit to silence for at least one hour each day, gradually extending to at least two hours as you are able. Withdraw from speech, television, radio, and reading during your daily practice periods. Experience extended silence (a full day, two consecutive days, or one full week) at least once per month. In silence, you access the field of pure potentiality.
 
 #### Step 5: Meditate Twice Daily
 
@@ -116,7 +116,7 @@ Carry stillness within you while engaging in dynamic activity. This balance enab
 
 ### Lesson 2 (The Law of Giving)
 
-The Law of Giving, also known as the Law of Dynamic Exchange, states that the universe operates through giving and receiving as different aspects of the same energy flow. Your body, mind, and energy are in constant exchange with the universe, and stopping this energy circulation is like stopping blood flow — it causes stagnation. Giving engenders receiving, and receiving engenders giving; what goes out tends to return over time. The intention behind giving is more important than the act itself — give with the intention to create happiness for both giver and receiver, and the return is greatest when giving is unconditional and comes from the heart. Affluence means "to flow in abundance" of all good things, and money is a symbol of life energy exchanged through service to the universe; withholding money from circulation causes stagnation back into your life, just as a river must keep flowing to stay alive and vital.
+The Law of Giving, also known as the Law of Dynamic Exchange, states that the universe operates through giving and receiving as different aspects of the same energy flow. Your body, mind, and energy are in constant exchange with the universe, and stopping this energy circulation is like stopping blood flow — doing so causes stagnation. Giving engenders receiving, and receiving engenders giving; what goes out tends to return. The intention behind giving is more important than the act itself — give with the intention to create happiness for both giver and receiver, and the return is greatest when giving is unconditional and comes from the heart. Affluence means "to flow in abundance," and money is a symbol of life energy exchanged through service to the universe; withholding money from circulation causes stagnation in your life, just as a river must keep flowing to stay alive and vital.
 
 #### Examples
 
@@ -134,15 +134,15 @@ Money, from the root "currere" meaning "to run" or "to flow," is a symbol of lif
 
 #### Step 1: Understand the Principle of Dynamic Exchange
 
-Recognize that the universe operates through giving and receiving as different aspects of energy flow. Your body, mind, and energy are in constant exchange with the universe. Stopping energy circulation is like stopping blood flow — it causes stagnation. This principle underlies every aspect of life, from cellular function to human relationships.
+Recognize that the universe operates through giving and receiving as different aspects of energy flow. Your body, mind, and energy are in constant exchange with the universe. Stopping energy circulation is like stopping blood flow — doing so causes stagnation. This principle underlies many aspects of life, from the smallest interactions to human relationships.
 
 #### Step 2: Recognize That Giving Engenders Receiving
 
-Every relationship is one of give and take. Giving engenders receiving, and receiving engenders giving. Resources or kindness you give tend to return to you over time; gracious receiving allows the other person to give, completing the cycle of exchange.
+Every relationship is one of give and take. Giving engenders receiving, and receiving engenders giving. Resources or kindness you give tend to return to you; gracious receiving allows the other person to give, completing the cycle of exchange.
 
 #### Step 3: Give Unconditionally and Joyfully
 
-The intention behind giving is more important than the act itself. Give with the intention to create happiness for both giver and receiver. The return from giving is greatest when it is unconditional and comes from the heart. If giving makes you feel you have lost something, the gift is not truly given — shift your intention by refocusing on the joy and benefit the receiver will experience from your gift.
+The intention behind giving is more important than the act itself. Give with the intention to create happiness for both giver and receiver. The return from giving is greatest when it is unconditional and comes from the heart. If giving makes you feel you have lost something, the gift is not freely given — shift your intention by refocusing on the joy and benefit the receiver will experience from your gift.
 
 #### Step 4: Practice the Principle of Reciprocity
 
@@ -150,7 +150,7 @@ If you want joy, give joy to others. If you want love, give love. If you want at
 
 #### Step 5: Make a Decision to Give Wherever You Go
 
-Decide that any time you come into contact with anyone, you will give them something. Gifts do not have to be material; they can be a flower, a compliment, or a prayer. The most powerful forms of giving are non-material: caring, attention, affection, appreciation, and love.
+Decide that whenever you meet someone, you will give them something. Gifts do not have to be material; they can be a flower, a compliment, or a prayer. The most powerful forms of giving are non-material: caring, attention, affection, appreciation, and love.
 
 #### Step 6: Practice Silent Giving and Blessing
 
@@ -178,11 +178,11 @@ Your true nature is one of pure potentiality and infinite possibilities. When al
 #### Keep In Mind
 
 - Giving and receiving are different aspects of the same energy flow in the universe
-- The more you give, the more you will receive
-- Anything of value in life only multiplies when it is given
+- Generous giving tends to bring positive returns
+- What you value tends to grow when shared
 - Money must keep flowing like a river; otherwise it stagnates
 - Your true nature is one of affluence and abundance
-- Silent giving (blessings, prayers) is extremely powerful
+- Silent giving (blessings, prayers) is very powerful
 - Even a single flower or compliment can be a meaningful gift
 - The universe operates through dynamic exchange at all levels
 
@@ -200,7 +200,7 @@ Your true nature is one of pure potentiality and infinite possibilities. When al
   **Solution:** Understand that stopping circulation causes stagnation; keep energy, money, and resources flowing freely
 
 - **Problem:** Expecting specific returns from giving
-  **Solution:** Give without attachment to the result; trust that generous giving tends to bring positive returns over time
+  **Solution:** Give without attachment to the result; trust that generous giving tends to bring positive returns
 
 - **Problem:** Thinking you need material wealth before you can give
   **Solution:** Remember that the most powerful gifts are non-material and cost nothing — attention, affection, appreciation, and love
@@ -212,13 +212,13 @@ Your true nature is one of pure potentiality and infinite possibilities. When al
 
 ### Lesson 3 (The Law of Karma)
 
-The Law of Karma (or Cause and Effect) is the third spiritual law of success — it states that every action generates a force of energy that returns to us in like kind; cause and effect are simultaneous. Karma means both action and the consequence of that action, implying conscious choice-making. You are not a collection of conditioned reflexes making predictable responses; you are an infinite choice-maker in every moment, with access to many choices each moment. The field of pure potentiality gives you access to many possibilities, and the choice that creates the most happiness for you and others is the right choice — this is spontaneous right action, the right action at the right moment. Your future is generated by the choices you make in every moment, and by becoming consciously aware of these choices, you take control of your karma and your destiny.
+The Law of Karma (or Cause and Effect) is the third spiritual law of success — it states that every action generates a force of energy that returns to us in like kind; cause and effect are simultaneous. Karma means both action and the consequence of that action, implying conscious choice-making. You are not a collection of conditioned reflexes making predictable responses; you are an infinite choice-maker in every moment, with access to multiple possibilities each moment. The field of pure potentiality gives you access to a wide range of possibilities, and the choice that creates the most happiness for you and others is the right choice — this is spontaneous right action, the right action at the right moment. Your future is generated by the choices you make in every moment, and by becoming consciously aware of these choices, you take control of your karma and your destiny.
 
 #### Examples
 
 ##### Example 1: The Two-Question Framework for Conscious Choice-Making
 
-Before every choice, apply the two-question framework: First, ask "What are the consequences of this choice that I'm making?" Second, ask "Will this choice bring happiness to me and to those around me?" If the answer is yes, proceed. If no, do not make that choice. This simple framework moves your decision-making from automatic habits into conscious awareness, creating evolutionary karma that generates happiness and success.
+Before every choice, apply the two-question framework: First, ask "What are the consequences of this choice that I'm making?" Second, ask "Will this choice bring happiness to me and to those around me?" If the answer is yes, proceed. If no, do not make that choice. This simple framework moves your decision-making from automatic habits into conscious awareness, creating positive karma that generates happiness and success.
 
 ##### Example 2: Using the Body's Sensation Mechanism as a Decision-Making Tool
 
@@ -226,7 +226,7 @@ At the moment you consciously make a choice, pay attention to your body. Ask you
 
 ##### Example 3: Handling Past Karma Through Transmutation
 
-When facing past karmic debts, accept that karmic patterns tend to balance out over time, reflecting the universe's principle of energetic reciprocity. As you work with past karmic situations, ask yourself: "What can I learn from this experience? Why is this happening and what is the message that the universe is sending me?" This transforms a karmic debt into an opportunity for growth. Use the body's sensation mechanism to determine the right response to past karmic situations.
+When facing past karmic debts, accept that karmic patterns tend to balance out, reflecting the universe's principle of energetic reciprocity. As you work with past karmic situations, ask yourself: "What can I learn from this experience? Why is this happening and what is the message that the universe is sending me?" This transforms a karmic debt into an opportunity for growth. Use the body's sensation mechanism to determine the right response to past karmic situations.
 
 #### Step 1: Become Consciously Aware of Your Choices in Every Moment
 
@@ -238,11 +238,11 @@ Before making any choice, ask: "What are the consequences of this choice that I'
 
 #### Step 3: Cultivate Spontaneous Right Action
 
-There is often one choice out of the many available each moment that creates the most happiness for you and others. Making that choice leads to spontaneous right action — the right action at the right moment. With consistent practice applying the two-question framework to every decision for at least 21 days, you will begin to make this choice more naturally and with less effort, nourishing yourself and everyone else influenced by that action.
+There is typically one choice out of the multiple possibilities available each moment that creates the most happiness for you and others. Making that choice leads to spontaneous right action — the right action at the right moment. With consistent practice applying the two-question framework to every decision for at least 21 days, you will begin to make this choice more naturally and with less effort, nourishing yourself and everyone else influenced by that action.
 
 #### Step 4: Use Your Body's Sensations as a Decision-Making Mechanism
 
-At the moment you consciously make a choice, pay attention to your body by noticing your breath, muscle tension, and gut feelings. Ask your body: "If I make this choice, what happens?" If your body sends a message of comfort — such as relaxed breathing, open posture, or a sense of lightness — that is the right choice. If your body sends a message of discomfort — such as tightness, tension, or a sinking feeling — it is not the appropriate choice. The response may be faint, but it is present and detectable with practice.
+At the moment you consciously make a choice, pay attention to your body by noticing your breath, muscle tension, and gut feelings. Ask your body: "If I make this choice, what happens?" If your body sends a message of comfort — such as relaxed breathing, open posture, or a sense of lightness — that is the right choice. If your body sends a message of discomfort — such as tightness, tension, or a sinking feeling — it is not the appropriate choice. The response may be subtle, but it is present and detectable with practice.
 
 #### Step 5: Consult Your Heart for Guidance
 
@@ -250,11 +250,11 @@ Consciously put your attention in the heart and ask your heart what to do. Wait 
 
 #### Step 6: Apply the Law of Karma to Create Affluence and Good Things
 
-Become consciously aware that your future is generated by the choices you make in every moment. Do this during every decision throughout each day to make full use of the Law of Karma. Consciously aware choice-making generates the flow of all good things — affluence, health, love, and success.
+Become consciously aware that your future is generated by the choices you make in every moment. Do this during every decision throughout each day to make full use of the Law of Karma. Consciously aware choice-making generates positive results — affluence, health, love, and success.
 
 #### Step 7: Handle Past Karma Through Three Approaches
 
-First, pay your karmic debts: accept that karmic patterns tend to balance out over time; there is a natural principle of energetic reciprocity. Second, transmute or transform your karma: as you work with past karmic situations, ask yourself "What can I learn from this experience? Why is this happening and what is the message that the universe is sending me?" Third, seek guidance from the heart: use the body's sensation mechanism to determine the right response to past karmic situations.
+First, pay your karmic debts: accept that karmic patterns tend to balance out; there is a natural principle of energetic reciprocity. Second, transmute or transform your karma: as you work with past karmic situations, ask yourself "What can I learn from this experience? Why is this happening and what is the message that the universe is sending me?" Third, seek guidance from the heart: use the body's sensation mechanism to determine the right response to past karmic situations.
 
 #### Best Practices
 
@@ -272,11 +272,11 @@ First, pay your karmic debts: accept that karmic patterns tend to balance out ov
 - Karma is not fatalism — it is the eternal assertion of human freedom; you are an infinite choice-maker in every moment
 - Thoughts, words, and deeds are the threads of the net you throw around yourself; every action creates energy that returns to you
 - The heart is not mushy or sentimental — it is intuitive, holistic, contextual, and relational with a precision that can surpass rational thought
-- Comfort and discomfort sensations may be faint, but they are present and reliable
+- Comfort and discomfort sensations may be subtle, but they are present and reliable
 - The heart discerns answers that the mind misses — it takes everything into account without a win-lose orientation
 - You can use the Law of Karma to create financial abundance and well-being — consciously aware choice-making generates the flow of positive results in health, relationships, and success
 - The more you bring choices into conscious awareness, the more spontaneously correct choices you will make — regular practice is essential
-- Karmic patterns tend to resolve over time — the universe maintains a natural balance through constant energy exchange
+- Karmic patterns tend to resolve — the universe maintains a natural balance through constant energy exchange
 - Transmuting karma transforms experience — asking what you can learn from an experience changes the nature of the karmic debt
 - Conscious choice-making is empowering — witnessing your choices takes the entire process from automatic habits into conscious awareness
 
@@ -356,7 +356,7 @@ Release the need for power, control, approval, and personal gain. When your refe
 
 #### Step 7: Free the Energy Consumed by Ego
 
-Recognize how much energy is spent upholding your sense of importance (personal importance). Redirect that freed energy toward creative and evolutionary pursuits. Criticism, approval-seeking, power struggles, and control efforts are the most draining activities you can engage in.
+Recognize how much energy is spent upholding your sense of importance (personal importance). Redirect that freed energy toward creative and evolutionary pursuits. Criticism, approval-seeking, power struggles, and control efforts are very draining activities you can engage in.
 
 #### Step 8: Practice Meditation to Transcend Karma
 
@@ -371,7 +371,7 @@ When facing a setback, ask: "What can I learn from this experience?" Then ask: "
 - ✅ Practice present-moment awareness by pausing for three seconds before each action to notice your motivation
 - ✅ Pause before acting and use the two-question framework with heart guidance
 - ✅ Let nature be your teacher — observe grass, fish, flowers, and birds accomplishing their purposes effortlessly for at least five minutes per day
-- ✅ Motivate every action with benefit to others rather than personal gain to prevent energy waste and allow energy to multiply
+- ✅ Motivate your actions with benefit to others rather than personal gain to prevent energy waste and allow energy to multiply
 - ✅ Make spirit your internal reference point to foster immunity to criticism and fearlessness
 - ✅ Release attachment to personal importance to free energy for genuine creation
 - ✅ Meditate for 30 minutes twice daily to help clear karmic patterns and move toward transcendence
@@ -380,13 +380,13 @@ When facing a setback, ask: "What can I learn from this experience?" Then ask: "
 #### Keep In Mind
 
 - Non-linear intelligence: Nature's intelligence is intuitive, holistic, and nourishing — not linear or purely rational; trust intuition over forced logic when aligned with spirit
-- Energy is a resource you can generate, store, and expend; your body is a device for controlling energy — manage it efficiently by aligning actions with the benefit of others rather than ego-based goals
-- Karma is not fate — it is software you can rewrite by becoming a conscious choice-maker, generating evolutionary karma that produces happiness and success
+- Energy is a resource you can generate, store, and expend; your body is a means of directing energy — manage it efficiently by aligning actions with the benefit of others rather than ego-based goals
+- Karma is not fate — it is a pattern you can rewrite by becoming a conscious choice-maker, generating positive karma that produces happiness and success
 - Effortless does not mean inactive — the principle of least effort is about aligned, inspired action, not laziness or inaction
 - What appears as a miracle is the Law of Least Effort operating without resistance — a natural expression of aligned action
 - Love is the binding force of nature — when actions are love-motivated, energy sustains itself and can be channeled into abundant wealth and creative expression
 - Transcending karma takes repeated practice — each 30-minute meditation session helps reduce karmic conditioning; persistence with twice-daily practice is required
-- The ego is the greatest energy consumer — criticism, approval-seeking, power struggles, and control efforts are the most draining activities you can engage in
+- The ego is the greatest energy consumer — criticism, approval-seeking, power struggles, and control efforts are very draining activities you can engage in
 - Your true nature is one of bliss and effortless manifestation — just as it is the nature of babies to be in bliss, it is human nature to manifest well-defined goals into physical form with aligned action
 
 #### Security & Safety Notes
@@ -429,7 +429,7 @@ The Law of Intention and Desire is the fifth spiritual law of success — it sta
 
 ##### Example 1: Making a List of Desires and Planting Them in the Field of Pure Potentiality
 
-Write down all your desires and goals, and carry this list with you at all times. Review it before meditating, before going to sleep at night, and when you wake up in the morning. Then release the list of desires — plant them in the fertile ground of pure potentiality without rigid attachment to how or when they will unfold. Keep desires private; do not share them with anyone unless they share your vision and are in a close, trusting relationship with you, as skeptical or critical opinions can weaken their manifestation power.
+Write down all your desires and goals, and carry this list with you at all times. Review it before meditating, before going to sleep at night, and when you wake up in the morning. Then release the list of desires — plant them in the fertile ground of pure potentiality without rigid attachment to how or when they will unfold. Keep desires private; do not share them with anyone unless they share your vision and are in a close, trusting relationship with shared values, as skeptical or critical opinions can weaken their manifestation power.
 
 ##### Example 2: Slipping Into the Gap and Introducing Intention at the Junction
 
@@ -465,7 +465,7 @@ Do not let yourself be influenced by the opinions and criticisms of the world. D
 
 #### Step 7: Keep Desires Private
 
-Do not share your desires with anyone unless they share the exact same desires and are closely bonded with you. Skeptical or critical external opinions can weaken the manifestation power of your desires. Protect your desires as sacred seeds planted in the field of pure potentiality.
+Do not share your desires with anyone unless they share the exact same desires and are closely bonded with you through shared values. Skeptical or critical external opinions can weaken the manifestation power of your desires. Protect your desires as sacred seeds planted in the field of pure potentiality.
 
 #### Step 8: Relinquish Attachment to the Outcome
 
@@ -486,7 +486,7 @@ Keep your attention on your intent. Obstacles that exist only in your mind will 
 - ✅ Combine intention with detachment for most effective action
 - ✅ Trust that the universe will handle the details once intention is released
 - ✅ Maintain a quiet mind through silence, meditation, and non-judgment
-- ✅ Recognize that your body and the universe share the same recycled elements and energy
+- ✅ Recognize that your body and the universe share the same essential energy
 - ✅ Stay flexible about how desires manifest while remaining clear about what you desire
 - ✅ Use obstacles as opportunities for creative redirection rather than focusing on them
 - ✅ Ground yourself in self-referral to build permanent, fear-free self-power
@@ -499,9 +499,9 @@ Keep your attention on your intent. Obstacles that exist only in your mind will 
 - Past and future are properties of consciousness — the past is memory, the future is anticipation, and only the present is real and eternal
 - Time is the movement of thought — both past and future are born in imagination
 - You are a unique expression within the field of universal consciousness — your body is not separate from the body of the universe
-- The universe is your extended body — at quantum mechanical levels there are no well-defined edges
+- The universe is your extended body — at the level of consciousness, there are no well-defined boundaries
 - Obstacles that exist only in your mind disintegrate; real obstacles become opportunities when you remain focused on intent
-- Intention is desire without attachment to the outcome — it is desire combined with strict adherence to all spiritual laws, especially detachment
+- Intention is desire without attachment to the outcome — it is desire combined with faithful adherence to all spiritual laws, especially detachment
 - Intention on the fertile ground of attention has infinite organizing power
 - Stillness is the first requirement for manifesting desires — in stillness lies your connection to the field of pure potentiality
 - Self-power is permanent; ego-based power is temporary — self-power draws people, situations, and circumstances to support your desires
@@ -547,7 +547,7 @@ Keep your attention on your intent. Obstacles that exist only in your mind will 
 
 ### Lesson 6 (The Law of Detachment)
 
-The Law of Detachment is the sixth spiritual law of success — it states that to acquire anything in the physical universe, you must relinquish your attachment to specific outcomes, timelines, and methods. Attachment is based on fear and insecurity; it is clinging to symbols of the Self rather than the Self itself. Detachment is based on the unquestioning belief in the power of your true Self; it is the freedom to create without attachment to outcome. Detachment does not mean disengagement or giving up what is important — it means engaged participation without clinging to outcomes. Wealth consciousness — the ability to attract what you need and desire with minimal unnecessary effort — is synonymous with detachment. Uncertainty is the fertile ground of pure creativity and freedom; your path to freedom lies through uncertainty, not around it. Attachment restricts your ability to receive — letting go of rigid attachment allows things to come to you naturally.
+The Law of Detachment is the sixth spiritual law of success — it states that to acquire anything in the physical universe, you must relinquish your attachment to specific outcomes, timelines, and methods. Attachment is based on fear and insecurity; it is clinging to symbols of the Self rather than the Self itself. Detachment is based on the unquestioning belief in the power of your true Self; it is the freedom to create without attachment to outcome. Detachment does not mean disengagement or giving up what is important — it means engaged participation without clinging to outcomes. Wealth consciousness — the ability to attract what you need and desire without unnecessary effort — is synonymous with detachment. Uncertainty is the fertile ground of pure creativity and freedom; your path to freedom lies through uncertainty, not around it. Attachment restricts your ability to receive — letting go of rigid attachment allows things to come to you naturally.
 
 #### Examples
 
@@ -557,11 +557,11 @@ Commit to detachment today by allowing yourself and those around you the freedom
 
 ##### Example 2: Embracing Uncertainty as the Path to Freedom
 
-Factor uncertainty into your experience as a necessary component. Accept that uncertainty is your path to freedom. Trust that solutions will often emerge naturally from difficulty, confusion, disorder, and chaos. Allow uncertainty to deepen over time, and you will feel more secure. Seek security through the wisdom of uncertainty, not through control of outcomes. Every problem in your life is the seed of an opportunity for personal growth, increased wisdom, or service to others.
+Factor uncertainty into your experience as a necessary component. Accept that uncertainty is your path to freedom. Trust that solutions tend to emerge naturally from difficulty, confusion, disorder, and chaos. Allow uncertainty to deepen, and you will feel more secure. Seek security through the wisdom of uncertainty, not through control of outcomes. Each problem in your life can be a seed of an opportunity for personal growth, increased wisdom, or service to others.
 
 ##### Example 3: Stepping Into the Field of All Possibilities
 
-Step into the field of all possibilities. Anticipate the possibilities that emerge when remaining open to many choices. When stepping into this field, expect to experience increased creativity, unexpected opportunities, and a sense of purpose and connection in your life. Celebrate the joy and fulfillment of your own spirit. Within this field lie all possibilities, and any outcome is but one expression of that potential.
+Step into the field of all possibilities. Anticipate the possibilities that emerge when remaining open to multiple possibilities. When stepping into this field, expect to experience increased creativity, unexpected opportunities, and a sense of purpose and connection in your life. Celebrate the joy and fulfillment of your own spirit. Within this field lie all possibilities, and any outcome is but one expression of that potential.
 
 #### Step 1: Commit to Detachment Today
 
@@ -569,11 +569,11 @@ Make a conscious decision to detach. Allow yourself and those around you the fre
 
 #### Step 2: Embrace Uncertainty as an Essential Ingredient
 
-Factor uncertainty into your experience as a necessary component. Accept that uncertainty is your path to freedom. Recognize that uncertainty is a fact of life and stop trying to control every detail. Trust that solutions will often emerge naturally from problem, confusion, disorder, and chaos. Allow uncertainty to deepen over time, and you will feel more secure. Seek security through the wisdom of uncertainty.
+Factor uncertainty into your experience as a necessary component. Accept that uncertainty is your path to freedom. Recognize that uncertainty is a fact of life and stop trying to control every detail. Trust that solutions tend to emerge naturally from problems, confusion, disorder, and chaos. Allow uncertainty to deepen, and you will feel more secure. Seek security through the wisdom of uncertainty.
 
 #### Step 3: Step Into the Field of All Possibilities
 
-Anticipate the possibilities that emerge when remaining open to many choices. When stepping into the field of all possibilities, expect to experience increased creativity, unexpected opportunities, and a sense of purpose and connection in your life. Celebrate the joy and fulfillment of your own spirit. Remember that any outcome is but one expression of the infinite field of energy — within this field lie all possibilities. When feeling attached, remind yourself of the many alternatives available.
+Anticipate the possibilities that emerge when remaining open to multiple possibilities. When stepping into the field of all possibilities, expect to experience increased creativity, unexpected opportunities, and a sense of purpose and connection in your life. Celebrate the joy and fulfillment of your own spirit. Remember that any outcome is but one expression of the infinite field of energy — within this field lie all possibilities. When feeling attached, remind yourself of the range of available alternatives.
 
 #### Best Practices
 
@@ -590,18 +590,18 @@ Anticipate the possibilities that emerge when remaining open to many choices. Wh
 
 #### Keep In Mind
 
-- Detachment and engagement are not opposites — the more engaged you become, the more detached you must be
+- Detachment and engagement are not opposites — deeper engagement calls for deeper detachment
 - Holding on creates restriction — attachment restricts your ability to receive; letting go opens space for what you desire to come to you naturally
 - Letting go creates openness — releasing attachment to specific outcomes allows possibilities to emerge
 - Uncertainty is essential — your path to freedom lies through uncertainty, not around it
 - Freedom is the goal — detachment is synonymous with wealth consciousness and freedom to create
-- True wealth is internal — true wealth consciousness is the ability to attract what you need and desire with minimal unnecessary effort
+- True wealth is internal — true wealth consciousness is the ability to attract what you need and desire without unnecessary effort
 - The universe supports detachment — when you relinquish attachment, the universe responds to your intention
 - Detachment creates space for miracles — by not obsessing over outcomes, you allow unexpected grace and success to enter your life
 - Anxiety blocks manifestation — over-attachment to specific outcomes generates negative energy that interferes with natural creation flow
 - Practice makes permanent — these steps are not difficult but require consistent practice to master
-- Yoga as practice — physical yoga postures (asana) can be interpreted as the seat of awareness, helping develop presence of mind through detached awareness
-- You are co-creator — combining clear intent with surrender activates cosmic support for your dreams
+- Yoga as practice — physical yoga postures (asana) serve as the seat of awareness, helping develop presence of mind through detached awareness
+- You act as a co-creator with the universe — combining clear intent with surrender activates cosmic support for your dreams
 - Outcomes may differ from expectations — detachment allows you to recognize and seize opportunities that come in forms you did not anticipate
 
 #### Security & Safety Notes
@@ -627,7 +627,7 @@ Anticipate the possibilities that emerge when remaining open to many choices. Wh
   **Solution:** Relinquish attachment to the known; the past creates stale repetition — step into the field of all possibilities
 
 - **Problem:** Forcing solutions on problems, creating new problems
-  **Solution:** Trust that solutions will often emerge naturally from chaos when you remain detached; do not force specific outcomes
+  **Solution:** Trust that solutions tend to emerge naturally from chaos when you remain detached; do not force specific outcomes
 
 - **Problem:** Needing security through control, attachment to specific outcomes creating anxiety
   **Solution:** True security comes from uncertainty — seek freedom through the wisdom of uncertainty, not control
@@ -638,8 +638,8 @@ Anticipate the possibilities that emerge when remaining open to many choices. Wh
 - **Problem:** Rigidly imposing ideas on others, expecting people and situations to conform
   **Solution:** Allow yourself and others the freedom to be as they are; this creates space for spontaneous harmony
 
-- **Problem:** Obsessing over details, trying to control every aspect of life
-  **Solution:** Set clear direction but remain open to many possibilities; obsession over details indicates attachment and leads to negative emotions when plans fail
+- **Problem:** Obsessing over details, trying to control all aspects of life
+  **Solution:** Set clear direction but remain open to multiple possibilities; obsession over details indicates attachment and leads to negative emotions when plans fail
 
 ---
 
@@ -651,7 +651,7 @@ The Law of Dharma (or Purpose in Life) is the seventh and culminating spiritual 
 
 ##### Example 1: Discovering and Expressing Your Unique Talent
 
-Your unique talent has a distinct expression; no one else on the planet expresses it in exactly the same way. There is one activity, and one way of performing it, that expresses your greatest joy and skill. When expressing your unique talent, you lose track of time and enter timeless awareness. Make a list of your unique talents and abilities, and list specific activities, skills, and subjects you love to engage with while expressing those talents. When you are expressing your unique talents in service of humanity, you lose track of time and create abundance spontaneously.
+Your unique talent has a distinct expression; no one else on the planet expresses it in exactly the same way. There is a distinctive activity, and a distinctive way of performing it, that expresses your greatest joy and skill. When expressing your unique talent, you lose track of time and enter timeless awareness. Make a list of your unique talents and abilities, and list specific activities, skills, and subjects you love to engage with while expressing those talents. When you are expressing your unique talents in service of humanity, you lose track of time and create abundance spontaneously.
 
 ##### Example 2: Shifting Internal Dialogue from Ego to Spirit
 
@@ -671,7 +671,7 @@ You are not a human being having occasional spiritual experiences — you are a 
 
 #### Step 3: Discover Your Unique Talent
 
-Your unique talent has a distinct expression; no one else on the planet expresses it in exactly the same way. There is one activity, and one way of performing it, that expresses your greatest joy and skill. Make a list of your unique talents and abilities. List specific activities, skills, and subjects you love to engage with while expressing those talents. When expressing your unique talent, you lose track of time and enter timeless awareness.
+Your unique talent has a distinct expression; no one else on the planet expresses it in exactly the same way. There is a distinctive activity, and a distinctive way of performing it, that expresses your greatest joy and skill. Make a list of your unique talents and abilities. List specific activities, skills, and subjects you love to engage with while expressing those talents. When expressing your unique talent, you lose track of time and enter timeless awareness.
 
 #### Step 4: Combine Unique Talent with Service to Humanity
 
@@ -687,11 +687,11 @@ List all your unique talents and abilities. List specific activities, skills, an
 
 #### Step 7: Ask Yourself Daily Service Questions
 
-Ask yourself: "How can I help?" Ask yourself: "How can I help all those that I come into contact with?" Answer these questions and put the answers into practice. Use your unique talents to serve the needs of your fellow human beings. This daily practice shifts your internal dialogue from ego to spirit over time.
+Ask yourself: "How can I help?" Ask yourself: "How can I help all those that I come into contact with?" Answer these questions and put the answers into practice. Use your unique talents to serve the needs of your fellow human beings. This daily practice shifts your internal dialogue from ego to spirit.
 
 #### Step 8: Test If You Are in Dharma
 
-Ask: "If money was no concern and I had all the time and money in the world, what would I do?" If you would continue your current work even without financial pressure, it reflects your dharma. If you would not, consider how to align your work more closely with your purpose. Being in dharma means you have passion for what you do and are expressing your unique talents. Also ask: "How am I best suited to serve humanity?" If your creative expressions match the needs of others, financial and personal rewards follow consistently.
+Ask: "If money was no concern and I had all the time and money in the world, what would I do?" If you would continue your current work even without financial pressure, it reflects your dharma. If you would not, consider how to align your work more closely with your purpose. Being in dharma means you have passion for what you do and are expressing your unique talents. Also ask: "How am I best suited to serve humanity?" If your creative expressions match the needs of others, financial and personal rewards typically follow.
 
 #### Step 9: Understand the Natural Sequence of the Laws
 
@@ -699,7 +699,7 @@ The Law of Pure Potentiality is activated by the Law of Giving. The Law of Givin
 
 #### Step 10: Observe How Cells Express the Seven Spiritual Laws
 
-Every cell in your body expresses these laws perfectly. Cells discover their source (higher self), serve fellow cells, and express unique talents. The internal dialogue of every cell is: "How can I help?" Heart cells help immune cells, immune cells help stomach and lung cells, brain cells help all others. Use this as a model for how to live in alignment with the laws.
+Cells throughout your body reflect these principles. Cells discover their source (higher self), serve fellow cells, and express unique talents. The internal dialogue of these cells is: "How can I help?" Heart cells help immune cells, immune cells help stomach and lung cells, brain cells help all others. Use this as a model for how to live in alignment with the laws.
 
 #### Best Practices
 
@@ -723,13 +723,13 @@ Every cell in your body expresses these laws perfectly. Cells discover their sou
 - "How can I help?" reflects spirit-based thinking; "What's in it for me?" reflects ego-based thinking
 - When your creative expressions match the needs of others, abundance tends to follow as a natural result
 - Cells in your body naturally follow patterns of giving, receiving, and service that reflect these principles — you are the microcosm of universal intelligence
-- The universal mind choreographs everything with elegant precision and intelligence — from atoms to galaxies
+- The universe's intelligence choreographs everything with elegant precision and intelligence — from atoms to galaxies
 - True success is the deep satisfaction and fulfillment of your own spirit — not temporary abundance, but permanent well-being
 - The natural sequence of the laws helps you remember and apply them daily: Pure Potentiality → Giving → Karma → Least Effort → Intention & Desire → Detachment → Dharma
 - Life continues beyond individual forms, while each particular life is temporary — individual existence is transient, like clouds passing across the sky — temporary forms within an eternal process
-- You are part of an ongoing cosmic process — made of the same cosmic elements as stars, evolving through time and experience
-- Meditation is the most useful way of entering the domain of spirit, but simply shifting internal dialogue also works
-- Shifting from "What's in it for me?" to "How can I help?" automatically moves you beyond ego into the domain of spirit
+- You are part of an ongoing cosmic process — made of the same fundamental materials as stars, evolving through time and experience
+- Meditation is a powerful way of entering the domain of spirit, but simply shifting internal dialogue also works
+- Shifting from "What's in it for me?" to "How can I help?" helps move you beyond ego into the domain of spirit
 
 #### Security & Safety Notes
 
@@ -763,7 +763,7 @@ Every cell in your body expresses these laws perfectly. Cells discover their sou
 |Term|Definition|Index Pages|
 |----|----------|-----------|
 | Action | Actions generate consequences that tend to return in similar form; both the act and its consequence | 19-25 |
-| Affluence | The abundant flow of all good things to you; from "affluere" meaning "to flow to"; your birthright as a being of pure potentiality | 1-6, 13-18 |
+| Affluence | The abundant flow of positive results to you; from "affluere" meaning "to flow to"; your birthright as a being of pure potentiality | 1-6, 13-18 |
 | Attention | One of the two qualities of consciousness; energizes whatever it rests upon; required for intention to manifest | 31-37 |
 | Best Practices | Established guidelines for applying spiritual principles effectively and consistently | All |
 | Body Sensation Mechanism | The physical response (comfort or discomfort) in the body that indicates whether a choice is right or not | 19-25 |
@@ -821,4 +821,4 @@ Every cell in your body expresses these laws perfectly. Cells discover their sou
 | Uncertainty | The fertile ground of pure creativity and freedom; your path to freedom; the essential ingredient of experience and natural solution | 37-43 |
 | Unique Talent | A talent that is unique in its expression; an activity or skill that you can perform with exceptional skill and joy, distinct from others' expressions; when expressed, you lose track of time | 38-44 |
 | Unmanifest | The invisible, unknown source that transforms into the visible, known; the realm of pure potentiality before manifestation | 1-6 |
-| Wealth Consciousness | The ability to attract what you need and desire with minimal unnecessary effort; synonymous with detachment and freedom to create | 37-43 |
+| Wealth Consciousness | The ability to attract what you need and desire without unnecessary effort; synonymous with detachment and freedom to create | 37-43 |

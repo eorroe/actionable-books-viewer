@@ -18,8 +18,8 @@
    - Inside you is a god or goddess in embryo that wants to be born.
 
 3. **Discover your unique talent.**
-   - You have a talent that is unique in its expression; no one else on the planet has it.
-   - There is one thing you can do, and one way of doing it, that is better than anyone else.
+   - You have a talent that is unique in its expression; no one else on Earth has it.
+   - There is one thing you can do, and one way of doing it, that is better than anyone else on Earth.
    - When expressing your unique talent, you lose track of time and enter timeless awareness.
 
 4. **Combine unique talent with service to humanity.**
@@ -62,10 +62,10 @@
    - Detachment and understanding lead to the Law of Dharma.
 
 10. **Observe how cells express the Seven Spiritual Laws.**
-    - Every cell in your body expresses these laws perfectly.
+     - Every cell in your body expresses these laws.
     - Cells discover their source (higher self), serve fellow cells, and express unique talents.
     - The internal dialogue of every cell is: "How can I help?"
-    - Heart cells help immune cells, immune cells help stomach and lung cells, brain cells help all others.
+     - Heart cells help immune cells, immune cells help stomach and lung cells, brain cells help all other cell types.
 
 ---
 
@@ -74,7 +74,7 @@
 |Term|Definition|Index Pages|
 |----|----------|-----------|
 |Dharma|Sanskrit word meaning "purpose in life"; the law of fulfilling your unique purpose|38-44|
-|Unique Talent|A talent that is unique in its expression; something you can do better than anyone else on the planet|39-40|
+|Unique Talent|A talent that is unique in its expression; something you can do better than anyone else on Earth|39-40|
 |Three Components of Dharma|1) Discover your true Self, 2) Express your unique talents, 3) Serve humanity|39-40|
 |Spiritual Being|Your true nature; not a human having spiritual experiences, but a spirit having human experiences|39|
 |God/Goddess in Embryo|The divine essence within you that wants to be born and expressed|39|
@@ -115,7 +115,7 @@
   **Solution:** Consciously shift your internal dialogue to service-oriented questions
 
 - **Problem:** Not knowing your unique talent
-  **Solution:** Make a list of things you love to do and what you do better than anyone else
+  **Solution:** Make a list of things you love to do and what you do better than anyone else on Earth
 
 - **Problem:** Being in the wrong career or path
   **Solution:** Test with the "money no concern" question; if you wouldn't still do it, you're not in dharma
@@ -143,7 +143,7 @@
 - Dharma has three components: discover Self, express unique talent, serve humanity
 - "How can I help?" is the internal dialogue of the spirit; "What's in it for me?" is the ego's dialogue
 - When your creative expression matches the needs of others, wealth flows spontaneously
-- Every cell in your body expresses the Seven Spiritual Laws perfectly
+- Every cell in your body expresses the Seven Spiritual Laws
 - The universal mind choreographs everything with elegant precision and intelligence
 - True success is the ecstasy and exultation of your own spirit
 - The natural sequence of the laws helps you remember and apply them daily

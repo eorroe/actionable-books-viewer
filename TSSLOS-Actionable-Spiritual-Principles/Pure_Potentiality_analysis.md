@@ -25,9 +25,9 @@
 
 4. **Practice silence daily.**
    - Set aside time each day to simply Be.
-   - Commit to silence for a period each day (one hour, two hours, or longer).
-   - Withdraw from speech, television, radio, and reading periodically.
-   - Experience extended silence (full day, two days, or a week) occasionally.
+   - Commit to silence for a period each day (one hour or two hours).
+   - Withdraw from speech, television, radio, and reading.
+   - Experience extended silence (full day or two days).
 
 5. **Meditate twice daily.**
    - Meditate at least thirty minutes in the morning and thirty minutes in the evening.
@@ -41,7 +41,7 @@
    - Judgment creates turbulence in your internal dialogue and constricts energy flow.
 
 7. **Spend time in nature.**
-   - Regularly commune with nature to sense the harmonious interaction of all elements.
+   - Commune with nature to sense the harmonious interaction of all elements.
    - Sit silently and watch a sunset, listen to the ocean, or smell a flower.
    - Connection with nature's intelligence helps you access the field of pure potentiality.
 
@@ -55,7 +55,7 @@
 9. **Access your true essence.**
    - Get in touch with the innermost essence of your being beyond the ego.
    - Understand that all relationships reflect your relationship with yourself.
-   - Only intimacy with the Self brings true healing from guilt, fear, and insecurity.
+   - Within the framework of this law, intimacy with the Self brings true healing from guilt, fear, and insecurity.
 
 ---
 
@@ -78,9 +78,9 @@
 ## 3. Best Practices
 
 - ✅ Meditate at least 30 minutes in the morning and 30 minutes in the evening
-- ✅ Practice silence daily, gradually extending the duration
+- ✅ Practice silence daily
 - ✅ Begin each day with the non-judgment statement
-- ✅ Spend time in nature regularly to connect with nature's intelligence
+- ✅ Spend time in nature to connect with nature's intelligence
 - ✅ Shift your internal reference point from object-referral to self-referral
 - ✅ Carry stillness within you during all activities
 - ✅ Recognize that self-power is true power and is permanent
@@ -102,10 +102,10 @@
 - **Problem:** Relying on ego-based power from titles, jobs, or money
   **Solution:** Cultivate self-power through knowledge of your true Self
 
-- **Problem:** Trying to force stillness or silence too quickly
-  **Solution:** Start with short periods and gradually extend; expect initial turbulence
+- **Problem:** Trying to force stillness or silence
+  **Solution:** Begin the practice and expect initial turbulence
 
-- **Problem:** Forgetting to commune with nature regularly
+- **Problem:** Forgetting to commune with nature
   **Solution:** Schedule daily nature time and make it a non-negotiable practice
 
 ---
@@ -121,8 +121,8 @@
 
 - The field of pure potentiality is your own Self; there is no separation between you and this field
 - Self-power draws people and circumstances to you through the laws of nature
-- Stillness is the first requirement for manifesting desires
-- The combination of stillness and movement enables unlimited creativity
+- Stillness is a requirement for manifesting desires
+- The combination of stillness and movement enables creativity
 - Your true essence is fearless, free, and immune to criticism
 - All relationships are reflections of your relationship with yourself
 - The universe operates through dynamic exchange; giving and receiving are aspects of energy flow
