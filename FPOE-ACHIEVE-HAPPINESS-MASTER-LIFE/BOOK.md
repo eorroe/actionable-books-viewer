@@ -18,27 +18,27 @@ This book synthesizes decades of research on the positive aspects of human exper
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 J.S. Mill: "Ask yourself whether you are happy, and you cease to be so."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Viktor Frankl: "Don't aim at success—the more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue...as the unintended side-effect of one's personal dedication to a course greater than oneself."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Stop actively trying to "find" or "pursue" happiness as a direct goal
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Shift focus to being fully involved with every detail of your life, whether good or bad
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Treat happiness as an unintended side-effect of dedication to a course greater than yourself
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Cultivate inner experience through private mental discipline rather than external achievement
 
@@ -50,11 +50,11 @@ Cultivate inner experience through private mental discipline rather than externa
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -67,31 +67,31 @@ Cultivate inner experience through private mental discipline rather than externa
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 A sailor holding a tight course feeling the wind, boat, and sea humming in harmony
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A painter watching colors set up a magnetic tension and a new living form taking shape
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Recognize that all experience—joy or pain, interest or boredom—is represented in the mind as information
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Learn to control this information rather than being buffeted by anonymous forces
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Invest attention (psychic energy) in realistic, self-chosen goals
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Concentrate on the task at hand, momentarily forgetting everything else
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Develop the ability to provide rewards to yourself rather than depending on external validation
 
@@ -103,11 +103,11 @@ Develop the ability to provide rewards to yourself rather than depending on exte
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -120,35 +120,35 @@ Develop the ability to provide rewards to yourself rather than depending on exte
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Turkish sultans promising conscripts the rewards of raping women; modern posters promising young men they will "see the world" if they join the army
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 The pleasure of eating ensuring the body gets nourishment; the pleasure of sex ensuring genes reproduce
 
-#### Step 1: [Action]
+#### Step 1: 
 
-Become aware that seeking pleasure is often a reflex response built into genes for species preservation, not personal advantage
+Become aware that seeking pleasure is a reflex response built into genes for species preservation, not personal advantage
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Recognize that social systems exploit biological desires (sexuality, aggression, security, change) to control behavior
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Question whether your desires are truly yours or implanted by advertisers, politicians, churches, and corporations
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Do not accept every instinct or drive as "the true voice of nature" simply because it feels good
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Develop the ability to say no to genetically programmed impulses when they conflict with higher goals
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Create your own set of goals in addition to, or instead of, those others use to bribe you
 
@@ -160,11 +160,11 @@ Create your own set of goals in addition to, or instead of, those others use to 
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -177,31 +177,31 @@ Create your own set of goals in addition to, or instead of, those others use to 
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 The person who learns to enjoy the process of living no longer needs to end each boring day with hope that tomorrow something good will happen
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Instead of forever straining for the prize dangled just out of reach, one begins to harvest the genuine rewards of living
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Commit to becoming independent of societal rewards and learn to substitute rewards under your own power
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Learn to enjoy and find meaning in the ongoing stream of experience, in the process of living itself
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Do not abandon every goal endorsed by society, but develop a set of your own goals alongside or instead of them
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Focus on the process rather than the future payoff
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Remember that power returns to the person when rewards are no longer relegated to outside forces
 
@@ -213,16 +213,16 @@ Remember that power returns to the person when rewards are no longer relegated t
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Living entirely by social rewards (money, power, status, possessions)  
-  **Solution:** Gradually substitute internally-generated rewards; this is both easier (within your hands) and more difficult (requires discipline and perseverance rare in any era)
+  **Solution:** Gradually substitute internally-generated rewards; this is both easier (within your hands) and more difficult (requires discipline and perseverance )
 - **Problem:** Being a puppet jerked about by social controls  
   **Solution:** Accept that you must work for external goals to survive, but do not let them turn you into someone who only responds to outside inducements
 
@@ -230,31 +230,31 @@ Remember that power returns to the person when rewards are no longer relegated t
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
-The research team's method: asking people to wear an electronic paging device for a week and write down how they feel and what they are thinking about whenever the pager signals (activated about eight times each day at random intervals)
+The research team's method: asking people to wear an electronic paging device for a week and write down how they feel and what they are thinking about whenever the pager signals (activated eight times each day at random intervals)
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Over a hundred thousand such cross-sections of experience have been collected worldwide
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Track your subjective experience at random intervals throughout the day
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Record how you feel and what you are thinking about whenever prompted
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Review the data to identify when you feel most engaged and when you feel bored or anxious
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Use these patterns to structure your life to increase optimal experiences
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Recognize that optimal experiences are reported similarly across cultures, ages, and socioeconomic conditions
 
@@ -266,11 +266,11 @@ Recognize that optimal experiences are reported similarly across cultures, ages,
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -283,35 +283,35 @@ Recognize that optimal experiences are reported similarly across cultures, ages,
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 The universe is "simply indifferent"—a meteorite obeying all laws of physics is still a "damn nuisance" to New York City
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Cyrus the Great had ten thousand cooks; today every household can duplicate feasts of past emperors, but this does not make us more satisfied
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Accept that frustration is deeply woven into the fabric of life; the universe is indifferent to human needs
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Recognize the paradox of rising expectations: as soon as needs are met, new desires arise, and the sense of well-being recedes
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Do not expect external improvements (richer country, better technology) to automatically provide happiness
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Take personal responsibility for untangling internal roots of discontent rather than blaming external conditions
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Do not rely solely on cultural shields (religion, patriotism, ethnic traditions) that may no longer provide spiritual sustenance
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Take things in hand personally; use psychology as a tool to improve future experience regardless of past conditioning
 
@@ -323,52 +323,52 @@ Take things in hand personally; use psychology as a tool to improve future exper
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Seeking happiness through material progress (bigger cars, more power, glamorous lifestyle)  
   **Solution:** Recognize that after each success it becomes clearer that money, power, status, and possessions do not, by themselves, add one iota to the quality of life
 - **Problem:** Relying on piecemeal solutions (diets, power lunches, assertiveness training, collections, hobbies, drugs)  
-  **Solution:** These provide only temporary escape; few claim to have ever found an answer that way
+  **Solution:** These provide only temporary escape; claim to have ever found an answer that way
 
 ### Lesson 7: Cultivate Autotelic Experiences Through Voluntary Struggle
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 A child placing with trembling fingers the last block on a tower higher than any she has built
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A swimmer trying to beat his own record
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Engage in activities where skills match opportunities for action
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Pursue goals that require stretching your abilities
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Accept that getting control of life is never easy and can be painful
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Invest attention fully in the task at hand
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Find opportunities to expand yourself in thousands of daily challenges
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Recognize that these experiences build toward a sense of mastery and participation in determining the content of life
 
@@ -380,16 +380,16 @@ Recognize that these experiences build toward a sense of mastery and participati
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Seeking only passive, relaxing experiences  
-  **Solution:** Understand that while relaxing times can be enjoyable, the best moments usually involve voluntary struggle toward something difficult
+  **Solution:** Understand that while relaxing times can be enjoyable, the best moments involve voluntary struggle toward something difficult
 - **Problem:** Avoiding challenges because they might be painful or uncomfortable  
   **Solution:** Accept that in the long run optimal experiences—even when painful at the time—add up to the closest thing to happiness we can imagine
 
@@ -397,35 +397,35 @@ Recognize that these experiences build toward a sense of mastery and participati
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Yoga, Taoism, Zen Buddhism—all seek to free consciousness from deterministic influences, but when transplanted to contemporary California, they lose some of their original power
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Freud's quest to liberate the ego was turned into a staid ideology and rigidly regulated profession while he was still alive
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Understand that controlling consciousness requires commitment of emotions and will, not just intellectual knowledge
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Practice consistently, like athletes or musicians who must keep practicing what they know in theory
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Reformulate wisdom for your own cultural context and time period
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Do not rely on rote formulas or "how-to" books that promise happiness
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Learn from historical examples (Stoics, yogis, Zen masters, Christian monastic orders, psychoanalysis) but extract essential principles rather than ritual forms
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Commit to intellectual effort and hard reflection on your own experience
 
@@ -437,11 +437,11 @@ Commit to intellectual effort and hard reflection on your own experience
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -454,35 +454,35 @@ Commit to intellectual effort and hard reflection on your own experience
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 "If we are able to control this information, we can decide what our lives will be like"
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 "The optimal state of inner experience is one in which there is order in consciousness"
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Choose realistic, concrete goals to invest your attention in
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Concentrate attention on the task at hand
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Momentarily forget everything else not relevant to the current goal
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Match challenges to your current skill level
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Use the struggle to overcome challenges as the source of enjoyment
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Stretch your skills by reaching toward higher challenges to become an increasingly complex being
 
@@ -494,15 +494,15 @@ Stretch your skills by reaching toward higher challenges to become an increasing
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
-- **Problem:** Letting attention scatter across too many conflicting goals  
+- **Problem:** Letting attention scatter across conflicting goals  
   **Solution:** Invest psychic energy in a small number of realistic, consciously chosen goals
 - **Problem:** Having goals that are entirely socially imposed rather than personally chosen  
   **Solution:** Develop a set of your own goals rather than only pursuing those others use to bribe you
@@ -511,31 +511,31 @@ Stretch your skills by reaching toward higher challenges to become an increasing
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 "We are always getting to live, but never living" (Ralph Waldo Emerson)
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 The children's story: always bread and jam tomorrow, never bread and jam today
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Practice finding enjoyment in whatever you are doing right now, not just in future outcomes
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Shift attention from what you might obtain in the future to what you are experiencing now
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Transform routine activities into opportunities for engagement
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Do not postpone gratification indefinitely; harvest genuine rewards of living in the present
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Replace socially-conditioned rewards with internally-generated ones
 
@@ -547,48 +547,48 @@ Replace socially-conditioned rewards with internally-generated ones
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Living in perpetual postponement—always working for future rewards (promotion, retirement) while being miserable now  
   **Solution:** Learn to find rewards in the events of each moment; power returns when rewards are no longer relegated to outside forces
-- **Problem:** Believing that you must first achieve certain conditions before you can be happy  
+- **Problem:** Believing that you must first achieve conditions before you can be happy  
   **Solution:** Understand that happiness is not contingent on future success; it can be cultivated in the present through attention control
 
 ### Lesson 11: Apply Historical Wisdom While Rejecting Institutionalized Ritual
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Aristotle's notion of "virtuous activity of the soul" prefigures the argument of this book
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Stoic philosophers in classical antiquity recognized that control of consciousness determines quality of life
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Study the insights of past attempts to increase happiness (Stoics, yogis, Zen masters, Christian mystics, Freud)
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Distinguish essential principles from accidental cultural components
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Do not accept systems wholesale when transplanted to a different time and place
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Reformulate what it takes to establish autonomy in consciousness for your own epoch
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Avoid systems that have become rigid ideologies or regulated professions
 
@@ -600,11 +600,11 @@ Avoid systems that have become rigid ideologies or regulated professions
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -617,27 +617,27 @@ Avoid systems that have become rigid ideologies or regulated professions
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Historical cultures (Confucian China, Sparta, Victorian England) held people responsible for mastering thoughts and feelings; those who did lived happier lives.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A person can make themselves happy or miserable "regardless of what is actually happening 'outside,' just by changing the contents of consciousness."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Recognize that consciousness is not mystical—it is a biological process of the nervous system.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Understand that consciousness can override genetic programming through intentional choice.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Accept responsibility for what enters your awareness; do not blame external events for your experience.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Actively curate your conscious content rather than passively absorbing whatever stimuli surround you.
 
@@ -649,11 +649,11 @@ Actively curate your conscious content rather than passively absorbing whatever 
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -666,31 +666,31 @@ Actively curate your conscious content rather than passively absorbing whatever 
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 When driving, passing hundreds of cars without awareness until one swerves or moves unusually slowly captures attention.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 To understand what three people are saying simultaneously theoretically requires keeping every other thought or sensation out of consciousness.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Acknowledge that attention is finite and functions like energy—without it, no mental work can be done.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Identify how you currently allocate attention throughout the day.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Practice focusing attention intentionally on chosen goals, like a beam of energy.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Eliminate distractions that compete for limited attentional capacity.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Avoid dissipating attention in random, desultory movements.
 
@@ -703,11 +703,11 @@ Avoid dissipating attention in random, desultory movements.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -720,35 +720,35 @@ Avoid dissipating attention in random, desultory movements.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 E., a European scholar and business leader, never wastes a minute. Her chauffeur visits local art galleries during her meetings so they can discuss paintings on the drive home. She recovered from chronic disease and wartime imprisonment by disciplining her attention and refusing to diffuse it on unproductive thoughts.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 R., a shy scholar and poet, analyzes every sentence three or four ways before a speaker finishes. He notices the tiniest ripples of activity in his surroundings without judgment, simply to understand and register reality. He gives the impression of restfulness despite constant focused intelligence.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Develop the ability to disconnect consciousness at will (e.g., fall asleep for a refreshing nap when free).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Use every moment intentionally—read, solve problems, ask questions, or plan next tasks rather than wasting time.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Schedule regular "recharging" periods (e.g., standing still for fifteen minutes on a lakeshore facing the sun).
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Treat even routine activities as opportunities for focused engagement.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 If you are naturally more like R., cultivate deep, non-judgmental awareness of your surroundings.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 If you are naturally more like E., build a daily schedule of intellectually and professionally demanding activities.
 
@@ -760,11 +760,11 @@ If you are naturally more like E., build a daily schedule of intellectually and 
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -777,47 +777,47 @@ If you are naturally more like E., build a daily schedule of intellectually and 
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Sam Browning, age 15, had no clear goals until a diving trip to a coral reef in Bermuda. The experience resonated with his existing love of nature, so he built it into a goal structure (biology courses, marine scientist career) that became central to his identity. From then on, his self directed his attention to the ocean, completing the circle.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Jim Harris's self was split by his parents' divorce because his goals were still bound too closely to theirs. He lacked the independent goal structure and social support to maintain self-integrity, leading to a suicide attempt.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Recognize that the self is not a fixed entity but a content of consciousness containing all your experiences and goal hierarchies.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Understand that accidental positive experiences can become central goals if they resonate with your existing priorities.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Intentionally seek experiences that align with the self you wish to build.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Once a goal is established, use it to direct attention consistently toward relevant information and away from distractions.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Accept that change works in both directions: reshape attention to reshape self, then let the new self guide future attention.
 
 #### Best Practices
 
 - Treat goals as the organizing principle of consciousness; clarify and prioritize them regularly.
-- Understand that traumatic events (like divorce) disrupt the self only if they threaten central goals; build multiple independent goal areas to create resilience.
+- Understand that traumatic events (like divorce) disrupt the self only if they threaten central goals; build independent goal areas to create resilience.
 - Use accidental positive experiences as seeds for intentional self-development.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -830,31 +830,31 @@ Accept that change works in both directions: reshape attention to reshape self, 
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Julio Martinez, a factory worker, experienced psychic entropy when a flat tire threatened his ability to get to work. Because holding a job was a central goal, the problem absorbed most of his attention, disrupting his concentration and mood for days.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Jim Harris, a high school student, experienced chronic psychic entropy from his parents' divorce. Because his self was still bound to his parents' goals, their conflict split his sense of self, leading to a suicide attempt.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Identify your central goals and how they form a hierarchy of priorities.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Notice when information threatens these goals and diverts attention.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Recognize that the severity of psychic entropy depends on how central the threatened goal is to your self.
 
-#### Step 4: [Action]
+#### Step 4: 
 
-Strengthen your self by investing psychic energy in multiple goal areas so no single threat can disable you.
+Strengthen your self by investing psychic energy in goal areas so no single threat can disable you.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Build social support networks and past records of successful goal achievement to buffer against setbacks.
 
@@ -866,16 +866,16 @@ Build social support networks and past records of successful goal achievement to
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Allowing a single goal to dominate the entire self (e.g., career to the exclusion of relationships, or vice versa).  
-  **Solution:** Maintain multiple independent sources of goal investment—work, relationships, health, learning—to create resilience.
+  **Solution:** Maintain independent sources of goal investment—work, relationships, health, learning—to create resilience.
 - **Problem:** Letting minor setbacks consume disproportionate attention.  
   **Solution:** Strengthen self-confidence through a track record of overcoming smaller obstacles, so temporary setbacks are trusted to be manageable.
 
@@ -883,35 +883,35 @@ Build social support networks and past records of successful goal achievement to
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Rico Medellin, a factory worker, treats his repetitive assembly-line task like an Olympic event, trying to beat his own record (from 43 seconds per unit down to 28 seconds). When working at top performance, he says, "It's better than anything else. It's a whole lot better than watching TV."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Pam Davis, a young lawyer, becomes so immersed in complex cases that she forgets to eat lunch. Even temporary frustration is bearable because she understands its cause and trusts it can be overcome.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Choose goals that are challenging but matched to your current skills.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Structure your attention so that every piece of information relevant to the goal is processed and integrated.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Eliminate distractions and threats that would interrupt the flow of information.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Focus on the process itself rather than external rewards or pressures.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Measure progress against your own previous performance, not against others.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 If boredom occurs, increase the challenge; if anxiety occurs, increase your skills until balance is restored.
 
@@ -924,11 +924,11 @@ If boredom occurs, increase the challenge; if anxiety occurs, increase your skil
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -941,35 +941,35 @@ If boredom occurs, increase the challenge; if anxiety occurs, increase your skil
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Rico the assembly-line worker drew enormous growth from an ostensibly boring job by turning it into a personal challenge.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 R. the poet achieved complex consciousness through deep, non-judgmental engagement with the world, producing exquisite verse while maintaining calm serenity.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Pursue flow experiences regularly in diverse areas of life (work, relationships, learning, physical activity).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 After each flow episode, reflect on what you learned and how you grew.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Seek challenges that push you toward greater uniqueness and skill (differentiation).
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Maintain connections to communities, ideas, and causes beyond yourself (integration).
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Avoid the extremes of selfish individualism (differentiation without integration) and blind conformity (integration without differentiation).
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Recognize that joy in action itself, not external rewards, is what produces lasting self-growth.
 
@@ -982,11 +982,11 @@ Recognize that joy in action itself, not external rewards, is what produces last
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -999,35 +999,35 @@ Recognize that joy in action itself, not external rewards, is what produces last
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Walking across a room while chewing gum is possible, but running, singing, and balancing a checkbook simultaneously is not—each activity exhausts most of the attentional capacity.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
-Biblical parables encode the hard-won experience of many individuals over unknown eons, demonstrating how symbolic compression expands effective processing.
+Biblical parables encode the hard-won experience of individuals over unknown eons, demonstrating how symbolic compression expands effective processing.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Accept that you cannot do everything simultaneously; prioritize accordingly.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Use automation (chunking) for simple, repetitive tasks to free attention for complex thinking.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Employ symbolic systems (language, math, abstract concepts, narratives) to compress experience and expand effective capacity.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Protect your limited attentional capacity by eliminating unnecessary competing stimuli.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Do not lust for supernatural powers (telepathy, psychokinesis) when ordinary consciousness, properly used, has enormous untapped potential.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Spend time on activities that require active concentration and skill rather than passive consumption.
 
@@ -1035,15 +1035,15 @@ Spend time on activities that require active concentration and skill rather than
 
 - Understand that the 185 billion bits over a lifetime might be an overestimate if you use your mind as little as possible, or an underestimate if you learn to chunk and compress effectively.
 - Design your daily schedule to protect peak attentional periods for your most important goals.
-- Recognize that mysticism and claims of hidden powers are usually self-delusion; the real miracle is the disciplined use of ordinary consciousness.
+- Recognize that mysticism and claims of hidden powers are self-delusion; the real miracle is the disciplined use of ordinary consciousness.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1056,29 +1056,29 @@ Spend time on activities that require active concentration and skill rather than
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Feeling secure can be pursued by buying a gun, installing locks, moving neighborhoods, or by redefining security as accepting risk and enjoying unpredictability.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 King Midas learned that external wealth does not guarantee happiness when his food turned to gold.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Identify whether your dissatisfaction stems from external circumstances or from your perception of them.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 If changing external conditions, take concrete actions (e.g., improve security, earn more money, change environment).
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Simultaneously work on internal transformation by adjusting your expectations and definitions (e.g., redefine security as accepting inevitable risks).
 
-#### Step 4: [Action]
+#### Step 4: 
 
-Avoid relying exclusively on external changes, as unresolved internal patterns will eventually revive old anxieties.
+Avoid relying exclusively on external changes, as unresolved internal patterns will revive old anxieties.
 
 #### Best Practices
 
@@ -1088,11 +1088,11 @@ Avoid relying exclusively on external changes, as unresolved internal patterns w
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1105,27 +1105,27 @@ Avoid relying exclusively on external changes, as unresolved internal patterns w
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
-Everyone takes pleasure in eating, but a gourmet enjoys eating by discriminating among various sensations.
+Everyone takes pleasure in eating, but a gourmet enjoys eating by discriminating among sensations.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Playing a close tennis game that stretches one's ability is enjoyable.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Recognize when you are experiencing mere pleasure (contentment from meeting biological/social expectations).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Seek activities that go beyond programmed behavior and achieve something unexpected or unimagined.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Invest attention fully in activities to transform pleasure into enjoyment.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Look back on experiences and identify those that made you feel changed or grown.
 
@@ -1137,11 +1137,11 @@ Look back on experiences and identify those that made you feel changed or grown.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1154,43 +1154,43 @@ Look back on experiences and identify those that made you feel changed or grown.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 A long-distance swimmer crossing the English Channel experiences the same flow as a chess player in a tournament or a climber on a rock face.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Teenagers in a championship basketball game and musicians composing a quartet share similar flow experiences.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Assess activities against the eight components of flow.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Ensure the task is challenging but achievable given your skills.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Create clear, specific goals for the activity.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Establish immediate feedback mechanisms.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Structure the activity to allow deep, effortless involvement.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Build in opportunities for exercising control.
 
-#### Step 7: [Action]
+#### Step 7: 
 
 Design the activity so self-consciousness fades during engagement.
 
-#### Step 8: [Action]
+#### Step 8: 
 
 Allow the activity to have its own temporal rhythm, freeing you from clock time.
 
@@ -1202,48 +1202,48 @@ Allow the activity to have its own temporal rhythm, freeing you from clock time.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
-- **Problem:** Assuming only certain activities (art, sports) can produce flow.  
+- **Problem:** Assuming only activities (art, sports) can produce flow.  
   **Solution:** Apply flow principles to any activity, including work and daily routines.
-- **Problem:** Overlooking one or more components, resulting in a less engaging experience.  
+- **Problem:** Overlooking components, resulting in a less engaging experience.  
   **Solution:** Systematically design activities to include all eight elements.
 
 ### Lesson 23: Balancing Challenges and Skills
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Playing tennis is not enjoyable if opponents are mismatched; the weaker player feels anxious, the stronger feels bored.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A piece of music too simple relative to listening skills is boring; music too complex is frustrating.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Assess the difficulty level of the activity relative to your current skills.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 If the activity is too easy (boredom), increase the challenge by adding complexity, speed, or new goals.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 If the activity is too hard (anxiety), improve your skills through practice, training, or learning.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Continuously adjust challenges and skills to maintain the balance.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Use competition as a quick way to develop complexity, but only when it serves skill development, not when beating others becomes the primary goal.
 
@@ -1255,11 +1255,11 @@ Use competition as a quick way to develop complexity, but only when it serves sk
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1272,31 +1272,31 @@ Use competition as a quick way to develop complexity, but only when it serves sk
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 A tennis player's goal is to return the ball into the opponent's court; each hit provides immediate feedback.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A chess player's goal is to mate the opponent's king; each move shows progress.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Define specific, achievable goals for the activity before beginning.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Establish feedback mechanisms that provide immediate information about progress.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 For creative/open-ended activities, develop internal criteria for success and learn to recognize when goals are met.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 In activities with vague goals, negotiate rules and objectives on the spot through trial and error.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Ensure feedback is logically related to the goal in which you have invested psychic energy.
 
@@ -1308,11 +1308,11 @@ Ensure feedback is logically related to the goal in which you have invested psyc
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1325,31 +1325,31 @@ Ensure feedback is logically related to the goal in which you have invested psyc
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 A physics professor and rock climber describes his state as having memory input cut off, able to remember only the last 30 seconds and think ahead only 5 minutes.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A young basketball player says that personal problems seem insignificant compared to the game.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Eliminate distractions and create an environment conducive to focused attention.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Direct all attention to the relevant stimuli of the activity.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 When unwanted thoughts intrude, consciously redirect focus to the present task.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Practice narrowing the temporal window to the immediate moment (e.g., last 30 seconds, next 5 minutes).
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Allow the activity's demands to automatically rule out preoccupations and anxieties.
 
@@ -1361,11 +1361,11 @@ Allow the activity's demands to automatically rule out preoccupations and anxiet
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1378,31 +1378,31 @@ Allow the activity's demands to automatically rule out preoccupations and anxiet
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 A dancer feels enormous power to effect something of grace and beauty with no worry of failure.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A chess player feels in complete control of his world.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Choose activities where the outcome is genuinely in doubt and your actions can influence it.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Develop skills sufficient to minimize risks and reduce the margin of error.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Accept that some uncertainty is necessary for the feeling of control to be meaningful.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Distinguish between objective dangers (unpredictable events) and subjective dangers (lack of skill).
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Prepare rigorously to eliminate subjective dangers while managing objective ones.
 
@@ -1414,11 +1414,11 @@ Prepare rigorously to eliminate subjective dangers while managing objective ones
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1431,31 +1431,31 @@ Prepare rigorously to eliminate subjective dangers while managing objective ones
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 A climber describes an "egoless thing" where the right thing is done without thinking.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 An ocean cruiser forgets everything except the play of the boat with the sea.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Engage in activities with clear goals, stable rules, and challenges matched to skills.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Allow yourself to become fully immersed so that self-scrutiny has no room.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Invest psychic energy in the interaction with the activity or system.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 After the flow experience, reflect on the new skills and achievements gained.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Use repeated flow experiences to expand the boundaries of your self-concept.
 
@@ -1467,11 +1467,11 @@ Use repeated flow experiences to expand the boundaries of your self-concept.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1484,27 +1484,27 @@ Use repeated flow experiences to expand the boundaries of your self-concept.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 A ballet dancer describes a difficult turn that takes less than a second but seems to last minutes.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 An open-heart surgeon can tell exact time within half a minute without a watch because timing is an essential challenge.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Engage in activities with their own natural pace and sequences.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Release attachment to clock time and allow the activity's rhythm to guide your experience.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 For time-sensitive activities, develop sensitivity to temporal passage as part of the skill set.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Notice how time distortion signals deep engagement in an activity.
 
@@ -1516,11 +1516,11 @@ Notice how time distortion signals deep engagement in an activity.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1533,31 +1533,31 @@ Notice how time distortion signals deep engagement in an activity.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 A surgeon says surgery is so enjoyable he would do it even if he didn't have to.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A sailor spends money and time on sailing because nothing compares to the feeling of being out on the water.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Identify activities you currently do for external reasons (exotelic).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Reframe these activities by focusing on the intrinsic rewards they offer.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Develop skills until the activity itself becomes satisfying, regardless of external outcomes.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Use external incentives to begin difficult activities, then transition to intrinsic motivation as skills develop.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Evaluate whether the activity strengthens your self or merely serves external goals.
 
@@ -1569,11 +1569,11 @@ Evaluate whether the activity strengthens your self or merely serves external go
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1586,31 +1586,31 @@ Evaluate whether the activity strengthens your self or merely serves external go
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Chess genius Luchin became so involved in chess that his marriage, friendships, and livelihood disintegrated.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Surgeons describe operations as addictive "like taking heroin."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Monitor whether flow activities are interfering with other life responsibilities.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Ensure flow activities remain a conscious choice, not a necessity.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Evaluate whether the flow activity contributes positively to yourself and others.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Distinguish between complex autotelic experiences that expand the self and simple systems that merely impose order.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Apply eternal vigilance to ensure flow activities remain beneficial and do not become harmful.
 
@@ -1623,15 +1623,15 @@ Apply eternal vigilance to ensure flow activities remain beneficial and do not b
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
-- **Problem:** Becoming captive to a certain kind of order and unwilling to cope with life's ambiguities.  
+- **Problem:** Becoming captive to an order and unwilling to cope with life's ambiguities.  
   **Solution:** Maintain diverse interests and avoid over-specialization in a single flow activity.
 - **Problem:** Using flow to escape from reality rather than to engage with it.  
   **Solution:** Ensure flow activities build skills that transfer to other life areas.
@@ -1640,31 +1640,31 @@ Apply eternal vigilance to ensure flow activities remain beneficial and do not b
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Professor Heinz Maier-Leibnitz invented a finger-tapping pattern with 888 combinations to make boring conferences mildly enjoyable.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 The tapping pattern also served as a way to measure the length of trains of thought.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Identify boring or routine activities in your daily life.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Introduce goals, rules, and challenges to these activities.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Create personal games or rituals that impose order through patterned action.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Develop microflow activities to fill boring gaps and negotiate life's doldrums.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Gradually increase the complexity of these restructured activities to achieve deeper flow.
 
@@ -1676,11 +1676,11 @@ Gradually increase the complexity of these restructured activities to achieve de
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1693,23 +1693,23 @@ Gradually increase the complexity of these restructured activities to achieve de
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Sports participants dress in eye-catching uniforms and enter special enclaves that set them apart from ordinary life
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Games like tennis, chess, rock climbing, dancing, and sailing are designed specifically to make flow achievable
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Identify or design activities that contain all four structural elements: rules requiring skill acquisition, clear goals, feedback mechanisms, and control opportunities
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Ensure the activity creates a distinct reality separate from daily routine (e.g., uniforms, special environments)
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Choose activities where the primary function is providing enjoyable experience rather than extrinsic outcomes
 
@@ -1721,11 +1721,11 @@ Choose activities where the primary function is providing enjoyable experience r
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1738,31 +1738,31 @@ Choose activities where the primary function is providing enjoyable experience r
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Alex learning tennis starts in flow at A1 (beginner hitting ball over net), grows bored at A2 (skills improved but challenge stagnant), feels anxiety at A3 (facing more practiced opponent), returns to flow at A4 by setting new goal to beat slightly more advanced opponent
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 The Shushwap Indians moved their entire village every 25-30 years to new locations with new streams, game trails, and food sources when life became too predictable
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Assess your current skill level and the challenge level of any activity you're engaged in
 
-#### Step 2: [Action]
+#### Step 2: 
 
 If you feel bored (challenge too low for your skills), increase the difficulty—set a new, more demanding goal
 
-#### Step 3: [Action]
+#### Step 3: 
 
 If you feel anxious (skills insufficient for the challenge), improve your abilities through practice and learning
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Continue escalating both challenges and skills in tandem to maintain the flow state
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Avoid reducing challenges as a long-term solution (theoretically possible but practically difficult once aware of higher challenges)
 
@@ -1774,11 +1774,11 @@ Avoid reducing challenges as a long-term solution (theoretically possible but pr
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1791,35 +1791,35 @@ Avoid reducing challenges as a long-term solution (theoretically possible but pr
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Bertrand Russell achieved happiness by learning "to be indifferent to myself and my deficiencies" and centering "attention increasingly upon external objects"
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Christopher Burney in solitary confinement asked exhaustive questions about his bed, blankets, window, and toilet, creating "a wonderful flow of combinations and associations"
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Develop "nonself-conscious individualism": focus on doing your best in all circumstances without being primarily concerned with advancing your own interests
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Practice paying close attention to minute details of your environment to discover hidden opportunities for action
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Set goals appropriate to your current situation, however limited the circumstances
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Monitor progress through available feedback, adjusting as needed
 
-#### Step 5: [Action]
+#### Step 5: 
 
 When you reach a goal, immediately set increasingly complex challenges for yourself
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Center attention increasingly on external objects, knowledge, and other people rather than on yourself
 
@@ -1831,16 +1831,16 @@ Center attention increasingly on external objects, knowledge, and other people r
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Excessive self-consciousness—constantly worrying about how others perceive you  
-  **Solution:** Shift focus from self-presentation to the activity itself. Self-consciousness "condemns [a person] to permanent exclusion from enjoyment."
+  **Solution:** Shift focus from self-presentation to the activity itself. Self-consciousness "condemns a person to permanent exclusion from enjoyment."
 - **Problem:** Self-centeredness—evaluating everything only in terms of personal desires and goals  
   **Solution:** Recognize that "a flower is not worth a second look unless it can be used" is a limiting mindset. Practice intrinsic appreciation of things for their own sake.
 
@@ -1848,31 +1848,31 @@ Center attention increasingly on external objects, knowledge, and other people r
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Kevin Rathunde's University of Chicago study found teenagers from autotelic families were "significantly more happy, satisfied, and strong in most life situations" than peers without such family context
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 These advantages persisted when children were alone studying or at school, not just at home
 
-#### Step 1: [Action]
+#### Step 1: 
 
 **Clarity:** Ensure children know exactly what parents expect from them—make goals and feedback unambiguous in family interactions
 
-#### Step 2: [Action]
+#### Step 2: 
 
 **Centering:** Show interest in what children are doing in the present moment—focus on their concrete feelings and experiences rather than future outcomes like college or career
 
-#### Step 3: [Action]
+#### Step 3: 
 
 **Choice:** Give children a variety of possibilities to choose from, including the option to break parental rules (as long as they accept consequences)
 
-#### Step 4: [Action]
+#### Step 4: 
 
 **Commitment:** Build trust that allows children to feel safe setting aside defenses and becoming unselfconsciously involved in their interests
 
-#### Step 5: [Action]
+#### Step 5: 
 
 **Challenge:** Provide increasingly complex opportunities for action that match and stretch children's growing skills
 
@@ -1884,11 +1884,11 @@ These advantages persisted when children were alone studying or at school, not j
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1901,35 +1901,35 @@ These advantages persisted when children were alone studying or at school, not j
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Christopher Burney in solitary confinement: analyzed his bed, blankets, window mechanics, toilet, and cell dimensions in exhaustive detail, creating "a wonderful flow of combinations and associations"
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Alexander Solzhenitsyn standing in columns of dejected prisoners felt "such a rush of rhymes and images that I seemed to be wafted overhead" and noted "For me there was no barbed wire"
 
-#### Step 1: [Action]
+#### Step 1: 
 
 When freedom is suddenly confined, pay close attention to the most minute details of your environment
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Discover hidden opportunities for action that match what you are capable of doing given the circumstances
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Set goals appropriate to your precarious situation
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Monitor progress through available feedback
 
-#### Step 5: [Action]
+#### Step 5: 
 
 When you reach a goal, up the ante by setting increasingly complex challenges
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Redirect attention outward to the world rather than inward to your suffering
 
@@ -1941,11 +1941,11 @@ Redirect attention outward to the world rather than inward to your suffering
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -1958,27 +1958,27 @@ Redirect attention outward to the world rather than inward to your suffering
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Shushwap Indians moved entire villages every 25-30 years to new locations with new resources, preventing life from becoming "too predictable"
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Ise Shrine in Japan has been torn down and rebuilt every 20 years for 1,500 years, maintaining cultural vitality
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Recognize that cultures, like games, consist of "more or less arbitrary goals and rules that allow people to become involved in a process and act with a minimum of doubts and distractions"
 
-#### Step 2: [Action]
+#### Step 2: 
 
-Evaluate social systems by two criteria: (a) how many people have access to experiences aligned with their goals, and (b) whether these experiences lead to growth of increasingly complex skills
+Evaluate social systems by two criteria: (a) how people have access to experiences aligned with their goals, and (b) whether these experiences lead to growth of increasingly complex skills
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Build periodic renewal mechanisms into systems to prevent stagnation (e.g., moving locations, rebuilding structures, generational challenges)
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Ensure cultural rules are clear enough to provide order but flexible enough to allow growth across generations
 
@@ -1990,48 +1990,48 @@ Ensure cultural rules are clear enough to provide order but flexible enough to a
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Cultural stagnation where rigid patterns eliminate opportunities for each generation  
   **Solution:** Most cultures "fall short, either by making survival too strenuous a task, or by closing themselves off into rigid patterns that stifle the opportunities for action by each succeeding generation." Build in renewal.
-- **Problem:** Flow that serves only a privileged few (e.g., Athenian citizens relying on slaves, Southern plantations on enslaved labor)  
+- **Problem:** Flow that serves only the privileged (e.g., Athenian citizens relying on slaves, Southern plantations on enslaved labor)  
   **Solution:** A culture that provides flow for some at the expense of others is not truly successful. "The flow of the Athenian citizen was made possible by the slaves who worked his property."
 
 ### Lesson 38: Recognizing and Overcoming Obstacles to Flow
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Schizophrenics with "stimulus overinclusion" cannot filter irrelevant stimuli: "Things are coming in too fast. I lose my grip of it and get lost. I am attending to everything at once and as a result I do not really attend to anything"
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Self-centered individuals evaluate everything instrumentally: "A flower is not worth a second look unless it can be used"
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Identify whether your attention is too scattered (anxiety, boredom, inability to concentrate) or too rigid (self-consciousness, self-centeredness, narcissism)
 
-#### Step 2: [Action]
+#### Step 2: 
 
 If attention is too fluid (attentional disorders), practice building concentration through structured activities with clear goals and feedback
 
-#### Step 3: [Action]
+#### Step 3: 
 
 If attention is too rigid (self-consciousness), practice nonself-conscious individualism—redirect attention to external tasks and away from self-evaluation
 
-#### Step 4: [Action]
+#### Step 4: 
 
 If experiencing anomie (unclear social norms), seek out or create micro-environments with clear rules and goals
 
-#### Step 5: [Action]
+#### Step 5: 
 
 If experiencing alienation (forced to act against goals), seek activities where you can exercise genuine choice and control
 
@@ -2044,44 +2044,44 @@ If experiencing alienation (forced to act against goals), seek activities where 
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Believing genetics determine flow capacity and cannot be changed  
   **Solution:** While neurological advantages may exist, "the association between the ability to concentrate and flow is clear; it will take further research to ascertain which one causes the other." Cultivate attention control regardless.
 - **Problem:** Thinking abundance of leisure opportunities automatically produces enjoyment  
-  **Solution:** "Potentiality does not imply actuality, and quantity does not translate into quality." Americans have abundant leisure but "do not, as a result, experience flow often." TV watching "leads to the flow condition very rarely."
+  **Solution:** "Potentiality does not imply actuality, and quantity does not translate into quality." Americans have abundant leisure but "do not, as a result, experience flow." TV watching "leads to the flow condition very rarely."
 
 ### Lesson 39: The Role of Early Childhood and Family in Developing Flow Capacity
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Teenagers from autotelic families were "much more happy, strong, cheerful, and satisfied" at home and even when alone studying or at school
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Abused children or those threatened with withdrawal of parental love become "so worried about keeping his sense of self from coming apart as to have little energy left to pursue intrinsic rewards"
 
-#### Step 1: [Action]
+#### Step 1: 
 
 If you are a parent or caregiver, provide the five autotelic family conditions: clear expectations, present-centered interest, genuine choice, trusting commitment, and progressively complex challenges
 
-#### Step 2: [Action]
+#### Step 2: 
 
 If you were raised without these conditions, recognize that the autotelic personality is "an ability open to cultivation, a skill one can perfect through training and discipline"
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Practice self-observation to identify how early conditioning may have limited your attentional flexibility
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Consciously redirect attention from self-protection toward external interests and intrinsic goals
 
@@ -2093,11 +2093,11 @@ Consciously redirect attention from self-protection toward external interests an
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2110,27 +2110,27 @@ Consciously redirect attention from self-protection toward external interests an
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Eighteenth-century Englishmen during early Industrial Revolution were "probably much worse off" due to shortened lifespans and degraded conditions—weavers "swallowed by the Satanic mills at five years of age, who worked seventy hours a week"
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Dobu islanders lived in "constant fear of sorcery, mistrust among even the closest relatives, and vindictive behavior"—built-in psychic entropy making flow nearly impossible
 
-#### Step 1: [Action]
+#### Step 1: 
 
-Evaluate any culture or social system by two criteria: (a) how many people have access to goal-aligned experiences, and (b) whether those experiences develop increasingly complex skills
+Evaluate any culture or social system by two criteria: (a) how people have access to goal-aligned experiences, and (b) whether those experiences develop increasingly complex skills
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Measure not by reference to external value systems, but by "reference to the goals of the members of that society"
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Recognize that flow activities—freely chosen and intimately tied to what is ultimately meaningful—are "more precise indicators of who we are" than productive activities
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Support social systems that channel attention to "a limited set of goals and means" that allow "effortless action within self-created boundaries"
 
@@ -2142,52 +2142,52 @@ Support social systems that channel attention to "a limited set of goals and mea
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Accepting cultural relativism to the point of being unable to judge suffering  
-  **Solution:** Use "psychic entropy" and flow capacity as universal metrics. "None of [the modern ideologies] commands great popular support, and none has inspired the aesthetic visions or enjoyable rituals that previous models of cosmic order had spawned."
+  **Solution:** Use "psychic entropy" and flow capacity as universal metrics. "None of the modern ideologies commands great popular support, and none has inspired the aesthetic visions or enjoyable rituals that previous models of cosmic order had spawned."
 - **Problem:** Assuming material prosperity creates flow  
-  **Solution:** "Working people achieve the flow experience...about four times as often on their jobs, proportionately, as they do when they are watching television." Active engagement beats passive consumption regardless of material conditions.
+  **Solution:** "Working people achieve the flow experience...four times as often on their jobs, proportionately, as they do when they are watching television." Active engagement beats passive consumption regardless of material conditions.
 
 ### Lesson 41: Transform Any Physical Act Into a Flow Activity
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **Walking as flow:** Choose a specific route, aim for speed or efficiency, observe interesting sights, or develop a personal style of movement. A skilled hiker on a mountain trail makes constant micro-adjustments for foothold, momentum, and center of gravity, turning every step into a complex problem-solving event.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Urban walking:** Time street crossings to green lights, chase sunny sidewalk stretches in winter, or seek out architectural details—each transforms routine walking into an intentional, goal-directed experience.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Set an overall goal for the activity (e.g., reach a destination, master a technique).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Set realistic subgoals that break the activity into manageable challenges.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Establish ways to measure progress toward those goals.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Concentrate fully on what you are doing and notice finer and finer distinctions in the task.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Develop the skills needed to interact with the opportunities available.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 If the activity becomes boring, continuously raise the stakes and introduce new challenges.
 
@@ -2200,11 +2200,11 @@ If the activity becomes boring, continuously raise the stakes and introduce new 
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2217,27 +2217,27 @@ If the activity becomes boring, continuously raise the stakes and introduce new 
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
-**ESM study findings:** People using expensive leisure (power boating, driving, watching TV) were significantly less happy than those gardening, knitting, or talking. Inexpensive activities requiring high psychic investment produced more memorable rewards and higher happiness ratings.
+**Experience Sampling Method (ESM) study findings:** People using expensive leisure (power boating, driving, watching TV) were significantly less happy than those gardening, knitting, or talking. Inexpensive activities requiring high psychic investment produced more memorable rewards and higher happiness ratings.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Health club treadmill:** Many people feel duty-bound to exercise but derive no enjoyment because they confuse going through motions with investing attention and finding flow.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 When choosing leisure activities, prioritize those that demand your active involvement over those that merely consume resources.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Engage in activities that require concentration, skill development, and personal investment.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Avoid substituting passive consumption (expensive equipment, screens, power boating) for active participation.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Recognize that enjoyment depends on what happens in consciousness, not on what you own or buy.
 
@@ -2249,11 +2249,11 @@ Recognize that enjoyment depends on what happens in consciousness, not on what y
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2266,35 +2266,35 @@ Recognize that enjoyment depends on what happens in consciousness, not on what y
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **Tarahumara Indians:** Race hundreds of miles through mountains during festivals, adding elaborate ritual dimensions to the simple act of running.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Throwing sports:** Discus, javelin, shot put, baseball pitching—each starts with a trivial ability but becomes legendary when refined through goal-directed practice.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Choose a physical skill that slightly exceeds your current ability level.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Set a specific, measurable goal (e.g., run farther, throw farther, climb higher).
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Train with concentrated attention on technique, form, and incremental improvement.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Use feedback from each attempt to refine your approach.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 As soon as a challenge becomes easy, raise the difficulty or set a new goal.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Remember that Olympians do not have a monopoly on flow; everyday improvement is accessible to all.
 
@@ -2306,11 +2306,11 @@ Remember that Olympians do not have a monopoly on flow; everyday improvement is 
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2323,31 +2323,31 @@ Remember that Olympians do not have a monopoly on flow; everyday improvement is 
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **Teen dancer at a club:** "Once I get into it, then I just float along, having fun, just feeling myself move around." Another describes a "physical high... feverish or sort of ecstatic when everything is going really well."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Professional ballerina:** Despite little money and family complaints, "love of the dance has always sustained me. It is now part of my life, a part of me that I could not live without."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Allow yourself to respond physically to music without self-consciousness.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Focus on expressing emotion and style through movement rather than performing perfectly.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Cultivate personal grace, rhythm, and economy of motion.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 If possible, practice in social settings; if not, dance alone to experience the same physical high.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Explore other expressive movement forms such as miming, acting, or charades to break free of habitual behavior patterns.
 
@@ -2359,11 +2359,11 @@ Explore other expressive movement forms such as miming, acting, or charades to b
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2376,35 +2376,35 @@ Explore other expressive movement forms such as miming, acting, or charades to b
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **Erotic manuals:** The Kama Sutra and *The Joy of Sex* provide goals and suggestions to make sexual activity more varied and challenging.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Historical sophistication:** Japanese geishas were trained as musicians, dancers, actresses, and poets; Chinese and Indian courtesans cultivated artistic and conversational skills alongside sexuality.
 
-#### Step 1: [Action]
+#### Step 1: 
 
-Recognize that physical pleasure alone will eventually become routine; plan to add complexity.
+Recognize that physical pleasure alone will become routine; plan to add complexity.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Develop erotic skills by learning varied techniques, studying manuals (e.g., Kama Sutra), and treating sexuality as an art to be practiced.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Add romance: create wooing rituals, share feelings, make promises, and invest in the emotional dimension of the relationship.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Cultivate genuine care: take interest in your partner as a unique person, learn their thoughts and dreams, and support their goals.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Continuously discover new potentialities in yourself and your partner to keep the relationship complex and engaging.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Invest attention in each other—this never-ending process is the key to preventing boredom.
 
@@ -2416,11 +2416,11 @@ Invest attention in each other—this never-ending process is the key to prevent
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2433,43 +2433,43 @@ Invest attention in each other—this never-ending process is the key to prevent
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **Yoga as yoking:** The Sanskrit root means "yoking"—uniting the parts of the body, then uniting body and consciousness into an ordered system.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Comparison to Western practices:** Saint Benedict's monastic routines and Saint Ignatius's spiritual exercises are the closest Western equivalents but fall far short of Yoga's rigorous discipline.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 **Yama (ethical preparation):** Restrain from acts and thoughts that harm others (falsehood, theft, lust, avarice) to reduce psychic entropy before beginning practice.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 **Niyama (ordered routines):** Follow disciplined routines of cleanliness, study, and spiritual obedience to channel attention into predictable, controllable patterns.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 **Asana (physical postures):** Practice holding postures for extended periods without strain or fatigue, building bodily discipline.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 **Pranayama (breath control):** Learn to relax the body and stabilize the rhythm of breathing to calm the nervous system.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 **Pratyahara (withdrawal):** Train the senses to see, hear, and feel only what you choose to admit into awareness; withdraw attention from distracting external objects.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 **Dharana (concentration):** Hold attention on a single stimulus for long periods—the mirror image of pratyahara.
 
-#### Step 7: [Action]
+#### Step 7: 
 
 **Dhyana (meditation):** Achieve uninterrupted concentration that no longer requires external stimuli; forget the self in continuous focus.
 
-#### Step 8: [Action]
+#### Step 8: 
 
 **Samadhi (self-collectedness):** Reach the state where meditator and object of meditation become one, described by practitioners as the most joyful experience of their lives.
 
@@ -2481,11 +2481,11 @@ Invest attention in each other—this never-ending process is the key to prevent
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2498,31 +2498,31 @@ Invest attention in each other—this never-ending process is the key to prevent
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **Eastern vs. Western martial arts:** Eastern forms (judo, karate, kung fu, t'ai chi, aikido) emphasize mental and spiritual development, influenced by Taoism and Zen Buddhism. Western martial arts focus mainly on physical performance.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Warrior's flow state:** The skilled practitioner reaches a point where fighting becomes "a joyous artistic performance, during which the everyday experience of duality between mind and body is transformed into a harmonious one-pointedness of mind."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Choose a martial art that emphasizes consciousness-controlling skills, not just physical performance.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Train regularly to internalize defensive and offensive movements until they become automatic.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Practice until you reach the point where action and awareness merge—you respond without having to think.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Cultivate one-pointedness of mind: bring total concentration to each movement.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Treat practice as an art form, not merely combat; seek harmonious, efficient expression of skill.
 
@@ -2534,11 +2534,11 @@ Treat practice as an art form, not merely combat; seek harmonious, efficient exp
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2551,35 +2551,35 @@ Treat practice as an art form, not merely combat; seek harmonious, efficient exp
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **Cézanne's *Bathers*:** A viewer describes "a sudden appreciation of, an understanding of the world... the ability to suddenly let go of ourselves and understand our connection to the world."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Overwhelming art experience:** "When I see works that come close to my heart... I have the strangest reaction: which is not always exhilarating, it is sort of like being hit in the stomach. Feeling a little nauseous."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Stop treating seeing as passive reception; instead, look actively and attentively.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Study visual arts to build a vocabulary of form, composition, color, and harmony.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Practice observing ordinary environments as if they were works of art—buildings, clouds, cityscapes, nature.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Cultivate the ability to notice order, pattern, and connection in what you see.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Allow yourself the time to absorb a scene or artwork fully, without rushing.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Develop personal visual frameworks (e.g., thinking like a photographer, painter, or architect) to structure observation.
 
@@ -2592,11 +2592,11 @@ Develop personal visual frameworks (e.g., thinking like a photographer, painter,
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2609,31 +2609,31 @@ Develop personal visual frameworks (e.g., thinking like a photographer, painter,
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **Pygmies of the Ituri forest:** Blow sacred horns for days to wake the sleeping forest and restore order; the sound provides reassurance and collective confidence.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Policeman's ritual:** "If after a day of making arrests... I could not turn on the radio in the car on my way home, I would probably go out of my mind."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 **Sensory stage:** Listen to the raw qualities of sound—chords, timbres, rhythms—that produce genetically wired pleasant reactions.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 **Analogic stage:** Develop the ability to evoke images, feelings, and stories from musical patterns; let the saxophone recall storm clouds or the sleigh bells recall a winter journey.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 **Analytic stage:** Learn to recognize structural order, evaluate performance, compare interpretations, and set specific listening goals (e.g., compare two recordings of the same symphony).
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Structure your listening: set aside specific hours, eliminate distractions, plan your repertoire, and formulate goals for each session.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Consider learning to make music, not just listen, for even greater flow rewards.
 
@@ -2646,11 +2646,11 @@ Consider learning to make music, not just listen, for even greater flow rewards.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2663,35 +2663,35 @@ Consider learning to make music, not just listen, for even greater flow rewards.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **Cyrus the Great:** Legend says ten thousand men searched the world for pleasant drinks and foods for the Persian king.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Eastern European peasant women:** Judged ready for marriage only when they could cook a different soup for every day of the year.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Pay deliberate attention to what you eat; notice flavors, textures, temperatures, and combinations.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Study the history and peculiarities of a particular cuisine to build knowledge and discernment.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Learn to cook entire meals in that cuisine, not just isolated dishes, to reproduce its culinary ambience.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Experiment with ingredients and techniques, developing rules for pleasing combinations.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Approach eating and cooking with curiosity and adventure rather than as status-seeking or showmanship.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Find a balance between indulgence and restraint; avoid both gluttony and rigid asceticism.
 
@@ -2704,11 +2704,11 @@ Find a balance between indulgence and restraint; avoid both gluttony and rigid a
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2721,35 +2721,35 @@ Find a balance between indulgence and restraint; avoid both gluttony and rigid a
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **The body's hundreds of functions:** Seeing, hearing, touching, running, swimming, throwing, catching, climbing—all can become sources of flow when directed by goals and skills.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Universal accessibility:** "Every person, no matter how unfit he or she is, can rise a little higher, go a little faster, and grow to be a little stronger."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Identify physical abilities you currently underuse or ignore.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Choose one or two new dimensions to explore—sight, sound, taste, movement, sexuality, or a sport.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Invest modest, consistent amounts of attention and practice.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Set personal goals and measure progress in each chosen domain.
 
-#### Step 5: [Action]
+#### Step 5: 
 
-Accept that you may become highly skilled in only a few areas, but can enjoy many as a cultivated amateur.
+Accept that you may become highly skilled in some areas, but can enjoy others as a cultivated amateur.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Remember that realizing the body's potential does not require great wealth or elite talent.
 
@@ -2762,16 +2762,16 @@ Remember that realizing the body's potential does not require great wealth or el
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Believing that high physical complexity requires elite athletic or artistic talent.  
-  **Solution:** Even dilettante-level skill produces significant flow; do not let perfectionism block exploration.
+  **Solution:** Even dilettante-level skill produces flow; do not let perfectionism block exploration.
 - **Problem:** Neglecting the body and allowing its senses and motor functions to atrophy.  
   **Solution:** Regularly review which physical abilities you are leaving unexploited and choose one to develop.
 
@@ -2779,31 +2779,31 @@ Remember that realizing the body's potential does not require great wealth or el
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
-"With nothing to do, [the mind] begins to follow random patterns, usually stopping to consider something painful or disturbing."
+"With nothing to do, the mind begins to follow random patterns, usually stopping to consider something painful or disturbing."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 "Entropy is the normal state of consciousness—a condition that is neither useful nor enjoyable."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Accept that an untrained mind naturally drifts toward disorder and negative rumination.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Notice when you are on "automatic pilot," guided by habits and social roles rather than conscious choice.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Identify moments of solitude when your mind is left without external demands.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Observe what your mind defaults to in those moments—pain, grudges, frustrations.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Choose to replace passive consumption with active mental structuring.
 
@@ -2815,52 +2815,52 @@ Choose to replace passive consumption with active mental structuring.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Assuming that external entertainment (TV, social media) is a valid long-term solution to mental chaos.  
   **Solution:** Replace passive consumption with active symbolic activities that build internal order.
 - **Problem:** Believing that a wandering mind is simply "relaxing" when it is actually generating entropy.  
-  **Solution:** Recognize that unstructured mental time often increases anxiety, not reduces it.
+  **Solution:** Recognize that unstructured mental time increases anxiety, not reduces it.
 
 ### Lesson 53: Cultivate Memory as the Foundation of Mental Flow
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Csikszentmihalyi's grandfather could still recall 3,000 lines of the Iliad at age seventy, experiencing it as "a form of time travel."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Pre-literate cultures memorized genealogies, laws, and wisdom sayings because written records did not exist.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Choose a subject you are genuinely interested in (poetry, history, science, sports, etc.).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Identify key facts, figures, and patterns within that domain that resonate with you.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Begin memorizing selectively—focus on what personally matters to you, not arbitrary lists.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Use mnemonic devices, verse, or repetition to encode information.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Periodically recall and reflect on what you have stored.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Share your knowledge with others to reinforce it and bring order to social interactions.
 
@@ -2873,11 +2873,11 @@ Share your knowledge with others to reinforce it and bring order to social inter
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2890,31 +2890,31 @@ Share your knowledge with others to reinforce it and bring order to social inter
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Jerome Singer's research shows daydreaming helps reduce frustration and aggression by visualizing punishment for an aggressor.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Daydreaming allows rehearsal of imaginary situations so that "the best strategy for confronting them may be adopted."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Recognize daydreaming as a skill that can be developed, not a waste of time.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Use daydreaming to imagine rewarding scenarios that compensate for unpleasant reality.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Visualize how you would handle challenging situations before they occur.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Explore alternative options and anticipate unanticipated consequences.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Allow daydreaming to evolve from passive fantasy into active problem-solving.
 
@@ -2926,11 +2926,11 @@ Allow daydreaming to evolve from passive fantasy into active problem-solving.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2943,31 +2943,31 @@ Allow daydreaming to evolve from passive fantasy into active problem-solving.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Musicians who can read a symphony score and hear imaginary sounds more perfect than any performance.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 People who appreciate the "thought machine" behind a painting—its conceptual, political, and intellectual content.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Identify a symbolic system that interests you (a natural language, music notation, programming, mathematics, etc.).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Learn the rules, goals, and feedback mechanisms of that system.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Practice until you can manipulate symbols without needing external reference.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Use the system to generate ordered trains of thought independent of external reality.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Carry this internal world with you as a source of order wherever you go.
 
@@ -2979,11 +2979,11 @@ Carry this internal world with you as a source of order wherever you go.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -2996,31 +2996,31 @@ Carry this internal world with you as a source of order wherever you go.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
-A child of eight learned to write creditable crossword puzzles after trying a few New York Times puzzles.
+A child of eight learned to write creditable crossword puzzles after trying some New York Times puzzles.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Caliph Ali Ben Ali called "a subtle conversation…the Garden of Eden."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 **Crossword Puzzles:** Start with puzzles at your level; progress to creating your own crosswords to become autonomous.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 **Conversation:** Elevate talk beyond utilitarian information exchange; play with language, puns, and double meanings.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 **Poetry:** Read a line or verse each night that "starts to sing"; eventually write your own verse.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 **Writing:** Keep a journal or write letters to put experiences into words, creating patterns of order from random events.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 **Wordplay with Children:** Expose children early to puns and alternative meanings to train linguistic flexibility.
 
@@ -3033,11 +3033,11 @@ Caliph Ali Ben Ali called "a subtle conversation…the Garden of Eden."
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3050,35 +3050,35 @@ Caliph Ali Ben Ali called "a subtle conversation…the Garden of Eden."
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Every person is "a historian of his or her own personal existence."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Psychoanalysis is largely an attempt to bring order to garbled childhood histories.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 **Personal Level:** Keep a daily journal to record and reflect on experiences.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 **Family Level:** Write a family chronicle, going as far into the past as possible through interviews and research.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 **Community Level:** Study the history of your neighborhood, city, or region through books, museums, and associations.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 **Ethnic/Cultural Level:** Collect books and memorabilia related to your heritage.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 **Specialized Level:** Focus on a niche aspect of history (e.g., early industrial architecture) and develop deep expertise.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 **Creative Level:** Record your own impressions and interpretations of the past in a personal style.
 
@@ -3091,11 +3091,11 @@ Psychoanalysis is largely an attempt to bring order to garbled childhood histori
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3108,39 +3108,39 @@ Psychoanalysis is largely an attempt to bring order to garbled childhood histori
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Nicolaus Copernicus developed his heliocentric model while serving as a canon, driven by aesthetic delight.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Gregor Mendel's genetics experiments grew from a gardening hobby.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Adopt the scientific mindset: curiosity, careful observation, disciplined recording.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Find a natural phenomenon or domain that interests you (health, gardening, astronomy, geology, mechanics).
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Observe systematically, keeping detailed records of patterns and regularities.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Test hypotheses through experimentation in your area of interest.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Study what past investigators have discovered, maintaining humility to learn from them.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Combine skepticism with openness—reject beliefs not supported by facts.
 
-#### Step 7: [Action]
+#### Step 7: 
 
 Measure and record for the intrinsic joy of understanding, not for professional recognition.
 
@@ -3153,11 +3153,11 @@ Measure and record for the intrinsic joy of understanding, not for professional 
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3170,35 +3170,35 @@ Measure and record for the intrinsic joy of understanding, not for professional 
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Democritus, lost in thought in the market square, was called "absent-minded" but was actually experiencing flow: "It is godlike ever to think on something beautiful and on something new."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Kant was so immersed in abstract thought that he placed his watch in boiling water while holding an egg.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Decide what fundamental questions interest you: What is real? What is good? What is beautiful?
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Read, talk, and listen selectively to learn what great thinkers of the past have said.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Form your own ideas about the "state of the art" in your area of interest.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Take control of your learning direction from the start—choose your own path.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 When ready, write down your insights to clarify and deepen your understanding.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Avoid hubris; write to make sense of your own experience, not to impress posterity.
 
@@ -3211,11 +3211,11 @@ Avoid hubris; write to make sense of your own experience, not to impress posteri
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3228,31 +3228,31 @@ Avoid hubris; write to make sense of your own experience, not to impress posteri
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 For centuries, great scientists did their work as a hobby because they were fascinated with their methods.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 "It was so much fun" was Michelson's reason for measuring the velocity of light.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Redefine success for yourself: prioritize enjoyment and growth over external recognition.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Engage in activities for the love of them, not to compete with professionals.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Resist the cultural pressure to monetize every hobby or turn every interest into a career.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Evaluate your activities by the quality of experience they produce, not by how they look to others.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Accept that being a "dilettante" in the original sense is a mark of a rich life.
 
@@ -3264,11 +3264,11 @@ Accept that being a "dilettante" in the original sense is a mark of a rich life.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3281,31 +3281,31 @@ Accept that being a "dilettante" in the original sense is a mark of a rich life.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Many people count graduation as "the first day of freedom" from externally imposed learning.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Without intrinsic learning, "his thinking will be directed by the opinions of his neighbors, by the editorials in the papers, and by the appeals of television."
 
-#### Step 1: [Action]
+#### Step 1: 
 
-Recognize that extrinsically motivated education often leaves unpleasant memories.
+Recognize that extrinsically motivated education leaves unpleasant memories.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Identify the difference between learning to "make the grade" and learning to understand.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 After formal education ends, consciously shift your goal from credentials to comprehension.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Pursue knowledge to understand "what is happening around one" and to develop a "personally meaningful sense of what one's experience is all about."
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Embrace the joy of thinking for its own sake, as described in Plato's *Philebus*: "The young man who has drunk for the first time from that spring is as happy as if he had found a treasure of wisdom."
 
@@ -3317,11 +3317,11 @@ Embrace the joy of thinking for its own sake, as described in Plato's *Philebus*
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3334,31 +3334,31 @@ Embrace the joy of thinking for its own sake, as described in Plato's *Philebus*
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 "People without an internalized symbolic system can all too easily become captives of the media."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Icelanders who mastered saga recitation survived hostile arctic conditions by creating inner order.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Develop proficiency in at least one symbolic system (language, mathematics, music, logic).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Use that system to generate ordered thoughts independently of external input.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Test external claims against your own reasoned understanding rather than accepting them passively.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Recognize when you are being manipulated by facile calls to political or religious salvation, entertainment, or consumerism.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Cultivate the humility to learn from past investigators and the skepticism to reject unsupported beliefs.
 
@@ -3371,48 +3371,48 @@ Cultivate the humility to learn from past investigators and the skepticism to re
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Believing that passive entertainment or social media scrolling is sufficient mental engagement.  
   **Solution:** Replace consumption with active creation and manipulation of symbols.
 - **Problem:** Thinking that specialization in one area is enough.  
-  **Solution:** Develop multiple symbolic systems to create a more resilient internal world.
+  **Solution:** Develop symbolic systems to create a more resilient internal world.
 
 ### Lesson 63: Create Order Through Poetry and Writing
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 "Reading from a book of poems each night is to the mind as working out on a Nautilus is to the body—a way for staying in shape."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Kenneth Koch taught ghetto children and elderly women to write beautiful poetry with minimal training.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Read a line or verse of poetry each night that resonates with you; let it "start to sing."
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Write personal poetry or prose to process emotions and experiences.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Keep a journal to record daily events and reflect on their meaning.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Write letters (even if unsent) to put experiences into words and create patterns of order.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Use writing as therapy when consciousness is beset by entropy, but avoid letting it become addictive.
 
@@ -3425,11 +3425,11 @@ Use writing as therapy when consciousness is beset by entropy, but avoid letting
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3442,27 +3442,27 @@ Use writing as therapy when consciousness is beset by entropy, but avoid letting
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
-Athletes know that to improve beyond a certain point they must discipline their minds.
+Athletes know that to improve beyond some point they must discipline their minds.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Advanced chess players train by running and swimming because physical fitness sustains mental concentration.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 When engaging in any physical activity (sports, cooking, sex), bring mental attention to the experience.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 When engaging in any mental activity, recognize the physical dimension (chess players running to sustain concentration).
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Look for the "thought machine" behind physical experiences—the conceptual, emotional, and cultural layers.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Integrate body and mind in your flow pursuits rather than separating them.
 
@@ -3474,11 +3474,11 @@ Integrate body and mind in your flow pursuits rather than separating them.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3489,27 +3489,27 @@ Integrate body and mind in your flow pursuits rather than separating them.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Pythagoras and his students pursued numerical laws "binding together astronomy, geometry, music, and arithmetic" because the ordering itself was pleasurable.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Democritus was "lost in the flow of thought," not insane: "It is godlike ever to think on something beautiful and on something new."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Recognize that the enjoyment of thinking is the foundation of all knowledge, not a byproduct.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Do not assume that material necessity alone drives intellectual achievement.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Celebrate the pure enjoyment of playing with ideas as a valid and valuable human pursuit.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Study the history of great discoveries not as products of war or market forces, but as outcomes of minds lost in thought.
 
@@ -3521,11 +3521,11 @@ Study the history of great discoveries not as products of war or market forces, 
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3538,35 +3538,35 @@ Study the history of great discoveries not as products of war or market forces, 
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 "To enjoy a mental activity, one must meet the same conditions that make physical activities enjoyable. There must be skill in a symbolic domain; there have to be rules, a goal, and a way of obtaining feedback."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 The ancient riddle contests were flow activities with clear rules, goals, and feedback.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Choose a symbolic domain (language, math, music, history, etc.).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Learn its rules, goals, and ways of obtaining feedback.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Set specific, achievable goals within that domain.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Practice until your skills match the challenges presented.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Concentrate fully on the activity, interacting with opportunities at a level commensurate with your skills.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Adjust the difficulty level as you improve to maintain the flow channel.
 
@@ -3578,11 +3578,11 @@ Adjust the difficulty level as you improve to maintain the flow channel.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3595,52 +3595,52 @@ Adjust the difficulty level as you improve to maintain the flow channel.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
-Joe Kramer, a welder in South Chicago, turned a mindless routine job into a complex flow activity by mastering every phase of the plant's operation, fixing any broken machinery, and creating an elaborate rock garden with rainbow-producing sprinklers at home
+Joe Kramer, a welder in South Chicago, turned a repetitive routine job into a complex flow activity by mastering every phase of the plant's operation, fixing any broken machinery, and creating an elaborate rock garden with rainbow-producing sprinklers at home
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Serafina Vinon, a 76-year-old Alpine farmer, finds deep satisfaction in milking cows, tending orchards, and carding wool, and would choose the same activities even if she had unlimited time and money
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Look for challenges and opportunities for action where others see only drudgery or routine
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Develop skills relevant to your work through continuous learning and practice
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Focus your full attention on the activity at hand, blocking out distractions
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Allow yourself to become completely absorbed in the interaction with the task
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Set personal goals that give meaning to even the most humble work
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Use empathic identification to understand systems or problems deeply (e.g., "If I were that broken object, what would be wrong with me?")
 
 #### Best Practices
 
-- Treat every task as a chance to learn something new, even if you've done it many times before
+- Treat every task as a chance to learn something new, even if you've done it repeatedly before
 - Take ownership of your work environment and make it your own
 - Cultivate curiosity about how things work, especially when they break
 - Design your own patterns and approaches rather than blindly following routines
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3653,39 +3653,39 @@ Use empathic identification to understand systems or problems deeply (e.g., "If 
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 English cottage weavers worked from home with their families, set their own production goals, quit when weather was good to work in gardens, sang ballads while working, and celebrated when pieces were finished
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Weavers in the Biella province of northern Italy still follow this pattern today, supervising mechanical looms, switching tasks when bored, deciding what cloth to weave and where to sell it, and traveling to stay current with new techniques
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Ensure jobs have clear, well-defined goals so workers know exactly what success looks like
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Provide immediate and continuous feedback so workers can adjust their performance in real time
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Build in variety to prevent monotonous repetition
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Match challenges to skill levels and allow for increasing complexity over time
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Give workers control over their schedules, methods, and goals
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Allow experimentation and learning new techniques as part of the job
 
-#### Step 7: [Action]
+#### Step 7: 
 
 Design work so it can be self-paced and adjusted based on energy and interest
 
@@ -3698,11 +3698,11 @@ Design work so it can be self-paced and adjusted based on energy and interest
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3715,35 +3715,35 @@ Design work so it can be self-paced and adjusted based on energy and interest
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 In the Experience Sampling Method study, full-time workers wore pagers for a week and reported being in flow 54% of the time while working, but only 18% of the time during leisure activities like reading, watching TV, or going to restaurants
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Managers and supervisors reported flow 64% of the time at work, while blue-collar workers reported it 47% of the time—still more than twice their leisure flow rate of 20%
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Recognize that jobs provide built-in goals, feedback, rules, and challenges that free time lacks
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Base your motivation on the actual sensory evidence of experience quality, not on cultural assumptions
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Reframe work as a self-chosen activity rather than a burden imposed from outside
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Align your job with your own long-range personal goals, not just someone else's ambitions
 
-#### Step 5: [Action]
+#### Step 5: 
 
 View time spent working as an investment in your own growth, not as time subtracted from your life
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Evaluate whether your goals are truly your own or merely adopted from social expectations
 
@@ -3756,11 +3756,11 @@ Evaluate whether your goals are truly your own or merely adopted from social exp
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3773,27 +3773,27 @@ Evaluate whether your goals are truly your own or merely adopted from social exp
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Surgeons who enjoy their work practice in hospitals that allow variety, experimentation with new techniques, and incorporate research and teaching; they focus on intrinsic aspects like the feeling of the activity itself rather than money or prestige
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Joe Kramer declined promotions to foreman because he preferred remaining a simple welder who could master every aspect of the plant, finding more satisfaction in technical mastery than in status
 
-#### Step 1: [Action]
+#### Step 1: 
 
 **For lack of variety and challenge:** Reframe routine tasks to see hidden opportunities for action and skill development; take initiative to expand your responsibilities rather than waiting for others to assign them
 
-#### Step 2: [Action]
+#### Step 2: 
 
 **For conflicts with coworkers and supervisors:** Set goals that include helping others succeed, not just advancing your own interests; avoid rigid expectations of how others should treat you; practice empathy and collaborative problem-solving
 
-#### Step 3: [Action]
+#### Step 3: 
 
 **For burnout and stress:** Recognize that stress is subjective and depends on how you interpret conditions; use better organization, delegation, and communication to reduce objective pressures; cultivate inner disciplines like meditation to manage reaction to stress
 
-#### Step 4: [Action]
+#### Step 4: 
 
 **For all three:** View work dissatisfaction as a signal to invest psychic energy in personally forged goals, and to shape your job conditions more intentionally
 
@@ -3806,11 +3806,11 @@ Joe Kramer declined promotions to foreman because he preferred remaining a simpl
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3823,35 +3823,35 @@ Joe Kramer declined promotions to foreman because he preferred remaining a simpl
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 The Alpine villagers of Pont Trentaz fill their free time with demanding activities like playing accordion, telling stories, dancing, and maintaining complex cultural traditions rather than passively consuming entertainment
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Joe Kramer built an intricate rock garden with terraces, paths, hundreds of flowers, custom-designed sprinkler heads for rainbows, and floodlights for nighttime viewing—turning his backyard into a complex creative project
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Develop hobbies that require skill development and present clear challenges (e.g., music, art, sports, crafts)
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Set specific goals and limits for leisure activities rather than drifting aimlessly
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Cultivate personal interests that absorb your attention and provide feedback
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Prioritize active participation over passive consumption (play music rather than just listening, play sports rather than only watching)
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Use inner discipline to shape free time rather than letting it be dictated by commercial leisure industries
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Fill free time with demanding activities that provide the same sense of growth and complexity as work
 
@@ -3864,11 +3864,11 @@ Fill free time with demanding activities that provide the same sense of growth a
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3881,31 +3881,31 @@ Fill free time with demanding activities that provide the same sense of growth a
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 The surgeons who love their work benefit from both well-designed jobs (clear goals, immediate feedback, teamwork, opportunities for precision) and autotelic personalities that allow them to find intrinsic fascination in the activity itself
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 The cottage weavers of Biella have jobs that are inherently flow-producing (autonomy, variety, clear goals, tangible results) and workers who have developed autotelic personalities that make the work the most enjoyable part of their lives
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Advocate for job redesign that incorporates flow characteristics: clear goals, immediate feedback, varied challenges, and autonomy
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Train yourself and others to develop autotelic traits: recognize opportunities, hone skills, set reachable goals, and find intrinsic satisfaction in tasks
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Recognize that favorable external job conditions alone do not guarantee flow—subjective perception and personal investment are equally essential
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Work on both levels simultaneously: improve your job environment while cultivating your capacity to enjoy whatever environment you are in
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Do not wait for employers to make work enjoyable before investing your own attention and energy
 
@@ -3918,11 +3918,11 @@ Do not wait for employers to make work enjoyable before investing your own atten
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3935,37 +3935,37 @@ Do not wait for employers to make work enjoyable before investing your own atten
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Joe Kramer learned to fix any broken machinery by asking himself, "If I were that toaster and I didn't work, what would be wrong with me?" then disassembling it to find and fix the defect
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Ting the cook butchered oxen with such fluid mastery that every movement was in perfect rhythm, like a dance, because he had developed a mystical intuitive understanding of ox anatomy
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Develop empathic identification with the objects or systems you work with—ask yourself what they would tell you if they could
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Move beyond conscious technique and skill (chi) to intuitive, spontaneous understanding
 
-#### Step 3: [Action]
+#### Step 3: 
 
 When encountering complex problems, slow down and focus attention with extreme subtlety rather than rushing
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Allow perception and understanding to guide action until the solution emerges naturally
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Cultivate the ability to size up difficulties, watch carefully, and move with precision
 
-#### Step 6: [Action]
+#### Step 6: 
 
-Trust that deep practice eventually makes high performance seem automatic and otherworldly
+Trust that deep practice makes high performance seem automatic and otherworldly
 
 #### Best Practices
 
@@ -3976,11 +3976,11 @@ Trust that deep practice eventually makes high performance seem automatic and ot
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -3993,35 +3993,35 @@ Trust that deep practice eventually makes high performance seem automatic and ot
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Surgeons describe how exhilarating it is to be part of a well-trained team that functions smoothly and efficiently during an operation, where coordinated effort creates an experience more satisfying than individual action
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 One surgeon noted: "It's very satisfying and if it is somewhat difficult it is also exciting... particularly when the group works together in a smooth and efficient manner: then the aesthetics of the whole situation can be appreciated"
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Develop your own individual skills to a high level so you can contribute effectively to a team
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Learn to coordinate your actions with others so the group functions as a unified system
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Appreciate the aesthetics of a well-functioning team—the beauty of smooth, efficient coordination
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Take responsibility for your role while remaining flexible and responsive to the team's needs
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Find satisfaction in the collective achievement, not just your personal contribution
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Communicate clearly and anticipate the needs of teammates to maintain flow for the whole group
 
@@ -4034,11 +4034,11 @@ Communicate clearly and anticipate the needs of teammates to maintain flow for t
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4051,35 +4051,35 @@ Communicate clearly and anticipate the needs of teammates to maintain flow for t
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
-Surgeons often put themselves on "automatic pilot" before important operations by eating the same breakfast, wearing the same clothes, and driving to the hospital by the same route, not out of superstition but because habitual behavior makes it easier to devote undivided attention to the challenge ahead
+Surgeons put themselves on "automatic pilot" before important operations by eating the same breakfast, wearing the same clothes, and driving to the hospital by the same route, not out of superstition but because habitual behavior makes it easier to devote undivided attention to the challenge ahead
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Before operations, surgeons go through steps of preparation, purification, and dressing in special garments—similar to athletes before a contest or priests before a ceremony—which serve to separate them from everyday concerns and focus their minds
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Develop a consistent pre-task routine that signals to your mind that it is time to enter a focused state
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Use physical preparations (clothing, environment, tools) as triggers for mental preparation
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Minimize distractions in your work environment by controlling sensory input
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Create separations between work mode and other life modes—use rituals to mark the transition
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Repeat successful preparation sequences to build reliable pathways into flow
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Design your physical workspace to support concentration (e.g., spotlight-like focus on the task, minimizing interruptions)
 
@@ -4092,11 +4092,11 @@ Design your physical workspace to support concentration (e.g., spotlight-like fo
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4109,31 +4109,31 @@ Design your physical workspace to support concentration (e.g., spotlight-like fo
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Dorothy, who lives alone on a Minnesota island, structures every day with routines: up by five, check hens, milk goat, split wood, make breakfast, sew, fish, read, and write.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Susan Butcher lives alone with 150 huskies in Alaska; caring for them demands sixteen hours of focused attention daily, leaving no room for loneliness.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Recognize that when alone, your mind will naturally drift toward worries without external goals.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Identify activities requiring concentration that build skills and develop the self.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Establish strict daily routines to structure your time when alone (e.g., Dorothy's five-a.m. wake-up, chores, reading schedule).
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Personalize your environment to make it familiar and conducive to focus.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Choose activities with clear manageable tasks that keep consciousness focused.
 
@@ -4145,11 +4145,11 @@ Choose activities with clear manageable tasks that keep consciousness focused.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4162,31 +4162,31 @@ Choose activities with clear manageable tasks that keep consciousness focused.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Mark, age 12, was robbed by three young men. Instead of accepting the victim role, he turned around, caught up with them, and appealed to their reason by explaining the sentimental value of his watch. The robbers voted and returned it.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A supportive social network mitigates stress; an illness is less devastating when you have emotional support from others.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 When faced with a negative social situation, resist accepting the role others impose on you (e.g., "victim," "failure").
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Reframe the other people not as enemies or threats, but as individuals who might respond to reason or empathy.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Look for shared humanity or common ground even in adversarial encounters.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Use skills of communication and reinterpretation to alter the interaction's rules.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Treat the situation as a solvable problem rather than a fixed fate.
 
@@ -4198,11 +4198,11 @@ Treat the situation as a solvable problem rather than a fixed fate.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4215,35 +4215,35 @@ Treat the situation as a solvable problem rather than a fixed fate.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 A family balancing differentiation and integration might alternate weekends: one for Rick's motocross race, the next for Erica's aquarium visit. Each learns to appreciate the other's interests.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 When Csikszentmihalyi's oldest child began to find zoo visits distressing (due to animals in captivity), the family stopped the activity rather than forcing it, and sought new shared experiences.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Establish long-term shared goals that reflect both the family unit and individual members' aspirations (e.g., building an ideal home, providing excellent education).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Practice **differentiation**: encourage each person to develop unique traits, maximize personal skills, and set individual goals.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Practice **integration**: ensure what happens to one person affects and matters to all others; celebrate each other's achievements and support each other in distress.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Create a constant supply of short-term shared objectives (picnics, vacations, games, projects).
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Maintain open channels of communication so feedback flows freely and conflicts are addressed before they amplify.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Continuously introduce new challenges to keep the relationship growing rather than stagnating.
 
@@ -4255,11 +4255,11 @@ Continuously introduce new challenges to keep the relationship growing rather th
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4272,35 +4272,35 @@ Continuously introduce new challenges to keep the relationship growing rather th
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Christopher, a shy 15-year-old, methodically transformed his social standing by buying contact lenses, fashionable clothes, learning new music, and practicing a new demeanor—all supported by his parents. He treated popularity as a flow activity with clear goals and steps.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
-Adults who drift apart from friends often recall with tears the good buddies from school, illustrating that friendships require continuous investment.
+Adults who drift apart from friends recall with tears the good buddies from school, illustrating that friendships require continuous investment.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Actively cultivate friendships rather than assuming they will persist without effort.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Choose friends who share your ultimate goals and who will challenge you to grow, not just validate your current public persona.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Invest time and attention in learning new facets of your friend's unique individuality.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Disclose more of your own individuality in return, sharing secret feelings and thoughts.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Support your friend through inevitable changes with sympathy and compassion.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Use friendship as a safe space to express parts of yourself that work and family roles suppress.
 
@@ -4312,11 +4312,11 @@ Use friendship as a safe space to express parts of yourself that work and family
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4329,35 +4329,35 @@ Use friendship as a safe space to express parts of yourself that work and family
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Mahatma Gandhi and Mother Teresa invested all their psychic energy in the goals of humanity as a whole.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A politician who genuinely improves social conditions experiences higher complexity and real joy than one who merely seeks power.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Identify a public goal that aligns with your values (community service, environmental preservation, education, political action).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Set clear goals for your involvement.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Concentrate your psychic energy on the chosen cause.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Pay attention to feedback to measure whether goals are being achieved.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Ensure the challenge is appropriate to your skill level, and increase difficulty as you grow.
 
-#### Step 6: [Action]
+#### Step 6: 
 
 Focus on benefiting others, not just personal power or fame, for greater fulfillment.
 
@@ -4365,15 +4365,15 @@ Focus on benefiting others, not just personal power or fame, for greater fulfill
 
 - Structure public involvement according to flow parameters: clear goals, immediate feedback, balanced challenges and skills.
 - Judge communities, schools, and institutions by the quality of experience they provide, not just material wealth or prestige.
-- Reform yourself before trying to reform the world; those who try to improve others without self-control usually make things worse.
+- Reform yourself before trying to reform the world; those who try to improve others without self-control make things worse.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4386,31 +4386,31 @@ Focus on benefiting others, not just personal power or fame, for greater fulfill
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Cicero wrote that to be completely free one must become a slave to a set of laws.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A person who willingly commits to monogamous marriage is freed from the constant pressure of maximizing emotional returns and can invest energy in shared growth.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Recognize that rules and obligations in relationships are like the rules of a game: they exclude some possibilities so you can concentrate fully on a selected set of options.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Make commitments willingly, not under compulsion.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Once committed, stop second-guessing whether "the grass is greener somewhere else."
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Redirect the psychic energy previously spent on wondering how to live into actually living.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Apply this to marriage, family, career, or any long-term relationship requiring sustained attention.
 
@@ -4422,11 +4422,11 @@ Apply this to marriage, family, career, or any long-term relationship requiring 
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4439,31 +4439,31 @@ Apply this to marriage, family, career, or any long-term relationship requiring 
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 When a couple's initial attraction and discovery phase ends, new challenges must be found: varying routines, discussing new topics, making new friends together.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Teenagers need meaningful challenges; if school and home offer only artificial or too-simple activities, they turn to delinquency, drugs, or premature pregnancy.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Recognize when a relationship has become predictable and routine.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Actively seek new challenges in the relationship: new topics of conversation, new places to visit, new shared activities.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 In romantic relationships, deepen knowledge of your partner beyond surface-level familiarity.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 In parent-child relationships, adjust challenges as children grow; treat teenagers as young adults capable of meaningful discussion.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Introduce novel experiences that require joint problem-solving or learning.
 
@@ -4475,11 +4475,11 @@ Introduce novel experiences that require joint problem-solving or learning.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4492,27 +4492,27 @@ Introduce novel experiences that require joint problem-solving or learning.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **Lucio** (paraplegic gas station attendant): After a motorcycle accident paralyzed him below the waist, he enrolled in college, graduated in languages, became a freelance tax consultant, and is now a regional archery champion competing from a wheelchair. He says, "When I became paraplegic, it was like being born again."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Pilar** (blind woman): Lost her sight at age twelve when her retinas detached. She describes blindness as a positive influence that "made me mature in ways that I could never have become even with a college degree."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 When confronted with a major catastrophe, recognize that you have two choices: retreat and defend remaining goals, or embrace the new challenges created by the defeat.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Reframe the event as an occasion to develop new skills and find clarity of purpose.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Focus on what you can control rather than what you have lost.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Use the tragedy as a catalyst to build a more complex and meaningful life.
 
@@ -4525,11 +4525,11 @@ Use the tragedy as a catalyst to build a more complex and meaningful life.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4542,27 +4542,27 @@ Use the tragedy as a catalyst to build a more complex and meaningful life.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 The text notes that a major illness "will be mitigated to a certain extent if one has good insurance and a loving family," but emphasizes that external supports "tend to help only those who can help themselves."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 An introvert moving to a new city faces more stress than an extrovert because of psychological resource differences, but both can improve their coping strategies.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Assess which resources are available to you when facing stress: social support, personal strengths, and available coping strategies.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Recognize that external supports (insurance, family, money) are secondary to your internal coping ability.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Focus on developing and refining your coping strategies, since this is the resource most within your control.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Build psychological resources (intelligence, education, personality development) over time as a long-term investment.
 
@@ -4574,11 +4574,11 @@ Build psychological resources (intelligence, education, personality development)
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4591,27 +4591,27 @@ Build psychological resources (intelligence, education, personality development)
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 The text describes a pilot who "is confident in her ability to cope with whatever weather conditions may arise—not because she will force the plane to obey her will, but because she will be the instrument for matching the properties of the plane to the conditions of the air."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A car that won't start: Instead of cursing the car and turning the ignition frantically, recognize that "the car follows its own laws, and the only way to get it moving is by taking them into account."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Cultivate trust in your own skills and resources—believe you have what it takes to handle challenges.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Trust your environment and understand its rules rather than insisting it conform to your desires.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Accept that your goals may need to be subordinated to a greater entity, and that success may require playing by a different set of rules than you would prefer.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 See yourself as part of a larger system rather than in opposition to it.
 
@@ -4623,11 +4623,11 @@ See yourself as part of a larger system rather than in opposition to it.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4640,27 +4640,27 @@ See yourself as part of a larger system rather than in opposition to it.
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Rock climber Yvon Chouinard describing an ascent: "Each individual crystal in the granite stood out in bold relief. The varied shapes of the clouds never ceased to attract our attention. This unity with our joyous surroundings, this ultra-penetrating perception, gave us a feeling that we had not had for years."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Charles Lindbergh during his solo Atlantic crossing: "Each item takes on a new value...all such things, which I never considered much before, are now obvious and important."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 When facing stress, consciously redirect attention away from internal worries and toward the external environment.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Observe the details of your surroundings and the system you are part of.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Process information from the environment to understand its properties and find adaptation strategies.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Maintain an open, permeable attention that notices unexpected opportunities and alternative responses.
 
@@ -4672,11 +4672,11 @@ Maintain an open, permeable attention that notices unexpected opportunities and 
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4689,31 +4689,31 @@ Maintain an open, permeable attention that notices unexpected opportunities and 
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **Phil** (fictional financial analyst facing missed promotion): Either find ways to change the CEO's mind (direct approach) or consider moving to another division, changing careers, or scaling down career objectives to invest in family or self-development (alternative approach).
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 The text emphasizes: "Even terrible disasters like blindness and paraplegia can be turned into conditions for enjoyment and greater complexity. Even the approach of death itself can serve to create harmony in consciousness, rather than despair."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 When a goal is blocked, first attempt the direct approach: identify and remove the obstacle.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 If the obstacle cannot be removed, shift focus to the entire situation, including yourself, to evaluate alternative goals.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Ask: "What else could I do that would be meaningful and engaging?"
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Create a new flow activity by setting fresh goals that match your current circumstances and skills.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Be willing to scale down or redirect ambitions—career changes, family focus, community involvement, or self-development are all valid alternatives.
 
@@ -4726,11 +4726,11 @@ Be willing to scale down or redirect ambitions—career changes, family focus, c
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4743,27 +4743,27 @@ Be willing to scale down or redirect ambitions—career changes, family focus, c
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 The autotelic lawyer at the Picasso sculpture unveiling: He transformed everything he saw into a professional problem his skills could master, living in constant flow—though the text notes this may also limit growth if it prevents appreciating other dimensions.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Srinivasa Ramanujan: Invested so much psychic energy in number theory that "poverty, sickness, pain, and even rapidly approaching death...had no chance of distracting his mind from calculations—in fact, they just spurred him on to greater creativity."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 **Setting Goals:**
 
-#### Step 2: [Action]
+#### Step 2: 
 
 **Becoming Immersed in the Activity:**
 
-#### Step 3: [Action]
+#### Step 3: 
 
 **Paying Attention to What Is Happening:**
 
-#### Step 4: [Action]
+#### Step 4: 
 
 **Learning to Enjoy Immediate Experience:**
 
@@ -4776,11 +4776,11 @@ Srinivasa Ramanujan: Invested so much psychic energy in number theory that "pove
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4793,11 +4793,11 @@ Srinivasa Ramanujan: Invested so much psychic energy in number theory that "pove
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 **Franco** (paraplegic former electrician): After losing use of his legs and developing severe urological problems, he became a counselor to other paraplegics, finding his main challenge in "helping other victims avoid despair, and assisting their physical rehabilitation."
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 **Antonio** (blind high school teacher): Currently working to adopt a blind child, the first such adoption considered possible in his entire country.
 
@@ -4809,11 +4809,11 @@ Srinivasa Ramanujan: Invested so much psychic energy in number theory that "pove
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4826,31 +4826,31 @@ Srinivasa Ramanujan: Invested so much psychic energy in number theory that "pove
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 The chapter opens by addressing the common belief that "it must be easy to be happy as long as one is lucky enough to be healthy, rich, and handsome," then systematically dismantles this view.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 The text states: "Material conditions are secondary: they only affect us indirectly, by way of experience. Flow, and even pleasure, on the other hand, benefit the quality of life directly."
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Stop believing that material conditions are prerequisites for happiness.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Recognize that subjective experience is life itself, not just one dimension of it.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Understand that flow and consciousness control benefit life directly, while material advantages affect life only indirectly through experience.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Evaluate situations based on how you interpret them, not on their objective circumstances.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Choose to see every event as a potential challenge for action rather than a threat.
 
@@ -4862,11 +4862,11 @@ Choose to see every event as a potential challenge for action rather than a thre
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4879,31 +4879,31 @@ Choose to see every event as a potential challenge for action rather than a thre
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Reyad's spiritual quest: "From 1967 on my idea has remained the same: to find myself." His entire journey of twenty years—through wars, disasters, poverty—is unified by this single goal.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Dino's chair restoration: Each broken chair he restores is part of a lifelong flow activity that provides "constant purpose" through craftsmanship.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Cultivate individual flow experiences in specific activities.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Connect these activities into a larger life purpose with unified goals.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Ensure that everyday events make sense within this broader context.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Avoid moving from one flow activity to another without connecting order.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Create harmony in whatever you do, making all actions contribute to a coherent life narrative.
 
@@ -4916,11 +4916,11 @@ Create harmony in whatever you do, making all actions contribute to a coherent l
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4933,27 +4933,27 @@ Create harmony in whatever you do, making all actions contribute to a coherent l
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Adolescents stay depressed on average for only half an hour after a setback, recovering through positive feedback from others.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 By age seventeen or eighteen, teenagers "are generally able to place negative events in perspective" because they know they have survived disappointment before and that others share their struggles.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Understand that younger children depend on external social support to buffer stress; this is normal.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Recognize that by adolescence, the ability to place negative events in perspective begins to develop through repeated experience of surviving disappointments.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 If transformational skills have not fully developed by late adolescence, consciously practice the three steps: unselfconscious self-assurance, outward-focused attention, and discovering new solutions.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Build a strong sense of self based on personally selected goals—whether family, country, religion, ideology, or mastery of a symbolic system (art, music, physics)—to create resilience against external disappointment.
 
@@ -4965,11 +4965,11 @@ Build a strong sense of self based on personally selected goals—whether family
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -4982,31 +4982,31 @@ Build a strong sense of self based on personally selected goals—whether family
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Napoleon devoted his life to the single-minded pursuit of power; Mother Teresa invested all her energies to helping the helpless based on unconditional love rooted in spiritual faith.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A person whose goal is to collect the best beer bottles in the neighborhood, cure cancer, or raise children who survive and prosper—any of these can serve if it provides the right structure.
 
-#### Step 1: [Action]
+#### Step 1: 
 
-Recognize that individual flow activities (work, sport, art) are not enough—they eventually run dry and cannot protect you from life's chaos.
+Recognize that individual flow activities (work, sport, art) are not enough—they run dry and cannot protect you from life's chaos.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Identify a goal that is difficult enough to take up all your energies and from which all other goals logically follow.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Confirm the goal provides clear objectives, clear rules for action, and a way to concentrate and become involved.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Invest all energy in developing the skills needed to reach that goal.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Ensure each activity "makes sense" in the present, in view of the past, and in view of the future.
 
@@ -5018,44 +5018,44 @@ Ensure each activity "makes sense" in the present, in view of the past, and in v
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Assuming a meaningful life requires a universally valid, cosmic purpose.  
   **Solution:** Understand that meaning is subjective and personal. Any unified purpose works, regardless of its source or objective content.
 - **Problem:** Abandoning a goal whenever hardship appears.  
-  **Solution:** Recognize that goals justify the effort they demand at the outset, but later it is the effort that justifies the goal. Commitment transforms even modest goals into something worthwhile.
+  **Solution:** Recognize that goals justify the effort they demand at the outset, but it is the effort that justifies the goal. Commitment transforms even modest goals into something worthwhile.
 
 ### Lesson 94: Understand the Three Senses of "Meaning" to Build It Intentionally
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 The question "What is the meaning of life?" invokes the first sense: a final goal or ultimate purpose.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 "She usually means well" invokes the second sense: intentions expressed through predictable behavior.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Establish a final goal (purpose) that gives direction and significance to your life.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Ensure your intentions are expressed in predictable, consistent, and orderly actions.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Use that goal to clarify and order information, resolving conflicts between unrelated or competing demands.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Integrate all three senses simultaneously—goal, action, and information-order—into a single, unified system.
 
@@ -5066,11 +5066,11 @@ Integrate all three senses simultaneously—goal, action, and information-order�
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -5081,29 +5081,29 @@ Integrate all three senses simultaneously—goal, action, and information-order�
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 The Pilgrims: their commitment to religious freedom became valuable not because it was inherently noble, but because they refused to abandon it under persecution. Their resolve gave it worth.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
-A mountaineer scaling a difficult peak: the goal justifies the effort at the outset; later, the effort justifies the goal.
+A mountaineer scaling a difficult peak: the goal justifies the effort at the outset; the effort justifies the goal.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 **Cultivate Purpose:** Identify a goal challenging enough to absorb all your psychic energy and unify all lesser goals.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 **Forge Resolution:** Commit to that goal fully, preparing to reckon with all the consequences it prescribes—do not change goals whenever opposition threatens.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 **Integrate Into Harmony:** Let your actions, feelings, and thoughts become congruent; ensure psychic energy is not wasted on doubt, regret, guilt, or fear.
 
-#### Step 4: [Action]
+#### Step 4: 
 
-Evaluate intuitively over time: if the habit of reflection is well-developed, you will almost automatically sense whether a course of action is entropic or not.
+Evaluate intuitively over time: if the habit of reflection is well-developed, you will automatically sense whether a course of action is entropic or not.
 
 #### Best Practices
 
@@ -5113,44 +5113,44 @@ Evaluate intuitively over time: if the habit of reflection is well-developed, yo
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Switching goals whenever opposition or difficulty arises.  
   **Solution:** Understand that the price of changing goals frequently is an empty and meaningless life. Resolve must outlast hardship.
-- **Problem:** Over-investing in a single pragmatic goal (e.g., climbing the corporate ladder) without reflection, leading to regret later.  
+- **Problem:** Over-investing in a single pragmatic goal (e.g., climbing the corporate ladder) without reflection, leading to regret.  
   **Solution:** Pair intense action with periodic reflection. Check whether postponed alternatives are reappearing as intolerable regrets.
 
 ### Lesson 96: Cultivate Purpose by Understanding Cultural and Individual Stages of Meaning-Making
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 A sensate culture cultivates the body for health and pleasure; an ideational culture cultivates the body as a symbol of metaphysical perfection (e.g., Aryan race ideology).
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A yuppie lifestyle is primarily sensate; Bible Belt fundamentalism is primarily ideational. Both can organize life into coherent flow.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Understand the three cultural modes: sensate (pleasure, practicality, material comfort), ideational (spiritual ends, abstract principles, asceticism), and idealistic (integration of both).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Assess which mode currently shapes your goals and whether it is serving you well.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Recognize your current stage in the four-stage individual development sequence:
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Progress through the stages by alternating investment in self-differentiation and integration with larger systems.
 
@@ -5163,11 +5163,11 @@ Progress through the stages by alternating investment in self-differentiation an
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -5180,84 +5180,84 @@ Progress through the stages by alternating investment in self-differentiation an
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 The Pilgrims: faced with persecution, they did not abandon their commitment to religious freedom. Their resolve made the goal meaningful regardless of its original worth.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 The mountaineer: the goal of scaling a difficult peak justifies exhaustion and danger only if the climber persists; giving up too easily reveals the quest as having little value.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Before committing to a goal, honestly assess what suffering, sacrifice, or risk it entails.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Accept those consequences fully in advance—do not enter a commitment you are not willing to endure.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 When opposition or hardship arises, do not abandon the goal for a less demanding alternative.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Let your actions demonstrate that you believe the goal is worth sacrifice; your behavior is what ultimately gives the goal value.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Periodically ask: Am I behaving as if this goal is still worth it? If not, either recommit fully or consciously choose a new direction.
 
 #### Best Practices
 
-- Recognize that freedom of choice is a double-edged sword: too many equally attractive options undermine the resolve necessary for meaning.
+- Recognize that freedom of choice is a double-edged sword: equally attractive options undermine the resolve necessary for meaning.
 - Do not romanticize the past's rigid values as preferable—they are no longer available, and the complexity and freedom of modern life are challenges to be mastered, not problems to escape.
 - Commit to goals through both intense cultivation (trial and error) and self-knowledge, not through external authority.
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
 - **Problem:** Mistaking comfort for meaning—trading long-term resolve for short-term ease.  
   **Solution:** Remind yourself that a life without committed goals, even when comfortable, will feel empty and devoid of meaning.
-- **Problem:** Having too many competing goals and therefore being unable to commit to any of them.  
+- **Problem:** Having competing goals and therefore being unable to commit to any of them.  
   **Solution:** Use self-knowledge to sort essential claims from non-essential ones and arbitrate priorities. The ancients called this the contrast between the vita activa (life of action) and the vita contemplativa (path of reflection).
 
 ### Lesson 98: Combine Action and Reflection—Neither Alone Is Sufficient
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Winston Churchill and Andrew Carnegie set lifelong goals and pursued them with resolve, achieving flow with little apparent internal struggle.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 A young engineer who aims to become plant manager by forty-five may sail through years successfully, only to face postponed alternatives returning as intolerable regrets (health, family, meaning of achieved power).
 
-#### Step 1: [Action]
+#### Step 1: 
 
 **Before committing:** Use reflection to ask fundamental questions: Is this what I really want? Will I enjoy it? Is the price worth it? Can I live with myself if I accomplish it?
 
-#### Step 2: [Action]
+#### Step 2: 
 
 **During pursuit:** Use intense action to preempt inner conflict—immerse yourself so fully in worthy challenges that there is no room for entropy to arise.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 **Periodically review:** Check whether your actions remain consistent with your long-term goals (modeled on the Jesuits' examen, or review of conscience).
 
-#### Step 4: [Action]
+#### Step 4: 
 
 **When doubt arises:** Return to reflection—not to abandon the goal, but to recommit consciously or to redirect with clarity.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Develop the habit of reflection so thoroughly that intuitive judgments about entropic vs. non-entropic choices become automatic.
 
@@ -5269,15 +5269,15 @@ Develop the habit of reflection so thoroughly that intuitive judgments about ent
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
-- **Problem:** Relying exclusively on action without reflection, eventually encountering regret when postponed alternatives resurface.  
+- **Problem:** Relying exclusively on action without reflection, encountering regret when postponed alternatives resurface.  
   **Solution:** Build regular reflective checkpoints into your life. Do not wait for a crisis to force introspection.
 - **Problem:** Relying exclusively on reflection without action, remaining trapped in analysis and indecision.  
   **Solution:** Pair reflection with commitment. After reflection, act decisively—a good decision acted upon is better than a perfect decision never executed.
@@ -5286,31 +5286,31 @@ Develop the habit of reflection so thoroughly that intuitive judgments about ent
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Adolf Eichmann: an extreme case of an accepted life theme. He found flow in bureaucratic efficiency but never questioned whether his goals were right. In a corrupt system, an otherwise "upright" person can become an accessory to atrocities without changing goals.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Malcolm X: a discovered life theme. He began following society's script (crime, drugs) and, through reading and reflection in jail, invented an entirely new identity and purpose based on dignity and self-respect.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Decide whether your current life theme is discovered (written by you from personal experience) or accepted (taken from a script written by others).
 
-#### Step 2: [Action]
+#### Step 2: 
 
 If your theme is accepted, evaluate whether the social system that produced it is sound. An accepted theme works well in a healthy society but can become a trap in a corrupt one.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 If your theme is discovered, accept that it may lack social legitimacy and may be viewed as eccentric—this is the price of authenticity.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Anchor your theme in ancient human goals (dignity, self-respect, love, knowledge) but freshly choose and personalize them.
 
-#### Step 5: [Action]
+#### Step 5: 
 
 Ensure your theme provides clear feedback: you should always be able to tell whether your actions are moving you toward or away from your goal.
 
@@ -5322,11 +5322,11 @@ Ensure your theme provides clear feedback: you should always be able to tell whe
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
@@ -5339,33 +5339,33 @@ Ensure your theme provides clear feedback: you should always be able to tell whe
 
 #### Examples
 
-##### Example 1: [Use Case]
+##### Example 1: 
 
 Animals in their natural state: a hungry lion perceives only what it needs to find prey; a sated lion focuses on warmth. It neither imagines alternatives nor fears failure—it experiences flow by default.
 
-##### Example 2: [Use Case]
+##### Example 2: 
 
 Children before self-consciousness interferes: they act spontaneously with total involvement; boredom is something they must learn in response to artificially restricted choices.
 
-#### Step 1: [Action]
+#### Step 1: 
 
 Recognize that psychic entropy (inner conflict, anxiety, boredom) is a natural byproduct of increased consciousness—not a personal failure.
 
-#### Step 2: [Action]
+#### Step 2: 
 
 Do not idealize the simplicity of animals, children, or pre-literate cultures as states to return to; that harmony is irretrievable once consciousness has expanded.
 
-#### Step 3: [Action]
+#### Step 3: 
 
 Understand that as your options and skills increase, so does the potential for inner conflict.
 
-#### Step 4: [Action]
+#### Step 4: 
 
 Accept that modern complexity is not a problem to be solved by regression but a challenge to be mastered by creating greater order (a unified life theme).
 
-#### Step 5: [Action]
+#### Step 5: 
 
-When anxiety arises from too many demands, use purpose and resolve to filter; when boredom arises from too few, seek new challenges within your chosen framework.
+When anxiety arises from demands, use purpose and resolve to filter; when boredom arises from insufficient challenges, seek new challenges within your chosen framework.
 
 #### Best Practices
 
@@ -5375,11 +5375,11 @@ When anxiety arises from too many demands, use purpose and resolve to filter; wh
 
 #### Keep In Mind
 
-- Text
+
 
 #### Security & Safety Notes
 
-- Text
+
 
 #### Common Pitfalls
 
