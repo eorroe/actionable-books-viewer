@@ -918,7 +918,7 @@ This understanding is meant to be known through awareness, not through intellect
 - **Problem:** Feeling guilty for experiencing added suffering: "I shouldn't be suffering this way."
   **Solution:** Notice the guilt as more added suffering; simply return to acknowledgment.
 - **Problem:** Believing that choosing not to add suffering means you don't care.
-  **Solution:** You can value someone or something deeply and still choose not to add suffering through reactive responses.
+  **Solution:** You can value a person, relationship, or object deeply and still choose not to add suffering through reactive responses.
 - **Problem:** Comparing your suffering to others': "Others have it worse, so I shouldn't struggle."
   **Solution:** Comparison is another form of added suffering; your experience — whatever is arising — is the material you can work with in practice.
 - **Problem:** Using "original purity" as a rationalization for harmful behavior or avoidance of growth.
@@ -932,7 +932,7 @@ This understanding is meant to be known through awareness, not through intellect
 
 ##### Example 1: The Impulse to Ask for Validation
 
-When confusion arises, the immediate impulse is commonly to reach out to an authority figure, teacher, or trusted person to label the situation as right/wrong or good/bad. Notice this impulse. Pause before acting on it. Clarity achieved through another person's authority is not your own knowing.
+When confusion arises, the immediate impulse is often to reach out to an authority figure, teacher, or trusted person to label the situation as right/wrong or good/bad. Notice this impulse. Pause before acting on it. Clarity achieved through another person's authority is not your own knowing.
 
 ##### Example 2: The Childlike Expectation of Rescue
 
@@ -940,7 +940,7 @@ Make a list of external sources you hope will bring you happiness or solve your 
 
 ##### Example 3: Resistance Empowers What You Dislike
 
-Identify something you resist — a thought, emotion, person, or sensation. Notice how much mental energy you spend pushing it away. Observe whether the thing you resist occupies more or less space in your mind after resistance. The mental effort spent resisting an experience is the same effort that could be directed toward understanding it.
+Identify a specific condition you resist — a thought, emotion, person, or sensation. Notice how much mental energy you spend pushing it away. Observe whether the thing you resist occupies more or less space in your mind after resistance. The mental effort spent resisting an experience is the same effort that could be directed toward understanding it.
 
 ##### Example 4: Not Living at the Peak of Inhalation
 
@@ -992,7 +992,7 @@ Use the capacity for awareness as your primary reference point, rather than depe
 
 #### Step 11: Notice the impulse to fix, solve, or justify every uncomfortable situation.
 
-Ask: "Is this something I can directly influence through my own actions in this situation?"
+Ask: "Is this condition within my direct influence through my own actions in this situation?"
 
 #### Step 12: If not fully controllable, say internally: "This is a changing condition."
 
@@ -1024,7 +1024,7 @@ For one sitting, stop resisting and simply allow the presence of the unwanted th
 
 #### Step 19: In meditation or daily life, notice a prominent experience — fear, anger, grief, or even joy — that is asking for your attention.
 
-Mentally allow the experience to be present, as one might open a door to let something enter: "This is allowed."
+Mentally allow the experience to be present, as one might open a door to let an experience enter: "This is allowed."
 
 #### Step 20: Do not categorize the experience as acceptable or unacceptable based on moral judgment.
 
@@ -1092,7 +1092,7 @@ Allow trust and confidence to grow from repeated practice, not from thinking abo
 
 #### Keep In Mind
 
-- The desire for certainty commonly overrides the willingness to see things as they are.
+- The desire for certainty repeatedly overrides the willingness to see things as they are.
 - Seeking external answers can become a pattern that undermines inner trust.
 - Clarity achieved through another person's authority is not your own knowing.
 - Even enlightened beings like the Buddha faced severe external harm without creating inner suffering from it.
@@ -1197,7 +1197,7 @@ Allow trust and confidence to grow from repeated practice, not from thinking abo
 - **Problem:** Feeling guilty for experiencing added suffering: "I shouldn't be suffering this way."
   **Solution:** Notice the guilt as more added suffering; simply return to acknowledgment.
 - **Problem:** Believing that choosing not to add suffering means you don't care.
-  **Solution:** You can value someone or something deeply and still choose not to add suffering through reactive responses.
+  **Solution:** You can value a person, relationship, or object deeply and still choose not to add suffering through reactive responses.
 - **Problem:** Comparing your suffering to others': "Others have it worse, so I shouldn't struggle."
   **Solution:** Comparison is another form of added suffering; your experience — whatever is arising — is the material you can work with in practice.
 - **Problem:** Toxic positivity: forcing yourself to feel fearless while denying genuine fear.
