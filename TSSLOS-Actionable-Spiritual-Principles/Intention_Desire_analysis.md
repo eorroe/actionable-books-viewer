@@ -17,10 +17,10 @@
 7. **Keep desires private.** Do not share your desires with anyone unless they share aligned desires and are deeply trusted companions.
 8. **Relinquish attachment to the outcome.** Give up rigid attachment to a specific result and live in the wisdom of uncertainty. Enjoy every moment of the journey even if you do not know the outcome.
 9. **Let the universe handle the details.** Trust the infinite organizing power of intention to orchestrate the details for you.
-10. **Refuse to focus on obstacles.** Keep your attention on your intent. Imaginary obstacles (approximately 90%) will disintegrate and disappear. Real obstacles become opportunities through intention.
+10. **Refuse to focus on obstacles.** Keep your attention on your intent. Imaginary obstacles (the great majority) will disintegrate and disappear. Real obstacles become opportunities through intention.
 
 ### Supporting Daily Practices
-- **Practice silence.** Set aside time daily to simply be. Withdraw from speech, television, radio, and reading. Start with short periods of 5–10 minutes and gradually extend the duration over weeks or months.
+- **Practice silence.** Set aside time daily to simply be. Withdraw from speech, television, radio, and reading. Start with short periods of 5–10 minutes and gradually extend the duration over time.
 - **Meditate.** A common recommendation is 30 minutes in the morning and 30 minutes in the evening. This cultivates the stillness required to access the field of pure potentiality.
 - **Practice non-judgment.** Begin the day with the statement: "Today I shall judge nothing that occurs." Remind yourself throughout the day when you catch yourself judging. If needed, commit to non-judgment for shorter periods (e.g., one hour) and extend gradually.
 - **Spend time in nature.** Whether a stream, forest, mountain, lake, or seashore, spending time in nature helps access the field of pure potentiality.
@@ -65,7 +65,7 @@
 ## 4. Common Pitfalls
 
 - **Attachment to outcomes.** Desire alone is weak when coupled with attachment; intent without attachment is powerful.
-- **Focusing on obstacles.** Approximately 90% of obstacles are imaginary and will disappear when you stop feeding them attention.
+- **Focusing on obstacles.** The great majority of obstacles are imaginary and will disappear when you stop feeding them attention.
 - **Object-referral.** Basing self-worth on external approval, control, or power leads to fear-based living.
 - **Constant judgment.** Evaluating things as right/wrong or good/bad creates internal turbulence that constricts connection to pure potentiality.
 - **Sharing desires indiscriminately.** Exposing desires to skeptical or critical opinions weakens their manifestation power.
@@ -93,7 +93,7 @@
 - **Time is the movement of thought.** Both past and future are born in imagination.
 - **You are like a localized expression within the field of pure potentiality.** Your body is not separate from the body of the universe.
 - **The universe is your extended body.** In the field of pure potentiality, there are no well-defined edges between what appears separate.
-- **Imaginary obstacles (approximately 90%) disintegrate; real obstacles become opportunities** when you remain focused on intent.
+- **Imaginary obstacles (the great majority) disintegrate; real obstacles become opportunities** when you remain focused on intent.
 - **Intention is desire without attachment to the outcome.** It is desire combined with strict adherence to the Seven Spiritual Laws of Success, especially detachment.
 - **Intention on the fertile ground of attention has infinite organizing power.**
 - **Stillness is a primary requirement for manifesting desires.** In stillness lies your connection to the field of pure potentiality.

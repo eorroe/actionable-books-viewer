@@ -53,7 +53,7 @@
 | **Attachment** | Based on fear and insecurity; clinging to symbols of the Self rather than the Self itself |
 | **Detachment** | Based on the unquestioning belief in the power of your true Self; freedom to create without attachment to outcome |
 | **Poverty Consciousness** | A state of attachment rooted in not knowing the true Self; chasing symbols instead of source |
-| **Wealth Consciousness** | The ability to have anything you want, anytime you want, with least effort; synonymous with detachment |
+| **Wealth Consciousness** | The ability to attract what you genuinely need and desire without unnecessary effort; synonymous with detachment |
 | **Field of All Possibilities** | The infinite field of energy where all possibilities exist; the unknown that is ever fresh and new |
 | **Uncertainty** | The fertile ground of pure creativity and freedom; stepping into the unknown |
 | **Symbols** | Transitory manifestations such as cars, houses, money, clothes; things that come and go |
@@ -82,7 +82,7 @@
 
 - **Misunderstanding detachment as disengagement**: Detachment does not mean isolation or giving up what is important; it means engaged participation without clinging to outcomes
 - **Giving up intention or desire**: The law does not require abandoning your goals or wishes—only relinquishing attachment to how and when they manifest
-- **Confusing detachment with sacrifice**: True detachment is freedom, not sacrifice; it is the gateway to experiencing everything you want
+- **Confusing detachment with sacrifice**: True detachment is freedom, not sacrifice; it is the gateway to experiencing all that serves your highest good
 - **Chasing symbols instead of source**: Focusing on material manifestations (cars, houses, money) rather than the Self that creates them
 - **Becoming a victim of the past**: Clinging to known outcomes creates stale repetition of outworn memories and prevents new manifestations
 - **Forcing solutions on problems**: Rigid attachment to specific outcomes creates new problems rather than resolving existing ones
@@ -106,7 +106,7 @@ No explicit security or safety notes are present in the text. The content is spi
 - **Letting go grants permanence**: "Let go and it will be yours forever"
 - **Uncertainty is essential**: Your path to freedom lies through uncertainty, not around it
 - **Freedom is the goal**: Detachment is synonymous with wealth consciousness and freedom to create
-- **True wealth is internal**: True wealth consciousness is the ability to have anything you want, anytime you want, with least effort
+- **True wealth is internal**: True wealth consciousness is the ability to attract what you genuinely need and desire without unnecessary effort
 - **The universe supports detachment**: When you relinquish attachment, the universe responds to your intention
 - **Detachment creates space for miracles**: By not obsessing over outcomes, you allow unexpected grace and success to enter your life
 - **Anxiety blocks manifestation**: Over-attachment to specific outcomes generates negative energy that interferes with natural creation flow

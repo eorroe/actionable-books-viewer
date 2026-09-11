@@ -22,7 +22,7 @@
    - At the moment you consciously make a choice, pay attention to your body.
     - Bring your awareness to your body's physical sensations and inwardly ask: "If I make this choice, what happens?" — letting the body's intuitive signals surface as felt sensations rather than verbal answers.
     - If your body signals a felt sense of inner ease and alignment — the body's signal of a choice in harmony with the Law of Karma — that indicates the right choice.
-    - If your body signals a felt sense of misalignment or unease — the body's signal of unrightness — the choice is not aligned.
+    - If your body signals a felt sense of misalignment or unease — the body's signal of discomfort — the choice is not aligned.
 
 5. **Consult your heart for guidance.**
    - Consciously put your attention in the heart and ask your heart what to do.

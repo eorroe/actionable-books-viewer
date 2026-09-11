@@ -35,7 +35,7 @@
 5. **Make a decision to give wherever you go.**
     - Decide that when you come into contact with anyone—except in circumstances such as illness, incapacity, or situations where giving would be inappropriate—you will give them something.
    - Gifts do not have to be material; they can be a flower, a compliment, or a prayer.
-    - Among the most impactful forms of giving are non-material gifts: caring, attention, affection, appreciation, and love—those that can be offered regardless of material circumstance.
+    - Non-material forms of giving are among the most powerful: caring, attention, affection, appreciation, and love—those that can be offered regardless of material circumstance.
 
 6. **Practice silent giving and blessing.**
    - When you meet someone, silently send them a blessing, wishing them happiness, joy, and laughter.
@@ -98,7 +98,7 @@
   **Solution:** Give without attachment to the result; trust the spiritual law of circulation
 
 - **Problem:** Thinking you need material wealth before you can give
-  **Solution:** Remember that among the most impactful gifts are non-material gifts, which cost nothing to offer
+  **Solution:** Remember that non-material gifts are among the most powerful, as they cost nothing to offer
 
 - **Problem:** Forgetting that receiving is also a form of giving
   **Solution:** Accept gifts graciously; in spiritual understanding, receiving allows others to give, completing the cycle

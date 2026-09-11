@@ -130,7 +130,7 @@ When you meet someone, silently send them a blessing, wishing them happiness, jo
 
 ##### Example 3: Understanding Money as Circulating Life Energy
 
-Money, from the root "currere" meaning "to run" or "to flow," is a symbol of life energy exchanged through service to the universe. Like a river, money must keep flowing to stay alive and vital. Withholding money from circulation causes stagnation. Generosity — in the form of charitable giving, fair service, or supporting others — ensures energy keeps flowing, and abundance returns to you multiplied.
+Money, like currency (from the root "currere" meaning "to run" or "to flow"), is understood in this spiritual framework as a symbol of life energy exchanged through service to the universe. Like a river, money must keep flowing to stay alive and vital. Withholding money from circulation causes stagnation. Generosity — in the form of charitable giving, fair service, or supporting others — ensures energy keeps flowing, and abundance returns to you multiplied.
 
 #### Step 1: Understand the Principle of Dynamic Exchange
 
@@ -618,7 +618,7 @@ Anticipate the possibilities that emerge when remaining open to multiple possibi
   **Solution:** The law does not require abandoning your goals — only relinquishing attachment to how and when they manifest
 
 - **Problem:** Confusing detachment with sacrifice
-  **Solution:** True detachment is freedom, not sacrifice; it is the gateway to experiencing everything you want
+  **Solution:** True detachment is freedom, not sacrifice; it is the gateway to experiencing all that serves your highest good
 
 - **Problem:** Chasing symbols instead of source — focusing on material manifestations rather than the Self that creates them
   **Solution:** Recognize that material possessions are transitory symbols; true wealth consciousness comes from knowing your Self
