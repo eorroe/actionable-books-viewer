@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Leap explores the phenomenon of spiritual awakening through a psychological lens, examining its three forms—natural, gradual, and sudden—and the characteristics that define wakeful consciousness. Steve Taylor draws on case studies, historical figures such as Walt Whitman and the Buddha, and contemporary research to demonstrate that spiritual awakening is not a mystical anomaly but a psychological state that can be recognized by trained observers with potential evolutionary significance for humanity, according to Taylor's analysis. The book bridges Eastern spiritual traditions with Western psychology, offering a structured framework for understanding how consciousness can transform and what that means for human evolution.
+The Leap explores the phenomenon of spiritual awakening through a psychological lens, examining its three forms—natural, gradual, and sudden—and the characteristics that define wakeful consciousness. Steve Taylor draws on case studies, historical figures such as Walt Whitman and the Buddha, and contemporary research in psychology and consciousness studies to demonstrate that spiritual awakening is not a mystical anomaly but a psychological state that can be recognized by mental health professionals, with possible evolutionary significance for humanity, according to Taylor's analysis. The book bridges Eastern spiritual traditions with Western psychology, offering a structured framework for understanding how consciousness can transform and what that means for human evolution.
 
 ## When to Follow Book Teachings
 
@@ -18,19 +18,19 @@ The Leap explores the phenomenon of spiritual awakening through a psychological 
 
 ##### Example 1: Natural Wakefulness in Artists
 
-Walt Whitman, D.H. Lawrence, and other artists experienced what Taylor calls "natural wakefulness"—a state of heightened psychological awareness of present-moment experience that emerged without engaging in formal spiritual practice. Whitman's poetry vibrated with presence and a subjective sense of psychological oneness, while Lawrence's work reflected a deep connection to a natural state of being. These figures demonstrate that wakefulness can arise spontaneously in artists, writers, and other creative individuals who remain open to the present moment and resist ego-related psychological conditioning.
+Walt Whitman, D.H. Lawrence, and other artists and writers experienced what Taylor calls "natural wakefulness"—a state of heightened psychological awareness of present-moment experience that emerged without engaging in formal spiritual practice. Whitman's poetry expressed a strong sense of presence and a subjective sense of psychological oneness, while Lawrence's work reflected a deep psychological connection to a natural state of being. These figures demonstrate that wakefulness can arise spontaneously in artists, writers, poets, and other creative individuals who remain open to the present moment and resist ego-related psychological conditioning.
 
 ##### Example 2: Natural Wakefulness in Peace Pilgrim
 
-Peace Pilgrim's journey exemplifies how natural wakefulness can emerge after a process of releasing repressed emotions and beliefs. After years of repression and conventional living, she experienced a notable psychological shift in awareness that allowed her natural wakefulness to surface. Her transformation illustrates that awakening involves letting go of accumulated psychological conditioning rather than acquiring something new.
+Peace Pilgrim's journey exemplifies how natural wakefulness can emerge after a process of releasing repressed emotions and beliefs. After a period of repression and conventional living, she experienced a psychological shift in awareness that allowed her natural wakefulness to surface. Her transformation illustrates that awakening involves letting go of accumulated psychological and social conditioning rather than acquiring something new.
 
 #### Step 1: Recognize the State of Wakefulness
 
-Wakefulness (a state of expanded psychological awareness) is characterized by a subjective psychological state characterized by present-moment awareness and inner mental quietness, and a reduced subjective psychological sense of separation from others. To recognize it in yourself, notice when you experience moments of complete absorption in the present, when self-consciousness fades, and when you feel a psychological sense of connection to all life. In others, look for observable behavioral signs including authenticity and reduced defensiveness, and a pervasive subjective sense of psychological peace that isn't dependent on external circumstances.
+Wakefulness (a state of expanded psychological awareness) is characterized by present-moment awareness and subjective inner mental quietness, and a reduced subjective psychological sense of separation from others. To recognize it in yourself, notice when you experience moments of full absorption in the present, when self-consciousness fades, and when you feel a psychological sense of connection to all life. In others, look for observable behavioral signs such as authenticity and reduced defensiveness, and a pervasive subjective psychological sense of psychological peace that isn't dependent on external circumstances.
 
 #### Step 2: Understand Different Forms of Awakening
 
-Natural awakening occurs spontaneously without spiritual practice, in multiple documented case studies of creative or sensitive individuals. Gradual awakening unfolds through dedicated spiritual practice over time, including meditation, ethical living, and self-inquiry practices. Sudden awakening occurs suddenly, frequently triggered by crisis, bereavement, or near-death experiences, where the psychological structure of the ego gives way and is replaced by expanded conscious awareness.
+Natural awakening occurs spontaneously without spiritual practice, in published case studies of creative or sensitive individuals. Gradual awakening unfolds through dedicated spiritual practice over long periods, including meditation, ethical living, and self-inquiry practices. Sudden awakening occurs suddenly, often triggered by crisis, bereavement, or near-death experiences, where the psychological structure of the ego breaks down and is replaced by expanded conscious awareness.
 
 #### Best Practices
 
@@ -42,15 +42,15 @@ Natural awakening occurs spontaneously without spiritual practice, in multiple d
 
 #### Keep In Mind
 
-Wakefulness is not static—it evolves and develops further. Different cultural traditions around the world support or resist expressions of wakefulness to varying degrees. The process of integrating awakening experiences into daily life is as essential as the awakening experience itself.
+Wakefulness is not static—it evolves and develops further. Different cultural traditions around the world support or resist expressions of wakefulness to different degrees. The process of integrating awakening experiences into daily life is as essential as the awakening experience itself.
 
 #### Security & Safety Notes
 
-Spiritual awakening can trigger psychological crises. Seek professional help if experiencing severe distress. Ground awakening experiences in daily life.
+Spiritual awakening can trigger psychological crises. Seek professional help if experiencing serious psychological distress. Ground awakening experiences in daily life.
 
 #### Common Pitfalls
 
-- **Problem:** Confusing temporary peak experiences with permanent awakening
+- **Problem:** Confusing temporary peak experiences of expanded awareness with permanent awakening
   **Solution:** Understand that wakefulness requires ongoing integration and development
 - **Problem:** Spiritual bypassing (using spiritual practices to avoid dealing with psychological issues)
   **Solution:** Address emotional and psychological issues alongside spiritual practice
@@ -61,43 +61,43 @@ Spiritual awakening can trigger psychological crises. Seek professional help if 
 
 ##### Example 1: Buddha's Eightfold Path
 
-The Buddha's Noble Eightfold Path provides a structured framework for gradual awakening. It encompasses right understanding, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration. This holistic approach addresses the major areas of life—ethical, mental, and wisdom—creating conditions for the gradual transformation of the psychological ego structure and the cultivation of wakefulness.
+The Buddha's Noble Eightfold Path provides a structured framework for gradual awakening. It encompasses right understanding, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration. This comprehensive approach addresses the major areas of life—ethical, mental, and wisdom—creating conditions for the gradual transformation of the psychological ego structure and the cultivation of wakefulness.
 
 ##### Example 2: Yoga and Meditation Practices
 
-Patanjali's eight-limbed path of yoga offers another systematic approach to gradual awakening. Through ethical restraints (yamas), observances (niyamas—positive disciplines such as purity and contentment), physical postures (asana), breath control (pranayama), sense withdrawal (pratyahara—the practice of turning attention inward away from external sensory objects), concentration (dharana), meditation (dhyana), and absorption (samadhi), practitioners progressively quiet and clarify the mind through practice and prepare for advanced meditative or contemplative states.
+Patanjali's eight-limbed path of yoga offers another structured approach to gradual awakening. Through ethical restraints (yamas), observances (niyamas—positive disciplines such as purity and contentment), physical postures (asana), breath control (pranayama), sense withdrawal (pratyahara—the practice of turning attention inward away from external sensory objects), concentration (dharana), meditation (dhyana), and absorption (samadhi), practitioners progressively quiet and clarify the mind through practice and prepare for deeper meditative states.
 
 #### Step 1: Commit to the Spiritual Path
 
-The journey begins with the development of viveka (discrimination between what is real and what is unreal) and vairagya (dispassion or nonattachment to worldly things)—the recognition that material possessions, social status, and professional achievements cannot provide lasting fulfillment in life and the emergence of a genuine inner impulse to awaken. This commitment transforms spiritual practice from an optional activity into the central guiding principle of one's life.
+The journey begins with the cultivation of viveka (discrimination between what is real and what is unreal) and vairagya (dispassion or nonattachment to worldly things)—the recognition that material possessions, social status, and professional achievements cannot provide lasting fulfillment in life and the emergence of an inner impulse to awaken. This commitment transforms spiritual practice from an optional activity into the central guiding principle of life.
 
 #### Step 2: Follow Spiritual Practices
 
-Regular meditation practice forms the basis of gradual awakening, training the mind to return to presence and observe thoughts without identification. Ethical conduct—right speech, right action, right livelihood—purifies the psychological patterns shaped by past actions and environmental conditioning that sustain consciousness dominated by egoic thought patterns. Together, meditation and ethical conduct create the psychological conditions for further transformation.
+Regular meditation practice forms the basis of gradual awakening, training the mind to return to presence and observe thoughts without identification. Ethical conduct—right speech, right action, right livelihood—purifies the psychological patterns shaped by past actions and environmental conditioning that sustain consciousness dominated by egoic thought patterns that maintain the ego's psychological influence. Meditation and ethical conduct create the psychological conditions for further transformation.
 
 #### Step 3: Purify and Renounce
 
-Psychological purgation and purification of mental patterns involve carefully examining and releasing psychological attachments to relationships, possessions, or identities, desires, and aversions that maintain the ego's psychological influence. Mental renunciation is not about rejecting external reality but about loosening the psychological dependence on external circumstances for happiness and identity.
+Psychological examination and purification of mental patterns involve carefully examining and releasing psychological attachments to relationships, possessions, or identities, desires, and aversions that maintain the ego's psychological influence. Mental renunciation is not about rejecting external reality but about loosening the psychological dependence on external circumstances for happiness and identity.
 
 #### Step 4: Serve Others
 
-Selfless concern for the psychological and physical well-being of others and service offered without expectation of personal reward support the development of wakefulness by reducing the psychological sense of separation between self and other. When we serve without expectation of reward, we experience a felt psychological sense of interconnectedness with other people, which naturally attenuates the psychological sense of separation between self and other.
+Selfless concern for the psychological and physical well-being of others and service offered without expectation of personal reward support the development of wakefulness by reducing the psychological sense of separation between self and other. When we serve without expectation of reward, we experience a direct psychological experience of interconnectedness with other people, which naturally attenuates the psychological sense of separation between self and other.
 
 #### Best Practices
 
-- ✅ Establish regular meditation practice
+- ✅ Establish daily meditation practice
 - ✅ Follow ethical guidelines (right speech, right action, right livelihood)
 - ✅ Practice renunciation of psychological attachments
-- ❌ Don't expect rapid results—gradual awakening unfolds over time
+- ❌ Don't expect rapid results—gradual awakening unfolds over long periods
 - ❌ Don't become attached to spiritual achievements
 
 #### Keep In Mind
 
-Gradual awakening is a process of gradual transformation of the psychological ego structure. Spiritual practices have cumulative effects over extended periods of practice. The journey is as important as the destination.
+Gradual awakening is a process of gradual transformation of the psychological ego structure. Spiritual practices have cumulative effects over long periods of practice. The journey is as important as the destination.
 
 #### Security & Safety Notes
 
-Spiritual practices can surface repressed emotions, memories, or psychological material. Progress is often gradual and non-linear. Community support is valuable.
+Spiritual practices may surface repressed emotions, memories, or psychological material. Progress is usually gradual and non-linear in nature. Community support is beneficial.
 
 #### Common Pitfalls
 
@@ -112,15 +112,15 @@ Spiritual practices can surface repressed emotions, memories, or psychological m
 
 ##### Example 1: Awakening Through Bereavement
 
-Loss and grief can function as significant psychological triggers for sudden awakening. When the ego's attachments are suddenly severed through bereavement, the constructed psychological self can break down, revealing the underlying wakefulness that was already present within the individual. Multiple published case studies report profound spiritual experiences following the death of a loved one, as concerns that appeared less significant after the loss fall away in the face of mortality.
+Loss and grief may function as psychological triggers for sudden awakening. When the ego's attachments are suddenly severed through bereavement, the constructed psychological self may break down, revealing the underlying wakefulness that was already present within the individual. Published case studies report profound spiritual experiences following the death of a loved one, as concerns that appeared less significant after the loss fall away in the face of mortality.
 
 ##### Example 2: Awakening Through Near-Death Experiences
 
-Encounters with death—whether through accident, illness, or near-death experience—can trigger significant psychological transformation. When individuals come face-to-face with their own mortality, previously assigned excessive importance to ego-centered concerns evaporates, frequently leaving an enduring state of wakefulness that persists for an extended period and a greater appreciation for life and relationships.
+Encounters with death—whether through accident, illness, or near-death experience—can trigger psychological transformation. When individuals come face-to-face with their own mortality, excessive importance assigned to ego-centered concerns evaporates, often leaving an enduring state of wakefulness that persists long-term and a greater appreciation for life and relationships.
 
 #### Step 1: Recognize Crisis as Opportunity
 
-Turmoil and crisis—whether emotional, physical, or circumstantial—can serve as triggers for awakening. The dissolving of the ego's psychological structures and patterns creates psychological space for a new state of awareness to emerge. Rather than resisting crisis, learn to recognize it as a possible opportunity for expanded conscious awareness and deeper understanding of oneself and reality.
+Turmoil and crisis—whether emotional, physical, or circumstantial—may serve as triggers for awakening. The dissolving of the ego's psychological structures and patterns creates mental space for a new state of awareness to emerge. Rather than resisting crisis, learn to recognize it as a potential opportunity for expanded conscious awareness and deeper understanding of oneself and reality.
 
 #### Step 2: Allow the Transformation Process
 
@@ -128,7 +128,7 @@ Sudden awakening typically involves a psychological process of releasing old ide
 
 #### Step 3: Integrate the Awakening Experience
 
-After the initial breakthrough, integration is crucial. This involves understanding the nature of the experience, adjusting daily life to accommodate new states of awareness, and allowing the awakening to stabilize. Integration typically takes between three months and two years and frequently requires guidance from experienced teachers or therapists experienced with spiritual emergence.
+After the initial breakthrough, integration is crucial. This involves understanding the nature of the experience, adjusting daily life to accommodate new states of awareness, and allowing the awakening to stabilize. Integration usually takes between three months and two years and frequently requires guidance from teachers or therapists familiar with spiritual emergence.
 
 #### Best Practices
 
@@ -140,16 +140,16 @@ After the initial breakthrough, integration is crucial. This involves understand
 
 #### Keep In Mind
 
-Sudden awakening can be preceded and followed by times of difficulty. Integration is crucial—the aftermath requires equal attention as the event itself. Not all crisis leads to awakening—understanding is essential.
+Sudden awakening may be preceded and followed by periods of difficulty. Integration is crucial—the aftermath requires equal attention as the event itself. Not all crises lead to awakening—understanding is essential.
 
 #### Security & Safety Notes
 
-Sudden awakening can trigger psychosis in vulnerable individuals. Professional psychological support may be necessary. Distinguish between spiritual emergence and mental illness.
+Sudden awakening may trigger psychotic episodes in vulnerable individuals. Professional psychological support can be necessary. Distinguish between spiritual emergence and mental illness.
 
 #### Common Pitfalls
 
 - **Problem:** Trying to hold onto the old self during transformation
-  **Solution:** Surrender to the process of dissolution and rebirth
+  **Solution:** Surrender to the process of transformation and renewal
 - **Problem:** Ego claiming the awakening as its own achievement
   **Solution:** Recognize that awakening happens to you, not by you
 
@@ -159,11 +159,11 @@ Sudden awakening can trigger psychosis in vulnerable individuals. Professional p
 
 ##### Example 1: Common Spiritual Crises
 
-Spiritual crises can manifest as confusion, dissociation, psychological disturbances, and even physical health problems. Individuals may experience times of intense fear, paranoia, or existential dread as old psychological patterns and beliefs fade. These symptoms, while distressing, are often part of a common psychological process of transformation.
+Spiritual crises may manifest as confusion, dissociation, psychological disturbances, and even physical health problems. Individuals may experience times of intense fear, paranoia, or existential dread as old psychological patterns and beliefs fade. These symptoms, while distressing, are often part of a common psychological process of transformation.
 
 ##### Example 2: Lingering Traits After Awakening
 
-After the initial crisis or breakthrough, several key traits typically remain as enduring characteristics of the awakened state. These include a sense of inner mental quietness, increased present-moment awareness, reduced self-referential thinking, increased empathy for the suffering of others, a diminished fear of mortality, and a psychological sense of connection to all living beings. These traits reflect a new baseline of ordinary consciousness established through awakening.
+After the initial crisis or breakthrough, key traits remain as enduring characteristics of the awakened state. These include a sense of subjective inner mental quietness, increased present-moment awareness, reduced self-referential thinking, increased empathy for the suffering of others, a diminished fear of mortality, and a psychological sense of connection to all living beings. These traits reflect a new baseline of ordinary consciousness established through awakening.
 
 #### Step 1: Recognize Spiritual Crisis Symptoms
 
@@ -171,31 +171,31 @@ Learn to identify the signs of spiritual crisis: confusion about reality, dissoc
 
 #### Step 2: Seek Understanding and Support
 
-Understanding that spiritual crises are a documented phenomenon—sometimes called "spiritual emergence" or "spiritual emergency"—can reduce psychological suffering. Seek help from mental health professionals familiar with spiritual experiences, experienced spiritual guides, or support groups specializing in spiritual awakening.
+Understanding that spiritual crises are a documented phenomenon—sometimes called "spiritual emergence" or "spiritual emergency"—can reduce psychological suffering. Seek help from mental health professionals with training in spiritual or transpersonal psychology, experienced spiritual guides, or support groups specializing in spiritual awakening.
 
 #### Step 3: Navigate Questionable Teachers
 
-Be discerning when seeking spiritual guidance. Some teachers may be narcissistic, deluded, or psychologically unstable. A genuine teacher exhibits observable humility, compassion, and practical groundedness in daily life rather than grandiose claims or claims of special attainment. Trust your intuition and avoid becoming dependent on any external authority.
+Be discerning when seeking spiritual guidance. Some spiritual teachers may be narcissistic, deluded, or psychologically unstable. A genuine teacher exhibits demonstrated humility in their interactions with students, compassion, and practical groundedness in daily life rather than grandiose claims or claims of special attainment. Trust your intuition and avoid becoming dependent on any external authority.
 
 #### Best Practices
 
 - ✅ Learn about spiritual crises to normalize your experience
-- ✅ Seek help from professionals familiar with spiritual emergence
+- ✅ Seek help from professionals knowledgeable about spiritual emergence
 - ✅ Maintain grounding practices during crises
 - ❌ Don't isolate yourself during spiritual emergencies
 - ❌ Don't blindly follow spiritual teachers without discernment
 
 #### Keep In Mind
 
-Spiritual crises are a natural part of the awakening process for many individuals. Understanding the process reduces fear and suffering. The aftermath of awakening involves adjusting to a transformed sense of self.
+Spiritual crises are a natural part of the awakening process for many people. Understanding the process reduces fear and suffering. The aftermath of awakening involves adjusting to a transformed sense of self.
 
 #### Security & Safety Notes
 
-Some spiritual crises require medical intervention. Distinguish between awakening and mental illness. Emergency services should be contacted if there's danger of harm.
+Some cases of spiritual crisis require medical intervention. Distinguish between awakening and mental illness. Emergency services should be contacted if there's danger of harm.
 
 #### Common Pitfalls
 
-- **Problem:** Feeling alone and abnormal during spiritual crisis
+- **Problem:** Feeling alone and unusual during spiritual crisis
   **Solution:** Connect with spiritual emergence networks and support groups
 - **Problem:** Becoming dependent on spiritual teachers
   **Solution:** Maintain autonomy and use teachers as guides, not authorities
@@ -206,7 +206,7 @@ Some spiritual crises require medical intervention. Distinguish between awakenin
 
 ##### Example 1: Characteristics of the New Self
 
-The awakened sense of self exhibits distinctive traits: a sense of inner mental quietness that persists across varying circumstances, deep present-moment awareness in each present moment, a psychological sense of oneness with all beings, reduced identification with repetitive thought patterns, greater compassion for other beings, a reduced fear of one's own mortality, and a greater ability to accept life events without resistance. These characteristics reflect a basic shift in identity and awareness from the psychological ego to broader psychological awareness.
+The awakened sense of self exhibits distinctive traits: a sense of subjective inner mental quietness that persists across varying circumstances, deep present-moment awareness in each present moment, a psychological sense of oneness with all beings, reduced identification with repetitive thought patterns, greater compassion for other beings, a reduced fear of one's own mortality, and a greater ability to accept life events without resistance. These characteristics reflect a basic shift in identity and awareness from the psychological ego to broader psychological awareness.
 
 ##### Example 2: Living in the World as an Awakened Being
 
@@ -245,7 +245,7 @@ Maintain balance between spiritual life and worldly responsibilities. Don't aban
 - **Problem:** Using wakefulness as a reason for neglect of responsibilities
   **Solution:** Maintain practical functioning while honoring your awakened state
 - **Problem:** Expecting others to understand or share your perspective
-  **Solution:** Practice compassion and patience with those still "asleep"
+  **Solution:** Practice compassion and patience with those still in ordinary egoic consciousness
 
 ### Lesson 6: Demythologizing Wakefulness and Evolutionary Leap
 
@@ -261,15 +261,15 @@ Taylor suggests that spiritual awakening may represent an evolutionary shift in 
 
 #### Step 1: See Through Myths
 
-Recognize and release cultural myths and misconceptions about spirituality that distort understanding of wakefulness. These include the idea that awakening means a constant state of bliss, that spiritual individuals are perfect, or that the path of spiritual practice and development is separate from ordinary daily life. Clear understanding allows you to approach awakening with expectations based on documented experiences of awakening and authentic psychological and spiritual commitment.
+Recognize and release cultural myths and misconceptions about spirituality that distort understanding of wakefulness. These include the idea that awakening means a constant state of bliss, that spiritual individuals are perfect, or that the path of spiritual practice and development is separate from ordinary daily life. Clear understanding allows you to approach awakening with expectations based on documented case studies of awakening and authentic psychological and spiritual commitment.
 
 #### Step 2: Understand Wakefulness as Development
 
-Wakefulness is best understood as a natural stage of psychological and spiritual development, not a state beyond ordinary consciousness granted to individuals with a clear impulse to awaken. Like any psychological and spiritual developmental process, it unfolds through stages of development, involves both periods of growth and temporary regression, and is accessible to anyone who experiences a genuine impulse to awaken. This perspective makes spirituality accessible to all and removes the mystery surrounding spiritual awakening.
+Wakefulness is best understood as a natural stage of psychological and spiritual development, not a state beyond ordinary consciousness granted only to special individuals. Like any psychological and spiritual developmental process, it unfolds through recognized stages of development, involves both periods of growth and temporary periods of regression, and is accessible to anyone who experiences a genuine impulse to awaken. This perspective makes spirituality accessible to all and removes the mystery surrounding spiritual awakening.
 
 #### Step 3: Contribute to Collective Awakening
 
-Individual awakening may contribute to collective psychological and spiritual evolution, according to Taylor's theory, through the principle that awakened individuals influence the consciousness of those around them—awakened individuals affect the field of shared human psychological consciousness, creating effects on others that extend far beyond their immediate interactions. By living your wakefulness authentically, you participate in a collective change in consciousness toward greater psychological awareness and compassion.
+Individual awakening may contribute to collective psychological and spiritual evolution, according to Taylor's theory, through the principle that awakened individuals influence the consciousness of those around them—awakened individuals affect shared human psychological consciousness, creating effects on others that extend beyond their immediate interactions. By living your wakefulness authentically, you participate in a collective change in consciousness toward greater psychological awareness and compassion.
 
 #### Best Practices
 
@@ -277,7 +277,7 @@ Individual awakening may contribute to collective psychological and spiritual ev
 - ✅ See wakefulness as part of natural human development
 - ✅ Contribute to collective awakening through your own transformation
 - ❌ Don't deify awakened beings or create spiritual hierarchies
-- ❌ Don't see awakening as escaping from the world
+- ❌ Don't see awakening as a reason to escape from the world
 
 #### Keep In Mind
 
@@ -292,7 +292,7 @@ Beware of spiritual grandiosity about spiritual accomplishments or attainments. 
 - **Problem:** Spiritual narcissism—seeing awakening as making you superior
   **Solution:** Recognize that wakefulness brings greater humility and connection, not superiority
 - **Problem:** Passivity in the face of world problems
-  **Solution:** Use your awakened awareness to engage more effectively with the world
+  **Solution:** Use your awakened awareness to engage more skillfully with the world
 
 ## Glossary / Index
 
