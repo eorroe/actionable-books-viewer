@@ -64,7 +64,7 @@ The SHARK Point "Homework, Do Your Homework" means: know your field, know your c
 - Being broke forces you to set growth targets based on actual unit economics rather than projections and prevents unrealistic expectations from exceeding realistic projections.
 - 8 out of 10 new businesses fail within the first 18 months, and eight out of ten times, they've exhausted their capital before achieving sustainable unit economics, according to Small Business Administration data.
 - More money early means more costly mistakes at a time when you can't afford any mistakes.
-- The barriers to entry in industries such as retail, media, and technology have decreased, according to the book, but success is never guaranteed.
+- The barriers to entry in industries such as retail, media, and technology have decreased, but success is never guaranteed.
 - According to Daymond John, 97 percent of entrepreneurs who give up become employees of the 3 percent who never quit.
 - According to Forbes 400 data, 68 percent of the wealthiest Americans started with no inherited wealth or family business—inherited wealth is not the primary factor, according to Forbes data.
 
@@ -310,7 +310,7 @@ When you set a goal, also write what you're prepared to sacrifice to achieve it.
 
 ##### Example 1: The Instagram Artist
 
-A 20-something painter with 100,000 Instagram followers posted one original design per day on T-shirts for 24 hours only. He collected preorders, printed exact quantities, and shipped everything out—no inventory, no returns, no warehouse, no startup costs. He made $1.3 million in a year running the business entirely from his cell phone. This is the scarcity advantage in action: full margin, direct-to-customer, pre-paid orders.
+A 24-year-old painter with 100,000 Instagram followers posted one original design per day on T-shirts for 24 hours only. He collected preorders, printed exact quantities, and shipped everything out—no inventory, no returns, no warehouse, no startup costs. He made $1.3 million in a year running the business entirely from his cell phone. This is the scarcity advantage in action: full margin, direct-to-customer, pre-paid orders.
 
 ##### Example 2: Acacia Brinley's Social Media Empire
 
@@ -396,7 +396,7 @@ Jay Abraham learned by sitting in the corner of meetings, listening. Rob Dyrdek 
 
 - According to a 2022 Deloitte study, 71 percent of Fortune 500 companies have formal mentoring programs
 - According to a 2022 Deloitte study, managerial output per hour increases by 88 percent when formal mentoring programs are in place, measured by revenue per manager
-- Mentoring relationships often start with kindness but must be mutually beneficial
+- Mentoring relationships frequently start with kindness but must be mutually beneficial
 
 #### Security & Safety Notes
 
@@ -486,7 +486,7 @@ Acacia built her brand by being herself—an ordinary teenage girl with non-bran
 
 #### Step 1: Define Your Brand in 2-5 Words
 
-As an example, Nike's brand is defined by "Just Do It." If you can't define your brand in a short phrase, most people won't take the time to understand it. Rob Dyrdek chose "Relentlessly living amazing." Daymond John's current definition is "People's Shark." FUBU was "For Us By Us." Nike is "Just Do It." What's yours?
+As an example, Nike's brand is defined by "Just Do It." If you can't define your brand in a short phrase, many consumers won't take the time to understand it. Rob Dyrdek chose "Relentlessly living amazing." Daymond John's current definition is "People's Shark." FUBU was "For Us By Us." Nike is "Just Do It." What's yours?
 
 #### Step 2: Live Your Brand Every Day
 
@@ -560,7 +560,7 @@ Daymond puts expiration dates on goals. When Ryan Deiss had a specific dollar am
 
 - Being broke can have downsides—back rent, cash flow problems—but those struggles can become empowering if you keep moving forward
 - The scarcity mindset can persist if you maintain discipline; it becomes a permanent operating principle over time
-- Success is rarely on your own schedule; entrepreneurs often wait 5-10 years for significant success
+- Success is rarely on your own schedule; entrepreneurs frequently wait 5-10 years for significant success
 
 #### Security & Safety Notes
 
@@ -615,7 +615,7 @@ FUBU advertised on BET for $1,500 per spot instead of Friends for $422,000. Natu
 #### Keep In Mind
 
 - According to The Power of Broke, Coca-Cola sold just 25 bottles in its first year—proof of concept can be tiny
-- Innovation often happens from customer-facing employees upward through the organization, not only from top leadership
+- Innovation frequently happens from customer-facing employees upward through the organization, not only from top leadership
 - The best ideas tend to emerge from real customer needs, not from corporate planning alone
 - Your problem is the solution to a customer's larger problem (Jay Abraham)
 
@@ -676,7 +676,7 @@ A lifestyle brand extends across several products and becomes a trusted brand th
 
 #### Security & Safety Notes
 
-- A brand can often be damaged more quickly than it can be built through inconsistent messaging or quality failures
+- A brand can frequently be damaged more quickly than it can be built through inconsistent messaging or quality failures
 - Expansion into new product lines must align with core brand values such as quality, affordability, and sustainability
 - Licensing deals must protect the brand's core values and messaging
 
