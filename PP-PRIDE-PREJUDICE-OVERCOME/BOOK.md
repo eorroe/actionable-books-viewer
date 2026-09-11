@@ -2,16 +2,16 @@
 
 ## Overview
 
-Pride and Prejudice by Jane Austen examines human relationships, social class, and personal growth in early 19th century England. Through the romantic journey of Elizabeth Bennet and Mr. Darcy, the book shows how first impressions can deceive, how pride and prejudice can obstruct authentic connection, and why mutual respect and honest understanding may support lasting relationships.
+Pride and Prejudice by Jane Austen examines human relationships, social class, and personal development in early 19th century England. Through the romantic journey of Elizabeth Bennet and Mr. Darcy, the novel depicts how first impressions can mislead, how pride and prejudice can obstruct connection, and why mutual respect and honest understanding may support lasting relationships.
 
 ## When to Follow Book Teachings
 
-- When forming new relationships and want to avoid judging before gathering at least three independent observations in person or in documented interactions in person or in documented interactions
+- When forming new relationships and want to avoid judging before gathering independent observations from separate interactions, either in person or in documented interactions
 - When navigating social situations with people from different socioeconomic or cultural backgrounds, including but not limited to differences in income, education, occupation, or ethnicity
 - When making decisions about marriage, civil partnership, or other legally recognized long-term commitments
 - When working to overcome personal pride or prejudice
 - When seeking to understand how specific communication behaviors such as interrupting, withdrawing, blame language, or withholding information affect relationships
-- When dealing with family conflict patterns, defined as recurring disagreements that repeat over time with similar triggers and outcomes
+- When dealing with family conflict patterns, defined as recurring disagreements that occur three or more times within six months with similar triggers and observable outcomes
 - When trying to balance personal integrity with Regency-era English class expectations as depicted in the novel
 
 ## Lessons From Book
@@ -22,7 +22,7 @@ Pride and Prejudice by Jane Austen examines human relationships, social class, a
 
 ##### Example 1: Mr. Darcy's Initial Pride
 
-At the Meryton ball, Mr. Darcy refuses to dance with Elizabeth, declaring she is "not handsome enough to tempt me." This moment creates Elizabeth's lasting prejudice against him. However, as she learns about his true character—his active role in arranging Lydia's marriage and paying Wickham's debts, his demonstrated care for Georgiana through protective guidance and financial support, his actions consistent with stated values—her opinion shifts substantially. The text shows Darcy saying during his second proposal: "I cannot fix on the hour, or the spot, or the look, or the words, which laid the foundation. It is too long ago. I was in the middle before I knew that I had begun."
+At the Meryton ball, Mr. Darcy refuses to dance with Elizabeth, declaring she is "not handsome enough to tempt me." This moment creates Elizabeth's lasting prejudice against him. However, as she learns about his true character through specific actions—his active role in arranging Lydia's marriage and paying Wickham's debts, his demonstrated care for Georgiana through protective guidance and financial support, his actions matching his stated values—her opinion shifts.
 
 ##### Example 2: Mr. Wickham's Charming Deception
 
@@ -30,23 +30,23 @@ Mr. Wickham presents himself as a wronged gentleman, charming Elizabeth with sto
 
 #### Step 1: Pause Before Forming Permanent Judgments
 
-When meeting someone new or receiving information about a person, intentionally pause before forming a final opinion. Give yourself at least three separate interactions or pieces of documented evidence before evaluating the person. Ask yourself: "What evidence do I actually have, versus what am I assuming?"
+When meeting someone new or receiving information about a person, intentionally pause before forming a final opinion. Give yourself multiple separate interactions or pieces of documented evidence before evaluating the person. Ask yourself: "What evidence do I actually have, versus what am I assuming?"
 
 #### Step 2: Seek Multiple Perspectives
 
-Elizabeth's error came from relying on a single source—Wickham's story—rather than seeking Darcy's side. When forming opinions about people, actively seek at least two independent perspectives, especially from those who have observed the person in at least two distinct roles or contexts over a minimum of six months. In professional settings, this means asking colleagues, reviewing performance across at least two of the following contexts: formal evaluations, peer feedback, client outcomes, and project delivery, and avoiding unverified claims as primary evidence.
+Elizabeth's error came from relying on a single source—Wickham's story—rather than seeking Darcy's side. When forming opinions about people, actively seek independent perspectives from sources with no direct incentive to misrepresent, such as supervisors, peers, subordinates, or clients—especially from those who have observed the person in distinct roles or contexts over an extended period. In professional settings, this means asking colleagues, reviewing performance across available formal evaluations, peer feedback, client outcomes, and project delivery, and avoiding unverified claims as primary evidence.
 
 #### Step 3: Observe Behavior Across Different Contexts
 
-Darcy's true character emerged through actions: his active role in arranging Lydia's marriage and paying Wickham's debts, his care for Georgiana, his behavior consistent with his words with Elizabeth at Pemberley. People reveal different facets in different situations. Observe how someone treats those who can do nothing for them—servants, family members, people in need, defined as individuals who lack the power to reciprocate benefits. This may provide different evidence about character than social performance.
+Darcy's true character emerged through actions: his active role in arranging Lydia's marriage and paying Wickham's debts, his care for Georgiana, his behavior matching his words with Elizabeth at Pemberley. People reveal different facets in different situations. Observe how someone treats service staff, subordinates, or individuals with limited social or economic capital in that context. This may provide different evidence about character than social performance.
 
 #### Step 4: Acknowledge When You Are Wrong
 
-Elizabeth's growth comes from her willingness to revise her judgment upon learning new evidence. She reads Darcy's letter, considers his actions, and admits her error. Practice saying "I was wrong about that" to the relevant person when presented with at least two independent pieces of evidence that directly contradict your initial judgment. This builds trust and demonstrates intellectual humility.
+Elizabeth's growth comes from her willingness to revise her judgment upon learning new evidence. She reads Darcy's letter, considers his actions, and admits her error. Practice saying "I was wrong about that" to the relevant person when presented with multiple independent pieces of evidence that directly contradict your initial judgment. This builds trust and demonstrates intellectual humility.
 
 #### Best Practices
 
-- ✅ Give people the benefit of doubt in initial interactions
+- ✅ Assume people intend no harm unless their actions indicate otherwise in initial interactions
 - ✅ Look for patterns of behavior over isolated incidents
 - ✅ Consider whether your judgment is based on direct observation, verifiable documentation, or emotional inference; weigh direct observation most heavily
 - ✅ Ask clarifying questions instead of making assumptions
@@ -54,26 +54,26 @@ Elizabeth's growth comes from her willingness to revise her judgment upon learni
 
 #### Keep In Mind
 
-- First impressions are repeatedly shown to be based on information from a single interaction or source, and on immediate emotional responses such as surprise or offense, in the novel's examples
+- In the novel's examples, first impressions are based on information from a single interaction or source, and on immediate emotional responses such as surprise or offense
 - Charm and agreeableness can coincide with manipulative behaviors such as pressuring for favors, isolating you from other perspectives, or making unrequested commitments on your behalf
 - Pride in yourself can lead you to dismiss, ignore, or rationalize away evidence of others' positive qualities
 - Difficulty with eye contact, small talk, or reading social cues does not predict whether a person acts with honesty, reliability, or kindness
-- Time and behavior consistent with stated values reveal patterns more reliably than initial impressions
+- Time and behavior matching stated values reveal patterns more reliably than initial impressions
 
 #### Security & Safety Notes
 
-- Applied to contemporary contexts, the novel's themes suggest: while giving people the benefit of doubt, maintain boundaries proportionate to the level of trust, history, and potential risk in the relationship; potential risk is defined as the likelihood of physical, emotional, financial, or reputational harm based on available evidence
-- If someone's behavior consistently causes measurable distress across three or more incidents within three months, trust repeated patterns over single positive moments
+- Applied to contemporary contexts, the novel's themes suggest: while assuming people intend no harm unless their actions indicate otherwise, maintain boundaries proportionate to the level of trust, history, and potential risk in the relationship; potential risk is defined as the probability of physical, emotional, financial, or reputational harm based on available evidence
+- If someone's behavior consistently causes measurable distress—defined as distress observable to the person experiencing it or to others—across three or more incidents within three months, trust repeated patterns over single positive moments
 - Charm used to pressure for unrequested commitments, isolate you from others, or extract resources may indicate manipulation; define manipulation as behavior that deliberately misrepresents facts, conceals material information, or pressures someone using known fears or dependencies
 
 #### Common Pitfalls
 
 - **Problem:** Confusing shyness or social awkwardness with unfriendliness
   **Solution:** Give people time to show their true nature in comfortable settings
-- **Problem:** Allowing one negative trait to overshadow multiple positive behaviors across different contexts
+- **Problem:** Allowing one negative trait to overshadow positive behaviors across different contexts
   **Solution:** List specific behaviors and evaluate the overall pattern
 - **Problem:** Refusing to update your opinion even when presented with new evidence
-  **Solution:** Practice intellectual humility; treat opinions as hypotheses to be tested, not permanent truths
+  **Solution:** Practice intellectual humility; treat your judgments as provisional assessments that can be revised with new evidence, rather than as permanent conclusions
 
 ### Lesson 2: Pride Blocks Authentic Connection
 
@@ -81,11 +81,11 @@ Elizabeth's growth comes from her willingness to revise her judgment upon learni
 
 ##### Example 1: Darcy's Social Pride
 
-Darcy's wealth and status create a class-conscious barrier. He admits: "I was spoiled by my parents, who allowed, encouraged, almost taught me to be selfish and overbearing, to care for none beyond my own family circle, to think meanly of all the rest of the world." His pride isolates him until Elizabeth confronts him, forcing self-awareness and change.
+Darcy's wealth and status create a class-conscious barrier. He admits: "I was spoiled by my parents, who allowed and encouraged me to be selfish and overbearing, to care for none beyond my own family circle, to think meanly of all the rest of the world." His pride isolates him until Elizabeth confronts him, forcing self-awareness and change.
 
 ##### Example 2: Elizabeth's Intellectual Pride
 
-Elizabeth prides herself on her discernment and wit. When Darcy first proposes, her pride is wounded by his mention of her family's inferior connections. She lashes out: "From the very beginning, from the first moment, I may almost say, of my acquaintance with you, your manners, impressing me with the fullest belief of your arrogance, your conceit, and your selfish disdain of the feelings of others, were such as to form that ground-work of disapprobation on which succeeding events have built so immovable a dislike." Her pride in her own judgment significantly delayed her ability to accept his sincere regard.
+Elizabeth prides herself on her discernment and wit. When Darcy first proposes, her pride is wounded by his mention of her family's inferior connections. She lashes out: "From the very beginning, from the first moment, I may almost say, of my acquaintance with you, your manners, impressing me with the fullest belief of your arrogance, your conceit, and your selfish disdain of the feelings of others, were such as to form that ground-work of disapprobation on which succeeding events have built so immovable a dislike." Her pride in her own judgment delayed her ability to accept his sincere regard.
 
 #### Step 1: Recognize Your Own Pride
 
@@ -106,17 +106,17 @@ Darcy's letter is powerful because it admits error without excuses. When you rea
 #### Best Practices
 
 - ✅ Treat everyone with equal respect regardless of their position
-- ✅ Ask for feedback about how you come across to others
+- ✅ Ask for feedback about specific behaviors you exhibit and how they affect others
 - ✅ Celebrate others' successes without envy or comparison
 - ✅ Admit mistakes quickly and without justification
 - ✅ Listen to criticism without becoming defensive
 
 #### Keep In Mind
 
-- Pride repeatedly masks insecurity in the novel's examples, such as Darcy's dismissive remarks toward Elizabeth coinciding with anxiety about social standing
+- Pride can coincide with insecurity in the novel's examples, such as Darcy's dismissive remarks toward Elizabeth coinciding with anxiety about social standing
 - Being "too proud" to apologize means refusing to apologize after acknowledging fault to yourself, or qualifying an apology with an excuse or counter-accusation
 - Social status does not determine moral worth
-- Humility is not weakness; it is self-assessment compared against structured anonymous feedback from at least three people who know you in different contexts
+- Humility is not weakness; it is self-assessment compared against structured anonymous feedback—feedback collected using a consistent format with responses not linked to individual identities—from three or more people who know you in different contexts
 - In most social and professional contexts, others are likely to possess strengths in areas where you have less experience or aptitude
 
 #### Security & Safety Notes
@@ -131,7 +131,7 @@ Darcy's letter is powerful because it admits error without excuses. When you rea
 - **Problem:** Mistaking confidence for arrogance
   **Solution:** Reflect on the likely impact of your words: are you sharing to help, or to impress? If your contribution answers a stated need of the listener, it may be helpful; if it advances your self-image, it may be pride
 - **Problem:** Avoiding all self-advocacy to appear humble
-  **Solution:** Humility means accurate self-assessment compared against structured feedback from at least two sources, not self-erasure
+  **Solution:** Humility means accurate self-assessment compared against structured feedback from two or more sources, not self-erasure
 
 ### Lesson 3: Prejudice Prevents Clear Judgment
 
@@ -139,23 +139,23 @@ Darcy's letter is powerful because it admits error without excuses. When you rea
 
 ##### Example 1: Elizabeth's Prejudice Against Darcy
 
-Elizabeth's prejudice forms from Darcy's slight at the ball and Wickham's lies. She admits: "I did not believe her to be indifferent because I wished it." Her desire to dislike Darcy colored her interpretation of a large number of his actions during their early acquaintance at Meryton and Netherfield. Only when she sees his behavior at Pemberley—his kindness to his sister, his graciousness to her aunt and uncle—does prejudice weaken as evidence accumulated.
+Elizabeth's prejudice forms from Darcy's slight at the ball and Wickham's lies. She admits: "I did not believe her to be indifferent because I wished it." Her desire to dislike Darcy colored her interpretation of his actions during their early acquaintance at Meryton and Netherfield. Only when she sees his behavior at Pemberley—his kindness to his sister, his graciousness to her aunt and uncle—does prejudice weaken as evidence accumulated.
 
 ##### Example 2: The Bennet Family Prejudice Against Social Mobility
 
-Mrs. Bennet's obsession with marrying daughters to wealthy men reflects class prejudice. She sees marriage primarily as economic security, not partnership. Her prejudice against "lesser" connections prevents her from seeing Darcy's demonstrated worth until he is wealthy and titled. The novel critiques evaluating people solely by their economic or social value.
+Mrs. Bennet's obsession with marrying daughters to wealthy men reflects class prejudice. She sees marriage mainly as economic security, not partnership. Her prejudice against "lesser" connections prevents her from seeing Darcy's demonstrated worth until he is wealthy and titled. The novel critiques evaluating people solely by their economic or social value.
 
 #### Step 1: Identify Your Prejudices
 
-Prejudice operates below conscious awareness. Notice when you dismiss someone based on group membership by any category such as race, gender, accent, education level, job title, neighborhood, or political affiliation. Ask: "What assumptions am I making about this person based on stereotypes?"
+Prejudice operates below conscious awareness. Notice when you dismiss someone based on group membership by categories such as race, gender, accent, education level, job title, neighborhood, or political affiliation. Ask: "What assumptions am I making about this person based on stereotypes?"
 
 #### Step 2: Challenge Stereotypes Actively
 
-When you notice yourself thinking "people like that always..." stop and demand evidence. In hiring, this means removing names and other identifying fields from resumes before review. In social settings, it means giving people space to surprise you. In media consumption, it means seeking out at least one source each month that presents a contrary perspective to your assumptions.
+When you notice yourself thinking "people like that always..." stop and demand evidence. In hiring, this means removing names and other identifying fields from resumes before review. In social settings, it means giving people space to surprise you. In media consumption, it means seeking out one source each month that presents a contrary perspective to your assumptions.
 
 #### Step 3: Create Conditions for Accurate Judgment
 
-Elizabeth's prejudice persists partly because she avoids Darcy. To judge fairly, you must engage. Spend time with people from different socioeconomic or cultural backgrounds. Read books by authors with different perspectives. Travel to places that challenge your assumptions by presenting evidence that contradicts them. Repeated cooperative interactions of at least two hours each, over a minimum of eight sessions, within settings where participants hold equivalent decision-making authority, weaken prejudice more than passive exposure alone.
+Elizabeth's prejudice persists partly because she avoids Darcy. To judge fairly, you must engage. Spend time with people from different socioeconomic or cultural backgrounds. Read books by authors with different perspectives. Travel to places that challenge your assumptions by presenting evidence that contradicts them. Repeated cooperative interactions of two hours each, over eight sessions, within settings where participants hold equivalent decision-making authority, weaken prejudice more than passive exposure alone.
 
 #### Step 4: Separate Past Experience From Present Individuals
 
@@ -163,7 +163,7 @@ Assuming a new person will behave like a previous person in the same role becaus
 
 #### Best Practices
 
-- ✅ Actively seek out at least one source each month that challenges your core assumptions
+- ✅ Actively seek out one source each month that challenges your core assumptions
 - ✅ Examine your first reactions to people and ask "why?"
 - ✅ Give people opportunities to demonstrate their true character
 - ✅ Treat each person as an individual, not a category
@@ -171,9 +171,9 @@ Assuming a new person will behave like a previous person in the same role becaus
 
 #### Keep In Mind
 
-- Research in psychology indicates that prejudice is frequently unconscious; it requires deliberate effort such as spending ten minutes daily examining a first impression before acting on it to uncover
+- Research in psychology suggests that prejudice can operate below conscious awareness; it requires deliberate effort such as spending ten minutes daily examining a first impression before acting on it to uncover
 - Confirmation bias makes us see evidence that supports existing beliefs
-- Social conditioning shapes prejudices from early childhood, approximately ages 3–7, according to developmental psychology
+- Social conditioning shapes prejudices from early childhood, developmental psychology research suggests
 - Overcoming prejudice is an ongoing practice; reassess every six months rather than treating it as a one-time achievement
 - Diverse relationships are among the protections against prejudice
 
@@ -181,7 +181,7 @@ Assuming a new person will behave like a previous person in the same role becaus
 
 - Applied to contemporary contexts, the novel's themes suggest: overcoming prejudice does not mean ignoring warning signs in abusive or manipulative people; define these using specific behavioral criteria from a recognized framework such as the Duluth Model or Power and Control Wheel
 - Healthy skepticism and prejudice differ: skepticism requires evidence; prejudice relies on assumption
-- Trust your gut when someone consistently causes measurable distress across three or more incidents within three months, even if they are from your in-group
+- Trust your gut when someone consistently causes measurable distress—defined as distress observable to the person experiencing it or to others—across three or more incidents within three months, even if they are from your in-group
 
 #### Common Pitfalls
 
@@ -198,19 +198,19 @@ Assuming a new person will behave like a previous person in the same role becaus
 
 ##### Example 1: Charlotte Lucas's Pragmatic Marriage
 
-Charlotte marries Mr. Collins primarily motivated by economic security rather than romantic love. She tells Elizabeth: "I am not romantic, you know; I never was. I ask only a comfortable home." While Austen presents this as a realistic choice for women with limited options, the novel contrasts it with Elizabeth's insistence on marrying for love and respect. Charlotte's marriage is comfortable but not fulfilling; she avoids her husband as much as possible.
+Charlotte marries Mr. Collins mainly motivated by economic security rather than romantic love. She tells Elizabeth: "I am not romantic, you know; I never was. I ask only a comfortable home." While Austen presents this as a realistic choice for women with limited options, the novel contrasts it with Elizabeth's insistence on marrying for love and respect. Charlotte's marriage is comfortable but not fulfilling; she avoids her husband as much as possible.
 
 ##### Example 2: The Lydia-Wickham Disaster
 
-Lydia's elopement with Wickham nearly destroys the family's reputation. Wickham is motivated by money; Lydia by vanity and impulse. Their marriage lacks the mutual respect and economic stability that make Darcy and Elizabeth's union successful. Even after marriage, they remain with no independent income and are cited by neighbors as socially embarrassing.
+Lydia's elopement with Wickham nearly destroys the family's reputation. Wickham is motivated by money; Lydia by vanity and impulse. Their marriage lacks the mutual respect and economic stability that make Darcy and Elizabeth's union successful. Even after marriage, they remain with no independent income and neighbors regard them as socially embarrassing.
 
 ##### Example 3: Jane and Bingley's Too-Passive Love
 
-Jane and Bingley both possess gentle, yielding temperaments. Their mutual affection is real, but their passivity almost separates them when Bingley leaves Netherfield believing Jane indifferent; Jane conceals her feelings to maintain decorum. Their story illustrates that love requires active communication, not just good intentions.
+Jane and Bingley both possess gentle, yielding temperaments. Their mutual affection is real, but their passivity nearly separates them when Bingley leaves Netherfield believing Jane indifferent; Jane conceals her feelings to maintain decorum. Their story illustrates that love requires active communication, not just good intentions.
 
 #### Step 1: Clarify Your Values Before Committing
 
-Elizabeth nearly loses Darcy because she initially rejects him based on principles she later realizes are shallow. Before entering marriage or long-term partnership, write down what you truly need: emotional safety, intellectual partnership, financial stability, shared values. Distinguish between wants and needs using a framework such as Nussbaum's capabilities approach (a framework defining basic human entitlements) or Maslow's hierarchy (a model ranking needs from physiological to self-actualization), acknowledging the distinction is contested.
+Elizabeth nearly loses Darcy because she initially rejects him based on principles she later realizes are shallow. Before entering marriage or long-term partnership, write down what you truly need: emotional safety, intellectual partnership, financial stability, shared values. Distinguish between wants and needs using a framework such as Nussbaum's capabilities approach (a framework defining basic human entitlements) or Maslow's hierarchy (a model ranking needs from physiological to self-actualization); the distinction between wants and needs is debated.
 
 #### Step 2: Communicate Directly and Early
 
@@ -218,11 +218,11 @@ Jane's silence leads to misunderstandings. She loves Bingley but reveals little.
 
 #### Step 3: Build Financial and Emotional Independence
 
-Charlotte's choice reflects limited options for women. In contemporary terms, this translates to building financial independence before marriage—sufficient savings to cover basic needs independently for at least six months, plus your own income and credit. Emotional independence means maintaining your own friendships, interests, and support systems. Dependency creates power imbalances that erode respect over time.
+Charlotte's choice reflects limited options for women. In contemporary terms, this translates to building financial independence before marriage—sufficient savings to cover basic needs, such as housing, food, utilities, and healthcare, for a sustained period, plus your own income and credit. Emotional independence means maintaining your own friendships, interests, and support systems. Dependency creates power imbalances that erode respect over time.
 
 #### Step 4: Choose Partners Who Inspire Your Best Self
 
-Elizabeth and Darcy both grow through their relationship. Darcy becomes more generous; Elizabeth becomes less quick to judge. Ask: "Does this relationship make me kinder, wiser, more capable?" If the answer is no, reconsider. Partnerships should be mutual improvement projects.
+Elizabeth and Darcy both grow through their relationship. Darcy becomes more generous; Elizabeth becomes less quick to judge. Ask: "Does this relationship make me kinder, wiser, more capable?" If the answer is no, reconsider. Partnerships should support mutual growth in kindness, wisdom, and capability.
 
 #### Best Practices
 
@@ -236,7 +236,7 @@ Elizabeth and Darcy both grow through their relationship. Darcy becomes more gen
 
 - Economic necessity has historically forced people into unhappy marriages
 - Emotional dependency can be similarly damaging as financial dependency, though findings vary by context
-- Love alone is insufficient without practical compatibility, defined as alignment on lifestyle, values, goals, and daily habits
+- Love alone is insufficient without practical compatibility, defined as alignment on concrete dimensions such as desired number of children, career priorities, religious beliefs, preferred vacation frequency, and daily habits
 - Mutual respect and honest communication support sustainable partnership
 - Financial equality supports relationship equality
 
@@ -254,7 +254,7 @@ Elizabeth and Darcy both grow through their relationship. Darcy becomes more gen
 - **Problem:** Sacrificing all independence to please a partner
   **Solution:** Maintain separate interests, income, and social connections
 - **Problem:** Ignoring character flaws because of attraction
-  **Solution:** Character is revealed in crisis; observe how potential partners handle stress
+  **Solution:** Observing how potential partners handle stress can provide evidence about their character.
 
 ### Lesson 5: Self-Awareness Is the Foundation of Growth
 
@@ -266,7 +266,7 @@ Darcy's journey from prideful aristocrat to loving partner requires a practice o
 
 ##### Example 2: Elizabeth's Blind Spots
 
-Elizabeth prides herself on her judgment but admits: "Till this moment, I never knew myself." Her realization comes after Darcy's letter exposes her errors. Self-awareness is not always automatic; it frequently requires external feedback and the courage to confront uncomfortable truths about ourselves.
+Elizabeth prides herself on her judgment but admits: "Till this moment, I never knew myself." Her realization comes after Darcy's letter exposes her errors. Self-awareness is not always automatic; it can require external feedback and the courage to confront uncomfortable truths about ourselves.
 
 #### Step 1: Solicit Honest Feedback Regularly
 
@@ -274,7 +274,7 @@ Ask people who know you well: "What is one thing I do that I'm unaware of that a
 
 #### Step 2: Keep a Reflection Journal
 
-Write weekly, if your schedule allows, about interactions that surprised you, moments you felt defensive, times you were wrong. Track your reactions and patterns. If you review feedback systematically over twelve weeks, patterns may emerge that were not visible in the moment.
+Write weekly about interactions that surprised you, moments you felt defensive, times you were wrong. Track your reactions and patterns. If you review feedback systematically over twelve weeks, patterns may emerge that were not visible in the moment.
 
 #### Step 3: Own Your Part in Conflicts
 
@@ -294,15 +294,15 @@ Notice when you feel defensive, superior, or dismissive. These emotions are sign
 
 #### Keep In Mind
 
-- Self-awareness is often correlated with intentional change in psychological research; without it, growth may require external feedback or structured reflection
+- Self-awareness is correlated with intentional change, some psychological research suggests; without it, growth may require external feedback or structured reflection
 - In the novel's examples, others repeatedly notice patterns in your behavior that you may have missed
 - Pride is the primary obstacle to self-awareness
-- Growth is uncomfortable; seek environments where you receive constructive feedback at least quarterly
+- Growth is uncomfortable; seek environments where you receive constructive feedback quarterly
 - Intellectual humility enables continuous learning
 
 #### Security & Safety Notes
 
-- Self-awareness does not mean accepting all criticism; evaluate the source and intent using criteria: specificity (does the feedback describe concrete behaviors rather than global judgments?), consistency (does it align with observations from other sources?), and track record (has the giver provided accurate feedback in the past?)
+- Self-awareness does not mean accepting all criticism; evaluate the source and intent using criteria: specificity (does the feedback describe observable behaviors rather than global character judgments?), consistency (does it align with observations from other sources?), and track record (has the giver provided accurate feedback in the past?)
 - Some feedback reflects the giver's issues, not your actual behavior
 - Maintain boundaries even while being open to growth
 
@@ -311,7 +311,7 @@ Notice when you feel defensive, superior, or dismissive. These emotions are sign
 - **Problem:** Using self-awareness solely for self-blame without recognizing strengths
   **Solution:** Balance awareness of flaws with awareness of strengths; both are necessary
 - **Problem:** Waiting for others to give feedback
-  **Solution:** Proactively seek it; a substantial proportion of people hesitate to offer unsolicited feedback
+  **Solution:** Proactively seek it; people may hesitate to offer unsolicited feedback
 - **Problem:** Over-analyzing past mistakes
   **Solution:** Learn from the past, then release it; rumination is not growth
 
@@ -321,7 +321,7 @@ Notice when you feel defensive, superior, or dismissive. These emotions are sign
 
 ##### Example 1: Darcy's First Proposal Failure
 
-Darcy's first marriage proposal is technically sincere but tactically disastrous. He emphasizes how he has fought against his better judgment, how Elizabeth's inferior connections threaten his pride. Elizabeth responds with justified anger: "You could not have made me the offer of your hand in any possible way that would have tempted me to accept it." For building lasting relationships, communication without empathy is typically ineffective.
+Darcy's first marriage proposal is technically sincere but tactically disastrous. He emphasizes how he has fought against his better judgment, how Elizabeth's inferior connections threaten his pride. Elizabeth responds with justified anger: "You could not have made me the offer of your hand in any possible way that would have tempted me to accept it." For building lasting relationships, communication without empathy can be ineffective.
 
 ##### Example 2: The Power of Darcy's Letter
 
@@ -329,11 +329,11 @@ Darcy's letter transforms everything. It is detailed and evidence-based, though 
 
 ##### Example 3: Mr. Bennet's Communication Failures
 
-Mr. Bennet communicates primarily through sarcasm and withdrawal. He watches his family's follies with amusement but rarely intervenes with clarity. His failure to communicate seriously with Lydia or guide his daughters contributes to the Lydia-Wickham crisis. Passive communication enables dysfunction.
+Mr. Bennet communicates through sarcasm and withdrawal. He watches his family's follies with amusement but rarely intervenes with clarity. His failure to communicate seriously with Lydia or guide his daughters contributes to the Lydia-Wickham crisis. Passive communication enables dysfunction.
 
 #### Step 1: Match Your Message to Your Goal
 
-Before any important conversation, clarify whether your primary goal is mutual understanding, decision-making, or emotional connection. Frame your words accordingly. Avoid blame language ("You always..." or "You never...") and use "I" statements about your experience.
+Before any important conversation, clarify whether your primary goal is mutual understanding, decision-making, or emotional connection. Choose your phrasing to match that goal. Avoid blame language ("You always..." or "You never...") and use "I" statements about your experience.
 
 #### Step 2: Listen to Understand, Not to Respond
 
@@ -357,8 +357,8 @@ After any conversation that provokes strong emotion or disagreement, within 24 h
 
 #### Keep In Mind
 
-- For most collaborative contexts, communication is more effective when the receiver interprets the message as the sender intended, based on communication studies
-- Tone, timing, and medium can significantly influence how content is received, sometimes as much as the content itself
+- For most collaborative contexts, communication is more effective when the receiver interprets the message as the sender intended; communication studies suggest this alignment
+- Tone, timing, and medium influence how content is received; in certain contexts they can influence reception as much as the content itself
 - Silence takes different forms, including reflective silence and avoidant silence; use reflective silence when you need time to process, and avoidant silence only when safety requires disengagement, switching to direct communication when safe
 - People hear through their biases; anticipate and address them by asking listeners to restate your message in their own words
 - Repair attempts predict relationship satisfaction better than low conflict frequency does
@@ -372,7 +372,7 @@ After any conversation that provokes strong emotion or disagreement, within 24 h
 #### Common Pitfalls
 
 - **Problem:** Speaking from emotion without filtering
-  **Solution:** Count to ten, or write your message, then wait an hour before sending; this is a commonly recommended technique in conflict-resolution literature
+  **Solution:** Count to ten, or write your message, then wait an hour before sending; this is a recommended technique in conflict-resolution literature
 - **Problem:** Assuming the other person understands your intent
   **Solution:** Explicitly state your intent in one sentence, then ask the listener to repeat it in their own words; correct any divergence before proceeding
 - **Problem:** Repeating the same argument hoping for a different outcome
@@ -384,7 +384,7 @@ After any conversation that provokes strong emotion or disagreement, within 24 h
 
 ##### Example 1: The Bennet Family Dysfunction
 
-Mr. Bennet's withdrawal and Mrs. Bennet's hysteria create a home with inconsistent rules and unpredictable emotional responses. Lydia's recklessness stems partly from absence of consistent monitoring and accountability. Mary's pedantry, Kitty's weakness—all reflect parental limitations. Austen critiques the idea that children naturally turn out well without intentional parenting. Elizabeth succeeds despite her family, not because of it.
+Austen depicts the Bennet household as chaotic and neglectful. The novel's portrayal suggests that children do not naturally turn out well without intentional parenting. Elizabeth succeeds despite her family, not because of it.
 
 ##### Example 2: Darcy and Georgiana's Healthy Sibling Bond
 
@@ -392,7 +392,7 @@ Darcy's relationship with Georgiana demonstrates what healthy family looks like.
 
 #### Step 1: Recognize Family Patterns
 
-Observe how your family handles conflict, expresses love, manages finances, and treats outsiders. These patterns are commonly learned before age eight and can be repeated consciously or unconsciously. Awareness is the first step to choosing whether to continue or break them.
+Observe how your family handles conflict, expresses love, manages finances, and treats outsiders. These patterns can form early in childhood and can be repeated consciously or unconsciously. Awareness is the first step to choosing whether to continue or break them.
 
 #### Step 2: Establish Boundaries With Family
 
@@ -400,7 +400,7 @@ Elizabeth distances herself from her mother's embarrassing behavior while mainta
 
 #### Step 3: Communicate Directly With Family Members
 
-Mr. Bennet's sarcasm fails; direct conversation might have prevented Lydia's elopement. Practice saying difficult things to family using specific behavioral descriptions and a calm tone about specific topics such as financial concerns, boundary violations, or risky behavior: "I'm worried about your decision because..." rather than mocking or withdrawing.
+Mr. Bennet's sarcasm fails; direct conversation might have prevented Lydia's elopement. Practice saying difficult things to family using observable behavioral descriptions and a steady tone about concrete topics such as financial concerns, boundary violations, or risky behavior: "I'm worried about your decision because..." rather than mocking or withdrawing.
 
 #### Step 4: Choose Your Family's Values Intentionally
 
@@ -425,8 +425,8 @@ Darcy's Pemberley reflects his values through specific practices: maintaining th
 #### Security & Safety Notes
 
 - Some family relationships are unsafe; specify the type of safety (physical, emotional, financial, reputational) and prioritize protection over reconciliation
-- Do not expose children or partners to abusive relatives to maintain peace; define abusive using behaviors meeting the WHO or CDC definitions of intimate partner violence, including physical harm, threats, isolation, or coercion
-- Document patterns of harmful behavior—defined as three or more incidents over three months that cause measurable distress—to maintain clarity
+- Do not expose children or partners to abusive relatives to maintain peace; define abusive using behaviors meeting the World Health Organization (WHO) or U.S. Centers for Disease Control and Prevention (CDC) definitions of intimate partner violence, including physical harm, threats, isolation, or coercion
+- Document patterns of harmful behavior—three or more incidents over three months that cause distress observable to the person experiencing it or to others—to maintain clarity
 
 #### Common Pitfalls
 
@@ -443,15 +443,15 @@ Darcy's Pemberley reflects his values through specific practices: maintaining th
 
 ##### Example 1: The Marriage Market
 
-Austen opens with the famous ironic opening: "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife." For many women without independent means in Regency England, marriage was a primary route to economic security, though outcomes varied by class and circumstance. The Bennet sisters must secure financial provision or face poverty. This economic pressure shapes every courtship decision.
+Austen opens with the famous ironic opening: "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife." For women without independent means in Regency England, marriage was a primary route to economic security, though outcomes varied by class and circumstance. The Bennet sisters must secure financial provision or face poverty. This economic pressure shapes every courtship decision.
 
 ##### Example 2: Miss Bingley's Ambition
 
-Miss Bingley pursues Darcy primarily for his wealth and status. She criticizes Elizabeth's lower connections while ignoring her own lack of fortune. Her ambition without observable care for others makes her miserable and manipulative. Austen contrasts mercenary marriage with affectionate marriage.
+Miss Bingley pursues Darcy mainly for his wealth and status. She criticizes Elizabeth's lower connections while ignoring her own lack of fortune. Her ambition without observable care for others makes her miserable and manipulative. Austen contrasts mercenary marriage with affectionate marriage.
 
 #### Step 1: Understand the Economics of Your Relationships
 
-Money shapes power dynamics in every relationship. Before committing, discuss specific topics: income, debt, spending habits, financial goals, inheritance expectations. Avoid assumptions; have explicit conversations. According to a 2023 report from the American Psychological Association, financial stress is cited in approximately 30-40% of divorces.
+Money shapes power dynamics in every relationship. Before committing, discuss specific topics: income, debt, spending habits, financial goals, inheritance expectations. Avoid assumptions; have explicit conversations. According to a 2023 report from the American Psychological Association, financial stress is cited in 30-40% of divorces.
 
 #### Step 2: Build Your Own Economic Foundation
 
@@ -459,7 +459,7 @@ Elizabeth has no fortune, which limits her options. In contemporary terms, this 
 
 #### Step 3: Avoid Using Money to Control or Manipulate
 
-Darcy's intervention with Lydia is motivated partly by love for Georgiana and partly by a desire to distance himself from Wickham's actions. Lady Catherine tries to control Elizabeth through class and money threats. In relationships, money should support mutual flourishing, not dominate or shame.
+Darcy's intervention with Lydia is motivated in part by love for Georgiana and in part by a desire to distance himself from Wickham's actions. Lady Catherine tries to control Elizabeth through class and money threats. In relationships, money should support mutual flourishing, not dominate or shame.
 
 #### Step 4: Distinguish Love From Economic Necessity
 
@@ -475,9 +475,9 @@ Charlotte's marriage is rational but joyless. Elizabeth's refusal of Collins, de
 
 #### Keep In Mind
 
-- Economic stress is one of the top predictors of relationship failure
-- Financial dependence can significantly reduce the practical ability to leave, particularly when legal or social structures restrict options
-- Money frequently intensifies pre-existing relationship dynamics, though severe financial stress can also introduce new sources of conflict
+- Economic stress is a significant predictor of relationship failure
+- Financial dependence can reduce the practical ability to leave, particularly when legal or social structures restrict options
+- Money intensifies pre-existing relationship dynamics, though severe financial stress can also introduce new sources of conflict
 - Generosity without communication can create resentment
 - Class consciousness, defined as awareness of economic and social hierarchy, still influences relationship dynamics in contemporary societies with documented class stratification
 
@@ -491,7 +491,7 @@ Charlotte's marriage is rational but joyless. Elizabeth's refusal of Collins, de
 #### Common Pitfalls
 
 - **Problem:** Avoiding money conversations to keep peace
-  **Solution:** Schedule monthly financial check-ins or whenever income, debt, or major expenses change by more than 20%; treat money talk as health talk
+  **Solution:** Schedule monthly financial check-ins or whenever income, debt, or major expenses change by more than 20%; treat financial planning as a regular practice like health maintenance
 - **Problem:** Measuring partner's love by their spending
   **Solution:** Love is demonstrated in time, attention, and responsiveness to needs, not gifts
 - **Problem:** Assuming economic roles based on gender stereotypes
@@ -503,11 +503,11 @@ Charlotte's marriage is rational but joyless. Elizabeth's refusal of Collins, de
 
 ##### Example 1: Lady Catherine de Bourgh
 
-Lady Catherine embodies aristocratic arrogance. She believes her class gives her the right to command others, to dictate whom her nephew marries, to humiliate Elizabeth. Austen presents Lady Catherine with satirical exaggeration; class prejudice, as a sociological phenomenon, is irrational and deeply damaging to those subjected to it.
+Lady Catherine embodies aristocratic arrogance. She believes her class gives her the right to command others, to dictate whom her nephew marries, to humiliate Elizabeth. Austen portrays Lady Catherine with satirical exaggeration; class prejudice, as a sociological phenomenon, can be irrational and deeply damaging to those subjected to it.
 
 ##### Example 2: The Gardiners as Counterexample
 
-Elizabeth's uncle and aunt are "in trade"—considered socially inferior—but they are kind, sensible, and supportive. Their home is welcoming; their judgment is sound. Austen suggests that class does not determine character. Elizabeth's accomplishments serve social connection rather than social display, which is partly why Darcy is attracted to her direct manner compared to Miss Bingley's superficial performances.
+Elizabeth's uncle and aunt are "in trade"—considered socially inferior—but they are kind, sensible, and supportive. Their home is welcoming; their judgment is sound. Austen suggests that class does not determine character. Elizabeth's accomplishments serve social connection rather than social display, which is one reason Darcy is attracted to her direct manner compared to Miss Bingley's superficial performances.
 
 #### Step 1: Treat Everyone With Dignity Regardless of Status
 
@@ -515,11 +515,11 @@ Darcy's growth involves recognizing the Gardiners' worth despite their "inferior
 
 #### Step 2: Recognize Class Biases in Yourself
 
-Notice when you judge people by their accent, job, neighborhood, or education. These are class markers, such as accent or postcode, that in Austen's text frequently serve as proxies for deeper assumptions about worth. Challenge these assumptions actively by specifying which marker you are using and what it is standing in for.
+Notice when you judge people by their accent, job, neighborhood, or education. These are class markers, such as accent or postcode, that in Austen's text serve as proxies for deeper assumptions about worth. Challenge these assumptions actively by specifying which marker you are using and what it is standing in for.
 
 #### Step 3: Build Relationships Across Class Lines
 
-Elizabeth experiences moments of real connection in the novel with Jane, Charlotte, and the Gardiners—people who love her for herself. Intentionally cultivate relationships with people from different economic and social backgrounds by joining community groups, volunteer organizations, or professional networks that include members from at least two distinct income quartiles; initiate at least one new cross-group conversation per month. This expands your empathy and challenges stereotypes.
+Elizabeth experiences moments of real connection in the novel with Jane, Charlotte, and the Gardiners—people who love her for herself. Intentionally cultivate relationships with people from different economic and social backgrounds by joining community groups, volunteer organizations, or professional networks that include members from different income levels; initiate new cross-group conversations regularly. This expands your empathy and challenges stereotypes.
 
 #### Step 4: Use Privilege to Lift Others, Not to Exclude
 
@@ -536,9 +536,9 @@ Darcy's wealth allows him to help Lydia through a financial settlement with Wick
 #### Keep In Mind
 
 - In Regency England, class affected access to education, healthcare, justice, and opportunity, though local variation existed
-- Many sociologists argue that meritocracy is difficult to achieve when access to education, nutrition, and social capital varies dramatically by birth, making "merit" a contested measure
-- Sociologists have found that social mobility is harder than popular narratives suggest
-- Class prejudice is frequently expressed in coded language about "culture" or "fit"; in Austen's text, examples include "accomplished" and "genteel"
+- Some sociologists have argued that meritocracy can be difficult to achieve when access to education, nutrition, and social capital varies dramatically by birth, making "merit" a contested measure
+- Some sociological research suggests that social mobility is harder than some narratives suggest
+- Class prejudice is expressed in coded language about "culture" or "fit"; in Austen's text, examples include "accomplished" and "genteel"
 - Economic inequality is associated with reduced social trust in cross-national surveys such as the World Values Survey
 
 #### Security & Safety Notes
@@ -552,7 +552,7 @@ Darcy's wealth allows him to help Lydia through a financial settlement with Wick
 - **Problem:** Assuming class distinctions have no current relevance
   **Solution:** Acknowledge that economic and social hierarchies shape opportunity and interaction in contemporary societies
 - **Problem:** Guilt or shame about your own class position
-  **Solution:** Privilege is not a moral failing in multiple ethical frameworks; how you use it determines its moral value
+  **Solution:** Privilege is not a moral failing; how you use it determines its moral value
 - **Problem:** Romanticizing poverty or struggle
   **Solution:** Poverty imposes hardship that is not inherently ennobling; framing it as character-building can obscure structural causes
 
@@ -565,7 +565,7 @@ Darcy's wealth allows him to help Lydia through a financial settlement with Wick
 |Prejudice|Preconceived negative judgment formed without sufficient evidence; central theme of Elizabeth's arc|N/A|
 |Marriage|Social and economic union examined through romantic love, financial necessity, and mutual respect|N/A|
 |Social Class|Hierarchical system of economic and social ranking that shapes opportunity and relationships in Regency England|N/A|
-|Character|Moral and ethical qualities of a person revealed through actions consistent with stated values, not social performance|N/A|
+|Character|Moral and ethical qualities of a person revealed through actions matching stated values, not social performance|N/A|
 |Communication|Exchange of information and emotion; Darcy's letter and Elizabeth's confession illustrate its power to transform relationships|N/A|
 |Self-Awareness|Conscious knowledge of one's own character, feelings, and motives; prerequisite for personal growth and healthy relationships|N/A|
 |Elizabeth Bennet|Protagonist; intelligent, witty, and principled, whose journey from prejudice to love drives the narrative|N/A|
@@ -612,14 +612,14 @@ Darcy's wealth allows him to help Lydia through a financial settlement with Wick
 |Humility|Recognition of one's limitations and willingness to learn; Darcy's ultimate virtue|N/A|
 |Generosity|Willingness to give without expectation of return; Darcy's secret help to Lydia and Wickham|N/A|
 |Forgiveness|Elizabeth's ability to forgive Darcy's pride and her own prejudice enables their union|N/A|
-|Trust|Foundation of Darcy and Elizabeth's relationship; built gradually through evidence of character over multiple interactions|N/A|
+|Trust|Foundation of Darcy and Elizabeth's relationship; built gradually through evidence of character over repeated interactions|N/A|
 |Equality|Darcy and Elizabeth achieve it through mutual respect and intellectual partnership despite class differences|N/A|
 |Intellectual Compatibility|Meeting of minds between Darcy and Elizabeth; their conversations reveal deep compatibility|N/A|
 |Emotional Intelligence|Capacity to understand and manage one's own emotions and respond to others'; both protagonists develop this|N/A|
 |Integrity|Consistency between values and actions; Darcy demonstrates this in his treatment of Georgiana and Elizabeth|N/A|
 |Kindness|Darcy's quiet acts of charity toward tenants and family reveal his true nature|N/A|
 |Candor|Honest expression of opinion; Elizabeth values it highly, though she lacks it early in her relationship with Darcy|N/A|
-|Modesty|Elizabeth's family lacks it; Darcy's pride masks insecurity; both must learn accurate self-assessment based on feedback from others|N/A|
+|Modesty|Elizabeth's family lacks it; Darcy's pride can coincide with insecurity; both must learn accurate self-assessment based on feedback from others|N/A|
 |Reflection|Elizabeth's habit of examining her own judgments; crucial to her development|N/A|
 |Morality|Distinguished from social convention in Austen's world; true morality is internal, not performative|N/A|
 |Duty|Sense of obligation to family and society; Mr. Bennet's failure of duty to his daughters enables Lydia's ruin|N/A|
@@ -643,18 +643,9 @@ Darcy's wealth allows him to help Lydia through a financial settlement with Wick
 |Manners|Social behavior governed by etiquette; Austen's narrative consistently rewards characters who demonstrate kindness over those who perform manners alone|N/A|
 |Conversation|Social art form in Regency England; reveals character and creates intimacy or conflict|N/A|
 |Reading|Intellectual pursuit associated with intelligence and moral sense; Elizabeth reads actively, Georgiana learns from her|N/A|
-|Letter|Medium of revelation; Darcy's letter transforms Elizabeth's understanding; Elizabeth's letter to Darcy expresses love|N/A|
-|Walking|Physical activity that enables private conversation; Elizabeth and Darcy's walks build intimacy|N/A|
-|Gardening|Activity associated with Pemberley's natural beauty and Darcy's good taste|N/A|
-|Music|Accomplishment expected of women; Mary Bennet pedantically displays it in a way that prioritizes display over connection|N/A|
-|Drawing|Accomplishment displayed by Miss Bingley; superficial compared to Elizabeth's lively mind|N/A|
-|Needlework|Traditional female accomplishment; Elizabeth pretends to admire Darcy's handwriting while waiting to speak|N/A|
-|Hunting|Darcy's preferred countryside activity; associated with traditional masculinity and rural gentry life|N/A|
 |Estate|Land and property; Pemberley represents Darcy's character through its management and beauty|N/A|
-|Inheritance|Legal transmission of property; entails, wills, and settlements shape every character's economic fate|N/A|
 |Tenant|Person renting land from a landlord; Darcy's good relations with tenants reveal his character|N/A|
 |Servant|Domestic worker; Darcy's servants' praise of him at Pemberley confirms his good character|N/A|
-|Proposal|Formal request for marriage; Darcy's two proposals mark the turning points of the narrative|N/A|
 |Engagement|Formal commitment to marriage; Lydia's elopement threatens the entire family's engagement prospects|N/A|
 |Scandal|Social ruin from improper behavior; Lydia's elopement threatens to destroy her sisters' marriage prospects|N/A|
 |Elopement|Secret flight to marry without parental consent; Wickham's attempt with Georgiana and success with Lydia|N/A|
@@ -668,7 +659,6 @@ Darcy's wealth allows him to help Lydia through a financial settlement with Wick
 |Mother|Mrs. Bennet represents maternal anxiety taken to comic extremes; her favoritism creates dysfunction|N/A|
 |Father|Mr. Bennet represents paternal neglect; his sarcasm and withdrawal fail his daughters|N/A|
 |Uncle|Mr. Gardiner represents responsible unclehood; he helps rescue Lydia and supports Elizabeth|N/A|
-|Aunt|Mrs. Gardiner represents wise female mentorship; she advises Elizabeth and hosts her in London|N/A|
 |In-Law|Relationships with in-laws are a major theme; Darcy's tolerance of the Bennet family and Lady Catherine's disapproval|N/A|
 |Cousin|Mr. Collins represents the absurdity of hereditary connections; he expects marriage as a right|N/A|
 |Estate Management|Darcy's stewardship of Pemberley reflects his character; good management is a moral quality|N/A|
@@ -683,20 +673,6 @@ Darcy's wealth allows him to help Lydia through a financial settlement with Wick
 |Ball|Social dance event; primary venue for courtship and social display|N/A|
 |Assembly|Public dance; Meryton assembly where Darcy first insults Elizabeth|N/A|
 |Call|Formal social visit; essential ritual of Regency courtship and friendship|N/A|
-|Letter Writing|Essential communication skill; Elizabeth and Darcy's letters transform their relationship|N/A|
-|Reading|Intellectual pursuit associated with good sense and moral development|N/A|
-|Music|Accomplishment expected of women; Mary Bennet pedantically displays it in a way that prioritizes display over connection|N/A|
-|Drawing|Accomplishment displayed by Miss Bingley; superficial compared to Elizabeth's lively mind|N/A|
-|Needlework|Traditional female accomplishment; Elizabeth pretends to admire Darcy's handwriting while waiting to speak|N/A|
-|Walking|Physical activity that enables private conversation; Elizabeth and Darcy's walks build intimacy|N/A|
-|Gardening|Activity associated with Pemberley's natural beauty and Darcy's good taste|N/A|
-|Hunting|Darcy's preferred countryside activity; associated with traditional masculinity|N/A|
-|Estate|Land and property; Pemberley represents Darcy's character|N/A|
-|Rent|Income from land; Darcy's income makes him highly desirable|N/A|
-|Debt|Wickham's debts threaten his reputation and force Darcy to pay|N/A|
-|Income|Annual earnings; central to marriage calculations|N/A|
-|Entailment|Legal mechanism preventing women from inheriting property|N/A|
-|Inheritance|Legal transmission of property; shapes every character's choices|N/A|
 |Marriage Settlement|Legal arrangement governing property after marriage; prevents women from losing all economic rights|N/A|
 |Dowry|Money or property brought by bride to marriage; Bennet daughters have small dowries|N/A|
 |Jointure|Provision for widow; financial security after husband's death|N/A|
