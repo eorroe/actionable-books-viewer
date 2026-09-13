@@ -440,11 +440,11 @@ Chapter 31, "A Weekend Away," emphasizes that retreat and renewal are essential 
 
 ##### Example 1: The Blessing Count
 
-We have relationships, health, and opportunities that bring meaning, and losing sight of this abundance is easy. When you scan the world on any given day, there is still significant suffering such as illness, loss, or injustice visible in the world. But focusing on your relationships, health, and shelter rather than your perceived shortcomings or unmet desires anchors you to the current hour.
+We have relationships, health, and opportunities, and it is common to overlook what we already have. When you scan the world on any given day, there is still suffering such as illness, loss, or injustice visible in the world. But focusing on your relationships, health, and shelter rather than your perceived shortcomings or unmet desires anchors you to the present moment.
 
 ##### Example 2: The Finished Book
 
-Fifty-seven percent of books that are purchased are not read to completion. The internal force of laziness, fear, doubt, and procrastination that stands between you and happiness is the reason. You have beaten resistance by reading this far. Happiness is a choice. The internal force of laziness, fear, doubt, and procrastination almost always blocks your progress.
+Fifty-seven percent of books that are purchased are not read to completion. Resistance is the reason you have struggled. You have beaten resistance by reading this far. Happiness is a choice. The internal force of laziness, fear, doubt, and procrastination almost always blocks your progress.
 
 #### Step 1: Count Your Blessings
 
@@ -467,7 +467,7 @@ If and when you break through resistance, celebrate breaking through, and then p
 
 #### Keep In Mind
 
-- Gratitude anchors you to the current hour, reminding you that what matters most is your relationship with God and others, and what matters least is material possessions.
+- Gratitude anchors you to the present moment, reminding you that what matters most is your relationship with God and others, and what matters least is material possessions.
 - The internal force of laziness, fear, doubt, and procrastination that stands between you and happiness does not go away, but if you develop the habit of overcoming it, this awareness becomes a reliable tool for overcoming daily challenges.
 - Many great stories have a villain and hero as narrative roles representing internal struggle. The internal force of laziness, fear, doubt, and procrastination that stands between you and happiness is the villain, and you are the hero.
 
@@ -487,19 +487,19 @@ If and when you break through resistance, celebrate breaking through, and then p
 
 ## Glossary / Index
 
-|Term|Definition|Index Pages|
-|----|----------|-----------|
-|Action Step|A practical exercise given at the end of each chapter of the book to help readers apply the main lesson|Throughout|
-|Best Version of Yourself|The person God created you to be, living out your full potential by using your gifts in service to others|Throughout|
-|Daily Battle|The ongoing fight against resistance that must be engaged on most days|8, 11|
-|God-Size Hole|For many people, the innate human longing for God that cannot be satisfied by anything material or temporary|18, 19|
-|Gratitude|The practice of recognizing and appreciating specific blessings and things you value, which anchors us to the current hour|196, 197|
-|Habit|A settled tendency or practice that shapes our daily choices and long-term outcomes, defeating resistance by taking positive action, or feeding it by procrastinating|121, 122|
-|Key Point|A central truth, or the most important takeaway highlighted at the end of each chapter of the book|Throughout|
-|Ordinary Things|Everyday activities such as eating, working, and commuting through which God can be encountered in moments of peace or insight|62, 63|
-|Pilgrim|A person on a spiritual journey who sees earthly life as temporary and who believes heaven is their true home|160, 161|
-|Prayer Process|A structured prayer method with six steps: gratitude, awareness, significant moments, peace, freedom, and intercession for others|200, 201|
-|Resistance|The internal force of laziness, fear, doubt, and procrastination that stands between you and a sense of purpose and contentment|8-12|
-|Spiritual Coach|A mentor or guide who helps you grow in your spiritual life and overcome resistance by consistently choosing positive actions despite fear or doubt|146, 147|
-|Tourist|A person who approaches life or faith with a transactional mindset focused on maximizing personal pleasure, expecting life to always go according to personal plans|160, 161|
-|Truth|Facts that are true regardless of personal belief, reflecting God's character as loving, just, and truthful; resisting truth is resisting happiness|127, 128|
+|Term|Definition|
+|----|----------|
+|Action Step|A concrete activity at the end of each chapter to help readers apply the chapter's teaching|
+|Best Version of Yourself|The person God created you to be, living out your full potential by using your gifts in service to others|
+|Daily Battle|The daily practice of overcoming resistance by taking positive action|
+|God-Size Hole|For many people, the innate human longing for God that cannot be satisfied by anything material or temporary|
+|Gratitude|The practice of intentionally noticing and valuing specific blessings in your life, which keeps you focused on the present moment|
+|Habit|A practice repeated regularly enough that it becomes automatic, either defeating resistance through positive action or feeding it through procrastination|
+|Key Point|A central truth, or the most important takeaway highlighted at the end of each chapter of the book|
+|Ordinary Things|Everyday activities such as eating, working, and commuting through which God can be encountered in moments of peace or insight|
+|Pilgrim|A person on a spiritual journey who sees earthly life as temporary and who believes heaven is their true home|
+|Prayer Process|A structured prayer method with six steps: gratitude, awareness, significant moments, peace, freedom, and intercession for others (praying on behalf of others)|
+|Resistance|The internal force of laziness, fear, doubt, and procrastination that stands between you and a sense of purpose and contentment|
+|Spiritual Coach|A trained mentor who listens, asks discerning questions, and helps you identify and act against resistance|
+|Tourist|A person who approaches life or faith with a transactional mindset focused on maximizing personal pleasure, expecting life to always go according to personal plans|
+|Truth|Facts that are true regardless of personal belief, reflecting God's character as loving, just, and truthful. Resisting truth is resisting the happiness God intends for you|
