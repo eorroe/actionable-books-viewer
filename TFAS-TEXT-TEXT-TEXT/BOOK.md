@@ -2,12 +2,12 @@
 
 ## Overview
 
-"Thinking, Fast and Slow" by Daniel Kahneman explains how human judgment operates through two distinct modes of thought: System 1, which is fast, intuitive, and emotional; and System 2, which is slow, deliberative, and logical. The book synthesizes decades of research in cognitive psychology and behavioral economics to reveal why we make predictable errors in thinking, how biases shape our decisions, and what it takes to make better judgments in uncertain situations. It provides a framework for understanding the limits of human rationality and offers practical strategies for improving decision-making.
+"Thinking, Fast and Slow" by Daniel Kahneman proposes that human judgment operates through two distinct modes of thought: System 1, which is fast, intuitive, and emotional; and System 2, which is slow, deliberative, and logical. The book synthesizes research spanning multiple decades in cognitive psychology and behavioral economics to reveal why we make predictable errors in thinking, how biases shape our decisions, and what it takes to improve judgment in uncertain situations. It provides a structured framework for understanding the limits of human rationality and offers evidence-based strategies for improving decision-making.
 
 ## When to Follow Book Teachings
 
-- When you need to make important decisions under uncertainty and want to avoid predictable cognitive errors
-- When working on designing products, policies, or user experiences that account for how people actually think, not how they should think
+- When you need to make decisions under uncertainty and want to avoid predictable cognitive errors
+- When working on designing products, policies, or user experiences that account for how people actually think rather than assuming they think rationally
 - When evaluating evidence, data, or arguments and want to guard against biases like overconfidence or confirmation bias
 - When reflecting on your own choices about money, health, or career and want to understand the emotional and intuitive forces shaping them
 
@@ -15,7 +15,7 @@
 
 ### Lesson 1: Recognize and Distinguish Between System 1 and System 2 Thinking
 
-System 1 operates automatically and quickly with little effort, while System 2 allocates attention to effortful mental activities. Errors occur when System 1 takes over situations that require System 2's deliberate reasoning, or when System 2 fails to override System 1's intuitive but flawed responses.
+System 1 operates automatically and rapidly with minimal cognitive effort, while System 2 allocates attention to effortful mental activities. Errors occur when System 1 takes over situations that require System 2's deliberate reasoning, or when System 2 fails to override System 1's intuitive but flawed responses.
 
 #### Examples
 
@@ -29,15 +29,15 @@ A bat and ball cost $1.10. The bat costs $1.00 more than the ball. How much does
 
 ##### Example 3: Driving on a Familiar Route
 
-You drive home on autopilot, arriving safely but with no memory of specific turns or maneuvers. System 1 handled the routine navigation and vehicle control while System 2 was free to daydream. The trade-off works well until an unexpected obstacle appears and System 2 must snap back to alertness.
+You drive home without conscious attention, arriving safely but with no memory of specific turns or maneuvers. System 1 handled the routine navigation and vehicle control while System 2 was free to daydream. The trade-off works well until an unexpected obstacle appears and System 2 must snap back to alertness.
 
 #### Step 1: Pause Before Critical Decisions
 
-When a decision feels obvious or immediate, consciously label it as a System 1 response. Take a deliberate breath and ask yourself: "Is there any reason this might be wrong?" This creates the mental space for System 2 to evaluate whether the situation actually requires slow, analytical thinking.
+When a decision feels clear or time-sensitive, consciously label it as a System 1 response. Take a deliberate breath and ask yourself: "Is there any reason this might be wrong?" This creates a deliberative pause for System 2 to evaluate whether the situation actually requires slow, analytical thinking.
 
 #### Step 2: Use Pre-Commitment Devices for High-Stakes Choices
 
-Before entering a pressure-filled situation, establish explicit rules or criteria for how you will decide. For example, write down the maximum price you will pay for an item before an auction, or define your hiring criteria before reviewing resumes. Pre-commitment shifts the burden from in-the-moment willpower to a deliberate System 2 plan.
+Before entering a high-stakes situation, establish explicit rules or criteria for how you will decide. For example, write down the maximum price you will pay for an item before an auction, or define your hiring criteria before reviewing resumes. Pre-commitment shifts the burden from situational self-control to a deliberate System 2 plan.
 
 #### Step 3: Practice Cognitive Overload to Slow System 1
 
@@ -45,8 +45,8 @@ Deliberately introduce a secondary task when you feel an intuitive urge to act. 
 
 #### Best Practices
 
-- ✅ Label your thoughts as "intuition" or "analysis" to build awareness of which system is active
-- ✅ Create decision checklists for recurring important situations to substitute System 2 discipline for System 1 variation
+- ✅ Label your thoughts as "intuition" or "analysis" to build recognition of which system is active
+- ✅ Create decision checklists for recurring situations to substitute System 2 discipline for System 1 variation
 - ✅ Seek disconfirming evidence specifically when your initial reaction feels very confident
 - ✅ Take breaks during extended cognitive work to prevent ego depletion from weakening System 2
 - ❌ Do not assume that confidence in a judgment reflects its accuracy
@@ -56,16 +56,16 @@ Deliberately introduce a secondary task when you feel an intuitive urge to act. 
 
 #### Keep In Mind
 
-- System 1 is not inherently bad; it is necessary for responding quickly to routine situations. The goal is not to eliminate intuition but to know when to override it.
+- System 1 is not inherently unreliable; it is necessary for responding rapidly to routine situations. The goal is not to eliminate intuition but to know when to override it.
 - Switching to System 2 requires both motivation and cognitive capacity. If you are depleted, stressed, or multitasking, System 2 will struggle to engage even when you try.
-- People vary in their ability to engage System 2. Those who score higher on cognitive reflection tests consistently make better decisions in biased contexts.
+- People vary in their ability to engage System 2. Those who score higher on cognitive reflection tests reliably across multiple studies make more accurate decisions in biased contexts.
 - Organizations can build systems that force System 2 engagement through structured processes, peer review, and decision checklists.
 
 #### Security & Safety Notes
 
 - In safety-critical domains such as aviation, medicine, or industrial operations, relying on System 1 for novel or complex situations can be catastrophic. Procedures must require explicit System 2 verification for non-routine events.
-- Overconfidence in intuitive judgment is a common cause of preventable accidents. When designing safety protocols, assume that operators will rely on System 1 under stress and build in deliberate verification steps.
-- Situational awareness training should explicitly address the tendency of System 1 to fill gaps with assumptions, especially under fatigue or time pressure.
+- Overconfidence in intuitive judgment is a leading cause of preventable accidents. When designing safety protocols, assume that operators will rely on System 1 under stress and build in deliberate verification steps.
+- Training to accurately perceive and understand one's environment should explicitly address the tendency of System 1 to fill gaps with assumptions, especially under fatigue or time pressure.
 
 #### Common Pitfalls
 
@@ -78,21 +78,21 @@ Deliberately introduce a secondary task when you feel an intuitive urge to act. 
 
 ### Lesson 2: Identify and Mitigate Cognitive Heuristics and Biases
 
-Kahneman and Tversky identified a family of mental shortcuts—heuristics—that serve us well but lead to systematic and predictable biases. Anchoring, availability, representativeness, and substitution are pervasive. Understanding these biases allows you to detect when they are distorting your judgment.
+Kahneman and Tversky identified a set of mental shortcuts—heuristics—that serve us well but lead to systematic and predictable biases. Anchoring, availability, representativeness, and substitution are widely observed across diverse contexts. Understanding these biases allows you to detect when they are distorting your judgment.
 
 #### Examples
 
 ##### Example 1: Anchoring in Negotiation
 
-When asked whether the percentage of African nations in the UN is higher or lower than 65 percent, people's subsequent estimates of the actual percentage are higher than when the anchor is 10 percent. The arbitrary number 65 or 10 pulls estimates toward it, even when the anchor is clearly irrelevant.
+When asked whether the percentage of African nations in the UN is higher or lower than 65 percent, people's subsequent estimates of the actual percentage are higher than when the anchor is 10 percent. The arbitrary number 65 or 10 influences estimates toward it, even when the anchor is clearly irrelevant.
 
 ##### Example 2: Availability Heuristic and Risk Perception
 
-After media coverage of a plane crash, people overestimate the danger of flying and underestimate the danger of driving, even though statistics consistently show flying is safer per mile. The ease with which examples come to mind distorts perceived probability.
+After media coverage of a plane crash, people overestimate the danger of flying and underestimate the danger of driving, even though statistical data show that flying is safer per mile. The ease with which examples come to mind distorts perceived probability.
 
 ##### Example 3: Representativeness and Base Rate Neglect
 
-Given a description of a person who is quiet, shy, and detail-oriented, people judge the person as more probable to be a librarian than a farmer, even if there are twenty times as many farmers in the population. The description fits the stereotype of a librarian better, so people neglect the actual base rate.
+Given a description of a person who is quiet, shy, and detail-oriented, people judge the person as more probable to be a librarian than a farmer, even if there are approximately twenty times as many farmers in the population. The description fits the stereotype of a librarian better, so people neglect the actual base rate.
 
 #### Step 1: De-Anchoring Your Estimates
 
@@ -104,7 +104,7 @@ When assessing the likelihood of an event, ask: "How easily do examples come to 
 
 #### Step 3: Use Base Rates Explicitly
 
-For any classification or prediction problem, explicitly state the base rate before considering individuating information. For hiring, this means knowing the success rate of candidates from a pool before evaluating a specific resume. For medical diagnosis, it means knowing the prevalence before weighing symptoms.
+For any classification or prediction problem, explicitly state the base rate before considering individuating information. For hiring, this means knowing the historical success rate of candidates from similar pools before evaluating a specific resume. For medical diagnosis, it means knowing the prevalence before weighing symptoms.
 
 #### Best Practices
 
@@ -119,15 +119,15 @@ For any classification or prediction problem, explicitly state the base rate bef
 
 #### Keep In Mind
 
-- Heuristics are not bugs in human cognition; they are features that work well enough. The goal is to detect when they misfire, not to eliminate them entirely.
-- Awareness of a bias does not automatically correct it. You need active strategies such as considering the opposite or using formal algorithms.
+- Heuristics are not limitations in human cognition; they are mechanisms that function adequately for everyday situations. The goal is to detect when they misfire, not to eliminate them entirely.
+- Recognizing a bias does not automatically correct it. You need active strategies such as considering the opposite or using formal algorithms.
 - Organizations can reduce bias by aggregating independent judgments, using structured analytic techniques, and requiring documentation of reasoning.
 - Cultural and institutional factors can amplify biases. Work environments that reward confidence over accuracy increase overconfidence and groupthink.
 
 #### Security & Safety Notes
 
 - In intelligence analysis and threat assessment, the availability heuristic can cause recent attacks to be over-weighted, leading to misallocation of resources. Analysts should systematically compare threats using structured risk matrices rather than scenario plausibility.
-- In medical diagnosis, representativeness can cause clinicians to latch onto a symptom pattern and miss dangerous conditions. Diagnostic checklists that require consideration of base rates and alternatives reduce error rates.
+- In medical diagnosis, representativeness can cause clinicians to fixate on a symptom pattern and miss dangerous conditions. Diagnostic checklists that require consideration of base rates and alternatives reduce error rates.
 - In cybersecurity risk management, anchoring on past breach costs or media-hyped threats can distort budget decisions. Use standardized threat modeling frameworks that force consideration of likelihood and impact separately.
 
 #### Common Pitfalls
@@ -141,25 +141,25 @@ For any classification or prediction problem, explicitly state the base rate bef
 
 ### Lesson 3: Apply Prospect Theory and Loss Aversion to Decisions Under Risk
 
-Prospect Theory demonstrates that many people do not evaluate outcomes in terms of final wealth but in terms of changes from a reference point. Losses have greater psychological impact than gains, people are risk-averse for gains and risk-seeking for losses, and probability weighting distorts small probabilities by overweighting them and high probabilities by underweighting them.
+Prospect Theory demonstrates that people do not evaluate outcomes in terms of final wealth but in terms of changes from a reference point. Losses have greater psychological impact than gains, people are risk-averse for gains and risk-seeking for losses, and probability weighting distorts small probabilities by overweighting them and high probabilities by underweighting them.
 
 #### Examples
 
 ##### Example 1: The Asymmetric Pain of Loss
 
-If you lose $100, the emotional impact is twice as intense as the pleasure of gaining $100. This asymmetry means that investors hold losing stocks too long to avoid realizing a loss, even when the rational choice is to sell and redeploy capital.
+If you lose $100, the emotional impact is approximately twice as intense as the pleasure of gaining $100. This asymmetry means that investors hold losing stocks too long to avoid realizing a loss, even when the rational choice is to sell and redeploy capital.
 
 ##### Example 2: The Certainty Effect
 
-Given a choice between a guaranteed $500 and a 50 percent chance of winning $1,000, people choose the guaranteed $500. But given a choice between a guaranteed loss of $500 and a 50 percent chance of losing $1,000, people prefer the gamble. The psychological weight of certainty is not symmetrical for gains and losses.
+Given a choice between a guaranteed $500 and a 50 percent chance of winning $1,000, people choose the guaranteed $500. But given a choice between a guaranteed loss of $500 and a 50 percent chance of losing $1,000, people prefer the gamble. The psychological impact of certainty is not symmetrical for gains and losses.
 
 ##### Example 3: The Overweighting of Small Probabilities
 
-Buyers pay more for lottery tickets than their expected value because the low probability of winning is overweighted in the mind. Conversely, they pay more than the expected value for insurance against low-probability disasters. The distortion is most pronounced in the tails of the probability distribution.
+Buyers pay more for lottery tickets than their expected value because the low probability of winning is overweighted in the mind. Conversely, they pay more than the expected value for insurance against low-probability disasters. The distortion is strongest in magnitude in the tails of the probability distribution.
 
 #### Step 1: Frame Decisions in Terms of Net Change from a Reference Point
 
-Before evaluating many choices, explicitly identify your reference point. Is it your current wealth, your last outcome, or your expectation? Then reframe the options as deviations from that point. Ask yourself whether the same choice would look different if framed as a gain rather than a loss, or vice versa.
+Before evaluating choices, explicitly identify your reference point. Is it your current wealth, your last outcome, or your expectation? Then reframe the options as deviations from that point. Ask yourself whether the same choice would look different if framed as a gain rather than a loss, or vice versa.
 
 #### Step 2: Separate Probability from Impact
 
@@ -167,12 +167,12 @@ When evaluating risks, calculate two numbers independently: the probability of t
 
 #### Step 3: Design Choice Architectures That Honor Loss Aversion
 
-If you are designing incentives, policies, or product features, recognize that resistance to giving up what people already have exists. Defaults, endowment effects, and loss-framed messages are more powerful than equivalent gain-framed alternatives. Use this ethically by making beneficial behaviors the default rather than by manipulating fear.
+If you are designing incentives, policies, or product features, recognize that resistance to giving up what people already have exists. Defaults, endowment effects, and loss-framed messages are more effective at influencing behavior than equivalent gain-framed alternatives. Use this ethically by making behaviors with positive expected value the default rather than by manipulating fear.
 
 #### Best Practices
 
 - ✅ Always calculate expected value explicitly before making decisions under risk
-- ✅ Compare the psychological impact of a loss to the objective size of the loss; if they differ by a factor of two or greater, pause and re-evaluate
+- ✅ Compare the psychological impact of a loss to the objective size of the loss; if they differ by a factor of at least two, pause and re-evaluate
 - ✅ Use decision matrices with probabilities and outcomes written in columns to force System 2 engagement
 - ✅ Reframe options when you feel a strong emotional pull toward one side
 - ❌ Do not hold losing investments to avoid realizing a loss; treat each holding as a fresh decision about future expected value
@@ -182,9 +182,9 @@ If you are designing incentives, policies, or product features, recognize that r
 
 #### Keep In Mind
 
-- Loss aversion is a description of human psychology, not a recommendation. Sometimes taking a risky gamble to avoid a loss is the mathematically correct choice if the expected value is positive.
-- The reference point can be arbitrary. What feels like a loss compared to last year might feel like a gain compared to three years ago. Consciously choosing your reference point can change the psychological impact of the same outcome.
-- Probability weighting means that people treat a 1 percent chance and a 2 percent chance as similar, and a 99 percent chance and a 100 percent chance as similar. These distortions matter most at the extremes.
+- Loss aversion is a description of human psychology, not a recommendation. Taking a risky gamble to avoid a loss is the mathematically correct choice if the expected value is positive.
+- The reference point is not determined by objective criteria. What feels like a loss compared to last year might feel like a gain compared to three years ago. Consciously choosing your reference point can change the psychological impact of the same outcome.
+- Probability weighting means that people treat a 1 percent chance and a 2 percent chance as effectively equivalent in perceived probability, and a 99 percent chance and a 100 percent chance as effectively equivalent in perceived probability. These distortions have the greatest influence on decisions at the extremes.
 - In aggregate markets, the errors of individual investors create exploitable patterns such as the disposition effect and the lottery premium.
 
 #### Security & Safety Notes
@@ -204,25 +204,25 @@ If you are designing incentives, policies, or product features, recognize that r
 
 ### Lesson 4: Improve Judgment and Decision Quality Through External Feedback and Statistical Thinking
 
-Overconfidence arises from the illusion of validity, the halo effect, and the failure to recognize the role of luck in outcomes. The best remedy is to think in terms of outside views, base rates, and statistical prediction rules rather than singular causal narratives.
+Overconfidence arises from the illusion of validity, the halo effect, and the failure to recognize the role of luck in outcomes. A highly effective remedy is to think in terms of external reference classes, base rates, and statistical prediction rules rather than singular causal narratives.
 
 #### Examples
 
 ##### Example 1: The Planning Fallacy
 
-Underestimation of task duration occurs even when people have direct experience with past tasks taking longer than planned. The bias persists because planners focus on the specifics of the current project and ignore the statistical distribution of completion times for similar projects.
+People consistently underestimate task duration even when people have direct experience with past tasks taking longer than planned. The bias persists because planners focus on the specifics of the current project and ignore the statistical distribution of completion times for similar projects.
 
 ##### Example 2: Expert Intuition vs. Statistical Algorithms
 
-In a study of graduate admissions decisions, a simple algorithm based on GPA and test scores predicted first-year grades better than experienced admissions officers. The officers had valid intuition about character and motivation, but their overall predictive accuracy was lower than a mechanical formula because they weighted noisy and irrelevant information too heavily.
+In a study of graduate admissions decisions, a simple algorithm based on GPA and test scores predicted first-year grades more accurately than experienced admissions officers. The officers had valid intuition about character and motivation, but their overall predictive accuracy was lower than a mechanical formula because they weighted noisy and irrelevant information too heavily.
 
 ##### Example 3: Regression to the Mean
 
-After praising an employee for exceptional performance, their next review returns to average. After criticizing poor performance, the next review improves. Both effects are statistical regression, not the causal power of praise or criticism. Yet people construct narratives of reward and punishment and become overconfident in their causal theories.
+After praising an employee for performance significantly above average, their next review returns to average. After criticizing performance significantly below average, the next review moves toward the average performance level. Both effects are statistical regression, not the causal power of praise or criticism. Yet people construct narratives of reward and punishment and become overconfident in their causal theories.
 
 #### Step 1: Use the Outside View Before the Inside View
 
-When forecasting many outcomes, start by identifying a reference class of comparable past cases. Establish the base-rate range of outcomes for that class. Only then consider the specific details of your case and adjust the outside view accordingly. This sequence prevents the inside view from anchoring on a single narrative.
+When forecasting outcomes, start by identifying a reference class of comparable past cases. Establish the base-rate range of outcomes for that class. Only then consider the specific details of your case and adjust the outside view accordingly. This sequence prevents the inside view from fixating on a single explanatory narrative.
 
 #### Step 2: Build and Use Simple Decision Algorithms
 
@@ -230,12 +230,12 @@ For prediction or classification tasks, create a weighted scoring formula based 
 
 #### Step 3: Create Feedback Loops for Learning
 
-Record your predictions with confidence levels and the reasons for your judgment. When the outcome is known, compare it to your prediction and identify where your model of the world was wrong. Without systematic feedback, intuition does not improve; it merely becomes more confident.
+Record your predictions with confidence levels and the reasons for your judgment. When the outcome is known, compare it to your prediction and identify where your internal representation of reality was wrong. Without systematic feedback, intuition does not improve; it merely becomes more confident.
 
 #### Best Practices
 
 - ✅ Always anchor forecasts in base rates from similar past cases
-- ✅ Use decision formulas for important predictions rather than relying on unaided judgment
+- ✅ Use decision formulas for predictions rather than relying on unaided judgment
 - ✅ Record predictions and outcomes to calibrate confidence over time
 - ✅ Seek feedback from people who were not involved in the original decision to reduce hindsight bias and self-serving narratives
 - ❌ Do not assume that strong narrative coherence implies predictive accuracy
@@ -245,10 +245,10 @@ Record your predictions with confidence levels and the reasons for your judgment
 
 #### Keep In Mind
 
-- Valid expert intuition requires two conditions: a regular environment that provides feedback, and extended practice in that environment. Many real-world environments are not regular enough to support genuine intuition.
-- Confidence and accuracy are only weakly correlated. The most reliable way to improve calibration is through immediate feedback on probabilistic predictions.
+- Valid expert intuition requires two conditions: a regular environment that provides feedback, and extended practice in that environment. Many real-world environments lack the regularity needed to support genuine intuition.
+- Confidence and accuracy are only weakly correlated. One of the most reliable ways to improve calibration is through immediate feedback on probabilistic predictions.
 - Organizations that reward being right rather than sounding confident will attract and retain more accurate forecasters. Incentive structures shape both what people say and what they actually believe.
-- Statistical models beat unaided human judgment in 60 to 70 percent of studies. This is not because models are smart, but because they are consistent and free from noise.
+- Research indicates that statistical models outperform unaided human judgment in approximately 60 to 70 percent of studies. This is not because models are smart, but because they are consistent and free from noise.
 
 #### Security & Safety Notes
 
@@ -259,11 +259,11 @@ Record your predictions with confidence levels and the reasons for your judgment
 #### Common Pitfalls
 
 - **Problem:** You overestimate your ability to complete a project on time because the plan feels coherent and achievable in your mind.
-  **Solution:** Use reference class forecasting: find three similar completed projects, note their actual durations, and apply the empirical distribution to your current estimate. Add a 20 to 30 percent contingency buffer.
+  **Solution:** Use reference class forecasting: find three similar completed projects, note their actual durations, and apply the empirical distribution to your current estimate. Add a contingency buffer of approximately 20 to 30 percent.
 - **Problem:** You trust the recommendation of an expert over a simple algorithmic score, even though the algorithm has been validated on thousands of cases.
   **Solution:** Ask for the expert's track record on identical prediction problems. If the expert has not been systematically tracked, assume the algorithm is more reliable until proven otherwise.
-- **Problem:** You interpret a good quarter as proof that your strategy is working, when it may be regression to the mean after a bad quarter.
-  **Solution:** Evaluate performance over multi-year periods rather than single periods. Look for significant patterns rather than extreme single-period outcomes.
+- **Problem:** You interpret a quarter as proof that your strategy is working, when it may be regression to the mean after a prior quarter.
+  **Solution:** Evaluate performance over multi-year periods rather than single periods. Look for consistent patterns rather than extreme single-period outcomes.
 
 ## Glossary / Index
 
