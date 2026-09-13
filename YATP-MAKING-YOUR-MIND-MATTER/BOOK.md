@@ -36,9 +36,9 @@ Janis Schonfeld suffered from clinical depression since her teenage years. She e
 
 Understand that your mind can make you sick or well. Every thought sends chemical signals to your body through neuropeptides. Begin monitoring your self-talk and expectations about health, relationships, and life. When you catch yourself predicting a negative outcome based on past experience, pause and recognize that you are creating that future with your mind.
 
-#### Step 2: Understand conditioning expectation meaning
+#### Step 2: Understand conditioning, expectation, and meaning
 
-The placebo effect operates through three elements: conditioning, where your body is trained to associate a stimulus with healing; expectation, where you believe a positive outcome will occur; and meaning, where you assign significance to the treatment or process. All three must be present and aligned for the effect to work. Whether you are consciously aware of it or not, you are always using these three elements to create your reality.
+The placebo effect operates through three elements: conditioning, where your body is trained to associate a stimulus with healing; expectation, where you believe a positive outcome will occur; and meaning, where you assign significance to the treatment or process. All three must be present and aligned for the effect to work. Whether you are consciously aware of the placebo effect or not, you are always using these three elements to create your reality.
 
 #### Step 3: Become your own placebo
 
@@ -85,11 +85,11 @@ After his 1986 triathlon accident shattered six vertebrae, Dr. Joe Dispenza medi
 
 ##### Example 2: Monastery Anti Aging Study
 
-Harvard researcher Ellen Langer had eight elderly men in their 70s and 80s attend a five-day retreat where they were asked to pretend they were 22 years younger. Surrounded by environmental cues from 1959—magazines, movies, radio shows—they lived as though they were young again. By the end of the week, the men had improved in height, weight, gait, eyesight, hearing, grip strength, and mental cognition. The group that merely reminisced about being young improved, but the group that actually pretended improved significantly more. Their brains fired neurons in sequences that hadn't been fired in 22 years, signaling new genes to create new proteins that reflected a younger body.
+Harvard researcher Ellen Langer had eight elderly men in their 70s and 80s attend a five-day retreat where they were asked to pretend they were 22 years younger. Surrounded by environmental cues from 1959—magazines, movies, radio shows—they lived as though they were young again. By the end of the week, the men had improved in height, weight, gait, eyesight, hearing, grip strength, and mental cognition. The group that merely reminisced about being young improved, but the group that actually pretended improved more. Their brains fired neurons in sequences that hadn't been fired in 22 years, signaling new genes to create new proteins that reflected a younger body.
 
 ##### Example 3: Lauries Bone Healing
 
-Laurie was diagnosed at 19 with polyostotic fibrous dysplasia, a rare degenerative bone disease that caused 12 major fractures over decades. By her late 30s, she used a cane constantly and her bones were so weak she fractured from stepping off a curb. After two years of daily meditation and mentally rehearsing a healthy, walking body, she began walking without a cane. In January 2013, her orthopedist found that a major fracture she'd had since age 19 had vanished. By May, lab tests showed her disease markers had dropped from 68 to 40. She had signaled new genes to produce healthy collagen instead of the diseased bone tissue.
+Laurie was diagnosed at 19 with polyostotic fibrous dysplasia, a rare degenerative bone disease that caused 12 major fractures over decades. By her late 30s, she used a cane constantly and her bones were so weak she fractured from stepping off a curb. After two years of daily meditation and mentally rehearsing a healthy, walking body, she began walking without a cane. In January 2013, her orthopedist found that a major fracture she'd had since age 19 had vanished. By May 2013, lab tests showed her disease markers had dropped from 68 to 40. She had signaled new genes to produce healthy collagen instead of the diseased bone tissue.
 
 #### Steps
 
@@ -149,7 +149,7 @@ Once you have planted the seed of a new belief through repeated mental rehearsal
 
 ##### Example 1: Open Focus Brain Coherence
 
-When we live in survival mode, our attention is narrow-focused on material objects and problems, keeping the brain in high-range beta. The open-focus technique shifts attention from objects to the space around and between things. Research shows this moves brain waves into alpha and theta, synchronizing previously compartmentalized brain regions. The brain becomes more organized and coherent, sending clear signals throughout the nervous system so all body systems work in rhythm instead of discord.
+When you live in survival mode, your attention is narrow-focused on material objects and problems, keeping the brain in high-range beta. The open-focus technique shifts attention from objects to the space around and between things. Research shows this moves brain waves into alpha and theta, synchronizing previously compartmentalized brain regions. The brain becomes more organized and coherent, sending clear signals throughout the nervous system so all body systems work in rhythm instead of discord.
 
 ##### Example 2: Seeing Without Eyes
 
