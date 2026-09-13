@@ -14,7 +14,7 @@ You Are the Placebo by Dr. Joe Dispenza demonstrates that the placebo effect is 
 
 ## Lessons From Book
 
-### Lesson 1: THE-PLACEBO-PRINCIPLE
+### Lesson 1: The-Placebo-Principle
 
 #### Examples
 
@@ -30,15 +30,15 @@ Fred Mason, a 26-year-old graduate student, ingested all 29 pills remaining in h
 
 Janis Schonfeld suffered from clinical depression since her teenage years. She enrolled in an eight-week UCLA antidepressant trial and began feeling dramatically better for the first time in her life—even experiencing nausea, which she took as a sign she was receiving the real drug. At the end of the study, researchers revealed she had been in the placebo group the entire time. Her belief alone had physically changed her brain and transmuted her debilitating emotional state into joy and well-being.
 
-#### Step 1: RECOGNIZE-THOUGHTS-CREATE-REALITY
+#### Step 1: Recognize-Thoughts-Create-Reality
 
 Understand that your mind can make you sick or well. Every thought sends chemical signals to your body through neuropeptides. Begin monitoring your self-talk and expectations about health, relationships, and life. When you catch yourself predicting a negative outcome based on past experience, pause and recognize that you are creating that future with your mind.
 
-#### Step 2: UNDERSTAND-CONDITIONING-EXPECTATION-MEANING
+#### Step 2: Understand-Conditioning-Expectation-Meaning
 
 The placebo effect operates through three elements: conditioning, where your body is trained to associate a stimulus with healing; expectation, where you believe a positive outcome will occur; and meaning, where you assign significance to the treatment or process. All three must be present and aligned for the effect to work. Whether you are consciously aware of it or not, you are always using these three elements to create your reality.
 
-#### Step 3: BECOME-YOUR-OWN-PLACEBO
+#### Step 3: Become-Your-Own-Placebo
 
 Stop investing your belief in external substances like pills, injections, or surgeries. Instead, place your belief in yourself and your mind's innate ability to heal. Your thoughts, emotions, and beliefs are generating chains of physiological events in your body right now. You are always your own placebo, whether you are creating health or disease.
 
@@ -73,7 +73,7 @@ Stop investing your belief in external substances like pills, injections, or sur
 - **Problem:** Trying too hard to force an outcome, which knocks the body out of balance just like survival emotions do
   **Solution:** Surrender to the process; there is no try, only allow. Trust the autonomic nervous system to carry out the change
 
-### Lesson 2: MENTAL-REHEARSAL-AND-EPIGENETICS
+### Lesson 2: Mental-Rehearsal-And-Epigenetics
 
 #### Examples
 
@@ -89,19 +89,19 @@ Harvard researcher Ellen Langer had eight elderly men in their 70s and 80s atten
 
 Laurie was diagnosed at 19 with polyostotic fibrous dysplasia, a rare degenerative bone disease that caused 12 major fractures over decades. By her late 30s, she used a cane constantly and her bones were so weak she fractured from stepping off a curb. After two years of daily meditation and mentally rehearsing a healthy, walking body, she began walking without a cane. In January 2013, her orthopedist found that a major fracture she'd had since age 19 had vanished. By May, lab tests showed her disease markers had dropped from 68 to 40. She had signaled new genes to produce healthy collagen instead of the diseased bone tissue.
 
-#### Step 1: MASTER-MENTAL-REHEARSAL
+#### Step 1: Master-Mental-Rehearsal
 
 Close your eyes and create a vivid, detailed picture of your desired outcome. Use all five senses—see yourself healthy, feel the sensations of your healed body, hear the sounds around you, smell the air, and taste the joy. Make the inner experience more real than your outer environment. Repeat this mental rehearsal until your brain cannot tell the difference between the imagined event and reality. The brain does not distinguish between an actual experience and one you create with enough emotional intensity.
 
-#### Step 2: COMBINE-INTENTION-WITH-ELEVATED-EMOTION
+#### Step 2: Combine-Intention-With-Elevated-Emotion
 
 A clear intention alone is not enough. You must emotionally embrace your desired future as if it has already happened. Feel the joy, gratitude, and inspiration of your healed body or new life in the present moment. The elevated emotion is vital because only when your choice carries an amplitude of energy greater than the hardwired programs in your brain and the emotional addictions in your body will you be able to change your neural circuitry and genetic expression.
 
-#### Step 3: SIGNAL-NEW-GENES-IN-NEW-WAYS
+#### Step 3: Signal-New-Genes-In-New-Ways
 
 When you hold a clear intention and marry it to an elevated emotion, your frontal lobe creates a picture that the limbic brain turns into a chemical experience. Your brain releases neuropeptides that travel to your cells, unlock receptor sites, and deliver new messages to your DNA. These messages activate new genes that create new proteins for health and healing. Repeat this process daily until the new state becomes your normal. You are signaling the gene ahead of the environment.
 
-#### Step 4: TRUST-THE-AUTONOMIC-NERVOUS-SYSTEM
+#### Step 4: Trust-The-Autonomic-Nervous-System
 
 Once you have planted the seed of a new belief through repeated mental rehearsal and elevated emotion, surrender the outcome to your greater intelligence. Your autonomic nervous system—the same system that beats your heart, digests your food, and heals your cuts without your conscious involvement—will automatically carry out the biological changes. Let go of analyzing how or when your healing will manifest. Just as you cannot consciously spike dopamine by 200% or control involuntary tremors, you must let the system that already knows how to do these things take over.
 
@@ -139,7 +139,7 @@ Once you have planted the seed of a new belief through repeated mental rehearsal
 - **Problem:** Surroundings and relationships reinforce old self-image and pull you back into the old identity
   **Solution:** Change small environmental signals, put up reminder notes, and seek community that supports your new future
 
-### Lesson 3: MEDITATION-PREPARATION-AND-OPEN-FOCUS
+### Lesson 3: Meditation-Preparation-And-Open-Focus
 
 #### Examples
 
@@ -151,19 +151,19 @@ When we live in survival mode, our attention is narrow-focused on material objec
 
 During a meditation in Sydney, Dr. Dispenza noticed Sophia in the third row waving back at him with her eyes closed. She was seeing without using her physical eyes. When later scanned with an EEG, her visual cortex lit up as she accurately described events happening around the room with her eyes closed. Her brain was processing visual information independently of her eyes, demonstrating that consciousness can operate beyond the limits of physical senses when fully focused on the unknown.
 
-#### Step 1: PREPARE-YOUR-MEDITATION-SPACE
+#### Step 1: Prepare-Your-Meditation-Space
 
 Choose a quiet place where you will not be distracted by people, pets, or devices. Do not meditate in bed because you associate bed with sleep. Sit upright in a chair or on the floor with your spine erect. Dress in comfortable, loose clothing. Remove your watch, jewelry, and glasses. Turn off your phone and computer. Soft instrumental music without lyrics is acceptable to cover background noise. Use a blindfold or earplugs if needed to enhance sensory deprivation.
 
-#### Step 2: MASTER-YOUR-WILL
+#### Step 2: Master-Your-Will
 
 When your mind wanders to your to-do list, past events, or future worries, gently but firmly bring your attention back to the present moment. Treat your body like an animal you are training. Every time you notice your attention has wandered and you bring it back, you are reconditioning your body to a new mind and mastering your past. If the body creates distractions like pain or itching, recognize it as the body trying to be the mind again, and settle it back down.
 
-#### Step 3: PRACTICE-OPEN-FOCUS
+#### Step 3: Practice-Open-Focus
 
 Close your eyes and shift your attention from objects to the space around and between things. Can you sense the space between your eyes? Between your temples? The volume of space that your nostrils occupy? The space behind your back and beyond your spine? The energy of space around your entire body? As you sense space rather than matter, your brain-wave patterns shift from high-range beta to alpha and eventually theta. Your inner world becomes more real than your outer world.
 
-#### Step 4: BECOME-PURE-CONSCIOUSNESS
+#### Step 4: Become-Pure-Consciousness
 
 Allow your awareness to expand until you are no body, no one, no thing, in no place and no time. Become pure consciousness—a thought alone in the infinite field of possibilities. If your mind returns to the known—to familiar people, places, your body, your habits, or your identity—simply become aware that you are observing the known, and surrender your consciousness back into the void of possibilities. The longer you linger in the unknown, the more you draw the unknown to you.
 
@@ -201,7 +201,7 @@ Allow your awareness to expand until you are no body, no one, no thing, in no pl
 - **Problem:** Falling asleep during meditation
   **Solution:** Sit upright with your spine erect. The goal is relaxed but aware. If your head nods, it means you are moving into a slower brain-wave state, which is fine, but adjust your posture to stay present.
 
-### Lesson 4: CHANGING-BELIEFS-AND-PERCEPTIONS
+### Lesson 4: Changing-Beliefs-And-Perceptions
 
 #### Examples
 
@@ -217,23 +217,23 @@ Kathy was a CEO, attorney, wife, and mother whose brain was stuck in high-range 
 
 Bonnie was diagnosed with fibroid tumors causing excessive bleeding and pain during her menstrual cycle. Her specialist told her fibroids don't go away and the bleeding would continue for the rest of her life. During a meditation at a workshop, Bonnie experienced a mystical state where her heart opened, she saw light flood into her body, and heard the words: "I am loved, blessed, and not forgotten." Within 24 hours, her bleeding stopped completely. In the months since, she has experienced only normal menstrual cycles with no excessive bleeding or pain.
 
-#### Step 1: IDENTIFY-LIMITING-BELIEF
+#### Step 1: Identify-Limiting-Belief
 
 Before you begin, decide which two beliefs or perceptions you want to change. Get a piece of paper and draw a vertical line down the middle. On the left side, write down the two beliefs and perceptions you want to change, one on top of the other. Examples include: "I'll always have this pain or condition," "Life is too hard," "People are unfriendly," "Success takes a lot of work," or "I'll never change."
 
-#### Step 2: MAKE-A-FIRM-DECISION
+#### Step 2: Make-A-Firm-Decision
 
 On the right side of the paper, write the new beliefs and perceptions you want to embody. Decide with such firm intention that the amplitude of that decision carries a level of energy greater than the hardwired programs in your brain and the emotional addictions in your body. Allow your body to respond to a new mind. Allow the choice to become an experience that you never forget.
 
-#### Step 3: EMOTIONALLY-EMBRACE-THE-NEW-BELIEF
+#### Step 3: Emotionally-Embrace-The-New-Belief
 
 Come out of your resting state and change your energy so that your biology is altered by your own energy. Become inspired and make the choice to be greater than your past. Become inspired, become empowered. Allow your body to be lifted to a new mind. Let the energy of this choice rewrite the circuits in your brain and change the genes in your body. Teach your body emotionally what it would feel like to believe this new way—to be empowered, to be invincible, to be in love with life, to feel unlimited.
 
-#### Step 4: BLESS-YOUR-NEW-LIFE
+#### Step 4: Bless-Your-New-Life
 
 Take your left hand and place it over your heart. Bless your body that it be lifted to a new mind and to a new energy. Bless your life that it be an extension of your mind, that your state of being be reflected in your world. Bless your future that it never be your past. Bless your past that it turns to wisdom. Bless the challenges in your life that they initiate you into greatness. Bless your soul that it wakes you up from this dream and that it be your guide.
 
-#### Step 5: SURRENDER-TO-GRATITUDE
+#### Step 5: Surrender-To-Gratitude
 
 Give thanks for a new life before it is made manifest. The emotional signature of gratitude means the event has already happened. Gratitude is the ultimate state of receivership. The longer you linger in gratitude, the more you draw your new life to you. Surrender the outcome to a greater intelligence, to a greater mind, and allow it to be executed in a way that is right for you.
 
