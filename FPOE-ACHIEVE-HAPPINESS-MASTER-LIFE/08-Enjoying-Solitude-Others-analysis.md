@@ -9,7 +9,7 @@
 **Step-by-Step Instructions:**
 1. Recognize that when alone, your mind will naturally drift toward worries without external goals.
 2. Identify activities requiring concentration that build skills and develop the self.
-3. Establish strict daily routines to structure your time when alone (e.g., Dorothy's five-a.m. wake-up, chores, reading schedule).
+3. Establish strict daily routines to structure your time when alone (e.g., Dorothy's five-a.m. wake-up, chores, reading and writing).
 4. Personalize your environment to make it familiar and conducive to focus.
 5. Choose activities with clear manageable tasks that keep consciousness focused.
 
@@ -40,7 +40,7 @@
 **Core Principle:** Human relationships are malleable. The way you interpret and define a social situation determines how people will treat you and how you will feel. By refusing to accept imposed roles, you can transform potentially negative interactions into positive ones.
 
 **Step-by-Step Instructions:**
-1. When faced with a negative social situation, resist accepting the role others impose on you (e.g., "victim," "failure").
+1. When faced with a negative social situation, resist accepting the role others impose on you (e.g., "victim").
 2. Reframe the other people not as enemies or threats, but as individuals who might respond to reason or empathy.
 3. Look for shared humanity or common ground even in adversarial encounters.
 4. Use skills of communication and reinterpretation to alter the interaction's rules.
@@ -104,7 +104,7 @@
 
 ### Lesson 4: Cultivate Friendships Actively To Access Expressive Flow
 
-**Core Principle:** True friendship is a source of expressive flow—opportunities to externalize your subjective self, sing, dance, share jokes, and discover hidden parts of your identity. Unlike instrumental relationships (which serve survival needs), expressive friendships let you be your authentic self and grow in complexity.
+**Core Principle:** True friendship is a source of expressive flow—opportunities to externalize your subjective experiences, sing, dance, share jokes, and discover hidden parts of your identity. Unlike instrumental relationships (which serve survival needs), expressive friendships let you be your authentic self and grow in complexity.
 
 **Step-by-Step Instructions:**
 1. Actively cultivate friendships rather than assuming they will persist without effort.
@@ -116,7 +116,7 @@
 
 **Examples from Text:**
 - Christopher, a shy 15-year-old, methodically transformed his social standing by buying contact lenses, fashionable clothes, learning new music, and practicing a new demeanor—all supported by his parents. He treated popularity as a flow activity with clear goals and steps.
-- Adults who drift apart from friends often recall with tears the good buddies from school, illustrating that friendships require continuous investment.
+- Adults who drift apart from friends recall with tears the good buddies from school, illustrating that friendships require continuous investment.
 
 **Best Practices:**
 - Do not settle for superficial socializing ("drinking buddies") that mimics friendship but offers no growth.
@@ -174,10 +174,10 @@
 
 ### Lesson 6: Embrace Commitments As The Path To Greater Freedom
 
-**Core Principle:** Paradoxically, accepting limitations and committing fully to a person, family, or purpose liberates you from the constant anxiety of choosing and maximizes your capacity for flow. Freedom without commitment is chaotic; commitment without freedom is oppressive. The middle path is voluntary, wholehearted commitment.
+**Core Principle:** Paradoxically, accepting limitations and committing fully to a person, family, or purpose liberates you from the constant pressure of trying to maximize emotional returns and maximizes your capacity for flow. Freedom without commitment is chaotic; commitment without freedom is oppressive. The middle path is voluntary, wholehearted commitment.
 
 **Step-by-Step Instructions:**
-1. Recognize that rules and obligations in relationships are like the rules of a game: they exclude some possibilities so you can concentrate fully on a selected set of options.
+1. Recognize that rules and obligations in relationships are no different, in principle, than those rules that constrain behavior in a game: they exclude some possibilities so you can concentrate fully on a selected set of options.
 2. Make commitments willingly, not under compulsion.
 3. Once committed, stop second-guessing whether "the grass is greener somewhere else."
 4. Redirect the psychic energy previously spent on wondering how to live into actually living.
@@ -188,9 +188,7 @@
 - A person who willingly commits to monogamous marriage is freed from the constant pressure of maximizing emotional returns and can invest energy in shared growth.
 
 **Best Practices:**
-- View commitment as a structure that enables deep flow, not as a constraint on freedom.
-- Make commitments after considering the full consequences of your choice.
-- Once committed, embrace the limitations as the very conditions that make mastery possible.
+- Accepting limitations is liberating, not oppressive.
 
 **Common Pitfalls:**
 - **Problem:** Viewing family life or marriage solely as the end of freedom, leading to half-hearted participation and eventual breakdown.

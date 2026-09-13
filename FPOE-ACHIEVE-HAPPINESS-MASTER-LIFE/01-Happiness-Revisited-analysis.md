@@ -9,7 +9,7 @@
 **Step-by-Step Instructions:**
 1. Stop actively trying to "find" or "pursue" happiness as a direct goal
 2. Shift focus to being fully involved with every detail of your life, whether good or bad
-3. Treat happiness as an unintended side-effect of dedication to a course greater than yourself
+3. Treat happiness as an unintended side-effect of dedication to goals that serve purposes beyond your own personal benefit
 4. Cultivate inner experience through private mental discipline rather than external achievement
 
 **Examples from Text:**
@@ -75,7 +75,7 @@
 **Core Principle:** Much of what we believe to be our own desires are actually genetic reflexes or social conditioning. True freedom requires recognizing these forces and learning to override them when they conflict with personally chosen goals.
 
 **Step-by-Step Instructions:**
-1. Become aware that seeking pleasure is often a reflex response built into genes for species preservation, not personal advantage
+1. Become aware that seeking pleasure is a reflex response built into genes for species preservation, not personal advantage
 2. Recognize that social systems exploit biological desires (sexuality, aggression, security, change) to control behavior
 3. Question whether your desires are truly yours or implanted by advertisers, politicians, churches, and corporations
 4. Do not accept every instinct or drive as "the true voice of nature" simply because it feels good
@@ -85,7 +85,7 @@
 **Examples from Text:**
 - Turkish sultans promising conscripts the rewards of raping women; modern posters promising young men they will "see the world" if they join the army
 - The pleasure of eating ensuring the body gets nourishment; the pleasure of sex ensuring genes reproduce
-- A man physically attracted to a woman often imagines it is his individual interest, when it is actually manipulation by the invisible genetic code
+- A man physically attracted to a woman may imagine it is his individual interest, when it is actually manipulation by the invisible genetic code
 - Schools, churches, and banks trying to turn us into responsible citizens, while merchants and advertisers cajole us to spend earnings on their products, while underground systems promise easy dissipation
 
 **Best Practices:**
@@ -97,7 +97,7 @@
 - **Problem:** Believing that "if it feels good and is natural, it must be right"
   **Solution:** Understand that following genetic and social instructions without question relinquishes control of consciousness and makes you a helpless plaything of impersonal forces
 - **Problem:** Being a "thoroughly socialized person" who desires only rewards others have agreed he should long for
-  **Solution:** Notice potentially fulfilling experiences that are not on your socially-conditioned wish list; harvest the genuine rewards of living rather than forever straining for the tantalizing prize dangled just out of reach
+   **Solution:** Notice potentially fulfilling experiences that are not on your socially-conditioned wish list; harvest the genuine rewards of living rather than forever straining for social rewards that remain perpetually out of reach
 
 **Key Terms:**
 - **Genetic Programming:** Reflex responses built into our genes for species preservation (eating, sex, aggression)
@@ -108,7 +108,7 @@
 
 ### Lesson 4: Liberate Yourself From Social Controls Through Autotelic Experience
 
-**Core Principle:** To overcome anxieties and depressions of contemporary life, individuals must become independent of the social environment to the degree that they no longer respond exclusively in terms of its rewards and punishments. This requires learning to find enjoyment and purpose regardless of external circumstances.
+**Core Principle:** To overcome the anxieties and depressions of contemporary life, individuals must become independent of the social environment to the degree that they no longer respond exclusively in terms of its rewards and punishments. This requires learning to find enjoyment and purpose regardless of external circumstances.
 
 **Step-by-Step Instructions:**
 1. Commit to becoming independent of societal rewards and learn to substitute rewards under your own power
@@ -119,7 +119,7 @@
 
 **Examples from Text:**
 - The person who learns to enjoy the process of living no longer needs to end each boring day with hope that tomorrow something good will happen
-- Instead of forever straining for the prize dangled just out of reach, one begins to harvest the genuine rewards of living
+- Instead of forever straining for social rewards that remain perpetually out of reach, one begins to harvest the genuine rewards of living
 - People who have found ways to escape the treadmill of rising expectations lead vigorous lives, are open to a variety of experiences, keep learning until they die, have strong ties to others, and can take in stride anything that comes their way
 
 **Best Practices:**
@@ -129,9 +129,9 @@
 
 **Common Pitfalls:**
 - **Problem:** Living entirely by social rewards (money, power, status, possessions)
-  **Solution:** Gradually substitute internally-generated rewards; this is both easier (within your hands) and more difficult (requires discipline and perseverance rare in any era)
+   **Solution:** Gradually substitute internally-generated rewards; this is both easier (within your hands) and more difficult (requires sustained discipline and perseverance)
 - **Problem:** Being a puppet jerked about by social controls
-  **Solution:** Accept that you must work for external goals to survive, but do not let them turn you into someone who only responds to outside inducements
+   **Solution:** Accept that you must work for external goals to survive in a complex society, but do not let them turn you into someone who only responds to outside inducements
 
 **Key Terms:**
 - **Autotelic:** Self-directed; having goals within oneself rather than dependent on external rewards
@@ -153,7 +153,7 @@
 
 **Examples from Text:**
 - The research team's method: asking people to wear an electronic paging device for a week and write down how they feel and what they are thinking about whenever the pager signals (activated about eight times each day at random intervals)
-- Over a hundred thousand such cross-sections of experience have been collected worldwide
+- At least a hundred thousand such cross-sections of experience have been collected worldwide
 - Flow experience reported in essentially the same words by old women from Korea, adults in Thailand and India, teenagers in Tokyo, Navajo shepherds, farmers in the Italian Alps, and workers on the assembly line in Chicago
 
 **Best Practices:**
@@ -189,11 +189,11 @@
 - The universe is "simply indifferent"—a meteorite obeying all laws of physics is still a "damn nuisance" to New York City
 - Cyrus the Great had ten thousand cooks; today every household can duplicate feasts of past emperors, but this does not make us more satisfied
 - Cultural hubris: Romans confident after ruling the Mediterranean, Chinese before Mongol conquest, Aztecs before the Spaniards—all suffered rude awakenings
-- The four grim horsemen of the Apocalypse are never very far away
+- The threats of war, famine, pestilence, and death are never far from human life
 - "We are always getting to live, but never living" (Ralph Waldo Emerson)
 
 **Best Practices:**
-- Face facts rather than using the "ostrich's strategy" of avoiding bad news
+- Face facts rather than ignoring bad news in the hope that problems will disappear
 - Do not expect that great improvements in external conditions will immediately improve quality of life; J.S. Mill wrote, "No great improvements in the lot of mankind are possible, until a great change takes place in the fundamental constitution of their modes of thought"
 - Accept that each person must personally untangle the internal roots of discontent
 
@@ -201,7 +201,7 @@
 - **Problem:** Seeking happiness through material progress (bigger cars, more power, glamorous lifestyle)
   **Solution:** Recognize that after each success it becomes clearer that money, power, status, and possessions do not, by themselves, add one iota to the quality of life
 - **Problem:** Relying on piecemeal solutions (diets, power lunches, assertiveness training, collections, hobbies, drugs)
-  **Solution:** These provide only temporary escape; few claim to have ever found an answer that way
+   **Solution:** These provide only temporary escape and have not produced lasting solutions for those who try them
 - **Problem:** Believing that living in the richest, most scientifically advanced period guarantees happiness
   **Solution:** Understand that external abundance does not fulfill internal needs; "the universe was not created to answer our needs"
 
@@ -221,7 +221,7 @@
 2. Pursue goals that require stretching your abilities
 3. Accept that getting control of life is never easy and can be painful
 4. Invest attention fully in the task at hand
-5. Find opportunities to expand yourself in thousands of daily challenges
+5. Find opportunities to expand yourself in daily challenges
 6. Recognize that these experiences build toward a sense of mastery and participation in determining the content of life
 
 **Examples from Text:**
@@ -238,7 +238,7 @@
 
 **Common Pitfalls:**
 - **Problem:** Seeking only passive, relaxing experiences
-  **Solution:** Understand that while relaxing times can be enjoyable, the best moments usually involve voluntary struggle toward something difficult
+   **Solution:** Understand that while relaxing times can be enjoyable, the best moments occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile
 - **Problem:** Avoiding challenges because they might be painful or uncomfortable
   **Solution:** Accept that in the long run optimal experiences—even when painful at the time—add up to the closest thing to happiness we can imagine
 
@@ -271,15 +271,15 @@
 **Best Practices:**
 - Treat this book as a voyage through the realms of the mind, not a cookbook with recipes
 - Draw your own conclusions from examples rather than accepting dos and don'ts
-- Accept that progress in applying knowledge to modify habits and desires is painfully slow
+- Accept that progress in applying knowledge to modify habits and desires is slow
 
 **Common Pitfalls:**
 - **Problem:** Expecting a "how-to" book with recipes for happiness
   **Solution:** Understand that books cannot give recipes because optimal experience depends on the ability to control what happens in consciousness moment by moment; each person must achieve it through individual effort and creativity
 - **Problem:** Adopting ritual forms without understanding substance
-  **Solution:** Distinguish accidental components (specific to original cultural context) from essential principles; otherwise the path gets overgrown by brambles of meaningless mumbo jumbo
+   **Solution:** Distinguish accidental components (specific to original cultural context) from essential principles; otherwise the essential principles become obscured by meaningless ritual and jargon
 - **Problem:** Believing knowledge about consciousness control is cumulative like physics or genetics
-  **Solution:** Recognize that progress is fast in fields applying knowledge to the material world, but painfully slow when knowledge is applied to modify our own habits and desires
+   **Solution:** Recognize that progress is fast in fields applying knowledge to the material world, but slow when knowledge is applied to modify our own habits and desires
 
 **Key Terms:**
 - **Non-Cumulative Wisdom:** Knowledge that cannot be condensed into formulas or memorized and must be personally experienced through trial and error
@@ -304,7 +304,7 @@
 - "If we are able to control this information, we can decide what our lives will be like"
 - "The optimal state of inner experience is one in which there is order in consciousness"
 - "A person who has achieved control over psychic energy and has invested it in consciously chosen goals cannot help but grow into a more complex being"
-- Each person has thousands of opportunities and challenges to expand themselves
+- Each person has many opportunities and challenges to expand themselves
 
 **Best Practices:**
 - Set goals that are realistic enough to be achievable but challenging enough to stretch your abilities
@@ -339,7 +339,7 @@
 - "We are always getting to live, but never living" (Ralph Waldo Emerson)
 - The children's story: always bread and jam tomorrow, never bread and jam today
 - People who enjoy whatever they do, even if tedious or difficult; hardly ever bored; can take in stride anything that comes their way
-- Instead of forever straining for the tantalizing prize dangled just out of reach, one begins to harvest the genuine rewards of living
+ - Instead of forever straining for social rewards that remain perpetually out of reach, one begins to harvest the genuine rewards of living
 
 **Best Practices:**
 - Focus on the process of living itself rather than constantly anticipating future rewards
@@ -361,7 +361,7 @@
 
 ### Lesson 11: Apply Historical Wisdom While Rejecting Institutionalized Ritual
 
-**Core Principle:** Many traditions have known for thousands of years what it takes to become free and in control of one's life—Stoicism, Yoga, Taoism, Zen, Christian monastic exercises, psychoanalysis. However, when these become institutionalized with rigid rules and ritual forms, they lose their effectiveness. Each generation must reformulate wisdom for its own context.
+**Core Principle:** Many traditions have long known what it takes to become free and in control of one's life—Stoicism, Yoga, Taoism, Zen, Christian monastic exercises, psychoanalysis. However, when these become institutionalized with rigid rules and ritual forms, they lose their effectiveness. Each generation must reformulate wisdom for its own context.
 
 **Step-by-Step Instructions:**
 1. Study the insights of past attempts to increase happiness (Stoics, yogis, Zen masters, Christian mystics, Freud)
@@ -385,7 +385,7 @@
 
 **Common Pitfalls:**
 - **Problem:** Blindly following ancient practices without understanding their original context
-  **Solution:** Distinguish essential components from accidental ones; reject meaningless mumbo jumbo
+   **Solution:** Distinguish essential components from accidental ones; reject meaningless ritual practices
 - **Problem:** Believing that institutionalized systems (organized religion, rigid therapy models) can provide the same liberation as the original teachings
   **Solution:** Understand that control over consciousness cannot be institutionalized; as soon as it becomes part of social rules and norms, it ceases to be effective
 
