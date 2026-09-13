@@ -30,6 +30,8 @@ Fred Mason, a 26-year-old graduate student, ingested all 29 pills remaining in h
 
 Janis Schonfeld suffered from clinical depression since her teenage years. She enrolled in an eight-week UCLA antidepressant trial and began feeling dramatically better for the first time in her life—even experiencing nausea, which she took as a sign she was receiving the real drug. At the end of the study, researchers revealed she had been in the placebo group the entire time. Her belief alone had physically changed her brain and transmuted her debilitating emotional state into joy and well-being.
 
+#### Steps
+
 #### Step 1: Recognize thoughts create reality
 
 Understand that your mind can make you sick or well. Every thought sends chemical signals to your body through neuropeptides. Begin monitoring your self-talk and expectations about health, relationships, and life. When you catch yourself predicting a negative outcome based on past experience, pause and recognize that you are creating that future with your mind.
@@ -88,6 +90,8 @@ Harvard researcher Ellen Langer had eight elderly men in their 70s and 80s atten
 ##### Example 3: Lauries Bone Healing
 
 Laurie was diagnosed at 19 with polyostotic fibrous dysplasia, a rare degenerative bone disease that caused 12 major fractures over decades. By her late 30s, she used a cane constantly and her bones were so weak she fractured from stepping off a curb. After two years of daily meditation and mentally rehearsing a healthy, walking body, she began walking without a cane. In January 2013, her orthopedist found that a major fracture she'd had since age 19 had vanished. By May, lab tests showed her disease markers had dropped from 68 to 40. She had signaled new genes to produce healthy collagen instead of the diseased bone tissue.
+
+#### Steps
 
 #### Step 1: Master mental rehearsal
 
@@ -150,6 +154,8 @@ When we live in survival mode, our attention is narrow-focused on material objec
 ##### Example 2: Seeing Without Eyes
 
 During a meditation in Sydney, Dr. Dispenza noticed Sophia in the third row waving back at him with her eyes closed. She was seeing without using her physical eyes. When later scanned with an EEG, her visual cortex lit up as she accurately described events happening around the room with her eyes closed. Her brain was processing visual information independently of her eyes, demonstrating that consciousness can operate beyond the limits of physical senses when fully focused on the unknown.
+
+#### Steps
 
 #### Step 1: Prepare your meditation space
 
@@ -216,6 +222,8 @@ Kathy was a CEO, attorney, wife, and mother whose brain was stuck in high-range 
 ##### Example 3: Bonnies Fibroid Healing
 
 Bonnie was diagnosed with fibroid tumors causing excessive bleeding and pain during her menstrual cycle. Her specialist told her fibroids don't go away and the bleeding would continue for the rest of her life. During a meditation at a workshop, Bonnie experienced a mystical state where her heart opened, she saw light flood into her body, and heard the words: "I am loved, blessed, and not forgotten." Within 24 hours, her bleeding stopped completely. In the months since, she has experienced only normal menstrual cycles with no excessive bleeding or pain.
+
+#### Steps
 
 #### Step 1: Identify limiting belief
 
