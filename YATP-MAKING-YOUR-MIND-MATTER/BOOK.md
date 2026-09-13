@@ -7,8 +7,8 @@ You Are the Placebo by Dr. Joe Dispenza demonstrates that the placebo effect is 
 ## When to Follow Book Teachings
 
 - When you want to understand how thoughts alone can produce measurable changes in your health and biology
-- When working with chronic illness, pain, or a condition that conventional medicine has labeled permanent or incurable
-- When the user asks about breaking habits, changing beliefs, or transforming their personality and life circumstances
+- When working with chronic illness, pain, or a condition that standard medical care has labeled permanent or incurable
+- When you ask about breaking habits, changing beliefs, or transforming your personality and life circumstances
 - When you need practical steps to access the subconscious mind and reprogram automatic emotional and behavioral patterns
 - When you are interested in the science of spontaneous remission and want to apply those principles to your own life
 
@@ -20,15 +20,15 @@ You Are the Placebo by Dr. Joe Dispenza demonstrates that the placebo effect is 
 
 ##### Example 1: Mind Over Matter Healing
 
-Sam Londe, a retired shoe salesman, was told he had metastatic esophageal cancer and had only months to live. He believed the diagnosis, and his family and doctors believed it too. He moved to Nashville to die, and exactly one week after Christmas, he returned to the hospital looking near death. Within 24 hours, he was dead. But the autopsy revealed his liver had only a tiny nodule of cancer and his esophagus was totally free of disease. The abnormal scan had been a false positive. Londe died because everyone in his environment thought he was dying—and most importantly, he thought he was dying. His mind alone created the biological reality of death.
+Sam Londe, a retired shoe salesman, was told he had metastatic esophageal cancer and had only months to live. He believed the diagnosis, and his family and doctors believed it too. He moved to Nashville to die, and exactly one week after Christmas, he returned to the hospital looking near death. Within 24 hours, he was dead. But the autopsy revealed his liver had only a tiny nodule of cancer and his esophagus was totally free of disease. The abnormal scan had been a false positive. Londe died because everyone in his environment thought he was dying—and most importantly, he thought he was dying. His mindset significantly influenced his decline.
 
 ##### Example 2: Nocebo Response
 
-Fred Mason, a 26-year-old graduate student, ingested all 29 pills remaining in his antidepressant trial bottle after an argument with his ex-girlfriend. He collapsed with low blood pressure, rapid pulse, and slurred speech. Four hours later, lab results came back totally normal, and a researcher announced Mason had actually been taking a placebo—the pills contained no drugs at all. Within minutes, his blood pressure and pulse returned to normal and his drowsiness vanished. His mind had manufactured every symptom of a real overdose simply because he expected to overdose.
+Fred Mason, a 26-year-old graduate student, ingested all 29 pills remaining in his antidepressant trial bottle after an argument with his ex-girlfriend. He collapsed with low blood pressure, rapid pulse, and slurred speech. Four hours later, lab results came back totally normal, and a researcher announced Mason had actually been taking a placebo—the pills contained no drugs at all. Within minutes, his blood pressure and pulse returned to normal and his drowsiness vanished. His expectations led him to experience symptoms consistent with an overdose simply because he expected to overdose.
 
 ##### Example 3: Belief Creates Reality
 
-Janis Schonfeld suffered from clinical depression since her teenage years. She enrolled in an eight-week UCLA antidepressant trial and began feeling dramatically better for the first time in her life—even experiencing nausea, which she took as a sign she was receiving the real drug. At the end of the study, researchers revealed she had been in the placebo group the entire time. Her belief alone had physically changed her brain and transmuted her debilitating emotional state into joy and well-being.
+Janis Schonfeld suffered from clinical depression since her teenage years. She enrolled in an eight-week UCLA antidepressant trial and began feeling dramatically better for the first time in her life—even experiencing nausea, which she took as a sign she was receiving the real drug. At the end of the study, researchers revealed she had been in the placebo group the entire time. Her belief contributed to measurable changes in her brain activity and helped transform her debilitating emotional state into joy and well-being.
 
 #### Steps
 
@@ -49,21 +49,21 @@ Stop investing your belief in external substances like pills, injections, or sur
 - ✅ Monitor your self-talk and internal dialogue daily, catching negative predictions before they become biology
 - ✅ Notice how your body responds to your thoughts and expectations—sweating, heart rate, and gut feelings are all feedback
 - ✅ Combine a clear intention with an elevated emotion to create lasting biological change
-- ✅ Accept that your mind is the primary driver of your health, not just external circumstances
+- ✅ Accept that your mind is the primary driver of your health, rather than external circumstances alone
 - ❌ Don't dismiss your symptoms as "all in your head"—the changes are real in both mind and body
 - ❌ Don't rely solely on external authorities for healing while ignoring your own internal power
 
 #### Keep In Mind
 
-- Your body responds to what your mind believes, not just what is physically present in your environment
-- The placebo effect is not a trick or anomaly—it is proof that consciousness controls biology
+- Your body responds primarily to what your mind believes, not merely to what is physically present in your environment
+- The placebo effect is not a trick or anomaly—it is evidence that consciousness can influence biology
 - You are always your own placebo, whether you realize it or not
 
 #### Security & Safety Notes
 
 - Continue working with medical professionals and use this knowledge as a complement to, not a replacement for, conventional treatment
 - Never stop prescribed medication or delay necessary medical procedures without consulting your doctor
-- This book is not about denial—it is about transforming illness and disease through new states of being
+- This book is not about denial—it is about transforming illness and disease through new mental and emotional states
 - Use honest feedback from medical tests to inform you if what you are doing is working
 
 #### Common Pitfalls
@@ -71,9 +71,9 @@ Stop investing your belief in external substances like pills, injections, or sur
 - **Problem:** The analytical mind blocks suggestibility by overthinking, questioning, and analyzing every new possibility
   **Solution:** Practice quieting the analytical mind through meditation and open-focus techniques so your awareness can interact with the subconscious
 - **Problem:** Falling back into familiar survival emotions (fear, anger, worry) that keep the body anchored to past conditions
-  **Solution:** Cultivate elevated emotions like gratitude, joy, and inspiration to lift your energy to a new hormonal center and open the door to new possibilities
-- **Problem:** Trying too hard to force an outcome, which knocks the body out of balance just like survival emotions do
-  **Solution:** Surrender to the process; there is no try, only allow. Trust the autonomic nervous system to carry out the change
+  **Solution:** Cultivate elevated emotions like gratitude, joy, and inspiration to lift your energy to a new hormonal balance and open the door to new possibilities
+- **Problem:** Trying too hard to force an outcome, which causes physiological imbalance just like survival emotions do
+  **Solution:** Surrender to the process; focus on allowing change rather than forcing it. Trust the autonomic nervous system to carry out the change
 
 ### Lesson 2: Mental rehearsal and epigenetics
 
@@ -85,7 +85,7 @@ After his 1986 triathlon accident shattered six vertebrae, Dr. Joe Dispenza medi
 
 ##### Example 2: Monastery Anti Aging Study
 
-Harvard researcher Ellen Langer had eight elderly men in their 70s and 80s attend a five-day retreat where they were asked to pretend they were 22 years younger. Surrounded by environmental cues from 1959—magazines, movies, radio shows—they lived as though they were young again. By the end of the week, the men had improved in height, weight, gait, eyesight, hearing, grip strength, and mental cognition. The group that merely reminisced about being young improved, but the group that actually pretended improved more. Their brains fired neurons in sequences that hadn't been fired in 22 years, signaling new genes to create new proteins that reflected a younger body.
+Harvard researcher Ellen Langer had eight elderly men in their 70s and 80s attend a five-day retreat where they were asked to pretend they were 22 years younger. Surrounded by environmental cues from 1959—magazines, movies, radio shows—they lived as though they were young again. By the end of the week, the men had improved in height, weight, gait, eyesight, hearing, grip strength, and cognitive function. The group that merely reminisced about being young improved, but the group that actually pretended improved more. Their brains fired neurons in sequences that hadn't been fired in 22 years, signaling new genes to create new proteins that reflected a younger body.
 
 ##### Example 3: Lauries Bone Healing
 
@@ -99,7 +99,7 @@ Close your eyes and create a vivid, detailed picture of your desired outcome. Us
 
 #### Step 2: Combine intention with elevated emotion
 
-A clear intention alone is not enough. You must emotionally embrace your desired future as if it has already happened. Feel the joy, gratitude, and inspiration of your healed body or new life in the present moment. The elevated emotion is vital because only when your choice carries an amplitude of energy greater than the hardwired programs in your brain and the emotional addictions in your body will you be able to change your neural circuitry and genetic expression.
+A clear intention alone is not enough. You must emotionally embrace your desired future as if it has already happened. Feel the joy, gratitude, and inspiration of your healed body or new life in the present moment. The elevated emotion is vital because only when your choice carries an intensity of focus greater than the hardwired programs in your brain and the emotional addictions in your body will you be able to change your neural circuitry and genetic expression.
 
 #### Step 3: Signal new genes in new ways
 
@@ -117,15 +117,15 @@ Once you have planted the seed of a new belief through repeated mental rehearsal
 - ✅ Change small environmental cues (notes on doors, different routines, new paths) to remind your body of the new future
 - ✅ Continue the practice even when you cannot yet see physical results—biological change takes time
 - ❌ Don't analyze how or when your healing will manifest—this returns you to the old self
-- ❌ Don't force the experience or try too hard; trying knocks you out of balance
+- ❌ Don't force the experience or try too hard; trying causes physiological imbalance
 - ❌ Don't check constantly for results through medical tests, as this can anchor you back to the old identity
 
 #### Keep In Mind
 
 - The key is making your inner thoughts more real than your outer environment
 - When the brain cannot distinguish between imagined and real experiences, it changes as if the event has already occurred
-- Your genes are not your destiny—epigenetics proves thoughts and emotions can turn genes on and off in real time
-- The body has innate intelligence; your job is to give it a clear template and then surrender
+- Your genes are not your destiny—epigenetics research shows that thoughts and emotions can turn genes on and off in real time
+- The body has a natural self-regulating capacity; your job is to give it a clear template and then surrender
 
 #### Security & Safety Notes
 
@@ -139,7 +139,7 @@ Once you have planted the seed of a new belief through repeated mental rehearsal
 - **Problem:** Getting discouraged when old familiar emotions keep returning during meditation
   **Solution:** Each time you notice your mind wandering, gently bring it back—this act of refocusing is the exercise that rewires your brain and reconditions your body
 - **Problem:** The body rebels with pain, itching, nausea, or restlessness to regain control
-  **Solution:** Recognize these as the body trying to be the mind again; master your body like training a horse—gently but firmly bring it back to the present moment
+  **Solution:** Recognize these as the body trying to regain control; approach your body with gentle but firm guidance—bring it back to the present moment
 - **Problem:** Surroundings and relationships reinforce old self-image and pull you back into the old identity
   **Solution:** Change small environmental signals, put up reminder notes, and seek community that supports your new future
 
@@ -149,7 +149,7 @@ Once you have planted the seed of a new belief through repeated mental rehearsal
 
 ##### Example 1: Open Focus Brain Coherence
 
-When you live in survival mode, your attention is narrow-focused on material objects and problems, keeping the brain in high-range beta. The open-focus technique shifts attention from objects to the space around and between things. Research shows this moves brain waves into alpha and theta, synchronizing previously compartmentalized brain regions. The brain becomes more organized and coherent, sending clear signals throughout the nervous system so all body systems work in rhythm instead of discord.
+When you live in survival mode, your attention is narrow-focused on material objects and problems, keeping the brain in high-range beta. The open-focus technique shifts attention from objects to the space around and between things. This technique moves brain waves into alpha and theta, synchronizing previously compartmentalized brain regions. The brain becomes more organized and coherent, sending clear signals throughout the nervous system so all body systems work in rhythm instead of discord.
 
 ##### Example 2: Seeing Without Eyes
 
@@ -163,7 +163,7 @@ Choose a quiet place where you will not be distracted by people, pets, or device
 
 #### Step 2: Master your will
 
-When your mind wanders to your to-do list, past events, or future worries, gently but firmly bring your attention back to the present moment. Treat your body like an animal you are training. Every time you notice your attention has wandered and you bring it back, you are reconditioning your body to a new mind and mastering your past. If the body creates distractions like pain or itching, recognize it as the body trying to be the mind again, and settle it back down.
+When your mind wanders to your to-do list, past events, or future worries, gently but firmly bring your attention back to the present moment. Guide your body with consistent, gentle but firm attention. Every time you notice your attention has wandered and you bring it back, you are reconditioning your body to a new mind and mastering your past. If the body creates distractions like pain or itching, recognize it as the body trying to be the mind again, and settle it back down.
 
 #### Step 3: Practice open focus
 
@@ -171,7 +171,7 @@ Close your eyes and shift your attention from objects to the space around and be
 
 #### Step 4: Become pure consciousness
 
-Allow your awareness to expand until you are no body, no one, no thing, in no place and no time. Become pure consciousness—a thought alone in the infinite field of possibilities. If your mind returns to the known—to familiar people, places, your body, your habits, or your identity—simply become aware that you are observing the known, and surrender your consciousness back into the void of possibilities. The longer you linger in the unknown, the more you draw the unknown to you.
+Allow your awareness to expand beyond your physical identity, personal history, and environmental circumstances. Become fully aware beyond physical limits—a focused intention in the field of possibilities. If your mind returns to the known—to familiar people, places, your body, your habits, or your identity—simply become aware that you are observing the known, and surrender your consciousness back into the void of possibilities. The longer you linger in the unknown, the more you draw the unknown to you.
 
 #### Best Practices
 
@@ -186,9 +186,9 @@ Allow your awareness to expand until you are no body, no one, no thing, in no pl
 
 #### Keep In Mind
 
-- When you find the sweet spot of the present moment, your past and future timelines disappear
-- In the present moment, all quantum possibilities exist simultaneously
-- The longer you linger in the unknown, the more energy you liberate from the body to create something new
+- When you find the state of present-moment awareness, your past and future timelines disappear
+- Dr. Dispenza describes the present moment as containing all quantum possibilities simultaneously
+- The longer you linger in the unknown, the more energy you release from habitual patterns to create something new
 - If you focus on the unknown, you get the unknown
 
 #### Security & Safety Notes
@@ -196,7 +196,7 @@ Allow your awareness to expand until you are no body, no one, no thing, in no pl
 - If you experience intense emotions, visions, or physical sensations, allow them to pass without judgment
 - Do not attempt to meditate while driving or operating machinery
 - Those with severe trauma or PTSD should work with a qualified guide or therapist
-- Some people experience kundalini energy or mystical states—these are normal byproducts of deep meditation
+- Some people experience intense physical sensations or altered states of consciousness—these are normal byproducts of deep meditation
 
 #### Common Pitfalls
 
@@ -217,11 +217,11 @@ Candace developed Hashimoto's disease—an autoimmune thyroid condition—after 
 
 ##### Example 2: Kathys Anxiety Transformation
 
-Kathy was a CEO, attorney, wife, and mother whose brain was stuck in high-range beta—a state of high arousal, high analysis, and high emergency mode. She had never meditated before. After consistent meditation practice, her brain shifted from hyperactive incoherence to balanced coherence. Six weeks later, her QEEG scan showed a normal, balanced brain with no evidence of anxiety. She reports that answers come more easily, she listens to her heart more often, and she is happier from the inside out.
+Kathy was a CEO, attorney, wife, and mother whose brain was stuck in high-range beta—a state of high arousal, high analysis, and high emergency mode. She had never meditated before. After consistent meditation practice, her brain shifted from hyperactive incoherence to balanced coherence. Six weeks later, her quantitative EEG (QEEG) scan showed a normal, balanced brain with no evidence of anxiety. She reports that answers come more easily, she listens to her heart more often, and she is happier from the inside out.
 
 ##### Example 3: Bonnies Fibroid Healing
 
-Bonnie was diagnosed with fibroid tumors causing excessive bleeding and pain during her menstrual cycle. Her specialist told her fibroids don't go away and the bleeding would continue for the rest of her life. During a meditation at a workshop, Bonnie experienced a mystical state where her heart opened, she saw light flood into her body, and heard the words: "I am loved, blessed, and not forgotten." Within 24 hours, her bleeding stopped completely. In the months since, she has experienced only normal menstrual cycles with no excessive bleeding or pain.
+Bonnie was diagnosed with fibroid tumors causing excessive bleeding and pain during her menstrual cycle. Her specialist told her fibroids don't go away and the bleeding would continue for the rest of her life. During a meditation at a workshop, Bonnie experienced a deeply focused state where her heart opened, she saw light flood into her body, and heard the words: "I am loved, blessed, and not forgotten." Within 24 hours, her bleeding stopped completely. In the months since, she has experienced only normal menstrual cycles with no excessive bleeding or pain.
 
 #### Steps
 
@@ -231,7 +231,7 @@ Before you begin, decide which two beliefs or perceptions you want to change. Ge
 
 #### Step 2: Make a firm decision
 
-On the right side of the paper, write the new beliefs and perceptions you want to embody. Decide with such firm intention that the amplitude of that decision carries a level of energy greater than the hardwired programs in your brain and the emotional addictions in your body. Allow your body to respond to a new mind. Allow the choice to become an experience that you never forget.
+On the right side of the paper, write the new beliefs and perceptions you want to embody. Decide with such firm intention that the intensity of that decision is greater than the hardwired programs in your brain and the emotional addictions in your body. Allow your body to respond to a new mind. Allow the choice to become an experience that you never forget.
 
 #### Step 3: Emotionally embrace the new belief
 
@@ -239,11 +239,11 @@ Come out of your resting state and change your energy so that your biology is al
 
 #### Step 4: Bless your new life
 
-Take your left hand and place it over your heart. Bless your body that it be lifted to a new mind and to a new energy. Bless your life that it be an extension of your mind, that your state of being be reflected in your world. Bless your future that it never be your past. Bless your past that it turns to wisdom. Bless the challenges in your life that they initiate you into greatness. Bless your soul that it wakes you up from this dream and that it be your guide.
+Take your left hand and place it over your heart. Acknowledge your body's capacity to be lifted to a new mind and a new energy. Acknowledge your life as an extension of your mind, where your state of being is reflected in your world. Acknowledge your future as distinct from your past. Acknowledge your past as a source of wisdom. Acknowledge your challenges as initiators into greatness. Acknowledge your soul as your guide that wakes you from old patterns.
 
 #### Step 5: Surrender to gratitude
 
-Give thanks for a new life before it is made manifest. The emotional signature of gratitude means the event has already happened. Gratitude is the ultimate state of receivership. The longer you linger in gratitude, the more you draw your new life to you. Surrender the outcome to a greater intelligence, to a greater mind, and allow it to be executed in a way that is right for you.
+Give thanks for a new life before it is made manifest. The feeling of gratitude itself means the event has already happened. Gratitude is the ultimate state of receivership. The longer you linger in gratitude, the more you draw your new life to you. Surrender the outcome to a greater intelligence, to a greater mind, and allow it to be executed in a way that is right for you.
 
 #### Best Practices
 
@@ -259,7 +259,7 @@ Give thanks for a new life before it is made manifest. The emotional signature o
 #### Keep In Mind
 
 - Beliefs and perceptions are subconscious states of being that form your personal reality
-- The new internal experience must have greater amplitude than the external past experience that created the old belief
+- The new internal experience must have greater intensity than the external past experience that created the old belief
 - Your body must respond to a new mind—not the other way around
 - The moment you begin to analyze how your healing will happen, you are returning to the old self
 
@@ -279,7 +279,7 @@ Give thanks for a new life before it is made manifest. The emotional signature o
 - **Problem:** Not feeling enough emotion to make the change stick
   **Solution:** Practice gratitude daily to build your capacity for elevated emotion. The emotion must be greater than the past emotional charge of the old belief
 - **Problem:** Giving up when old patterns return during the transition
-  **Solution:** Understand that crossing the river of change is uncomfortable. The discomfort is the biological death of the old self. Embrace it as proof you are moving in the right direction
+  **Solution:** Understand that the process of transformation is uncomfortable. The discomfort is the dissolution of old patterns. Embrace it as proof you are moving in the right direction
 
 ## Glossary / Index
 
@@ -298,7 +298,7 @@ Give thanks for a new life before it is made manifest. The emotional signature o
 |DNA|Deoxyribonucleic acid, the twisted-ladder structure in the nucleus of every cell containing genetic instructions; genes are sequences of DNA that can be activated or deactivated by environmental signals including thoughts and emotions|108|
 |Dopamine|A neurotransmitter that the basal ganglia needs for proper movement control; Parkinson's patients lack sufficient dopamine; placebo responses can increase dopamine production by 200% through expectation alone|50|
 |EEG|Electroencephalography, a measurement of electrical activity in the brain used to monitor brain-wave states and document changes during meditation|40|
-|Elevated emotions|Positive, expansive emotions such as gratitude, joy, inspiration, awe, trust, kindness, compassion, and love that lift the body's energy to new hormonal centers and open the door to neuroplasticity|143|
+|Elevated emotions|Positive, expansive emotions such as gratitude, joy, inspiration, awe, trust, kindness, compassion, and love that lift the body's energy to new hormonal balance and open the door to neuroplasticity|143|
 |Emotional addiction|The condition in which the body memorizes certain emotions and requires increasingly intense emotional experiences to stimulate the same chemical response, driving the mind to create more of the same feelings|100|
 |Emotion|The chemical record of past experiences; feelings are the language of the body that conditions cells and programs the subconscious mind through neuropeptides|98|
 |Endorphins|The body's natural painkillers; a 1970s study proved that placebo responses trigger endorphin release, proving that relief is physiological, not just psychological|62|
@@ -325,8 +325,8 @@ Give thanks for a new life before it is made manifest. The emotional signature o
 |Open focus|A Buddhist meditation technique that shifts attention from narrow object-focus to spacious awareness of the space around and between things; moves the brain from beta to alpha and theta states, synchronizing different brain regions|299|
 |Oxytocin|A neuropeptide called the "cuddle hormone" that naturally shuts off amygdala receptors, reducing fear and anxiety and promoting trust, forgiveness, and love; it has healing effects on the heart, immune system, and digestive system|142|
 |Parkinson's disease|A neurological disorder marked by gradual degeneration of dopamine-producing cells in the basal ganglia; placebo responses can increase dopamine production by 200%, eliminating tremors|50|
-|Placebo effect|A beneficial response to an inert treatment driven by belief, expectation, and conditioning; proof that the mind alone can produce real physiological changes in the brain and body|26|
-|Present moment|The sweet spot where past and future timelines disappear; the only place where infinite quantum possibilities exist and true creation can happen; where you become pure consciousness|301|
+|Placebo effect|A beneficial response to an inert treatment driven by belief, expectation, and conditioning; evidence that the mind can produce real physiological changes in the brain and body|26|
+|Present moment|The state of present-moment awareness where past and future timelines disappear; the only place where quantum possibilities exist and true creation can happen; where you become fully aware beyond physical limits|301|
 |Procedural memories|Nondeclarative, implicit memories of well-practiced skills and habits that the body performs automatically without conscious thought, such as riding a bike or typing|164|
 |Protein|The raw material of life manufactured by genes; proteins construct physical anatomy and regulate physiological function; changing gene expression changes the proteins your body produces|109|
 |Psychoneuroimmunology|The study of how thoughts and emotions affect the immune system; an important field emerging from placebo research showing that the mind can directly influence immune function|61|
