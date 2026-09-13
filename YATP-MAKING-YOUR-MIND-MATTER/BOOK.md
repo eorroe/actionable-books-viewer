@@ -1,4 +1,4 @@
-# YATP-MAKING-YOUR-MIND-MATTER
+# You Are the Placebo by Dr. Joe Dispenza
 
 ## Overview
 
