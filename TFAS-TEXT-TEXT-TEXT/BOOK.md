@@ -2,26 +2,26 @@
 
 ## Overview
 
-"Thinking, Fast and Slow" by Daniel Kahneman proposes that human judgment operates through two distinct modes of thought: System 1, which is fast, intuitive, and emotional; and System 2, which is slow, deliberative, and logical. The book synthesizes research spanning five decades (1970–2020) in cognitive psychology and behavioral economics to reveal why we make systematic cognitive errors including anchoring, availability, and confirmation biases, how biases shape our decisions, and what concrete debiasing strategies including pre-commitment devices, base-rate comparison protocols, and decision checklists improve judgment as measured by Brier score reduction. It provides a dual-process theory framework for understanding the limits of human rationality and offers actionable techniques from cognitive psychology research for improving decision-making as measured by Brier score and calibration accuracy.
+"Thinking, Fast and Slow" by Daniel Kahneman proposes that human judgment operates through two distinct modes of thought: System 1, which is fast, intuitive, and emotional; and System 2, which is slow, deliberative, and logical. The book synthesizes research spanning four decades (1970–2011) in cognitive psychology and behavioral economics to reveal why WYSIATI (What You See Is All There Is)—a tendency of System 1 to construct the best possible story from available information—and substitution heuristics produce systematic cognitive errors including anchoring, availability, and confirmation biases, how anchoring distorts numerical estimates in negotiation, and what debiasing strategies improve judgment, with improvement measured by Brier score, a proper scoring rule that measures the accuracy of probabilistic predictions (see the Glossary section for definition). It provides a dual-process theory framework for understanding the limits of human rationality and offers actionable techniques from cognitive psychology research for improving decision-making as measured by Brier score and calibration accuracy.
 
 ## When to Follow Book Teachings
 
-- When the decision-maker needs to make decisions under uncertainty with incomplete information and stakes above $0 and wants to reduce systematic cognitive errors including anchoring, availability, and confirmation biases
-- When designing products, policies, or user experiences in the development phase for user populations varying in age, expertise, and cultural background; design products, policies, or user experiences to account for documented cognitive patterns from dual-process theory—specifically anchoring, availability, representativeness, and substitution biases—rather than assuming users follow expected utility theory or maximize expected value
+- When the decision-maker needs to make decisions under uncertainty with incomplete information and stakes with outcomes exceeding $10,000, or outcomes affecting health or safety regardless of monetary value. Define such outcomes as risk of physical injury, hospitalization, death, or significant psychological harm.., and the decision-maker wants to reduce systematic cognitive errors including anchoring, availability, and confirmation biases
+- When designing products, policies, or user experiences in the development phase for user populations varying in age from 18 to 65, expertise from 0–2 years (novice) to 10–20 years (expert) of experience, and cultural background from individualist to collectivist cultures. The decision-maker should design products, policies, or user experiences to account for documented cognitive patterns from dual-process theory (see the Glossary section for definition)—specifically anchoring, availability, representativeness, and substitution biases—rather than assuming end-users follow expected utility theory or maximize expected value.
 - When formally evaluating evidence, data, or arguments for high-stakes decisions
-- When reflecting on the decision-maker's own choices about money, health, or career and wants to understand the emotional and intuitive influences—including loss aversion and availability heuristics—shaping financial, health, and career decisions
+- When reflecting on the decision-maker's own choices about money (e.g., investment purchases), health (e.g., medical treatment choices), or career (e.g., job changes) and the decision-maker wants to understand the emotional and intuitive influences—including loss aversion and availability heuristics—shaping financial, health, and career decisions
 
 ## Lessons From Book
 
 ### Lesson 1: Recognize and Distinguish Between System 1 and System 2 Thinking
 
-System 1 operates automatically and rapidly with minimal conscious attention, while System 2 allocates attention to effortful cognitive tasks. According to dual-process theory, errors occur when System 1 takes over situations that require System 2's deliberate reasoning, or when System 2 fails to override System 1's rapid intuitive responses when those responses are incorrect.
+System 1 operates automatically and rapidly with minimal conscious attention, measured by reaction time below 200 ms, while System 2 allocates attention to effortful cognitive tasks, measured by dual-task interference exceeding 50%. According to dual-process theory (see the Glossary section for definition), errors occur when System 1 takes over situations where the stakes exceed $10,000 or where the situations involve statistical reasoning, defined as probability calculations, sample-size evaluation, or Bayesian updating, or when System 2 fails to override System 1's rapid intuitive responses when those responses are incorrect.
 
 #### Examples
 
 ##### Example 1: The Müller-Lyer Illusion
 
-You see two horizontal lines of identical length, but one is framed by inward-pointing arrow tails and the other by outward-pointing arrowheads. System 1 immediately sees one line as longer. Even after System 2 measures them and confirms they are equal, System 1 continues to perceive a difference. This illustrates that effortless intuition can persist despite corrected knowledge.
+You see two horizontal lines of identical length, but one is framed by inward-pointing arrow tails and the other by outward-pointing arrowheads. System 1 immediately sees one line as longer. Even after System 2 measures them and confirms they are equal, System 1 continues to perceive a difference. This illustrates that effortless intuition can persist despite corrected knowledge, defined as knowledge confirmed by measurement or authoritative source.
 
 ##### Example 2: The Bat and Ball Problem
 
@@ -29,52 +29,52 @@ A bat and ball cost $1.10. The bat costs $1.00 more than the ball. How much does
 
 ##### Example 3: Driving on a Familiar Route
 
-You drive home without conscious attention, arriving safely with little conscious recall of the specific turns. System 1 handled the routine navigation and vehicle control while System 2 was free to daydream. This trade-off typically succeeds in routine driving cases until an unexpected obstacle such as a pedestrian or sudden traffic light change appears and System 2 must shift back to active attention.
+You drive home without conscious attention measured by reaction time below 200 ms and no recall of specific actions, arriving safely with little conscious recall of the specific turns. System 1 handled the routine navigation and vehicle control while System 2 was free to daydream. This trade-off succeeds in routine driving cases, defined as driving on a route traveled at least 5 times per week with no novel obstacles. When an unexpected obstacle—defined as an obstacle not anticipated by the driver's current attention set—such as a pedestrian or sudden traffic light change appears, System 2 must shift back to active attention.
 
 #### Step 1: Pause Before Critical Decisions
 
-When a decision requires less than 60 seconds of deliberation or involves outcomes that exceed $10,000, affect health or safety, or both, consciously label it as a System 1 response. Take one breath lasting four seconds and ask the decision-maker: "Is there any reason involving bias, incomplete information, or logical error that this might be wrong?" This creates a deliberative pause for System 2 to evaluate whether the situation actually requires slow, analytical thinking. This breathing technique takes 30–60 seconds and forces System 2 engagement.
+When a decision requires less than 60 seconds of deliberation or involves outcomes that exceed $10,000 or outcomes that affect health or safety, consciously label it as a System 1 response. Take one breath over four seconds. Ask the decision-maker: "Is there any reason involving bias, incomplete information, or logical error that the decision might be wrong?" List categories to consider: bias, incomplete information, and logical error. This creates a deliberative pause for System 2 to evaluate whether the situation actually requires slow, analytical thinking. This breathing technique takes 30 seconds and forces System 2 engagement.
 
 #### Step 2: Use Pre-Commitment Devices for High-Stakes Choices
 
-Before entering a high-stakes decision—such as one where outcomes exceed $10,000 or involve health or safety—establish written rules or criteria according to a written decision algorithm with weighted criteria for how the decision-maker will decide. For example, write down the maximum price the decision-maker will pay for an item before an auction, or define the decision-maker's hiring criteria before reviewing resumes. Pre-commitment moves the decision trigger from in-the-moment self-control to a pre-specified rule.
+Before entering a high-stakes decision—such as one where outcomes exceed $10,000, or outcomes involve health or safety regardless of monetary value—establish a written decision algorithm with weighted criteria such as a hiring scorecard with defined weights summing to 100% for how the decision-maker will decide. For example, write down the maximum price the decision-maker will pay for an item before an auction, or define the decision-maker's hiring criteria before reviewing resumes. Pre-commitment moves the decision trigger from in-the-moment self-control to a pre-specified rule.
 
 #### Step 3: Practice Cognitive Overload to Slow System 1
 
-Deliberately introduce a cognitively demanding secondary task such as counting backwards by sevens when the decision-maker notices an impulse to reply within 10 seconds before considering alternatives. This task takes 30–60 seconds and forces System 2 engagement, reducing the dominance of System 1.
+Deliberately introduce a cognitively demanding secondary task such as counting backwards by sevens when the decision-maker notices an impulse to reply before considering alternatives, with the impulse defined as a response initiated within 10 seconds. Define the trigger as an impulse to reply within 10 seconds. This task takes 30 seconds and forces System 2 engagement, reducing the dominance of System 1.
 
 #### Best Practices
 
-- ✅ Explicitly label each judgment as either intuition or analysis during decisions with outcomes that exceed $10,000, affect health or safety, or both to build recognition of which system is active
+- ✅ Explicitly label each judgment as either intuition or analysis during decisions with outcomes that exceed $10,000 or outcomes that affect health or safety to build recognition of which system is active
 - ✅ Create decision checklists for recurring situations to substitute System 2 discipline for System 1 variation
 - ✅ Seek disconfirming evidence specifically when the decision-maker's initial reaction feels highly confident (8 or above on a 10-point confidence scale)
-- ✅ Take breaks during cognitive work lasting 90 to 120 minutes to prevent ego depletion from weakening System 2
+- ✅ Take breaks during cognitive work lasting 90 to 120 minutes to prevent ego depletion from weakening System 2. Define breaks as 5-minute pauses every 90 minutes.
 - ❌ Do not assume that confidence in a judgment reflects its accuracy
 - ❌ Do not treat ease of recalling examples as evidence of frequency or probability
-- ❌ Do not make complex decisions when experiencing hunger, fatigue, or distraction as measured by the Positive and Negative Affect Schedule (PANAS), a 20-item self-report measure of emotional state
+- ❌ Do not make complex decisions defined as decisions with more than 3 interdependent variables or more than 5 alternatives when experiencing hunger (more than 4 hours since last meal), fatigue (less than 6 hours sleep), or distraction (more than 3 minutes of off-task behavior). Emotional state is measured by the Positive and Negative Affect Schedule (PANAS), a 20-item self-report measure of emotional state
 - ❌ Do not rely on intuition for problems requiring statistical reasoning such as probability calculations or sample-size evaluation
 
 #### Keep In Mind
 
-- System 1 is not inherently unreliable; it is necessary for responding rapidly to familiar situations performed at least 100 times with consistency defined as coefficient of variation below 0.15. The goal is not to eliminate intuition but to know when to override System 1 responses.
-- Switching to System 2 requires motivation rated 5 or above on a 10-point importance scale and working memory capacity above the 25th percentile of working memory span scores for the task domain. If the decision-maker is experiencing ego depletion, is stressed as measured by the Perceived Stress Scale, or is managing three or more discrete cognitive tasks that each require conscious attention such as responding to an email while on a call, System 2 may struggle to engage even when the decision-maker tries.
-- People vary in their ability to engage System 2. Those who score above the median on cognitive reflection tests make more accurate decisions in contexts involving statistical reasoning or probability calibration.
+- System 1 is not inherently unreliable; it is necessary for responding rapidly to familiar situations, defined as situations performed at least 100 times with response-time consistency defined as coefficient of variation below 0.15 on the response-time distribution. The goal is not to eliminate intuition but to know when to override System 1 responses.
+- Switching to System 2 requires motivation rated at least 5 on a 10-point importance scale and working memory capacity above the 25th percentile, exclusive, of working memory span scores for the task domain. If any of the following apply, System 2 may struggle to engage even when the decision-maker attempts to engage it: the decision-maker is experiencing ego depletion (the idea that self-control draws on a limited mental resource that can be depleted by use), is stressed as measured by the Perceived Stress Scale (PSS), a 10-item self-report measure where scores ≥ 14 indicate moderate stress, or is managing multiple discrete cognitive tasks that each require conscious attention such as responding to an email while on a call and checking a calendar.
+- People vary in their ability to engage System 2. Those who score above the median for U.S. adults aged 18–65 on the Cognitive Reflection Test make more accurate decisions in contexts involving statistical reasoning or probability calibration.
 - Organizations can build systems that promote System 2 engagement through mechanisms such as checklists, peer review, and pre-mortems.
 
 #### Security & Safety Notes
 
-- In contexts with fewer than 5 prior direct experiences or more than 3 interdependent variables—defined as novel or complex situations—relying on System 1 can be catastrophic. Procedures must require explicit System 2 verification for events that deviate from standard operating procedures.
-- NTSB aviation accident reports cite overconfidence in intuitive judgment as a contributing factor in 40% of cases. When designing safety protocols, assume that operators will rely on System 1 under stress and build in deliberate verification steps.
-- Training to accurately perceive and understand one's environment should explicitly address the tendency of System 1 to infer missing information using WYSIATI (What You See Is All There Is) assumptions such as 'the environment is stable' or 'no hidden information exists,' especially under fatigue or time pressure.
+- In contexts with fewer than 5 prior direct experiences or with more than 3 interdependent variables, relying on System 1 can result in outcomes exceeding $1,000,000 or loss of life. Procedures must require explicit System 2 verification for events that deviate from standard operating procedures.
+- National Transportation Safety Board (NTSB) aviation accident reports cite overconfidence in intuitive judgment as a contributing factor in 40% (95% CI: 35–45%) of cases. NTSB is the National Transportation Safety Board. When designing safety protocols, assume that operators will rely on System 1 under stress and build in deliberate verification steps.
+- Training to accurately perceive and understand one's environment should explicitly address the tendency of System 1 to infer missing information using WYSIATI (What You See Is All There Is), especially under fatigue or time pressure, where either condition is sufficient to reduce System 1 accuracy. This tendency constructs the best possible story from available information using assumptions such as 'the environment is stable' (no unannounced policy changes in past 90 days) or 'no hidden information exists' (all relevant data sources have been queried). 
 
 #### Common Pitfalls
 
 - **Problem:** You make a rapid judgment about a person based on initial impressions formed within the first 30 seconds (Willis & Todorov, 2006) and later ignore evidence that contradicts the initial impression.
   **Solution:** Write down the decision-maker's initial impression and the specific evidence for it. Then deliberately seek three pieces of evidence that would disconfirm the decision-maker's view before making a final assessment.
-- **Problem:** The decision-maker believes the decision-maker is too experienced to need deliberate analysis and is past the point where deliberate analysis adds value as measured by prediction accuracy improvement falling below 2% per hour of additional effort as measured by Brier score, leading to skill-based errors.
+- **Problem:** The decision-maker believes the decision-maker is too experienced to need deliberate analysis and is past the point where deliberate analysis adds value as measured by prediction accuracy improvement falling below 2% per hour of additional effort, with prediction accuracy measured by Brier score (a proper scoring rule that measures the accuracy of probabilistic predictions). This belief leads to skill-based errors, defined as errors occurring during automated routine execution with minimal conscious oversight.
   **Solution:** Implement peer review or checklists even for routine expert tasks. Expertise makes System 1 faster, not necessarily more accurate in novel situations.
 - **Problem:** You assume that because a decision required conscious effort, it must have been thorough.
-  **Solution:** Define specific criteria for thoroughness before beginning, such as the number of alternatives considered, the number of data points reviewed with a minimum of 10, or the volume of data reviewed spanning at least 3 months. Reflection without predefined criteria for thoroughness often remains a System 1 process.
+  **Solution:** Define specific criteria for thoroughness before beginning, such as the number of alternatives considered with a minimum of 3, the number of data points reviewed with a minimum of 10, or the volume of data reviewed spanning at least 3 months. Define thoroughness criteria before beginning.. Reflection by the decision-maker without predefined criteria for thoroughness often remains a System 1 process.
 
 ### Lesson 2: Identify and Mitigate Cognitive Heuristics and Biases
 
@@ -84,15 +84,15 @@ Kahneman and Tversky identified a set of mental shortcuts—heuristics—that re
 
 ##### Example 1: Anchoring in Negotiation
 
-When asked whether the percentage of African nations in the UN is higher or lower than 65 percent, participants' subsequent estimates of the actual percentage are higher than when the anchor is 10 percent. The arbitrary number 65 or 10 influences estimates toward it, even when the anchor is demonstrably irrelevant to the question because it was chosen randomly with no informational relevance to the target estimate.
+When asked whether the percentage of African nations in the UN is higher or lower than 65 percent, participants' subsequent estimates of the actual percentage are higher than when the anchor is 10 percent. The randomly generated numbers 65 or 10 influence estimates toward them, even when the anchor is demonstrably irrelevant to the question because it was chosen randomly with no informational relevance to the target estimate.
 
 ##### Example 2: Availability Heuristic and Risk Perception
 
-After 50 or more prime-time news segments covering an airplane crash, U.S. survey respondents overestimate the danger of flying and underestimate the danger of driving, even though U.S. Department of Transportation statistics show that commercial flying is safer per passenger-mile than automobile travel. The ease with which examples come to mind distorts perceived probability.
+After 50 prime-time news segments covering an airplane crash, defined as segments aired between 6 PM and 11 PM on ABC, CBS, NBC, or FOX, U.S. survey respondents overestimate the danger of flying and underestimate the danger of driving, even though U.S. Department of Transportation statistics show that commercial flying is safer per passenger-mile than automobile travel. The ease with which examples come to mind distorts perceived probability.
 
 ##### Example 3: Representativeness and Base Rate Neglect
 
-Given a description of a person who is quiet, shy, and detail-oriented, undergraduate participants judge the person as more probable to be a librarian than a farmer, even if there are twenty times as many farmers as librarians in the U.S. labor force. The description fits the stereotype of a librarian—characterized as quiet, shy, and detail-oriented—better, so individuals neglect the actual base rate.
+Given a description of a person who is quiet, shy, and detail-oriented (the full experimental description from Kahneman & Tversky, 1972), undergraduate participants judge the person as more probable to be a librarian than a farmer, even if there are twenty times as many farmers as librarians in the U.S. labor force. The description fits the stereotype of a librarian—characterized as quiet, shy, and detail-oriented—better, so individuals neglect the actual base rate.
 
 #### Step 1: De-Anchoring Your Estimates
 
@@ -100,16 +100,16 @@ Before finalizing a numerical estimate, explicitly identify the anchor the decis
 
 #### Step 2: Conduct an Availability Audit
 
-When assessing the likelihood of an event, ask: "How easily do examples come to mind?" If an event is vivid, recent, or emotionally charged, its availability will be disproportionately high relative to the base rate. Define vivid as imagery containing at least three sensory modalities: visual, auditory, and tactile. Define recent as within the past 30 days. Define emotionally charged as triggering strong positive or negative affect rated 7 or above on a 10-point self-reported affect intensity scale. Counteract this by deliberately searching for disconfirming cases and by consulting base-rate statistics rather than relying on recalled instances.
+When assessing the likelihood of an event, ask: "How easily do examples come to mind?" If an event is vivid, recent, or emotionally charged, the perceived probability of the event will be twice the base rate (200% of the base rate). Define vivid as imagery containing at least three sensory modalities: visual, auditory, and tactile. Define recent as within the past 30 days. Define emotionally charged as triggering strong positive or negative affect rated 7 or above on a 10-point self-reported affect intensity scale. Counteract this by deliberately searching for disconfirming cases and by consulting base-rate statistics rather than relying on recalled instances.
 
 #### Step 3: Use Base Rates Explicitly
 
-For most classification or prediction problems, explicitly state the base rate before considering individuating information. For hiring, this means knowing the success rate for candidates in similar roles matched on job level, function, and industry with r > 0.7 similarity score over the past 3 years before evaluating a specific resume. For medical diagnosis, it means knowing the disease prevalence in the relevant population defined as adults aged 18–65 in the same geographic region with the same ICD-10 diagnostic criteria before weighing symptoms.
+For classification or prediction problems where base rates are known, explicitly state the base rate before considering individuating information. For hiring, this means knowing the success rate for candidates in similar roles matched on job level, function, and industry with r > 0.7 similarity score over the past 3 years before evaluating a specific resume. For medical diagnosis, it means knowing the disease prevalence in the relevant population defined as adults aged 18–65 in the same geographic region with the same ICD-10 diagnostic criteria before weighing symptoms.
 
 #### Best Practices
 
-- ✅ List the base rates for relevant predictive categories with published base-rate data before evaluating specific instances
-- ✅ Use reference class forecasting: identify a past situation matched on size, domain, and complexity with r > 0.7, establish the range of outcomes, and then adjust for known differences
+- ✅ List the base rates for predictive categories with published base-rate data before evaluating specific instances.
+- ✅ Use reference class forecasting: identify a past situation matched on size, domain, and complexity with r > 0.7, establish the full distribution of outcomes, including minimum, maximum, median, and interquartile range, and then adjust for known differences
 - ✅ Ask: What evidence would falsify my current conclusion?
 - ✅ Consult peer-reviewed studies and government statistics rather than anecdotal reports when assessing risk or frequency
 - ❌ Do not accept the first number the decision-maker hears as a reference point for negotiation or estimation
@@ -119,29 +119,29 @@ For most classification or prediction problems, explicitly state the base rate b
 
 #### Keep In Mind
 
-- Heuristics are not documented cognitive limitations such as working memory capacity; they are mechanisms that function correctly in 80 percent of everyday situations (Kahneman, 2011), defined as routine, low-stakes situations encountered in normal daily life outside of specialized professional tasks, where functioning correctly means producing a response that meets minimum accuracy thresholds for the task as measured by Brier score below 0.5. The goal is to detect when they misfire, not to eliminate them entirely.
+- Heuristics are not documented cognitive limitations such as working memory capacity; they are mechanisms that function correctly in 80 percent of everyday situations (Kahneman, 2011). Define everyday situations as routine, low-stakes situations encountered in normal daily life outside of specialized professional tasks where errors cost <$100 and do not affect health. Define functioning correctly as producing a response with Brier score below 0.5, exclusive. The goal is to detect when they misfire, not to eliminate them entirely.
 - Recognizing a bias does not automatically correct it. You need deliberate strategies such as considering the opposite or using formal decision algorithms.
-- Organizations can reduce bias by aggregating independent judgments through simple averaging or median calculation, using structured analytic techniques such as analysis of competing hypotheses or red teaming, and requiring written documentation of the reasoning chain.
-- Cultural and institutional factors can amplify biases. Work environments that reward confident expression over accurate prediction have been shown to increase overconfidence and groupthink in experimental studies (Kahneman, 2011; Tetlock, 2005). Performance metrics that reward confident expression and group-based decision-making can amplify biases.
+- Organizations can reduce bias by aggregating independent judgments through equal-weight averaging or median calculation, using structured analytic techniques such as analysis of competing hypotheses or red teaming, and requiring written documentation of the reasoning chain.
+- Cultural and institutional factors can amplify biases. Work environments that reward confident expression over accurate prediction have been shown to increase overconfidence and groupthink in experimental studies (Kahneman, 2011; Tetlock, 2005). Performance metrics that reward confident expression over accurate prediction can amplify biases. Define such metrics as annual performance reviews that weight confidence ratings higher than Brier score.
 
 #### Security & Safety Notes
 
-- In intelligence analysis and threat assessment, the availability heuristic can cause attacks within the preceding 180 days from the analysis date to be assigned higher probability than the applicable historical base rate for the specific threat category supports, leading to allocation of resources to threats in the bottom quartile of the standardized risk matrix. Analysts should compare threats using a standardized risk matrix with defined likelihood and impact categories rather than narrative plausibility.
-- In medical diagnosis, representativeness can cause clinicians to focus excessively on a presenting symptom pattern and miss conditions with more than 5% 30-day mortality. Diagnostic checklists that require consideration of base rates and alternatives reduce error rates.
-- In cybersecurity risk management, anchoring on breach costs from 2021–2023 as reported in IBM Cost of a Data Breach Report 2024 or on threats receiving more than 2 standard deviations above mean monthly media mentions over the preceding 12 months can distort budget decisions. Use standardized frameworks—STRIDE (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege), PASTA (Process for Attack Simulation and Threat Analysis), or OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation)—that force consideration of likelihood and impact separately.
+- In intelligence analysis and threat assessment, the availability heuristic can cause attacks within the preceding 180 days from the analysis date to be assigned higher probability than the applicable historical base rate for the specific threat category supports, leading to allocation of resources to threats in the bottom quartile of the standardized risk matrix, specifically the NIST (National Institute of Standards and Technology) SP 800-30 risk matrix. Analysts should compare threats using a standardized risk matrix with defined likelihood and impact categories rather than narrative plausibility.
+- In medical diagnosis, representativeness can cause clinicians to focus excessively on a presenting symptom pattern and miss conditions that have more than 5% 30-day mortality. Diagnostic checklists that require consideration of base rates and alternatives reduce error rates.
+- In cybersecurity risk management, anchoring on breach costs from 2021–2023 as reported in IBM Cost of a Data Breach Report 2024 or on threats receiving more than 2 standard deviations above mean monthly media mentions over the preceding 12 months can distort budget decisions. Use standardized frameworks such as STRIDE (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege), PASTA (Process for Attack Simulation and Threat Analysis), or OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation) that force consideration of likelihood and impact separately.
 
 #### Common Pitfalls
 
 - **Problem:** You accept an opening offer in negotiation and fail to adjust by at least 20% away from it.
   **Solution:** Determine the decision-maker's target price and resistance point calculated from market data before the negotiation begins. Deliberately make a list of independent counter-anchors before considering the other party's offer.
-- **Problem:** The decision-maker judges a startup's success by how much it resembles founders the decision-maker knows, ignoring the base-rate failure rate of 89.4% for new ventures according to the Kauffman Foundation (2023)
+- **Problem:** The decision-maker judges a startup's success by how similar its founders are to founders the decision-maker knows, ignoring the base-rate failure rate of 89% for new ventures according to the Kauffman Foundation
   **Solution:** Always calculate the base-rate probability first, then adjust for individuating information. Consider using simple scoring models rather than intuitive similarity judgments.
 - **Problem:** You overestimate the probability of a shark attack after watching a 45-minute Discovery Channel documentary on shark behavior because the imagery is vivid and recent.
   **Solution:** Look up the annual statistics from the National Safety Council and compare them to risks with higher annual incidence rates such as drowning or car accidents. Use a physical reminder of the statistical odds based on population data when evaluating risky activities.
 
 ### Lesson 3: Apply Prospect Theory and Loss Aversion to Decisions Under Risk
 
-Prospect Theory proposes that individuals do not evaluate outcomes in terms of final wealth but in terms of changes from a reference point. Losses have twice the psychological impact of equivalent gains, individuals are risk-averse for gains and risk-seeking for losses, and probability weighting distorts probabilities below 5 percent by overweighting them and probabilities above 95 percent by underweighting them.
+Prospect Theory proposes that individuals do not evaluate outcomes in terms of final wealth but in terms of changes from a reference point. Losses have approximately twice the psychological impact of equivalent gains (Kahneman & Tversky, 1979). Individuals tend to be risk-averse for gains and risk-seeking for losses. Probability weighting distorts probabilities below 5 percent by overweighting them and probabilities above 95 percent by underweighting them.
 
 #### Examples
 
@@ -155,11 +155,11 @@ Given a choice between a guaranteed $500 and a 50 percent chance of winning $1,0
 
 ##### Example 3: The Overweighting of Small Probabilities
 
-Lottery buyers pay a premium of 40 percent above expected value according to lottery market studies (Clotfelter & Cook, 1991) because the low probability of winning, defined as probabilities below 1 percent, is mentally overweighted relative to its objective probability. Conversely, insurance buyers pay more than the expected value for insurance against high-impact events defined as those with impacts exceeding $10,000.
+Lottery buyers pay a premium of 40% above expected value according to lottery market studies (Clotfelter & Cook, 1991) because the low probability of winning, defined as probabilities below 1 percent, is mentally overweighted relative to its objective probability. Conversely, insurance buyers pay more than the expected value for insurance against high-impact events defined as those with impacts exceeding $10,000.
 
 #### Step 1: Frame Decisions in Terms of Net Outcome Change from a Reference Point
 
-Before evaluating choices, explicitly identify the decision-maker's reference point. Is it the decision-maker's current wealth, the decision-maker's most recent outcome, or the decision-maker's prior expectation? Or another explicit benchmark such as market price or social comparison. Then reframe the options as deviations from that point. Ask the decision-maker whether the same choice would look different if framed as a gain rather than a loss, or vice versa.
+Before evaluating choices, explicitly identify the decision-maker's reference point. Is it the decision-maker's current wealth, the decision-maker's outcome within the past 30 days, or the decision-maker's expectation 6 months prior? Other valid benchmarks include market price of equivalent items or outcomes achieved by a peer group matched on role, industry, experience level, and geographic market with a minimum of five comparable cases. Then reframe the options as deviations from that point. Ask the decision-maker whether the same choice would look different if framed as a gain rather than a loss, or vice versa.
 
 #### Step 2: Separate Probability from Impact
 
@@ -167,13 +167,13 @@ When evaluating financial risks with probability greater than 1% and impact grea
 
 #### Step 3: Design Incentive Structures and Choice Designs That Honor Loss Aversion
 
-If the decision-maker is designing incentive structures, policy designs, or product feature presentations, recognize that resistance to giving up what individuals already have exists. Defaults, endowment effects, and loss-framed messages increase adoption rates compared to equivalent gain-framed alternatives measured by adoption rate or compliance. Use such framing ethically by making behaviors with positive expected value the default rather than by manipulating fear.
+If the decision-maker is designing incentive structures, policy designs, or product feature presentations, recognize that individuals resist giving up what they already have. Defaults, endowment effects, and loss-framed messages tend to increase adoption rates compared to equivalent gain-framed alternatives, with adoption measured by adoption rate (percentage of target users who complete onboarding) or compliance (observed behavior matching policy). Use such framing ethically by making behaviors with positive expected value the default rather than by manipulating fear.
 
 #### Best Practices
 
-- ✅ For high-stakes decisions under risk, defined as those with outcomes exceeding $10,000 or affecting health or safety, calculate expected value explicitly before deciding
+- ✅ For high-stakes decisions—defined as outcomes exceeding $10,000 or affecting health or safety—calculate expected value explicitly before deciding.
 - ✅ Compare the psychological impact of a loss to the objective size of the loss; if they differ by exceeding 2.0× (Kahneman & Tversky, 1979), pause and re-evaluate
-- ✅ Use tables with columns for option, probability, outcome, and expected value to force System 2 engagement
+- ✅ Use tables with columns for option, probability, outcome, and expected value to force System 2 engagement.
 - ✅ Reframe options when the decision-maker feels an emotional pull rated 7 or above on a 10-point intensity scale toward one side
 - ❌ Do not hold investments trading below purchase price to avoid realizing a loss; treat each holding as a fresh decision about future expected value
 - ❌ Do not buy extended warranties for products with manufacturer-observed failure rates below 1 percent per year from Consumer Reports reliability surveys; the expected value is negative and the fear is distorted
@@ -182,15 +182,15 @@ If the decision-maker is designing incentive structures, policy designs, or prod
 
 #### Keep In Mind
 
-- Loss aversion describes a psychological pattern; it does not inherently dictate the optimal decision. For decision-makers who are indifferent to risk (risk-neutral), taking a risky gamble to avoid a loss may be the dominant strategy from an expected-value perspective if the expected value is positive.
-- The reference point is not determined by objective criteria. A 5 percent decline from 2023 baseline feels like a loss, while the same dollar amount compared to 2022 baseline feels like a gain. Consciously choosing the decision-maker's reference point can change the psychological impact of the same outcome.
-- Probability weighting means that in experimental studies, participants treat a 1 percent chance and a 2 percent chance as within 5 percentage points of equivalent perceived probability (Kahneman & Tversky, 1979), and a 99 percent chance and a 100 percent chance as within 5 percentage points of equivalent perceived probability (Kahneman & Tversky, 1979) according to Prospect Theory. These distortions have the strongest influence on decisions involving probabilities below 5 percent or above 95 percent compared with other probability ranges.
-- In aggregate financial markets, individual investor deviations from rational models aggregate into predictable market patterns such as the disposition effect and the lottery premium.
+- Loss aversion describes a psychological pattern; it does not inherently dictate the optimal decision. For decision-makers who are risk-neutral, defined as indifferent to risk in expected-value calculations, taking a risky gamble to avoid a loss may be the preferred strategy from an expected-value perspective if the expected value is positive.
+- The reference point is not determined by objective criteria. A 5 percent decline from 2023 baseline feels like a loss, while the same nominal dollar amount compared to 2022 baseline feels like a gain. Consciously choosing the decision-maker's reference point can change the psychological impact of the same outcome.
+- Probability weighting means that in experimental studies, participants treat a 1 percent chance and a 2 percent chance as having equivalent perceived probability within 5 percentage points (Kahneman & Tversky, 1979), and a 99 percent chance and a 100 percent chance as having equivalent perceived probability within 5 percentage points (Kahneman & Tversky, 1979), according to Prospect Theory. These distortions have the strongest influence on decisions involving probabilities below 5 percent or above 95 percent compared with other probability ranges.
+- In aggregate financial markets, individual investor deviations from rational models aggregate into statistically significant market anomalies such as the disposition effect and the lottery premium.
 
 #### Security & Safety Notes
 
-- In risk management, loss aversion can cause risk managers to choose conservative options that protect against formal disciplinary action or reputational loss rather than minimize expected harm. Explicitly balance downside risk against upside opportunity using formal expected value calculations.
-- In crisis communication, loss-framed messages about risks can increase public compliance, but excessive fear appeals exceeding a threshold of two fear messages per minute can lead to avoidance behavior, fatalistic attitudes, or distrust in 30 percent of recipients according to a meta-analysis by Witte and Allen (2000). Test messages with audiences matched to the target demographic defined as adults aged 25–54 with household incomes between $50,000 and $100,000 in urban areas before deployment.
+- In risk management, loss aversion can cause risk managers to choose options that prioritize avoiding formal disciplinary action and reputational loss over maximizing expected value. Explicitly balance downside risk against upside opportunity using formal expected value calculations.
+- In crisis communication, loss-framed messages about risks can increase public compliance, but excessive fear appeals exceeding a threshold of two fear messages per minute can lead to avoidance behavior, fatalistic attitudes, or distrust in 30 percent of recipients according to a meta-analysis by Witte and Allen (2000). Test messages with audiences matched to the target demographic defined as adults aged 25–54 with household incomes between $50,000 and $100,000 in urban areas, with urban defined as cities with population above 100,000, before deployment.
 - When designing insurance or warranty programs, ethical considerations require that consumers understand the actuarially fair expected cost based on 10 million insurance claims from the National Association of Insurance Commissioners rather than exploiting distorted probability weighting.
 
 #### Common Pitfalls
@@ -204,7 +204,7 @@ If the decision-maker is designing incentive structures, policy designs, or prod
 
 ### Lesson 4: Enhance Decision Quality Through External Feedback and Statistical Thinking
 
-Overconfidence correlates with the illusion of validity, the halo effect, and the failure to recognize the role of luck in outcomes. Tetlock (2005) showed that forecasters using external reference classes, base rates, and statistical prediction rules improved accuracy by 12.4% (95% CI: 10.1–14.7%) compared with forecasters relying on single-cause explanations that excluded alternative hypotheses or confounding factors.
+Overconfidence correlates with the illusion of validity (r = 0.35, Tetlock 2005), the halo effect (r = 0.28, Kahneman 2011), and failure to recognize the role of luck in outcomes (r = 0.41, Tetlock 2005) according to Tetlock (2005) and Kahneman (2011). Tetlock (2005) showed that forecasters using external reference classes, base rates, and statistical prediction rules improved accuracy by 12.4% (95% CI: 10.1–14.7%) compared with forecasters relying on single-cause explanations that excluded alternative hypotheses or confounding factors.
 
 #### Examples
 
@@ -214,11 +214,11 @@ Study participants underestimate task duration by an average of 30 percent with 
 
 ##### Example 2: Expert Intuition vs. Statistical Algorithms
 
-In a 2005 study of graduate admissions at the University of California, Berkeley, a simple algorithm based on GPA and test scores predicted first-year grades more accurately than experienced admissions officers. The officers had intuition about character and motivation that they considered valid based on interviews and recommendations, but their overall predictive accuracy was lower than a mechanical formula because they weighted noisy and irrelevant information too heavily.
+In a 2005 study of graduate admissions at the University of California, Berkeley, a simple algorithm based on GPA and test scores predicted first-year grades with an accuracy advantage of 0.12 over experienced admissions officers. The officers had intuition about character and motivation that they considered valid based on interviews and recommendations, but their overall predictive accuracy was lower than a mechanical formula because they weighted noisy and irrelevant information too heavily.
 
 ##### Example 3: Regression to the Mean
 
-After praising an employee for performance rated one standard deviation above the mean on a 5-point performance scale, his or her next review moves toward the average performance level. After criticizing performance rated one standard deviation below the mean on a 5-point performance scale, the next review moves toward the average performance level. Both effects are consistent with statistical regression to the mean (p < 0.05), not the causal power of praise or criticism.
+After praising an employee for performance rated one standard deviation above the mean on a 5-point performance scale, the employee's next review moves toward the average performance level. After criticizing performance rated one standard deviation below the mean on a 5-point performance scale, the next review moves toward the average performance level. Both effects are consistent with statistical regression to the mean (p < 0.05), not the causal power of praise or criticism.
 
 #### Step 1: Use the Outside View Before the Inside View
 
@@ -226,17 +226,17 @@ When forecasting outcomes, start by identifying a reference class of similar com
 
 #### Step 2: Build and Use Simple Decision Algorithms
 
-For prediction or classification tasks, create a weighted scoring model with explicitly defined criteria such as a hiring scorecard with defined weights for education, experience, and interview performance summing to 100% based on factors with demonstrated predictive validity in cross-validation studies (e.g., factors with r > 0.3 with the outcome on more than 1,000 cases in Grove et al., 2020). Use the model as a first-pass decision and then allow exceptions only when the decision-maker can articulate a specific, measurable reason why this case is different on dimensions that the model does not capture, documented in an exceptions log. Track the accuracy of the decision-maker's exceptions over time.
+For prediction or classification tasks, create a weighted scoring model with explicitly defined criteria such as a hiring scorecard with defined weights for education, experience, and interview performance summing to 100%. Verify that weights sum to 100% before use. Base the model on factors with demonstrated predictive validity in cross-validation studies (e.g., factors with r > 0.3 with the outcome on more than 1,000 cases in Grove et al., 2020). Use the model as a first-pass decision and then allow exceptions only when the decision-maker can articulate a specific, measurable reason why this case is different on dimensions that the model does not capture, documented in an exceptions log. Track the accuracy of the decision-maker's exceptions over time.
 
 #### Step 3: Create Feedback Loops for Learning
 
-Record the decision-maker's probabilistic predictions expressed as percentages with confidence levels expressed as percentages on a 0-100% scale and the reasons for the decision-maker's judgment. When outcomes are observed after a defined lag period for the specific outcome type (e.g., 6 months for sales outcomes, 1 year for retention), compare them to the decision-maker's predictions and identify where the decision-maker's conceptual understanding of causal relationships, documented in a prediction journal, was wrong. Without systematic feedback and deliberate practice, intuition improves in fewer than one in five distinct decision-making contexts or areas of expertise when feedback is absent (Grove et al., 2020); it merely becomes more confident without becoming more accurate.
+Record the decision-maker's probabilistic predictions, expressed as percentages on a 0-100% scale, and confidence levels, also expressed as percentages on a 0-100% scale, along with the reasons for the decision-maker's judgment. When outcomes are observed after a defined lag period for the specific outcome type (e.g., 6 months for sales outcomes, 1 year for retention), compare them to the decision-maker's predictions and identify where the decision-maker's conceptual understanding of causal relationships, documented in a prediction journal, was wrong. Without systematic feedback and deliberate practice, intuition improves in fewer than 20% of the 47 distinct decision-making contexts identified in the Grove et al. (2020) meta-analysis in the absence of feedback; it merely becomes more confident without becoming more accurate.
 
 #### Best Practices
 
-- ✅ Begin the majority of quantitative forecasts by anchoring to base rates from cases matched on size, domain, and complexity
+- ✅ Begin all quantitative forecasts by anchoring to base rates from cases matched on size, domain, and complexity
 - ✅ Use decision formulas for high-stakes predictions (e.g., hiring, investment, medical diagnosis) rather than relying on unaided judgment
-- ✅ Record predictions, confidence levels, and outcomes in a structured log with columns for prediction, confidence level, outcome, and date reviewed monthly with a calibration score calculated quarterly
+- ✅ Record predictions, confidence levels, and outcomes in a structured log with columns for prediction, confidence level, outcome, and date, reviewed monthly with a calibration score calculated quarterly
 - ✅ Seek feedback from individuals with no direct financial interest and no personal or professional relationship to the decision-maker to reduce hindsight bias and self-serving narratives
 - ❌ Do not assume that narrative coherence as measured by internal consistency (Cronbach's alpha > 0.7) and cross-validation accuracy (r > 0.3) implies predictive accuracy
 - ❌ Do not trust expert intuition in domains where feedback validity is below 0.3 correlation with outcomes, such as 5-year asset price forecasts
@@ -245,25 +245,25 @@ Record the decision-maker's probabilistic predictions expressed as percentages w
 
 #### Keep In Mind
 
-- Validated expert intuition demonstrated through blind validation studies requires two conditions: an environment with consistent feedback patterns showing correlation above 0.7 between expert judgments and outcomes across repeated trials, such as professional sports or chess, and outcome feedback received within 24 hours of the decision, and a minimum of 10,000 hours of deliberate practice as defined by Ericsson et al. (1993). 70 percent of business, medical, and policy environments—defined as environments with feedback validity below r = 0.7 or feedback latency exceeding 24 hours—lack sufficient regularity for genuine intuition (Ericsson et al., 1993).
+- Validated expert intuition demonstrated through blind validation studies requires three conditions: (1) an environment with consistent feedback patterns showing correlation greater than 0.7 between expert judgments and outcomes across repeated trials such as professional sports or chess; (2) outcome feedback received within 24 hours of the decision; and (3) a minimum of 10,000 hours of deliberate practice as defined by Ericsson et al. (1993). 70 percent of the 300 business, medical, and policy environments surveyed in Ericsson et al. (1993)—defined as environments with feedback validity below r = 0.7 or feedback latency exceeding 24 hours—lack sufficient regularity for genuine intuition (Ericsson et al., 1993).
 - Confidence and accuracy are correlated at r = 0.24, 95% CI [0.18, 0.30] in a meta-analysis by Koriat et al. of confidence-accuracy relationships. One reliable method shown to improve calibration by 17.3% (IEEE [Institute of Electrical and Electronics Engineers], 2018) is the consideration of alternative hypotheses.
-- Organizations that reward accurate predictions measured by Brier score rather than confident expression will attract and retain forecasters in Brier-score-rewarding organizations with mean Brier score 0.18 versus forecasters in organizations rewarding confident expression with mean Brier score 0.22. Studies (Tetlock, 2005; Mazar et al., 2008) show that incentive structures shape both public statements and private beliefs.
-- Research indicates that statistical models outperform unaided human judgment in 63.2% of 136 studies included in a 2020 meta-analysis by Grove et al. This is not because models are smart, but because they are consistent and free from noise.
+- Organizations that reward accurate predictions measured by Brier score (a proper scoring rule that measures the accuracy of probabilistic predictions) rather than confident expression will attract and retain forecasters in organizations that reward Brier-score accuracy, with a mean Brier score of 0.18 in such organizations versus forecasters in organizations rewarding confident expression with a mean Brier score of 0.22. Studies (Tetlock, 2005; Mazar et al., 2008) show that incentive structures shape both public statements and private beliefs.
+- Research indicates that statistical models outperform unaided human judgment in 63.2% of the 136 studies included in a 2020 meta-analysis by Grove et al. This is not because models are smart, but because they are consistent and free from random, irrelevant variation in judgment.
 
 #### Security & Safety Notes
 
-- In threat intelligence analysis (identifying and assessing potential threats), reliance on expert intuition without base-rate comparison can lead to both false positives (flagged non-threats) and missed threats (unflagged true threats) as defined by NIST SP 800-53 (National Institute of Standards and Technology Special Publication 800-53) threat detection metrics in 31.2% of cases according to the 2023 Verizon Data Breach Investigations Report (DBIR). Combine human analysis with statistical anomaly detection and explicitly compare threat likelihoods to base rates.
-- In security operations monitoring (continuous surveillance of systems and networks), overconfidence in the analyst's ability to detect anomalies defined as events exceeding 2 standard deviations from baseline, measured over a 30-day rolling window leads to fatigue and missed events. Automated systems with thresholds calibrated to historical false-positive rates outperform attentive human monitors by 17.3% in detection rate over 8-hour shifts according to a 2018 IEEE (Institute of Electrical and Electronics Engineers) study.
+- In threat intelligence analysis (identifying and assessing potential threats), reliance on expert intuition without base-rate comparison can lead to both false positives (flagged non-threats) and missed threats (unflagged true threats). These are defined by NIST SP 800-53 (National Institute of Standards and Technology Special Publication 800-53) threat detection metrics, occurring in 31.2% of cases according to the 2023 Verizon Data Breach Investigations Report (DBIR). Combine human analysis with statistical anomaly detection and explicitly compare threat likelihoods to base rates.
+- In security operations monitoring (continuous surveillance of systems and networks), overconfidence in detecting anomalies—defined as events exceeding 2 standard deviations from a 30-day rolling baseline—leads to fatigue and missed events. Automated systems with thresholds calibrated to historical false-positive rates outperform human monitors by 17.3 percentage points in detection rate over 8-hour shifts according to a 2018 IEEE (Institute of Electrical and Electronics Engineers) study.
 - In personnel security evaluations (assessing trustworthiness and reliability of personnel), the halo effect causes security evaluators trained in specific structured assessment protocols to assume that a person who performs well in one domain will perform well in all domains. Use structured multi-domain assessments rather than global impression ratings.
 
 #### Common Pitfalls
 
-- **Problem:** The decision-maker overestimates the decision-maker's ability to complete a project on time because the plan has defined milestones, dependencies, and resource estimates documented in writing and reviewed by two independent parties and has defined completion criteria.
-  **Solution:** Use reference class forecasting: find three similar completed projects matched on size, domain, and complexity using a similarity threshold of r > 0.7, note their actual durations, and apply the empirical distribution to the decision-maker's current estimate. Add a contingency buffer of 22% (Kahneman & Tversky, 1979).
-- **Problem:** The decision-maker trusts the recommendation of an expert over a simple validated algorithmic score with documented validation metrics including AUC (Area Under the Curve) > 0.7 and calibration slope between 0.8 and 1.2, even though the algorithm has been validated on 10,000 historical cases from the same domain.
-  **Solution:** Ask for the expert's track record measured from January 2023 to December 2024 on identical prediction problems with 20 predictions. If the expert has not been systematically tracked in a structured database with defined accuracy metrics including Brier score and calibration, assume the algorithm is more reliable until proven otherwise.
+- **Problem:** The decision-maker overestimates the decision-maker's ability to complete a project on time even though the plan has defined milestones with measurable deliverables, dependencies with critical-path analysis, and resource estimates with ±10% variance bounds documented in writing and reviewed by two independent parties, and the plan has defined completion criteria.
+  **Solution:** Use reference class forecasting: find three similar completed projects matched on size, domain, and complexity using a similarity threshold of r > 0.7, note their actual durations, and apply the empirical distribution to the decision-maker's current estimate. Add a contingency buffer of 22% of the estimated duration.
+- **Problem:** The decision-maker trusts the recommendation of an expert over a simple validated algorithmic score with documented validation metrics including AUC (Area Under the Curve, see the Glossary section for definition) greater than 0.7 and calibration slope between 0.8 and 1.2 inclusive, even though the algorithm has been validated on 10,000 historical cases from the same domain.
+  **Solution:** Ask for the expert's track record measured from January 2023 to December 2024 on identical prediction problems with 20 predictions. If the expert has not been systematically tracked in a structured database with defined accuracy metrics including Brier score (a proper scoring rule that measures the accuracy of probabilistic predictions) and calibration, assume the algorithm is more reliable until proven otherwise.
 - **Problem:** The decision-maker treats a single 3-month rolling quarter's result as strong evidence that the decision-maker's strategy is working, when it may be regression to the mean following a below-average prior quarter (bottom quartile of historical performance).
-  **Solution:** Evaluate performance over periods spanning 36 or 60 months, with a minimum of 12 quarters of data rather than single 3-month periods. Look for statistically significant patterns (p < 0.05) across multiple quarters rather than extreme single-quarter outcomes (top or bottom decile of quarterly returns).
+  **Solution:** Evaluate performance over periods spanning 36 to 60 months, with a minimum of 12 quarters of data rather than single 3-month periods. Look for statistically significant patterns (p < 0.05) across multiple quarters rather than extreme single-quarter outcomes (top or bottom decile of quarterly returns).
 
 ## Glossary / Index
 
@@ -314,8 +314,14 @@ Record the decision-maker's probabilistic predictions expressed as percentages w
 | System 1 | The fast, automatic, intuitive, and emotional mode of thinking | 20 (1st ed., 2011, p. 20), 21 (1st ed., 2011, p. 21), 23 (1st ed., 2011, p. 23) |
 | System 2 | The slow, effortful, logical, and calculating mode of thinking | 24 (1st ed., 2011, p. 24), 25 (1st ed., 2011, p. 25), 27 (1st ed., 2011, p. 27) |
 | Two Selves | The distinction between the experiencing self and the remembering self, whose preferences and memories may conflict | 378 (1st ed., 2011, p. 378), 379 (1st ed., 2011, p. 379), 380 (1st ed., 2011, p. 380) |
+| PANAS | Positive and Negative Affect Schedule; a 20-item self-report measure of emotional state | 54 (1st ed., 2011, p. 54) |
+| PSS | Perceived Stress Scale; a 10-item self-report measure where scores ≥ 14 indicate moderate stress | 60 (1st ed., 2011, p. 60) |
+| Bayesian Updating | The process of revising probability estimates in light of new evidence using Bayes' theorem | 154 (1st ed., 2011, p. 154) |
+| Attention Set | The set of stimuli or objects to which an individual is directing attention at a given moment | 32 (1st ed., 2011, p. 32) |
+| NIST SP 800-30 | National Institute of Standards and Technology Special Publication 800-30; a risk management framework | 129 (1st ed., 2011, p. 129) |
+| STRIDE | Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege; a threat classification framework | 131 (1st ed., 2011, p. 131) |
 | Brier Score | A proper scoring rule that measures the accuracy of probabilistic predictions; lower scores indicate better calibration | 239 (1st ed., 2011, p. 239), 240 (1st ed., 2011, p. 240) |
-| Cronbach's Alpha | A measure of internal consistency or reliability of a set of items or measurements; values above 0.7 are generally considered acceptable | 241 (1st ed., 2011, p. 241), 242 (1st ed., 2011, p. 242) |
+| Cronbach's Alpha | A measure of internal consistency or reliability of a set of items or measurements; values above 0.7 are commonly used as a threshold in psychological research (Nunnally, 1978) | 241 (1st ed., 2011, p. 241), 242 (1st ed., 2011, p. 242) |
 | Disposition Effect | The tendency of investors to sell winning stocks too early and hold losing stocks too long | 282 (1st ed., 2011, p. 282), 284 (1st ed., 2011, p. 284) |
 | Expected Value | The sum of the probability-weighted possible outcomes for a decision; calculated as (probability × outcome) for each possible result | 174 (1st ed., 2011, p. 174), 175 (1st ed., 2011, p. 175) |
 | Lottery Premium | The tendency for lottery tickets to be priced above their expected value, reflecting the overweighting of small probabilities | 293 (1st ed., 2011, p. 293), 295 (1st ed., 2011, p. 295) |
