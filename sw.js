@@ -1,4 +1,4 @@
-const CACHE_NAME = 'books-v1';
+const CACHE_NAME = 'books-v2';
 const META_CACHE = 'books-meta';
 const APP_SHELL = [
   '/',
