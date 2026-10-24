@@ -26,6 +26,32 @@ let searchBody = false;
 let currentQuote = '';
 let selectedRecentPath = '';
 
+// Lesson Practice State Tracker state variables
+let showSermonContent = false;
+let sortLessonsByStateOrder = 0; // 0=Original, 1=Reversed State Order, 2=State Order
+let currentLessons = [];
+let currentLessonsScope = 'church';
+
+const LESSON_STATE_LABELS = [
+    'Not Set',
+    'Already Practice',
+    'Learning To Practice',
+    'Can See Self Practicing',
+    'Cannot See Self Practicing',
+    'Have Trouble Understanding'
+];
+
+const LESSON_STATE_COLORS = {
+    0: '',
+    1: '#15803d',
+    2: '#0f766e',
+    3: '#1d4ed8',
+    4: '#991b1b',
+    5: '#b91c1c'
+};
+
+const LESSON_STATES_STORE = 'lesson-states';
+
 const isOnline = () => navigator.onLine;
 
 const debounce = (fn, ms) => {
@@ -72,11 +98,14 @@ const elements = {
 
 const openCacheDb = () => {
     return new Promise((resolve, reject) => {
-        const request = indexedDB.open('books-cache', 1);
+        const request = indexedDB.open('books-cache', 2);
         request.onupgradeneeded = (event) => {
             const database = event.target.result;
             if (!database.objectStoreNames.contains('cache')) {
                 database.createObjectStore('cache', { keyPath: 'key' });
+            }
+            if (!database.objectStoreNames.contains(LESSON_STATES_STORE)) {
+                database.createObjectStore(LESSON_STATES_STORE, { keyPath: 'id' });
             }
         };
         request.onsuccess = (event) => resolve(event.target.result);
@@ -117,6 +146,39 @@ const setCachedItem = async (key, value) => {
         const transaction = db.transaction(['cache'], 'readwrite');
         const store = transaction.objectStore('cache');
         const request = store.put({ key, value, timestamp: Date.now() });
+        request.onsuccess = () => resolve();
+        request.onerror = () => reject(request.error);
+    });
+};
+
+const buildLessonStateId = (path, step) => `${path}::${step}`;
+
+const getLessonStates = async (path) => {
+    if (!db) return {};
+    return new Promise((resolve, reject) => {
+        const transaction = db.transaction([LESSON_STATES_STORE], 'readonly');
+        const store = transaction.objectStore(LESSON_STATES_STORE);
+        const request = store.getAll();
+        request.onsuccess = () => {
+            const states = {};
+            for (const record of request.result) {
+                if (record.path === path) {
+                    states[record.step] = record.state;
+                }
+            }
+            resolve(states);
+        };
+        request.onerror = () => reject(request.error);
+    });
+};
+
+const setLessonState = async (path, step, state) => {
+    if (!db) return;
+    const id = buildLessonStateId(path, step);
+    return new Promise((resolve, reject) => {
+        const transaction = db.transaction([LESSON_STATES_STORE], 'readwrite');
+        const store = transaction.objectStore(LESSON_STATES_STORE);
+        const request = store.put({ id, path, step, state, updatedAt: Date.now() });
         request.onsuccess = () => resolve();
         request.onerror = () => reject(request.error);
     });
@@ -496,7 +558,7 @@ const renderFolders = (folders, path) => {
 
     const showTeachings = query.trim().length > 0;
 
-    return `
+return `
         <div class="mb-8">
             <div class="flex justify-between items-center mb-4 border-b border-[#c5a059]/30 pb-2">
                 <div class="flex items-center gap-2">
@@ -504,9 +566,15 @@ const renderFolders = (folders, path) => {
                         ${getFilterIcon()}
                         <span class="filter-btn-text">Filter Sources</span>
                     </button>
-                      <h2 class="font-['Cinzel'] text-xl">Select Book</h2>
+                    <h2 class="font-['Cinzel'] text-xl">Select Book</h2>
                 </div>
                 <button id="check-new-source-btn" class="check-new-btn">Check For New Source</button>
+            </div>
+            <div class="flex items-center gap-2">
+                <button id="show-lessons-source-btn" class="show-lessons-btn" title="Show Lessons for All Sources">
+                    Show Lessons
+                </button>
+                <button id="check-new-source-btn" class="check-new-btn">Check For New Sources</button>
             </div>
             ${renderSearchInput('Search all teachings...', 'root-teaching-search')}
             <div id="sources-list-container" class="sources-list flex flex-col gap-2 ${showTeachings ? 'hidden' : ''}">
@@ -549,6 +617,12 @@ const renderFiles = (files, path) => {
                 <h2 class="font-['Cinzel'] text-xl">Select Teaching</h2>
                 <button id="check-new-teachings-btn" class="check-new-btn">Check For New Teachings</button>
             </div>
+            <div class="flex items-center gap-2">
+                <button id="show-lessons-content-btn" class="show-lessons-btn" title="Show Lessons for Current Content">
+                    Show Lessons
+                </button>
+                <button id="check-new-teachings-btn" class="check-new-btn">Check For New Teachings</button>
+            </div>
             ${renderSearchInput('Search teachings...', 'teaching-search')}
             <div id="teaching-list-container" class="sources-list flex flex-col gap-2">
                 ${fileHtml}
@@ -559,16 +633,121 @@ const renderFiles = (files, path) => {
 
 const renderMarkdown = (content) => {
     let html = marked.parse(content, { breaks: true, gfm: true });
-    html = html.replace(/<a\\s+([^>]*?)>/gi, (match, attrs) => {
-        if (/\\btarget=/.test(attrs)) return match;
+    html = html.replace(/<a\s+([^>]*?)>/gi, (match, attrs) => {
+        if (/\btarget=/.test(attrs)) return match;
         return `<a ${attrs} target="_blank" rel="noopener noreferrer">`;
     });
     const linkedHtml = linkifyBiblicalReferences(html);
+
+    // Extract H1 from rendered markdown HTML
+    const h1Match = linkedHtml.match(/<h1>([^<]+)<\/h1>/i);
+    const h1Html = h1Match ? `<h1>${h1Match[1]}</h1>` : '';
+    const bodyHtml = linkedHtml.replace(/^<h1>[^<]+<\/h1>/, '');
+
+    return { h1Html, bodyHtml };
+};
+
+/**
+ * Parse the raw markdown content to extract lesson name and steps.
+ * Returns { name: string, steps: [{ number: number, title: string }] }
+ */
+const parseLessonStructure = (content) => {
+    const nameMatch = content.match(/^#\s+(.+)$/m);
+    const lessonName = nameMatch ? nameMatch[1].trim() : 'Untitled Lesson';
+
+    const steps = [];
+    const stepMatches = content.matchAll(/^#{2,4}\s+Step\s+(\d+):\s+(.+)$/gim);
+    for (const match of stepMatches) {
+        steps.push({
+            number: parseInt(match[1], 10),
+            title: match[2].trim()
+        });
+    }
+
+    return { name: lessonName, steps };
+};
+
+/**
+ * Render the sticky lesson tracker component.
+ * Returns HTML string for .lesson-tracker container.
+ */
+const renderLessonTracker = (path, lesson, h1Content = '') => {
+    const panelClass = lesson.steps.length > 0 ? '' : ' hidden';
+    const stepsHtml = lesson.steps.map(step => `
+        <div class="lesson-step-item">
+            <button class="lesson-step-btn" type="button" data-path="${path}" data-step="${step.number}" data-state="0">
+                ${escapeHtml(step.title)}
+            </button>
+        </div>
+    `).join('');
+
     return `
-        <div class="markdown-body fade-in">
-            ${linkedHtml}
+        <div class="lesson-tracker" data-path="${escapeHtml(path)}">
+            <button class="lesson-tracker-toggle" type="button" data-path="${escapeHtml(path)}">Show Steps</button>
+            <div class="lesson-tracker-panel${panelClass}">
+                <button class="lesson-name-btn" type="button" data-path="${escapeHtml(path)}" data-state="0">
+                    ${escapeHtml(lesson.name)}
+                </button>
+                <ol class="lesson-step-list">
+                    ${stepsHtml}
+                </ol>
+            </div>
         </div>
     `;
+};
+
+/**
+ * Load saved lesson states from IndexedDB and update button elements.
+ */
+const applyLessonStates = async (path) => {
+    const states = await getLessonStates(path);
+    const buttons = document.querySelectorAll(`.lesson-step-btn[data-path="${escapeHtml(path)}"]`);
+    for (const btn of buttons) {
+        const stepNum = parseInt(btn.dataset.step, 10);
+        const savedState = states[stepNum] !== undefined ? states[stepNum] : 0;
+        btn.setAttribute('data-state', savedState);
+    }
+
+    const nameBtn = document.querySelector(`.lesson-name-btn[data-path="${escapeHtml(path)}"]`);
+    if (nameBtn) {
+        await updateLessonNameState(path);
+    }
+};
+
+/**
+ * Auto-color the lesson name button based on the most common step state
+ * when >50% of steps have non-zero states set.
+ */
+const updateLessonNameState = async (path) => {
+    const buttons = document.querySelectorAll(`.lesson-step-btn[data-path="${escapeHtml(path)}"]`);
+    if (buttons.length === 0) return;
+
+    let nonZeroCount = 0;
+    const stateCounts = {};
+    for (const btn of buttons) {
+        const state = parseInt(btn.getAttribute('data-state') || '0', 10);
+        if (state !== 0) {
+            nonZeroCount++;
+            stateCounts[state] = (stateCounts[state] || 0) + 1;
+        }
+    }
+
+    const nameBtn = document.querySelector(`.lesson-name-btn[data-path="${escapeHtml(path)}"]`);
+    if (!nameBtn) return;
+
+    if (nonZeroCount > buttons.length / 2) {
+        let dominantState = 0;
+        let dominantCount = 0;
+        for (const [state, count] of Object.entries(stateCounts)) {
+            if (count > dominantCount) {
+                dominantCount = count;
+                dominantState = parseInt(state, 10);
+            }
+        }
+        nameBtn.setAttribute('data-state', dominantState);
+    } else {
+        nameBtn.setAttribute('data-state', '0');
+    }
 };
 
 const renderEmptyState = (message) => {
@@ -825,7 +1004,18 @@ const loadMarkdownFile = async (path) => {
     try {
         const content = await fetchFileContent(path);
         hideLoading();
-        elements.mainContent.innerHTML = renderMarkdown(content);
+
+        const lesson = parseLessonStructure(content);
+        const { h1Html, bodyHtml } = renderMarkdown(content);
+        const trackerHtml = renderLessonTracker(path, lesson, h1Html);
+
+        elements.mainContent.innerHTML = trackerHtml + `
+            <div class="markdown-body fade-in">
+                ${h1Html}${bodyHtml}
+            </div>
+        `;
+
+        await applyLessonStates(path);
         hideQuote();
     } catch (error) {
         hideLoading();
@@ -1267,6 +1457,287 @@ const updateOrderFromList = (container) => {
     savePinnedOrder(paths);
 };
 
+const collectLessonsFromSermons = async (sermons) => {
+    const lessons = [];
+    for (const sermon of sermons) {
+        try {
+            const content = await fetchFileContent(sermon.path);
+            const lesson = parseLessonStructure(content);
+            const states = await getLessonStates(sermon.path);
+            if (lesson.steps && lesson.steps.length > 0) {
+                for (const step of lesson.steps) {
+                    const savedState = states[step.number] !== undefined ? states[step.number] : 0;
+                    lessons.push({
+                        lessonPath: sermon.path,
+                        lessonName: lesson.name,
+                        stepNumber: step.number,
+                        stepTitle: step.title,
+                        state: savedState,
+                        sermonPath: sermon.path,
+                        sourcePath: sermon.source
+                    });
+                }
+            } else {
+                lessons.push({
+                    lessonPath: sermon.path,
+                    lessonName: lesson.name,
+                    stepNumber: 0,
+                    stepTitle: '(No steps parsed - check markdown format)',
+                    state: 0,
+                    sermonPath: sermon.path,
+                    sourcePath: sermon.source
+                });
+            }
+        } catch (e) {
+            console.error(`Failed to load lesson from ${sermon.path}:`, e);
+        }
+    }
+    return lessons;
+};
+
+const buildGroupsHtml = (lessons) => {
+    const groups = [];
+    let currentGroup = null;
+    let currentGroupSteps = [];
+
+    for (const lesson of lessons) {
+        if (currentGroup && currentGroup.lessonPath === lesson.lessonPath && !currentGroup.isNew) {
+            currentGroupSteps.push(lesson);
+        } else {
+            if (currentGroup) {
+                currentGroup.steps = currentGroupSteps;
+                groups.push(currentGroup);
+            }
+            currentGroup = {
+                lessonPath: lesson.lessonPath,
+                lessonName: lesson.lessonName,
+                isNew: lesson.sourcePath ? lesson.sourcePath !== (currentLessonsScope === 'church' ? '' : currentPath.split('/')[0] || '') : true,
+                steps: [lesson]
+            };
+            currentGroupSteps = [lesson];
+        }
+    }
+
+    if (currentGroup) {
+        currentGroup.steps = currentGroupSteps;
+        groups.push(currentGroup);
+    }
+
+    const sortOrder = {
+        0: (a, b) => {
+            if (a.isNew !== b.isNew) return b.isNew ? -1 : 1;
+            return a.lessonName.localeCompare(b.lessonName);
+        },
+        1: (a, b) => {
+            const stateA = a.steps.reduce((sum, s) => sum + parseInt(s.state, 10), 0) / (a.steps.length || 1);
+            const stateB = b.steps.reduce((sum, s) => sum + parseInt(s.state, 10), 0) / (b.steps.length || 1);
+            if (stateB !== stateA) return stateB - stateA;
+            return a.lessonName.localeCompare(b.lessonName);
+        },
+        2: (a, b) => {
+            const stateA = a.steps.reduce((sum, s) => sum + parseInt(s.state, 10), 0) / (a.steps.length || 1);
+            const stateB = b.steps.reduce((sum, s) => sum + parseInt(s.state, 10), 0) / (b.steps.length || 1);
+            if (stateA !== stateB) return stateA - stateB;
+            return a.lessonName.localeCompare(b.lessonName);
+        }
+    };
+
+    groups.sort(sortOrder[sortLessonsByStateOrder] || sortOrder[0]);
+
+    const dominantStateForGroup = (groupSteps) => {
+        if (groupSteps.length === 0) return 0;
+        const stateCounts = {};
+        for (const step of groupSteps) {
+            const state = parseInt(step.state, 10);
+            if (state !== 0) {
+                stateCounts[state] = (stateCounts[state] || 0) + 1;
+            }
+        }
+
+        let dominant = 0;
+        let count = 0;
+        for (const [state, c] of Object.entries(stateCounts)) {
+            if (c > count) {
+                count = c;
+                dominant = parseInt(state, 10);
+            }
+        }
+        return dominant;
+    };
+
+    return groups.map(group => {
+        const dominantState = dominantStateForGroup(group.steps);
+        group.dominantState = dominantState;
+        const groupLabel = group.dominantState === 0 ? 'Not Set' : (LESSON_STATE_LABELS[group.dominantState - 1] || 'Not Set');
+        const stepHtml = group.steps.map(step => {
+            const label = step.state === 0 ? 'Not Set' : (LESSON_STATE_LABELS[step.state - 1] || 'Not Set');
+            return `
+                <div class="lesson-step-indent" data-lesson-path="${escapeHtml(step.lessonPath)}" data-step="${step.stepNumber}" data-state="${step.state}">
+                    <div class="lesson-item-step">
+                        <span>Step ${step.stepNumber}: ${escapeHtml(step.stepTitle)}</span>
+                        <span class="lesson-item-state-badge">${label}</span>
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        return `
+            <div class="lesson-group" data-state="${group.dominantState}">
+                <div class="lesson-item-header lesson-group-header" data-state="${group.dominantState}">
+                    <span class="lesson-item-name">${escapeHtml(group.lessonName)}</span>
+                    <span class="lesson-item-progress lesson-group-state-badge" data-state="${group.dominantState}">${groupLabel}</span>
+                </div>
+                <div class="lesson-step-list-indented">
+                    ${stepHtml}
+                </div>
+            </div>
+        `;
+    }).join('');
+};
+
+const renderLessonsView = (lessons, scope, header) => {
+    const h = header || 'Lessons';
+    const groups = [];
+    let currentGroup = null;
+    let currentGroupSteps = [];
+
+    for (const lesson of lessons) {
+        if (currentGroup && currentGroup.lessonPath === lesson.lessonPath && !currentGroup.isNew) {
+            currentGroupSteps.push(lesson);
+        } else {
+            if (currentGroup) {
+                currentGroup.steps = currentGroupSteps;
+                groups.push(currentGroup);
+            }
+            currentGroup = {
+                lessonPath: lesson.lessonPath,
+                lessonName: lesson.lessonName,
+                isNew: lesson.sourcePath ? lesson.sourcePath !== (scope === 'church' ? '' : currentPath.split('/')[0] || '') : true,
+                steps: [lesson]
+            };
+            currentGroupSteps = [lesson];
+        }
+    }
+
+    if (currentGroup) {
+        currentGroup.steps = currentGroupSteps;
+        groups.push(currentGroup);
+    }
+
+    const groupsHtml = groups.map(group => {
+        const dominantStateForGroup = (groupSteps) => {
+            if (groupSteps.length === 0) return 0;
+            const stateCounts = {};
+            for (const step of groupSteps) {
+                const state = parseInt(step.state, 10);
+                if (state !== 0) {
+                    stateCounts[state] = (stateCounts[state] || 0) + 1;
+                }
+            }
+
+            let dominant = 0;
+            let count = 0;
+            for (const [state, c] of Object.entries(stateCounts)) {
+                if (c > count) {
+                    count = c;
+                    dominant = parseInt(state, 10);
+                }
+            }
+            return dominant;
+        };
+
+        const dominantState = dominantStateForGroup(group.steps);
+        group.dominantState = dominantState;
+        const groupLabel = group.dominantState === 0 ? 'Not Set' : (LESSON_STATE_LABELS[group.dominantState - 1] || 'Not Set');
+        const stepHtml = group.steps.map(step => {
+            const label = step.state === 0 ? 'Not Set' : (LESSON_STATE_LABELS[step.state - 1] || 'Not Set');
+            return `
+                <div class="lesson-step-indent" data-lesson-path="${escapeHtml(step.lessonPath)}" data-step="${step.stepNumber}" data-state="${step.state}">
+                    <div class="lesson-item-step">
+                        <span>Step ${step.stepNumber}: ${escapeHtml(step.stepTitle)}</span>
+                        <span class="lesson-item-state-badge">${label}</span>
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        return `
+            <div class="lesson-group" data-state="${group.dominantState}">
+                <div class="lesson-item-header lesson-group-header" data-state="${group.dominantState}">
+                    <span class="lesson-item-name">${escapeHtml(group.lessonName)}</span>
+                    <span class="lesson-item-progress lesson-group-state-badge" data-state="${group.dominantState}">${groupLabel}</span>
+                </div>
+                <div class="lesson-step-list-indented">
+                    ${stepHtml}
+                </div>
+            </div>
+        `;
+    }).join('');
+
+    elements.mainContent.innerHTML = `
+        <div class="mb-8">
+            <div class="flex justify-between items-center mb-4 border-b border-[#c5a059]/30 pb-2">
+                <div class="flex items-center gap-2">
+                    <button id="back-to-sources-btn" class="back-btn text-[#c5a059] hover:text-[#c5a059]/80 font-['Cinzel'] text-sm underline">
+                        ← Back
+                    </button>
+                    <h2 class="font-['Cinzel'] text-xl text-[#7e2217] mb-4">${h}</h2>
+                </div>
+                <div class="flex items-center gap-2">
+                    <button id="toggle-sort-lessons-btn" class="sort-lessons-btn" title="Sort by State Order">
+                        ${sortLessonsByStateOrder === 0 ? 'Sort: Original' : sortLessonsByStateOrder === 1 ? 'Sort: Reversed State Order' : 'Sort: State Order'}
+                    </button>
+                </div>
+            </div>
+            ${renderSearchInput('Search lessons...', 'lesson-search')}
+            <div id="lesson-list-container" class="lesson-list flex flex-col gap-2">
+                ${groupsHtml || '<p class="text-[#7e2217] italic">No lessons found.</p>'}
+            </div>
+        </div>
+    `;
+    hideLoading();
+    hideFilterHint();
+
+    const backBtn = document.getElementById('back-to-sources-btn');
+    if (backBtn) {
+        backBtn.addEventListener('click', () => {
+            showSermonContent = true;
+            if (scope === 'church') {
+                loadRootDirectories();
+            } else {
+                const parentPath = currentPath.split('/').slice(0, -1).join('/');
+                if (parentPath) {
+                    loadTeachings(parentPath);
+                } else {
+                    loadRootDirectories();
+                }
+            }
+        });
+    }
+
+    const sortBtn = document.getElementById('toggle-sort-lessons-btn');
+    if (sortBtn) {
+        sortBtn.addEventListener('click', () => {
+            sortLessonsByStateOrder = (sortLessonsByStateOrder + 1) % 3;
+            const labels = ['Sort: Original', 'Sort: Reversed State Order', 'Sort: State Order'];
+            sortBtn.textContent = labels[sortLessonsByStateOrder];
+            renderLessonsView(currentLessons, scope);
+        });
+    }
+
+    const lessonSearch = document.getElementById('lesson-search');
+    if (lessonSearch) {
+        const filtered = currentLessons.filter(lesson => {
+            const matchesName = lesson.lessonName.toLowerCase().includes(lessonSearch.value.toLowerCase());
+            const matchesStep = lesson.stepTitle ? lesson.stepTitle.toLowerCase().includes(lessonSearch.value.toLowerCase()) : false;
+            return matchesName || matchesStep;
+        });
+
+        const groupsHtml = buildGroupsHtml(filtered);
+        elements.mainContent.querySelector('#lesson-list-container').innerHTML = groupsHtml || '<p class="text-[#7e2217] italic">No lessons found.</p>';
+    }
+};
+
 const createDevPanel = () => {
     const main = document.querySelector('main');
     if (!main) return null;
@@ -1548,6 +2019,77 @@ const init = async () => {
             return;
         }
 
+        const trackerToggle = e.target.closest('.lesson-tracker-toggle');
+        if (trackerToggle) {
+            e.stopPropagation();
+            const panel = trackerToggle.nextElementSibling;
+            if (panel) {
+                panel.classList.toggle('hidden');
+                trackerToggle.textContent = panel.classList.contains('hidden') ? 'Show Steps' : 'Hide Steps';
+            }
+            return;
+        }
+
+        const stepBtn = e.target.closest('.lesson-step-btn');
+        if (stepBtn) {
+            e.stopPropagation();
+            const path = stepBtn.dataset.path;
+            const step = parseInt(stepBtn.dataset.step, 10);
+            let currentState = parseInt(stepBtn.getAttribute('data-state') || '0', 10);
+            const nextState = (currentState + 1) % (LESSON_STATE_LABELS.length);
+            stepBtn.setAttribute('data-state', nextState);
+            setLessonState(path, step, nextState);
+            updateLessonNameState(path);
+            return;
+        }
+
+        const lessonItemStep = e.target.closest('.lesson-item-step');
+        if (lessonItemStep) {
+            e.stopPropagation();
+            const path = lessonItemStep.dataset.path;
+            const step = parseInt(lessonItemStep.dataset.step, 10);
+            const stepDiv = lessonItemStep.closest('.lesson-step-indent');
+            if (stepDiv) {
+                let currentState = parseInt(stepDiv.getAttribute('data-state') || '0', 10);
+                const nextState = (currentState + 1) % (LESSON_STATE_LABELS.length);
+                stepDiv.setAttribute('data-state', nextState);
+                const badge = stepDiv.querySelector('.lesson-item-state-badge');
+                if (badge) {
+                    badge.setAttribute('data-state', nextState);
+                    badge.style.backgroundColor = LESSON_STATE_COLORS[nextState] || 'var(--heading)';
+                }
+                stepDiv.style.borderLeftColor = LESSON_STATE_COLORS[nextState] || 'var(--heading)';
+                setLessonState(path, step, nextState);
+            }
+            return;
+        }
+
+        const showLessonsSourceBtn = e.target.closest('#show-lessons-source-btn');
+        if (showLessonsSourceBtn) {
+            e.stopPropagation();
+            showSermonContent = false;
+            currentLessonsScope = 'church';
+            const allTeachings = currentFiles;
+            collectLessonsFromSermons(allTeachings).then(lessons => {
+                currentLessons = lessons;
+                renderLessonsView(lessons, 'church');
+            });
+            return;
+        }
+
+        const showLessonsContentBtn = e.target.closest('#show-lessons-content-btn');
+        if (showLessonsContentBtn) {
+            e.stopPropagation();
+            showSermonContent = false;
+            currentLessonsScope = 'sermon';
+            const allTeachings = currentFiles;
+            collectLessonsFromSermons(allTeachings).then(lessons => {
+                currentLessons = lessons;
+                renderLessonsView(lessons, 'sermon');
+            });
+            return;
+        }
+
         const checkBtn = e.target.closest('#check-new-source-btn, #check-new-teachings-btn');
         if (checkBtn) {
             e.stopPropagation();
@@ -1592,6 +2134,19 @@ const init = async () => {
             await runSearch('root-teaching-search', rootTeachingSearch || '');
         } else if (e.target.id === 'teaching-search') {
             await runSearch('teaching-search', e.target.value);
+        } else if (e.target.id === 'lesson-search') {
+            const lessons = currentLessons || [];
+            const query = e.target.value || '';
+            const filtered = lessons.filter(lesson => {
+                const matchesName = lesson.lessonName.toLowerCase().includes(query.toLowerCase());
+                const matchesStep = lesson.stepTitle ? lesson.stepTitle.toLowerCase().includes(query.toLowerCase()) : false;
+                return matchesName || matchesStep;
+            });
+            const groupsHtml = buildGroupsHtml(filtered);
+            const container = document.querySelector('#lesson-list-container');
+            if (container) {
+                container.innerHTML = groupsHtml || '<p class="text-[#7e2217] italic">No lessons found.</p>';
+            }
         }
     }, 300));
 
